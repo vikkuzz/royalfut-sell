@@ -1,0 +1,26 @@
+.rating {
+    display: flex;
+    gap: 2px;
+  }
+  
+  .star {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    background-color: #fff;
+    border: 1px solid #000; /* Обводка для звезды */
+    border-radius: 4px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .filled {
+    background-color: rgba(33,150,83,1); /* Заполненная звезда */
+  }
+  
+  .partial {
+    background: linear-gradient(90deg, rgba(33,150,83,1) 60%, rgba(82,84,101,1) 60%); /* Заполнение последней звезды */
+  }
+  .not_filled{
+    background: rgba(82,84,101,1);
+  }

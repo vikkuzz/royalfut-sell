@@ -1,0 +1,9 @@
+.gradientPhoneFrame {
+  background: rgb(251, 158, 225);
+  background: radial-gradient(
+    circle,
+    rgba(251, 158, 225, 1) 7%,
+    rgba(125, 46, 172, 1) 66%,
+    rgba(18, 20, 42, 1) 92%
+  );
+}

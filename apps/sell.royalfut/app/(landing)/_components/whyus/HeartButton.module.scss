@@ -1,0 +1,28 @@
+.like {
+  --ratio-hearth: 1;
+  --ratio-hearth-scale: 1;
+  --ratio-scale: 1;
+  --ratio-rotate: 1;
+}
+
+.plusOne {
+  --ratio-offset-y: 0;
+  --ratio-offset-x: 0;
+  --ratio-scale: 1;
+  --half: -50%;
+  --opacity: 1;
+  --x: calc(var(--ratio-offset-x) * var(--half));
+  --y: calc(var(--ratio-offset-y) * var(--half));
+  /* NOTE: CSS transitions don't directly support transitioning CSS variables within keyframes */
+  --transform-translate: translate(var(--x), var(--y));
+  --transform-rotate: rotate(calc(-20deg * var(--ratio-offset-x)));
+  --transform-scale: scale(var(--ratio-scale));
+
+  opacity: var(--opacity);
+  transform: var(--transform-translate) var(--transform-rotate)
+    var(--transform-scale);
+
+  // & svg {
+  //     transition: color 1s ease-in-out;
+  // }
+}

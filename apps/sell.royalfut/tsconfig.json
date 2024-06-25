@@ -1,0 +1,34 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "jsx": "preserve",
+    "allowJs": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "incremental": true,
+    "lib": ["DOM", "ES6"],
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "types": ["jest", "node"]
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.js",
+    "**/*.jsx",
+    "../../apps/sell.royalfut/.next/types/**/*.ts",
+    "../../dist/apps/sell.royalfut/.next/types/**/*.ts",
+    "next-env.d.ts",
+    ".next/types/**/*.ts",
+    "jest.config.ts"
+  ],
+  "exclude": ["node_modules", "**/*.spec.ts", "**/*.test.ts"]
+}
