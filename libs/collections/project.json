@@ -1,0 +1,19 @@
+{
+  "name": "collections",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/collections/src",
+  "projectType": "library",
+  "targets": {
+    "build": {
+      "executor": "@nx/js:tsc",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/libs/collections",
+        "main": "libs/collections/src/index.ts",
+        "tsConfig": "libs/collections/tsconfig.lib.json",
+        "assets": ["libs/collections/*.md"]
+      }
+    }
+  },
+  "tags": []
+}

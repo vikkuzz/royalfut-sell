@@ -1,0 +1,37 @@
+.characterSelected {
+    position: relative;
+    background-color: transparent;
+}
+
+/* optionally hide placeholder (in case it overlaps the cursor) */
+.characterSelected:not(.characterFilled) {
+    color: transparent;
+}
+
+.characterSelected::before {
+    content: "";
+    width: 1px;
+    height: 50%;
+    background-color: hsl(var(--color-primary));
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    animation: blink 1s infinite step-end;
+}
+
+.characterSelected:not(.characterFilled)::before {
+    left: 50%;
+}
+
+@keyframes blink {
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0;
+    }
+}

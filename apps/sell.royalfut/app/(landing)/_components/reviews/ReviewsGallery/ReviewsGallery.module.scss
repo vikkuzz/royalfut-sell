@@ -1,0 +1,47 @@
+.rating_wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+
+    @media (min-width:1025px) {
+        gap: 8px;
+    }
+}
+.divider{
+    height: 15px;
+    width: 1px;
+    background-color: rgba(255,255,255,0.4);
+    margin: 0 12px;
+}
+.span_widget{
+    display: flex;
+    white-space: nowrap;
+    width: auto;
+    font-size: 12px;
+    font-weight: 700;
+    gap: 4px;
+    align-items: center;
+}
+.color_gray{
+    color: rgba(255,255,255,0.4);
+}
+.wrapper_data_reviews{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    row-gap: 8px;
+    padding-bottom: 24px;
+
+    @media (min-width:1025px) {
+        justify-content: flex-end;
+        flex-wrap: nowrap;
+    }
+}
+.link{
+    color: white;
+    text-decoration-line: underline;
+}
+.icon_wrapper{
+    width: 16px;
+    height: 16px;
+}

@@ -1,0 +1,31 @@
+.line::after {
+    content: "";
+    position: absolute;
+    right: 0%;
+    top: 0;
+    height: 1px;
+}
+
+.line::before {
+    content: "";
+    position: absolute;
+    left: 0%;
+    top: 0;
+    height: 1px;
+}
+
+.lineOr::after {
+    width: 45%;
+}
+
+.lineOr::before {
+    width: 45%;
+}
+
+.lineMenu::after {
+    width: 35%;
+}
+
+.lineMenu::before {
+    width: 35%;
+}
