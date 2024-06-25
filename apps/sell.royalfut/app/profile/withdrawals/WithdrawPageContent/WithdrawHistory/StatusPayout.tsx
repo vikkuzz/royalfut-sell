@@ -11,7 +11,7 @@ interface IStatus {
     icon: boolean;
 }
 
-const StatusPayout = ({ item }: IOrder) => {
+const StatusPayout = ({ item }: {item:any}) => {
     const mapStatus = {
         closed: {
             color: "#15BC26",

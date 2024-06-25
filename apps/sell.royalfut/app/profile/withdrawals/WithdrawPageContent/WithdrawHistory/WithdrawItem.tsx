@@ -6,7 +6,7 @@ import React from "react";
 import OrderDate from "../../../_components/OrderList/OrderItem/OrderDate";
 import StatusPayout from "./StatusPayout";
 
-const WithdrawItem = ({ item }: { item: IOrder }) => {
+const WithdrawItem = ({ item }: { item: any }) => {
     return (
         <div className="flex w-full p-4 bg-white/[.05] rounded-xl items-center justify-between">
             <div className="flex gap-2 items-center">
@@ -18,7 +18,7 @@ const WithdrawItem = ({ item }: { item: IOrder }) => {
                     <Image alt="arrow" fill src={"/image/arrow-right.svg"} />
                 </div>
                 <span>
-                    +{ccyCollection[item.currency.toLowerCase()].symbol}
+                    +{ccyCollection['usd'].symbol}
                     {Number(item.overallPrice).toFixed(2)}{" "}
                 </span>
             </div>
