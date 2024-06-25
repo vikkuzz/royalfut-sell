@@ -52,13 +52,13 @@ const mapStatus: IMapStatus = {
     },
     started: {
         label: "Order started",
-        image: "anime",
+        image: "/image/status/info.svg",
         theme: "blue",
         description: "",
     },
     undefined: {
         label: "Status is not mapped",
-        image: "anime",
+        image: "/image/status/info.svg",
         theme: "blue",
         description: "",
     },
@@ -67,14 +67,14 @@ const mapStatus: IMapStatus = {
         image: "/image/status/info.svg",
         theme: "white",
         description: "",
-    }
+    },
 };
 
 const StatusOrder = ({ status }: { status: string }) => {
-    let correctStatus = status.toLowerCase();
-    if (!mapStatus.hasOwnProperty(`${correctStatus}`)) {
-        correctStatus = "undefined"
-    }
+    const correctStatus = status.toLowerCase();
+    // if (!mapStatus.hasOwnProperty(`${correctStatus}`)) {
+    //     correctStatus = "undefined";
+    // }
 
     return (
         <div

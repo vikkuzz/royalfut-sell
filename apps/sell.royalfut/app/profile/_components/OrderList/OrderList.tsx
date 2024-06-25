@@ -2,14 +2,17 @@ import React from "react";
 
 import styles from "./OrderList.module.scss";
 import OrderItem from "./OrderItem/OrderItem";
-import ordersData from "../../ordersData";
+// import ordersData from "../../ordersData";
 import { getOrders } from "@royalfut/actions";
 import { IOrder } from "@royalfut/interfaces";
 
 async function OrderList() {
     const orders = await getOrders();
-    console.log(orders,
-        orders.orders?.filter((el: { status: string }) => el.status !== "CREATED")
+    console.log(
+        orders,
+        orders.orders?.filter(
+            (el: { status: string }) => el.status !== "CREATED"
+        )
     );
 
     return (

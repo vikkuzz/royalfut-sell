@@ -1,6 +1,6 @@
 import { ccyCollection } from "@royalfut/collections";
 import { UTCoinMonocolorIcon } from "@royalfut/icons";
-import { IOrder } from "@royalfut/interfaces";
+// import { IOrder } from "@royalfut/interfaces";
 import Image from "next/image";
 import React from "react";
 import OrderDate from "../../../_components/OrderList/OrderItem/OrderDate";
@@ -18,7 +18,7 @@ const WithdrawItem = ({ item }: { item: any }) => {
                     <Image alt="arrow" fill src={"/image/arrow-right.svg"} />
                 </div>
                 <span>
-                    +{ccyCollection['usd'].symbol}
+                    +{ccyCollection["usd"].symbol}
                     {Number(item.overallPrice).toFixed(2)}{" "}
                 </span>
             </div>

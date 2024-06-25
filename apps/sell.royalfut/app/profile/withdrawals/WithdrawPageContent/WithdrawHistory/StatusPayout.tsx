@@ -1,6 +1,6 @@
 "use client";
 import { CheckVIcon } from "@royalfut/icons";
-import { IOrder } from "@royalfut/interfaces";
+// import { IOrder } from "@royalfut/interfaces";
 import { cn } from "@royalfut/utils";
 import React, { useEffect, useState } from "react";
 
@@ -11,7 +11,7 @@ interface IStatus {
     icon: boolean;
 }
 
-const StatusPayout = ({ item }: {item:any}) => {
+const StatusPayout = ({ item }: { item: any }) => {
     const mapStatus = {
         closed: {
             color: "#15BC26",

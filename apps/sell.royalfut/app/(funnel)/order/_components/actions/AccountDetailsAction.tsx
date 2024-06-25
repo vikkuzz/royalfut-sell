@@ -63,11 +63,25 @@ const AccountDetailsAction = () => {
     //     [setCompleted]
     // );
     const req = async () => {
-        const modOrder = await updateOrder(order?.id, await token, platform, coinsAmount, currency, mail, password, backupCodes[0].code)
+        const modOrder = await updateOrder(
+            order?.id,
+            await token,
+            platform,
+            coinsAmount,
+            currency,
+            mail,
+            password,
+            backupCodes[0].code
+        );
         if (modOrder) {
-            await startSell(modOrder.id,await token,modOrder.mail, modOrder.password, modOrder?.backupCode1)
+            await startSell(
+                modOrder.id,
+                await token,
+                modOrder.mail,
+                modOrder.password,
+                modOrder?.backupCode1
+            );
         }
-        
 
         setReqt(true);
         router.push(
@@ -123,7 +137,7 @@ const AccountDetailsAction = () => {
                         ? false
                         : true,
                 id: OrderStepIds.AWAITING_FOR_DELIVERY,
-                label: isLoggedIn ?"Awaiting for delivery" : "Log In",
+                label: isLoggedIn ? "Awaiting for delivery" : "Log In",
                 onAction: isLoggedIn ? req : loginAction,
             }}
         />

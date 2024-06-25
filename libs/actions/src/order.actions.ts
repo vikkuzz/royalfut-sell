@@ -1,4 +1,6 @@
+/* eslint-disable max-lines */
 // "use server";
+
 
 import { getToken } from "./auth.actions";
 import type { IAPIORDER, IOrder } from "@royalfut/interfaces";
@@ -128,7 +130,12 @@ export async function updateOrder(
     if (!token) {
         token = await getToken();
     }
-    
+    if (!id) {
+        const newOrder = await createOrder(token);
+        if (newOrder && newOrder.id) {
+            id = newOrder.id
+        }        
+    }
 
     if (!token) return null;
 
