@@ -123,7 +123,7 @@ const AccountDetailsAction = () => {
                         ? false
                         : true,
                 id: OrderStepIds.AWAITING_FOR_DELIVERY,
-                label: "Awaiting for delivery",
+                label: isLoggedIn ?"Awaiting for delivery" : "Log In",
                 onAction: isLoggedIn ? req : loginAction,
             }}
         />
