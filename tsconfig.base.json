@@ -1,0 +1,37 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "rootDir": ".",
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "target": "es2015",
+    "module": "esnext",
+    "lib": ["es2020", "dom"],
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "baseUrl": "./",
+    "paths": {
+      "@royalfut/actions": ["libs/actions/src/index.ts"],
+      "@royalfut/actions/server": ["libs/actions/src/server.ts"],
+      "@royalfut/collections": ["libs/collections/src/index.ts"],
+      "@royalfut/components": ["libs/components/src/index.ts"],
+      "@royalfut/enums": ["libs/enums/src/index.ts"],
+      "@royalfut/hooks": ["libs/hooks/src/index.ts"],
+      "@royalfut/icons": ["libs/icons/src/index.ts"],
+      "@royalfut/interfaces": ["libs/interfaces/src/index.ts"],
+      "@royalfut/scheme": ["libs/scheme/src/index.ts"],
+      "@royalfut/store": ["libs/store/src/index.ts"],
+      "@royalfut/styles": ["libs/styles/src/index.ts"],
+      "@royalfut/styles/css/*": ["libs/styles/css/*"],
+      "@royalfut/ui": ["libs/ui/src/index.ts"],
+      "@royalfut/utils": ["libs/utils/src/index.ts"]
+    }
+  },
+  "exclude": ["node_modules", "tmp"]
+}
