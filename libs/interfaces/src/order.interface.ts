@@ -1,8 +1,11 @@
+import { ECCYIDs } from "@royalfut/enums";
+
 export interface IOrder {
     id: number;
     platform: string;
     coinsAmount: number;
-    currency: string;
+    estimatedPrice: number;
+    currency: ECCYIDs;
     mail: string;
     password: string;
     backupCode1: string;

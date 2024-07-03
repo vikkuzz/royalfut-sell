@@ -34,7 +34,6 @@ const CodeVerification = () => {
                     code: value,
                     email: email!,
                 });
-                // console.log(profile, 'profile');
                 setIsValid("valid");
                 setIsValidating(false);
                 setIsLogged(true);

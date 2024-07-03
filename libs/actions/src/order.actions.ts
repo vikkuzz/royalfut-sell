@@ -2,6 +2,7 @@
 // "use server";
 
 
+import { ECCYIDs } from "@royalfut/enums";
 import { getToken } from "./auth.actions";
 import type { IAPIORDER, IOrder } from "@royalfut/interfaces";
 
@@ -43,6 +44,7 @@ export async function createOrder(
         id: body.id,
         platform: body.platform,
         coinsAmount: body.coinsAmount,
+        estimatedPrice: body.estimatedPrice,
         currency: body.currency,
         mail: body.mail,
         password: body.password,
@@ -100,6 +102,7 @@ export async function startSell(
         id: body.id,
         platform: body.platform,
         coinsAmount: body.coinsAmount,
+        estimatedPrice: body.estimatedPrice,
         currency: body.currency,
         mail: body.mail,
         password: body.password,
@@ -121,7 +124,7 @@ export async function updateOrder(
     _token: string | null = null,
     platform: string,
     coinsAmount: number,
-    currency: string,
+    currency: ECCYIDs,
     mail: string,
     password: string,
     backupCode1: string
@@ -148,7 +151,6 @@ export async function updateOrder(
         "password": password,
         "backupCode1": backupCode1
     };
-    // console.log(arguments)
     const res = await fetch(
         'https://test-royalfut.com/newapi/seller/order',
         {
@@ -163,7 +165,6 @@ export async function updateOrder(
     );
 
     const body: IAPIORDER.UpdateOrder.PUT.Response.IBody = await res.json();
-    console.log(body)
     if (res.status >= 400 || !body) {
         return null;
     }
@@ -172,6 +173,7 @@ export async function updateOrder(
         id: body.id,
         platform: body.platform,
         coinsAmount: body.coinsAmount,
+        estimatedPrice: body.estimatedPrice,
         currency: body.currency,
         mail: body.mail,
         password: body.password,
@@ -216,4 +218,33 @@ export async function getOrders(
     }
 
     return orders;
+}
+
+export async function getPayouts(
+    _token: string | null = null
+) {
+    let token: string | null = _token;
+    if (!token) {
+        token = await getToken();
+    }
+
+    if (!token) return null;
+
+    const res = await fetch(
+        'https://test-royalfut.com/newapi/seller/payouts',
+        {
+            method: "GET",
+            headers: {
+                Accept: "application/json, text/plain",
+                "Content-Type": "application/json",
+                Authorization: `Token ${token}`,
+            },
+        }
+    );
+    const payouts = await res.json();
+    if (res.status >= 400 || !payouts) {
+        return null;
+    }
+
+    return payouts;
 }

@@ -8,12 +8,6 @@ import { IOrder } from "@royalfut/interfaces";
 
 async function OrderList() {
     const orders = await getOrders();
-    console.log(
-        orders,
-        orders.orders?.filter(
-            (el: { status: string }) => el.status !== "CREATED"
-        )
-    );
 
     return (
         <div className={`${styles.order_list}`}>

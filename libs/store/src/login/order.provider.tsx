@@ -37,7 +37,7 @@ export const useOrderStore = <T,>(selector: (store: OrderStore) => T): T => {
     const orderStoreContext = useContext(OrderStoreContext);
 
     if (!orderStoreContext) {
-        throw new Error(`useUserStore must be use within UserStoreProvider`);
+        throw new Error(`useUserStore must be use within OrderStoreProvider`);
     }
 
     return useStore(orderStoreContext, selector);

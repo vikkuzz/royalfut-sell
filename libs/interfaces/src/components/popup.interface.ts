@@ -14,4 +14,6 @@ export type TPopupDialogLocableStatusTypes =
 
 export interface IPopupDialogStateValuesMap {
     [EUIDialogsNames.WITHDRAW]: PopupDialogStateValues<never>;
+    [EUIDialogsNames.WITHDRAW_SUCCESS]: PopupDialogStateValues<never>;
+    [EUIDialogsNames.WITHDRAW_FILED]: PopupDialogStateValues<never>;
 }

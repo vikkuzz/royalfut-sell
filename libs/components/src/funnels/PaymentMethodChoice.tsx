@@ -24,7 +24,7 @@ interface IPaymentMethodChoiceProps {
     sets: TPaymentMethodsGetCashSets;
 }
 
-const iconMap: Record<
+export const iconMap: Record<
     EPaymentMethodsIds,
     { cn?: string; cnIcon?: string; Comp: FC<SVGProps<SVGSVGElement>> }
 > = {

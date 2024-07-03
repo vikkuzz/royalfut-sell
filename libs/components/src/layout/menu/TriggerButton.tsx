@@ -2,11 +2,9 @@ import Image from "next/image";
 import {
     GradientButton,
     Button,
-    Sheet,
-    PrimaryGradientBox,
+    Sheet
 } from "@royalfut/ui";
 import { useUserStore } from "@royalfut/store";
-import { CrownIcon } from "@royalfut/icons";
 
 export const LoginMenuTriggerButton = () => {
     return (
@@ -28,7 +26,7 @@ export const UserMenuTriggerButton = () => {
             className="hidden h-12 px-0 whitespace-nowrap sm:flex"
             asChild>
             <Button as="button" className="relative space-x-4">
-                <div className="flex flex-col justify-between items-center h-full">
+                {/* <div className="flex flex-col justify-between items-center h-full">
                     <PrimaryGradientBox className="flex items-center justify-between bg-white-20 rounded-full w-max space-x-1 px-2 py-1">
                         <span className="text-white font-bold text-sm">
                             1250
@@ -39,7 +37,7 @@ export const UserMenuTriggerButton = () => {
                     <span className="text-xs font-medium text-white-40 leading-[normal]">
                         Royal Points
                     </span>
-                </div>
+                </div> */}
                 <div
                     style={{ boxShadow: "0px 0px 30.8px 0px #E3B7439E" }}
                     className="[--bordered-box-linear-bg-1:#262240] w-12 h-12 relative rounded-xl overflow-hidden border-2 bordered-box-linear-avatar border-transparent">

@@ -1,13 +1,24 @@
 import { EUIDialogsNames } from "@royalfut/enums";
 
-import type { TPopupDialogLocableStatusTypes } from "@royalfut/interfaces";
+interface IPopupDialogLocableStatus {
+    status: "lock" | "unlock";
+    type: "default";
+}
 
 export const PopupDialogLocableStatus: Record<
     EUIDialogsNames,
-    TPopupDialogLocableStatusTypes
+    IPopupDialogLocableStatus
 > = {
     [EUIDialogsNames.WITHDRAW]: {
         status: "unlock",
         type: "default",
     },
+    [EUIDialogsNames.WITHDRAW_SUCCESS]: {
+        status: "lock",
+        type: "default"
+    },
+    [EUIDialogsNames.WITHDRAW_FILED]: {
+        status: "lock",
+        type: "default"
+    }
 };

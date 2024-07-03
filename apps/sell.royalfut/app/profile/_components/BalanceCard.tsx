@@ -1,14 +1,13 @@
 "use client";
 
 import { Button, PrimaryGradientBox } from "@royalfut/ui";
-import { usePopupDialogStore, useCurrencyStore } from "@royalfut/store";
-import { ccyCollection } from "@royalfut/collections";
+import { usePopupDialogStore } from "@royalfut/store";
+// import { ccyCollection } from "@royalfut/collections";
 import { EUIDialogsNames } from "@royalfut/enums";
 
-const BalanceCard = () => {
+const BalanceCard = ({ wallet }: { wallet: any }) => {
     const { setPopup } = usePopupDialogStore();
-    const ccyId = useCurrencyStore(state => state.currency);
-
+    // const ccyId = useCurrencyStore(state => state.currency);
     return (
         <PrimaryGradientBox
             withHover={false}
@@ -18,18 +17,20 @@ const BalanceCard = () => {
                     <p className="text-white/60 text-base font-medium">
                         Available balance{" "}
                         <span className="inline sm:hidden">
-                            {ccyCollection[ccyId].symbol}
+                            {/* {ccyCollection[ccyId].symbol} */}$
                         </span>
                     </p>
                     <span className="inline-block text-white font-bold text-5xl sm:text-[3.25rem] leading-10">
                         <span className="hidden sm:inline">
-                            {ccyCollection[ccyId].symbol}
+                            {/* {ccyCollection[ccyId].symbol} */}$
                         </span>{" "}
-                        503,20
+                        {wallet.balance}
                     </span>
                 </div>
                 <Button
+                    disabled={wallet.balance <= 0}
                     as="button"
+                    onClick={() => setPopup(EUIDialogsNames.WITHDRAW)}
                     className="flex sm:hidden px-10 py-6 text-primary font-semibold text-base bg-white hover:bg-white-60 rounded-2xl">
                     Withdraw
                 </Button>
@@ -41,7 +42,8 @@ const BalanceCard = () => {
                             Payouts in Progress
                         </p>
                         <span className="text-white text-3xl sm:text-2xl font-bold">
-                            {ccyCollection[ccyId].symbol} 23,30
+                            {/* {ccyCollection[ccyId].symbol}{' '} */}${" "}
+                            {wallet.locked}
                         </span>
                     </div>
                     <div className="flex flex-col space-y-1">
@@ -49,13 +51,15 @@ const BalanceCard = () => {
                             Pending Deals
                         </p>
                         <span className="text-white text-3xl sm:text-2xl font-bold">
-                            {ccyCollection[ccyId].symbol} 250,20
+                            {/* {ccyCollection[ccyId].symbol}{' '} */}${" "}
+                            {wallet.pending}
                         </span>
                     </div>
                 </div>
                 <div className="flex items-end">
                     <div className="flex justify-end">
                         <Button
+                            disabled={wallet.balance <= 0}
                             as="button"
                             onClick={() => setPopup(EUIDialogsNames.WITHDRAW)}
                             className="hidden sm:flex px-10 py-6 text-primary font-semibold text-base bg-white hover:opacity-90 rounded-2xl">

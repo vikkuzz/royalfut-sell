@@ -127,9 +127,9 @@ const AccountDetailsAction = () => {
     return (
         <ActionPairNavigations
             prev={{
-                disabled: !allowRoutes.includes(OrderStepIds.SUMMARY_AND_SELL),
-                id: OrderStepIds.SUMMARY_AND_SELL,
-                label: "Summary and sell",
+                disabled: !allowRoutes.includes(OrderStepIds.ORDER_INFO),
+                id: OrderStepIds.ORDER_INFO,
+                label: "Platform and amount",
             }}
             next={{
                 disabled:

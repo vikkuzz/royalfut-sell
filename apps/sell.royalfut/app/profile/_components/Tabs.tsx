@@ -1,5 +1,5 @@
 import React from "react";
-import { AUTHORIZED_API_ROUTES } from "@royalfut/collections";
+// import { AUTHORIZED_API_ROUTES } from "@royalfut/collections";
 import Link from "next/link";
 import { cn } from "@royalfut/utils";
 
@@ -7,7 +7,7 @@ const Tabs = ({ page }: { page: string }) => {
     return (
         <div className="w-full flex">
             <Link
-                href={AUTHORIZED_API_ROUTES.ORDERS}
+                href={"orders"}
                 className={cn(
                     `w-full flex justify-center opacity-40 text-sm font-semibold pb-3 border-b`,
                     {
@@ -18,7 +18,7 @@ const Tabs = ({ page }: { page: string }) => {
                 Deals
             </Link>
             <Link
-                href={AUTHORIZED_API_ROUTES.WITHDRAWALS}
+                href={"withdrawals"}
                 className={cn(
                     `w-full flex justify-center opacity-40 text-sm font-semibold pb-3 border-b`,
                     {

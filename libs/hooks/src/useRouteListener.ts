@@ -17,7 +17,6 @@ export const useRouteChangeListener: useRouteChangeListener = () => {
     // }, []);
 
     // const routeChangeComplete = useCallback((url: string) => {
-    //     console.log('eee');
     //     setOpen(false);
     // }, [setOpen]);
 

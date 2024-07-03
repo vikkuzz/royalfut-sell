@@ -1,6 +1,6 @@
 import { LayoutViewportSectionFrame } from "@royalfut/ui";
 import { redirect } from "next/navigation";
-import { getToken } from "@royalfut/actions";
+import { getToken, getWallet } from "@royalfut/actions";
 import { StickyCardsBox } from "./_components/UI";
 import ProfileCard from "./_components/ProfileCard";
 import BalanceCard from "./_components/BalanceCard";
@@ -9,6 +9,7 @@ import type { FC, PropsWithChildren } from "react";
 
 const ProfileLayout: FC<PropsWithChildren> = async ({ children }) => {
     const isAuthenticated = await getToken();
+    const wallet = await getWallet();
 
     if (!isAuthenticated) {
         redirect("/");
@@ -23,12 +24,12 @@ const ProfileLayout: FC<PropsWithChildren> = async ({ children }) => {
                         <div className="relative basis-2/5">
                             <StickyCardsBox>
                                 <div className="flex flex-col space-y-4">
-                                    <BalanceCard />
+                                    <BalanceCard wallet={wallet} />
                                     <ProfileCard />
                                 </div>
                             </StickyCardsBox>
                         </div>
-                        <div className="basis-3/5">{children}</div>
+                        <div className="basis-3/5 sm: mt-6">{children}</div>
                     </div>
                 </main>
             </LayoutViewportSectionFrame>

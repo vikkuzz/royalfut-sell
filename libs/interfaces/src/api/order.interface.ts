@@ -1,3 +1,5 @@
+import { ECCYIDs } from "@royalfut/enums";
+
 export namespace CreateOrder {
     export namespace POST {
         export namespace Response {
@@ -5,7 +7,8 @@ export namespace CreateOrder {
                 "id": number;
                 "platform": string;
                 "coinsAmount": number;
-                "currency": string;
+                "estimatedPrice": number;
+                "currency": ECCYIDs;
                 "mail": string;
                 "password": string;
                 "backupCode1": string;
@@ -39,7 +42,8 @@ export namespace UpdateOrder {
                 "id": number;
                 "platform": string;
                 "coinsAmount": number;
-                "currency": string;
+                "estimatedPrice": number,
+                "currency": ECCYIDs;
                 "mail": string;
                 "password": string;
                 "backupCode1": string;

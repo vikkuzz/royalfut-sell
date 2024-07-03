@@ -48,19 +48,30 @@ export async function getUser(
         },
     };
     const res = await fetch(
-        // 'https://test-royalfut.com/api/users/tokenlogin',
-        "https://a16df9c8-93a4-4149-a1e8-a7b7290f204c.mock.pstmn.io/api/users/tokenlogin",
+        "https://test-royalfut.com/api/user",
         {
-            method: "POST",
-            body: JSON.stringify(reqBody),
+            method: "GET",
             headers: {
                 Accept: "application/json, text/plain",
                 "Content-Type": "application/json",
+                Authorization: `Token ${token}`,
             },
         }
     );
+    // const res = await fetch(
+    //     //"https://test-royalfut.com/api/users/tokenlogin",
+    //      "https://a16df9c8-93a4-4149-a1e8-a7b7290f204c.mock.pstmn.io/api/users/tokenlogin",
+    //     {
+    //         method: "POST",
+    //         body: JSON.stringify(reqBody),
+    //         headers: {
+    //             Accept: "application/json, text/plain",
+    //             "Content-Type": "application/json",
+    //         },
+    //     }
+    // );
 
-    const body: IAPI.TokenLogin.POST.Response.IBody = await res.json();
+    const body = await res.json();
     if (res.status >= 400 || !body) {
         return null;
     }

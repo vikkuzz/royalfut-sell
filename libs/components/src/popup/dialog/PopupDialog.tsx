@@ -7,6 +7,8 @@ import { usePopupDialogStore } from "@royalfut/store";
 import { EUIDialogsNames } from "@royalfut/enums";
 
 const WithdrawDialog = lazy(() => import("./components/WithdrawDialog"));
+const SuccessNotice = lazy(() => import("./components/SuccessNotice"));
+const FiledNotice = lazy(() => import("./components/FiledNotice"));
 
 const Nope = () => <></>;
 
@@ -14,6 +16,10 @@ const renderDialog = (view: EUIDialogsNames | null) => {
     switch (view) {
         case EUIDialogsNames.WITHDRAW:
             return WithdrawDialog;
+        case EUIDialogsNames.WITHDRAW_SUCCESS:
+            return SuccessNotice;
+        case EUIDialogsNames.WITHDRAW_FILED:
+            return FiledNotice;
         default:
             return Nope;
     }
@@ -29,7 +35,7 @@ const Loader = () => {
 };
 
 const PopupDialog = () => {
-    const { popup, clear, lockable } = usePopupDialogStore(state => ({
+    const { popup, clear, lockable } = usePopupDialogStore(state => ({        
         popup: state.popup,
         clear: state.clear,
         lockable: state.lockable,

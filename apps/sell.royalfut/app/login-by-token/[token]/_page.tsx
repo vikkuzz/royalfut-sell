@@ -12,7 +12,6 @@ const LoginByToken: FC<{ params: { token: string } }> = async ({ params }) => {
     }
 
     try {
-        console.log(params, "params");
         await tokenLogin(params.token);
         cookies().set(CookiesKeys.AUTH_USER_TOKEN, params.token, {
             httpOnly: true,

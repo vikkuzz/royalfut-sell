@@ -11,12 +11,14 @@ import {
     AuthStoreProvider,
     UserStoreProvider,
     OrderStoreProvider,
+    WithdrawStoreProvider,
 } from "@royalfut/store";
 import {
     getCurrency,
     getUser,
     getCookieConsentStatus,
     createOrder,
+    getWallet,
 } from "@royalfut/actions";
 import clsx from "clsx";
 import Watcher from "./Watcher";
@@ -53,6 +55,7 @@ const RootLayout: FC<PropsWithChildren> = async ({ children }) => {
     const user = await getUser();
     const order = await createOrder();
     const cookieConsent = await getCookieConsentStatus();
+    const wallet = await getWallet();
 
     return (
         <html
@@ -96,15 +99,18 @@ const RootLayout: FC<PropsWithChildren> = async ({ children }) => {
                     <AuthStoreProvider initial={{ isLoggedIn: !!user }}>
                         <UserStoreProvider initial={{ user }}>
                             <OrderStoreProvider initial={{ order }}>
-                                <CurrencyStoreProvider initial={{ currency }}>
-                                    <div className="w-full h-full flex-1 pb-10">
-                                        <PublicHeader />
-                                        {children}
-                                        <PopupDialog />
-                                    </div>
-                                    <Footer />
-                                    <Watcher />
-                                </CurrencyStoreProvider>
+                                <WithdrawStoreProvider initial={{ wallet }}>
+                                    <CurrencyStoreProvider
+                                        initial={{ currency }}>
+                                        <div className="w-full h-full flex-1 pb-10">
+                                            <PublicHeader />
+                                            {children}
+                                            <PopupDialog />
+                                        </div>
+                                        <Footer />
+                                        <Watcher />
+                                    </CurrencyStoreProvider>
+                                </WithdrawStoreProvider>
                             </OrderStoreProvider>
                         </UserStoreProvider>
                     </AuthStoreProvider>

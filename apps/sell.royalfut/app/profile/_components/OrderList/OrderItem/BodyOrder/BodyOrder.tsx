@@ -11,7 +11,7 @@ const BodyOrder = ({ order }: { order: IOrder }) => {
                 <div className="flex flex-col gap-1">
                     <span className="text-xs text-white/75">Amount</span>
                     <span className="text-sm font-semibold">
-                        {order?.coinsAmount.toLocaleString()}
+                        {order.coinsAmount?.toLocaleString()}
                     </span>
                 </div>
             </div>

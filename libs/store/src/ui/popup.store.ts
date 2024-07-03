@@ -24,7 +24,7 @@ export interface IPopupDialogStore<T extends EUIDialogsNames>
 }
 
 export interface IPopupDialogStoreMap {
-    [EUIDialogsNames.WITHDRAW]: IPopupDialogStore<EUIDialogsNames.WITHDRAW>;
+    [key: string]: IPopupDialogStore<EUIDialogsNames>;
 }
 
 export type PopupDialogsStore = IPopupDialogStoreMap[EUIDialogsNames.WITHDRAW];

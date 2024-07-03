@@ -2,8 +2,6 @@ import { forwardRef } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { useMagicLinkStore, useUserStore } from "@royalfut/store";
-import { PrimaryGradientBox } from "@royalfut/ui";
-import { CrownIcon } from "@royalfut/icons";
 import { LogoutButton } from "../../fragments";
 import CodeVerification from "./CodeVerification";
 import AuthViaMagicLink from "./AuthViaMagicLink";
@@ -53,7 +51,7 @@ export const UserMenuContent = () => {
                     className="[--bordered-box-linear-bg-1:#262240] w-20 h-20 relative rounded-xl overflow-hidden border-2 bordered-box-linear-avatar border-transparent">
                     <Image src={user.avatar} alt="User Image" fill />
                 </div>
-                <div className="flex flex-col justify-between items-center h-full space-y-1">
+                {/* <div className="flex flex-col justify-between items-center h-full space-y-1">
                     <PrimaryGradientBox
                         className="flex items-center justify-between bg-white-20 rounded-full w-max space-x-1 px-2 py-1"
                         asChild>
@@ -68,7 +66,7 @@ export const UserMenuContent = () => {
                     <span className="text-xs font-medium text-white-40 leading-[normal]">
                         Royal Points
                     </span>
-                </div>
+                </div> */}
                 <Link
                     href="/profile"
                     className="text-xl text-white font-bold text-center hover:text-secondary transition-colors duration-300">

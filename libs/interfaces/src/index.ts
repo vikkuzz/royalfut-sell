@@ -6,4 +6,6 @@ export type * from "./funnel.interface";
 export type * from "./element.interface";
 export type * from "./cookie.interface";
 export type * from "./order.interface";
+export type * from "./payouts.interface";
+export type * from "./withdraw.interface";
 export type * from "./api";
