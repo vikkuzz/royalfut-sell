@@ -150,12 +150,13 @@ const Index = ({ data, locale }) => {
                                             ? "/img/SBS-Solver-mobile.webp"
                                             : "/img/SBS-Solver-desktop.webp"
                                     }
-                                    h3={t(`sbc`)}
-                                    text={t(`seo16`)}
+                                    h3={t(`blog.b_t`)}
+                                    text={t(`blog.b_d`)}
                                     gradient={
                                         "background: linear-gradient(rgb(61 61 78) 0%, rgba(84, 83, 178, 0) 127.71%)"
                                     }
-                                    handler={redirect}
+                                    link={"/blog"}
+                                    // handler={redirect}
                                 />
                             </div>
                         </div>

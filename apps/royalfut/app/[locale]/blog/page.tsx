@@ -146,7 +146,7 @@ const Index = () => {
         const currentUrl = new URL(window.location.href);
 
         if (!params.has("tag", id)) {
-            currentUrl.searchParams.append(`tag`, id.toString());
+            currentUrl.searchParams.set(`tag`, id.toString());
             currentUrl.searchParams.set(`page`, "1");
             router.push(currentUrl.toString());
         }
@@ -174,7 +174,7 @@ const Index = () => {
                     text={"FIFA 25 BLOG"}
                 />
             </div>
-            
+
             <div className="flex flex-col gap-2">
                 <div className="flex flex-col w-auto h-auto bg-transparent gap-4 pt-4">
                     {/* <div className="block w-auto min-h-[48px]">
@@ -197,13 +197,17 @@ const Index = () => {
                         <Tags action={clickOnTag} tags={currentTags} />
                     </div>
                 </div>
-                <div className="flex flex-wrap justify-center w-auto gap-4 pt-10">                    
+                <div className="flex flex-wrap justify-center w-auto gap-4 pt-10">
                     {slicedPosts?.map((card: ICard) => {
                         if (card.tags[0] === "redirect") {
                             return <RedirectCard key={card.slug} card={card} />;
                         } else {
                             return (
-                                <BlogCard key={card.slug} card={card} tags={tags} />
+                                <BlogCard
+                                    key={card.slug}
+                                    card={card}
+                                    tags={tags}
+                                />
                             );
                         }
                     })}

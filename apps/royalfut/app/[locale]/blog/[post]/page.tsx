@@ -255,7 +255,7 @@ const Index = ({ params }: { params: { post: string } }) => {
                             </div>
                         </div>
                     </div>
-                    <div className="sticky top-24 hidden md:flex max-h-[300px] min-w-[350px] md:w-auto md:h-auto md:opacity-100">
+                    <div className="sticky top-24 hidden md:flex max-h-[448px] min-w-[350px] md:w-auto md:h-auto md:opacity-100">
                         <BannerCard card={redirectedCard} />
                     </div>
                 </div>

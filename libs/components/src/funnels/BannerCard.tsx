@@ -7,25 +7,27 @@ const BannerCard = ({ card }: { card: ICard }) => {
     return (
         <div
             className={
-                "flex flex-col overflow-hidden w-full bg-primary rounded-2xl border-1 border-[white-10] md:max-w-[332px]"
-            }
-        >
-            <div className="h-[174px] w-auto min-h-[124px] relative">
+                "flex flex-col justify-end items-center overflow-hidden w-full bg-primary rounded-2xl border-1 border-[white-10] md:max-w-[332px] relative"
+            }>
+            <div className="h-[375px] w-[430px] min-h-[125px] absolute top-0">
                 {card.cover && (
                     <Image
                         alt="cover card"
-                        fill
+                        width={350}
+                        height={350}
+                        // fill
                         src={card.cover}
                         objectFit="cover"
+                        quality={100}
                     />
                 )}
             </div>
-            <div className="flex flex-col h-full pt-0 pb-0 px-6 gap-4 p-6">
+            <div className="flex flex-col h-auto pt-0 pb-0 px-6 gap-4 p-6 z-[2] bg-transparent">
                 <span className="text-[24px] font-bold leading-normal capitalize">
                     {card.title}
                 </span>
             </div>
-            <div className="flex flex-col gap-2 p-6">
+            <div className="flex flex-col gap-2 p-6 z-[2]">
                 {card.buttons &&
                     card.buttons?.length > 0 &&
                     card.buttons.map((btn, i) => (
@@ -39,9 +41,8 @@ const BannerCard = ({ card }: { card: ICard }) => {
                                         btn.color === "white",
                                     "bg-transparent hover:bg-white-90 hover:text-black":
                                         btn.color === "transparent",
-                                },
-                            )}
-                        >
+                                }
+                            )}>
                             {btn.text}
                         </Link>
                     ))}
