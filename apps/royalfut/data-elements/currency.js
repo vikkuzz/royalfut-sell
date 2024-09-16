@@ -1,0 +1,96 @@
+const currency = [
+    {
+        currency: "$",
+        title: "USD",
+        id: "0",
+        country: "",
+        url: "/img/USDdrop.svg",
+    },
+    {
+        currency: "AED",
+        title: "AED",
+        id: "1",
+        country: "",
+        url: "/img/aeddrop.svg",
+    },
+    {
+        currency: "£",
+        title: "GBP",
+        id: "2",
+        country: "",
+        url: "/img/gbpdrop.svg",
+    },
+    {
+        currency: "SAR",
+        title: "SAR",
+        id: "3",
+        country: "",
+        url: "/img/sardrop.svg",
+    },
+    {
+        currency: "€",
+        title: "EUR",
+        id: "4",
+        country: "",
+        url: "/img/eurdrop.svg",
+    },
+    {
+        currency: "KR",
+        title: "SEK",
+        id: "5",
+        country: "",
+        url: "/img/sekdrop.svg",
+    },
+    {
+        currency: "C$",
+        title: "CAD",
+        id: "6",
+        country: "",
+        url: "/img/caddrop.svg",
+    },
+    {
+        currency: "NKr",
+        title: "NOK",
+        id: "7",
+        country: "",
+        url: "/img/nokdrop.svg",
+    },
+    {
+        currency: "AUD",
+        title: "AUD",
+        id: "8",
+        country: "",
+        url: "/img/auddrop.svg",
+    },
+    {
+        currency: "PLN",
+        title: "PLN",
+        id: "9",
+        country: "",
+        url: "/img/plndrop.svg",
+    },
+    {
+        currency: "R$",
+        title: "BRL",
+        id: "10",
+        country: "",
+        url: "/img/brldrop.svg",
+    },
+    {
+        currency: "TRY",
+        title: "TRY",
+        id: "11",
+        country: "",
+        url: "/img/trydrop.svg",
+    },
+
+    {
+        currency: "₽",
+        title: "RUB",
+        id: "12",
+        country: "",
+        url: "/img/rubdrop.svg",
+    },
+];
+
+export default currency;

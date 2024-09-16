@@ -38,7 +38,7 @@ testem.log
 .DS_Store
 Thumbs.db
 
-.nx/cache
+.nx
 
 # Next.js
 .next
@@ -53,3 +53,6 @@ Thumbs.db
 .vercel
 
 .env.local
+
+apps/sell.royalfut/messages
+apps/www.royalfut/messages

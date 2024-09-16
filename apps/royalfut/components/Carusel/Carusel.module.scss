@@ -1,0 +1,106 @@
+.swiper-slide {
+    width: 405px !important;
+    border-radius: 28px;
+    border: 1px solid var(--white-02-white, rgba(255, 255, 255, 0.20));
+    background: linear-gradient(180deg, #353054 0%, rgba(53, 48, 84, 0.00) 161.55%);
+    box-shadow: 0px 10px 10px 20px rgba(0, 0, 0, 0.10);
+    height: 415px;
+    transition: all 0.3s;
+    opacity: 0.4;
+    margin-left: 15px;
+    margin-right: 15px;
+
+    & > div {
+        overflow: hidden;
+        border-radius: 28px;
+    }
+
+    @media (max-width:1024px) {
+        width: 274px!important;          
+    }
+}
+.swiper-wrapper {
+    padding: 14px 0 103px;
+    height: 550px !important;
+}
+.swiper-pagination {
+    justify-content: center;
+}
+.slide{
+    flex-direction: column;
+    gap: 8px;
+    justify-content: space-between;
+    height: 100%;
+    min-height: 415px !important;
+    display: flex !important;
+    position: relative;
+}
+.video_wrapper{
+    //height: 250px;
+    //min-height: 152px !important;
+    position: relative;
+}
+.video{
+    padding: 0;
+    background: transparent;
+    //height: min-content;
+}
+.text_content{
+    flex-direction: column;
+    padding: 0 20px 28px;
+    background: transparent;
+    gap: 8px;
+    height: 100%;
+}
+.wrapper_btn{
+    padding-top: 16px;
+    margin-top: auto;
+}
+.title_cards{
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    //text-transform: capitalize;
+
+    @media (min-width:1025px) {
+        font-size: 24px;
+        font-weight: 700;
+    }
+}
+.text{
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    color: var(--white-06-white, rgba(255, 255, 255, 0.60));
+
+    @media (min-width:1025px) {
+        font-size: 14px;
+    }
+}
+.button_slide{
+    border-radius: 12px;
+    background: var(--white-01-white, rgba(255, 255, 255, 0.10));
+    justify-content: center;
+    align-items: center;
+    padding: 12px 24px;
+    border: none;
+
+    &:hover{
+        background-color: rgba(255, 255, 255, 0.20);
+    }
+
+    @media (min-width:1025px) {
+        width: auto;
+    }
+}
+.not_active_title{
+    font-size: 16px;
+}
+.no_gap{
+    gap: 0;
+}
+.not_active_text{
+    font-size: 12px;
+}

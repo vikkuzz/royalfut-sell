@@ -1,0 +1,36 @@
+.container{
+    flex-direction: column;
+    gap: 16px;
+    padding-top: 18px;
+}
+.row{
+    gap: 8px;
+    width: auto;
+    align-items: center;
+}
+.pic{
+    height: 24px;
+    width: auto;
+}
+.green_color{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #15BC26;
+    white-space: nowrap;
+    text-transform: capitalize;
+}
+.grey_color{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: rgba(255, 255, 255, 0.6);
+    white-space: nowrap;
+}
+.text3{
+    white-space: nowrap;
+}

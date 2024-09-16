@@ -1,11 +1,38 @@
 import { LayoutViewportSectionFrame } from "@royalfut/ui";
-import Image from "next/image";
+import { cn } from "@royalfut/utils";
+import { EPaymentMethodsIds } from "@royalfut/enums";
+import {
+    PaymentVisaMonocolorIcon,
+    PaymentMastercardRotatedIcon,
+    ETHIcon,
+    TetherRotatedIcon,
+    BTCIcon,
+} from "@royalfut/icons";
+
+import type { ComponentProps, FC } from "react";
+
+const iconMap: Record<EPaymentMethodsIds, FC<ComponentProps<"svg">>> = {
+    [EPaymentMethodsIds.VISA]: PaymentVisaMonocolorIcon,
+    [EPaymentMethodsIds.MASTER_CARD]: PaymentMastercardRotatedIcon,
+    [EPaymentMethodsIds.TETHER_CRYPTO]: TetherRotatedIcon,
+    [EPaymentMethodsIds.BITCOIN_CRYPTO]: BTCIcon,
+    [EPaymentMethodsIds.ETHEREUM_CRYPTO]: ETHIcon,
+};
+
+const LogoCard: FC<{ payment: EPaymentMethodsIds; imgWrapperCn?: string }> = ({
+    payment,
+    imgWrapperCn,
+}) => {
+    const Icon = iconMap[payment];
+
+    return (
+        <div className="flex flex-1 min-h-0 col-span-1 bg-white-5 min-w-[6.875rem] rounded-2xl py-5 px-5 md:px-16 justify-center items-center">
+            <Icon className={cn("relative h-15 w-15", imgWrapperCn)} />
+        </div>
+    );
+};
 
 const WithdrawalMethods = () => {
-    const backgroundColor = {
-        backgroundColor: "rgba(255, 255, 255, 0.05)",
-        minWidth: "109px",
-    };
     return (
         <LayoutViewportSectionFrame asChild>
             <section className="flex flex-col mt-24 items-center">
@@ -21,56 +48,20 @@ const WithdrawalMethods = () => {
                     </span>
                 </div>
                 <div className="flex flex-wrap gap-2 md:gap-6 py-6 md:py-10">
-                    <div
-                        className={`flex flex-1 min-w-0 min-h-0 col-span-1 min-w-min rounded-2xl py-5 px-5 md:px-16 justify-center items-center`}
-                        style={backgroundColor}>
-                        <Image
-                            alt="mastercard"
-                            width={60}
-                            height={37}
-                            src="/image/mastercard.svg"
-                        />
-                    </div>
-                    <div
-                        className={`flex flex-1 min-w-0 min-h-0 col-span-1 min-w-min rounded-2xl py-5 px-5 md:px-16 justify-center items-center`}
-                        style={backgroundColor}>
-                        <Image
-                            alt="mastercard"
-                            width={60}
-                            height={37}
-                            src="/image/Visa.svg"
-                        />
-                    </div>
-                    <div
-                        className={`flex flex-1 min-w-0 min-h-0 col-span-1 min-w-min rounded-2xl py-5 px-5 md:px-16 justify-center items-center`}
-                        style={backgroundColor}>
-                        <Image
-                            alt="mastercard"
-                            width={60}
-                            height={37}
-                            src="/image/bitcoin.svg"
-                        />
-                    </div>
-                    <div
-                        className={`flex flex-1 min-w-0 min-h-0 col-span-1 min-w-min rounded-2xl py-5 px-5 md:px-16 justify-center items-center`}
-                        style={backgroundColor}>
-                        <Image
-                            alt="mastercard"
-                            width={60}
-                            height={37}
-                            src="/image/usdt.svg"
-                        />
-                    </div>
-                    <div
-                        className={`flex flex-1 min-w-0 min-h-0 col-span-1 min-w-min rounded-2xl py-5 px-5 md:px-16 justify-center items-center`}
-                        style={backgroundColor}>
-                        <Image
-                            alt="mastercard"
-                            width={60}
-                            height={37}
-                            src="/image/etherium.svg"
-                        />
-                    </div>
+                    <LogoCard
+                        payment={EPaymentMethodsIds.MASTER_CARD}
+                        imgWrapperCn="w-17 h-16 -rotate-12"
+                    />
+                    <LogoCard payment={EPaymentMethodsIds.VISA} />
+                    <LogoCard
+                        payment={EPaymentMethodsIds.BITCOIN_CRYPTO}
+                        imgWrapperCn="w-17 h-16 -rotate-12"
+                    />
+                    <LogoCard
+                        payment={EPaymentMethodsIds.TETHER_CRYPTO}
+                        imgWrapperCn="w-17 h-16 rotate-12"
+                    />
+                    <LogoCard payment={EPaymentMethodsIds.ETHEREUM_CRYPTO} />
                 </div>
             </section>
         </LayoutViewportSectionFrame>

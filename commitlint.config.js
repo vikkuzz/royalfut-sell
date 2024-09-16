@@ -14,9 +14,9 @@ const typeSubjects = [
 ];
 
 module.exports = {
-    "extends": "@commitlint/config-conventional",
-    "ignores": [message => message.startsWith("Merge branch")],
-    "rules": {
+    extends: "@commitlint/config-conventional",
+    ignores: [(message) => message.startsWith("Merge branch")],
+    rules: {
         "body-max-line-length": [1, "always", 100],
         "header-max-length": [0, "always", 72],
         "type-enum": [2, "always", typeSubjects],

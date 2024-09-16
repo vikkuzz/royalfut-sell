@@ -1,33 +1,40 @@
+import { NextIntlClientProvider } from "next-intl";
+import { getLocale, getMessages } from "next-intl/server";
 import {
-    PublicHeader,
     Footer,
     MediaIndicator,
     CookieConsentBanner,
     PopupDialog,
 } from "@royalfut/components";
+import { Header } from "../src/layout";
+import { UIGlobalStoreProvider } from "@royalfut/store";
 import { montserrat } from "@royalfut/ui";
 import {
     CurrencyStoreProvider,
     AuthStoreProvider,
     UserStoreProvider,
     OrderStoreProvider,
+    WithdrawStoreProvider,
+    StocksStoreProvider,
 } from "@royalfut/store";
 import {
     getCurrency,
     getUser,
     getCookieConsentStatus,
     createOrder,
+    getWallet,
+    getStocks,
+    localizeGlobalState,
 } from "@royalfut/actions";
 import clsx from "clsx";
 import Watcher from "./Watcher";
-import YandexMetrika from "./YandexMetrika";
+import { SellGlobalData } from "@royalfut/collections";
+import { GoogleOAuthProvider } from "@royalfut/store";
+import { GoogleAnalytics, YandexMetrika } from "./3rdParty.client";
 
-import "./global.css";
-import { type PropsWithChildren, type FC, Suspense } from "react";
+import "@royalfut/styles/css/global.css";
+import type { PropsWithChildren, FC } from "react";
 import type { Viewport, Metadata } from "next";
-import { GoogleOAuthProvider } from "@react-oauth/google";
-import { GoogleAnalytics } from "@next/third-parties/google";
-import Script from "next/script";
 
 export const viewport: Viewport = {
     themeColor: "#8852F2",
@@ -49,10 +56,25 @@ export const metadata: Metadata = {
 };
 
 const RootLayout: FC<PropsWithChildren> = async ({ children }) => {
-    const currency = await getCurrency();
-    const user = await getUser();
-    const order = await createOrder();
-    const cookieConsent = await getCookieConsentStatus();
+    const locale = await getLocale();
+    const messages = await getMessages();
+    const [
+        currency,
+        user,
+        order,
+        cookieConsent,
+        wallet,
+        stocks,
+        globalSettings,
+    ] = await Promise.all([
+        getCurrency(),
+        getUser(),
+        createOrder(),
+        getCookieConsentStatus(),
+        getWallet(),
+        getStocks(),
+        localizeGlobalState(SellGlobalData),
+    ]);
 
     return (
         <html
@@ -61,57 +83,81 @@ const RootLayout: FC<PropsWithChildren> = async ({ children }) => {
                 "text-xs lg:text-sm xl:text-base",
                 montserrat.variable
             )}
-            lang="en">
-            <GoogleAnalytics gaId="G-LYXMFBE9PQ" />
-            <body className="flex flex-col justify-between min-h-screen">
-                <Script id="metrika-counter" strategy="afterInteractive">
-                    {`(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-                    m[i].l=1*new Date();
-                    for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-                    k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-                    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-                    ym(97304593, "init", {
-                            defer: true,
-                            clickmap:true,
-                            trackLinks:true,
-                            accurateTrackBounce:true,
-                            webvisor:true,
-                            ecommerce:"dataLayer"
-                    });`}
-                </Script>
-                <noscript>
-                    <div>
-                        <img
-                            src="https://mc.yandex.ru/watch/97304593"
-                            style={{ position: "absolute", left: "-9999px" }}
-                            alt=""
+            lang={locale}>
+            <head>
+                {process.env.NODE_ENV === "production" && (
+                    <>
+                        <link
+                            rel="dns-prefetch"
+                            href="https://www.googletagmanager.com"
                         />
-                    </div>
-                </noscript>
-                <Suspense fallback={<></>}>
-                    <YandexMetrika />
-                </Suspense>
-                <GoogleOAuthProvider clientId="9475571545-s9o5kb38f48n05uafaopfc49i460f676.apps.googleusercontent.com">
-                    <AuthStoreProvider initial={{ isLoggedIn: !!user }}>
-                        <UserStoreProvider initial={{ user }}>
-                            <OrderStoreProvider initial={{ order }}>
-                                <CurrencyStoreProvider initial={{ currency }}>
-                                    <div className="w-full h-full flex-1 pb-10">
-                                        <PublicHeader />
-                                        {children}
-                                        <PopupDialog />
-                                    </div>
-                                    <Footer />
-                                    <Watcher />
-                                </CurrencyStoreProvider>
-                            </OrderStoreProvider>
-                        </UserStoreProvider>
-                    </AuthStoreProvider>
+                        <link rel="dns-prefetch" href="https://mc.yandex.ru" />
+                    </>
+                )}
+            </head>
+            <body className="flex flex-col justify-between min-h-screen">
+                {process.env.NODE_ENV === "production" && (
+                    <noscript>
+                        <div>
+                            <img
+                                src="https://mc.yandex.ru/watch/97304593"
+                                style={{
+                                    position: "absolute",
+                                    left: "-9999px",
+                                }}
+                                alt=""
+                            />
+                        </div>
+                    </noscript>
+                )}
+                <UIGlobalStoreProvider initial={globalSettings}>
+                    <NextIntlClientProvider messages={messages}>
+                        <GoogleOAuthProvider clientId="9475571545-s9o5kb38f48n05uafaopfc49i460f676.apps.googleusercontent.com">
+                            <StocksStoreProvider initial={{ stocks }}>
+                                <AuthStoreProvider
+                                    initial={{ isLoggedIn: !!user }}>
+                                    <UserStoreProvider initial={{ user }}>
+                                        <OrderStoreProvider initial={{ order }}>
+                                            <WithdrawStoreProvider
+                                                initial={{ wallet }}>
+                                                <CurrencyStoreProvider
+                                                    initial={{ currency }}>
+                                                    <div className="w-full h-full flex-1 pb-10">
+                                                        <Header />
+                                                        {children}
+                                                        <PopupDialog />
+                                                    </div>
+                                                    <Footer />
+                                                    <Watcher />
+                                                </CurrencyStoreProvider>
+                                            </WithdrawStoreProvider>
+                                        </OrderStoreProvider>
+                                    </UserStoreProvider>
+                                </AuthStoreProvider>
+                            </StocksStoreProvider>
+                        </GoogleOAuthProvider>
 
-                    {!cookieConsent && <CookieConsentBanner />}
-                    <MediaIndicator />
-                </GoogleOAuthProvider>
+                        {!cookieConsent && <CookieConsentBanner />}
+                        <MediaIndicator />
+                        {process.env.NODE_ENV === "production" && (
+                            <GoogleAnalytics
+                                gaId="G-LYXMFBE9PQ"
+                                allowedHostnames={[
+                                    "seller.test-royalfut.com",
+                                    "seller.royalfut.com",
+                                ]}
+                            />
+                        )}
+                        {process.env.NODE_ENV === "production" && (
+                            <YandexMetrika
+                                allowedHostnames={[
+                                    "seller.test-royalfut.com",
+                                    "seller.royalfut.com",
+                                ]}
+                            />
+                        )}
+                    </NextIntlClientProvider>
+                </UIGlobalStoreProvider>
             </body>
         </html>
     );

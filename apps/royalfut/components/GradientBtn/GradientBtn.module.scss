@@ -1,0 +1,20 @@
+.gradient_btn {
+    background: linear-gradient(265.73deg, #a82df9 0%, #6678e9 100%);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 12px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    //text-transform: capitalize;
+    //padding: 20px;
+
+    &:hover {
+        background: linear-gradient(265.73deg, #bc56ff 0%, #7788f8 100%);
+        box-shadow: 0px 8px 80px rgb(137 81 242 / 40%);
+    }
+}

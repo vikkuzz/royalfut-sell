@@ -1,256 +1,239 @@
 /* eslint-disable max-lines */
 "use client";
 
-import { forwardRef } from "react";
-import * as Accordion from "@radix-ui/react-accordion";
+import { FAQAccordion } from "@royalfut/components";
 import Link from "next/link";
-import { CrossSimpleIcon } from "@royalfut/icons";
-import { cn } from "@royalfut/utils";
-
-import type { ElementRef, ComponentPropsWithoutRef } from "react";
-
-const AccordionItem = forwardRef<
-    ElementRef<typeof Accordion.Item>,
-    ComponentPropsWithoutRef<typeof Accordion.Item>
->(({ children, className, ...props }, forwardedRef) => (
-    <Accordion.Item
-        className={cn(
-            "mt-4 overflow-hidden first:mt-0 focus-within:relative focus-within:z-10 rounded-3xl border border-white-10",
-            className
-        )}
-        {...props}
-        ref={forwardedRef}>
-        {children}
-    </Accordion.Item>
-));
-AccordionItem.displayName = Accordion.Item.displayName;
-
-const AccordionTrigger = forwardRef<
-    ElementRef<typeof Accordion.Trigger>,
-    ComponentPropsWithoutRef<typeof Accordion.Trigger>
->(({ children, className, ...props }, forwardedRef) => (
-    <Accordion.Header className="flex">
-        <Accordion.Trigger
-            className={cn(
-                "text-white group flex flex-1 cursor-default items-center p-2 justify-between bg-black-1  text-2xl font-bold leading-none outline-none",
-                className
-            )}
-            {...props}
-            ref={forwardedRef}>
-            <div className="w-full h-full group-hover:bg-white/5 text-left transition-colors duration-300 flex rounded-2xl px-6 py-4 justify-between items-center">
-                {children}
-                <CrossSimpleIcon className="text-white group-data-[state=open]:rotate-[315deg] transition-transform duration-500 w-8 h-8" />
-            </div>
-            {/* <ChevronDownIcon
-          className="text-violet10 ease-[cubic-bezier(0.87,_0,_0.13,_1)] transition-transform duration-300 group-data-[state=open]:rotate-180"
-          aria-hidden
-        /> */}
-        </Accordion.Trigger>
-    </Accordion.Header>
-));
-AccordionTrigger.displayName = Accordion.Trigger.displayName;
-
-const AccordionContent = forwardRef<
-    ElementRef<typeof Accordion.Content>,
-    ComponentPropsWithoutRef<typeof Accordion.Content>
->(({ children, className, ...props }, forwardedRef) => (
-    <Accordion.Content
-        className={cn(
-            "text-white-60 bg-black-1 data-[state=open]:animate-slideDown data-[state=closed]:animate-slideUp overflow-hidden text-base font-medium",
-            className
-        )}
-        {...props}
-        ref={forwardedRef}>
-        <div className="pt-1.5 pb-4 px-8">{children}</div>
-    </Accordion.Content>
-));
-AccordionContent.displayName = Accordion.Content.displayName;
 
 const AccordionQuestions = () => {
     return (
-        <Accordion.Root className="w-full rounded-md" type="multiple">
-            <AccordionItem value="item-1">
-                <AccordionTrigger>
-                    Why should I choose ROYALFUT?
-                </AccordionTrigger>
-                <AccordionContent>
+        <FAQAccordion.Root type="multiple">
+            <h2 className="text-bold text-4xl pb-2">
+                Selling Coins via Comfort Trade
+            </h2>
+            <FAQAccordion.Item value="item-1">
+                <FAQAccordion.Trigger>
+                    How does Comfort Trade work?
+                </FAQAccordion.Trigger>
+                <FAQAccordion.Content>
                     <div>
                         <span className="text-white-60 text-base font-medium leading-tight">
-                            The ROYALFUT customer is always guaranteed the
-                            following:
-                            <br />
+                            To sell coins via Comfort Trade, we need to log into
+                            your account on the Web App and transfer the coins.
+                            To ensure the process goes smoothly, please ensure
+                            your account information is 100% correct.
                         </span>
-                        <ul className="[--style-disc-t:0.625rem] leading-tight text-white-60 text-base font-medium list-style-disc-centerd">
-                            <li>Prices lower than any of the competitors</li>
-                            <li>
-                                Security for your account and a full refund if
-                                the coins are not delivered
-                            </li>
-                            <li>Minimal shipping time for FIFA 23 Coins</li>
-                            <li>
-                                24/7 support via Live Chat, WhatsApp, email or
-                                Instagram Direct.
-                            </li>
-                        </ul>
                     </div>
-                </AccordionContent>
-            </AccordionItem>
+                </FAQAccordion.Content>
+            </FAQAccordion.Item>
 
-            <AccordionItem value="item-2">
-                <AccordionTrigger>
-                    How do I change my EA account details on the website?
-                </AccordionTrigger>
-                <AccordionContent>
+            <FAQAccordion.Item value="item-2">
+                <FAQAccordion.Trigger>
+                    What do I need to know about Comfort Trade?
+                </FAQAccordion.Trigger>
+                <FAQAccordion.Content>
                     <div>
-                        <span className="text-white-60 text-base font-medium leading-tight">
-                            Using the phone:
-                            <br />
-                        </span>
-                        <ul className="leading-tight text-white-60 text-base font-medium list-inside list-decimal">
+                        <ul className="leading-tight text-white-60 text-base font-medium list-inside list-disc">
                             <li>
-                                Open the menu on the right by tapping the three
-                                bar button.
+                                You need to provide your Web App email and
+                                password (along with 6 Backup Codes).
                             </li>
                             <li>
-                                Tap at your nickname. If there is no nickname,
-                                please log in to your ROYALFUT account.
+                                Your account MUST have gained access to the
+                                Transfer Market on the FUT Web App.
                             </li>
                             <li>
-                                At the bottom of your profile page you will see
-                                the EA account data entry form.
-                            </li>
-                        </ul>
-                        <span className="text-white-60 text-base font-medium leading-tight">
-                            Using the desktop device:
-                            <br />
-                        </span>
-                        <ul className="leading-tight text-white-60 text-base font-medium list-inside list-decimal">
-                            <li>
-                                Click at your nickname in the upper right corner
-                                of the screen. If there is no nickname, please
-                                log in to your ROYALFUT account.
+                                Please DO NOT log in to your FUT account on any
+                                other devices/consoles during the transfer.
                             </li>
                             <li>
-                                At the bottom of your profile page you will see
-                                the EA account data entry form.
+                                Your account will be returned safely after we
+                                transfer the coins.
+                            </li>
+                            <li>
+                                The minimum amount of coins we accept is 100,000
+                                coins.
                             </li>
                         </ul>
                     </div>
-                </AccordionContent>
-            </AccordionItem>
-            <AccordionItem value="item-3">
-                <AccordionTrigger>
-                    What should I do to prepare my club to money transfer?
-                </AccordionTrigger>
-                <AccordionContent>
+                </FAQAccordion.Content>
+            </FAQAccordion.Item>
+            <FAQAccordion.Item value="item-3">
+                <FAQAccordion.Trigger>
+                    How do I get EA/Origin Backup Codes?
+                </FAQAccordion.Trigger>
+                <FAQAccordion.Content>
                     <div>
-                        <ul className="[--style-disc-t:0.625rem] leading-tight text-white-60 text-base font-medium list-style-disc-centerd">
+                        <ul className="leading-tight text-white-60 text-base font-medium list-inside list-decimal">
                             <li>
-                                There must be at least 5000 coins on your FUT
-                                club balance
-                            </li>
-                            <li>
-                                While money transfer is in process please log
-                                out from FIFA Ultimate Team mode and do not use
-                                FUT Companion or FUT Web App.
-                            </li>
-                            <li>
-                                You should assign a default FUT club (only in
-                                case you have more than one club on account)
-                            </li>
-                            <li>
-                                For new players! Unlock the access to the
-                                transfer market so you could use the coin
-                                transfer.
-                            </li>
-                            <li>
-                                Your backup codes can be found on the following
-                                link{" "}
-                                <a
-                                    href="https://myaccount.ea.com/cp-ui/security/index"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    className="text-white underline">
-                                    https://myaccount.ea.com/cp-ui/security/index
-                                </a>
-                                .{" "}
-                                <span className="text-white">
-                                    Please keep in mind that you should use the
-                                    same login details for both EA portal and
-                                </span>{" "}
-                                <Link
-                                    href="https://royalfut.com/"
-                                    target="_blank"
-                                    className="text-white underline">
-                                    https://royalfut.com/
+                                Log on to{" "}
+                                <Link href={"https://www.origin.com"}>
+                                    www.origin.com
                                 </Link>{" "}
-                                website.
+                                with your Web App email and password.
+                            </li>
+                            <li>
+                                Click “Account Settings,” then choose
+                                “Security.” Ensure your Login Verification
+                                Status is “On.”
+                            </li>
+                            <li>
+                                Click “View” to get the Backup Codes. Ensure the
+                                backup codes you submit are all unused. You can
+                                also click “Create New Codes” if they are all
+                                used.
                             </li>
                         </ul>
                     </div>
-                </AccordionContent>
-            </AccordionItem>
-            <AccordionItem value="item-4">
-                <AccordionTrigger>
-                    How do I use the ROYALFUT coupon?
-                </AccordionTrigger>
-                <AccordionContent>
+                </FAQAccordion.Content>
+            </FAQAccordion.Item>
+            <FAQAccordion.Item value="item-4">
+                <FAQAccordion.Trigger>
+                    What should I do to prepare my club for the coin transfer?
+                </FAQAccordion.Trigger>
+                <FAQAccordion.Content>
+                    <div>
+                        <ul className="leading-tight text-white-60 text-base font-medium list-inside list-disc">
+                            <li>
+                                Ensure there are at least 5,000 coins on your
+                                FUT club balance.
+                            </li>
+                            <li>
+                                While the coin transfer is in process, please
+                                log out from FIFA Ultimate Team mode and do not
+                                use the FUT Companion or FUT Web App.
+                            </li>
+                            <li>
+                                Assign a default FUT club (only if you have more
+                                than one club on your account).
+                            </li>
+                            <li>
+                                For new players, unlock access to the transfer
+                                market to use the coin transfer.
+                            </li>
+                            <li>
+                                Your backup codes can be found here: EA
+                                Security. Use the same login details for both
+                                the EA portal and the ROYALFUT website.
+                            </li>
+                        </ul>
+                    </div>
+                </FAQAccordion.Content>
+            </FAQAccordion.Item>
+            <FAQAccordion.Item value="item-5">
+                <FAQAccordion.Trigger>
+                    When can I log back into my account?
+                </FAQAccordion.Trigger>
+                <FAQAccordion.Content>
                     <div>
                         <span className="text-white-60 text-base font-medium leading-tight">
-                            You can apply the coupon at the checkout stage. Each
-                            coupon offers a different discount. After you apply
-                            the coupon, the cost of your purchase will be
-                            adjusted automatically.
+                            You can check the status on the Order History page.
+                            When the status is Transfer Completed, Available,
+                            you can log back into your account.
                         </span>
                     </div>
-                </AccordionContent>
-            </AccordionItem>
-            <AccordionItem value="item-5">
-                <AccordionTrigger>
-                    Is purchasing coins at ROYALFUT.COM safe?
-                </AccordionTrigger>
-                <AccordionContent>
+                </FAQAccordion.Content>
+            </FAQAccordion.Item>
+
+            <h2 className="text-bold text-4xl pt-8 pb-2">
+                Payment and Withdrawal
+            </h2>
+
+            <FAQAccordion.Item value="item-6">
+                <FAQAccordion.Trigger>
+                    How do I get payment after selling?
+                </FAQAccordion.Trigger>
+                <FAQAccordion.Content>
+                    <div>
+                        <ul className="leading-tight text-white-60 text-base font-medium list-inside list-decimal">
+                            <li>
+                                We will use the account according to the time
+                                you choose when submitting.
+                            </li>
+                            <li>
+                                After the account is used up, we will review and
+                                check the used account, usually taking 24-48
+                                hours.
+                            </li>
+                            <li>
+                                Once the review is completed, the corresponding
+                                amount will be sent to the Available Balance.
+                                You can proceed with the withdrawal if the
+                                amount reaches the minimum withdrawal amount.
+                            </li>
+                            <li>
+                                Click the &quot;Withdraw&quot; button on the
+                                &quot;Sell Record-Comfort Trade&quot; page to
+                                access the withdrawal page, where you can see
+                                the handling fees corresponding to different
+                                payment methods. You can also modify payment
+                                information if there are any issues.
+                            </li>
+                            <li>
+                                If you are certain there are no problems, you
+                                can withdraw at this time. After clicking the
+                                withdrawal button, you cannot modify any
+                                information. If the withdrawal is successful, a
+                                pop-up window will notify you.
+                            </li>
+                            <li>
+                                Returning to the Comfort Trade page, you will
+                                see the corresponding amount displayed under
+                                &quot;Payment in progress&quot;. Normally, we
+                                will complete the payout within 3 days after you
+                                submit the withdrawal request.
+                            </li>
+                            <li>
+                                If you have any questions after withdrawing,
+                                please contact customer service in time before
+                                payment. Otherwise, we will not assume any
+                                responsibility.
+                            </li>
+                        </ul>
+                    </div>
+                </FAQAccordion.Content>
+            </FAQAccordion.Item>
+            <FAQAccordion.Item value="item-7">
+                <FAQAccordion.Trigger>
+                    Which payment methods do you offer?
+                </FAQAccordion.Trigger>
+                <FAQAccordion.Content>
+                    <div>
+                        <ul className="leading-tight text-white-60 text-base font-medium list-inside list-disc">
+                            <li>Visa/MasterCard</li>
+                            <li>Cryptocurrencies</li>
+                        </ul>
+                    </div>
+                </FAQAccordion.Content>
+            </FAQAccordion.Item>
+            <FAQAccordion.Item value="item-8">
+                <FAQAccordion.Trigger>
+                    How long do I have to wait until I get my payment?
+                </FAQAccordion.Trigger>
+                <FAQAccordion.Content>
                     <div>
                         <span className="text-white-60 text-base font-medium leading-tight">
-                            Yes, it is completely safe. After more than 5000
-                            orders successfully completed using our delivery
-                            algorithms, no user has ever encountered a FUT club
-                            ban or reset.
-                            <br />
-                            We also use reliable third-party payment systems to
-                            accept payments on the website. Our current partners
-                            like PayPal or PayApp use encryption to guarantee
-                            100% safety of your payments.
+                            Payment will be sent within 1-3 days after you
+                            submit the withdrawal request. (In some cases, such
+                            as holidays, it might be delayed.)
                         </span>
                     </div>
-                </AccordionContent>
-            </AccordionItem>
-            <AccordionItem value="item-6">
-                <AccordionTrigger>
-                    Which countries ROYALFUT operates in?
-                </AccordionTrigger>
-                <AccordionContent>
+                </FAQAccordion.Content>
+            </FAQAccordion.Item>
+            <FAQAccordion.Item value="item-9">
+                <FAQAccordion.Trigger>
+                    Still have questions?
+                </FAQAccordion.Trigger>
+                <FAQAccordion.Content>
                     <div>
                         <span className="text-white-60 text-base font-medium leading-tight">
-                            We deliver the coins to FUT players worldwide.
+                            If you have any further questions or need
+                            assistance, please contact our 24/7 support via Live
+                            Chat, WhatsApp, email, or Instagram Direct.
                         </span>
                     </div>
-                </AccordionContent>
-            </AccordionItem>
-            <AccordionItem value="item-7">
-                <AccordionTrigger>
-                    Do you buy coins from users?
-                </AccordionTrigger>
-                <AccordionContent>
-                    <div>
-                        <span className="text-white-60 text-base font-medium leading-tight">
-                            Not at the moment. We will update the topic if the
-                            situation changes.
-                        </span>
-                    </div>
-                </AccordionContent>
-            </AccordionItem>
-        </Accordion.Root>
+                </FAQAccordion.Content>
+            </FAQAccordion.Item>
+        </FAQAccordion.Root>
     );
 };
 

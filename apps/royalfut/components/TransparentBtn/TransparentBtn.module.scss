@@ -1,0 +1,35 @@
+.transparent_btn {
+    background: transparent;
+    border: none;
+    border-radius: 12px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    //text-transform: capitalize;
+    //padding: 20px;
+    position: relative;
+    border: 1px solid #905aef;
+
+    &:hover {
+        background: linear-gradient(265.73deg, rgba(168, 45, 249, 0.2) 0%, rgba(102, 120, 233, 0.2) 100%);
+        box-shadow: 0px 8px 80px rgba(137, 81, 242, 0.4);
+    }
+}
+.border {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    min-height: 63px;
+}
+.svg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+}

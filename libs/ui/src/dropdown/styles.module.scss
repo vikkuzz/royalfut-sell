@@ -1,0 +1,5 @@
+.card-content-wrapper {
+  [data-radix-popper-content-wrapper] {
+      z-index: var(--z-index-picker-card) !important;
+  }
+}

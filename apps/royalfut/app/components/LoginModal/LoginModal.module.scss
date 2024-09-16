@@ -1,0 +1,25 @@
+.app_burgerwrapper {
+    position: fixed;
+    width: 100%;
+    max-width: 100vw;
+    height: 100%;
+    right: -100%;
+    //transition: all .4s;
+    transition: all 0.3s ease;
+    top: 0;
+    z-index: 10;
+    background: rgba(18, 20, 42, 0.8);
+    backdrop-filter: blur(24px);
+
+    @media (min-width: 1025px) {
+        width: 455px;
+    }
+}
+.show_container {
+    //right: 0;
+    transform: translateX(-100%);
+
+    @media (min-width: 1025px) {
+        transform: translateX(-100vw);
+    }
+}

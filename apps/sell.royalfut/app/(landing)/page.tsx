@@ -1,25 +1,47 @@
+import {
+    FIFA24CoinsPromo,
+    TrustScoreBanner,
+    InfographicStats,
+    ClientTestimonials,
+    ReviewsGallery,
+} from "@royalfut/components";
 import Hero from "./_components/hero";
 import Achivements from "./_components/achivements";
 import WhyUs from "./_components/whyus";
 import HowDoesItWork from "./_components/guide";
-import FIFA24CoinsPromo from "./_components/FIFA24CoinsPromo";
 import WithdrawalMethods from "./_components/methods";
 import Calculator from "./_components/calculator";
-import Reviews from "./_components/reviews/Reviews";
-import InfograficMain from "./_components/InfograficMain";
-import Aside from "./_components/aside/Aside";
+import { LayoutViewportSectionFrame } from "@royalfut/ui";
+import { DefaultAppSettings } from "@royalfut/collections";
 
 const Index = async () => {
     return (
         <div className="flex flex-col">
-            <Aside />
+            <TrustScoreBanner
+                className="px-6"
+                rate={DefaultAppSettings.trustScore.rate}
+                reviews={DefaultAppSettings.trustScore.reviews}
+            />
             <Hero />
-            <InfograficMain />
+            <LayoutViewportSectionFrame className="flex flex-col mt-24">
+                <InfographicStats />
+            </LayoutViewportSectionFrame>
             <Achivements />
             <HowDoesItWork />
             <WhyUs />
             <WithdrawalMethods />
-            <Reviews />
+            <LayoutViewportSectionFrame className="flex flex-col mt-24">
+                <ClientTestimonials.Root>
+                    <ClientTestimonials.Header
+                        title={{
+                            label: "What our clients say",
+                            cn: "w-96 text-6xl",
+                        }}>
+                        <ClientTestimonials.Summary />
+                    </ClientTestimonials.Header>
+                    <ReviewsGallery />
+                </ClientTestimonials.Root>
+            </LayoutViewportSectionFrame>
             <Calculator />
             <FIFA24CoinsPromo />
         </div>

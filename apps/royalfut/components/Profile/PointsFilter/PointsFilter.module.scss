@@ -1,0 +1,35 @@
+.container {
+    border-radius: 8px;
+    background: var(--Black-Dropdown, #35374b);
+    height: 48px;
+
+    @media (min-width: 1025px) {
+        height: 33px;
+        width: auto;
+    }
+}
+.btn {
+    padding: 9px 24px;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    background: transparent;
+    border-radius: 8px;
+    border: none;
+    transition: all 0.3s;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.4);
+
+    &:hover {
+        border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+}
+.btn_active {
+    color: white;
+    background: var(--white-01-white, rgba(255, 255, 255, 0.1));
+}
+.wrapper {
+    background: transparent;
+}

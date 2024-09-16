@@ -1,6 +1,7 @@
 "use client";
+
 import { CheckVIcon } from "@royalfut/icons";
-import { IOrder } from "@royalfut/interfaces";
+// import { IOrder } from "@royalfut/interfaces";
 import { cn } from "@royalfut/utils";
 import React, { useEffect, useState } from "react";
 
@@ -11,7 +12,7 @@ interface IStatus {
     icon: boolean;
 }
 
-const StatusPayout = ({ item }: IOrder) => {
+const StatusPayout = ({ item }: { item: any }) => {
     const mapStatus = {
         closed: {
             color: "#15BC26",
@@ -28,12 +29,13 @@ const StatusPayout = ({ item }: IOrder) => {
     };
     const [status, setStatus] = useState<IStatus>(mapStatus.other);
     useEffect(() => {
-        if (item.status.toLowerCase() === "closed") {
+        if (item.status?.toLowerCase() === "closed") {
             setStatus(mapStatus.closed);
         } else {
             setStatus(mapStatus.other);
         }
-    }, [item, mapStatus.closed, mapStatus.other]);
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [item]);
     return (
         <div
             className={cn(

@@ -15,8 +15,8 @@ const EALogin = () => {
 
     const onValid = useCallback(() => {
         setAllowSteps([OrderStepIds.ACCOUNT_DETAILS]);
-        setStepsCompleted([OrderStepIds.SUMMARY_AND_SELL]);
-    }, [setAllowSteps, setStepsCompleted]);
+        // setStepsCompleted([OrderStepIds.SUMMARY_AND_SELL]);
+    }, [setAllowSteps]);
 
     const onInvalid = useCallback(() => {
         setAllowSteps(

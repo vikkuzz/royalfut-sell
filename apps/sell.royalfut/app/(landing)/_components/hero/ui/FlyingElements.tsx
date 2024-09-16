@@ -60,8 +60,10 @@ export const FlyCoins = () => {
         </div>
     );
 };
+
 const cnWiggle =
     "animate-wiggle animate-infinite animate-duration-[1500ms] animate-ease-in-out";
+
 export const FlyMonies = () => {
     return (
         <div>
@@ -130,6 +132,7 @@ const PaymentBox: FNCN<{
     cnIcon?: string;
 }> = ({ className, month, payment, id, cnIcon }) => {
     const Icon = mapPaymentIcons[id];
+
     return (
         <div
             className={cn(

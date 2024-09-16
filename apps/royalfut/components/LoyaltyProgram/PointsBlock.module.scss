@@ -1,0 +1,59 @@
+.points_block {
+    padding: 2px 8px;
+    justify-content: center;
+    align-items: center;
+    gap: 2px;
+    width: auto;
+
+    border-radius: 100px;
+    background: var(
+        --Primary-Purple-gradient,
+        linear-gradient(266deg, #a82df9 0%, #6678e9 100%)
+    );
+}
+.container {
+    width: auto;
+    background: transparent;
+}
+.full {
+    //height: 30px;
+    padding: 2px 8px 2px 2px;
+    align-items: center;
+    gap: 4px;
+    width: fit-content;
+    align-self: flex-end;
+
+    border-radius: 100px;
+    background: var(--white-01-white, rgba(255, 255, 255, 0.1));
+}
+.points {
+    background: transparent;
+    width: auto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+}
+.points_icon {
+    background: transparent;
+    min-width: 12px;
+    width: auto;
+}
+.points_price_wrapper {
+    gap: 4px;
+    background-color: transparent;
+    white-space: nowrap;
+
+    span {
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 500;
+    }
+}
+.mobile {
+    height: 30px;
+    align-items: center;
+    width: fit-content;
+
+    border-radius: 100px;
+    background: transparent;
+}

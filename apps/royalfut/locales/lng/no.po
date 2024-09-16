@@ -1,0 +1,4422 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-03-13 02:31+0400\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: no\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: pages/_app.js:26
+msgid "\"seo:root:description\""
+msgstr ""
+
+#: components/DeliveryStage/DeliveryStage.js:121
+#~ msgid "{0}"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:52
+msgid "80% of orders are delivered"
+msgstr "blir levert 80% av bestillingene"
+
+#~ msgid "a0"
+#~ msgstr "Basert på [[X]] anmeldelser"
+
+#: components/Rated/Rated.js:83
+#: components/ReviewsGallery/ReviewsGallery.js:87
+msgid "a0_1"
+msgstr "Basert på "
+
+#: components/Rated/Rated.js:90
+msgid "a0_2"
+msgstr "[[X]] anmeldelser"
+
+#: components/ChangePassword/ChangePassword.js:153
+msgid "a1"
+msgstr "Endre passord"
+
+#~ msgid "a10"
+#~ msgstr "Bonus-mynter"
+
+#: components/Order/OrderDelivery.js:192
+msgid "a100"
+msgstr "Spillerauksjon"
+
+#: components/CustomAccordion/CustomAccordion.js:52
+#: components/CustomAccordion/CustomAccordion.js:642
+msgid "a101"
+msgstr "Spørsmål om Spillerauksjon leveringsmetoden"
+
+#: components/CustomAccordion/CustomAccordion.js:648
+msgid "a102"
+msgstr "Hvordan forbereder jeg min [[UT]] klubb for Spillerauksjon leveringen?"
+
+#: components/CustomAccordion/CustomAccordion.js:345
+msgid "a103"
+msgstr "- sørg for at du har låst opp overgangsmarkedet "
+
+#: components/CustomAccordion/CustomAccordion.js:348
+msgid "a103_2"
+msgstr "- ha minst 5000 mynter på klubbens saldoen"
+
+#: components/CustomAccordion/CustomAccordion.js:659
+msgid "a104"
+msgstr "Hvordan vet jeg om jeg har låst opp overgangsmarkedet i [[WA]]?"
+
+#: components/CustomAccordion/CustomAccordion.js:357
+msgid "a105"
+msgstr "Overgangsmarkedet blir låst opp"
+
+#: components/CustomAccordion/CustomAccordion.js:360
+msgid "a106"
+msgstr "Overgangsmarkedet blir blokkert"
+
+#: components/CustomAccordion/CustomAccordion.js:670
+msgid "a107"
+msgstr "Hva må jeg gjøre for å bestille og få mynter med denne metoden?"
+
+#: components/CustomAccordion/CustomAccordion.js:211
+msgid "a108"
+msgstr "Spillerauksjon"
+
+#: components/CustomAccordion/CustomAccordion.js:225
+msgid "a109"
+msgstr "1. Legg inn en bestilling på nettsiden og velg Spillerauksjon leveringsmetoden."
+
+#: components/Purchase/Purchase.js:661
+msgid "a11"
+msgstr "Laster inn bestillingen din"
+
+#: components/CustomAccordion/CustomAccordion.js:228
+msgid "a110"
+msgstr "2. Betal for bestillingen."
+
+#: components/CustomAccordion/CustomAccordion.js:231
+msgid "a111"
+msgstr "3. Etter vellykket betalingen blir du omdirigert til en side med instruksjoner for overføring av mynter. Følg trinnene beskrevet i den fra kontoen du vil få mynter til."
+
+#: components/CustomAccordion/CustomAccordion.js:235
+msgid "a112"
+msgstr "Mer informasjon finnes i videoopplæringen nedenfor."
+
+#~ msgid "a113"
+#~ msgstr "Se mer"
+
+#: components/CustomAccordion/CustomAccordion.js:243
+msgid "a114"
+msgstr "5. Gled deg over myntene! Og ikke glem å gi oss"
+
+#~ msgid "a115"
+#~ msgstr "en anmeldelse på Trustpilot."
+
+#~ msgid "a116"
+#~ msgstr "På hver trinn kan du få vår kundestøttetjeneste - bare skriv spørsmålet ditt i chat på nettsiden eller kontakt oss ved en annen kommunikasjonskanal (WhatsApp, Telegram, Instagram Direct, e-post)."
+
+#: components/CustomAccordion/CustomAccordion.js:53
+#: components/CustomAccordion/CustomAccordion.js:681
+msgid "a117"
+msgstr "Spørsmål om betalinger"
+
+#: components/CustomAccordion/CustomAccordion.js:687
+msgid "a118"
+msgstr "I hvilke land jobber du og aksepterer betalinger?"
+
+#: components/CustomAccordion/CustomAccordion.js:447
+msgid "a119"
+msgstr "Vi jobber over hele verden og aksepterer betalinger fra alle regioner, med unntak av land med høyrisiko jurisdiksjoner som Afghanistan, Nord-Korea, Syria, Republikken Krim og andre."
+
+#: components/ChangeAvatar/ChangeAvatar.js:52
+msgid "a12"
+msgstr "Velg profilbilde"
+
+#: components/CustomAccordion/CustomAccordion.js:695
+msgid "a120"
+msgstr "Hvilke betalingsmetoder tilbyr du?"
+
+#: components/CustomAccordion/CustomAccordion.js:458
+msgid "a121"
+msgstr "Listen over betalingsmåter oppdateres stadig da vi ønsker å forbedre tjenestene våre. Når aksepterer vi betalinger på følgende måter: "
+
+#: components/CustomAccordion/CustomAccordion.js:462
+msgid "a121_2"
+msgstr "1. Kort tav betalingssystemer: VISA, MasterCard, Maestro, Discover, DinnersClub, JCB og UnionPay. "
+
+#: components/CustomAccordion/CustomAccordion.js:465
+msgid "a121_3"
+msgstr "2. Kontaktløs betaling via Apple Pay og Google Pay. "
+
+#: components/CustomAccordion/CustomAccordion.js:468
+msgid "a121_4"
+msgstr "3. Bankoverføring gjennom mest av EU-banker, iDeal og andre. "
+
+#: components/CustomAccordion/CustomAccordion.js:471
+msgid "a121_5"
+msgstr "4. Kryptovalutaer - Bitcoin, USD Tether, Ethereum."
+
+#: components/CustomAccordion/CustomAccordion.js:703
+msgid "a122"
+msgstr "Hvordan kan jeg få refusjon?"
+
+#: components/CustomAccordion/CustomAccordion.js:708
+msgid "a123"
+msgstr "Hvis du har betalt for bestillingen din, men av en eller annen grunn ikke trenger mynter lenger, kan du be om full refusjon. For å gjøre det, må du kontakte vår kundestøtte gjennom kommunikasjonskanal som passer deg, enten det er en chat på nettsiden, WhatsApp, Telegram, Instagram Direct eller e-post."
+
+#: components/CustomAccordion/CustomAccordion.js:713
+msgid "a124"
+msgstr "Kjøper du mynter av brukere?"
+
+#: components/CustomAccordion/CustomAccordion.js:718
+msgid "a125"
+msgstr "Vi kan til og med kjøpe mynter fra deg. For dette, skriv til vår manager på Skype eller Telegram."
+
+#~ msgid "a126"
+#~ msgstr "Ingen flere spørsmål? Da er det på tide å kjøpe mynter!"
+
+#~ msgid "a127"
+#~ msgstr "Kjøp mynter"
+
+#: components/RedirectModal/RedirectModal.js:40
+msgid "a128"
+msgstr "Omdirigeres…"
+
+#: components/RedirectModal/RedirectModal.js:42
+msgid "a129"
+msgstr "Du blir automatisk omdirigert til vår partners nettside"
+
+#~ msgid "a13"
+#~ msgstr "Endre mynterantall"
+
+#: components/RedirectModal/RedirectModal.js:44
+msgid "a130"
+msgstr "om [[X]] sekunder"
+
+#: components/Modal/Modal.js:253
+msgid "a131"
+msgstr "Gå nå"
+
+#~ msgid "a132"
+#~ msgstr "Gi oss minst 2 sikkerhetskopikoder"
+
+#~ msgid "a133"
+#~ msgstr "Bestillingen din"
+
+#~ msgid "a134"
+#~ msgstr "Bonus-mynter"
+
+#: components/Order/OrderPayments.js:107
+msgid "a135"
+msgstr "Betalingsmetode"
+
+#: components/Payments/Payments.js:96
+#: components/Payments/Payments.js:181
+#: components/Purchase/Purchase.js:126
+#: components/Purchase/Purchase.js:132
+#: components/Purchase/Purchase.js:162
+#: components/Purchase/Purchase.js:168
+#: components/Purchase/Purchase.js:180
+msgid "a136"
+msgstr "Med kort"
+
+#: components/Payments/Payments.js:140
+#: components/Purchase/Purchase.js:156
+msgid "a137"
+msgstr "Via nettbank"
+
+#: components/Payments/Payments.js:160
+#: components/Payments/Payments.js:200
+#: components/Purchase/Purchase.js:138
+#: components/Purchase/Purchase.js:144
+#: components/Purchase/Purchase.js:150
+#: components/Purchase/Purchase.js:174
+msgid "a138"
+msgstr "Med krypto"
+
+#: components/Order/OrderPayments.js:36
+#: components/Payments/Payments.js:146
+msgid "a139"
+msgstr "EU: Ved bankoverføring"
+
+#: components/TableOrders/TableOrderBody.js:728
+msgid "a14"
+msgstr "Lim inn"
+
+#~ msgid "a140"
+#~ msgstr "Levering"
+
+#: components/DeliveryContent/DeliveryContent.js:13
+msgid "a141"
+msgstr "Vi vil gjerne presentere deg EA FCs innovative leveringssystem av mynter utviklet helt av oss - helt unik på FIFA-myntmarkedet. Hver bestilling behandles i henhold til et sett med proprietære protokoller som fullstendig utelukker uønskede konsekvenser for EA-kontoen. Vi forbedrer stadig vår algoritme for myntoverføring ved å teste og justere den ved kalibrering og en rekke forskjellige tester. Bare etter det får algoritmen grønt lys for full implementering."
+
+#: components/DeliveryContent/DeliveryContent.js:15
+msgid "a142"
+msgstr "Dessuten utvikler vi vår innflytelse kraftig ved å etablere produktive partnerskap med mange andre organisasjoner som er involvert i salg av EA FC-mynter. For tiden inkluderer økosystemet vårt mer enn 10 slike butikker som selger EA FC-mynter og er integrert i plattformen vår. Og døren for slike samarbeid blir alltid åpen. Hvis du er interessert i å samarbeide med oss ​​som en EA FC Myntbutikk, vennligst kontakt oss via"
+
+#: components/DeliveryContent/DeliveryContent.js:24
+msgid "a143"
+msgstr "Skype"
+
+#: components/DeliveryContent/DeliveryContent.js:27
+msgid "a144"
+msgstr "eller"
+
+#: components/DeliveryContent/DeliveryContent.js:34
+msgid "a145"
+msgstr "Telegram"
+
+#: components/DeliveryContent/DeliveryContent.js:37
+msgid "a146"
+msgstr "hvor vi kan diskutere denne interessante samarbeidsmuligheten, som vil tillate oss å styrke listen over våre suksesser på FUT og EA FC-mynter markedet som du har sett ovenfor."
+
+#: components/Infografic/Infografic.js:114
+msgid "a147"
+msgstr "Her kan du se litt statistikk* for din interesse:"
+
+#: components/Infografic/Infografic.js:12
+#: components/InfograficMain/InfograficMain.js:12
+msgid "a148"
+msgstr "Vår erfaring er"
+
+#~ msgid "a149"
+#~ msgstr "7"
+
+#: components/Infografic/Infografic.js:14
+#~ msgid "a149_1"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:14
+msgid "a149_2"
+msgstr "7"
+
+#: components/Infografic/Infografic.js:15
+msgid "a149_3"
+msgstr "+"
+
+#~ msgid "a15"
+#~ msgstr "Logg inn og bruk en kupong"
+
+#: components/Infografic/Infografic.js:16
+msgid "a150"
+msgstr "års erfaring innen dette feltet"
+
+#: components/Infografic/Infografic.js:21
+#: components/InfograficMain/InfograficMain.js:20
+msgid "a151"
+msgstr "Vi har overført"
+
+#~ msgid "a152"
+#~ msgstr "100"
+
+#: components/Infografic/Infografic.js:23
+#~ msgid "a152_1"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:23
+msgid "a152_2"
+msgstr "100"
+
+#: components/Infografic/Infografic.js:24
+msgid "a152_3"
+msgstr "B+"
+
+#: components/Infografic/Infografic.js:26
+#~ msgid "a153"
+#~ msgstr "mynter ble overført til kunder"
+
+#: components/Infografic/Infografic.js:30
+#: components/InfograficMain/InfograficMain.js:28
+msgid "a154"
+msgstr "Vi har levert"
+
+#~ msgid "a155"
+#~ msgstr "100"
+
+#: components/Infografic/Infografic.js:32
+#~ msgid "a155_1"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:32
+msgid "a155_2"
+msgstr "100"
+
+#: components/Infografic/Infografic.js:33
+msgid "a155_3"
+msgstr "K+"
+
+#: components/Infografic/Infografic.js:35
+#~ msgid "a156"
+#~ msgstr "bestillinger ble levert"
+
+#: components/Infografic/Infografic.js:39
+#: components/InfograficMain/InfograficMain.js:36
+msgid "a157"
+msgstr "Vår tjenester har blitt brukt av"
+
+#~ msgid "a158"
+#~ msgstr "30"
+
+#: components/Infografic/Infografic.js:41
+#~ msgid "a158_1"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:41
+msgid "a158_2"
+msgstr "30"
+
+#: components/Infografic/Infografic.js:42
+msgid "a158_3"
+msgstr "K+"
+
+#: components/Infografic/Infografic.js:44
+#~ msgid "a159"
+#~ msgstr "spillere har brukt vår tjenester"
+
+#~ msgid "a16"
+#~ msgstr "+ $[[X]] for 100k"
+
+#: components/Infografic/Infografic.js:48
+#: components/InfograficMain/InfograficMain.js:44
+msgid "a160"
+msgstr "I løpet av mindre enn"
+
+#~ msgid "a161"
+#~ msgstr ">80%"
+
+#: components/Infografic/Infografic.js:50
+#~ msgid "a161_1"
+#~ msgstr ">"
+
+#: components/Infografic/Infografic.js:50
+msgid "a161_2"
+msgstr "20"
+
+#: components/Infografic/Infografic.js:53
+#~ msgid "a162"
+#~ msgstr "av kunder som kom tilbake til oss og kjøpt minst to ganger"
+
+#: components/Infografic/Infografic.js:57
+#: components/InfograficMain/InfograficMain.js:53
+msgid "a163"
+msgstr "Ifølge undersøkelsene våre har vi"
+
+#~ msgid "a164"
+#~ msgstr "97%"
+
+#: components/Infografic/Infografic.js:61
+#~ msgid "a165"
+#~ msgstr "av brukerne blir fornøyd ifølge undersøkelsene våre"
+
+#: components/Infografic/Infografic.js:126
+msgid "a166"
+msgstr "*dataene er relevant til 1. oktober 2023"
+
+#~ msgid "a17"
+#~ msgstr "EA FC 25 Ultimate Team Store | EA Sports FC Mynter Butikken"
+
+#~ msgid "a18"
+#~ msgstr "Du skal få"
+
+#: pages/coins/index.js:196
+#: pages/coins/index.js:275
+msgid "a19"
+msgstr "Andre antall"
+
+#: components/Modal/Modal.js:492
+msgid "a2"
+msgstr "Tilbake"
+
+#: components/InformationStub/InformationStub.js:19
+msgid "a20"
+msgstr "Du har ikke noen bestillinger ennå"
+
+#: components/InformationStub/InformationStub.js:22
+msgid "a21"
+msgstr "Her kan du se din ordrehistorikk"
+
+#: components/InformationStub/InformationStub.js:30
+msgid "a22"
+msgstr "Gå til Startsiden"
+
+#~ msgid "a23"
+#~ msgstr "Med kort"
+
+#: components/Order/OrderPayments.js:72
+msgid "a24"
+msgstr "Med krypto"
+
+#~ msgid "a25"
+#~ msgstr "Med Apple Pay"
+
+#~ msgid "a26"
+#~ msgstr "Med Google Pay"
+
+#~ msgid "a27"
+#~ msgstr "Med e-lommebok"
+
+#~ msgid "a28"
+#~ msgstr "Ved bankoverføring"
+
+#~ msgid "a29"
+#~ msgstr "Vanlige spørsmål"
+
+#~ msgid "a3"
+#~ msgstr "Velge"
+
+#: components/CustomAccordion/CustomAccordion.js:502
+#: components/FaqMain/FaqMain.js:124
+msgid "a30"
+msgstr "Hvorfor velge ROYALFUT.COM?"
+
+#: components/CustomAccordion/CustomAccordion.js:61
+#: components/FaqMain/FaqMain.js:19
+msgid "a31"
+msgstr "Vi har mange fortrinn som du vil se selv etter det første kjøpet:"
+
+#: components/CustomAccordion/CustomAccordion.js:65
+#: components/FaqMain/FaqMain.js:23
+msgid "a32"
+msgstr "Våre priser er noen av de laveste på markedet."
+
+#: components/CustomAccordion/CustomAccordion.js:71
+#: components/FaqMain/FaqMain.js:29
+msgid "a33"
+msgstr "Et stort antall anmeldelser fra fornøyde kunder, du kan finne dem"
+
+#: components/CustomAccordion/CustomAccordion.js:74
+#: components/FaqMain/FaqMain.js:32
+msgid "a34"
+msgstr "her."
+
+#: components/CustomAccordion/CustomAccordion.js:82
+#: components/FaqMain/FaqMain.js:40
+msgid "a35"
+msgstr "Sikkerheten av kontoen din er alltid i første rekke og hvis myntene dine ikke blir levert av en eller annen grunn, er full refusjon garantert."
+
+#: components/FaqMain/FaqMain.js:46
+msgid "a36"
+msgstr "Den korteste leveringstida - med oss skal du aldri vente lenge på bestillingen din."
+
+#: components/FaqMain/FaqMain.js:52
+msgid "a37"
+msgstr "Vår kundestøtteteam vil alltid hjelpe deg og gi råd både før og etter kjøpet, gjennom kommunikasjonskanal som passer deg, enten det er en chat på nettsiden, WhatsApp, Telegram, Instagram Direct eller e-post."
+
+#: components/CustomAccordion/CustomAccordion.js:510
+#: components/FaqMain/FaqMain.js:132
+msgid "a38"
+msgstr "Hvorfor er [[UT]] mynter bedre enn [[PT]]?"
+
+#: components/CustomAccordion/CustomAccordion.js:370
+#: components/FaqMain/FaqMain.js:65
+msgid "a39"
+msgstr "De fleste [[F]]-spillere velger [[UT]]-mynter på grunn av deres lave kostnader og en muligheten å bruke denne valutaen slik at de får mest mulig verdig for deres [[UT]] klubben."
+
+#~ msgid "a4"
+#~ msgstr "Valgt"
+
+#: components/CustomAccordion/CustomAccordion.js:377
+#: components/FaqMain/FaqMain.js:72
+msgid "a40"
+msgstr "Du kan bruke [[UT]] mynter til å kjøpe gjenstander i spillet som er oppført av andre brukere på overgangsmarkedet.Dette kan være spillerkort, trenerkort, uniformsdrakter, stadioner, forbruksmateriell og mer. Og alt dette kan ikke kjøpes for [[PT]]."
+
+#: components/CustomAccordion/CustomAccordion.js:384
+#: components/FaqMain/FaqMain.js:79
+msgid "a41"
+msgstr "Du kan kjøpe pakker fra pakkebutikken og få tilgang til [[UT]] Draft ved å bruke både [[PT]] og [[UT]]-mynter. Men når det gjelder ekte penger, er det mer enn 5 ganger billigere å handle i spillet med [[UT]]-mynter i stedet for [[PT]]. Når det gjelder Begynn å kjøpe mynter hos hos og se det selv 😉"
+
+#: components/CustomAccordion/CustomAccordion.js:520
+msgid "a42"
+msgstr "Hvilke leveringsmetoder tilbyr du og hva er forskjellen mellom dem?"
+
+#: components/CustomAccordion/CustomAccordion.js:397
+msgid "a43"
+msgstr "Vi tilbyr Comfort Trade og Spillerauksjon."
+
+#: components/CustomAccordion/CustomAccordion.js:402
+msgid "a44"
+msgstr "Comfort Trade trenger EA-kontoopplysningene dine, men du trenger ikke å gjøre noe – vi utfører leveringsprosessen selv."
+
+#: components/CustomAccordion/CustomAccordion.js:407
+msgid "a45"
+msgstr "Spillerauksjon trenger ikke noen kontoopplysningene, men du skal levere mynder helt selv."
+
+#: components/CustomAccordion/CustomAccordion.js:412
+msgid "a46"
+msgstr "Du kan finne mer informasjon om de to metodene"
+
+#: components/CustomAccordion/CustomAccordion.js:414
+msgid "a47"
+msgstr "her."
+
+#: components/CustomAccordion/CustomAccordion.js:528
+msgid "a48"
+msgstr "Hvor lang tid tar levering av mynter?"
+
+#: components/CustomAccordion/CustomAccordion.js:426
+msgid "a49"
+msgstr "Det avhenger av leveringsmetoden."
+
+#: components/BurgerMenu/BurgerMenu.js:306
+#: components/BurgerMenu/BurgerMenu.js:501
+msgid "a5"
+msgstr "Meny"
+
+#: components/CustomAccordion/CustomAccordion.js:431
+msgid "a50"
+msgstr "Vi viser omtrentlig leveringstid for Comfort Trade før betaling. Hvis alle kontoopplysningene dine er korrekte og kontoen din er helt klar for overføring av mynter, vil bestillingen bli fullført innen 15-20 minutter i gjennomsnitt. Men leveringstida avhenger mest av antall mynter."
+
+#: components/CustomAccordion/CustomAccordion.js:436
+msgid "a51"
+msgstr "Hvis du velger Spillerauksjon, avhenger leveringstida helt av deg. Myntoverføringen gjennomføres ved kjøp og salg av spillerkort. I gjennomsnitt kjøper og selger du 3-10 kort i henhold til våre instruksjoner. Startsaldoen din har en stor rolle – jo høyere den er, desto mindre tid vil overføringen av mynter ta. Så før du starter leveringen, prøv å gjøre den så stor som mulig, for eksempel ved å selge unødvendige kort i klubben."
+
+#: components/CustomAccordion/CustomAccordion.js:536
+msgid "a52"
+msgstr "Hvordan kan jeg bruke en rabattkupong?"
+
+#: components/CustomAccordion/CustomAccordion.js:542
+msgid "a53"
+msgstr "Den kan du bruke på betalingssiden."
+
+#: components/CustomAccordion/CustomAccordion.js:548
+#: components/FaqMain/FaqMain.js:143
+msgid "a54"
+msgstr "Har du spesialtilbud til faste kunder?"
+
+#: components/CustomAccordion/CustomAccordion.js:554
+#: components/FaqMain/FaqMain.js:91
+msgid "a55"
+msgstr "Ja, du vil vite om de så snart du begynner å kjøpe fra oss. Vi utarbeider et transparent lojalitetssystem på din personlige konto. Følg med😉"
+
+#: components/Order/OrderDelivery.js:141
+msgid "a56"
+msgstr "Comfort Trade"
+
+#: components/CustomAccordion/CustomAccordion.js:51
+#: components/CustomAccordion/CustomAccordion.js:563
+msgid "a57"
+msgstr "Spørsmål om Comfort Trade leveringsmetoden"
+
+#: components/CustomAccordion/CustomAccordion.js:569
+msgid "a58"
+msgstr "Hvordan forbereder jeg min [[UT]] klubb for Comfort Trade leveringen?"
+
+#~ msgid "a59"
+#~ msgstr "Overgangsliste"
+
+#~ msgid "a6"
+#~ msgstr "[[X]] mynter"
+
+#: components/CustomAccordion/CustomAccordion.js:110
+msgid "a60"
+msgstr "sørg for at du har låst opp overgangsmarkedet i [[WA]]"
+
+#: components/CustomAccordion/CustomAccordion.js:120
+msgid "a61"
+msgstr "ha minst 5000 mynter på klubbens saldoen"
+
+#: components/CustomAccordion/CustomAccordion.js:126
+msgid "a62"
+msgstr "frigjøre så mye plass som mulig i overgangslisten"
+
+#: components/CustomAccordion/CustomAccordion.js:580
+msgid "a63"
+msgstr "Hvordan vet jeg om jeg har låst opp overgangsmarkedet i [[WA]]?"
+
+#: components/CustomAccordion/CustomAccordion.js:138
+msgid "a64"
+msgstr "Overgangsmarkedet blir låst opp"
+
+#: components/CustomAccordion/CustomAccordion.js:141
+msgid "a65"
+msgstr "Overgangsmarkedet blir blokkert"
+
+#: components/CustomAccordion/CustomAccordion.js:591
+msgid "a66"
+msgstr "Hva må jeg gjøre for å bestille og få mynter med denne metoden?"
+
+#: components/CustomAccordion/CustomAccordion.js:151
+msgid "a67"
+msgstr "Comfort Trade"
+
+#: components/CustomAccordion/CustomAccordion.js:165
+msgid "a68"
+msgstr "1. Legg inn en bestilling på nettsiden og velg Comfort Trade leveringsmetoden."
+
+#: components/CustomAccordion/CustomAccordion.js:168
+msgid "a69"
+msgstr "2. Betal for bestillingen."
+
+#~ msgid "a7"
+#~ msgstr "FC 25 mynter"
+
+#: components/CustomAccordion/CustomAccordion.js:171
+msgid "a70"
+msgstr "3. Etter vellykket betalingen, må du skrive inn dataene fra EA-kontoen din."
+
+#: components/CustomAccordion/CustomAccordion.js:174
+msgid "a71"
+msgstr "4. Hvis alt er riktig, blir startet den automatiske leveringen av mynter. IKKE logg på [[F]]-kontoen din i løpet av denne tiden. Når alt er klar vil du få en e-post og se en tilsvarende melding på siden."
+
+#: components/CustomAccordion/CustomAccordion.js:181
+msgid "a72"
+msgstr "Mer informasjon finnes i videoopplæringen nedenfor."
+
+#: components/CustomAccordion/CustomAccordion.js:185
+#: components/CustomAccordion/CustomAccordion.js:239
+#: components/Products/Products.js:61
+msgid "a73"
+msgstr "Se mer"
+
+#: components/CustomAccordion/CustomAccordion.js:189
+msgid "a74"
+msgstr "5. Gled deg over myntene! Og ikke glem å gi oss"
+
+#: components/CustomAccordion/CustomAccordion.js:196
+#: components/CustomAccordion/CustomAccordion.js:250
+msgid "a75"
+msgstr "en anmeldelse på Trustpilot."
+
+#: components/CustomAccordion/CustomAccordion.js:201
+#: components/CustomAccordion/CustomAccordion.js:255
+msgid "a76"
+msgstr "På hver trinn kan du få vår kundestøttetjeneste - bare skriv spørsmålet ditt i chat på nettsiden eller kontakt oss ved en annen kommunikasjonskanal (WhatsApp, Telegram, Instagram Direct, e-post)."
+
+#: components/CustomAccordion/CustomAccordion.js:599
+msgid "a77"
+msgstr "Hvilke kontodetaljer kreves for Comfort Trade leveringsmetoden?"
+
+#~ msgid "a78"
+#~ msgstr "Sikkerhetskopikoder"
+
+#: components/CustomAccordion/CustomAccordion.js:264
+msgid "a79"
+msgstr "Bare EA-kontos e-postadresse, passord og sikkerhetskopikoderkoder. Vi trenger ikke EA ID og PSN/Xbox-kontoinformasjon."
+
+#~ msgid "a8"
+#~ msgstr "Betaling"
+
+#: components/CustomAccordion/CustomAccordion.js:607
+msgid "a80"
+msgstr "Hvordan beskytter ROYALFUT.COM min personlige informasjon?"
+
+#: components/CustomAccordion/CustomAccordion.js:273
+msgid "a81"
+msgstr "Prosjektadministrasjonen beskytter informasjonen som overføres gjennom nettstedet mot hacking og tyveri, basert på strenge retningslinjer for personvern og styringssystem. Vi vil ALDRI dele noen personlig informasjon, inkludert EA-kontodataene, bankkortdataene osv., med tredjeparter!"
+
+#: components/CustomAccordion/CustomAccordion.js:276
+msgid "a82"
+msgstr "Personvernerklæring."
+
+#~ msgid "a83"
+#~ msgstr "Påloggingsbekreftelse"
+
+#: components/CustomAccordion/CustomAccordion.js:615
+msgid "a84"
+msgstr "Hvordan slår jeg på påloggingsbekreftelse"
+
+#: components/CustomAccordion/CustomAccordion.js:287
+msgid "a85"
+msgstr "1. Gå til"
+
+#: components/CustomAccordion/CustomAccordion.js:294
+msgid "a86"
+msgstr "EA-kontoens sikkerhetsinstillinger."
+
+#: components/CustomAccordion/CustomAccordion.js:299
+msgid "a87"
+msgstr "2. Sikkerhet > Påloggingsbekreftelse > Slå på > Send kode > Slå på påloggingsbekreftelse"
+
+#~ msgid "a88"
+#~ msgstr "Sikkerhetskopikoder"
+
+#~ msgid "a89"
+#~ msgstr "Hvor kan jeg finne sikkerhetskopikodene mine?"
+
+#~ msgid "a9"
+#~ msgstr "Handlekurv"
+
+#~ msgid "a90"
+#~ msgstr "1. Gå til"
+
+#~ msgid "a91"
+#~ msgstr "EA-kontoens sikkerhetsinstillinger."
+
+#~ msgid "a92"
+#~ msgstr "Sikkerhet > Sikkerhetskopikoder > Vis > Send sikkerhetskode > Send."
+
+#: components/CustomAccordion/CustomAccordion.js:623
+msgid "a93"
+msgstr "Hvor kan jeg finne e-postadressen fra EA-kontoen min direkte i konsollspillet?"
+
+#: components/CustomAccordion/CustomAccordion.js:309
+msgid "a94"
+msgstr "1. Start spillet og gå til hovedmenyen."
+
+#: components/CustomAccordion/CustomAccordion.js:312
+msgid "a95"
+msgstr "2. Tilpass > Online Settings > EA-account."
+
+#: components/CustomAccordion/CustomAccordion.js:631
+msgid "a96"
+msgstr "Hvordan kan jeg tilbakstille passordet til EA-kontoen min?"
+
+#: components/CustomAccordion/CustomAccordion.js:323
+msgid "a97"
+msgstr "1. Gå til"
+
+#: components/CustomAccordion/CustomAccordion.js:330
+msgid "a98"
+msgstr "påloggingssiden."
+
+#: components/CustomAccordion/CustomAccordion.js:335
+msgid "a99"
+msgstr "Logg inn > Glemt passordet ditt? > Neste > Send kode > Neste > Send."
+
+#~ msgid "aa0"
+#~ msgstr "Velkommen til en ny æra for EA-fotball!"
+
+#: components/SpecialOffer/SpecialOffer.js:63
+msgid "aa0_1"
+msgstr "Spesialtilbud"
+
+#~ msgid "aa1"
+#~ msgstr "Rabatt til lansering av EA FC 25 -7%"
+
+#~ msgid "aa10"
+#~ msgstr "Kjøp EA FC 25-mynter til [[X]]"
+
+#~ msgid "aa2"
+#~ msgstr "Bruk denne kupongen og få rabatt på din neste bestilling"
+
+#~ msgid "aa3"
+#~ msgstr "Arbeid på gang"
+
+#: components/PageChanger/PageChanger.js:71
+msgid "aa4"
+msgstr "Demo"
+
+#: pages/wl-boost.js:74
+msgid "aa5"
+msgstr "Trenger du spill booster? Vi kan hjelpe deg!"
+
+#: pages/wl-boost.js:79
+msgid "aa6"
+msgstr "Vi tilbyr deg: EA FC 25 Ultimate Team Finals rangeringsøkning, UT Champion Finaler, UT Champion Cup, Divisions Rivals. Kom i kontakt med oss nå og få den beste prisen!"
+
+#~ msgid "aa7"
+#~ msgstr "Vi kommer tilbake i:"
+
+#~ msgid "aa8"
+#~ msgstr "Gjør seg klar for ny sesong"
+
+#~ msgid "aa9"
+#~ msgstr "Kjøp EA FC 25-mynter til Ultimate Team Klubben din"
+
+#~ msgid "ab0"
+#~ msgstr ""
+
+#~ msgid "ab1"
+#~ msgstr "7"
+
+#: components/InfograficMain/InfograficMain.js:48
+msgid "ab10"
+msgstr "av kunder som kom tilbake til oss og kjøpt minst to ganger"
+
+#~ msgid "ab100"
+#~ msgstr "Betaling"
+
+#~ msgid "ab101"
+#~ msgstr "Sikker betaling"
+
+#~ msgid "ab102"
+#~ msgstr "Betalingsmetode"
+
+#~ msgid "ab103"
+#~ msgstr "Leverings metode"
+
+#~ msgid "ab104"
+#~ msgstr "Les mer om forsjellige leverings metodene"
+
+#: components/Order/OrderDelivery.js:208
+msgid "ab105"
+msgstr "Den valgte metoden er ikke mulig for dette beløpet"
+
+#: components/Order/Coupon.js:654
+msgid "ab106"
+msgstr "Har du en kupong?"
+
+#~ msgid "ab107"
+#~ msgstr "Logg inn for å Kjøpe"
+
+#: components/Order/OrderInfo.js:95
+msgid "ab108"
+msgstr "Endre bestillingen"
+
+#: components/Order/OrderInfo.js:98
+msgid "ab109"
+msgstr "Mynter"
+
+#: components/InfograficMain/InfograficMain.js:56
+msgid "ab11"
+msgstr "av brukerne blir fornøyd ifølge undersøkelsene våre"
+
+#~ msgid "ab110"
+#~ msgstr "Plattform"
+
+#: components/MainFunnel/StickySecondStep.js:115
+#: components/Order/StickySecondStep.js:355
+#: components/Package/CheckoutSticky.js:451
+msgid "ab111"
+msgstr "Total"
+
+#~ msgid "ab112"
+#~ msgstr "Betal nå"
+
+#: components/Offer/Offer.js:65
+msgid "ab113"
+msgstr "0% avgifter"
+
+#~ msgid "ab114"
+#~ msgstr "UTEN ekstra avgifter"
+
+#~ msgid "ab115"
+#~ msgstr ""
+
+#~ msgid "ab12"
+#~ msgstr ""
+
+#~ msgid "ab13"
+#~ msgstr ""
+
+#~ msgid "ab14"
+#~ msgstr ""
+
+#~ msgid "ab15"
+#~ msgstr ""
+
+#~ msgid "ab16"
+#~ msgstr ""
+
+#~ msgid "ab17"
+#~ msgstr ""
+
+#~ msgid "ab18"
+#~ msgstr ""
+
+#~ msgid "ab19"
+#~ msgstr ""
+
+#~ msgid "ab1pl"
+#~ msgstr "+"
+
+#: components/InfograficMain/InfograficMain.js:15
+msgid "ab2"
+msgstr "års erfaring innen dette feltet"
+
+#: components/FaqMain/FaqMain.js:114
+#: pages/faq.js:28
+msgid "ab20"
+msgstr "Vanlige spørsmål"
+
+#: components/CustomAccordion/CustomAccordion.js:50
+#: components/CustomAccordion/CustomAccordion.js:496
+msgid "ab21"
+msgstr "Generelle spørsmål"
+
+#~ msgid "ab22"
+#~ msgstr ""
+
+#~ msgid "ab23"
+#~ msgstr ""
+
+#~ msgid "ab24"
+#~ msgstr ""
+
+#: components/TableOrders/TableItem.js:374
+msgid "ab25"
+msgstr "Bestillingen er i kø"
+
+#~ msgid "ab26"
+#~ msgstr ""
+
+#: pages/order/index.js:58
+#: pages/order/index.js:93
+msgid "ab27"
+msgstr ""
+
+#: pages/order/index.js:95
+msgid "ab28"
+msgstr ""
+
+#~ msgid "ab29"
+#~ msgstr ""
+
+#~ msgid "ab3"
+#~ msgstr ">100 milliarder"
+
+#~ msgid "ab30"
+#~ msgstr ""
+
+#~ msgid "ab31"
+#~ msgstr ""
+
+#~ msgid "ab32"
+#~ msgstr ""
+
+#~ msgid "ab33"
+#~ msgstr ""
+
+#: pages/order/index.js:100
+msgid "ab34"
+msgstr ""
+
+#: pages/order/index.js:98
+msgid "ab35"
+msgstr ""
+
+#: components/CustomAccordion/CustomAccordion.js:88
+msgid "ab36"
+msgstr ""
+
+#: components/CustomAccordion/CustomAccordion.js:94
+msgid "ab37"
+msgstr ""
+
+#~ msgid "ab38"
+#~ msgstr ""
+
+#: pages/profile.js:34
+msgid "ab39"
+msgstr ""
+
+#: components/InfograficMain/InfograficMain.js:23
+msgid "ab4"
+msgstr "mynter ble overført til kunder"
+
+#: pages/profile.js:25
+msgid "ab40"
+msgstr ""
+
+#~ msgid "ab41"
+#~ msgstr ""
+
+#~ msgid "ab42"
+#~ msgstr ""
+
+#~ msgid "ab43"
+#~ msgstr ""
+
+#~ msgid "ab44"
+#~ msgstr ""
+
+#~ msgid "ab45"
+#~ msgstr ""
+
+#~ msgid "ab46"
+#~ msgstr ""
+
+#~ msgid "ab47"
+#~ msgstr ""
+
+#~ msgid "ab48"
+#~ msgstr ""
+
+#~ msgid "ab49"
+#~ msgstr ""
+
+#~ msgid "ab5"
+#~ msgstr ""
+
+#~ msgid "ab50"
+#~ msgstr ""
+
+#~ msgid "ab51"
+#~ msgstr ""
+
+#~ msgid "ab52"
+#~ msgstr ""
+
+#: pages/cookie-policy.js:27
+msgid "ab53"
+msgstr "Erklæring om informasjonskapsler"
+
+#: pages/cookie-policy.js:30
+msgid "ab54"
+msgstr "Ved å bruke dette nettstedet og akseptere disse vilkårene, samtykker du til vår bruk av cookies i samsvar med vilkårene i denne politikken."
+
+#: pages/cookie-policy.js:34
+msgid "ab55"
+msgstr "Les mer om informasjonskapsler."
+
+#: pages/cookie-policy.js:37
+msgid "ab56"
+msgstr "En informasjonskapsel er en tekstfil som ved bruk av en nettside lagres av din nettleser. Hver informasjonskapsel er unik for nettleseren din og inneholder anonym informasjon som en unik identifikator, nettstedets domenenavn og noen andre anonymiserte tallsett."
+
+#: pages/cookie-policy.js:40
+msgid "ab57"
+msgstr "Hvilke informasjonskapsler bruker vi?"
+
+#: pages/cookie-policy.js:43
+msgid "ab58"
+msgstr "Nødvendige informasjonskapslene"
+
+#: pages/cookie-policy.js:46
+msgid "ab59"
+msgstr "Vi bruker nødvendige informasjonskapsler for å forbedre brukeropplevelsen din og sidenavigasjon. når du går inn på og navigerer gjennom nettstedet vårt og bruker funksjonene. Disse informasjonskapslene lar oss for eksempel gjenkjenne at du har opprettet en konto og har logget på den kontoen."
+
+#: components/InfograficMain/InfograficMain.js:31
+msgid "ab6"
+msgstr "bestillinger ble levert"
+
+#: pages/cookie-policy.js:49
+msgid "ab60"
+msgstr "Informasjonskapsler for funksjonalitet"
+
+#: pages/cookie-policy.js:52
+msgid "ab61"
+msgstr "Funksjonelle informasjonskapsler brukes for å drive nettstedet i samsvar med valgene du gjør. For eksempel kan vi gjenkjenne brukernavnet ditt og huske huske dine preferanser og innstillinger."
+
+#: pages/cookie-policy.js:55
+msgid "ab62"
+msgstr "Analytiske informasjonskapsler"
+
+#: pages/cookie-policy.js:58
+msgid "ab63"
+msgstr "Disse informasjonskapslene gjør det mulig for oss og tredjeparter å samle inn aggregerte data for statistiske formål om hvordan våre besøkende bruker nettstedet."
+
+#: pages/cookie-policy.js:61
+msgid "ab64"
+msgstr "Informasjonskapsler fra tredjeparter"
+
+#: pages/cookie-policy.js:64
+msgid "ab65"
+msgstr "Når du bruker nettstedet, kan du også få tredjeparts informasjonskapsler."
+
+#: pages/cookie-policy.js:67
+msgid "ab66"
+msgstr "Våre annonsører og tjenesteleverandører kan sende deg sine egne informasjonskapsler og bruke informasjonen du lagrer i dem:"
+
+#: pages/cookie-policy.js:70
+msgid "ab67"
+msgstr "for å spore nettleseraktiviteten din på nettsteder"
+
+#: pages/cookie-policy.js:71
+msgid "ab68"
+msgstr "for å lage en profil for nettsurfingen din"
+
+#: pages/cookie-policy.js:72
+msgid "ab69"
+msgstr "for å sende målrettede annonser basert på din interaksjon med deres tjenester, som kan være av spesiell interesse for deg."
+
+#~ msgid "ab7"
+#~ msgstr ""
+
+#: pages/cookie-policy.js:75
+msgid "ab70"
+msgstr "Nettstedet vårt bruker Google Analytics, en webanalysetjeneste levert av Google, Inc (\"Google\"). Google Analytics(GA) bruker \"cookies\"(informasjonskapsler), som er tekstfiler som plasseres på din datamaskin. Dette gjøres for å analysere hvordan brukerne bruker nettstedet. Informasjonen generert av informasjonskapselen om bruken av nettstedet ditt (inkl. din IP adresse), blir sendt og lagret på en server hos Google i USA. IP-adressen din anonymiseres før den sendes til Google. På vegne av Nettstedet vil Google benytte denne informasjonen til analyseformål for å evaluere din bruk av Nettstedet, lage rapporter om samlet aktivitet på Nettstedet og levere andre tjenester relatert til Nettsted-aktiviteter og Internett-bruk til Nettstedet. Google knytter ikke IP-adressen din til andre data lagret av Google. Du kan nekte bruk av informasjonskapsler ved å velge rett instillinger i nettleseren din, men vær oppmerksom på at ved å gjøre det, kan du påvirke og redusere funksjonaliteten till denne nettsiden. I tillegg til det, kan du også forhindre innsamlingen av informasjon som informasjonskapsler genererer om din bruk av nettsidene (inkl. din IP adresse) og behandlingen av disse opplysningene av Google, ved å laste ned og installere nettleser-pluggin som er tilgjengelig under følgende lenke:"
+
+#: pages/cookie-policy.js:76
+#: pages/cookie-policy.js:77
+msgid "ab71"
+msgstr "https://tools.google.com/dlpage/gaoptout?hl=en"
+
+#~ msgid "ab72"
+#~ msgstr "Du kan nekte å akseptere informasjonskapsler ved å aktivere en innstilling. Besøk google.com for informasjon om hvordan du blokkerer alle informasjonskapsler i nettleseren din."
+
+#: pages/cookie-policy.js:81
+msgid "ab73"
+msgstr "Blokkering av informasjonskapsler"
+
+#: pages/cookie-policy.js:84
+msgid "ab74"
+msgstr "Du kan nekte å akseptere informasjonskapsler ved å aktivere en innstilling. Besøk google.com for informasjon om hvordan du blokkerer alle informasjonskapsler i nettleseren din."
+
+#: pages/cookie-policy.js:87
+msgid "ab75"
+msgstr "Vær oppmerksom på at blokkering av informasjonskapsler kan ha en negativ innvirkning på bruken av mange nettsteder. Dersom du blokker cookies vil du ikke få tilgang til alle funskjoner på vår nettside (logge seg på, få tilgang til innhold, bruke søkefunksjoner)."
+
+#: pages/cookie-policy.js:90
+msgid "ab76"
+msgstr "Hvordan kan jeg slette informasjonskapsler?"
+
+#: pages/cookie-policy.js:93
+msgid "ab77"
+msgstr "Hvis du vil å begrense eller blokkere informasjonskapslene som er satt av nettstedet vårt, kan du gjøre det gjennom nettleserinnstillingen din. Desutten, kan du besøke www.internetcookies.com som inneholder omfattende informasjon om hvordan du gjør dette på forskjellige nettlesere og enheter. Der kan finne også generell informasjon om informasjonskapsler og detaljer om hvordan du kan slette informasjonskapsler fra enheten din."
+
+#: pages/cookie-policy.js:96
+msgid "ab78"
+msgstr "Kontakt oss"
+
+#: pages/cookie-policy.js:99
+msgid "ab79"
+msgstr "Hvis du har spørsmål om denne politikken eller vår bruk av informasjonskapsler, vennligst kontakt oss support@royalfut.com."
+
+#: components/InfograficMain/InfograficMain.js:39
+msgid "ab8"
+msgstr "spillere har brukt vår tjenester"
+
+#~ msgid "ab80"
+#~ msgstr "Noe gikk galt"
+
+#~ msgid "ab81"
+#~ msgstr "Last inn siden på nytt"
+
+#: components/DeliverySteps/DeliverySteps.js:44
+msgid "ab82"
+msgstr "Legg inn en bestilling"
+
+#: components/DeliverySteps/DeliverySteps.js:47
+msgid "ab83"
+msgstr "Velg din plattform og ønsket antall mynter, og betal deretter for din bestilling."
+
+#: components/DeliverySteps/DeliverySteps.js:65
+msgid "ab84"
+msgstr "Start levering"
+
+#: components/DeliverySteps/DeliverySteps.js:68
+msgid "ab85"
+msgstr "Etter fullført betaling, går du videre til"
+
+#: components/DeliverySteps/DeliverySteps.js:69
+msgid "ab86"
+msgstr "Bestillingshistorikk-siden"
+
+#: components/DeliverySteps/DeliverySteps.js:70
+msgid "ab87"
+msgstr "finn bestillingen din og fullfør de nødvendige skrittene for å starte leveringsprosessen."
+
+#: components/DeliverySteps/DeliverySteps.js:88
+msgid "ab88"
+msgstr "Vær fornøyd med kjøpet"
+
+#: components/DeliverySteps/DeliverySteps.js:91
+msgid "ab89"
+msgstr "Når bestillingen er fullført, bruk gjerne myntene dine og kom tilbake til oss når du trenger påfylle mynter."
+
+#~ msgid "ab9"
+#~ msgstr ""
+
+#: components/DeliverySteps/DeliverySteps.js:28
+msgid "ab90"
+msgstr "Trenger du hjelp? Vår kundestøtte er alltid glad å hjelpe deg"
+
+#: components/Offer/Offer.js:82
+msgid "ab91"
+msgstr "Hvis du er lei av å skaffe seg FC 25-mynter, har vi en perfektlavkostløsning for deg! Møt ROYALFUT.com, den mest sikre EA FC-myntbutikken med mange års erfaring på dette feltet. Denne topprangerte markedsplassen tilbyr de laveste prisene for FIFA 25-mynter på nettet og kan garantere rask levering og 100 % sikkerhet for kontoen din. Kjøp av FC-mynter hos ROYALFUT er det rimeligste og mest legitime alternativet som hjelper deg å gjøre spillet enda morsommere uten risiko og noen ubehagelige konsekvenser. Regelmessige rabatter på Ultimate Team-mynter i butikken vår gjør våre allerede attraktive priser enda lavere, slik at du kan gjøre de mest lønnsomme avtalene i spillet. ROYALFUT-plattformen er ikke bare 100 % trygg når det gjelder deres FUT-mynter for salg, men den er også kjent for fantastisk kundestøtte som alltid vil hjelpe deg med alle spørsmål eller problemer du kansje har. Det er ganske sjelden i disse dager å finne en legit UT 25-myntbutikk, men ROYALFUT.com er uten tvil en av dem. Det er absolutt det beste stedet for deg hvis du ønsker å kjøpe Ultimate Team-mynter for PC, PS4, PS5, Xbox One, Xbox Series X eller Xbox Series S med 100 % trygg betalinge og umiddelbar levering."
+
+#: pages/order/index.js:115
+#: pages/order/pc.js:82
+#: pages/order/ps4.js:81
+#: pages/order/ps5.js:80
+#: pages/order/xbox_one.js:82
+#: pages/order/xbox_xs.js:82
+msgid "ab92"
+msgstr "Kjøp FC 25 Ultimate Team mynter"
+
+#: components/Order/Steps.js:14
+#: components/Order/Steps.js:56
+msgid "ab93"
+msgstr "Bestillingsinformasjon"
+
+#: components/MainFunnel/StickySecondStep.js:170
+#: components/Order/Steps.js:21
+#: components/Order/Steps.js:59
+#: components/Order/StickyTotalBlock.js:158
+msgid "ab94"
+msgstr "Til kassen"
+
+#: components/Order/Steps.js:28
+#: components/Order/Steps.js:62
+msgid "ab95"
+msgstr "Levering"
+
+#: components/Order/OrderInfo.js:103
+msgid "ab96"
+msgstr "Plattform"
+
+#: components/Order/CoinsChanger.js:356
+msgid "ab97"
+msgstr "Antall"
+
+#: components/Package/IdCard.js:110
+msgid "ab98"
+msgstr "Pris"
+
+#~ msgid "ab99"
+#~ msgstr "Rabatt"
+
+#: components/MainFunnel/StickySecondStep.js:157
+msgid "authToPay"
+msgstr "Logg inn for å kjøpe"
+
+#~ msgid "Bahrain"
+#~ msgstr "Bahrain"
+
+#: data-elements/breadcrumbs.js:11
+#~ msgid "breadcrumbs.[id]"
+#~ msgstr "FUT-mynter"
+
+#: data-elements/breadcrumbs.js:5
+#~ msgid "breadcrumbs.404"
+#~ msgstr "404"
+
+#: data-elements/breadcrumbs.js:19
+#~ msgid "breadcrumbs.coins"
+#~ msgstr "Myntsett"
+
+#: data-elements/breadcrumbs.js:23
+#~ msgid "breadcrumbs.contact"
+#~ msgstr "Kontakt"
+
+#: data-elements/breadcrumbs.js:21
+#~ msgid "breadcrumbs.delivery"
+#~ msgstr "Leverings"
+
+#: data-elements/breadcrumbs.js:22
+#~ msgid "breadcrumbs.faq"
+#~ msgstr "VANLIGE SPØRSMÅL"
+
+#: data-elements/breadcrumbs.js:4
+#~ msgid "breadcrumbs.guide"
+#~ msgstr "guide"
+
+#: data-elements/breadcrumbs.js:17
+#~ msgid "breadcrumbs.home"
+#~ msgstr "Hjem"
+
+#: data-elements/breadcrumbs.js:12
+#~ msgid "breadcrumbs.order"
+#~ msgstr "Plattform"
+
+#: data-elements/breadcrumbs.js:20
+#~ msgid "breadcrumbs.payment"
+#~ msgstr "Betalings"
+
+#: data-elements/breadcrumbs.js:8
+#~ msgid "breadcrumbs.payments"
+#~ msgstr "Betaling"
+
+#: data-elements/breadcrumbs.js:25
+#~ msgid "breadcrumbs.privacy-policy"
+#~ msgstr "Personvernerklæring"
+
+#: data-elements/breadcrumbs.js:26
+#~ msgid "breadcrumbs.profile"
+#~ msgstr "Profil"
+
+#: data-elements/breadcrumbs.js:13
+#~ msgid "breadcrumbs.ps4"
+#~ msgstr "PlayStation 4"
+
+#: data-elements/breadcrumbs.js:14
+#~ msgid "breadcrumbs.ps5"
+#~ msgstr "PlayStation 5"
+
+#: data-elements/breadcrumbs.js:7
+#~ msgid "breadcrumbs.purchase"
+#~ msgstr "Kjøp"
+
+#: data-elements/breadcrumbs.js:9
+#~ msgid "breadcrumbs.reviews"
+#~ msgstr "Brukeranmeldelser"
+
+#: data-elements/breadcrumbs.js:24
+#~ msgid "breadcrumbs.terms"
+#~ msgstr "Jeg godtar vilkårene"
+
+#: data-elements/breadcrumbs.js:6
+#~ msgid "breadcrumbs.wl-boost"
+#~ msgstr "WL Boost"
+
+#: data-elements/breadcrumbs.js:15
+#~ msgid "breadcrumbs.xbox_one"
+#~ msgstr "Xbox One"
+
+#: data-elements/breadcrumbs.js:16
+#~ msgid "breadcrumbs.xbox_xs"
+#~ msgstr "Xbox Series X|S"
+
+#: components/Order/StickySecondStep.js:400
+#: components/Order/StickyTotalBlock.js:148
+#: components/Package/IdCard.js:103
+msgid "cashback"
+msgstr "Cashback"
+
+#~ msgid "coins_page0"
+#~ msgstr "Ikke-tilordnede kort"
+
+#: components/TableOrders/TableItem.js:406
+msgid "coins_page1"
+msgstr "Det finnes Ikke-tilordnede kort"
+
+#~ msgid "coins_page10"
+#~ msgstr "Subtotal"
+
+#~ msgid "coins_page11"
+#~ msgstr "Rabatt ()"
+
+#~ msgid "coins_page12"
+#~ msgstr "Bruk"
+
+#~ msgid "coins_page13"
+#~ msgstr "Total"
+
+#~ msgid "coins_page14"
+#~ msgstr "Ugyldig rabattkode"
+
+#: pages/coins/[id].js:222
+msgid "coins_page15"
+msgstr ""
+
+#: pages/coins/[id].js:225
+msgid "coins_page16"
+msgstr ""
+
+#: pages/coins/[id].js:227
+msgid "coins_page17"
+msgstr ""
+
+#: pages/coins/[id].js:177
+#: pages/coins/[id].js:192
+msgid "coins_page18"
+msgstr "[[X]] FC 25 Ultimate Team mynter"
+
+#: pages/coins/[id].js:201
+msgid "coins_page19"
+msgstr "Kjøp EA FC 25-mynter på nett fra den mest pålitelige butikken på markedet - ROYALFUT. Selg av FIFA Ultimate Team-varer har vært vår spesialitet i mer enn 7 år. Vårt mål er å gi våre kunder de beste tilbudene og sikreste FC UT-myntoverføringer. Der er lett og hyggelig å handle på ROYALFUT fordi vi har intuitivt grensesnitt, sikre betalingsmetoder og oppmerksom kundestøtte."
+
+#: components/TableOrders/TableItem.js:409
+msgid "coins_page2"
+msgstr "Du må tilordne dine ikke-tilordnede kort hvis du har noen, bare etterpå kan vi starte levering"
+
+#: pages/coins/[id].js:204
+msgid "coins_page20"
+msgstr "Kjøp [[X]] FC-mynter for [[Y]] [[C]]. Etter at du har lagt inn bestillingen din, vennligst sørg for at du er logget ut av Ultimate Team på både din konsoll eller PC og andre enheter via FC Web App / Companion. [[X]] mynter vil bli overført til kontoen din om [[A]]-[[B]] [[T]]."
+
+#: pages/coins/[id].js:231
+msgid "coins_page21"
+msgstr "Du vil få"
+
+#: pages/coins/[id].js:236
+msgid "coins_page22"
+msgstr "300 tusen mynter for UT-klubben din;"
+
+#: pages/coins/[id].js:240
+msgid "coins_page23"
+msgstr "Dekket EA-avgift (5%);"
+
+#~ msgid "coins_page24"
+#~ msgstr "Cashback på 12 ROYAL Points (tilsvarer 1,2 USD);"
+
+#~ msgid "coins_page25"
+#~ msgstr "Høyere lojalitetsnivå;"
+
+#: pages/coins/[id].js:252
+msgid "coins_page26"
+msgstr "100% sikkerhet for kontoen din."
+
+#: pages/coins/[id].js:258
+msgid "coins_page27"
+msgstr "Vi trenger fra deg"
+
+#: pages/coins/[id].js:264
+msgid "coins_page28"
+msgstr "Tilgang til EA-kontoen din"
+
+#: pages/coins/[id].js:266
+msgid "coins_page29"
+msgstr "– hvis du har lisensiert kopi av EA Sports FC 25 for PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Series X eller PC (kjøpt enten som en fysisk CD eller digitalt kopi via EA App, Steam eller Epic Games Store), har du flaks, for nå alt vi trenger for å få tilgang til Ultimate Team-klubben din er EA-kontodetaljene dine som inkluderer e-postadresse, passord og noen reservekoder. Du kan være sikker at vi lagrer ikke dataene dine og de slettes etter at vi fullfører hver bestilling."
+
+#~ msgid "coins_page3"
+#~ msgstr "Overgangsobjekter"
+
+#: pages/coins/[id].js:271
+msgid "coins_page30"
+msgstr "Opplåst overgangsmarkedet"
+
+#: pages/coins/[id].js:273
+msgid "coins_page31"
+msgstr "– det er kjempeviktig å sørge for at du allerede har fått tilgang til Transfer Market i Web App når du forbereder klubben din for myntleveringen. Men hvis den fortsatt ikke er låst opp, må du begynne å spille 3 fulle Ultimate Team kamper om dagen og besøke FC Web App / Companion på daglig basis også, frem til tilgangt blir gitt deg."
+
+#: pages/coins/[id].js:278
+msgid "coins_page32"
+msgstr "Du må ha minst 5000 mynter på UT Club-saldoen din"
+
+#: pages/coins/[id].js:280
+msgid "coins_page33"
+msgstr "– hvis du har dette beløpet, kan vårt leveringssystem starte leveringen. Hvis klubbsaldoen din ikke oppfyller dette kravet, kan du selge noen omsettelige kort enten ved å føre dem opp på Transfer Market eller ved å bruke Quick Sell. Selvfølgelig kan du også tjene mynter ved å spille noen kamper. Husk at jo mer penger du har på klubbsaldoen, desto raskere vil leveringen bli fullført."
+
+#~ msgid "coins_page34"
+#~ msgstr "100% sikre betalinger"
+
+#~ msgid "coins_page35"
+#~ msgstr "Leveringstida er [[X]]-[[Y]]"
+
+#~ msgid "coins_page36"
+#~ msgstr "3 dagers garanti"
+
+#: pages/coins/[id].js:300
+msgid "coins_page37"
+msgstr "Se mer"
+
+#~ msgid "coins_page38"
+#~ msgstr "[[X]] - ganger kjøpt"
+
+#~ msgid "coins_page39"
+#~ msgstr ""
+
+#: components/TableOrders/TableItem.js:334
+msgid "coins_page4"
+msgstr "Listen over overgangsobjekter er full"
+
+#: components/TableOrders/TableItem.js:337
+msgid "coins_page5"
+msgstr "Din liste over overgangsobjekter er full, frigjør det, ellers kan vi ikke starte myntlevering"
+
+#: components/TableOrders/TableItem.js:480
+msgid "coins_page6"
+msgstr "Uventet feil"
+
+#: components/TableOrders/TableItem.js:483
+msgid "coins_page7"
+msgstr "Prøv å plassere bestillingen din på nytt senere eller kontakt kundestøtte"
+
+#~ msgid "coins_page8"
+#~ msgstr "Ny bestilling"
+
+#~ msgid "coins_page9"
+#~ msgstr "Kjøp"
+
+#: components/Footer/Footer.js:362
+msgid "cookiepage"
+msgstr "Erklæring om informasjonskapsler"
+
+#: components/ReviewsContent/ReviewsContent.js:15
+msgid "country.Bahrain"
+msgstr "Bahrain"
+
+#: components/ReviewsContent/ReviewsContent.js:16
+msgid "country.France"
+msgstr "Frankrike"
+
+#: components/ReviewsContent/ReviewsContent.js:17
+msgid "country.Germany"
+msgstr "Tyskland"
+
+#: components/ReviewsContent/ReviewsContent.js:18
+msgid "country.Kuwait"
+msgstr "Kuwait"
+
+#: components/ReviewsContent/ReviewsContent.js:19
+msgid "country.Netherlands"
+msgstr "Nederland"
+
+#: components/ReviewsContent/ReviewsContent.js:20
+msgid "country.Qatar"
+msgstr "Qatar"
+
+#: components/ReviewsContent/ReviewsContent.js:21
+msgid "country.Saudi Arabia"
+msgstr "Saudi Arabia"
+
+#: components/ReviewsContent/ReviewsContent.js:22
+msgid "country.United Arab Emirates"
+msgstr "UAE"
+
+#: components/ReviewsContent/ReviewsContent.js:23
+msgid "country.United Kingdom"
+msgstr "Storbritannia"
+
+#: components/ReviewsContent/ReviewsContent.js:24
+msgid "country.United States"
+msgstr "USA"
+
+#: components/BurgerMenu/BurgerMenu.js:82
+#~ msgid "emailOrPassword"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:25
+msgid "FIFA & EA FC Coins"
+msgstr "FIFA og EA FC mynter til kunder"
+
+#: components/Infografic/Infografic.js:43
+msgid "FIFA and EA FC players"
+msgstr "FIFA og EA FC spillere"
+
+#~ msgid "France"
+#~ msgstr "Frankrike"
+
+#~ msgid "Germany"
+#~ msgstr "Tyskland"
+
+#: components/Header/Header.js:78
+msgid "header_reviews"
+msgstr "Anmeldelser"
+
+#: components/MainFunnel/MainFunnel.js:44
+#~ msgid "home:newh1_2"
+#~ msgstr "FC 25 "
+
+#: components/MainFunnel/MainFunnel.js:47
+#~ msgid "home:newh1_3"
+#~ msgstr "Mynter<<<<<<< HEAD"
+
+#: components/MainFunnel/MainFunnel.js:32
+#: components/MainFunnel/MainFunnel.js:53
+#~ msgid "home:newh1_4"
+#~ msgstr "FC 25 Mynter"
+
+#: components/MainFunnel/MainFunnel.js:33
+msgid "home:title"
+msgstr "Den sikreste måten å kjøpe"
+
+#: pages/coins/[id].js:217
+msgid "hours"
+msgstr "hours"
+
+#~ msgid "Kuwait"
+#~ msgstr "Kuwait"
+
+#~ msgid "locales.account"
+#~ msgstr "Konto"
+
+#: components/TableOrders/TableItem.js:711
+msgid "locales.amount"
+msgstr "Antall"
+
+#: components/Order/StickySecondStep.js:445
+#: components/Order/StickySecondStep.js:454
+#: components/Package/CheckoutSticky.js:502
+#: components/Package/CheckoutSticky.js:510
+#: components/Purchase/Purchase.js:610
+#: components/Purchase/Purchase.js:633
+msgid "locales.authToPay"
+msgstr "Logg inn for å kjøpe"
+
+#~ msgid "locales.backToTop"
+#~ msgstr "Tilbake til toppen"
+
+#~ msgid "locales.backupCode"
+#~ msgstr "Reservekoder"
+
+#~ msgid "locales.backupCodes"
+#~ msgstr "Du kan få backup-koder her: "
+
+#~ msgid "locales.blackFriday"
+#~ msgstr "TEAM OF THE YEAR <span class=\"color\">- 20 % rabatt </span> på tilbudspris! Bruk kampanjekoden: <span class=\"color\">TOTY</span>"
+
+#~ msgid "locales.buyingCoins"
+#~ msgstr "Comprar monedas en royalfut.com"
+
+#~ msgid "locales.cancelOrder"
+#~ msgstr "Cancelar pedido"
+
+#: components/TextBlockContainer/TextBlockContainer.js:13
+msgid "locales.card_text_1"
+msgstr "Laget vårt ble dannet i FIFA 17-sesongen. Siden den tid har vi overført over 100 milliarder mynter til våre kunder, mer enn 60 tusen klubber har mottatt våre mynter, og mer enn 10 butikker bruker vår myntoverføringsalgoritme."
+
+#: components/TextBlockContainer/TextBlockContainer.js:30
+msgid "locales.card_text_2"
+msgstr "Vi tilbyr noen av de laveste prisene på markedet, og for våre stamkunder er prisene enda lavere!"
+
+#: components/TextBlockContainer/TextBlockContainer.js:18
+msgid "locales.card_text_3"
+msgstr "Målet vårt er å gi deg den tryggeste måten å fylle på FUT-saldoen din på. Vi forbedrer stadig vår myntoverføringsalgoritme, og tester den på tusenvis av kontoene våre før får den raske og sikkere tjenesten."
+
+#: components/TextBlockContainer/TextBlockContainer.js:25
+msgid "locales.card_text_4"
+msgstr "Vi vet at tiden din er viktig for deg. Vi jobber stadig med å forbedre grensesnittet og støtten, slik at bestillingene skal gå raskere og jevnere. Bare et par klikk – så gjør vi resten."
+
+#: components/TextBlockContainer/TextBlockContainer.js:12
+msgid "locales.card_title_1"
+msgstr "Mangeårige erfaring"
+
+#: components/TextBlockContainer/TextBlockContainer.js:29
+msgid "locales.card_title_2"
+msgstr "Rimelige priser"
+
+#: components/TextBlockContainer/TextBlockContainer.js:17
+msgid "locales.card_title_3"
+msgstr "Trygg og sikker"
+
+#: components/TextBlockContainer/TextBlockContainer.js:24
+msgid "locales.card_title_4"
+msgstr "Høyt servicenivå"
+
+#~ msgid "locales.coinsFor"
+#~ msgstr "mynter for"
+
+#: components/HowDelivery/Howdelivery.js:239
+#: components/MethodChanger/MethodChanger.js:46
+msgid "locales.comfortMethodName"
+msgstr "Comfort Trade"
+
+#~ msgid "locales.comfortText"
+#~ msgstr "Vi gjennomfører den hele leveringsprosessen. Du må bare gi oss EA-kontoopplysningene dine."
+
+#~ msgid "locales.commentOut"
+#~ msgstr "av"
+
+#: components/Rated/Rated.js:66
+#: components/ReviewsGallery/ReviewsGallery.js:80
+msgid "locales.commentRated"
+msgstr "stjerner"
+
+#~ msgid "locales.commentReviews"
+#~ msgstr "anmeldelser"
+
+#: components/Rated/Rated.js:87
+#: components/Rated/Rated.js:101
+#: components/ReviewsContent/ReviewsContent.js:85
+msgid "locales.commentUrl"
+msgstr "https://no.trustpilot.com/review/royalfut.com"
+
+#~ msgid "locales.continue"
+#~ msgstr "Fortsett"
+
+#: components/TableOrders/TableItem.js:403
+msgid "locales.continueTransfering"
+msgstr "Fortsett overføringen"
+
+#~ msgid "locales.cookieButton"
+#~ msgstr "Skjønner"
+
+#~ msgid "locales.cookieText"
+#~ msgstr "Fortsett å bruke nettstedet for å gi ditt samtykke til våre bruksvilkår for informasjonskapsler."
+
+#~ msgid "locales.cookieTitle"
+#~ msgstr "Vi benytter oss av informasjonskapsler"
+
+#: components/Order/Coupon.js:342
+#: components/Order/Coupon.js:516
+#: components/Package/CheckoutCoupon.js:99
+#: components/Package/CheckoutCoupon.js:352
+msgid "locales.couponCondition"
+msgstr "Bestillingsbeløpet matcher ikke minimumskravet for å bruke en kupong"
+
+#: components/Order/Coupon.js:307
+#: components/Order/Coupon.js:485
+#: components/Package/CheckoutCoupon.js:64
+#: components/Package/CheckoutCoupon.js:321
+msgid "locales.couponExpired"
+msgstr "Kupongen er utløpt"
+
+#: components/Order/Coupon.js:324
+#: components/Order/Coupon.js:500
+#: components/Package/CheckoutCoupon.js:81
+#: components/Package/CheckoutCoupon.js:336
+msgid "locales.couponLimit"
+msgstr "Denne kupongen har blitt brukt"
+
+#~ msgid "locales.cryptoAre"
+#~ msgstr ""
+
+#~ msgid "locales.cryptoIs"
+#~ msgstr "er"
+
+#~ msgid "locales.cryptoMessage"
+#~ msgstr "Minste bestillingsbeløp for å betale med "
+
+#~ msgid "locales.cryptoOr"
+#~ msgstr "eller"
+
+#~ msgid "locales.cryptoWith"
+#~ msgstr ""
+
+#~ msgid "locales.currency"
+#~ msgstr "$"
+
+#~ msgid "locales.currencyName"
+#~ msgstr "NOK"
+
+#~ msgid "locales.currencyTranslate"
+#~ msgstr "Valuta"
+
+#~ msgid "locales.deliveryMethodName"
+#~ msgstr "Delivery method:"
+
+#~ msgid "locales.deliverytext"
+#~ msgstr " tilbyr et unikt system for levering av EA FC 25-mynter. Vi samarbeider med et rekordstort antall myntforhandlere. Når vi behandler bestillingen din, følger vi spesielle regler som garanterer kontoen din mot sanksjoner fra EA. Du finner noen av disse reglene nedenfor:"
+
+#~ msgid "locales.deliverytitle"
+#~ msgstr "Leverings"
+
+#~ msgid "locales.email"
+#~ msgstr "E-postadresse"
+
+#~ msgid "locales.emailOrPassword"
+#~ msgstr "Ugyldig e-postadresse eller passord"
+
+#: components/HowDelivery/Howdelivery.js:88
+#: components/HowDelivery/Howdelivery.js:123
+msgid "locales.enjoy"
+msgstr "Ha det gøy med spillet, vi håper vi ses igjen snart :-)"
+
+#: components/TableOrders/TableItem.js:392
+msgid "locales.enterCode"
+msgstr "Skriv inn kode"
+
+#~ msgid "locales.faqtitle"
+#~ msgstr "ER DET NOE ANNET DU LURER PÅ?"
+
+#~ msgid "locales.faqtitle2"
+#~ msgstr "ER DET NOE ANNET DU LURER PÅ?"
+
+#~ msgid "locales.fbError"
+#~ msgstr "Ugyldig e-postadresse eller passord"
+
+#~ msgid "locales.footerAddrees"
+#~ msgstr "Yasha Limited, Office 908H Nicolaou Pentadromos Center, Limassol, Cyprus"
+
+#~ msgid "locales.footerContact"
+#~ msgstr "GENERELL INFORMASJON"
+
+#~ msgid "locales.footerInfo"
+#~ msgstr "JURIDISK"
+
+#: components/Footer/Footer.js:308
+msgid "locales.footerInfo_2"
+msgstr "Info"
+
+#: components/Footer/Footer.js:30
+#: pages/contact.js:29
+msgid "locales.footerLinkContact"
+msgstr "Kontakt"
+
+#: components/Footer/Footer.js:318
+msgid "locales.footerLinkDelivery"
+msgstr "Leverings"
+
+#: components/Footer/Footer.js:329
+msgid "locales.footerLinkPayment"
+msgstr "Betalings"
+
+#~ msgid "locales.footerLinkPrivacy"
+#~ msgstr "Personvern"
+
+#: components/Footer/Footer.js:351
+#: pages/privacy-policy.js:28
+msgid "locales.footerLinkPrivacyPolicy"
+msgstr "Personvernerklæring"
+
+#: components/Footer/Footer.js:340
+msgid "locales.footerLinkTerms"
+msgstr "Godta vilkårene"
+
+#: components/Footer/Footer.js:192
+msgid "locales.footerPlatforms"
+msgstr "Plattform"
+
+#~ msgid "locales.forPaymentError"
+#~ msgstr "Betaling mislyktes"
+
+#~ msgid "locales.garantee3"
+#~ msgstr "Refunderbart"
+
+#~ msgid "locales.h1_1"
+#~ msgstr "Det tryggeste alternativet for "
+
+#~ msgid "locales.h1_2"
+#~ msgstr "Kjøp FC 25-mynter"
+
+#~ msgid "locales.h1_coins"
+#~ msgstr "Din hovedledsager i EA FC 25 Ultimate Team Store"
+
+#~ msgid "locales.h1_p1"
+#~ msgstr "Din hovedledsager i "
+
+#~ msgid "locales.h1_p2"
+#~ msgstr "EA FC 25 Ultimate Team Store"
+
+#~ msgid "locales.haveCoupon"
+#~ msgstr "Har en kupong"
+
+#~ msgid "locales.header_reviews"
+#~ msgstr "Anmeldelser"
+
+#~ msgid "locales.hidePassword"
+#~ msgstr "Skjul passord"
+
+#: components/HowDelivery/Howdelivery.js:216
+msgid "locales.hwd"
+msgstr "HOE VERLOOPT DE LEVERING?"
+
+#~ msgid "locales.infoBlockText1"
+#~ msgstr "Målet vårt er å gi deg den tryggeste måten å fylle på FUT-saldoen din på, til en lav pris. Prisene våre er ekskludert provisjon og skjulte gebyrer, og vi har brukt flere år på å utvikle en tjeneste som dette."
+
+#~ msgid "locales.infoBlockText2"
+#~ msgstr "Vi bruker SMART anti-utestengingssystem 3.0, som fungerer etter spesielle regler. For eksempel inkluderer systemet mynter som er opptjent manuelt i hver bestilling. Disse reglene garanterer at FUT-klubben din er 100 % sikker."
+
+#~ msgid "locales.infoBlockText3"
+#~ msgstr "Vi vet at tiden din er viktig for deg. Vi jobber stadig med å forbedre grensesnittet og støtten, slik at bestillingene skal gå raskere og jevnere. Bare et par klikk – så gjør vi resten."
+
+#~ msgid "locales.infoBlockText4"
+#~ msgstr "Hvis du etter kjøpet ikke kan bruke munter, eller hvis det finnes en annen grunn til at du ikke får mynter på kontoen din, garanteres det en full refusjon."
+
+#~ msgid "locales.infoBlockTitle1"
+#~ msgstr "DITT FØRSTEVALG"
+
+#~ msgid "locales.infoBlockTitle2"
+#~ msgstr "DEN TRYGGESTE LEVERINGEN"
+
+#~ msgid "locales.infoBlockTitle3"
+#~ msgstr "RASK OG ENKEL"
+
+#~ msgid "locales.infoBlockTitle4"
+#~ msgstr "REFUSJONSGARANTI"
+
+#: components/Message/Message.js:29
+#: components/Order/Coupon.js:357
+#: components/Order/Coupon.js:530
+#: components/Package/CheckoutCoupon.js:114
+#: components/Package/CheckoutCoupon.js:366
+#: components/Package/CheckoutCoupon.js:560
+msgid "locales.invalidPromo"
+msgstr "Ugyldig kampanjekode"
+
+#~ msgid "locales.isAlreadyTaken"
+#~ msgstr "er allerede i bruk"
+
+#~ msgid "locales.isInvalid"
+#~ msgstr "Ugyldig"
+
+#~ msgid "locales.lang"
+#~ msgstr "en-GB"
+
+#~ msgid "locales.li1"
+#~ msgstr "• Regelen om å oppføre kortet på overføringsmarkedet med en annen pris enn tillatte makspris i henhold til prisområdet for kortet."
+
+#~ msgid "locales.li2"
+#~ msgstr "• Regelen om å bytte levering av mynter med innløsing av kortr fra kontoer som bare bruker manuell handel for å tjene mynter."
+
+#~ msgid "locales.li3"
+#~ msgstr "• Vi har over 7000 FUT-klubber til disposisjon, og i de fleste bestillingene innløser vi et kort fra en klubb som ikke har deltatt i myntoverføringer på flere uker."
+
+#~ msgid "locales.loading"
+#~ msgstr "Lasting"
+
+#~ msgid "locales.login"
+#~ msgstr "Plattform/e-post"
+
+#~ msgid "locales.logOut"
+#~ msgstr "LOGG UT"
+
+#: components/H1/H1.js:20
+msgid "locales.main_h2"
+msgstr "Med oss er du alltid et skritt nærmere drømmelaget ditt!"
+
+#~ msgid "locales.manualText"
+#~ msgstr "Den manuelle leveringsmetoden krever ikke EA-kontoopplysninger. Du må bare følge instruksjonene vi gir deg og overføre myntene selv."
+
+#: components/HowDelivery/Howdelivery.js:252
+#: components/MethodChanger/MethodChanger.js:79
+msgid "locales.marketMethodName"
+msgstr "Spillerauksjon"
+
+#: components/HowItWorks/HowItWorks.js:10
+msgid "locales.marketMethodWhat"
+msgstr "HVORDAN FUNGERER DET?"
+
+#~ msgid "locales.menu"
+#~ msgstr ""
+
+#: pages/delivery.js:28
+msgid "locales.menuLinkDelivery"
+msgstr "Leverings"
+
+#~ msgid "locales.menuLinkDesc"
+#~ msgstr "Systemet vårt er fullstendig automatisert, "
+
+#~ msgid "locales.menuLinkDesc2"
+#~ msgstr "så vi leverer mynter døgnet rundt."
+
+#~ msgid "locales.menuLinkDescDisabled"
+#~ msgstr "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋"
+
+#~ msgid "locales.menulinkfaq"
+#~ msgstr "VANLIGE SPØRSMÅL"
+
+#~ msgid "locales.menuLinkFaq"
+#~ msgstr "VANLIGE SPØRSMÅL"
+
+#~ msgid "locales.menuLinkOrder"
+#~ msgstr "KJØP MYNTER"
+
+#~ msgid "locales.menuLinkReviews"
+#~ msgstr "Anmeldelser"
+
+#~ msgid "locales.menuOffers"
+#~ msgstr "Offers"
+
+#~ msgid "locales.menuSignIn"
+#~ msgstr "LOGG INN"
+
+#~ msgid "locales.MissingOrInvalidCredentialsCode"
+#~ msgstr "Tilkoblingsfeil. Prøv igjen."
+
+#~ msgid "locales.modalSignBtnIn"
+#~ msgstr "LOGG INN"
+
+#: components/BurgerMenu/BurgerMenu.js:482
+msgid "locales.modalSignBtnUp"
+msgstr "REGISTRER DEG"
+
+#~ msgid "locales.modalSignEmail"
+#~ msgstr "E-postadresse"
+
+#~ msgid "locales.modalSignEmail1"
+#~ msgstr "email@address.com"
+
+#: components/BurgerMenu/BurgerMenu.js:399
+msgid "locales.modalSignPassword"
+msgstr "Passord"
+
+#~ msgid "locales.modalSignSeePassword"
+#~ msgstr "Se passordet ditt"
+
+#~ msgid "locales.modalSignSymbols3"
+#~ msgstr "minst 3 tegn"
+
+#: components/BurgerMenu/BurgerMenu.js:425
+#: components/ChangePassword/ChangePassword.js:251
+msgid "locales.modalSignSymbols8"
+msgstr "minst 8 tegn"
+
+#~ msgid "locales.modalSignTerms"
+#~ msgstr "Klikk på «Registrer deg» for <a href=\"/no/terms/\">å godta vilkårene</a>"
+
+#: components/BurgerMenu/BurgerMenu.js:442
+msgid "locales.modalSocialForgot"
+msgstr ""
+
+#: components/Auth/Auth.js:99
+msgid "locales.modalSocialLogin"
+msgstr "Logg deg inn via"
+
+#: components/Auth/Auth.js:125
+#~ msgid "locales.modalSocialLogin}"
+#~ msgstr ""
+
+#: components/BurgerMenu/BurgerMenu.js:450
+#: components/TermsContent/TermsContent.js:15
+msgid "locales.modalSocialLoginCheck"
+msgstr "Jeg godtar vilkårene"
+
+#~ msgid "locales.modalSocialLoginFB"
+#~ msgstr "Logg deg inn via FaceBook"
+
+#: components/Auth/Auth.js:107
+msgid "locales.modalSocialLoginGoogle"
+msgstr "Logg deg inn via Google"
+
+#: components/Auth/Auth.js:98
+msgid "locales.modalSocialOr"
+msgstr "eller"
+
+#: components/Auth/Auth.js:98
+msgid "locales.modalSocialSigin"
+msgstr "Registrer deg via"
+
+#~ msgid "locales.modalSocialSiginFB"
+#~ msgstr "Registrer deg via FaceBook"
+
+#: components/Auth/Auth.js:109
+msgid "locales.modalSocialSiginGoogle"
+msgstr "Registrer deg via Google"
+
+#~ msgid "locales.modalTabSignIn"
+#~ msgstr "LOGG INN"
+
+#~ msgid "locales.modalTabSignUp"
+#~ msgstr "REGISTRER DEG"
+
+#~ msgid "locales.nav.amount"
+#~ msgstr "Antall"
+
+#~ msgid "locales.nav.delivery"
+#~ msgstr "Levering"
+
+#~ msgid "locales.nav.details"
+#~ msgstr "Order details"
+
+#~ msgid "locales.nav.method"
+#~ msgstr "Leverings metode"
+
+#~ msgid "locales.nav.payment"
+#~ msgstr "Betaling"
+
+#~ msgid "locales.nav.platform"
+#~ msgstr "Plattform"
+
+#~ msgid "locales.numDay"
+#~ msgstr "#"
+
+#~ msgid "locales.orderCreationError"
+#~ msgstr "Error de creación de pedidos"
+
+#: components/SpecialOffer/SpecialOffer.js:108
+msgid "locales.orderNow"
+msgstr "Bestill nå"
+
+#~ msgid "locales.orders"
+#~ msgstr "Bestillinger"
+
+#~ msgid "locales.orderUpdateError"
+#~ msgstr "Error de actualización de pedido"
+
+#~ msgid "locales.orWithCrypto"
+#~ msgstr "Eller betal med krypto"
+
+#~ msgid "locales.p1"
+#~ msgstr "Dette gjør at vi kan tilby den sikreste måten å kjøpe EA FC 25-mynter på på hele internett."
+
+#~ msgid "locales.p2"
+#~ msgstr "Følg instruksjonene på nettstedet, eller instruksjonene du får fra manageren i live-chat, for å motta myntene så raskt som mulig."
+
+#~ msgid "locales.p3"
+#~ msgstr "Når du kjøper det digitale produktet vårt, kan du være trygg på at pengene dine er trygge."
+
+#~ msgid "locales.p4"
+#~ msgstr "Du kan ikke returnere eller avbryte en bestilling du har betalt for."
+
+#: pages/index.js:127
+#~ msgid "locales.pack_descript"
+#~ msgstr "Kjøpsbonusen vil glede selv de mest sofistikerte kjøpere. Skaff deg det i dag!"
+
+#~ msgid "locales.pageAmountAmountLabel"
+#~ msgstr "Antall"
+
+#: components/Package/CoinsBlock.js:25
+#: components/PageChanger/PageChanger.js:53
+msgid "locales.pageAmountCoinsLabel"
+msgstr "Mynter"
+
+#~ msgid "locales.pageAmountName"
+#~ msgstr "MYNTBELØP"
+
+#~ msgid "locales.pageAmountPriceLabel"
+#~ msgstr "Pris"
+
+#: components/HowDelivery/Howdelivery.js:44
+msgid "locales.pageCoinsAfter"
+msgstr "Etter betalingen er gjennomført, blir du tatt med til en side med to felter: e-post og passord. Her fyller du ut EA-kontodetaljene dine."
+
+#~ msgid "locales.pageCoinsAfterPayment"
+#~ msgstr "Etter at betaling blir utført, skal du få instruksene for kjøp av spillerkort. Du kjøper spillerkort til markedspriser, og vi kjøper dem fra deg til priser som er flere ganger høyere enn markedspriser."
+
+#~ msgid "locales.pageCoinsAfterSuccessfull"
+#~ msgstr "Etter at betaling blir utført, skal vi forespørre en engangstilgang til EA-profilen din. Vi trenger din e-post, passord og engangsreservekode. Ved å bruke disse dataene vil vi logge inn på FC 25 Web App for å starte kjøps- og salgstransaksjoner på Spillerauksjoner. Vi kjøper spillerkort til markedspriser og stiller dem deretter up på Spillerauksjoner for høyere priser. Etter det vil de bli kjøpt av våre FUT-klubber."
+
+#: components/HowDelivery/Howdelivery.js:97
+msgid "locales.pageCoinsAfterSuccessfully"
+msgstr "Etter at bestillingen din er betalt, blir du sendt videre til siden der vi ber deg om å spesifisere saldoen til klubben din. Så blir du tilbudt en spiller å kjøpe. Du må ikke betale mer enn fastsatt pris. Etter det selger du ham til oss for prisen vi tilbyr."
+
+#~ msgid "locales.pageCoinsApply"
+#~ msgstr "ANVENDE"
+
+#~ msgid "locales.pageCoinsAutomated"
+#~ msgstr "Overføring av mynter fra våre FUT-klubber til din er delvis automatisert. Vi har utviklet algoritmen som tar hensyn til en rekke av viktige regler. Denne reglene vil sikre profilen din innenfor rammen av bestillingen på nettstedet vårt. Hvis du ombestemmer deg for å nytte tjenesten etter betalingen, kan du trygt returnere pengene dine til kontoen som ble brukt til å foreta en betaling."
+
+#~ msgid "locales.pageCoinsBeforePurchase"
+#~ msgstr "Når du kjøper mynter på ROYALFUT-nettstedet, blir du guidet gjennom alle enkle og greie etappene av myntoverføring ved hjelp av nettstedets grensesnitt. Før du kjøper mynter, forvisse seg om at du har full tilgang til profilen, som inneholder klubben du ønsker å fylle med mynter."
+
+#~ msgid "locales.pageCoinsBestPriceIncludes"
+#~ msgstr "Standardprisen omfatter:"
+
+#: pages/index.js:126
+#~ msgid "locales.pageCoinsBundles"
+#~ msgstr "Myntsett"
+
+#~ msgid "locales.pageCoinsBuy"
+#~ msgstr "KJØP"
+
+#~ msgid "locales.pageCoinsBuyNow"
+#~ msgstr "KJØP NÅ"
+
+#: components/HowDelivery/Howdelivery.js:96
+msgid "locales.pageCoinsBuyPlayer"
+msgstr "KJØP EN SPILLER"
+
+#~ msgid "locales.pageCoinsCancel"
+#~ msgstr "AVBRYT"
+
+#~ msgid "locales.pageCoinsCheck"
+#~ msgstr "2. Sjekk ordren din"
+
+#~ msgid "locales.pageCoinsChoose"
+#~ msgstr "3. velg en betalingsmetode"
+
+#~ msgid "locales.pageCoinsClubBalance"
+#~ msgstr "du må ha minst 5000 mynter på FUT-kontoen din;"
+
+#~ msgid "locales.pageCoinsComfort"
+#~ msgstr "Myntleveringsprosessen gjennom Smidig leveransemetode er helt automatisert og krever ikke at du deltar i den. Bekvemt og raskt, ikke sant?"
+
+#~ msgid "locales.pageCoinsCompensated"
+#~ msgstr "Vi skal ikke til flytte eller selge noen av kortene fra klubben din, det er derfor vi trenger at du har minst 5000 mynter på kontoen din for å starte transaksjonen. Det er nødvendig å ha dette antallet av mynter slik at det blir mulig å kjøpe flere kort for å starte myntleveringsprosessen. EA-provisjons trukket på FIFA Spillerauksjoner vil bli fullt erstatt av oss, så vel som den første begynnelsesbalansen av mynter av klubben din."
+
+#~ msgid "locales.pageCoinsCompleteTransactions"
+#~ msgstr "Når du kjøper mynter på ROYALFUT-nettstedet, blir du guidet gjennom alle enkle og greie etappene av myntoverføring ved hjelp av nettstedets grensesnitt. Du må utføre en rekke transaksjoner på Spillerauksjoner, enten gjennom FIFA-menyen i spillet på konsollen eller gjennom grensesnittet FC 25 Web App / FUT Companion App."
+
+#~ msgid "locales.pageCoinsConditions"
+#~ msgstr "Hvilke betingelser må jeg oppfylle for å ha en mulighet å fylle på min myntkontoen?"
+
+#~ msgid "locales.pageCoinsConfirm"
+#~ msgstr "BEKREFT"
+
+#~ msgid "locales.pageCoinsConfirmOrder"
+#~ msgstr "BEKREFT ORDRE"
+
+#: components/HowDelivery/Howdelivery.js:100
+msgid "locales.pageCoinsConfirmPlayer"
+msgstr "BEKREFT EN SPILLER"
+
+#: components/PriceCouponRedesign/PriceCouponRedesign.js:603
+msgid "locales.pageCoinsCoupon"
+msgstr "Har en kupong"
+
+#~ msgid "locales.pageCoinsCustomAmount"
+#~ msgstr "Custom Amount"
+
+#~ msgid "locales.pageCoinsCustomAmountLocale"
+#~ msgstr "Ditt antall"
+
+#~ msgid "locales.pageCoinsDeliveringVia"
+#~ msgstr "<strong>blir levert gjennom</strong>"
+
+#~ msgid "locales.pageCoinsDelivery"
+#~ msgstr "leveringstida"
+
+#~ msgid "locales.pageCoinsDeliveryMethodName"
+#~ msgstr "Leverings metode:"
+
+#~ msgid "locales.pageCoinsDeliveryTime"
+#~ msgstr "leveringstida"
+
+#~ msgid "locales.pageCoinsDiscount"
+#~ msgstr "Rabatt"
+
+#~ msgid "locales.pageCoinsDiscounted"
+#~ msgstr "Rabatten ble lag til!"
+
+#~ msgid "locales.pageCoinsDiscounts"
+#~ msgstr "Rabatt (_%):"
+
+#: components/HowDelivery/Howdelivery.js:70
+msgid "locales.pageCoinsDoNotEnter"
+msgstr "Ikke gå inn i spillet under leveringen. Når prosessen er fullført, får du beskjed med e-post. Kontakt brukerstøtte for å sjekke når bestillingen din blir levert."
+
+#~ msgid "locales.pageCoinsEaAccount"
+#~ msgstr "Bruk bare engangs-reservekoder fra <a href =\"https://myaccount.ea.com/cp-ui/security/index\" class=\"coins-description__text--under\">EA-profilinnstillingene</a> dine. "
+
+#~ msgid "locales.pageCoinsEasy"
+#~ msgstr "Mekanismen for å fylle FUT-klubben med mynter er veldig grei: kjøp et kort -> selg et kort -> gjør det en gang til. Rett og slett, ikke sant?"
+
+#~ msgid "locales.pageCoinsEditOrder"
+#~ msgstr "REDIGER ORDRE"
+
+#~ msgid "locales.pageCoinsEditOrders"
+#~ msgstr "REDIGER ORDRE"
+
+#: components/HowDelivery/Howdelivery.js:73
+#: components/HowDelivery/Howdelivery.js:108
+msgid "locales.pageCoinsEnjoy"
+msgstr "KOS DEG MED SPILLET!"
+
+#~ msgid "locales.pageCoinsEnterAmount"
+#~ msgstr "TAST INN ANTALL"
+
+#: components/HowDelivery/Howdelivery.js:77
+#: components/HowDelivery/Howdelivery.js:112
+msgid "locales.pageCoinsFeedback"
+msgstr "Når bestillingen er levert, kan du legge igjen "
+
+#: components/Purchase/Purchase.js:364
+msgid "locales.pageCoinsFifa"
+msgstr "EA FC-mynter"
+
+#: components/Package/CoinsBlock.js:37
+msgid "locales.pageCoinsFifaCoins"
+msgstr " FIFA-MYNTER"
+
+#: components/HowDelivery/Howdelivery.js:43
+msgid "locales.pageCoinsFill"
+msgstr "FYLL UT DEN PÅKREVDE INFORMASJONEN"
+
+#: components/HowDelivery/Howdelivery.js:47
+msgid "locales.pageCoinsFillBackup"
+msgstr "FYLL UT FELTET FOR RESERVEKODE"
+
+#~ msgid "locales.pageCoinsFindVideo"
+#~ msgstr "Nede på nettsiden kan du finne en video som viser, hvordan prosessen foregår når du fyller FUT-klubben med mynter gjennom Spillerauksjoner leveransemetode."
+
+#: components/HowDelivery/Howdelivery.js:105
+msgid "locales.pageCoinsFirstPart"
+msgstr "Den første delen av overføringen er over, og nå må du gjenta de foregående stegene så mange ganger som nødvendig frem til bestillingen er fullstendig."
+
+#~ msgid "locales.pageCoinsFor"
+#~ msgstr "<strong> for</strong>"
+
+#~ msgid "locales.pageCoinsGarantee"
+#~ msgstr "3 dagers garanti mot bann og nullstilling"
+
+#~ msgid "locales.pageCoinsGuaranteeSafe"
+#~ msgstr "Slik kan vi garantere at kontoen din er 100% trygg."
+
+#~ msgid "locales.pageCoinsH"
+#~ msgstr "(X)-(Y)h"
+
+#~ msgid "locales.pageCoinsHaveNice"
+#~ msgstr "Ha en fin shopping i spillet!"
+
+#~ msgid "locales.pageCoinsHello"
+#~ msgstr "HALLO!"
+
+#~ msgid "locales.pageCoinsHowDelivery"
+#~ msgstr "Hvordan virker levering?"
+
+#~ msgid "locales.pageCoinsHowWillDelivery"
+#~ msgstr "Hvordan virker levering?"
+
+#~ msgid "locales.pageCoinsImportant"
+#~ msgstr "<b>DET ER VIKTIG!</b> "
+
+#~ msgid "locales.pageCoinsInform"
+#~ msgstr "Etter at du har fylt inn dataene dine, begynner vi å utføre ordren og det skal ta oss litt tid (leveringstid blir anvist før betaling). Men hvis påloggingsinformasjonen eller passordet som du har gitt oss er feil, eller det er et annet problem som hindrer oss i å logge inn profilen din, vil vi straks informere deg om dette via e-post."
+
+#~ msgid "locales.pageCoinsLockedMarket"
+#~ msgstr "Hvis Spillerauksjoner i FC 25 Web App er låst, endre leveransemetoden til \"Spillerauksjon\"."
+
+#~ msgid "locales.pageCoinsLogin"
+#~ msgstr "LOGG INN"
+
+#~ msgid "locales.pageCoinsLogOut"
+#~ msgstr "LOGG UT"
+
+#~ msgid "locales.pageCoinsM"
+#~ msgstr "(X)-(Y)m"
+
+#~ msgid "locales.pageCoinsNeed1000"
+#~ msgstr "Det er bare en betingelse du må oppfylle: du må ha minst 1000 mynter på FUT-kontoen din."
+
+#~ msgid "locales.pageCoinsNotifiedEmail"
+#~ msgstr "Vi skal melde deg via e-post når ordren din blir utført. Ha en fin shopping i spillet!"
+
+#~ msgid "locales.pageCoinsOffers"
+#~ msgstr "MYNTSETT"
+
+#~ msgid "locales.pageCoinsPaymentFee"
+#~ msgstr "Provisjon:"
+
+#~ msgid "locales.pageCoinsPlatform"
+#~ msgstr "Plattform"
+
+#~ msgid "locales.pageCoinsPlatform1"
+#~ msgstr "Sony PlayStation 4 og PlayStation 5"
+
+#~ msgid "locales.pageCoinsPlatform2"
+#~ msgstr "Xbox One og Xbox Series S, Xbox Series X"
+
+#~ msgid "locales.pageCoinsPrevPage"
+#~ msgstr "Siste nettside"
+
+#~ msgid "locales.pageCoinsPrice"
+#~ msgstr "Pris"
+
+#~ msgid "locales.pageCoinsProcessAutomated"
+#~ msgstr "Overføring av mynter fra våre FUT-klubber til din er helt automatisert. Vi har utviklet algoritmen som tar hensyn til en rekke av viktige regler. Denne reglene vil sikre profilen din innenfor rammen av bestillingen på nettstedet vårt. Vi gir 3 dagers garanti, i løpet av hvilke kan du trygt returnere pengene dine til kontoen som ble brukt til å foreta en betaling, hvis du støter på sanksjoner fra utgiveren av spillet. I dette tilfellet, kontakt vår operatør straks og fortell ordrenummeret ditt og grunnen til å igangsette en refusjon."
+
+#~ msgid "locales.pageCoinsReceive"
+#~ msgstr "Hvordan kan jeg få myntene?"
+
+#~ msgid "locales.pageCoinsRefund"
+#~ msgstr "Garanti for refusjon om du ikke mottar myntene"
+
+#~ msgid "locales.pageCoinsRegister"
+#~ msgstr "1. Registrer deg eller logg inn på ROYALFUT-profilen din"
+
+#: components/HowDelivery/Howdelivery.js:104
+msgid "locales.pageCoinsRepeatUntil"
+msgstr "GJENTA TIL OVERFØRINGEN ER FULLFØRT"
+
+#~ msgid "locales.pageCoinsSignUp"
+#~ msgstr "REGISTRER DEG"
+
+#~ msgid "locales.pageCoinsStep"
+#~ msgstr "Alle trinn før du fyller på konten til FIFA Ultimate Team-klubben din med mynter vil ha en detaljert beskrivelse, så du vil virkilig ikke bli forvirret :)"
+
+#: components/Package/CheckoutSticky.js:384
+msgid "locales.pageCoinsSubtotal"
+msgstr "Subtotal:"
+
+#~ msgid "locales.pageCoinsText"
+#~ msgstr "Kjøp mynter som du kan bruke til å betale for spillerkort eller forskjellige pakker på FIFA Ultimate Team. Denne tjenesten tilbys for <span class=\"js-change-platform\">$ {platforms}</span> brukere. Vær forsiktig: hvis du spiller på en annen konsoll, rediger ordren straks. <span class=\"js-change-platform\">$ {platforms}</span> tillater deg å kjøpe prima spillerkort i FUT eller begynne en stor pakkeåpning!"
+
+#: components/HowDelivery/Howdelivery.js:101
+msgid "locales.pageCoinsThenConfirm"
+msgstr "Så bekrefter du at spilleren er lagt ut på auksjonen, og så spør vi deg om spilleren er din. For å forstå hvilken av spillerne som er din, kan du sammenlikne tiden til slutten av auksjonen."
+
+#: components/HowDelivery/Howdelivery.js:23
+#: components/HowDelivery/Howdelivery.js:51
+msgid "locales.pageCoinsToStart"
+msgstr "For å starte leveringsprosessen fyller du ut feltene med reservekodene dine, som du finner her: "
+
+#~ msgid "locales.pageCoinsTotal"
+#~ msgstr "TOTAL"
+
+#~ msgid "locales.pageCoinsTotaltotal"
+#~ msgstr "Total:"
+
+#~ msgid "locales.pageCoinsToTheCheckout"
+#~ msgstr "TIL KASSEN"
+
+#~ msgid "locales.pageCoinsTransferMarket"
+#~ msgstr "du må låse opp Spillerauksjoner på FC 25 Web App (bare for Smidig leveransemetode)."
+
+#~ msgid "locales.pageCoinsUltimateTeam"
+#~ msgstr "<span class=\"js-change-coins\">$ {coins}</span> FIFA Ultimate Team Mynter"
+
+#~ msgid "locales.pageCoinsUseInstructions"
+#~ msgstr "Alle operasjoner utføres strengt i henhold til den interaktive instruksjonen på nettstedet vårt med ekstra bruk av FIFA-menyen i spillet på konsollen din eller grensesnittet av FC 25 Web App / FUT Companion App."
+
+#~ msgid "locales.pageCoinsUseService"
+#~ msgstr "For å bruke sørvisen må du oppfylle bare et par betingelser:"
+
+#: components/HowDelivery/Howdelivery.js:69
+msgid "locales.pageCoinsWaitCompletion"
+msgstr "VENT TIL BESTILLINGEN DIN ER FULLFØRT"
+
+#~ msgid "locales.pageCoinsYourPlatform"
+#~ msgstr "Din plattform:"
+
+#~ msgid "locales.pageDeliveryContent1Email"
+#~ msgstr "E-postadresse"
+
+#~ msgid "locales.pageDeliveryContent1Name"
+#~ msgstr "Oppgi EA-kontoopplysningene dine"
+
+#~ msgid "locales.pageDeliveryContent1Next"
+#~ msgstr "Neste"
+
+#~ msgid "locales.pageDeliveryContent1Password"
+#~ msgstr "Passord"
+
+#~ msgid "locales.pageDeliveryContent1SeePassword"
+#~ msgstr "Se passordet ditt"
+
+#~ msgid "locales.pageDeliveryContent1Text"
+#~ msgstr "Du har valgt den enkle metoden. Det innebærer at vi selger spillerne på dine vegne. <br>Vi vil bare bruke kontoen din til å arrangere overføringer og ikke til noe annet formål. <br>Vi anbefaler at du bytter passord på kontoen din når bestillingen er fullført."
+
+#~ msgid "locales.pageDeliveryContent2Code"
+#~ msgstr "Skriv inn kode"
+
+#~ msgid "locales.pageDeliveryContent2CodePlaceholder"
+#~ msgstr "Reservekoder"
+
+#~ msgid "locales.pageDeliveryContent2Name"
+#~ msgstr "Oppgi den 8-sifrede koden"
+
+#~ msgid "locales.pageDeliveryContent2Next"
+#~ msgstr "Neste"
+
+#~ msgid "locales.pageDeliveryContent2Text"
+#~ msgstr "Denne koden finner du på «Sikkerhet»-siden på <a href=\"https://myaccount.ea.com/cp-ui/security/index\" rel=\"noindex, nofollow\" target=\"_blank\">myaccount.ea.com</a>, under Reservekoder-delen"
+
+#~ msgid "locales.pageDeliveryContent3Name"
+#~ msgstr "Bruk av kontoen"
+
+#~ msgid "locales.pageDeliveryContent3Process1"
+#~ msgstr "Ikke bruk kontoen din mens vi overfører"
+
+#~ msgid "locales.pageDeliveryContent3Process2"
+#~ msgstr "Du kan nå lukke denne siden. Vi sender deg en e-postadresse når bestillingen er fullført."
+
+#~ msgid "locales.pageDeliveryContentButtonReload"
+#~ msgstr "La oss sette i gang overføringen!"
+
+#~ msgid "locales.pageDeliveryFormSuccess"
+#~ msgstr "Bestilling sendt, bestillingsstatus: <span class=\"status\"></span>"
+
+#~ msgid "locales.pageDeliveryFormSuccessBtn"
+#~ msgstr "Vis bestilling"
+
+#~ msgid "locales.pageDeliveryName"
+#~ msgstr "LEVERER <div class=\"site__tab-name-content\">bestilling nr.<span></span></div>"
+
+#~ msgid "locales.pageDeliveryTab1"
+#~ msgstr "Spillkonto"
+
+#~ msgid "locales.pageDeliveryTab2"
+#~ msgstr "Reservekoder"
+
+#~ msgid "locales.pageDeliveryTab3"
+#~ msgstr "Behandler"
+
+#~ msgid "locales.pageDeliveryTab4"
+#~ msgstr "Ferdig"
+
+#~ msgid "locales.pageMethodCard1Name"
+#~ msgstr "Comfort Trade"
+
+#~ msgid "locales.pageMethodCard1Text"
+#~ msgstr "Krever kun FUT 22-kontoopplysningene dine. Vi gjør resten for deg."
+
+#~ msgid "locales.pageMethodCard2Name"
+#~ msgstr "Spillerauksjon"
+
+#~ msgid "locales.pageMethodCard2Text"
+#~ msgstr "Du må følge instruksjonene vi gir deg. Raskt og trygt, men manuelt. "
+
+#~ msgid "locales.pageMethodCard2Text2"
+#~ msgstr "Fungerer ikke med bestillinger på over 1 million mynter"
+
+#: components/PageChanger/PageChanger.js:92
+msgid "locales.pageMethodCardSoon"
+msgstr "Snart"
+
+#~ msgid "locales.pageMethodName"
+#~ msgstr "LEVERINGS METODE"
+
+#~ msgid "locales.pageMethodRecomend"
+#~ msgstr "anbefalt"
+
+#~ msgid "locales.pageOrderNext"
+#~ msgstr "Fortsett"
+
+#~ msgid "locales.pagePaymentMethodAntiBan"
+#~ msgstr "Anti-Ban system"
+
+#~ msgid "locales.pagePaymentMethodAntiBanLocale"
+#~ msgstr "ANTI-BANN SYSTEM"
+
+#~ msgid "locales.pagePaymentMethodCard3d"
+#~ msgstr "Kort + 3D Secure"
+
+#~ msgid "locales.pagePaymentMethodCheckout"
+#~ msgstr "Til kassen"
+
+#~ msgid "locales.pagePaymentMethodCoupon"
+#~ msgstr "kupong"
+
+#~ msgid "locales.pagePaymentMethodCouponApply"
+#~ msgstr "BRUK kupong"
+
+#~ msgid "locales.pagePaymentMethodCouponHave"
+#~ msgstr "Har en kupong"
+
+#~ msgid "locales.pagePaymentMethodDelivery"
+#~ msgstr "1-2 timers levering"
+
+#~ msgid "locales.pagePaymentMethodGuarantee"
+#~ msgstr "3 dagers garanti"
+
+#~ msgid "locales.pagePaymentMethodMore"
+#~ msgstr "Flere betalingsmetoder"
+
+#: pages/payments.js:28
+msgid "locales.pagePaymentMethodName"
+msgstr "BETALING"
+
+#~ msgid "locales.pagePaymentMethodPay"
+#~ msgstr "Betal med kort"
+
+#~ msgid "locales.pagePaymentMethodPayOther"
+#~ msgstr "Betal med noe"
+
+#~ msgid "locales.pagePaymentMethodPayPal"
+#~ msgstr "Betal med PayPal"
+
+#: components/Garantee/Garantee.js:74
+msgid "locales.pagePaymentMethodSafe"
+msgstr "100 % SIKKER BETALING"
+
+#~ msgid "locales.pagePaymentMethodTaxesCovered"
+#~ msgstr "Taxes covered"
+
+#~ msgid "locales.pagePaymentMethodTaxesCoveredLocale"
+#~ msgstr "PROVISJON INKLUDERT"
+
+#: pages/coins/index.js:147
+msgid "locales.pagePaymentMethodTitle"
+msgstr "Pakketilbud"
+
+#~ msgid "locales.pagePaymentMethodTotalAmount"
+#~ msgstr "Totalt"
+
+#~ msgid "locales.pagePlatformMark"
+#~ msgstr "NYHET!"
+
+#~ msgid "locales.pagePlatformName"
+#~ msgstr "Plattform"
+
+#~ msgid "locales.pagePlatformName2"
+#~ msgstr "Plattform"
+
+#: components/Profile/Profile.js:192
+msgid "locales.password"
+msgstr "Passord"
+
+#~ msgid "locales.payment_p1"
+#~ msgstr " tar imot betaling i euro. Det er bare registrerte brukere som kan utføre betalinger på nettstedet."
+
+#~ msgid "locales.payment_p2_1"
+#~ msgstr "Betalingene organiseres gjennom det internasjonale betalingssystemer "
+
+#~ msgid "locales.payment_p2_2"
+#~ msgstr " og "
+
+#~ msgid "locales.payment_p2_3"
+#~ msgstr ". Systemet vårt fungerer med alle betalinger som blir gjort med bankkort, uavhengig av hvilket land du bor i eller hvilken bank kortet ble utstedt fra. Når du betaler for en bestilling, kan du velge den betalingsmetoden som passer best for deg."
+
+#: components/Auth/Auth copy 2.js:113
+#: components/Auth/Auth.js:168
+#~ msgid "locales.paymentsLanguage"
+#~ msgstr "no-NO"
+
+#: components/Order/StickySecondStep.js:445
+#: components/Order/StickySecondStep.js:454
+#: components/Package/CheckoutSticky.js:502
+#: components/Package/CheckoutSticky.js:510
+#: components/Purchase/Purchase.js:609
+#: components/Purchase/Purchase.js:631
+msgid "locales.payNow"
+msgstr "Til kassen"
+
+#: components/Order/StepSecondContent.js:49
+#: components/Package/Checkout.js:23
+#: pages/coins/[id].js:301
+#: pages/coins/index.js:155
+msgid "locales.platform"
+msgstr "Plattform"
+
+#~ msgid "locales.platformLogin"
+#~ msgstr "Platform / Login"
+
+#~ msgid "locales.platformName"
+#~ msgstr "Your platform:"
+
+#~ msgid "locales.price"
+#~ msgstr "Pris"
+
+#: components/PrivacyContent/PrivacyContent.js:34
+msgid "locales.privacya1"
+msgstr "Samtykket gjelder fra det øyeblikk personopplysningene registreres på "
+
+#: components/PrivacyContent/PrivacyContent.js:46
+msgid "locales.privacya2"
+msgstr "Hvis du vil annullere din RoyalFUT-profilen skriv oss til "
+
+#: components/BurgerMenu/BurgerMenu.js:302
+msgid "locales.profile"
+msgstr "Profil"
+
+#~ msgid "locales.profileCodesErrors"
+#~ msgstr "oppgi reservekode, minst 8 tegn"
+
+#~ msgid "locales.profileFormSuccess"
+#~ msgstr "Rekkefølgen er endret status"
+
+#~ msgid "locales.profileNotify"
+#~ msgstr "LEVERERAR beställning xxxxx"
+
+#~ msgid "locales.quick_order"
+#~ msgstr "Rask bestilling"
+
+#~ msgid "locales.reportProblem"
+#~ msgstr "Informar de un problema"
+
+#: components/ReviewsGallery/ReviewsGallery.js:91
+msgid "locales.reviews"
+msgstr "anmeldelser"
+
+#: components/TableOrders/TableOrderBody.js:779
+#: components/TableOrders/TableOrderBody.js:808
+msgid "locales.saveChanges"
+msgstr "LAGRE ENDRINGER"
+
+#: components/BurgerMenu/BurgerMenu.js:409
+#: components/TableOrders/TableOrderBody.js:330
+#: components/TableOrders/TableOrderBody.js:558
+msgid "locales.seePassword"
+msgstr "Se passordet ditt"
+
+#~ msgid "locales.seo0"
+#~ msgstr "Vi har de beste tilbudene på FIFA-mynter til PlayStation 4. Vi tilbyr billige FIFA-mynter til PS4 med rask levering og sikkerhetsgaranti til kontoen din UTEN EKSTRA AVGIFTER."
+
+#~ msgid "locales.seo1"
+#~ msgstr "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FUT-mynter til PS5 fra oss med tillit til å få det beste tilbudet."
+
+#~ msgid "locales.seo10"
+#~ msgstr "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FUT-mynter til Xbox Series X/S fra oss med tillit til å få det beste tilbudet."
+
+#~ msgid "locales.seo11"
+#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til Xbox-konsoller? Kontakt oss på en måte som passer deg."
+
+#~ msgid "locales.seo2"
+#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til PlayStation-konsoller? Kontakt oss på en måte som passer deg."
+
+#~ msgid "locales.seo3"
+#~ msgstr "Vi har de beste tilbudene på FIFA-mynter til PlayStation 5. Vi tilbyr billige FIFA-mynter til PS5 med rask levering og sikkerhetsgaranti til kontoen din UTEN EKSTRA AVGIFTER."
+
+#~ msgid "locales.seo4"
+#~ msgstr "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FUT-mynter til PS5 fra oss med tillit til å få det beste tilbudet."
+
+#~ msgid "locales.seo5"
+#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til PlayStation-konsoller? Kontakt oss på en måte som passer deg."
+
+#~ msgid "locales.seo6"
+#~ msgstr "Vi har de beste tilbudene på FIFA-mynter til Xbox One. Vi tilbyr billige FIFA-mynter med rask levering og sikkerhetsgaranti til kontoen din UTEN EKSTRA AVGIFTER."
+
+#~ msgid "locales.seo7"
+#~ msgstr "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FUT-mynter til Xbox One fra oss med tillit til å få det beste tilbudet."
+
+#~ msgid "locales.seo8"
+#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til Xbox-konsoller? Kontakt oss på en måte som passer deg."
+
+#~ msgid "locales.seo9"
+#~ msgstr "Vi har de beste tilbudene på FIFA-mynter til Xbox Series X. Vi tilbyr billige FIFA-mynter til Xbox Series S med rask levering og sikkerhetsgaranti til kontoen din UTEN EKSTRA AVGIFTER."
+
+#~ msgid "locales.seot1_ps4"
+#~ msgstr ""
+
+#~ msgid "locales.seot1_ps5"
+#~ msgstr ""
+
+#~ msgid "locales.seot1_xb"
+#~ msgstr ""
+
+#~ msgid "locales.seot1_xbxs"
+#~ msgstr ""
+
+#~ msgid "locales.seot2_ps4"
+#~ msgstr ""
+
+#~ msgid "locales.seot2_ps5"
+#~ msgstr ""
+
+#~ msgid "locales.seot2_xb"
+#~ msgstr ""
+
+#~ msgid "locales.seot2_xbxs"
+#~ msgstr ""
+
+#~ msgid "locales.seot3_ps4"
+#~ msgstr ""
+
+#~ msgid "locales.seot3_ps5"
+#~ msgstr ""
+
+#~ msgid "locales.seot3_xb"
+#~ msgstr ""
+
+#~ msgid "locales.seot3_xbxs"
+#~ msgstr ""
+
+#: components/Profile/Profile.js:160
+msgid "locales.settings"
+msgstr "Innstillinger"
+
+#~ msgid "locales.sidebarAllLink"
+#~ msgstr "Alle omtaler"
+
+#~ msgid "locales.sidebarTitle"
+#~ msgstr "Siste omtaler"
+
+#~ msgid "locales.sidebarTrust"
+#~ msgstr "en-GB"
+
+#~ msgid "locales.sidebarTrustWidth"
+#~ msgstr "236px"
+
+#~ msgid "locales.specOfferTitle"
+#~ msgstr "Ikke gå glipp av vårt spesialtilbud"
+
+#: pages/coins/index.js:250
+#: pages/coins/index.js:337
+msgid "locales.startSave"
+msgstr "Begynn å spare masser av tid med det helt nye verktøyet fra vennene våre."
+
+#: components/TableOrders/StatusInfo.js:19
+msgid "locales.status"
+msgstr "Status"
+
+#~ msgid "locales.status.accepted"
+#~ msgstr "GODTATT"
+
+#~ msgid "locales.status.created"
+#~ msgstr "OPPRETT"
+
+#~ msgid "locales.status.customer_online"
+#~ msgstr "FIFA-kontoen er i bruk"
+
+#~ msgid "locales.status.error_fut"
+#~ msgstr "FUT-FEIL"
+
+#~ msgid "locales.status.error_payment"
+#~ msgstr "BETALING MISLYKTES"
+
+#~ msgid "locales.status.finished"
+#~ msgstr "FULLFØRT"
+
+#~ msgid "locales.status.fut_error"
+#~ msgstr "FUT-FEIL"
+
+#~ msgid "locales.status.issued_refund"
+#~ msgstr "KANSELLERT"
+
+#~ msgid "locales.status.locked"
+#~ msgstr "låse"
+
+#~ msgid "locales.status.no_access_to_fifa_21_webapp"
+#~ msgstr "Ingen tilgang til EA FC 25-NETTAPPEN"
+
+#~ msgid "locales.status.no_enough_coins_to_start"
+#~ msgstr "IKKE NOK MYNTER TIL Å KUNNE STARTE"
+
+#~ msgid "locales.status.no_enough_stock"
+#~ msgstr "IKKE NOK MYNTER TIL Å KUNNE STARTE"
+
+#~ msgid "locales.status.not_enough_coins_to_start"
+#~ msgstr "IKKE NOK MYNTER TIL Å KUNNE STARTE"
+
+#~ msgid "locales.status.not_enough_stock"
+#~ msgstr "IKKE NOK MYNTER TIL Å KUNNE STARTE"
+
+#~ msgid "locales.status.out_of_stock"
+#~ msgstr "IKKE FLERE TILGJENGELIG"
+
+#~ msgid "locales.status.payed"
+#~ msgstr "BETALT"
+
+#~ msgid "locales.status.payment_failed"
+#~ msgstr "BETALING MISLYKTES"
+
+#~ msgid "locales.status.progress"
+#~ msgstr "PÅGÅR"
+
+#~ msgid "locales.status.success"
+#~ msgstr "Suksess"
+
+#~ msgid "locales.status.waiting_payment"
+#~ msgstr "AVVENTER BETALING"
+
+#~ msgid "locales.status.warning"
+#~ msgstr "Advarsel"
+
+#~ msgid "locales.status.wrong_backup"
+#~ msgstr "FEIL RESERVE"
+
+#~ msgid "locales.status.wrong_credentials"
+#~ msgstr "FEIL OPPLYSNINGER"
+
+#~ msgid "locales.sublogo"
+#~ msgstr "EA FC 25 mynter"
+
+#~ msgid "locales.sublogo2"
+#~ msgstr "EA FC 25 PRODUKTER"
+
+#~ msgid "locales.succPaid"
+#~ msgstr "Bestillingen din har blitt betalt!"
+
+#: components/TermsContent/TermsContent.js:18
+msgid "locales.terms_text"
+msgstr "Les denne brukeravtalen nøye. Hvis det er noen deler av denne brukeravtalen du ikke samtykker i, har du ikke rett til å bekrefte registreringen din, bruke noen av tjenestene på https://royalfut.com, eller selge, kjøpe eller utveksle varer via denne utvekslingsplattformen."
+
+#: components/TermsContent/TermsContent.js:53
+msgid "locales.termsa1"
+msgstr "Vilkår og betingelser fra 01.10.2020 (01.10.2020 - 07.02.2021)"
+
+#: components/TermsContent/TermsContent.js:63
+msgid "locales.termsa2"
+msgstr "Vilkår og betingelser fra 08.02.2021 (08.02.2021 - 03.06.2021)"
+
+#: components/TermsContent/TermsContent.js:73
+msgid "locales.termsa3"
+msgstr "Personvernregler fra 01.10.2020 (01.10.2020 - 07.02.2021)"
+
+#~ msgid "locales.toDay"
+#~ msgstr "I dag"
+
+#~ msgid "locales.totsPromoText"
+#~ msgstr "TEAM OF THE SEASON <b>- 18 % rabatt </b> på tilbudspris! <span class=\"color\">Bruk kampanjekoden: <b>TOTSY</b></span>"
+
+#: components/TableOrders/StatusInfo.js:117
+#: components/TableOrders/TableItem.js:846
+msgid "locales.transferred"
+msgstr "Mynter overført"
+
+#: components/HowDelivery/Howdelivery.js:85
+#: components/HowDelivery/Howdelivery.js:120
+msgid "locales.trustcom"
+msgstr " en tilbakemelding. "
+
+#~ msgid "locales.trySbc"
+#~ msgstr "Prøv SBC Solver gratis"
+
+#: pages/index.js:117
+#~ msgid "locales.tryThese"
+#~ msgstr "Prøv også"
+
+#: components/HowDelivery/Howdelivery.js:34
+#: components/HowDelivery/Howdelivery.js:63
+msgid "locales.unused"
+msgstr " . Vi trengre bare én ubrukt kode for å levere bestillingen din."
+
+#: components/Profile/Profile.js:208
+msgid "locales.update"
+msgstr "OPPDATER"
+
+#~ msgid "locales.upto1m"
+#~ msgstr "Ikke mer enn 1m mynter"
+
+#: components/TermsContent/TermsContent.js:21
+msgid "locales.user_agreement"
+msgstr "Brukeravtale"
+
+#: components/TableOrders/TableOrderBody.js:746
+msgid "locales.wrong_backup"
+msgstr "FEIL RESERVE"
+
+#~ msgid "locales.wrongCode"
+#~ msgstr "FEIL RESERVE"
+
+#~ msgid "locales.wrongCredentials"
+#~ msgstr "FEIL OPPLYSNINGER"
+
+#~ msgid "locales.yesterDay"
+#~ msgstr "I går"
+
+#: components/Profile/RoyalRanging.js:1422
+#: components/Profile/RoyalRanging.js:1452
+msgid "locked"
+msgstr "Låst"
+
+#: components/Profile/Profile.js:171
+msgid "loyalty program"
+msgstr "Lojalitets program"
+
+#: components/Carusel/Carusel.js:109
+#: components/Carusel/Carusel.js:139
+msgid "mainblocks0"
+msgstr "Skap ditt eget Drømmelag"
+
+#: components/Carusel/Carusel.js:110
+#: components/Carusel/Carusel.js:140
+msgid "mainblocks1"
+msgstr "Hvis du bruker EA Sports FC 25, kan du velge de beste mulige alternativene for hver posisjon i laget ditt. Gi fantasien frie tøyler, prøv nye metoder og eksperimenter!"
+
+#: components/Carusel/Carusel.js:87
+#: components/Modal/Modal.js:169
+#: components/Package/IdCard.js:135
+#: components/Package/PackageCard.js:144
+#: pages/coins/index.js:234
+#: pages/coins/index.js:321
+msgid "mainblocks10"
+msgstr "Kjøp nå"
+
+#: components/FaqMain/FaqMain.js:159
+msgid "mainblocks11"
+msgstr "Har du spørsmål?"
+
+#: components/Footer/Footer.js:102
+msgid "mainblocks12"
+msgstr "Finn oss"
+
+#~ msgid "mainblocks13"
+#~ msgstr "Din favoritbutikk"
+
+#~ msgid "mainblocks14"
+#~ msgstr "for å få EA FC 25"
+
+#~ msgid "mainblocks15"
+#~ msgstr "Mynter og"
+
+#: components/H1/H1.js:10
+msgid "mainblocks16"
+msgstr "Den beste butikken"
+
+#: components/H1/H1.js:13
+msgid "mainblocks17"
+msgstr "for å kjøpe FC 25"
+
+#: components/H1/H1.js:16
+msgid "mainblocks18"
+msgstr "Mynter og"
+
+#~ msgid "mainblocks19"
+#~ msgstr "Ditt best valg"
+
+#: components/Carusel/Carusel.js:121
+#: components/Carusel/Carusel.js:151
+msgid "mainblocks2"
+msgstr "Få de mest interessante kort"
+
+#~ msgid "mainblocks20"
+#~ msgstr "for å kjøpe"
+
+#~ msgid "mainblocks21"
+#~ msgstr "FC 25 Ultimate Team Mynter"
+
+#: components/Offer/Offer.js:29
+msgid "mainblocks22"
+msgstr "Den sikreste måten å kjøpe"
+
+#: components/Offer/Offer.js:32
+msgid "mainblocks23"
+msgstr "FIFA 25 Mynter"
+
+#: components/ReviewsGallery/ReviewsGallery.js:71
+msgid "mainblocks24"
+msgstr "Hva kundene våre sier"
+
+#~ msgid "mainblocks25"
+#~ msgstr "Vurdert __"
+
+#~ msgid "mainblocks26"
+#~ msgstr "Basert på __ anmeldelser"
+
+#: components/ReviewsGallery/ReviewsGallery.js:99
+msgid "mainblocks27"
+msgstr "Kjempefint"
+
+#: components/ReviewsGallery/ReviewsGallery.js:113
+msgid "mainblocks28"
+msgstr "Trygt selskap"
+
+#~ msgid "mainblocks29"
+#~ msgstr ""
+
+#: components/Carusel/Carusel.js:122
+#: components/Carusel/Carusel.js:152
+msgid "mainblocks3"
+msgstr "De mest ettertraktede Ultimate Team-spillerne vil endelig bli tilgjengelige for deg. Begynn å samle inn ønskelige kort fra alle FC UT-kampanje og ikke nekt deg noe!"
+
+#: components/Carusel/Carusel.js:115
+#: components/Carusel/Carusel.js:145
+msgid "mainblocks4"
+msgstr "Oppdag nye spillefunksjoner ved å bruke kort som ble vurdert høyt"
+
+#: components/Carusel/Carusel.js:116
+#: components/Carusel/Carusel.js:146
+msgid "mainblocks5"
+msgstr "Nye spillopplevelser ved beste spillere med forskjellige Spillestil+ som påvirker gameplay av Ultimate Team."
+
+#: components/Carusel/Carusel.js:103
+#: components/Carusel/Carusel.js:133
+msgid "mainblocks6"
+msgstr "Oppnå de høyeste ranger"
+
+#: components/Carusel/Carusel.js:104
+#: components/Carusel/Carusel.js:134
+msgid "mainblocks7"
+msgstr "Du kan spille med de beste spillerkortene og bli så nær som mulig til de høyeste rangene og de beste prisene"
+
+#: components/Carusel/Carusel.js:127
+#: components/Carusel/Carusel.js:157
+msgid "mainblocks8"
+msgstr "Spill nå og ikke kast bort tida for å samle mynter"
+
+#: components/Carusel/Carusel.js:128
+#: components/Carusel/Carusel.js:158
+msgid "mainblocks9"
+msgstr "Ikke kast bort dyrebare tid for å samle mynter, det er på tida å nyte spillet! Sett baller i nettet på Ultimate Team-feltene, ikke fokuser på mynter-oppsamling."
+
+#: components/Infografic/Infografic.js:51
+msgid "min"
+msgstr "min"
+
+#: pages/coins/[id].js:216
+msgid "minutes"
+msgstr "minutes"
+
+#~ msgid "Netherlands"
+#~ msgstr "Nederland"
+
+#: components/Cookie/Cookie.js:35
+msgid "newcookies"
+msgstr "🍪 Vi bruker informasjonskapsler for å gjøre dette nettstedet bedre for deg.        "
+
+#: components/Cookie/Cookie.js:38
+msgid "newcookieslink"
+msgstr "Les mer.        "
+
+#~ msgid "newh1_1"
+#~ msgstr "Den sikreste måten å kjøpe"
+
+#~ msgid "newh1_2"
+#~ msgstr "FC 25 "
+
+#~ msgid "newh1_3"
+#~ msgstr "Mynter"
+
+#: components/MainFunnel/MainFunnel.js:46
+msgid "newh1_4"
+msgstr "FC 25 Mynter"
+
+#: components/Cookie/Cookie.js:52
+msgid "okay"
+msgstr "Ok"
+
+#~ msgid "orderh1"
+#~ msgstr "Buy FC 25 Ultimate Team coins"
+
+#~ msgid "orderinfo"
+#~ msgstr "Order info"
+
+#: components/Infografic/Infografic.js:34
+msgid "orders to our customers"
+msgstr "bestillinger til brukerne våre"
+
+#~ msgid "orderstep2"
+#~ msgstr "Checkout"
+
+#~ msgid "orderstep3"
+#~ msgstr "Delivery"
+
+#: components/Header/Header.js:69
+msgid "pageCoinsBundles"
+msgstr "Myntsett"
+
+#: components/MainFunnel/StickySecondStep.js:157
+msgid "payNow"
+msgstr "Til kassen"
+
+#~ msgid "pl_upd0"
+#~ msgstr "Overgangsmarkedet er låst"
+
+#~ msgid "pl_upd1"
+#~ msgstr "Kontoen din har blitt suspendert fra å bruke Overgangsmarkedet i FC Ultimate Team nettapp, send inn eventuelt detaljene for din andre konto med det ulåste Overgangsmarkedet, eller kontakt kundeteamet vårt for å finne en annen løsning"
+
+#~ msgid "pl_upd10"
+#~ msgstr "Send melding på nytt"
+
+#~ msgid "pl_upd11"
+#~ msgstr "[[X]] sek"
+
+#~ msgid "pl_upd12"
+#~ msgstr "Feil kode"
+
+#~ msgid "pl_upd13"
+#~ msgstr "Du er logget inn som [[X]]"
+
+#: components/LoyaltyProgram/MainLoyalty.js:30
+msgid "pl_upd14"
+msgstr "Hvordan fungerer lojalitets programmet vårt?"
+
+#: components/LoyaltyProgram/MainLoyalty.js:33
+msgid "pl_upd15"
+msgstr "Hvert kjøp vil drive deg inn i en verden av fotballunderverk! Bli med på et spennende digitalt eventyr fullt av kjøp, tjening, bruk og av å nå nye nivåer!"
+
+#: components/LoyaltyProgram/MainLoyalty.js:40
+msgid "pl_upd16"
+msgstr "Brukere som allerede deltar i vårt lojalitetsprogram"
+
+#: components/LoyaltyProgram/MainLoyalty.js:46
+msgid "pl_upd17"
+msgstr "ROYAL-poeng har allerede blitt opptjent av våre kunder"
+
+#: components/GuideContent/StickyCoupon.js:32
+#: components/LoyaltyProgram/MainLoyalty.js:54
+msgid "pl_upd18"
+msgstr "Kjøp mynter"
+
+#: components/LoyaltyProgram/MainLoyalty.js:57
+msgid "pl_upd19"
+msgstr "Skaff deg noen skinnende mynter for å forbedre spillopplevelsen din og låse opp ditt fulle Ultimate Team-potensial!"
+
+#~ msgid "pl_upd2"
+#~ msgstr "Logg på eller Registrer deg"
+
+#: components/LoyaltyProgram/MainLoyalty.js:64
+msgid "pl_upd20"
+msgstr "Tjen ROYAL-poeng"
+
+#: components/LoyaltyProgram/MainLoyalty.js:67
+msgid "pl_upd21"
+msgstr "Samle ROYAL-poeng hver gang du kjøper mynter på nettstedet vårt og lås opp ytterligere fordeler ved å nå nye lojalitetsnivåer."
+
+#: components/LoyaltyProgram/MainLoyalty.js:73
+msgid "pl_upd22"
+msgstr "Bruk dine ROYAL-poeng"
+
+#: components/LoyaltyProgram/MainLoyalty.js:76
+msgid "pl_upd23"
+msgstr "Løs inn dine ROYAL-poeng på ditt neste kjøp og nyt myntpåfyll med rabatt!"
+
+#: components/LoyaltyProgram/MainLoyalty.js:85
+msgid "pl_upd24"
+msgstr "Kjøp mynter"
+
+#: components/LoyaltyProgram/MainLoyalty.js:95
+msgid "pl_upd25"
+msgstr "Lær mer om ROYAL-poeng"
+
+#: components/Order/OrderDeliveryPlug.js:20
+msgid "pl_upd26"
+msgstr "Leveringsinformasjon"
+
+#: components/Order/OrderDeliveryPlug.js:24
+msgid "pl_upd27"
+msgstr "Send inn EA-kontoopplysningene dine for å starte leveringsprosessen. Myntene skal leveres til Ultimate Team-klubben knyttet til EA-kontoen din."
+
+#: components/LoyaltyProgram/RoyalPointsInfo.js:27
+msgid "pl_upd28"
+msgstr "Her er vårt splitter nye cashback-baserte lojalitetssystem – tjen poeng for hvert kjøp du gjør, bruk dem på fremtidige bestillinger og nå nye nivåer for å få ytterligere fordeler."
+
+#: components/LoyaltyProgram/RoyalPointsInfo.js:32
+msgid "pl_upd29"
+msgstr "Lær mer"
+
+#~ msgid "pl_upd3"
+#~ msgstr "Tast inn e-postadressen din for å logge på eller opprette en konto"
+
+#~ msgid "pl_upd30"
+#~ msgstr "Delsum"
+
+#: components/Package/CheckoutSticky.js:414
+msgid "pl_upd31"
+msgstr "Ikke bruk"
+
+#: components/Package/CheckoutSticky.js:425
+msgid "pl_upd32"
+msgstr "Bruk "
+
+#~ msgid "pl_upd33"
+#~ msgstr "Totalpris"
+
+#: components/Package/CheckoutSticky.js:469
+msgid "pl_upd34"
+msgstr "Logg inn for å få cashback"
+
+#: components/Package/CheckoutSticky.js:468
+msgid "pl_upd35"
+msgstr "Din cashback for denne bestillingen"
+
+#: components/Package/CheckoutSticky.js:397
+msgid "pl_upd36"
+msgstr "ROYAL-poengrabatt"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:146
+#: components/LoyaltyProgram/RoyalPointsInfo.js:24
+msgid "pl_upd37"
+msgstr "ROYAL-poeng"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:149
+msgid "pl_upd38"
+msgstr "Dekk deler av bestillingsprisen med cashback-poeng du har mottatt fra tidligere kjøp. Lås opp ytterligere fordeler med hvert nytt nivå du oppnår."
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:160
+msgid "pl_upd39"
+msgstr "Lojalitetsprogramnivåer"
+
+#~ msgid "pl_upd4"
+#~ msgstr "Du vil motta en autorisasjonslenke for å bekrefte e-postadressen du har oppgitt, samt en unik 6-sifret kode for sikker pålogging"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:207
+msgid "pl_upd40"
+msgstr "Ditt nivå"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:218
+msgid "pl_upd41"
+msgstr "Krav"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:222
+msgid "pl_upd42"
+msgstr "[[x]] kjøp på nettstedet"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:225
+msgid "pl_upd43"
+msgstr "[[x]] mynter kjøpt totalt"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:234
+msgid "pl_upd44"
+msgstr "Fordeler"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:238
+msgid "pl_upd45"
+msgstr "[[x]]% av cashback mottatt fra hvert kjøp"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:241
+msgid "pl_upd46"
+msgstr "Opptil [[x]]% av ordreprisen kan betales med ROYAL-poeng"
+
+#: pages/profile.js:55
+msgid "pl_upd49"
+msgstr "Din profil"
+
+#~ msgid "pl_upd5"
+#~ msgstr "Din epostadresse"
+
+#: components/Profile/RoyalPoints.js:55
+msgid "pl_upd50"
+msgstr "Din ROYAL-poengsaldo"
+
+#: components/Profile/RoyalPoints.js:83
+msgid "pl_upd51"
+msgstr "Dekk deler av bestillingsprisen med cashback-poeng du har mottatt fra tidligere kjøp. Lås opp ytterligere fordeler med hvert nytt nivå du oppnår."
+
+#: components/Profile/RoyalRanging.js:75
+msgid "pl_upd52"
+msgstr "Ditt nåværende lojalitetsnivå"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:76
+msgid "pl_upd53"
+msgstr "Bronse"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:80
+msgid "pl_upd54"
+msgstr "Sølv"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:84
+msgid "pl_upd55"
+msgstr "Gull"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:88
+msgid "pl_upd56"
+msgstr "Informer"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:92
+msgid "pl_upd57"
+msgstr "Helt"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:96
+msgid "pl_upd58"
+msgstr "Ikon"
+
+#: components/Profile/RoyalRanging.js:116
+#: components/Profile/RoyalRanging.js:202
+#: components/Profile/RoyalRanging.js:311
+#: components/Profile/RoyalRanging.js:388
+#: components/Profile/RoyalRanging.js:496
+#: components/Profile/RoyalRanging.js:602
+#: components/Profile/RoyalRanging.js:744
+#: components/Profile/RoyalRanging.js:879
+#: components/Profile/RoyalRanging.js:1053
+#: components/Profile/RoyalRanging.js:1188
+msgid "pl_upd59"
+msgstr "Antall kjøp som trengs for å nå neste nivå"
+
+#~ msgid "pl_upd6"
+#~ msgstr "Send autorisasjonsmelding"
+
+#: components/Profile/RoyalRanging.js:1366
+msgid "pl_upd60"
+msgstr "Totalt kjøpte mynter"
+
+#: components/Profile/RoyalRanging.js:1422
+#: components/Profile/RoyalRanging.js:1452
+msgid "pl_upd61"
+msgstr "Dine fordeler"
+
+#: components/Profile/RoyalRanging.js:1427
+msgid "pl_upd62"
+msgstr "av cashback mottatt fra hvert kjøp"
+
+#~ msgid "pl_upd63"
+#~ msgstr "Nå neste nivå for å øke"
+
+#~ msgid "pl_upd64"
+#~ msgstr "Maksimal mulig verdi"
+
+#: components/Profile/RoyalRanging.js:1457
+msgid "pl_upd65"
+msgstr "av ordreprisen kan betales med ROYAL-poeng"
+
+#: components/Profile/PointsHistory.js:69
+msgid "pl_upd66"
+msgstr "ROYAL-poenghistorikk"
+
+#~ msgid "pl_upd69"
+#~ msgstr "Kjøp flere mynter for å låse opp dette nivået"
+
+#~ msgid "pl_upd7"
+#~ msgstr "Tast inn den 6-sifrede koden"
+
+#~ msgid "pl_upd70"
+#~ msgstr "Gjør flere kjøp for å låse opp neste nivå"
+
+#: components/Profile/RoyalRanging.js:75
+msgid "pl_upd71"
+msgstr "Gjør flere kjøp og kjøp flere mynter for å låse opp dette nivået"
+
+#~ msgid "pl_upd72"
+#~ msgstr "Ubetalt"
+
+#~ msgid "pl_upd73"
+#~ msgstr "Denne bestillingen er ikke betalt ennå"
+
+#~ msgid "pl_upd74"
+#~ msgstr "Kansellert"
+
+#~ msgid "pl_upd75"
+#~ msgstr "Denne bestillingen er kansellert på din forespørsel"
+
+#~ msgid "pl_upd76"
+#~ msgstr "Tast inn EA-kontoopplysningene dine"
+
+#~ msgid "pl_upd77"
+#~ msgstr "For å starte leveringsprosessen, tast inn EA-kontoopplysningene dine ved å bruke skjemaet nedenfor"
+
+#~ msgid "pl_upd78"
+#~ msgstr "Bestilling i kø"
+
+#~ msgid "pl_upd79"
+#~ msgstr "Sørg for at du har logget ut av Ultimate Team din konsoll/PC og andre enheter via FC Ultimate Team nettappen / FC Companion"
+
+#~ msgid "pl_upd8"
+#~ msgstr "Sett inn bekreftelseskoden vi sendte til [[X]] i feltet nedenfor"
+
+#~ msgid "pl_upd80"
+#~ msgstr "Leveres"
+
+#~ msgid "pl_upd81"
+#~ msgstr "Sørg for å holde Ultimate Team stengt på kontoen din til bestillingen er fullført"
+
+#~ msgid "pl_upd82"
+#~ msgstr "Sikkerhetskopikoder"
+
+#~ msgid "pl_upd83"
+#~ msgstr "Feil sikkerhetskopikoder"
+
+#~ msgid "pl_upd84"
+#~ msgstr "Sikker"
+
+#~ msgid "pl_upd9"
+#~ msgstr "eller klikk på lenken i e-posten for å bekrefte e-postadressen din"
+
+#: components/DeliverySteps/DeliverySteps.js:16
+msgid "process"
+msgstr "Leveranseprosess"
+
+#~ msgid "Qatar"
+#~ msgstr "Qatar"
+
+#~ msgid "rangeHeader0"
+#~ msgstr "Bronze"
+
+#~ msgid "rangeHeader1"
+#~ msgstr "Silver"
+
+#~ msgid "rangeHeader2"
+#~ msgstr "Gold"
+
+#~ msgid "rangeHeader3"
+#~ msgstr "Inform"
+
+#~ msgid "rangeHeader4"
+#~ msgstr "Hero"
+
+#~ msgid "rangeHeader5"
+#~ msgstr "Icon"
+
+#: components/Message/Message.js:115
+msgid "refresh"
+msgstr "Last inn siden på nytt"
+
+#: components/Aside/Aside.js:65
+msgid "reviews"
+msgstr "anmeldelser"
+
+#: components/Infografic/Infografic.js:60
+msgid "satisfied costumers"
+msgstr "av brukerne som blir fornøyd"
+
+#~ msgid "Saudi Arabia"
+#~ msgstr "Saudi Arabia"
+
+#: pages/coins/index.js:249
+#: pages/coins/index.js:336
+msgid "sbc"
+msgstr "Prøv SBC Solver til nedsatt pris"
+
+#: components/ModalTimer/ModalTimer.js:53
+msgid "season"
+msgstr "Getting ready for the new season"
+
+#: components/MainContainer.js:602
+#: components/MainContainer.js:608
+msgid "seo:root:description"
+msgstr "Den beste butikken å kjøpe EA SPORTS FC 25-mynter ✔ Kjøp EA FC 25-mynter for PS 4/5, Xbox One/X/S 🎮 Rask levering og 24/7-kundestøtte⚡100% sikre betalinger 🔒 Trygt sted å kjøpe billige Ultimate Team mynter 😉"
+
+#: pages/_app.js:25
+msgid "seo:root:title"
+msgstr "Kjøp FC 25-mynter til Alle Plattformer | Ultimate Team Coin Butikk"
+
+#~ msgid "seo0"
+#~ msgstr "Norsk"
+
+#: components/BuyCoinsDropdown/BuyCoinsDropdown.js:57
+#: components/Offer/Offer.js:47
+#: components/OptionWithItems/OptionWithItems.js:45
+#: components/StickyBlock/StickyBlock.js:31
+msgid "seo1"
+msgstr "Kjøp mynter"
+
+#~ msgid "seo10"
+#~ msgstr "Kjøp mynter"
+
+#: components/NotFound/NotFound.js:16
+msgid "seo100"
+msgstr "Beklager, denne siden finnes ikke"
+
+#: components/NotFound/NotFound.js:19
+msgid "seo101"
+msgstr "Siden finnes ikke, eller kan ha blitt flyttet."
+
+#: components/NotFound/NotFound.js:26
+msgid "seo102"
+msgstr "Gå til Startsiden"
+
+#: components/Modal/Modal.js:421
+msgid "seo103"
+msgstr "Første gang her?"
+
+#: components/Modal/Modal.js:424
+msgid "seo104"
+msgstr "Vennligst bekreft det som følger før du fortsetter"
+
+#: components/InputChecker/InputChecker.js:86
+msgid "seo105"
+msgstr "Jeg har minst 5000 Ultimate Team-mynter på kontoen min"
+
+#: components/InputChecker/InputChecker.js:110
+msgid "seo106"
+msgstr "Jeg har logget ut av Ultimate Team på konsollen min og jeg bruker ikke FC 25 Web App / FC Companion App på andre enheter"
+
+#: components/InputChecker/InputChecker.js:136
+msgid "seo107"
+msgstr "Ikke vis meg denne meldingen igjen. Dette er ikke mitt første kjøp, jeg er klar over alle kravene."
+
+#: components/ChangeAvatar/ChangeAvatar.js:83
+#: components/Modal/Modal.js:182
+#: components/Modal/Modal.js:214
+#: components/Modal/Modal.js:444
+msgid "seo108"
+msgstr "Bekreft"
+
+#~ msgid "seo109"
+#~ msgstr "Passord"
+
+#~ msgid "seo11"
+#~ msgstr "Rask bestilling"
+
+#: components/ChangePassword/ChangePassword.js:158
+#: components/ChangePassword/ChangePassword.js:178
+msgid "seo110"
+msgstr "Gjeldende passord"
+
+#: components/ChangePassword/ChangePassword.js:209
+#: components/ChangePassword/ChangePassword.js:223
+msgid "seo111"
+msgstr "Nytt passord"
+
+#: components/ChangePassword/ChangePassword.js:257
+#: components/ChangePassword/ChangePassword.js:271
+#: components/ChangePassword/ChangePassword.js:322
+msgid "seo112"
+msgstr "Bekreft nytt passord"
+
+#: components/ChangePassword/ChangePassword.js:299
+msgid "seo113"
+msgstr "Passordene samsvarer ikke"
+
+#: components/TableOrders/TableItem.js:106
+msgid "seo114"
+msgstr "I dag"
+
+#: components/TableOrders/TableItem.js:110
+msgid "seo115"
+msgstr "I går"
+
+#~ msgid "seo116"
+#~ msgstr "Antall"
+
+#~ msgid "seo117"
+#~ msgstr "Status"
+
+#: components/TableOrders/TableOrderBody.js:277
+#: components/TableOrders/TableOrderBody.js:475
+msgid "seo118"
+msgstr "EA-kontodetaljer"
+
+#: components/TableOrders/TableOrderBody.js:297
+#: components/TableOrders/TableOrderBody.js:496
+msgid "seo119"
+msgstr "EA-konto e-post"
+
+#~ msgid "seo12"
+#~ msgstr "Prøv også"
+
+#: components/TableOrders/TableOrderBody.js:322
+#: components/TableOrders/TableOrderBody.js:543
+msgid "seo120"
+msgstr "EA-kontopassord"
+
+#: components/TableOrders/TableOrderBody.js:390
+#: components/TableOrders/TableOrderBody.js:650
+msgid "seo121"
+msgstr "EA-konto sikkerhetskopikoder"
+
+#: components/TableOrders/TableOrderBody.js:750
+msgid "seo122"
+msgstr "Vi anbefaler at du sender minst 2-3 sikkerhetskopikoder"
+
+#: components/TableOrders/TableOrderBody.js:755
+msgid "seo123"
+msgstr "Du kan få sikkerhetskopikodene dine på denne siden:  "
+
+#: components/TableOrders/TableItem.js:361
+msgid "seo124"
+msgstr "Lever detaljer"
+
+#: components/TableOrders/TableItem.js:261
+#: components/TableOrders/TableItem.js:271
+#: components/TableOrders/TableItem.js:281
+#: components/TableOrders/TableItem.js:537
+#: components/TableOrders/TableItem.js:547
+msgid "seo125"
+msgstr "Betal på nytt"
+
+#~ msgid "seo126"
+#~ msgstr "Lever opplysninger"
+
+#: components/TableOrders/TableItem.js:498
+#: components/TableOrders/TableItem.js:511
+#: components/TableOrders/TableItem.js:524
+msgid "seo127"
+msgstr "Start levering"
+
+#: components/TableOrders/TableItem.js:291
+#: components/TableOrders/TableItem.js:301
+#: components/TableOrders/TableItem.js:311
+#: components/TableOrders/TableItem.js:321
+#: components/TableOrders/TableItem.js:331
+#: components/TableOrders/TableItem.js:341
+#: components/TableOrders/TableItem.js:424
+#: components/TableOrders/TableItem.js:435
+#: components/TableOrders/TableItem.js:446
+msgid "seo128"
+msgstr "Gjenoppta levering"
+
+#: components/TableOrders/TableItem.js:413
+msgid "seo129"
+msgstr "Endre detaljer"
+
+#~ msgid "seo13"
+#~ msgstr "Myntsett"
+
+#: components/TableOrders/TableItem.js:351
+#: components/TableOrders/TableItem.js:457
+#: components/TableOrders/TableItem.js:557
+msgid "seo130"
+msgstr "Gjenta bestilling"
+
+#: components/TableOrders/TableItem.js:499
+#: components/TableOrders/TableItem.js:512
+#: components/TableOrders/TableItem.js:525
+msgid "seo131"
+msgstr "Åpne leveringssiden i en ny fane"
+
+#: components/ReviewsContent/ReviewsContent.js:75
+msgid "seo132"
+msgstr "Anmeldelser"
+
+#: components/ReviewsContent/ReviewsContent.js:80
+msgid "seo133"
+msgstr "Les om erfaringene til hundrevis av kunder på vår nettside. Alle anmeldelser er fra ROYALFUT-siden på Trustpilot. Trustpilot er en internasjonal anmeldelsesplattform, den mest populære i Europa og USA. Anmeldelser på nettstedet verifiseres jevnlig for svindel og tukling av Trustpilots moderatorer/ Vi kan påvirke vurderingen av anmeldelsene bare ved profesjonelt arbeid og kvaliteten på tjenesten som vi tilbyr til kunder. Hvis du vil gi en anmeldelse, "
+
+#: components/ReviewsContent/ReviewsContent.js:87
+msgid "seo134"
+msgstr "vurder oss nå!"
+
+#: components/Rated/Rated.js:106
+msgid "seo135"
+msgstr "Vurder oss"
+
+#~ msgid "seo14"
+#~ msgstr "Kjøpsbonusen vil glede selv de mest sofistikerte kjøpere. Skaff deg det i dag!"
+
+#: components/StickyBlock/StickyBlock.js:24
+msgid "seo146"
+msgstr "Psst! Vil du ha noen mynter?"
+
+#~ msgid "seo147"
+#~ msgstr "Kjøp mynter"
+
+#: components/StickyBlock/StickyBlock.js:37
+msgid "seo148"
+msgstr "Gå til Startsiden"
+
+#: components/PaymentContent/PaymentContent.js:10
+msgid "seo149"
+msgstr "ROYALFUT.COM aksepterer betalinger i seks forskjellige valutaer UTEN EKSTRA AVGIFTER."
+
+#~ msgid "seo15"
+#~ msgstr "Prøv SBC Solver gratis"
+
+#: components/PaymentContent/PaymentContent.js:11
+msgid "seo150"
+msgstr "Bare registrerte brukere kan foreta betalinger på nettstedet. Betalingene organiseres gjennom internasjonale betalingssystemer. Bankkortholdere i følgende regioner har forbud mot å kjøpe: Afghanistan, Amerikansk Samoa, Aruba, Bahamas, Botswana, Burundi, Kambodsja, Den sentralafrikanske republikk, Kongo, Den demokratiske republikken Kongo, Krim og Sevastopol, Cuba, Ekvatorial-Guinea, Eritrea, Etiopia, Irak, Libanon, Libya, Mali, Myanmar, Nicaragua, Nord-Korea, Pakistan, Palestina, Russland, Samoa, Sierra Leone, Somalia, Sør-Sudan, Sudan, Syria, Trinidad og Tobago, Turkmenistan, Uganda, De amerikanske jomfruøyene, Venezuela, Jemen, Zimbabwe."
+
+#: components/PaymentContent/PaymentContent.js:12
+msgid "seo151"
+msgstr "Når du kjøper vårt digitale produkt, kan du være sikker på at pengene dine er trygge."
+
+#: pages/coins/[id]/payment.js:28
+msgid "seo152"
+msgstr "Kjøp"
+
+#: components/Purchase/Purchase.js:349
+msgid "seo153"
+msgstr "Bestillingen"
+
+#~ msgid "seo154"
+#~ msgstr "Leverings metode"
+
+#: components/Purchase/Purchase.js:471
+msgid "seo155"
+msgstr "Detaljer"
+
+#~ msgid "seo156"
+#~ msgstr "Betale"
+
+#~ msgid "seo157"
+#~ msgstr "Skriv inn antall mynter du vil kjøpe"
+
+#: components/TableOrders/TableItem.js:364
+msgid "seo158"
+msgstr "Skriv inn EA-kontodetaljer"
+
+#: components/TableOrders/TableItem.js:367
+msgid "seo159"
+msgstr "Skriv inn EA-kontodetaljer nedenfor for å starte leveringsprosessen"
+
+#~ msgid "seo16"
+#~ msgstr "Begynn å spare masser av tid med det helt nye verktøyet fra vennene våre."
+
+#: components/TableOrders/TableItem.js:503
+#: components/TableOrders/TableItem.js:516
+#: components/TableOrders/TableItem.js:529
+msgid "seo160"
+msgstr "Bestillingen avventer manuell levering"
+
+#: components/TableOrders/TableItem.js:506
+#: components/TableOrders/TableItem.js:519
+#: components/TableOrders/TableItem.js:532
+msgid "seo161"
+msgstr "Klikk nedenfor for å starte manuell myntoverføring"
+
+#~ msgid "seo162"
+#~ msgstr "Nå logger vi inn på kontoen din"
+
+#: components/TableOrders/TableItem.js:377
+msgid "seo163"
+msgstr "Sørg for at du ikke logger på Ultimate Team på konsollen og andre enheter via FC 25 Web App / FC Companion App før bestillingen er fullført."
+
+#: components/TableOrders/TableItem.js:384
+msgid "seo164"
+msgstr "Levering er i gang"
+
+#: components/TableOrders/TableItem.js:387
+msgid "seo165"
+msgstr "Ikke logg på FUT fra kontoen din før bestillingen er fullført"
+
+#~ msgid "seo166"
+#~ msgstr "Sikkerhetskopikoder"
+
+#: components/TableOrders/TableItem.js:395
+msgid "seo167"
+msgstr "Ugyldige sikkerhetskopikoder"
+
+#: components/TableOrders/TableItem.js:398
+msgid "seo168"
+msgstr "Reservekodene du har gitt oss fungerer ikke. Sørg for at de er ikke utløpte og at de er fra riktig konto"
+
+#: components/TableOrders/TableItem.js:416
+msgid "seo169"
+msgstr "Ugyldig e-postadresse eller passord"
+
+#~ msgid "seo17"
+#~ msgstr "Ikke gå glipp av vårt spesialtilbud"
+
+#: components/TableOrders/TableItem.js:419
+msgid "seo170"
+msgstr "Sørg for at du ikke har stavet feil og at du sender info for EA-kontoen din, ikke noen andre (PSN, Xbox-nettverk osv.)"
+
+#: components/TableOrders/TableItem.js:354
+#: components/TableOrders/TableItem.js:560
+msgid "seo171"
+msgstr "Fullført"
+
+#: components/TableOrders/TableItem.js:357
+#: components/TableOrders/TableItem.js:563
+msgid "seo172"
+msgstr "Du kan gå tilbake til Ultimate Team og begynne å bruke myntene dine!"
+
+#: components/TableOrders/TableItem.js:460
+msgid "seo173"
+msgstr "Avbrutt"
+
+#: components/TableOrders/TableItem.js:463
+msgid "seo174"
+msgstr "Bestillingen er avbrutt på din forespørsel"
+
+#: components/DeliveryStage/DeliveryStage.js:109
+#: components/Order/OrderDeliveryStage.js:120
+#: components/TableOrders/TableItem.js:274
+#: components/TableOrders/TableItem.js:550
+msgid "seo175"
+msgstr "Betaling avbrutt"
+
+#: components/DeliveryStage/DeliveryStage.js:112
+#: components/Order/OrderDeliveryStage.js:125
+#: components/TableOrders/TableItem.js:277
+#: components/TableOrders/TableItem.js:553
+msgid "seo176"
+msgstr "Prøv å betale på nytt eller endre betalings metode hvis problemet oppstår igjen"
+
+#: components/TableOrders/TableItem.js:264
+#: components/TableOrders/TableItem.js:540
+msgid "seo177"
+msgstr "Ikke betalt"
+
+#: components/TableOrders/TableItem.js:267
+#: components/TableOrders/TableItem.js:543
+msgid "seo178"
+msgstr "Bestillingen er ennå ikke betalt"
+
+#: components/TableOrders/TableItem.js:427
+#: components/TableOrders/TableItem.js:449
+msgid "seo179"
+msgstr "Kontoen er Online"
+
+#~ msgid "seo18"
+#~ msgstr "Bestill nå"
+
+#: components/TableOrders/TableItem.js:430
+#: components/TableOrders/TableItem.js:452
+msgid "seo180"
+msgstr "Logg ut av kontoen din slik at vi kan starte å overføre mynter"
+
+#: components/TableOrders/TableItem.js:438
+msgid "seo181"
+msgstr "Online i FC 25 Web App"
+
+#: components/TableOrders/TableItem.js:441
+msgid "seo182"
+msgstr "Logg ut av FC 25 Web App / FC Companion App slik at vi kan starte å overføre mynter"
+
+#~ msgid "seo183"
+#~ msgstr "Innloggingsverifisering"
+
+#: components/TableOrders/TableItem.js:344
+msgid "seo184"
+msgstr "Innloggingsverifisering deaktivert"
+
+#: components/TableOrders/TableItem.js:347
+msgid "seo185"
+msgstr "Sørg for at du har aktivert innloggingsverifisering i EA-kontoen din"
+
+#~ msgid "seo186"
+#~ msgstr "Overgangsliste"
+
+#~ msgid "seo187"
+#~ msgstr "Overgangsliste er full"
+
+#~ msgid "seo188"
+#~ msgstr "Sørg for at du frigjorde plass på overgangsliste slik at vi kan starte levering"
+
+#: components/TableOrders/TableItem.js:314
+#: components/TableOrders/TableItem.js:324
+msgid "seo189"
+msgstr "Ingen overgangsmarkedet i FC 25 Web App"
+
+#~ msgid "seo19"
+#~ msgstr "Mangeårige erfaring"
+
+#: components/TableOrders/TableItem.js:317
+#: components/TableOrders/TableItem.js:327
+msgid "seo190"
+msgstr "Sørg for at du har tilgang til overgangsmarkedet i FC 25 Web App slik at vi kan starte levering"
+
+#: components/TableOrders/TableItem.js:304
+msgid "seo191"
+msgstr "Ingen klubb i FC 25 Web App"
+
+#: components/TableOrders/TableItem.js:307
+msgid "seo192"
+msgstr "Sørg for at du setter opp klubben din i FC 25 Web App slik at vi kan starte å overføre mynter"
+
+#: components/TableOrders/TableItem.js:294
+msgid "seo193"
+msgstr "Ikke nok mynter"
+
+#: components/TableOrders/TableItem.js:297
+msgid "seo194"
+msgstr "Sørg for at du har minst 5000 mynter på Ultimate Team Club-saldoen din slik at vi kan starte levering"
+
+#: components/TableOrders/TableItem.js:284
+msgid "seo195"
+msgstr "Feil plattform"
+
+#: components/TableOrders/TableItem.js:287
+msgid "seo196"
+msgstr "Kontoen din har ikke en Ultimate Team-klubb på plattformen du har valgt, vennligst send oss ​​de riktige kontodetaljene eller kontakt kundestøtten for å endre plattformen"
+
+#~ msgid "seo197"
+#~ msgstr "Startsiden"
+
+#~ msgid "seo2"
+#~ msgstr "Myntsett"
+
+#~ msgid "seo20"
+#~ msgstr "Laget vårt ble dannet i FIFA 17-sesongen. Siden den tid har vi overført over 100 milliarder mynter til våre kunder, mer enn 60 tusen klubber har mottatt våre mynter, og mer enn 10 butikker bruker vår myntoverføringsalgoritme."
+
+#~ msgid "seo205"
+#~ msgstr "Myntsett"
+
+#~ msgid "seo206"
+#~ msgstr "[[X]] FUT-mynter"
+
+#~ msgid "seo207"
+#~ msgstr "Myntsett"
+
+#~ msgid "seo208"
+#~ msgstr "Mynter"
+
+#~ msgid "seo209"
+#~ msgstr "Spillere"
+
+#~ msgid "seo21"
+#~ msgstr "Rimelige priser"
+
+#~ msgid "seo210"
+#~ msgstr "WL Boost"
+
+#: components/PageChanger/PageChanger.js:95
+#: components/Payments/Payments.js:33
+#: components/Payments/Payments.js:346
+msgid "seo211"
+msgstr "Kommer senere"
+
+#: components/BonusBlock/BonusBlock.js:19
+msgid "seo212"
+msgstr "Trenger du hjelp med SBC Solution?"
+
+#: components/BonusBlock/BonusBlock.js:22
+msgid "seo213"
+msgstr "Sjekk dette praktiske verktøyet fra våre partnere. En rabatt fra oss er allerede inkludert i prisene."
+
+#: components/BonusBlock/BonusBlock.js:32
+msgid "seo214"
+msgstr "Se mer"
+
+#~ msgid "seo215"
+#~ msgstr "Comfort Trade"
+
+#~ msgid "seo216"
+#~ msgstr "Mynter og bonus"
+
+#~ msgid "seo217"
+#~ msgstr "Bonus"
+
+#~ msgid "seo218"
+#~ msgstr "Pris"
+
+#~ msgid "seo219"
+#~ msgstr "Velge"
+
+#~ msgid "seo22"
+#~ msgstr "Vi tilbyr noen av de laveste prisene på markedet, og for våre stamkunder er prisene enda lavere!"
+
+#~ msgid "seo220"
+#~ msgstr "Mer detaljer"
+
+#~ msgid "seo221"
+#~ msgstr "Annet antall"
+
+#~ msgid "seo222"
+#~ msgstr "Du vil få"
+
+#~ msgid "seo223"
+#~ msgstr "Hoveddel"
+
+#~ msgid "seo224"
+#~ msgstr "Bonus del"
+
+#~ msgid "seo225"
+#~ msgstr "Total"
+
+#~ msgid "seo226"
+#~ msgstr "Kjøp Mynter"
+
+#~ msgid "seo227"
+#~ msgstr "[[X]] FIFA Ultimate Team mynter"
+
+#~ msgid "seo228"
+#~ msgstr "Kjøp FIFA-mynter på det beste stedet hvor du kan kjøpe billige FUT-varer. ROYALFUT er den beste FUT-butikken du noen gang har sett. Bare se på disse lave prisene som vi tilbyr for FUT-mynter. Ingen extra avgifter eller tillegg til pris av Ultimate Team-mynter."
+
+#~ msgid "seo229"
+#~ msgstr "Her kan du kjøpe [[X]]k FIFA-mynter for bare [[Y]]. Vi anbefaler å velge Comfort Trade, fordi den er enklere og ikke krever din deltakelse i overføringen av mynter. [[X]] 00000 mynter vil bli levert til kontoen din i løpet av [[HH]]. For disse mynter kan du kjøpe de fleste av de billigste FUT-spillerne."
+
+#~ msgid "seo23"
+#~ msgstr "Trygg og sikker"
+
+#~ msgid "seo230"
+#~ msgstr "Her kan du kjøpe [[X]]k FIFA-mynter for bare [[Y]]. Vi anbefaler å velge Comfort Trade, fordi den er enklere og ikke krever din deltakelse i overføringen av mynter. [[X]] millioner mynter vil bli levert til kontoen din [[HH]]. For disse mynter kan du kjøpe de fleste av de billigste FUT-spillerne."
+
+#~ msgid "seo231"
+#~ msgstr "Hvordan fungerer levering?"
+
+#~ msgid "seo232"
+#~ msgstr "EA FC 25 Ultimate Team Butikk | EA SPORTS FC 25 Butikk"
+
+#~ msgid "seo233"
+#~ msgstr "Den beste butikken å kjøpe EA SPORTS FC 25-mynter ✔ Kjøp EA FC 25-mynter for PS 4/5, Xbox One/X/S 🎮 Rask levering og 24/7-kundestøtte⚡100% sikre betalinger 🔒 Trygt sted å kjøpe billige Ultimate Team mynter 😉"
+
+#~ msgid "seo234"
+#~ msgstr "Kjøp billige EA FC 25 Ultimate Team mynter på nett | FUT-mynter til salgs på lave priser"
+
+#~ msgid "seo235"
+#~ msgstr "Den tryggeste butikken å kjøpe EA SPORTS FC 25-mynter ✔ Kjøp EA FC 25-mynter for PS 4/5, Xbox One/X/S 🎮 Rask levering og 24/7-støtte⚡100% sikre betalinger 🔒 Trygt sted å kjøpe billige Ultimate Team mynter 😉"
+
+#~ msgid "seo236"
+#~ msgstr "Kjøp billige EA FC 25-mynter til PS4 | EA SPORTS FC 25-mynter til PS4"
+
+#~ msgid "seo237"
+#~ msgstr "Det tryggeste stedet å kjøpe EA SPORTS FC 25-mynter til PS4 🎮 Få de beste spillerne til laget og overvinn rivalene🥇 Rask levering og 24/7-kundestøtte 🔒 Trygt sted å kjøpe billige Ultimate Team-mynter 😉"
+
+#~ msgid "seo238"
+#~ msgstr "Kjøp billige EA FC 25-mynter til PS5 | EA SPORTS FC 25-mynter til PS5"
+
+#~ msgid "seo239"
+#~ msgstr "Det tryggeste stedet å kjøpe EA SPORTS FC 25-mynter til PS5 🎮 Få de beste spillerne til laget og overvinn rivalene🥇 Rask levering og 24/7-kundestøtte 🔒 Trygt sted å kjøpe billige Ultimate Team-mynter 😉"
+
+#~ msgid "seo24"
+#~ msgstr "Målet vårt er å gi deg den tryggeste måten å fylle på FUT-saldoen din på. Vi forbedrer stadig vår myntoverføringsalgoritme, og tester den på tusenvis av kontoene våre før får den raske og sikkere tjenesten."
+
+#~ msgid "seo240"
+#~ msgstr "Kjøp billige EA FC 25-mynter til Xbox One | EA SPORTS FC 25-mynter til Xbox One"
+
+#~ msgid "seo241"
+#~ msgstr "Det tryggeste stedet å kjøpe EA SPORTS FC 25-mynter til Xbox One 🎮 Få de beste spillerne til laget og overvinn rivalene🥇 Rask levering og 24/7-kundestøtte🔒Trygt sted å kjøpe billige Ultimate Team-mynter 😉"
+
+#~ msgid "seo242"
+#~ msgstr "Kjøp billige EA FC 25-mynter til Xbox | EA SPORTS FC 25-mynter til Xbox Series X/S"
+
+#~ msgid "seo243"
+#~ msgstr "Det tryggeste stedet å kjøpe EA SPORTS FC 25-mynter til Xbox X/S 🎮 Få de beste spillerne til laget og overvinn rivalene🥇 Rask levering og 24/7-støtte 🔒 Trygt sted å kjøpe billige Ultimate Team-mynter 😉"
+
+#~ msgid "seo244"
+#~ msgstr "Kjøp 100k EA FC 25-mynter | Pris: 100k FUT-mynter"
+
+#~ msgid "seo245"
+#~ msgstr "Det tryggeste stedet å kjøpe 100K EA SPORTS FC 25-mynter til din Ultimate Team 🥇 Velg plattformen din: PS, Xbox eller PC 🎮 Rask levering og 24/7-støtte 🔒 Trygt sted å kjøpe billige Ultimate Team-mynter 😉"
+
+#~ msgid "seo246"
+#~ msgstr "Kjøp 1 million EA FC 25-mynter | Pris: 1000k FUT-mynter"
+
+#~ msgid "seo247"
+#~ msgstr "Det tryggeste stedet å kjøpe 1000K (1 million) EA SPORTS FC 25-mynter til din Ultimate Team 🥇 Velg plattformen: PS/Xbox/PC 🎮 Rask levering og kundestøtte 🔒 Trygt sted å kjøpe billige Ultimate Team-mynter 😉"
+
+#~ msgid "seo248"
+#~ msgstr "Vi har de beste tilbudene på FIFA-mynter til PlayStation 4. Vi tilbyr billige FIFA-mynter til PS4 med rask levering og sikkerhetsgaranti til kontoen din UTEN EKSTRA AVGIFTER."
+
+#~ msgid "seo249"
+#~ msgstr "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FUT-mynter til PS5 fra oss med tillit til å få det beste tilbudet."
+
+#~ msgid "seo25"
+#~ msgstr "Høyt servicenivå"
+
+#~ msgid "seo250"
+#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til PlayStation-konsoller? Kontakt oss på en måte som passer deg."
+
+#~ msgid "seo251"
+#~ msgstr "Vi har de beste tilbudene på FIFA-mynter til PlayStation 5. Vi tilbyr billige FIFA-mynter til PS5 med rask levering og sikkerhetsgaranti til kontoen din UTEN EKSTRA AVGIFTER."
+
+#~ msgid "seo252"
+#~ msgstr "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FUT-mynter til PS5 fra oss med tillit til å få det beste tilbudet."
+
+#~ msgid "seo253"
+#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til PlayStation-konsoller? Kontakt oss på en måte som passer deg."
+
+#~ msgid "seo254"
+#~ msgstr "Vi har de beste tilbudene på FIFA-mynter til Xbox One. Vi tilbyr billige FIFA-mynter med rask levering og sikkerhetsgaranti til kontoen din UTEN EKSTRA AVGIFTER."
+
+#~ msgid "seo255"
+#~ msgstr "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FUT-mynter til Xbox One fra oss med tillit til å få det beste tilbudet."
+
+#~ msgid "seo256"
+#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til Xbox-konsoller? Kontakt oss på en måte som passer deg."
+
+#~ msgid "seo257"
+#~ msgstr "Vi har de beste tilbudene på FIFA-mynter til Xbox Series X. Vi tilbyr billige FIFA-mynter til Xbox Series S med rask levering og sikkerhetsgaranti til kontoen din UTEN EKSTRA AVGIFTER."
+
+#~ msgid "seo258"
+#~ msgstr "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FUT-mynter til Xbox Series X/S fra oss med tillit til å få det beste tilbudet."
+
+#~ msgid "seo259"
+#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til Xbox-konsoller? Kontakt oss på en måte som passer deg."
+
+#~ msgid "seo26"
+#~ msgstr "Vi vet at tiden din er viktig for deg. Vi jobber stadig med å forbedre grensesnittet og støtten, slik at bestillingene skal gå raskere og jevnere. Bare et par klikk – så gjør vi resten."
+
+#~ msgid "seo27"
+#~ msgstr "Kontakt"
+
+#: components/Order/PlatformSection.js:129
+msgid "seo28"
+msgstr "Plattform"
+
+#~ msgid "seo29"
+#~ msgstr "Info"
+
+#~ msgid "seo3"
+#~ msgstr "Anmeldelser"
+
+#: components/Purchase/Purchase.js:412
+#: components/Purchase/Purchase.js:445
+msgid "seo30"
+msgstr "Betaling"
+
+#~ msgid "seo31"
+#~ msgstr "Levering"
+
+#~ msgid "seo32"
+#~ msgstr "Vilkårene"
+
+#~ msgid "seo33"
+#~ msgstr "Personvernerklæring"
+
+#: components/BurgerMenu/BurgerMenu.js:354
+msgid "seo34"
+msgstr "Registrer deg"
+
+#: components/BurgerMenu/BurgerMenu.js:342
+msgid "seo35"
+msgstr "Logg inn"
+
+#~ msgid "seo36"
+#~ msgstr "Jeg godtar vilkårene"
+
+#~ msgid "seo37"
+#~ msgstr "eller Registrer deg via"
+
+#: components/Profile/Profile.js:149
+msgid "seo38"
+msgstr "Bestillinger"
+
+#~ msgid "seo39"
+#~ msgstr "Innstillinger"
+
+#: components/Header/Header.js:85
+msgid "seo4"
+msgstr "FAQ"
+
+#: components/BurgerMenu/BurgerMenu.js:286
+#: pages/profile.js:83
+msgid "seo40"
+msgstr "Logg ut"
+
+#~ msgid "seo42"
+#~ msgstr "Passord"
+
+#~ msgid "seo43"
+#~ msgstr "Minst 8 tegn"
+
+#~ msgid "seo44"
+#~ msgstr "Logg deg inn via"
+
+#~ msgid "seo45"
+#~ msgstr "Din hovedledsager i EA FC 25 Ultimate Team Store"
+
+#~ msgid "seo46"
+#~ msgstr "Plattform"
+
+#~ msgid "seo47"
+#~ msgstr "Fortsett"
+
+#: components/Order/OrderDelivery.js:108
+msgid "seo48"
+msgstr "Leverings metode"
+
+#~ msgid "seo49"
+#~ msgstr "Fortsett"
+
+#: components/BurgerMenu/BurgerMenu.js:297
+#: components/BurgerMenu/BurgerMenu.js:466
+#: components/Header/Header.js:146
+msgid "seo5"
+msgstr "Logg inn"
+
+#~ msgid "seo50"
+#~ msgstr "Mynter"
+
+#: components/Order/StickyTotalBlock.js:126
+msgid "seo51"
+msgstr "Pris"
+
+#: components/Order/OrderDelivery.js:149
+msgid "seo52"
+msgstr "Anbefalt"
+
+#: components/Order/OrderDelivery.js:158
+msgid "seo53"
+msgstr "Vi gjennomfører den hele leveringsprosessen. Du må bare gi oss EA-kontoopplysningene dine."
+
+#~ msgid "seo54"
+#~ msgstr "Spillerauksjon"
+
+#~ msgid "seo55"
+#~ msgstr "Ikke mer enn 1m mynter"
+
+#: components/Order/OrderDelivery.js:218
+msgid "seo56"
+msgstr "Den manuelle leveringsmetoden krever ikke EA-kontoopplysninger. Du må bare følge instruksjonene vi gir deg og overføre myntene selv."
+
+#~ msgid "seo57"
+#~ msgstr "Hvordan fungerer det?"
+
+#~ msgid "seo58"
+#~ msgstr "Hvordan fungerer levering?"
+
+#~ msgid "seo59"
+#~ msgstr "Comfort Trade"
+
+#~ msgid "seo6"
+#~ msgstr "Din hovedledsager i EA FC 25 Ultimate Team Store"
+
+#~ msgid "seo60"
+#~ msgstr "Spillerauksjon"
+
+#: components/Order/StepOneContent.js:38
+msgid "seo61"
+msgstr "Antall"
+
+#~ msgid "seo62"
+#~ msgstr "Mynter"
+
+#~ msgid "seo63"
+#~ msgstr "Pris"
+
+#~ msgid "seo64"
+#~ msgstr "Valuta"
+
+#~ msgid "seo65"
+#~ msgstr "Betaling"
+
+#~ msgid "seo66"
+#~ msgstr "Betal med kort"
+
+#~ msgid "seo67"
+#~ msgstr "Eller betal med krypto"
+
+#~ msgid "seo68"
+#~ msgstr "Har du en kupong?"
+
+#~ msgid "seo69"
+#~ msgstr "Til kassen"
+
+#~ msgid "seo7"
+#~ msgstr "Med oss er du alltid et skritt nærmere drømmelaget ditt!"
+
+#: components/GaranteeRow/GaranteeRow.js:41
+#: components/Package/GaranteeRowCoinsPage.js:41
+msgid "seo70"
+msgstr "100 % sikker betaling"
+
+#: components/GaranteeRow/GaranteeRow.js:52
+#: components/Package/GaranteeRowCoinsPage.js:52
+msgid "seo71"
+msgstr "[[HH]] minutters levering"
+
+#: components/Garantee/Garantee.js:84
+#: components/GaranteeRow/GaranteeRow.js:66
+#: components/Package/GaranteeRowCoinsPage.js:66
+msgid "seo72"
+msgstr "Refunderbart"
+
+#~ msgid "seo73"
+#~ msgstr "Logg inn for å kjøpe"
+
+#~ msgid "seo74"
+#~ msgstr "Minste bestillingsbeløp for å betale med BTC, ETH or USDT er [[N]]"
+
+#: components/Package/CheckoutCoupon.js:446
+msgid "seo75"
+msgstr "Kupong"
+
+#: components/Package/CheckoutCoupon.js:439
+#: components/PriceCouponRedesign/PriceCouponRedesign.js:653
+msgid "seo76"
+msgstr "Anvende"
+
+#~ msgid "seo77"
+#~ msgstr "Levering"
+
+#~ msgid "seo78"
+#~ msgstr "Vellykket"
+
+#: components/DeliveryStage/DeliveryStage.js:73
+#: pages/coins/payment.js:42
+#: pages/order/index.js:117
+#: pages/order/pc.js:84
+#: pages/order/ps4.js:83
+#: pages/order/ps5.js:82
+#: pages/order/xbox_one.js:84
+#: pages/order/xbox_xs.js:84
+msgid "seo79"
+msgstr "Bestillingen din har blitt betalt!"
+
+#~ msgid "seo8"
+#~ msgstr "TrustScore 4.6 | 550 anmeldelser"
+
+#: components/DeliveryStage/DeliveryStage.js:76
+#: components/Order/OrderDeliveryStage.js:77
+msgid "seo80"
+msgstr "Gå til Bestillinger og følg instruksjonene der for å starte leveringsprosessen for myntene dine."
+
+#: components/DeliveryStage/DeliveryStage.js:87
+#: components/Order/OrderDeliveryStage.js:92
+msgid "seo81"
+msgstr "Til mine bestillinger"
+
+#: components/DeliveryStage/DeliveryStage.js:93
+#: components/Order/OrderDeliveryStage.js:103
+msgid "seo82"
+msgstr "Du blir automatisk omdirigert om {X} sekunder"
+
+#~ msgid "seo83"
+#~ msgstr "Mislyktes"
+
+#: pages/coins/payment.js:42
+#: pages/order/index.js:118
+#: pages/order/pc.js:85
+#: pages/order/ps4.js:84
+#: pages/order/ps5.js:83
+#: pages/order/xbox_one.js:85
+#: pages/order/xbox_xs.js:85
+msgid "seo84"
+msgstr "Betaling mislyktes"
+
+#~ msgid "seo85"
+#~ msgstr "Prøv å betale på nytt eller bruk en annen betalingsmetode."
+
+#: components/DeliveryStage/DeliveryStage.js:121
+#: components/Order/OrderDeliveryStage.js:135
+msgid "seo86"
+msgstr "Betale på nytt"
+
+#~ msgid "seo87"
+#~ msgstr "Vi bruker informasjonskapsler"
+
+#~ msgid "seo88"
+#~ msgstr "Du godtar bruk av informasjonskapsler ved å fortsatt bruke nettstedet vårt."
+
+#: components/Auth/Auth.js:66
+#: components/BurgerMenu/BurgerMenu.js:172
+#: components/BurgerMenu/BurgerMenu.js:205
+msgid "seo89"
+msgstr "Du er logget inn som [[X]]"
+
+#~ msgid "seo9"
+#~ msgstr "Hvordan fungerer det?"
+
+#~ msgid "seo90"
+#~ msgstr "Din bestilling er akseptert"
+
+#: components/MainContainer.js:135
+msgid "seo91"
+msgstr "Du er logget ut"
+
+#: components/MainContainer.js:230
+msgid "seo92"
+msgstr "Økten din er utløpt. Logg inn igjen."
+
+#~ msgid "seo93"
+#~ msgstr "Du må være logget inn for å bruke en kupong."
+
+#: components/BurgerMenu/BurgerMenu.js:155
+msgid "seo94"
+msgstr "[[X]] er allerede i bruk"
+
+#: components/TableOrders/TableItem.js:473
+msgid "seo95"
+msgstr "Ordren ble ikke dannet: Ta kontakt med kundestøtte"
+
+#~ msgid "seo96"
+#~ msgstr "Kunne ikke logge på med Google. Prøv å logge på igjen."
+
+#~ msgid "seo97"
+#~ msgstr "Kunne ikke logge på med Facebook. Prøv å logge på igjen."
+
+#: components/BurgerMenu/BurgerMenu.js:418
+#: components/Message/Message.js:32
+msgid "seo98"
+msgstr "Ugyldig e-postadresse eller passord"
+
+#: components/BurgerMenu/BurgerMenu.js:384
+msgid "seo99"
+msgstr "Skriv inn en gyldig e-postadresse"
+
+#: components/Garantee/Garantee.js:51
+#: components/GaranteeRow/GaranteeRow.js:28
+#: components/Package/GaranteeRowCoinsPage.js:27
+msgid "seoh"
+msgstr "tim"
+
+#: components/Garantee/Garantee.js:42
+#: components/Garantee/Garantee.js:50
+#: components/GaranteeRow/GaranteeRow.js:27
+#: components/Package/GaranteeRowCoinsPage.js:26
+msgid "seom"
+msgstr "m"
+
+#~ msgid "seop22"
+#~ msgstr "I vår butikk skal du finne de beste tilbudene på EA FC-mynter til enhver plattform. Vi tilbyr billige UT 25-mynter med rask levering og sikkerhetsgaranti til kontoen din uten ekstra avgifter."
+
+#~ msgid "seop23"
+#~ msgstr "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FIFA 25-mynter til enhver plattform fra oss og å få det beste tilbudet."
+
+#~ msgid "seop24"
+#~ msgstr "Kontakt oss hvis du har noen spørsmål om kjøp av FC 25-mynter til konsollen din."
+
+#~ msgid "t"
+#~ msgstr "Om Leverans"
+
+#~ msgid "t_t"
+#~ msgstr "Myntene vil bli levert til FC 25-klubben knyttet til EA-kontoen din. Kun EA-kontodetaljer kreves for å overføre myntene."
+
+#: components/Aside/Aside.js:52
+msgid "trust:commenturl"
+msgstr "https://no.trustpilot.com/review/royalfut.com"
+
+#~ msgid "United Arab Emirates"
+#~ msgstr "UAE"
+
+#~ msgid "United Kingdom"
+#~ msgstr "Storbritannia"
+
+#~ msgid "United States"
+#~ msgstr "USA"
+
+#: components/ContactsContent/СontactsContent.js:28
+#: pages/wl-boost.js:85
+msgid "via"
+msgstr "Kontakt oss via"
+
+#~ msgid "What are the advantages of buying {ut} coins instead of {pt}?"
+#~ msgstr "Hvorfor er {ut} mynter bedre enn {pt}?"
+
+#: components/Auth/Auth.js:23
+#: components/Message/Message.js:34
+msgid "wntwrng"
+msgstr "Noe gikk galt"
+
+#: components/PlugVideo/PlugVideo.js:16
+msgid "work"
+msgstr "Work in progress"

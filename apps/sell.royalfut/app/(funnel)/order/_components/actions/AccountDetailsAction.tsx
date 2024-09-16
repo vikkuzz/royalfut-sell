@@ -11,7 +11,7 @@ import {
 import { OrderStepIds } from "@royalfut/enums";
 import ActionPairNavigations from "./ActionPairNavigations";
 import { getToken } from "@royalfut/actions";
-import { updateOrder } from "@royalfut/actions";
+import { updateOrder, startSell } from "@royalfut/actions";
 import { useCallback, useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { OrderTradeInfo } from "@royalfut/collections";
@@ -63,7 +63,25 @@ const AccountDetailsAction = () => {
     //     [setCompleted]
     // );
     const req = async () => {
-        // await updateOrder(order?.id, await token, platform, coinsAmount, currency, mail, password, backupCodes[0].code)
+        const modOrder = await updateOrder(
+            order?.id,
+            await token,
+            platform,
+            coinsAmount,
+            currency,
+            mail,
+            password,
+            backupCodes[0].code
+        );
+        if (modOrder) {
+            await startSell(
+                modOrder.id,
+                await token,
+                modOrder.mail,
+                modOrder.password,
+                modOrder?.backupCode1
+            );
+        }
 
         setReqt(true);
         router.push(
@@ -109,9 +127,9 @@ const AccountDetailsAction = () => {
     return (
         <ActionPairNavigations
             prev={{
-                disabled: !allowRoutes.includes(OrderStepIds.SUMMARY_AND_SELL),
-                id: OrderStepIds.SUMMARY_AND_SELL,
-                label: "Summary and sell",
+                disabled: !allowRoutes.includes(OrderStepIds.ORDER_INFO),
+                id: OrderStepIds.ORDER_INFO,
+                label: "Platform and amount",
             }}
             next={{
                 disabled:
@@ -119,7 +137,7 @@ const AccountDetailsAction = () => {
                         ? false
                         : true,
                 id: OrderStepIds.AWAITING_FOR_DELIVERY,
-                label: "Awaiting for delivery",
+                label: isLoggedIn ? "Awaiting for delivery" : "Log In",
                 onAction: isLoggedIn ? req : loginAction,
             }}
         />

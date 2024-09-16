@@ -3,9 +3,8 @@
   "extends": [
     "@amollo-lint/eslint-config-ts-prettier"
   ],
-  "rules": {
-    "prettier/prettier": 0,
-    "max-params": "off"
+  "parserOptions": {
+    "project": "tsconfig.base.json"
   },
   "ignorePatterns": ["**/*"],
   "plugins": ["@nx"],
@@ -46,10 +45,7 @@
       "env": {
         "jest": true
       },
-      "rules": {
-        "prettier/prettier": 0,
-        "max-params": "off"
-      }
+      "rules": {}
     }
   ]
 }

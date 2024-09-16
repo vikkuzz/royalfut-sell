@@ -1,0 +1,14 @@
+{
+  "executors": {
+    "deploy": {
+      "implementation": "./src/executors/deploy/executor",
+      "schema": "./src/executors/deploy/schema.json",
+      "description": "deploy executor"
+    },
+    "i18n-runner": {
+      "implementation": "./src/executors/i18n-runner/executor",
+      "schema": "./src/executors/i18n-runner/schema.json",
+      "description": "i18n-runner executor"
+    }
+  }
+}

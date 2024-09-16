@@ -47,7 +47,7 @@ const OrderStepper: FC<IOrderStepsProps> = ({
     const onChangeStep = useCallback(
         async (id: OrderStepIds) => {
             setStepId(id);
-            await router.push(`${OrderTradeInfo[id].to}`, {
+            router.push(`${OrderTradeInfo[id].to}`, {
                 scroll: true,
             });
         },

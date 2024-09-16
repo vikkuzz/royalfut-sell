@@ -1,0 +1,62 @@
+.container {
+    border-radius: 16px;
+    background: var(--Black-Shape, #2b2d43);
+    padding: 12px 12px 12px 16px;
+    gap: 8px;
+    flex-direction: column;
+}
+.coins_block_btn {
+    min-width: 32px;
+    background: transparent;
+    border: none;
+    transition: all 0.3s;
+
+    &:hover {
+        opacity: 0.8;
+    }
+}
+.coins_data_wrapper {
+    flex-direction: column;
+    gap: 4px;
+}
+.coins_int {
+    gap: 8px;
+}
+.coins_amount {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    white-space: nowrap;
+    text-transform: uppercase;
+}
+.coins_block_img {
+    width: auto;
+    min-width: 36px;
+}
+.price_block {
+    width: auto;
+}
+.price_amount {
+    width: auto;
+    color: var(--Secondary-Yellow, #eab11f);
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+}
+.currency {
+    width: auto;
+    color: var(--Secondary-Yellow, #eab11f);
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.btns_block {
+    width: auto;
+    gap: 8px;
+}
+.coins_text {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+}

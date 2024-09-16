@@ -13,10 +13,10 @@ const AccountDetailsAction = dynamic(
     () => import("./actions/AccountDetailsAction"),
     { loading: () => <p>Loading...</p> }
 );
-const SummaryAndSellAction = dynamic(
-    () => import("./actions/SummaryAndSellAction"),
-    { loading: () => <p>Loading...</p> }
-);
+// const SummaryAndSellAction = dynamic(
+//     () => import("./actions/SummaryAndSellAction"),
+//     { loading: () => <p>Loading...</p> }
+// );
 const AwaitingDeliveryAction = dynamic(
     () => import("./actions/AwaitingDeliveryAction"),
     { loading: () => <p>Loading...</p> }
@@ -25,7 +25,7 @@ const AwaitingDeliveryAction = dynamic(
 const renderer: Record<OrderStepIds, ComponentType> = {
     [OrderStepIds.ORDER_INFO]: OrderInfoAction,
     [OrderStepIds.ACCOUNT_DETAILS]: AccountDetailsAction,
-    [OrderStepIds.SUMMARY_AND_SELL]: SummaryAndSellAction,
+    // [OrderStepIds.SUMMARY_AND_SELL]: SummaryAndSellAction,
     [OrderStepIds.AWAITING_FOR_DELIVERY]: AwaitingDeliveryAction,
 };
 

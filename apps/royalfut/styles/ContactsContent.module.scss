@@ -1,0 +1,93 @@
+.contact_container {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+
+    @media (min-width: 1025px) {
+        gap: 32px;
+    }
+}
+.text_contacts {
+    color: rgba(255, 255, 255, 0.6);
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    max-width: 360px;
+}
+.content_wrapper {
+    gap: 32px;
+}
+.contacts_wrapper {
+    border-radius: 28px;
+    background: #1b1d33;
+    backdrop-filter: blur(62px);
+    flex-direction: column;
+    padding: 32px;
+    gap: 32px;
+}
+.block_wrapper {
+    gap: 56px;
+    flex-direction: column;
+
+    @media (min-width: 1025px) {
+        flex-direction: row;
+    }
+}
+.block {
+    flex-direction: column;
+    gap: 20px;
+    width: auto;
+}
+.block_title {
+    color: rgba(255, 255, 255, 0.6);
+    font-family: Montserrat;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    //text-transform: capitalize;
+}
+.block_link {
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.05);
+    padding: 16px;
+    width: auto;
+    width: 60px;
+    height: 60px;
+
+    @media (min-width: 1025px) {
+        width: 76px;
+        height: 76px;
+    }
+
+    &:hover {
+        opacity: 0.6;
+    }
+}
+.links_wrapper {
+    gap: 12px;
+}
+.contact_pic {
+}
+.email_link {
+    width: fit-content;
+    gap: 12px;
+    color: #fff;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration-line: underline;
+    text-transform: lowercase;
+}
+.email_wrapper {
+    width: fit-content;
+    gap: 12px;
+    align-items: center;
+    &:hover {
+        opacity: 0.6;
+    }
+}

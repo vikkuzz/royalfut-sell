@@ -1,0 +1,4452 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-12-04 23:19+0100\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: ar\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: pages/_app.js:26
+msgid "\"seo:root:description\""
+msgstr ""
+
+#: components/DeliveryStage/DeliveryStage.js:121
+#~ msgid "{0}"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:52
+msgid "80% of orders are delivered"
+msgstr "يتم توصيل 80% من الطلبات"
+
+#~ msgid "a0"
+#~ msgstr "بناءً على [[X]] من المراجعات"
+
+#: components/Rated/Rated.js:83
+#: components/ReviewsGallery/ReviewsGallery.js:87
+msgid "a0_1"
+msgstr " من المراجعات"
+
+#: components/Rated/Rated.js:90
+msgid "a0_2"
+msgstr "بناءً على [[X]]"
+
+#: components/ChangePassword/ChangePassword.js:153
+msgid "a1"
+msgstr "تغيير كلمة المرور"
+
+#~ msgid "a10"
+#~ msgstr "عملات إضافية"
+
+#: components/Order/OrderDelivery.js:192
+msgid "a100"
+msgstr "مزاد اللاعب"
+
+#: components/CustomAccordion/CustomAccordion.js:52
+#: components/CustomAccordion/CustomAccordion.js:642
+msgid "a101"
+msgstr "أسئلة حول طريقة تسليم مزاد اللاعب"
+
+#: components/CustomAccordion/CustomAccordion.js:648
+msgid "a102"
+msgstr "كيف يمكنني إعداد نادي FUT الخاص بي لطلب مزاد للاعبين؟"
+
+#: components/CustomAccordion/CustomAccordion.js:345
+msgid "a103"
+msgstr "- احتفظ بما لا يقل عن 5000 عملة في رصيدك"
+
+#: components/CustomAccordion/CustomAccordion.js:348
+msgid "a103_2"
+msgstr "- تأكد من فتح سوق الانتقالات "
+
+#: components/CustomAccordion/CustomAccordion.js:659
+msgid "a104"
+msgstr "كيف يمكنني التحقق مما إذا كان سوق الانتقالات الخاص بي مفتوحًا أم لا؟"
+
+#: components/CustomAccordion/CustomAccordion.js:357
+msgid "a105"
+msgstr "تم فتح سوق الانتقالات"
+
+#: components/CustomAccordion/CustomAccordion.js:360
+msgid "a106"
+msgstr "سوق الانتقالات مقفل"
+
+#: components/CustomAccordion/CustomAccordion.js:670
+msgid "a107"
+msgstr "ما الخطوات التي يجب أن أتخذها لتقديم طلب واستلام العملات بهذه الطريقة؟"
+
+#: components/CustomAccordion/CustomAccordion.js:211
+msgid "a108"
+msgstr "مزاد اللاعب"
+
+#: components/CustomAccordion/CustomAccordion.js:225
+msgid "a109"
+msgstr "1. أثناء تقديم الطلب، اختر طريقة تسليم مزاد اللاعب."
+
+#: components/Purchase/Purchase.js:661
+msgid "a11"
+msgstr "جارٍ تحميل طلبك، يرجى الانتظار..."
+
+#: components/CustomAccordion/CustomAccordion.js:228
+msgid "a110"
+msgstr "2. ادفع مقابل طلبك."
+
+#: components/CustomAccordion/CustomAccordion.js:231
+msgid "a111"
+msgstr "3. بعد الدفع بنجاح، ستتم إعادة توجيهك إلى الصفحة التي تحتوي على تعليمات تسليم العملات. اتبع الخطوات الموضحة فيها باستخدام الحساب الذي تريد تحويل العملات إليه."
+
+#: components/CustomAccordion/CustomAccordion.js:235
+msgid "a112"
+msgstr "يمكنك العثور على مزيد من المعلومات حول العملية بأكملها في الفيديو أدناه."
+
+#~ msgid "a113"
+#~ msgstr "معرفة المزيد"
+
+#: components/CustomAccordion/CustomAccordion.js:243
+msgid "a114"
+msgstr "4. هذا كل شيء! استمتع بعملاتك! ولا تنسَ أن تترك"
+
+#~ msgid "a115"
+#~ msgstr "مراجعة لنا على Trustpilot."
+
+#~ msgid "a116"
+#~ msgstr "إذا كانت لديك أي أسئلة أو كنت بحاجة إلى أي مساعدة في أي مرحلة، فلا تتردد في الاتصال بفريق الدعم لدينا عبر الدردشة المباشرة أو أي طريقة أخرى من اختيارك (WhatsApp أو Telegram أو Instagram Direct أو البريد الإلكتروني)."
+
+#: components/CustomAccordion/CustomAccordion.js:53
+#: components/CustomAccordion/CustomAccordion.js:681
+msgid "a117"
+msgstr "أسئلة حول المدفوعات"
+
+#: components/CustomAccordion/CustomAccordion.js:687
+msgid "a118"
+msgstr "ما البلدان التي تعملون فيها؟"
+
+#: components/CustomAccordion/CustomAccordion.js:447
+msgid "a119"
+msgstr "نعمل في جميع أنحاء العالم ونقبل المدفوعات من جميع المناطق، باستثناء الولايات القضائية عالية المخاطر مثل أفغانستان وكوريا الشمالية وسوريا وجمهورية القرم وغيرها."
+
+#: components/ChangeAvatar/ChangeAvatar.js:52
+msgid "a12"
+msgstr "اختر صورة ملفك الشخصي"
+
+#: components/CustomAccordion/CustomAccordion.js:695
+msgid "a120"
+msgstr "ما طرق الدفع المتاحة على موقع الويب الخاص بكم؟"
+
+#: components/CustomAccordion/CustomAccordion.js:458
+msgid "a121"
+msgstr "يتم تحديث قائمة طرق الدفع التي ندعمها باستمرار حيث نهدف إلى تحسين تجربة تفاعل المستخدم مع خدمتنا. في الوقت الحالي، نقبل طرق الدفع التالية:"
+
+#: components/CustomAccordion/CustomAccordion.js:462
+msgid "a121_2"
+msgstr "1. بطاقات VISA وMasterCard وMaestro وDiscover وDinnersClub وJCB وUnionPay."
+
+#: components/CustomAccordion/CustomAccordion.js:465
+msgid "a121_3"
+msgstr "2. الدفع دون تلامس من خلال Apple Pay وGoogle Pay."
+
+#: components/CustomAccordion/CustomAccordion.js:468
+msgid "a121_4"
+msgstr "3. التحويل المصرفي من خلال معظم بنوك الاتحاد الأوروبي وiDeal وغيرها."
+
+#: components/CustomAccordion/CustomAccordion.js:471
+msgid "a121_5"
+msgstr "4. العملات المشفرة — بيتكوين، والدولار الأمريكي تيثر، والإيثريوم."
+
+#: components/CustomAccordion/CustomAccordion.js:703
+msgid "a122"
+msgstr "كيف يمكنني استرداد قيمة طلبي؟"
+
+#: components/CustomAccordion/CustomAccordion.js:708
+msgid "a123"
+msgstr "إذا كنت قد دفعت ثمن طلبك بنجاح، ولكن لسبب ما لم تعد بحاجة إلى العملات، يمكنك طلب استرداد المبلغ المدفوع بالكامل. للقيام بذلك، تحتاج إلى الاتصال بخدمة الدعم الخاصة بنا عبر الدردشة المباشرة أو أي طريقة أخرى من اختيارك (WhatsApp أو Telegram أو Instagram Direct أو البريد الإلكتروني)."
+
+#: components/CustomAccordion/CustomAccordion.js:713
+msgid "a124"
+msgstr "هل تشتري عملات معدنية من المستخدمين أيضًا؟"
+
+#: components/CustomAccordion/CustomAccordion.js:718
+msgid "a125"
+msgstr "هذا ليس تركيزنا الرئيسي، ولكن في بعض الأحيان نفعل ذلك، يمكنك الاتصال بمديرنا عبر Skype أو Telegram وسننظر في عرضك."
+
+#~ msgid "a126"
+#~ msgstr "هل كل شيء جاهز؟ إذن حان الوقت لإجراء عملية شراء!"
+
+#~ msgid "a127"
+#~ msgstr "شراء العملات"
+
+#: components/RedirectModal/RedirectModal.js:40
+msgid "a128"
+msgstr "‏‏جارٍ إعادة التوجيه..."
+
+#: components/RedirectModal/RedirectModal.js:42
+msgid "a129"
+msgstr "ستتم إعادة توجيهك تلقائيًا إلى موقع شريكنا"
+
+#~ msgid "a13"
+#~ msgstr "تغيير كمية العملات"
+
+#: components/RedirectModal/RedirectModal.js:44
+msgid "a130"
+msgstr "خلال [[X]] من الثواني"
+
+#: components/Modal/Modal.js:253
+msgid "a131"
+msgstr "الانتقال الآن"
+
+#~ msgid "a132"
+#~ msgstr "مطلوب اثنان من رموز النسخ الاحتياطي على الأقل"
+
+#~ msgid "a133"
+#~ msgstr "طلبك"
+
+#~ msgid "a134"
+#~ msgstr "عملات إضافية"
+
+#: components/Order/OrderPayments.js:107
+msgid "a135"
+msgstr "أسلوب الدفع"
+
+#: components/Payments/Payments.js:96
+#: components/Payments/Payments.js:181
+#: components/Purchase/Purchase.js:126
+#: components/Purchase/Purchase.js:132
+#: components/Purchase/Purchase.js:162
+#: components/Purchase/Purchase.js:168
+#: components/Purchase/Purchase.js:180
+msgid "a136"
+msgstr "عن طريق البطاقة"
+
+#: components/Payments/Payments.js:140
+#: components/Purchase/Purchase.js:156
+msgid "a137"
+msgstr "عبر الخدمات المصرفية عبر الإنترنت"
+
+#: components/Payments/Payments.js:160
+#: components/Payments/Payments.js:200
+#: components/Purchase/Purchase.js:138
+#: components/Purchase/Purchase.js:144
+#: components/Purchase/Purchase.js:150
+#: components/Purchase/Purchase.js:174
+msgid "a138"
+msgstr "بواسطة العملات المشفرة"
+
+#: components/Order/OrderPayments.js:36
+#: components/Payments/Payments.js:146
+msgid "a139"
+msgstr "الاتحاد الأوروبي: التحويل المصرفي"
+
+#: components/TableOrders/TableOrderBody.js:728
+msgid "a14"
+msgstr "لصق"
+
+#~ msgid "a140"
+#~ msgstr "التسليم"
+
+#: components/DeliveryContent/DeliveryContent.js:13
+msgid "a141"
+msgstr "نود أن نلفت انتباهكم إلى نظام التسليم المبتكر لعملات EA FC الذي طوره المشاركون في اللعبة حقًا - وهو نهج فريد في سوق عملات FIFA. تتم معالجة كل طلب وفقًا لمجموعة من بروتوكولات الملكية التي تستبعد تمامًا أي عواقب غير مرغوب فيها على الحساب من EA. نحن نعمل باستمرار على تحسين خوارزمية نقل العملات الخاصة بنا، وإخضاعها لمعايرة شاملة وعدد من التجارب المتنوعة وفقط في حالة التقييم الإيجابي لكل جانب تم اختباره، فإنه يتلقى الضوء الأخضر للتنفيذ الكامل."
+
+#: components/DeliveryContent/DeliveryContent.js:15
+msgid "a142"
+msgstr "وبالإضافة إلى ذلك، تم توسيع نطاق تأثيرنا بشكل كبير من خلال إقامة شراكات إنتاجية مع العديد من المنظمات الأخرى المشاركة في تجارة التجزئة لعملات EA FC. ويتضمن نظامنا البيئي حاليًا أكثر من 10 متاجر مثل هذه مدمجة في منصتنا. وأبوابنا لمثل هذا التعاون مفتوحة دائمًا. فإذا كنت مهتمًا بالشراكة معنا كمتجر عملات EA FC، فاتصل بنا عبر"
+
+#: components/DeliveryContent/DeliveryContent.js:24
+msgid "a143"
+msgstr "Skype"
+
+#: components/DeliveryContent/DeliveryContent.js:27
+msgid "a144"
+msgstr "أو"
+
+#: components/DeliveryContent/DeliveryContent.js:34
+msgid "a145"
+msgstr "Telegram"
+
+#: components/DeliveryContent/DeliveryContent.js:37
+msgid "a146"
+msgstr "حيث يمكننا مناقشة جميع تفاصيل فرصة التعاون هذه، والتي ستسمح لنا بتعزيز قائمة إنجازاتنا بشكل جماعي في سوق العملات المعدنية FUT وEA FC المعروضة أعلاه."
+
+#: components/Infografic/Infografic.js:114
+msgid "a147"
+msgstr "فيما يلي بعض الإحصائيات * التي قد تثير اهتمامك:"
+
+#: components/Infografic/Infografic.js:12
+#: components/InfograficMain/InfograficMain.js:12
+msgid "a148"
+msgstr "خبرتنا هي"
+
+#~ msgid "a149"
+#~ msgstr " أكثر من 7 سنوات"
+
+#: components/Infografic/Infografic.js:14
+#~ msgid "a149_1"
+#~ msgstr "أكثر من "
+
+#: components/Infografic/Infografic.js:14
+msgid "a149_2"
+msgstr "7"
+
+#: components/Infografic/Infografic.js:15
+msgid "a149_3"
+msgstr " سنوات"
+
+#~ msgid "a15"
+#~ msgstr "سجّل الدخول إلى حسابك لاستخدام القسيمة"
+
+#: components/Infografic/Infografic.js:16
+msgid "a150"
+msgstr "من الخبرة في الميدان"
+
+#: components/Infografic/Infografic.js:21
+#: components/InfograficMain/InfograficMain.js:20
+msgid "a151"
+msgstr "قمنا بالتحويل إلى عملائنا"
+
+#~ msgid "a152"
+#~ msgstr "100"
+
+#: components/Infografic/Infografic.js:23
+#~ msgid "a152_1"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:23
+msgid "a152_2"
+msgstr "100"
+
+#: components/Infografic/Infografic.js:24
+msgid "a152_3"
+msgstr "B+"
+
+#: components/Infografic/Infografic.js:26
+#~ msgid "a153"
+#~ msgstr "عملة معدنية تم تحويلها إلى حسابات عملائنا"
+
+#: components/Infografic/Infografic.js:30
+#: components/InfograficMain/InfograficMain.js:28
+msgid "a154"
+msgstr "لقد قمنا بتسليم"
+
+#~ msgid "a155"
+#~ msgstr "أكثر من 100 ألف"
+
+#: components/Infografic/Infografic.js:32
+#~ msgid "a155_1"
+#~ msgstr "أكثر من  "
+
+#: components/Infografic/Infografic.js:32
+msgid "a155_2"
+msgstr "100 "
+
+#: components/Infografic/Infografic.js:33
+msgid "a155_3"
+msgstr " ألف"
+
+#: components/Infografic/Infografic.js:35
+#~ msgid "a156"
+#~ msgstr "طلب تم تسليمها بنجاح"
+
+#: components/Infografic/Infografic.js:39
+#: components/InfograficMain/InfograficMain.js:36
+msgid "a157"
+msgstr "استخدم خدمتنا"
+
+#~ msgid "a158"
+#~ msgstr "أكثر من 30 ألفًا"
+
+#: components/Infografic/Infografic.js:41
+#~ msgid "a158_1"
+#~ msgstr "أكثر من "
+
+#: components/Infografic/Infografic.js:41
+msgid "a158_2"
+msgstr "30"
+
+#: components/Infografic/Infografic.js:42
+msgid "a158_3"
+msgstr "ألفًا"
+
+#: components/Infografic/Infografic.js:44
+#~ msgid "a159"
+#~ msgstr "لاعب جربوا خدمتنا"
+
+#~ msgid "a16"
+#~ msgstr "+ $[[X]] لكل 100 ألف"
+
+#: components/Infografic/Infografic.js:48
+#: components/InfograficMain/InfograficMain.js:44
+msgid "a160"
+msgstr "في أقل من"
+
+#~ msgid "a161"
+#~ msgstr "أكثر من 80%"
+
+#: components/Infografic/Infografic.js:50
+#~ msgid "a161_1"
+#~ msgstr "أكثر من "
+
+#: components/Infografic/Infografic.js:50
+msgid "a161_2"
+msgstr "20"
+
+#: components/Infografic/Infografic.js:53
+#~ msgid "a162"
+#~ msgstr "من العملاء العائدين الذين قاموا بعملية شراء مرتين على الأقل"
+
+#: components/Infografic/Infografic.js:57
+#: components/InfograficMain/InfograficMain.js:53
+msgid "a163"
+msgstr "وفقًا لاستطلاعات الرأي لدينا"
+
+#~ msgid "a164"
+#~ msgstr "97%"
+
+#: components/Infografic/Infografic.js:61
+#~ msgid "a165"
+#~ msgstr "هو معدل رضا العملاء حسب نتائج الاستطلاعات"
+
+#: components/Infografic/Infografic.js:126
+msgid "a166"
+msgstr "*ذو صلة اعتبارًا من 1 أكتوبر 2023"
+
+#~ msgid "a167"
+#~ msgstr ""
+
+#~ msgid "a17"
+#~ msgstr "متجر EA FC 25 Ultimate Team | متجر عملات EA Sports FC"
+
+#~ msgid "a18"
+#~ msgstr "سوف تتلقى"
+
+#: pages/coins/index.js:196
+#: pages/coins/index.js:275
+msgid "a19"
+msgstr "مبلغ مخصص"
+
+#: components/Modal/Modal.js:492
+msgid "a2"
+msgstr "رجوع"
+
+#: components/InformationStub/InformationStub.js:19
+msgid "a20"
+msgstr "لم تقم بإجراء أي طلبات حتى الآن"
+
+#: components/InformationStub/InformationStub.js:22
+msgid "a21"
+msgstr "سيحتوي هذا القسم على سجل طلباتك بمجرد حصولك على"
+
+#: components/InformationStub/InformationStub.js:30
+msgid "a22"
+msgstr "الانتقال إلى الصفحة الرئيسية"
+
+#~ msgid "a23"
+#~ msgstr "عن طريق البطاقة"
+
+#: components/Order/OrderPayments.js:72
+msgid "a24"
+msgstr "بواسطة العملات المشفرة"
+
+#~ msgid "a25"
+#~ msgstr "بواسطة Apple Pay"
+
+#~ msgid "a26"
+#~ msgstr "بواسطة Google Pay"
+
+#~ msgid "a27"
+#~ msgstr "بواسطة المحفظة الإلكترونية"
+
+#~ msgid "a28"
+#~ msgstr "بواسطة التحويل المصرفي"
+
+#~ msgid "a29"
+#~ msgstr "الأسئلة الشائعة"
+
+#~ msgid "a3"
+#~ msgstr "تحديد"
+
+#: components/CustomAccordion/CustomAccordion.js:502
+#: components/FaqMain/FaqMain.js:124
+msgid "a30"
+msgstr "لماذا يجب أن أختار ROYALFUT.COM؟"
+
+#: components/CustomAccordion/CustomAccordion.js:61
+#: components/FaqMain/FaqMain.js:19
+msgid "a31"
+msgstr "هناك عدة أسباب ستكتشفها بنفسك بالتأكيد بعد عملية الشراء الأولى:"
+
+#: components/CustomAccordion/CustomAccordion.js:65
+#: components/FaqMain/FaqMain.js:23
+msgid "a32"
+msgstr "نحن نقدم واحدة من أقل الأسعار في السوق."
+
+#: components/CustomAccordion/CustomAccordion.js:71
+#: components/FaqMain/FaqMain.js:29
+msgid "a33"
+msgstr "عدد كبير من التقييمات من قبل العملاء الراضين والتي يمكن العثور عليها"
+
+#: components/CustomAccordion/CustomAccordion.js:74
+#: components/FaqMain/FaqMain.js:32
+msgid "a34"
+msgstr "هنا."
+
+#: components/CustomAccordion/CustomAccordion.js:82
+#: components/FaqMain/FaqMain.js:40
+msgid "a35"
+msgstr "الأمان المطلق لحسابك الذي يأتي دائمًا في المقام الأول وضمان استرداد الأموال بالكامل في حالة عدم توصيل طلبك، لسبب ما."
+
+#: components/FaqMain/FaqMain.js:46
+msgid "a36"
+msgstr "أقصر الجداول الزمنية للتسليم — معنا سوف تنسى أوقات الانتظار الطويلة لإكمال الطلب."
+
+#: components/FaqMain/FaqMain.js:52
+msgid "a37"
+msgstr "فريق الدعم لدينا مستعد دائمًا لمساعدتك في حل أي مشكلة قد تواجهها، سواء قبل الشراء أو بعده، وسواء من خلال الدردشة المباشرة أو أي طريقة أخرى من اختيارك (WhatsApp أو Telegram أو Instagram Direct أو البريد الإلكتروني)."
+
+#: components/CustomAccordion/CustomAccordion.js:510
+#: components/FaqMain/FaqMain.js:132
+msgid "a38"
+msgstr "ما مزايا شراء عملات [[UT]] بدلاً من [[PT]]؟"
+
+#: components/CustomAccordion/CustomAccordion.js:370
+#: components/FaqMain/FaqMain.js:65
+msgid "a39"
+msgstr "العملات هي الخيار الأول لمعظم لاعبي [[F]] في جميع أنحاء العالم بسبب تكلفتها المنخفضة، والقدرة على إنفاقها بشكل أكثر فائدة لناد[[UT]] الخاص بك."
+
+#~ msgid "a4"
+#~ msgstr "تم التحديد"
+
+#: components/CustomAccordion/CustomAccordion.js:377
+#: components/FaqMain/FaqMain.js:72
+msgid "a40"
+msgstr "يمكنك إنفاق عملات [[UT]] على العناصر داخل اللعبة التي تم إدراجها في سوق الانتقالات من قِبل لاعبين آخرين. يمكن أن تكون هذه العناصر بطاقات اللاعب، وبطاقات المدرب، ومجموعات الزي الرسمي، والملاعب، والمواد الاستهلاكية وغيرها. والأهم من ذلك، لا يمكن شراء أي منها باستخدام [[PT]]."
+
+#: components/CustomAccordion/CustomAccordion.js:384
+#: components/FaqMain/FaqMain.js:79
+msgid "a41"
+msgstr "باستخدام [[PT]]، يمكنك شراء الحزم من متجر [[UT]] والوصول إلى مسودات [[UT]]. ومع ذلك، يمكنك القيام بكل من هذين الأمرين باستخدام العملات أيضًا. مقارنة مع المال الحقيقي، فإن التسوق داخل اللعبة أرخص بأكثر من 5 مرات باستخدام عملات[[UT]] بدلاً من [[PT]]. ابدأ التسوق لشراء العملات معنا وشاهد بنفسك"
+
+#: components/CustomAccordion/CustomAccordion.js:520
+msgid "a42"
+msgstr "ما طرق التسليم التي تقدموها وما الفرق بينها؟"
+
+#: components/CustomAccordion/CustomAccordion.js:397
+msgid "a43"
+msgstr "هناك طريقتان للتسليم يمكنك الاختيار من بينهما على موقعنا الإلكتروني: التداول المريح ومزاد اللاعب."
+
+#: components/CustomAccordion/CustomAccordion.js:402
+msgid "a44"
+msgstr "لكي تتم معالجة طلبات التداول المريح، ستحتاج إلى تزويدنا بتفاصيل حساب EA الخاص بك، ولكن لا يلزم اتخاذ أي إجراء آخر بواسطتك — سنتولى عملية التسليم بأنفسنا."
+
+#: components/CustomAccordion/CustomAccordion.js:407
+msgid "a45"
+msgstr "لا توجد تفاصيل على الإطلاق مطلوبة لطريقة تسليم مزاد اللاعب، ومع ذلك ستحتاج إلى تحويل العملات بنفسك باستخدام تعليماتنا."
+
+#: components/CustomAccordion/CustomAccordion.js:412
+msgid "a46"
+msgstr "يمكنك معرفة المزيد عن كلتا طريقتي التسليم"
+
+#: components/CustomAccordion/CustomAccordion.js:414
+msgid "a47"
+msgstr "هنا."
+
+#: components/CustomAccordion/CustomAccordion.js:528
+msgid "a48"
+msgstr "كم من الوقت يستغرق توصيل العملة؟"
+
+#: components/CustomAccordion/CustomAccordion.js:426
+msgid "a49"
+msgstr "يعتمد ذلك على طريقة التوصيل التي تختارها."
+
+#: components/BurgerMenu/BurgerMenu.js:306
+#: components/BurgerMenu/BurgerMenu.js:501
+msgid "a5"
+msgstr "القائمة"
+
+#: components/CustomAccordion/CustomAccordion.js:431
+msgid "a50"
+msgstr "نعرض وقت التسليم التقريبي لطلبات التداول المريح قبل الدفع في صفحة الدفع. إذا كانت جميع التفاصيل التي أرسلتها صحيحة وكان حسابك جاهزًا تمامًا لتحويل العملة، فسيتم الانتهاء من الطلب في غضون 15 إلى 20 دقيقة في المتوسط. ومع ذلك، ضع في اعتبارك أن وقت التسليم يعتمد في المقام الأول على كمية العملات المطلوبة."
+
+#: components/CustomAccordion/CustomAccordion.js:436
+msgid "a51"
+msgstr "أما بالنسبة لطريقة تسليم مزاد اللاعب، فإن توقيت هذا الخيار يعتمد عليك تمامًا. يتم نقل العملة عن طريق شراء بطاقات اللاعبين وبيعها. يستغرق الأمر في المتوسط من 3 إلى 10 بطاقات يقترحها نظامنا لتقوم بشرائها وبيعها لإكمال الطلب باستخدام هذه الطريقة. ولكن لاحظ أن رصيدك المبدئي يؤدي دورًا مهمًا في هذا السيناريو — فكلما كان أكبر، تمت معالجة التسليم بشكل أسرع، لذا حاول أن تجعله في أعلى مستوى ممكن قبل تقديم الطلب، كأن تقوم على سبيل المثال ببيع البطاقات غير المرغوب فيها."
+
+#: components/CustomAccordion/CustomAccordion.js:536
+msgid "a52"
+msgstr "كيف يمكنني استخدام قسيمة الخصم؟"
+
+#: components/CustomAccordion/CustomAccordion.js:542
+msgid "a53"
+msgstr "الوصول إلى صفحة الدفع."
+
+#: components/CustomAccordion/CustomAccordion.js:548
+#: components/FaqMain/FaqMain.js:143
+msgid "a54"
+msgstr "هل هناك أي عروض خاصة للعملاء المنتظمين؟"
+
+#: components/CustomAccordion/CustomAccordion.js:554
+#: components/FaqMain/FaqMain.js:91
+msgid "a55"
+msgstr "نعم، هناك. ستبدأ في تلقي عروض خاصة بمجرد أن نلاحظ أنك بدأت في الشراء منّا بشكل منتظم. فضلاً عن أن لدينا أيضًا برنامج ولاء شفافًا نستخدمه في عملنا. ترقّب التحديثات!"
+
+#: components/Order/OrderDelivery.js:141
+msgid "a56"
+msgstr "التداول المريح"
+
+#: components/CustomAccordion/CustomAccordion.js:51
+#: components/CustomAccordion/CustomAccordion.js:563
+msgid "a57"
+msgstr "أسئلة حول طريقة تسليم التداول المريح"
+
+#: components/CustomAccordion/CustomAccordion.js:569
+msgid "a58"
+msgstr "كيف يمكنني إعداد نادي [[UT]] الخاص بي لطلب التداول المريح؟"
+
+#~ msgid "a59"
+#~ msgstr "قائمة النقل"
+
+#~ msgid "a6"
+#~ msgstr "[[X]] من العملات"
+
+#: components/CustomAccordion/CustomAccordion.js:110
+msgid "a60"
+msgstr "تأكد من فتح سوق الانتقالات في [[WA]]"
+
+#: components/CustomAccordion/CustomAccordion.js:120
+msgid "a61"
+msgstr "احتفظ بما لا يقل عن 5000 عملة في رصيدك"
+
+#: components/CustomAccordion/CustomAccordion.js:126
+msgid "a62"
+msgstr "امسح أكبر مساحة ممكنة في قائمة النقل الخاصة بك"
+
+#: components/CustomAccordion/CustomAccordion.js:580
+msgid "a63"
+msgstr "كيف يمكنني التحقق مما إذا كان سوق الانتقالات الخاص بي في [[WA]] مفتوحًا أم لا؟"
+
+#: components/CustomAccordion/CustomAccordion.js:138
+msgid "a64"
+msgstr "تم فتح سوق الانتقالات"
+
+#: components/CustomAccordion/CustomAccordion.js:141
+msgid "a65"
+msgstr "سوق الانتقالات مقفل"
+
+#: components/CustomAccordion/CustomAccordion.js:591
+msgid "a66"
+msgstr "ما الخطوات التي يجب أن أتخذها لتقديم طلب واستلام العملات بهذه الطريقة؟"
+
+#: components/CustomAccordion/CustomAccordion.js:151
+msgid "a67"
+msgstr "التداول المريح"
+
+#: components/CustomAccordion/CustomAccordion.js:165
+msgid "a68"
+msgstr "1. أثناء تقديم طلب، اختر طريقة التداول المريح للتسليم."
+
+#: components/CustomAccordion/CustomAccordion.js:168
+msgid "a69"
+msgstr "2. ادفع مقابل طلبك."
+
+#~ msgid "a7"
+#~ msgstr "عملات FC 25"
+
+#: components/CustomAccordion/CustomAccordion.js:171
+msgid "a70"
+msgstr "3. بعد الدفع الناجح، ستحتاج إلى ملء تفاصيل حساب EA الخاص بك في حقول الإدخال المعنية."
+
+#: components/CustomAccordion/CustomAccordion.js:174
+msgid "a71"
+msgstr "4. إذا كانت التفاصيل المقدمة صحيحة، فستبدأ عملية التسليم الآلي التي لا يجب عليك خلالها تسجيل الدخول إلى حساب[[F]] الخاص بك. بمجرد الانتهاء من الطلب، سيتم إخطارك بذلك عبر البريد الإلكتروني وستظهر رسالة مقابلة أيضًا على الموقع الإلكتروني."
+
+#: components/CustomAccordion/CustomAccordion.js:181
+msgid "a72"
+msgstr "يمكنك العثور على مزيد من المعلومات حول العملية بأكملها في الفيديو أدناه."
+
+#: components/CustomAccordion/CustomAccordion.js:185
+#: components/CustomAccordion/CustomAccordion.js:239
+#: components/Products/Products.js:61
+msgid "a73"
+msgstr "معرفة المزيد"
+
+#: components/CustomAccordion/CustomAccordion.js:189
+msgid "a74"
+msgstr "5. هذا كل شيء! استمتع بعملاتك! ولا تنسَ أن تترك"
+
+#: components/CustomAccordion/CustomAccordion.js:196
+#: components/CustomAccordion/CustomAccordion.js:250
+msgid "a75"
+msgstr "مراجعة لنا على Trustpilot."
+
+#: components/CustomAccordion/CustomAccordion.js:201
+#: components/CustomAccordion/CustomAccordion.js:255
+msgid "a76"
+msgstr "إذا كانت لديك أي أسئلة أو كنت بحاجة إلى أي مساعدة في أي مرحلة، فلا تتردد في الاتصال بفريق الدعم لدينا عبر الدردشة المباشرة أو أي طريقة أخرى من اختيارك (WhatsApp أو Telegram أو Instagram Direct أو البريد الإلكتروني)."
+
+#: components/CustomAccordion/CustomAccordion.js:599
+msgid "a77"
+msgstr "ما التفاصيل المطلوبة لتحويل العملة عبر طريقة تسليم التداول المريح؟"
+
+#~ msgid "a78"
+#~ msgstr "رموز النسخ الاحتياطي"
+
+#: components/CustomAccordion/CustomAccordion.js:264
+msgid "a79"
+msgstr "البريد الإلكتروني وكلمة المرور ورموز النسخ الاحتياطي لحساب EA الخاص بك. لست بحاجة إلى مشاركة معرف EA الخاص بك وبيانات اعتماد حساب PSN/Xbox أو أي تفاصيل أخرى."
+
+#~ msgid "a8"
+#~ msgstr "الدفع"
+
+#: components/CustomAccordion/CustomAccordion.js:607
+msgid "a80"
+msgstr "كيف يحمي موقع ROYALFUT.COM معلوماتي الشخصية؟"
+
+#: components/CustomAccordion/CustomAccordion.js:273
+msgid "a81"
+msgstr "تحمي إدارة المشروع المعلومات المنقولة عبر الموقع من القرصنة والسرقة بناءً على سياسة الخصوصية الصارمة ونظام الإدارة. نحن لا نشارك تفاصيل حساب EA الخاص بك، وبيانات بطاقات الدفع، وما إلى ذلك مع أطراف ثالثة تحت أي ظرف من الظروف! اعرف المزيد عبر"
+
+#: components/CustomAccordion/CustomAccordion.js:276
+msgid "a82"
+msgstr "صفحة سياسة الخصوصية."
+
+#~ msgid "a83"
+#~ msgstr "التحقق من تسجيل الدخول"
+
+#: components/CustomAccordion/CustomAccordion.js:615
+msgid "a84"
+msgstr "كيف يمكنني تشغيل التحقق من تسجيل الدخول لحساب EA الخاص بي؟"
+
+#: components/CustomAccordion/CustomAccordion.js:287
+msgid "a85"
+msgstr "1. افتح"
+
+#: components/CustomAccordion/CustomAccordion.js:294
+msgid "a86"
+msgstr "صفحة إعدادات حساب EA"
+
+#: components/CustomAccordion/CustomAccordion.js:299
+msgid "a87"
+msgstr "2. الأمان > التحقق من تسجيل الدخول > تشغيل > إرسال الرمز > تشغيل التحقق من تسجيل الدخول"
+
+#~ msgid "a88"
+#~ msgstr "رموز النسخ الاحتياطي"
+
+#~ msgid "a89"
+#~ msgstr "أين يمكنني العثور على رموز النسخ الاحتياطي لحساب EA الخاص بي؟"
+
+#~ msgid "a9"
+#~ msgstr "عربة التسوق"
+
+#~ msgid "a90"
+#~ msgstr "1. افتح"
+
+#~ msgid "a91"
+#~ msgstr "صفحة إعدادات حساب EA."
+
+#~ msgid "a92"
+#~ msgstr "2. الأمان > رموز النسخ الاحتياطي > عرض > إرسال رمز الأمان > إرسال."
+
+#: components/CustomAccordion/CustomAccordion.js:623
+msgid "a93"
+msgstr "لا أتذكر عنوان البريد الإلكتروني لحساب EA الخاص بي، فأين يمكنني العثور عليه؟"
+
+#: components/CustomAccordion/CustomAccordion.js:309
+msgid "a94"
+msgstr "1. افتح اللعبة وانتقل إلى القائمة الرئيسية."
+
+#: components/CustomAccordion/CustomAccordion.js:312
+msgid "a95"
+msgstr "2. تخصيص > الإعدادات عبر الإنترنت > حساب EA."
+
+#: components/CustomAccordion/CustomAccordion.js:631
+msgid "a96"
+msgstr "لقد نسيت كلمة مرور حساب EA الخاص بي، فكيف يمكنني إعادة تعيينها؟"
+
+#: components/CustomAccordion/CustomAccordion.js:323
+msgid "a97"
+msgstr "1. انتقل إلى"
+
+#: components/CustomAccordion/CustomAccordion.js:330
+msgid "a98"
+msgstr "صفحة تسجيل الدخول إلى حساب EA."
+
+#: components/CustomAccordion/CustomAccordion.js:335
+msgid "a99"
+msgstr "2. تسجيل الدخول > هل نسيت كلمة المرور؟ > التالي > إرسال الرمز > التالي > إرسال."
+
+#~ msgid "aa0"
+#~ msgstr "مرحبًا بك في عصر جديد مع محاكي كرة القدم من EA!"
+
+#: components/SpecialOffer/SpecialOffer.js:63
+msgid "aa0_1"
+msgstr "لا تفوّت عرضنا الخاص"
+
+#~ msgid "aa1"
+#~ msgstr "إعلان إطلاق EA FC 25،‏ -7%"
+
+#~ msgid "aa10"
+#~ msgstr "اشتر عملات EA FC 25 لجهاز [[X]]"
+
+#~ msgid "aa11"
+#~ msgstr ""
+
+#~ msgid "aa2"
+#~ msgstr "استخدم هذه القسيمة للاستمتاع بخصم على طلبك التالي"
+
+#~ msgid "aa3"
+#~ msgstr "العمل قيد التنفيذ"
+
+#: components/PageChanger/PageChanger.js:71
+msgid "aa4"
+msgstr "الإصدار التجريبي"
+
+#: pages/wl-boost.js:74
+msgid "aa5"
+msgstr "هل تريد معززًا؟ نحن في خدمتك!"
+
+#: pages/wl-boost.js:79
+msgid "aa6"
+msgstr "إليك الخدمات التي نقدمها: معزز تصنيف نهائيات EA FC 25 Ultimate Team ونهائيات UT Champion وتصفيات UT Champion ومنافسات الفِرق. اتصل بنا الآن واستمتع بأفضل سعر!"
+
+#~ msgid "aa7"
+#~ msgstr "سنعود بعد:"
+
+#~ msgid "aa8"
+#~ msgstr "استعد للموسم الجديد"
+
+#~ msgid "aa9"
+#~ msgstr "اشتر عملات EA FC 25 لنادي Ultimate Team"
+
+#~ msgid "ab0"
+#~ msgstr "فيما يلي بعض الإحصائيات * التي قد تثير اهتمامك:"
+
+#~ msgid "ab1"
+#~ msgstr "أكثر من 7 سنوات"
+
+#: components/InfograficMain/InfograficMain.js:48
+msgid "ab10"
+msgstr "من العملاء العائدين الذين قاموا بعملية شراء مرتين على الأقل"
+
+#~ msgid "ab100"
+#~ msgstr "الدفع"
+
+#~ msgid "ab101"
+#~ msgstr "الدفع الآمن"
+
+#~ msgid "ab102"
+#~ msgstr "أسلوب الدفع"
+
+#~ msgid "ab103"
+#~ msgstr "طريقة التسليم"
+
+#~ msgid "ab104"
+#~ msgstr "تعرف على المزيد حول الاختلافات"
+
+#: components/Order/OrderDelivery.js:208
+msgid "ab105"
+msgstr "غير متوفر لهذا المبلغ"
+
+#: components/Order/Coupon.js:654
+msgid "ab106"
+msgstr "هل لديك قسيمة؟"
+
+#~ msgid "ab107"
+#~ msgstr "سجّل الدخول للشراء"
+
+#: components/Order/OrderInfo.js:95
+msgid "ab108"
+msgstr "تعديل الطلب"
+
+#: components/Order/OrderInfo.js:98
+msgid "ab109"
+msgstr "العملات"
+
+#: components/InfograficMain/InfograficMain.js:56
+msgid "ab11"
+msgstr "هو معدل رضا العملاء حسب نتائج الاستطلاعات"
+
+#~ msgid "ab110"
+#~ msgstr "المنصة"
+
+#: components/MainFunnel/StickySecondStep.js:115
+#: components/Order/StickySecondStep.js:355
+#: components/Package/CheckoutSticky.js:451
+msgid "ab111"
+msgstr "السعر الإجمالي"
+
+#~ msgid "ab112"
+#~ msgstr "ادفع الآن"
+
+#: components/Offer/Offer.js:65
+msgid "ab113"
+msgstr "0% رسوم"
+
+#~ msgid "ab114"
+#~ msgstr "دون رسوم"
+
+#~ msgid "ab115"
+#~ msgstr ""
+
+#~ msgid "ab12"
+#~ msgstr "*مطبق اعتبارًا من 1 أكتوبر 2023"
+
+#~ msgid "ab13"
+#~ msgstr "وبالإضافة إلى ذلك، تم توسيع نطاق تأثيرنا بشكل كبير من خلال إقامة شراكات إنتاجية مع العديد من المنظمات الأخرى المشاركة في تجارة التجزئة لعملات EA FC. ويتضمن نظامنا البيئي حاليًا أكثر من 10 متاجر مثل هذه مدمجة في منصتنا. وأبوابنا لمثل هذا التعاون مفتوحة دائمًا. فإذا كنت مهتمًا بالشراكة معنا كمتجر عملات EA FC، فاتصل بنا عبر"
+
+#~ msgid "ab14"
+#~ msgstr "Skype"
+
+#~ msgid "ab15"
+#~ msgstr "أو"
+
+#~ msgid "ab16"
+#~ msgstr "Telegram"
+
+#~ msgid "ab17"
+#~ msgstr "حيث يمكننا مناقشة جميع تفاصيل فرصة التعاون هذه، والتي ستسمح لنا بتعزيز قائمة إنجازاتنا بشكل جماعي في سوق العملات المعدنية FUT وEA FC المعروضة أعلاه."
+
+#~ msgid "ab18"
+#~ msgstr "خطأ غير متوقع"
+
+#~ msgid "ab19"
+#~ msgstr "يرجى الاتصال بالدعم"
+
+#: components/InfograficMain/InfograficMain.js:15
+msgid "ab2"
+msgstr "من الخبرة في الميدان"
+
+#: components/FaqMain/FaqMain.js:114
+#: pages/faq.js:28
+msgid "ab20"
+msgstr "الأسئلة المتكررة"
+
+#: components/CustomAccordion/CustomAccordion.js:50
+#: components/CustomAccordion/CustomAccordion.js:496
+msgid "ab21"
+msgstr "الأسئلة العامة"
+
+#~ msgid "ab22"
+#~ msgstr "يمكنك تحمل تكلفة أيٍّ من أرخص اللاعبين تقريبًا بهذا المبلغ."
+
+#~ msgid "ab23"
+#~ msgstr "بعض اللاعبين الأكثر قيمة متاحون لك بالفعل بهذا المبلغ."
+
+#~ msgid "ab24"
+#~ msgstr "يمكنك شراء أي بطاقة متوفرة في السوق بهذا المبلغ. أكمل فريق أحلامك!"
+
+#: components/TableOrders/TableItem.js:374
+msgid "ab25"
+msgstr "الطلب في قائمة الانتظار"
+
+#~ msgid "ab26"
+#~ msgstr "اشترِ عملات FC 25 لجميع المنصات | متجر عملات Ultimate Team"
+
+#: pages/order/index.js:58
+#: pages/order/index.js:93
+msgid "ab27"
+msgstr "اشترِ عملات FC 25 لأي منصة | ROYALFUT"
+
+#: pages/order/index.js:95
+msgid "ab28"
+msgstr "شراء عملات EA FC 25 | الدفع الآمن | ROYALFUT"
+
+#~ msgid "ab29"
+#~ msgstr "اشترِ عملات FC 25 لجهاز PlayStation 4‏ | ROYALFUT"
+
+#~ msgid "ab3"
+#~ msgstr "أكثر من 100 مليار"
+
+#~ msgid "ab30"
+#~ msgstr "اشترِ عملات FC 25 لجهاز PlayStation 5‏ | ROYALFUT"
+
+#~ msgid "ab31"
+#~ msgstr "اشترِ عملات FC 25 لجهاز Xbox One‏ | ROYALFUT"
+
+#~ msgid "ab32"
+#~ msgstr "اشترِ عملات FC 25 لجهاز Xbox Series X/S‏ | ROYALFUT"
+
+#~ msgid "ab33"
+#~ msgstr "اشترِ عملات FC 25 للكمبيوتر الشخصي (Origin / Steam / Epic Games)‏ | ROYALFUT"
+
+#: pages/order/index.js:100
+msgid "ab34"
+msgstr "فشل الدفع :( | ROYALFUT"
+
+#: pages/order/index.js:98
+msgid "ab35"
+msgstr "شكرًا لك على عملية الشراء! | ROYALFUT"
+
+#: components/CustomAccordion/CustomAccordion.js:88
+msgid "ab36"
+msgstr "المراجعات | ROYALFUT"
+
+#: components/CustomAccordion/CustomAccordion.js:94
+msgid "ab37"
+msgstr "طرق الدفع | ROYALFUT"
+
+#~ msgid "ab38"
+#~ msgstr "تسليم عملات Ultimate Team‏ | ROYALFUT"
+
+#: pages/profile.js:34
+msgid "ab39"
+msgstr "تاريخ الطلب | ROYALFUT"
+
+#: components/InfograficMain/InfograficMain.js:23
+msgid "ab4"
+msgstr "عملة معدنية تم تحويلها إلى حسابات عملائنا"
+
+#: pages/profile.js:25
+msgid "ab40"
+msgstr "ملفي الشخصي | ROYALFUT"
+
+#~ msgid "ab41"
+#~ msgstr "الدفع الآمن | ROYALFUT"
+
+#~ msgid "ab42"
+#~ msgstr "شراء تعزيز FC 25 | الترتيب في Weekend League وDivision Rivals"
+
+#~ msgid "ab43"
+#~ msgstr "إرسال التفاصيل"
+
+#~ msgid "ab44"
+#~ msgstr "إعادة إرسال التفاصيل"
+
+#~ msgid "ab45"
+#~ msgstr "إطلاق التسليم"
+
+#~ msgid "ab46"
+#~ msgstr "استئناف التسليم"
+
+#~ msgid "ab47"
+#~ msgstr "إعادة إرسال الرموز"
+
+#~ msgid "ab48"
+#~ msgstr "تغيير التفاصيل"
+
+#~ msgid "ab49"
+#~ msgstr "حفظ التغييرات"
+
+#~ msgid "ab5"
+#~ msgstr "أكثر من 100 ألف"
+
+#~ msgid "ab50"
+#~ msgstr "🍪 نحن نستخدم ملفات تعريف الارتباط لجعل تجربتك مع موقعنا أفضل."
+
+#~ msgid "ab51"
+#~ msgstr "التفاصيل"
+
+#~ msgid "ab52"
+#~ msgstr "موافق"
+
+#: pages/cookie-policy.js:27
+msgid "ab53"
+msgstr "سياسة ملفات تعريف الارتباط"
+
+#: pages/cookie-policy.js:30
+msgid "ab54"
+msgstr "باستخدام هذا الموقع والموافقة على هذه السياسة، فإنك توافق على استخدامنا لملفات تعريف الارتباط وفقًا لشروط هذه السياسة."
+
+#: pages/cookie-policy.js:34
+msgid "ab55"
+msgstr "حول ملفات تعريف الارتباط"
+
+#: pages/cookie-policy.js:37
+msgid "ab56"
+msgstr "ملفات تعريف الارتباط هي ملفات نصية بسيطة يتم تخزينها على جهاز الكمبيوتر أو الجهاز المحمول الخاص بك بواسطة خادم موقع الويب. كل ملف تعريف ارتباط فريد لمتصفح الويب الخاص بك. وسيحتوي على بعض المعلومات المجهولة مثل المعرف الفريد واسم مجال موقع الويب وبعض الأرقام والرموز."
+
+#: pages/cookie-policy.js:40
+msgid "ab57"
+msgstr "ما هي أنواع ملفات تعريف الارتباط التي نستخدمها؟"
+
+#: pages/cookie-policy.js:43
+msgid "ab58"
+msgstr "ملفات تعريف الارتباط الضرورية"
+
+#: pages/cookie-policy.js:46
+msgid "ab59"
+msgstr "تتيح لنا ملفات تعريف الارتباط الضرورية أن نقدم لك أفضل تجربة ممكنة عند الوصول إلى موقعنا الإلكتروني والتنقل عبره واستخدام ميزاته. على سبيل المثال، تتيح لنا ملفات تعريف الارتباط هذه التعرف على أنك قمت بإنشاء حساب وقمت بتسجيل الدخول إلى هذا الحساب."
+
+#: components/InfograficMain/InfograficMain.js:31
+msgid "ab6"
+msgstr "طلب تم تسليمها بنجاح"
+
+#: pages/cookie-policy.js:49
+msgid "ab60"
+msgstr "ملفات تعريف الارتباط الوظيفية"
+
+#: pages/cookie-policy.js:52
+msgid "ab61"
+msgstr "تتيح لنا ملفات تعريف الارتباط الوظيفية تشغيل الموقع وفقًا للاختيارات التي تحددها. على سبيل المثال، سوف نتعرف على اسم المستخدم الخاص بك ونتذكر كيفية تخصيص الموقع أثناء الزيارات المستقبلية."
+
+#: pages/cookie-policy.js:55
+msgid "ab62"
+msgstr "ملفات تعريف الارتباط التحليلية"
+
+#: pages/cookie-policy.js:58
+msgid "ab63"
+msgstr "تمكننا ملفات تعريف الارتباط هذه وخدمات الجهات الخارجية من جمع بيانات مجمعة لأغراض إحصائية حول كيفية استخدام زوارنا للموقع. لا تحتوي ملفات تعريف الارتباط هذه على معلومات شخصية مثل الأسماء وعناوين البريد الإلكتروني وتستخدم لمساعدتنا في تحسين تجربة المستخدم الخاصة بك للموقع."
+
+#: pages/cookie-policy.js:61
+msgid "ab64"
+msgstr "ملفات تعريف الارتباط الخاصة بالطرف الثالث"
+
+#: pages/cookie-policy.js:64
+msgid "ab65"
+msgstr "عندما تستخدم موقع الويب، قد يتم أيضًا إرسال ملفات تعريف الارتباط الخاصة بطرف ثالث إليك."
+
+#: pages/cookie-policy.js:67
+msgid "ab66"
+msgstr "قد يرسل لك المعلنون ومقدمو الخدمات ملفات تعريف الارتباط. يجوز لهم استخدام المعلومات التي يحصلون عليها من استخدامك لملفات تعريف الارتباط الخاصة بهم في ما يلي:"
+
+#: pages/cookie-policy.js:70
+msgid "ab67"
+msgstr "لتتبع متصفحك عبر مواقع ويب متعددة"
+
+#: pages/cookie-policy.js:71
+msgid "ab68"
+msgstr "لإنشاء ملف تعريفي لتصفح الويب الخاص بك"
+
+#: pages/cookie-policy.js:72
+msgid "ab69"
+msgstr "لاستهداف الإعلانات بناءً على تفاعلاتك مع خدماتها، والتي قد تكون ذات أهمية خاصة بالنسبة لك."
+
+#~ msgid "ab7"
+#~ msgstr "أكثر من 30 ألف"
+
+#: pages/cookie-policy.js:75
+msgid "ab70"
+msgstr "نحن نستخدم Google Analytics، وهي خدمة تحليلات الويب التي تقدمها شركة .Google, Inc (يشار إليها هنا باسم Google). تستخدم Google Analytics ملفات تعريف الارتباط، وهي ملفات نصية يتم وضعها على جهاز الكمبيوتر الخاص بك، لمساعدة موقع الويب في تحليل كيفية استخدام المستخدمين للموقع. سيتم نقل المعلومات التي تم إنشاؤها بواسطة ملف تعريف الارتباط حول استخدامك لموقع الويب (بما في ذلك عنوان IP الخاص بك) إلى Google وتخزينها على خوادم في الولايات المتحدة. سيتم اقتطاع عنوان IP قبل الإرسال لضمان عدم الكشف عن هويته. بالنيابة عنا، ستستخدم Google هذه المعلومات لتقييم استخدامك للموقع، وتجميع التقارير عن نشاط الموقع وتقديم خدمات أخرى تتعلق بنشاط الموقع ونشاط الإنترنت فيما يتعلق باستخدام الموقع. لن تقوم Google بربط عنوان IP الخاص بك بأي بيانات أخرى تحتفظ بها Google. يمكنك رفض استخدام ملفات تعريف الارتباط عن طريق تحديد الإعدادات المناسبة في متصفحك؛ ومع ذلك، يرجى ملاحظة أنه إذا قمت بذلك، فقد لا تتمكن من استخدام الوظائف الكاملة لهذا الموقع. بالإضافة إلى ذلك، يمكنك منع جمع المعلومات التي تم إنشاؤها بواسطة ملف تعريف الارتباط حول استخدامك للموقع (بما في ذلك عنوان IP الخاص بك) ومعالجة هذه البيانات بواسطة Google إذا قمت بتنزيل وتثبيت المكون الإضافي للمتصفح المتوفر عبر الرابط التالي:"
+
+#: pages/cookie-policy.js:76
+#: pages/cookie-policy.js:77
+msgid "ab71"
+msgstr "https://tools.google.com/dlpage/gaoptout?hl=en"
+
+#~ msgid "ab72"
+#~ msgstr "معظم المتصفحات تسمح لك برفض قبول ملفات تعريف الارتباط. يمكنك أن تجد في google.com كيفية حظر جميع ملفات تعريف الارتباط في متصفحك."
+
+#: pages/cookie-policy.js:81
+msgid "ab73"
+msgstr "حظر ملفات تعريف الارتباط"
+
+#: pages/cookie-policy.js:84
+msgid "ab74"
+msgstr "معظم المتصفحات تسمح لك برفض قبول ملفات تعريف الارتباط. يمكنك أن تجد في google.com كيفية حظر جميع ملفات تعريف الارتباط في متصفحك."
+
+#: pages/cookie-policy.js:87
+msgid "ab75"
+msgstr "ومع ذلك، فإن حظر جميع ملفات تعريف الارتباط سيكون له تأثير سلبي على سهولة استخدام العديد من مواقع الويب. إذا قمت بحظر ملفات تعريف الارتباط، فقد لا تتمكن من استخدام ميزات معينة على موقع الويب (تسجيل الدخول، الوصول إلى المحتوى، استخدام وظائف البحث)."
+
+#: pages/cookie-policy.js:90
+msgid "ab76"
+msgstr "كيفية حذف ملفات تعريف الارتباط؟"
+
+#: pages/cookie-policy.js:93
+msgid "ab77"
+msgstr "إذا كنت تريد تقييد أو حظر ملفات تعريف الارتباط التي يحددها موقعنا، يمكنك القيام بذلك من خلال إعدادات المتصفح الخاص بك. وبدلاً من ذلك، يمكنك زيارة www.internetcookies.com، الذي يحتوي على معلومات شاملة حول كيفية القيام بذلك على مجموعة واسعة من المتصفحات والأجهزة. ستجد معلومات عامة حول ملفات تعريف الارتباط وتفاصيل حول كيفية حذف ملفات تعريف الارتباط من جهازك."
+
+#: pages/cookie-policy.js:96
+msgid "ab78"
+msgstr "الاتصال بنا"
+
+#: pages/cookie-policy.js:99
+msgid "ab79"
+msgstr "إذا كانت لديك أي أسئلة بخصوص هذه السياسة أو استخدامنا لملفات تعريف الارتباط، فلا تتردد في التواصل معنا على support@royalfut.com."
+
+#: components/InfograficMain/InfograficMain.js:39
+msgid "ab8"
+msgstr "لاعب جربوا خدمتنا"
+
+#~ msgid "ab80"
+#~ msgstr "حدث خطأ ما"
+
+#~ msgid "ab81"
+#~ msgstr "قم بتحديث الصفحة"
+
+#: components/DeliverySteps/DeliverySteps.js:44
+msgid "ab82"
+msgstr "تقديم طلب"
+
+#: components/DeliverySteps/DeliverySteps.js:47
+msgid "ab83"
+msgstr "حدد المنصة الخاصة بك والمبلغ المطلوب من العملات المعدنية، ثم ادفع مقابل طلبك."
+
+#: components/DeliverySteps/DeliverySteps.js:65
+msgid "ab84"
+msgstr "إطلاق التسليم"
+
+#: components/DeliverySteps/DeliverySteps.js:68
+msgid "ab85"
+msgstr "بعد نجاح عملية الدفع انتقل إلى"
+
+#: components/DeliverySteps/DeliverySteps.js:69
+msgid "ab86"
+msgstr "صفحة سجل الطلب"
+
+#: components/DeliverySteps/DeliverySteps.js:70
+msgid "ab87"
+msgstr "، ابحث عن طلبك وأكمل الإجراءات المطلوبة لبدء عملية التسليم."
+
+#: components/DeliverySteps/DeliverySteps.js:88
+msgid "ab88"
+msgstr "استمتع بعملية الشراء"
+
+#: components/DeliverySteps/DeliverySteps.js:91
+msgid "ab89"
+msgstr "بمجرد الانتهاء من الطلب، لا تتردد في إنفاق العملات المعدنية كما تريد والعودة إلينا عندما تحتاج إلى إعادة الشراء."
+
+#~ msgid "ab9"
+#~ msgstr "أكثر من 80%"
+
+#: components/DeliverySteps/DeliverySteps.js:28
+msgid "ab90"
+msgstr "هل تحتاج إلى المساعدة؟ اتصل بفريق الدعم لدينا في أي وقت."
+
+#: components/Offer/Offer.js:82
+msgid "ab91"
+msgstr "إذا كنت قد سئمت من استهلاك عملات FC 25، فلدينا حل مثالي ورخيص من أجلك! تعرف على ROYALFUT.com، متجر عملات EA FC الأكثر موثوقية والذي يتمتع بسنوات عديدة من الخبرة في هذا المجال. يقدم هذا السوق ذو التصنيف الأعلى أقل الأسعار لعملات FIFA 25 عبر الإنترنت ويمكنه ضمان التسليم السريع وأمان حسابك بنسبة 100%. يعد شراء عملات FC من ROYALFUT الخيار الأكثر شرعية وبأسعار معقولة عندما يتعلق الأمر بمساعدتك في جعل لعبتك أكثر متعة دون المخاطرة بأي عواقب غير سارة على الإطلاق. تعمل صفقات عملات Ultimate Team العادية التي يمكنك العثور عليها في هذا المتجر على خفض الأسعار المنخفضة بالفعل مما يسمح لك بإجراء المعاملات الأكثر ربحية داخل اللعبة. منصة ROYALFUT ليست موثوقة بنسبة 100% فقط بشأن عملات FUT المعروضة للبيع ولكنها معروفة أيضًا بدعم العملاء المذهل الذي سيساعدك دائمًا في الرد على أي سؤال أو مشكلة قد تكون لديك. من النادر جدًا هذه الأيام العثور على متجر شرعي للعملات المعدنية لـ UT 25، لكن موقع ROYALFUT.com هو بلا شك أحد هذه المتاجر. هذا هو المكان الأفضل لك على الإطلاق إذا كنت تتطلع إلى شراء عملات Ultimate Team لأجهزة الكمبيوتر الشخصية أو PS4 أو PS5 أو Xbox One أو Xbox Series X أو Xbox Series S مع عمليات دفع آمنة 100% وتسليم فوري."
+
+#: pages/order/index.js:115
+#: pages/order/pc.js:82
+#: pages/order/ps4.js:81
+#: pages/order/ps5.js:80
+#: pages/order/xbox_one.js:82
+#: pages/order/xbox_xs.js:82
+msgid "ab92"
+msgstr "اشترِ عملات FC 25 Ultimate Team"
+
+#: components/Order/Steps.js:14
+#: components/Order/Steps.js:56
+msgid "ab93"
+msgstr "معلومات الطلب"
+
+#: components/MainFunnel/StickySecondStep.js:170
+#: components/Order/Steps.js:21
+#: components/Order/Steps.js:59
+#: components/Order/StickyTotalBlock.js:158
+msgid "ab94"
+msgstr "الدفع"
+
+#: components/Order/Steps.js:28
+#: components/Order/Steps.js:62
+msgid "ab95"
+msgstr "التسليم"
+
+#: components/Order/OrderInfo.js:103
+msgid "ab96"
+msgstr "المنصة"
+
+#: components/Order/CoinsChanger.js:356
+msgid "ab97"
+msgstr "المبلغ"
+
+#: components/Package/IdCard.js:110
+msgid "ab98"
+msgstr "السعر"
+
+#~ msgid "ab99"
+#~ msgstr "تخفيض"
+
+#: components/MainFunnel/StickySecondStep.js:157
+msgid "authToPay"
+msgstr "تسجيل الدخول للشراء"
+
+#~ msgid "Bahrain"
+#~ msgstr "البحرين"
+
+#: data-elements/breadcrumbs.js:11
+#~ msgid "breadcrumbs.[id]"
+#~ msgstr "من عملات FUT"
+
+#: data-elements/breadcrumbs.js:5
+#~ msgid "breadcrumbs.404"
+#~ msgstr "404"
+
+#: data-elements/breadcrumbs.js:19
+#~ msgid "breadcrumbs.coins"
+#~ msgstr "حزم العملات"
+
+#: data-elements/breadcrumbs.js:23
+#~ msgid "breadcrumbs.contact"
+#~ msgstr "جهات الاتصال"
+
+#: data-elements/breadcrumbs.js:21
+#~ msgid "breadcrumbs.delivery"
+#~ msgstr "التسليم"
+
+#: data-elements/breadcrumbs.js:22
+#~ msgid "breadcrumbs.faq"
+#~ msgstr "الأسئلة الشائعة"
+
+#: data-elements/breadcrumbs.js:4
+#~ msgid "breadcrumbs.guide"
+#~ msgstr "guide"
+
+#: data-elements/breadcrumbs.js:17
+#~ msgid "breadcrumbs.home"
+#~ msgstr "الشاشة الرئيسية"
+
+#: data-elements/breadcrumbs.js:12
+#~ msgid "breadcrumbs.order"
+#~ msgstr "الجهاز"
+
+#: data-elements/breadcrumbs.js:20
+#~ msgid "breadcrumbs.payment"
+#~ msgstr "الدفع"
+
+#: data-elements/breadcrumbs.js:8
+#~ msgid "breadcrumbs.payments"
+#~ msgstr "المدفوعات"
+
+#: data-elements/breadcrumbs.js:25
+#~ msgid "breadcrumbs.privacy-policy"
+#~ msgstr "سياسة خاصة"
+
+#: data-elements/breadcrumbs.js:26
+#~ msgid "breadcrumbs.profile"
+#~ msgstr "الملف التعريفي"
+
+#: data-elements/breadcrumbs.js:13
+#~ msgid "breadcrumbs.ps4"
+#~ msgstr "PlayStation 4"
+
+#: data-elements/breadcrumbs.js:14
+#~ msgid "breadcrumbs.ps5"
+#~ msgstr "PlayStation 5"
+
+#: data-elements/breadcrumbs.js:7
+#~ msgid "breadcrumbs.purchase"
+#~ msgstr "الشراء"
+
+#: data-elements/breadcrumbs.js:9
+#~ msgid "breadcrumbs.reviews"
+#~ msgstr "المراجعات"
+
+#: data-elements/breadcrumbs.js:24
+#~ msgid "breadcrumbs.terms"
+#~ msgstr "أوافق على الشروط والأحكام"
+
+#: data-elements/breadcrumbs.js:6
+#~ msgid "breadcrumbs.wl-boost"
+#~ msgstr "WL Boost"
+
+#: data-elements/breadcrumbs.js:15
+#~ msgid "breadcrumbs.xbox_one"
+#~ msgstr "Xbox One"
+
+#: data-elements/breadcrumbs.js:16
+#~ msgid "breadcrumbs.xbox_xs"
+#~ msgstr "Xbox Series X|S"
+
+#: components/Order/StickySecondStep.js:400
+#: components/Order/StickyTotalBlock.js:148
+#: components/Package/IdCard.js:103
+msgid "cashback"
+msgstr "كاش باك"
+
+#~ msgid "coins_page0"
+#~ msgstr "عناصر غير مخصصة"
+
+#: components/TableOrders/TableItem.js:406
+msgid "coins_page1"
+msgstr "توجد عناصر غير مخصصة"
+
+#~ msgid "coins_page10"
+#~ msgstr "الإجمالي الفرعي"
+
+#~ msgid "coins_page11"
+#~ msgstr "خصم ()"
+
+#~ msgid "coins_page12"
+#~ msgstr "تطبيق"
+
+#~ msgid "coins_page13"
+#~ msgstr "السعر الإجمالي"
+
+#~ msgid "coins_page14"
+#~ msgstr "كود ترويجي غير صالح"
+
+#: pages/coins/[id].js:222
+msgid "coins_page15"
+msgstr "يمكنك تحمل تكلفة أيٍّ من أرخص اللاعبين تقريبًا بهذا المبلغ."
+
+#: pages/coins/[id].js:225
+msgid "coins_page16"
+msgstr "بعض اللاعبين الأكثر قيمة متاحون لك بالفعل بهذا المبلغ."
+
+#: pages/coins/[id].js:227
+msgid "coins_page17"
+msgstr "يمكنك شراء أي بطاقة متوفرة في السوق بهذا المبلغ. أكمل فريق أحلامك!"
+
+#: pages/coins/[id].js:177
+#: pages/coins/[id].js:192
+msgid "coins_page18"
+msgstr "[[X]] من عملات FC 25 Ultimate Team"
+
+#: pages/coins/[id].js:201
+msgid "coins_page19"
+msgstr "اشتر عملات EA FC 25 على الإنترنت من المورد الأكثر أمانًا في السوق - ROYALFUT Store. نحن متخصصون في بيع عناصر FIFA Ultimate Team منذ أكثر من 7 أعوام. وهدفنا هو ضمان تمتع العملاء بأفضل العروض وعمليات نقل عملات FC UT الأكثر أمانًا. يقدم ROYALFUT تجربة تسوق سلسة وممتعة بفضل واجهته سهلة الاستخدام وخيارات الدفع الآمنة وخدمة العملاء المتميزة."
+
+#: components/TableOrders/TableItem.js:409
+msgid "coins_page2"
+msgstr "لديك عناصر غير مخصصة في نادي Ultimate Team، فاحرص على تخصيصها حتى نتمكن من بدء عملية التسليم"
+
+#: pages/coins/[id].js:204
+msgid "coins_page20"
+msgstr "هنا يمكنك شراء [[X]] عملات FC مقابل [[Y]] [[C]] فقط.. بمجرد تقديم الطلب، احرص على تسجيل الخروج من Ultimate Team على كل من جهاز الألعاب وجهاز الكمبيوتر والأجهزة الأخرى عبر تطبيق FC Web App / Companion. سيتم نقل [[X]] من العملات إلى حسابك في غضون [[A]]-[[B]] minutes ."
+
+#: pages/coins/[id].js:231
+msgid "coins_page21"
+msgstr "المزايا التي نوفرها"
+
+#: pages/coins/[id].js:236
+msgid "coins_page22"
+msgstr "300 ألف عملة في نادي UT؛"
+
+#: pages/coins/[id].js:240
+msgid "coins_page23"
+msgstr "تغطية ضريبة EA (5%)؛"
+
+#~ msgid "coins_page24"
+#~ msgstr "استرداد نقدي بقيمة 12 نقطة ROYAL (تساوي 1,2 دولار أمريكي)؛"
+
+#~ msgid "coins_page25"
+#~ msgstr "تقدم مستوى الولاء؛"
+
+#: pages/coins/[id].js:252
+msgid "coins_page26"
+msgstr "أمان حسابك بنسبة 100%."
+
+#: pages/coins/[id].js:258
+msgid "coins_page27"
+msgstr "المتطلبات"
+
+#: pages/coins/[id].js:264
+msgid "coins_page28"
+msgstr "الدخول إلى حساب EA"
+
+#: pages/coins/[id].js:266
+msgid "coins_page29"
+msgstr "— إذا كانت لديك نسخة مرخصة من EA Sports FC 25 لأجهزة PlayStation 4 أو PlayStation 5 أو Xbox One أو Xbox Series S أو Xbox Series X أو أجهزة الكمبيوتر (اشتريتها في صورة قرص مضغوط أو رقميًا عن طريق EA App أو Steam أو Epic Games Store)، فالحظ حليفك، لأنه من الآن فصاعدًا، كل ما يطلبه نظامنا منك للوصول بنجاح إلى نادي Ultimate Team هو تفاصيل حساب EA الذي يتألف من عنوان البريد الإلكتروني وكلمة المرور وبعض الأكواد الاحتياطية. ولكن لا داعي للقلق، فنحن لا نخزن بياناتك، بل يجري مسحها بعد إكمال كل طلب."
+
+#~ msgid "coins_page3"
+#~ msgstr "قائمة المراقبة"
+
+#: pages/coins/[id].js:271
+msgid "coins_page30"
+msgstr "سوق الانتقالات مفتوح"
+
+#: pages/coins/[id].js:273
+msgid "coins_page31"
+msgstr "— أحد أهم الخطوات في إعداد ناديك لعملية تسليم العملات هو التأكد من تمتعك بالفعل بإمكانية الدخول إلى سوق الانتقالات في تطبيق الويب، ولكن، إذا كان ما زال قيد القفل، فأنت بحاجة إلى بدء لعب 3 مباريات Ultimate Team كاملة في اليوم وزيارة تطبيق FC Web App يوميًا أيضًا، حتى يتم منحك نقطة الوصول."
+
+#: pages/coins/[id].js:278
+msgid "coins_page32"
+msgstr "ما لا يقل عن 5000 عملة في رصيد نادي UT"
+
+#: pages/coins/[id].js:280
+msgid "coins_page33"
+msgstr "مع هذا المقدار من العملات، سيتمكن نظام التسليم لدينا من بدء عملية الانتقال. إذا كان رصيد النادي لا يلبي هذا المطلب، يمكن بيع بعض العناصر القابلة للتداول إما عن طريق إدراجها في سوق الانتقالات أو عن طريق استخدام خيار البيع السريع. وبالطبع، يمكنك دائمًا ربح العملات ببساطة عن طريق لعب بعض المباريات. وتذكر أن كلما زاد رصيد البدء، زادت سرعة عملية التسليم."
+
+#~ msgid "coins_page34"
+#~ msgstr "مدفوعات آمنة بنسبة 100%"
+
+#~ msgid "coins_page35"
+#~ msgstr "فترة التسليم [[X]]-[[Y]] س"
+
+#~ msgid "coins_page36"
+#~ msgstr "ضمان لمدة 3 أيام"
+
+#: pages/coins/[id].js:300
+msgid "coins_page37"
+msgstr "اطلع على المزيد"
+
+#~ msgid "coins_page38"
+#~ msgstr "تم الشراء [[X]] من المرات"
+
+#~ msgid "coins_page39"
+#~ msgstr ""
+
+#: components/TableOrders/TableItem.js:334
+msgid "coins_page4"
+msgstr "قائمة أهداف الانتقال ممتلئة"
+
+#: components/TableOrders/TableItem.js:337
+msgid "coins_page5"
+msgstr "قائمة أهداف الانتقال ممتلئة، فاحرص على إفراغها حتى نتمكن من بدء عملية التسليم"
+
+#: components/TableOrders/TableItem.js:480
+msgid "coins_page6"
+msgstr "خطأ مجهول"
+
+#: components/TableOrders/TableItem.js:483
+msgid "coins_page7"
+msgstr "جرب إعادة تنشيط طلبك لاحقًا أو اتصل بالدعم إذا استمرت المشكلة"
+
+#~ msgid "coins_page8"
+#~ msgstr "طلب جديد"
+
+#~ msgid "coins_page9"
+#~ msgstr "اشتر الآن"
+
+#: components/Footer/Footer.js:362
+msgid "cookiepage"
+msgstr "سياسة ملفات تعريف الارتباط"
+
+#: components/ReviewsContent/ReviewsContent.js:15
+msgid "country.Bahrain"
+msgstr "البحرين"
+
+#: components/ReviewsContent/ReviewsContent.js:16
+msgid "country.France"
+msgstr "فرنسا"
+
+#: components/ReviewsContent/ReviewsContent.js:17
+msgid "country.Germany"
+msgstr "ألمانيا"
+
+#: components/ReviewsContent/ReviewsContent.js:18
+msgid "country.Kuwait"
+msgstr "الكويت"
+
+#: components/ReviewsContent/ReviewsContent.js:19
+msgid "country.Netherlands"
+msgstr "هولندا"
+
+#: components/ReviewsContent/ReviewsContent.js:20
+msgid "country.Qatar"
+msgstr "قطر"
+
+#: components/ReviewsContent/ReviewsContent.js:21
+msgid "country.Saudi Arabia"
+msgstr "المملكة العربية السعودية"
+
+#: components/ReviewsContent/ReviewsContent.js:22
+msgid "country.United Arab Emirates"
+msgstr "الإمارات العربية المتحدة"
+
+#: components/ReviewsContent/ReviewsContent.js:23
+msgid "country.United Kingdom"
+msgstr "المملكة المتحدة"
+
+#: components/ReviewsContent/ReviewsContent.js:24
+msgid "country.United States"
+msgstr "الولايات المتحدة"
+
+#: components/BurgerMenu/BurgerMenu.js:82
+#~ msgid "emailOrPassword"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:25
+msgid "FIFA & EA FC Coins"
+msgstr "عملة من عملات FIFA وEA FC"
+
+#: components/Infografic/Infografic.js:43
+msgid "FIFA and EA FC players"
+msgstr "لاعب من لاعبي FIFA وEA FC"
+
+#~ msgid "France"
+#~ msgstr "فرنسا"
+
+#~ msgid "Germany"
+#~ msgstr "ألمانيا"
+
+#: components/Header/Header.js:78
+msgid "header_reviews"
+msgstr "المراجعات"
+
+#: components/MainFunnel/MainFunnel.js:44
+#~ msgid "home:newh1_2"
+#~ msgstr "عملات FC 25 "
+
+#: components/MainFunnel/MainFunnel.js:47
+#~ msgid "home:newh1_3"
+#~ msgstr "<<<<<<< HEAD"
+
+#: components/MainFunnel/MainFunnel.js:32
+#: components/MainFunnel/MainFunnel.js:53
+#~ msgid "home:newh1_4"
+#~ msgstr "عملات FC 25"
+
+#: components/MainFunnel/MainFunnel.js:33
+msgid "home:title"
+msgstr "الخيار الأكثر أمانًا لشراء"
+
+#: pages/coins/[id].js:217
+msgid "hours"
+msgstr "hours"
+
+#~ msgid "Kuwait"
+#~ msgstr "الكويت"
+
+#~ msgid "locales.account"
+#~ msgstr "الحساب"
+
+#: components/TableOrders/TableItem.js:711
+msgid "locales.amount"
+msgstr "المقدار"
+
+#: components/Order/StickySecondStep.js:445
+#: components/Order/StickySecondStep.js:454
+#: components/Package/CheckoutSticky.js:502
+#: components/Package/CheckoutSticky.js:510
+#: components/Purchase/Purchase.js:610
+#: components/Purchase/Purchase.js:633
+msgid "locales.authToPay"
+msgstr "تسجيل الدخول للشراء"
+
+#~ msgid "locales.backToTop"
+#~ msgstr "عودة إلى الأعلى"
+
+#~ msgid "locales.backupCode"
+#~ msgstr "الأكواد الاحتياطية"
+
+#~ msgid "locales.backupCodes"
+#~ msgstr "يمكنك الحصول على الأكواد الاحتياطية هنا: "
+
+#~ msgid "locales.blackFriday"
+#~ msgstr "فريق العام <span class=\"color\">- خصم 20%</span> على رسوم الصفقات - استخدم الرمز الترويجي: <span class=\"color\">TOTY</span>"
+
+#~ msgid "locales.buyingCoins"
+#~ msgstr "شراء العملات على royalfut.com"
+
+#~ msgid "locales.cancelOrder"
+#~ msgstr "إلغاء الطلب"
+
+#: components/TextBlockContainer/TextBlockContainer.js:13
+msgid "locales.card_text_1"
+msgstr "تم تشكيل فريقنا في الأصل في موسم FIFA 17. منذ ذلك الحين، قمنا بتحويل أكثر من 100 مليار عملة لعملائنا، وتلقى أكثر من 60 ألف نادٍ حول العالم إعادة تعبئة العملات منّا، وتستخدم 10 متاجر أخرى على الأقل خوارزمية تحويل العملات الخاصة بنا."
+
+#: components/TextBlockContainer/TextBlockContainer.js:30
+msgid "locales.card_text_2"
+msgstr "نحن نقدم واحدًا من أقل الأسعار في السوق، وبالنسبة إلى عملائنا الدائمين، يكون السعر أقل!"
+
+#: components/TextBlockContainer/TextBlockContainer.js:18
+msgid "locales.card_text_3"
+msgstr "هدفنا الرئيسي هو أن نقدم لك الخيار الأكثر أمانًا لزيادة رصيد نادي FUT الخاص بك. نعمل باستمرار على تحسين خوارزمية تحويل العملات لدينا، ونختبرها على الآلاف من حساباتنا قبل إعطاء الضوء الأخضر لها لاتخاذ إجراء."
+
+#: components/TextBlockContainer/TextBlockContainer.js:25
+msgid "locales.card_text_4"
+msgstr "نحن نقدر وقتك، ولهذا السبب نحن مصممون دائمًا على متابعة التحسين المستمر لهذه الجوانب من موقعنا على الويب مثل واجهة وجودة خدمة دعم العملاء لدينا، للتأكد من أن تجربة التسوق معنا تمت بسلاسة قدر الإمكان."
+
+#: components/TextBlockContainer/TextBlockContainer.js:12
+msgid "locales.card_title_1"
+msgstr "خبرة طويلة الأمد"
+
+#: components/TextBlockContainer/TextBlockContainer.js:29
+msgid "locales.card_title_2"
+msgstr "أسعار مناسبة"
+
+#: components/TextBlockContainer/TextBlockContainer.js:17
+msgid "locales.card_title_3"
+msgstr "آمن وموثوق"
+
+#: components/TextBlockContainer/TextBlockContainer.js:24
+msgid "locales.card_title_4"
+msgstr "مستوى عالٍ من الخدمة"
+
+#~ msgid "locales.coinsFor"
+#~ msgstr "من العملات مقابل"
+
+#: components/HowDelivery/Howdelivery.js:239
+#: components/MethodChanger/MethodChanger.js:46
+msgid "locales.comfortMethodName"
+msgstr "التداول المريح"
+
+#~ msgid "locales.comfortText"
+#~ msgstr "سندير عملية التسليم بأنفسنا، كل ما عليك فعله هو تزويدنا بتفاصيل حساب EA الخاص بك."
+
+#~ msgid "locales.commentOut"
+#~ msgstr "من"
+
+#: components/Rated/Rated.js:66
+#: components/ReviewsGallery/ReviewsGallery.js:80
+msgid "locales.commentRated"
+msgstr "التقييم"
+
+#~ msgid "locales.commentReviews"
+#~ msgstr "عدد التعليقات"
+
+#: components/Rated/Rated.js:87
+#: components/Rated/Rated.js:101
+#: components/ReviewsContent/ReviewsContent.js:85
+msgid "locales.commentUrl"
+msgstr "https://uk.trustpilot.com/review/royalfut.com"
+
+#~ msgid "locales.continue"
+#~ msgstr "المتابعة"
+
+#: components/TableOrders/TableItem.js:403
+msgid "locales.continueTransfering"
+msgstr "متابعة التحويل"
+
+#~ msgid "locales.cookieButton"
+#~ msgstr "فهمت"
+
+#~ msgid "locales.cookieText"
+#~ msgstr "لمنح موافقتك على الامتثال لشروط استخدام ملفات تعريف الارتباط الخاصة بنا، ما عليك سوى مواصلة التصفح."
+
+#~ msgid "locales.cookieTitle"
+#~ msgstr "نحن نستخدم ملفات تعريف الارتباط"
+
+#: components/Order/Coupon.js:342
+#: components/Order/Coupon.js:516
+#: components/Package/CheckoutCoupon.js:99
+#: components/Package/CheckoutCoupon.js:352
+msgid "locales.couponCondition"
+msgstr "لا تلبي قيمة الطلب الحد الأدنى المطلوب لاستخدام القسيمة"
+
+#: components/Order/Coupon.js:307
+#: components/Order/Coupon.js:485
+#: components/Package/CheckoutCoupon.js:64
+#: components/Package/CheckoutCoupon.js:321
+msgid "locales.couponExpired"
+msgstr "القسيمة منتهية الصلاحية"
+
+#: components/Order/Coupon.js:324
+#: components/Order/Coupon.js:500
+#: components/Package/CheckoutCoupon.js:81
+#: components/Package/CheckoutCoupon.js:336
+msgid "locales.couponLimit"
+msgstr "اُستخدمت هذه القسيمة بالكامل"
+
+#~ msgid "locales.cryptoAre"
+#~ msgstr ""
+
+#~ msgid "locales.cryptoIs"
+#~ msgstr "هو "
+
+#~ msgid "locales.cryptoMessage"
+#~ msgstr "الحد الأدنى لمبلغ الطلب للدفع من خلال"
+
+#~ msgid "locales.cryptoOr"
+#~ msgstr "أو"
+
+#~ msgid "locales.cryptoWith"
+#~ msgstr ""
+
+#~ msgid "locales.currency"
+#~ msgstr "$"
+
+#~ msgid "locales.currencyName"
+#~ msgstr "SAR"
+
+#~ msgid "locales.currencyTranslate"
+#~ msgstr "العملة"
+
+#~ msgid "locales.deliveryMethodName"
+#~ msgstr "Delivery method:"
+
+#~ msgid "locales.deliverytext"
+#~ msgstr "نظام تسليم فريدًا لعملات EA FC 25. فنحن نتعاون مع رقم قياسي من مورّدي العملات. عند الوفاء بطلبك، نتبع قواعد خاصة تضمن عدم تطبيق أي عقوبات مطلقًا على حسابك من قِبل EA. إليك بعض هذه القواعد:"
+
+#~ msgid "locales.deliverytitle"
+#~ msgstr "التسليم"
+
+#~ msgid "locales.email"
+#~ msgstr "البريد الإلكتروني"
+
+#~ msgid "locales.emailOrPassword"
+#~ msgstr "البريد الإلكتروني أو كلمة المرور غير صالحين"
+
+#: components/HowDelivery/Howdelivery.js:88
+#: components/HowDelivery/Howdelivery.js:123
+msgid "locales.enjoy"
+msgstr " استمتع بلعبتك الرائعة ونتطلع إلى رؤيتك مجددًا:)"
+
+#: components/TableOrders/TableItem.js:392
+msgid "locales.enterCode"
+msgstr "إدخال الكود"
+
+#~ msgid "locales.faqtitle"
+#~ msgstr "لا تزال لديك أسئلة؟"
+
+#~ msgid "locales.faqtitle2"
+#~ msgstr "لا تزال لديك أسئلة؟"
+
+#~ msgid "locales.fbError"
+#~ msgstr "البريد الإلكتروني أو كلمة المرور غير صالحين"
+
+#~ msgid "locales.footerAddrees"
+#~ msgstr "Yasha Limited, Office 908H Nicolaou Pentadromos Center, Limassol, Cyprus"
+
+#~ msgid "locales.footerContact"
+#~ msgstr "عام معلومات"
+
+#~ msgid "locales.footerInfo"
+#~ msgstr "قانوني"
+
+#: components/Footer/Footer.js:308
+msgid "locales.footerInfo_2"
+msgstr "المعلومات"
+
+#: components/Footer/Footer.js:30
+#: pages/contact.js:29
+msgid "locales.footerLinkContact"
+msgstr "جهات الاتصال"
+
+#: components/Footer/Footer.js:318
+msgid "locales.footerLinkDelivery"
+msgstr "التسليم"
+
+#: components/Footer/Footer.js:329
+msgid "locales.footerLinkPayment"
+msgstr "الدفع"
+
+#~ msgid "locales.footerLinkPrivacy"
+#~ msgstr "الخصوصية"
+
+#: components/Footer/Footer.js:351
+#: pages/privacy-policy.js:28
+msgid "locales.footerLinkPrivacyPolicy"
+msgstr "سياسة خاصة"
+
+#: components/Footer/Footer.js:340
+msgid "locales.footerLinkTerms"
+msgstr "الشروط والأحكام"
+
+#: components/Footer/Footer.js:192
+msgid "locales.footerPlatforms"
+msgstr "المنصة"
+
+#~ msgid "locales.forPaymentError"
+#~ msgstr "فشلت عملية الدفع"
+
+#~ msgid "locales.garantee3"
+#~ msgstr "مؤهل لاسترداد الأموال"
+
+#~ msgid "locales.h1_1"
+#~ msgstr "الخيار الأكثر أمانًا "
+
+#~ msgid "locales.h1_2"
+#~ msgstr "بادر بشراء عملات FC 25"
+
+#~ msgid "locales.h1_coins"
+#~ msgstr "الذهاب إلى متجر EA FC 25 Ultimate Team Store"
+
+#~ msgid "locales.h1_p1"
+#~ msgstr "رفيقك الرئيسي في"
+
+#~ msgid "locales.h1_p2"
+#~ msgstr " متجر EA FC 25 Ultimate Team"
+
+#~ msgid "locales.haveCoupon"
+#~ msgstr "لديك قسيمة"
+
+#~ msgid "locales.header_reviews"
+#~ msgstr "المراجعات"
+
+#~ msgid "locales.hidePassword"
+#~ msgstr "إخفاء كلمة المرور"
+
+#: components/HowDelivery/Howdelivery.js:216
+msgid "locales.hwd"
+msgstr "ما آلية التسليم؟"
+
+#~ msgid "locales.infoBlockText1"
+#~ msgstr "يتمثل هدفنا الرئيسي في تقديم الطريقة الأكثر أمانًا لك لإعادة تعبئة رصيد نادي FUT الخاص بك بسعر منخفض. لا تتضمن أسعارنا أي عمولات أو رسوم خفية. لقد أمضينا أعوامًا لتطوير هذه الخدمة."
+
+#~ msgid "locales.infoBlockText2"
+#~ msgstr "نحن نستخدم نظام مكافحة الحظر الذكي 3.0 الذي يعمل وفقًا لقواعد خاصة. على سبيل المثال، يتضمن نظامنا عملات مكتسبة يدويًا لكل طلب. تضمن هذه القواعد توفير الأمان لنادي FUT الخاص بك بنسبة 100%."
+
+#~ msgid "locales.infoBlockText3"
+#~ msgstr "نحن نقدّر وقتك. يتم تحسين وجهتنا ودعمنا باستمرار لجعل طلباتك تتم بسهولة وبسرعة. بضع نقرات فحسب – وسنتكفل بالباقي."
+
+#~ msgid "locales.infoBlockText4"
+#~ msgstr "إذا لم تتمكن من استخدام العملات بعد الشراء أو إذا كان هناك أي سبب آخر يمنعك من الحصول على العملات لحسابك، فنحن نضمن لك رد أموالك بالكامل."
+
+#~ msgid "locales.infoBlockTitle1"
+#~ msgstr "اختيارك الأول"
+
+#~ msgid "locales.infoBlockTitle2"
+#~ msgstr "التوصيل الأكثر أمانًا"
+
+#~ msgid "locales.infoBlockTitle3"
+#~ msgstr "سريعة وبسيطة"
+
+#~ msgid "locales.infoBlockTitle4"
+#~ msgstr "ضمان استرداد"
+
+#: components/Message/Message.js:29
+#: components/Order/Coupon.js:357
+#: components/Order/Coupon.js:530
+#: components/Package/CheckoutCoupon.js:114
+#: components/Package/CheckoutCoupon.js:366
+#: components/Package/CheckoutCoupon.js:560
+msgid "locales.invalidPromo"
+msgstr "كود ترويجي غير صالح"
+
+#~ msgid "locales.isAlreadyTaken"
+#~ msgstr "هذا مستخدم بالفعل"
+
+#~ msgid "locales.isInvalid"
+#~ msgstr "صالحين"
+
+#~ msgid "locales.lang"
+#~ msgstr "en-GB"
+
+#~ msgid "locales.li1"
+#~ msgstr " قاعدة إدراج البطاقة في سوق التحويل حسب السعر بدلاً من أقصى حد مسموح به وفقًا لنطاق سعر هذه البطاقة"
+
+#~ msgid "locales.li2"
+#~ msgstr " قاعدة تبديل عملية تسليم العملات بعملية الحصول على قيمة البطاقات من الحسابات التي تستخدم فقط التبادل اليدوي لربح العملات"
+
+#~ msgid "locales.li3"
+#~ msgstr " من خلال وجود أكثر من 7000 نادي FUT تحت إمرتنا، نقوم في معظم الطلبات بالحصول على قيمة البطاقات من الأندية التي لم تشترك في عملية تحويل للعملات خلال أسابيع مضت"
+
+#~ msgid "locales.loading"
+#~ msgstr "تحميل"
+
+#~ msgid "locales.login"
+#~ msgstr "المنصة / البريد الإلكتروني"
+
+#~ msgid "locales.logOut"
+#~ msgstr "تسجيل خروج"
+
+#: components/H1/H1.js:20
+msgid "locales.main_h2"
+msgstr "نجعل بناء فريق الأحلام متاحًا للجميع على مدار السنة!"
+
+#~ msgid "locales.manualText"
+#~ msgstr "طريقة التسليم اليدوي التي لا تتطلب أي تفاصيل حساب، ستحتاج معها إلى تحويل العملات بنفسك باستخدام تعليماتنا البسيطة."
+
+#: components/HowDelivery/Howdelivery.js:252
+#: components/MethodChanger/MethodChanger.js:79
+msgid "locales.marketMethodName"
+msgstr "مزاد اللاعب"
+
+#: components/HowItWorks/HowItWorks.js:10
+msgid "locales.marketMethodWhat"
+msgstr "كيفية العمل؟"
+
+#~ msgid "locales.menu"
+#~ msgstr ""
+
+#: pages/delivery.js:28
+msgid "locales.menuLinkDelivery"
+msgstr "التسليم"
+
+#~ msgid "locales.menuLinkDesc"
+#~ msgstr " إلذلك نقوم بتسليم العملات المعدنية في أي وقت من اليوم ، 24/7."
+
+#~ msgid "locales.menuLinkDesc2"
+#~ msgstr "إن نظامنا آلي بالكامل، "
+
+#~ msgid "locales.menuLinkDescDisabled"
+#~ msgstr "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋"
+
+#~ msgid "locales.menulinkfaq"
+#~ msgstr "الأسئلة الشائعة"
+
+#~ msgid "locales.menuLinkFaq"
+#~ msgstr "الأسئلة الشائعة"
+
+#~ msgid "locales.menuLinkOrder"
+#~ msgstr "شراء العملات المعدنية"
+
+#~ msgid "locales.menuLinkReviews"
+#~ msgstr "التعليقات"
+
+#~ msgid "locales.menuOffers"
+#~ msgstr "Offers"
+
+#~ msgid "locales.menuSignIn"
+#~ msgstr "تسجيل الدخول"
+
+#~ msgid "locales.modalSignBtnIn"
+#~ msgstr "تسجيل الدخول"
+
+#: components/BurgerMenu/BurgerMenu.js:482
+msgid "locales.modalSignBtnUp"
+msgstr "اشتراك"
+
+#~ msgid "locales.modalSignEmail"
+#~ msgstr "البريد الإلكتروني"
+
+#~ msgid "locales.modalSignEmail1"
+#~ msgstr "email@address.com"
+
+#: components/BurgerMenu/BurgerMenu.js:399
+msgid "locales.modalSignPassword"
+msgstr "كلمة المرور"
+
+#~ msgid "locales.modalSignSeePassword"
+#~ msgstr "انظر كلمة المرور"
+
+#~ msgid "locales.modalSignSymbols3"
+#~ msgstr "(3 حروف على الأقل)"
+
+#: components/BurgerMenu/BurgerMenu.js:425
+#: components/ChangePassword/ChangePassword.js:251
+msgid "locales.modalSignSymbols8"
+msgstr "(8 حروف على الأقل)"
+
+#~ msgid "locales.modalSignTerms"
+#~ msgstr "<a href=\"/ar/terms/\">البنود والأحكام</a> انقر على \"اشتراك\" أعلاه لقبول "
+
+#: components/BurgerMenu/BurgerMenu.js:442
+msgid "locales.modalSocialForgot"
+msgstr ""
+
+#: components/Auth/Auth.js:99
+msgid "locales.modalSocialLogin"
+msgstr "أو سجل الدخول عبر"
+
+#: components/Auth/Auth.js:125
+#~ msgid "locales.modalSocialLogin}"
+#~ msgstr ""
+
+#: components/BurgerMenu/BurgerMenu.js:450
+#: components/TermsContent/TermsContent.js:15
+msgid "locales.modalSocialLoginCheck"
+msgstr "أوافق على الشروط والأحكام"
+
+#~ msgid "locales.modalSocialLoginFB"
+#~ msgstr "أو سجل الدخول عبر FaceBook"
+
+#: components/Auth/Auth.js:107
+msgid "locales.modalSocialLoginGoogle"
+msgstr "أو سجل الدخول عبر Google"
+
+#: components/Auth/Auth.js:98
+msgid "locales.modalSocialOr"
+msgstr "أو"
+
+#: components/Auth/Auth.js:98
+msgid "locales.modalSocialSigin"
+msgstr "اشترك عبر"
+
+#~ msgid "locales.modalSocialSiginFB"
+#~ msgstr "اشترك عبر FaceBook"
+
+#: components/Auth/Auth.js:109
+msgid "locales.modalSocialSiginGoogle"
+msgstr "اشترك عبر Google"
+
+#~ msgid "locales.modalTabSignIn"
+#~ msgstr "تسجيل الدخول"
+
+#~ msgid "locales.modalTabSignUp"
+#~ msgstr "اشتراك"
+
+#~ msgid "locales.nav.amount"
+#~ msgstr "المبلغ"
+
+#~ msgid "locales.nav.delivery"
+#~ msgstr "التسليم"
+
+#~ msgid "locales.nav.details"
+#~ msgstr "Order details"
+
+#~ msgid "locales.nav.method"
+#~ msgstr "الطريقة"
+
+#~ msgid "locales.nav.payment"
+#~ msgstr "الدفع"
+
+#~ msgid "locales.nav.platform"
+#~ msgstr "المنصة"
+
+#~ msgid "locales.numDay"
+#~ msgstr "#"
+
+#~ msgid "locales.orderCreationError"
+#~ msgstr "خطأ في إنشاء الطلب"
+
+#: components/SpecialOffer/SpecialOffer.js:108
+msgid "locales.orderNow"
+msgstr "اطلب الآن"
+
+#~ msgid "locales.orders"
+#~ msgstr "الطلبات"
+
+#~ msgid "locales.orderUpdateError"
+#~ msgstr "خطأ في تحديث الطلب"
+
+#~ msgid "locales.orWithCrypto"
+#~ msgstr "ادفع بالعملات الرقمية"
+
+#~ msgid "locales.p1"
+#~ msgstr " يتيح لنا ذلك توفر الطريقة الأكثر أمانًا لبيع عملات EA FC 25 على الإنترنت."
+
+#~ msgid "locales.p2"
+#~ msgstr " لاستلام العملات في أسرع وقت ممكن، الرجاء اتباع التعليمات المنشورة على موقعنا الإلكتروني أو المتلقاة من المدير في الدردشة الفورية.\""
+
+#~ msgid "locales.p3"
+#~ msgstr "عند شراء منتجنا الرقمي، يمكنك أن تثق أن أموالك في أمان."
+
+#~ msgid "locales.p4"
+#~ msgstr "لا يمكنك إرجاع أو إلغاء طلب مدفوع."
+
+#: pages/index.js:127
+#~ msgid "locales.pack_descript"
+#~ msgstr "حتى العملاء الأكثر تقدمًا في اللعبة سيسعدون بمكافأة الشراء. احصل عليها اليوم!"
+
+#~ msgid "locales.pageAmountAmountLabel"
+#~ msgstr "المقدار"
+
+#: components/Package/CoinsBlock.js:25
+#: components/PageChanger/PageChanger.js:53
+msgid "locales.pageAmountCoinsLabel"
+msgstr "العملات المعدنية"
+
+#~ msgid "locales.pageAmountName"
+#~ msgstr "مقدار العملات المعدنية"
+
+#~ msgid "locales.pageAmountPriceLabel"
+#~ msgstr "السعر"
+
+#: components/HowDelivery/Howdelivery.js:44
+msgid "locales.pageCoinsAfter"
+msgstr "بعد تسديد المبلغ اللازم للطلب بنجاح، سيتم توجيهك إلى صفحة تتضمن حقلين: البريد الإلكتروني وكلمة المرور. الرجاء كتابة بيانات حساب EA في هذين الحقلين."
+
+#~ msgid "locales.pageCoinsAfterPayment"
+#~ msgstr "بعد الدفع بنجاح، ستتلقى إرشادات شراء بطاقات اللاعبين. ستشتري بطاقات اللاعبين بأسعارها السوقية، وسنشتريها منك في الكثير من الأوقات بأسعار أعلى."
+
+#~ msgid "locales.pageCoinsAfterSuccessfull"
+#~ msgstr "بعد نجاح عملية الدفع، سنطلب منك الوصول إلى حساب EA الخاص بك لمرة واحدة! سنحتاج إلى بريدك الإلكتروني وكلمة المرور والكود الاحتياطي. وباستخدام هذه البيانات، سنسجل الدخول إلى FC 25 Web App لبدء معاملات الشراء والبيع في سوق الانتقالات. سنشتري بطاقات اللاعبين بالقيمة السوقية ثم ندرجها في سوق الانتقالات بسعر أعلى. وبعد ذلك سيشتريها فريق التسليم التابع لنا."
+
+#: components/HowDelivery/Howdelivery.js:97
+msgid "locales.pageCoinsAfterSuccessfully"
+msgstr "بعد سداد المبلغ اللازم لطلبك، ستتم إعادة توجيهك إلى صفحة سنطلب منك فيها تحديد رصيد ناديك، ثم بناءً على ذلك سنعرض عليك لاعبًا لشرائه. وسيتعين عليك شراؤه بما لا يزيد عن السعر المحدد. وبعد ذلك تقوم ببيعه لنا بالسعر الذي نعرضه."
+
+#~ msgid "locales.pageCoinsApply"
+#~ msgstr "تطبيق"
+
+#~ msgid "locales.pageCoinsAutomated"
+#~ msgstr "يتم جزء من عملية نقل العملات من أندية FUT الخاصة بنا إلى أنديتك بشكل تلقائي. إن نظام اللوغاريتمات الذي طورناه في هذا الصدد يطبق عددًا من القواعد من شأنها تأمين حسابك خلال عملية الطلب على موقعنا الإلكتروني. وإذا قررت عدم استخدام الخدمة بعد الدفع، فيمكنك استعادة أموالك بأمان إلى الحساب الذي استخدمته للدفع."
+
+#~ msgid "locales.pageCoinsBeforePurchase"
+#~ msgstr "عند شراء العملات على موقع ROYALFUT الإلكتروني، سيتم توجيهك خطوة بخطوة خلال عملية نقل العملات السهلة عبر واجهة موقعنا الإلكتروني. وقبل الشراء، تأكد من إمكانية وصولك بشكل كامل إلى حساب النادي الذي تطلب العملات له."
+
+#~ msgid "locales.pageCoinsBestPriceIncludes"
+#~ msgstr "السعر الأساسي يشمل:"
+
+#: pages/index.js:126
+#~ msgid "locales.pageCoinsBundles"
+#~ msgstr "حزم العملات"
+
+#~ msgid "locales.pageCoinsBuy"
+#~ msgstr "شراء"
+
+#~ msgid "locales.pageCoinsBuyNow"
+#~ msgstr "بادر الآن بالشراء"
+
+#: components/HowDelivery/Howdelivery.js:96
+msgid "locales.pageCoinsBuyPlayer"
+msgstr "شراء لاعب"
+
+#~ msgid "locales.pageCoinsCancel"
+#~ msgstr "إلغاء"
+
+#~ msgid "locales.pageCoinsCheck"
+#~ msgstr "2. تحقق من طلبك"
+
+#~ msgid "locales.pageCoinsChoose"
+#~ msgstr "3. اختر طريقة الدفع"
+
+#~ msgid "locales.pageCoinsClubBalance"
+#~ msgstr "تحتاج إلى 5000 عملة على الأقل كرصيد في نادي FUT الخاص بك؛"
+
+#~ msgid "locales.pageCoinsComfort"
+#~ msgstr "تتم عملية تسليم العملات من خلال طريقة Comfort Trade بشكل تلقائي بالكامل ولا تتطلب تدخلك. سريعة ومريحة، أليس كذلك؟"
+
+#~ msgid "locales.pageCoinsCompensated"
+#~ msgstr "لن نقوم بنقل أي من البطاقات في ناديك أو بيعها، ولذا تحتاج إلى توفير 5000 عملة على الأقل في رصيدك لبدء المعاملة. من الضروري توفّر هذه الكمية من العملات كي نتمكن من بيع عدة بطاقات لبدء عملية التسليم. سنغطي رسوم EA المطبقة على المبيعات التي تتم من خلال سوق الانتقالات FIFA Transfer Market علاوةً على رصيد العملات المبدئي لناديك"
+
+#~ msgid "locales.pageCoinsCompleteTransactions"
+#~ msgstr "عند شراء العملات على موقع ROYALFUT الإلكتروني، سيتم توجيهك خطوة بخطوة خلال عملية نقل العملات السهلة عبر واجهة موقعنا الإلكتروني. وستحتاج إلى إكمال عدد من المعاملات في سوق الانتقالات Transfer Market من خلال قائمة FIFA داخل اللعبة على جهازك أو من خلال واجهة تطبيق FC 25 Web App / FUT Companion App."
+
+#~ msgid "locales.pageCoinsConditions"
+#~ msgstr "ما الشروط التي يجب الإيفاء بها لاستخدام خدمة التزوّد بالعملات؟"
+
+#~ msgid "locales.pageCoinsConfirm"
+#~ msgstr "تأكيد"
+
+#~ msgid "locales.pageCoinsConfirmOrder"
+#~ msgstr "تأكيد الطلب"
+
+#: components/HowDelivery/Howdelivery.js:100
+msgid "locales.pageCoinsConfirmPlayer"
+msgstr "تأكيد لاعب"
+
+#: components/PriceCouponRedesign/PriceCouponRedesign.js:603
+msgid "locales.pageCoinsCoupon"
+msgstr "لديك قسيمة؟"
+
+#~ msgid "locales.pageCoinsCustomAmount"
+#~ msgstr "Custom Amount"
+
+#~ msgid "locales.pageCoinsCustomAmountLocale"
+#~ msgstr "مبلغ مخصص"
+
+#~ msgid "locales.pageCoinsDeliveringVia"
+#~ msgstr "<strong>التسليم عبر</strong>"
+
+#~ msgid "locales.pageCoinsDelivery"
+#~ msgstr " كوقت تسليم"
+
+#~ msgid "locales.pageCoinsDeliveryMethodName"
+#~ msgstr "طريقة التسليم:"
+
+#~ msgid "locales.pageCoinsDeliveryTime"
+#~ msgstr "كوقت تسليم"
+
+#~ msgid "locales.pageCoinsDiscount"
+#~ msgstr "خصم"
+
+#~ msgid "locales.pageCoinsDiscounted"
+#~ msgstr "ينطبق خصم!"
+
+#~ msgid "locales.pageCoinsDiscounts"
+#~ msgstr "الخصم (_%):"
+
+#: components/HowDelivery/Howdelivery.js:70
+msgid "locales.pageCoinsDoNotEnter"
+msgstr "لا تدخل إلى اللعبة أثناء التسليم. سيتم إعلامك عن طريق البريد الإلكتروني عند اكتمال العملية. اتصل بمدير الدعم للتحقق من وقت تنفيذ طلبك."
+
+#~ msgid "locales.pageCoinsEaAccount"
+#~ msgstr " <a href =\"https://myaccount.ea.com/cp-ui/security/index\" class=\"coins-description__text--under\"> إعدادات حساب EA</a> استخدم الأكواد الاحتياطية المخصصة لمرة واحدة فقط من "
+
+#~ msgid "locales.pageCoinsEasy"
+#~ msgstr "آليات تزويد نادي FUT بالعملات تتسم بالنزاهة التامة: شراء بطاقة -> بيع بطاقة -> التكرار. هل هناك أسهل من ذلك؟"
+
+#~ msgid "locales.pageCoinsEditOrder"
+#~ msgstr "تعديل الطلب"
+
+#~ msgid "locales.pageCoinsEditOrders"
+#~ msgstr "تعديل الطلب"
+
+#: components/HowDelivery/Howdelivery.js:73
+#: components/HowDelivery/Howdelivery.js:108
+msgid "locales.pageCoinsEnjoy"
+msgstr "استمتع بلعبتك!"
+
+#~ msgid "locales.pageCoinsEnterAmount"
+#~ msgstr "أدخل المبلغ"
+
+#: components/HowDelivery/Howdelivery.js:77
+#: components/HowDelivery/Howdelivery.js:112
+msgid "locales.pageCoinsFeedback"
+msgstr "عند اكتمال الطلب، الرجاء كتابة "
+
+#: components/Purchase/Purchase.js:364
+msgid "locales.pageCoinsFifa"
+msgstr "EA FC عملات "
+
+#: components/Package/CoinsBlock.js:37
+msgid "locales.pageCoinsFifaCoins"
+msgstr "عملات FC"
+
+#: components/HowDelivery/Howdelivery.js:43
+msgid "locales.pageCoinsFill"
+msgstr "اكتب البيانات المطلوبة"
+
+#: components/HowDelivery/Howdelivery.js:47
+msgid "locales.pageCoinsFillBackup"
+msgstr "املأ حقل الكود الاحتياطي"
+
+#~ msgid "locales.pageCoinsFindVideo"
+#~ msgstr "ستجد في الجزء السفلي من الصفحة فيديو يوضح عملية تزويد رصيد FUT بالعملات باستخدام طريقة التسليم Player Auction."
+
+#: components/HowDelivery/Howdelivery.js:105
+msgid "locales.pageCoinsFirstPart"
+msgstr "انتهى الجزء الأول من عملية النقل والآن عليك تكرار الخطوات التالية عدة مرات حسب الضرورة حتى يكتمل طلبك."
+
+#~ msgid "locales.pageCoinsFor"
+#~ msgstr "<strong> مقابل</strong>"
+
+#~ msgid "locales.pageCoinsGarantee"
+#~ msgstr "ضمان لمدة 3 أيام ضد الحظر والتصفير"
+
+#~ msgid "locales.pageCoinsGuaranteeSafe"
+#~ msgstr "نستطيع بهذه الطريقة ضمان أمان حسابك بنسبة 100%."
+
+#~ msgid "locales.pageCoinsH"
+#~ msgstr "(X)-(Y) ساعة"
+
+#~ msgid "locales.pageCoinsHaveNice"
+#~ msgstr "نتمنى لك تجربة تسوق ممتعة داخل اللعبة!"
+
+#~ msgid "locales.pageCoinsHello"
+#~ msgstr "سلام!"
+
+#~ msgid "locales.pageCoinsHowDelivery"
+#~ msgstr "كيف سيتم التسليم؟"
+
+#~ msgid "locales.pageCoinsHowWillDelivery"
+#~ msgstr "كيف سيتم التسليم؟"
+
+#~ msgid "locales.pageCoinsImportant"
+#~ msgstr "<b>مهم!</b> "
+
+#~ msgid "locales.pageCoinsInform"
+#~ msgstr "بعد إكمال البيانات، سنبدأ في معالجة طلبك، الأمر الذي سيستغرق منا بعض الوقت (سيتم تحديد وقت التسليم المُقدَّر قبل الدفع). إلا أنه في حال عدم صحة اسم المستخدم أو كلمة المرور المقدمين إلينا أو وجود مشكلة أخرى تعوق وصولنا إلى حسابك، فسنخبرك بذلك في الحال عبر البريد الإلكتروني."
+
+#~ msgid "locales.pageCoinsLockedMarket"
+#~ msgstr "في حال قفل سوق الانتقالات Transfer Market في تطبيق FUT Web App، غيّر طريقة التسليم إلى \"Player Auction\"."
+
+#~ msgid "locales.pageCoinsLogin"
+#~ msgstr "تسجيل الدخول"
+
+#~ msgid "locales.pageCoinsLogOut"
+#~ msgstr "تسجيل الخروج"
+
+#~ msgid "locales.pageCoinsM"
+#~ msgstr "(X)-(Y) دقيقة"
+
+#~ msgid "locales.pageCoinsNeed1000"
+#~ msgstr "ثمة شرط واحد يجب الإيفاء به: تحتاج إلى 1000 عملة على الأقل كرصيد في نادي FUT الخاص بك."
+
+#~ msgid "locales.pageCoinsNotifiedEmail"
+#~ msgstr "سنتواصل معك عبر البريد الإلكتروني بمجرد الانتهاء من طلبك. نتمنى لك تجربة تسوق ممتعة داخل اللعبة!"
+
+#~ msgid "locales.pageCoinsOffers"
+#~ msgstr "أوامر محددة مسبقًا"
+
+#~ msgid "locales.pageCoinsPaymentFee"
+#~ msgstr "رسوم الدفع:"
+
+#~ msgid "locales.pageCoinsPlatform"
+#~ msgstr "الجهاز"
+
+#~ msgid "locales.pageCoinsPlatform1"
+#~ msgstr "Sony PlayStation 4 وPlayStation 5"
+
+#~ msgid "locales.pageCoinsPlatform2"
+#~ msgstr "Xbox One وXbox Series S، Xbox Series X"
+
+#~ msgid "locales.pageCoinsPrevPage"
+#~ msgstr "الصفحة السابقة"
+
+#~ msgid "locales.pageCoinsPrice"
+#~ msgstr "الصفحة السابقة"
+
+#~ msgid "locales.pageCoinsProcessAutomated"
+#~ msgstr "تتم عملية نقل العملات من أندية FUT الخاصة بنا إلى أنديتك بشكل تلقائي بالكامل. إن نظام اللوغاريتمات الذي طورناه في هذا الصدد يطبق عددًا من القواعد من شأنها تأمين حسابك خلال عملية الطلب على موقعنا الإلكتروني. ونقدم لك فترة ضمان لمدة 3 أيام يمكنك خلالها استرداد أموالك إلى الحساب الذي استخدمته للدفع، وذلك في حال فرض عقوبات عليك من قِبل ناشر اللعبة خلال ثلاثة أيام من إكمال طلبك. وفي هذه الحالة، اتصل فورًا بنا وأخبرنا برقم طلبك والسبب لنبدأ عملية الاسترداد."
+
+#~ msgid "locales.pageCoinsReceive"
+#~ msgstr "كيف تستلم العملات؟"
+
+#~ msgid "locales.pageCoinsRefund"
+#~ msgstr "ضمان استرداد الأموال إن لم تتمكن من استخدام العملات"
+
+#~ msgid "locales.pageCoinsRegister"
+#~ msgstr "1. اشترك أو سجِّل الدخول إلى حساب ROYALFUT الخاص بك"
+
+#: components/HowDelivery/Howdelivery.js:104
+msgid "locales.pageCoinsRepeatUntil"
+msgstr "كرر حتى اكتمال النقل"
+
+#~ msgid "locales.pageCoinsSignUp"
+#~ msgstr "الاشتراك"
+
+#~ msgid "locales.pageCoinsStep"
+#~ msgstr "سيتم تقديم وصف تفصيلي لكل الخطوات قبل تزويد رصيد نادي FIFA Ultimate Team الخاص بك بالعملات، ولذلك لن تحتار أبدًا :)"
+
+#: components/Package/CheckoutSticky.js:384
+msgid "locales.pageCoinsSubtotal"
+msgstr "المجموع الجزئي:"
+
+#~ msgid "locales.pageCoinsText"
+#~ msgstr "بادر بشراء العملات وأنفقها على بطاقات اللاعبين أو الباقات في FIFA Ultimate Team. اللاعبين فرصة شراء بطاقات اللاعبين العالية القيمة المختلفة في <span class=\"js-change-platform\">$ {platforms}</span> تمنح عملات.  انتبه: إذا كنت تلعب على جهاز مختلف، فغيّر طلبك في الحال. <span class=\"js-change-platform\">$ {platforms}</span> الخدمة مقدمة لمستخدمي هذه FUT أو الاستمتاع بفتح الباقات!"
+
+#: components/HowDelivery/Howdelivery.js:101
+msgid "locales.pageCoinsThenConfirm"
+msgstr "ثم تؤكد أن اللاعب جاهز للمزاد ونسألك أي لاعب هو ملك لك. لفهم أي من اللاعبين هو ملك لك، يمكنك مقارنة الوقت حتى نهاية المزاد."
+
+#: components/HowDelivery/Howdelivery.js:23
+#: components/HowDelivery/Howdelivery.js:51
+msgid "locales.pageCoinsToStart"
+msgstr "لبدء عملية التسليم، املأ الحقول ذات الصلة بالأكواد الاحتياطية، والتي يمكن العثور عليها هنا: "
+
+#~ msgid "locales.pageCoinsTotal"
+#~ msgstr "الإجمالي"
+
+#~ msgid "locales.pageCoinsTotaltotal"
+#~ msgstr "الإجمالي:"
+
+#~ msgid "locales.pageCoinsToTheCheckout"
+#~ msgstr "إلى صفحة الدفع"
+
+#~ msgid "locales.pageCoinsTransferMarket"
+#~ msgstr "تحتاج إلى فتح سوق الانتقالات Transfer Market في تطبيق FC 25 Web App (لطريقة التسليم Comfort Trade فقط)."
+
+#~ msgid "locales.pageCoinsUltimateTeam"
+#~ msgstr "<span class=\"js-change-coins\">عملات $ {coins}</span> FIFA Ultimate Team"
+
+#~ msgid "locales.pageCoinsUseInstructions"
+#~ msgstr "يتم إجراء كل العمليات بتوافق تام مع الإرشادات التفاعلية على موقعنا الإلكتروني مع استخدام قائمة FIFA داخل اللعبة على جهازك أو واجهة تطبيق FC 25 Web App / FUT Companion App."
+
+#~ msgid "locales.pageCoinsUseService"
+#~ msgstr "لاستخدام الخدمة، تحتاج إلى الإيفاء بشرطين فقط:"
+
+#: components/HowDelivery/Howdelivery.js:69
+msgid "locales.pageCoinsWaitCompletion"
+msgstr "انتظر اكتمال طلبك"
+
+#~ msgid "locales.pageCoinsYourPlatform"
+#~ msgstr "جهازك:"
+
+#~ msgid "locales.pageDeliveryContent1Email"
+#~ msgstr "البريد الإلكتروني"
+
+#~ msgid "locales.pageDeliveryContent1Name"
+#~ msgstr "أدخل بيانات حساب EA الخاص بك"
+
+#~ msgid "locales.pageDeliveryContent1Next"
+#~ msgstr "التالي"
+
+#~ msgid "locales.pageDeliveryContent1Password"
+#~ msgstr "كلمة المرور"
+
+#~ msgid "locales.pageDeliveryContent1SeePassword"
+#~ msgstr "انظر كلمة المرور"
+
+#~ msgid "locales.pageDeliveryContent1Text"
+#~ msgstr "لقد اخترت الطريقة السهلة. ويعني هذا أننا سنبيع اللاعبين نيابةً عنك. <br>ولن نستخدم حسابك إلا لترتيب الانتقالات وليس لأي غرض آخر. <br>بعد إكمال طلبك، نوصيك بتغيير كلمة مرور حسابك."
+
+#~ msgid "locales.pageDeliveryContent2Code"
+#~ msgstr "إدخال الكود"
+
+#~ msgid "locales.pageDeliveryContent2CodePlaceholder"
+#~ msgstr "الأكواد الاحتياطية"
+
+#~ msgid "locales.pageDeliveryContent2Name"
+#~ msgstr "أدخل الكود المكون من 8 أرقام"
+
+#~ msgid "locales.pageDeliveryContent2Next"
+#~ msgstr "التالي"
+
+#~ msgid "locales.pageDeliveryContent2Text"
+#~ msgstr "يمكنك الحصول على هذا الكود على <a href=\"https://myaccount.ea.com/cp-ui/security/index\" rel=\"noindex, nofollow\" target=\"_blank\">myaccount.ea.com</a> في صفحة \"الأمان\" في قسم الأكواد الاحتياطية"
+
+#~ msgid "locales.pageDeliveryContent3Name"
+#~ msgstr "باستخدام حسابك"
+
+#~ msgid "locales.pageDeliveryContent3Process1"
+#~ msgstr "لا تستخدم حسابك أثناء التحويل"
+
+#~ msgid "locales.pageDeliveryContent3Process2"
+#~ msgstr "يمكنك مغادرة هذه الصفحة. سنرسل إليك رسالة إلكترونية عند إكمال الطلب."
+
+#~ msgid "locales.pageDeliveryContentButtonReload"
+#~ msgstr "لنبدأ التحويل!"
+
+#~ msgid "locales.pageDeliveryFormSuccess"
+#~ msgstr "تم شحن الطلب، حالة الطلب <span class=\"status\"></span>"
+
+#~ msgid "locales.pageDeliveryFormSuccessBtn"
+#~ msgstr "عرض الطلب"
+
+#~ msgid "locales.pageDeliveryName"
+#~ msgstr "جارٍ تسليم <div class=\"site__tab-name-content\">طلبك رقم<span></span></div>"
+
+#~ msgid "locales.pageDeliveryTab1"
+#~ msgstr "\"حساب<br class=\"for-mobile\"> اللعب"
+
+#~ msgid "locales.pageDeliveryTab2"
+#~ msgstr "الأكواد<br class=\"for-mobile\"> الاحتياطية"
+
+#~ msgid "locales.pageDeliveryTab3"
+#~ msgstr "المعالجة"
+
+#~ msgid "locales.pageDeliveryTab4"
+#~ msgstr "تم"
+
+#~ msgid "locales.pageMethodCard1Name"
+#~ msgstr "التداول المريح"
+
+#~ msgid "locales.pageMethodCard1Text"
+#~ msgstr "لا يلزم إلا معلومات حساب FUT 22 الخاص بك. ونحن نتكفل بالباقي نيابةً عنك. (اختر)"
+
+#~ msgid "locales.pageMethodCard2Name"
+#~ msgstr "مزاد اللاعب"
+
+#~ msgid "locales.pageMethodCard2Text"
+#~ msgstr "ليتعين عليك اتباع التعليمات التي نقدمها. طريقة سريعة وآمنة ولكن يدوية"
+
+#~ msgid "locales.pageMethodCard2Text2"
+#~ msgstr "لا يعمل مع الطلبات التي تزيد عن 1 مليون قطعة نقدية"
+
+#: components/PageChanger/PageChanger.js:92
+msgid "locales.pageMethodCardSoon"
+msgstr "قريبًا"
+
+#~ msgid "locales.pageMethodName"
+#~ msgstr "طريقة التسليم"
+
+#~ msgid "locales.pageMethodRecomend"
+#~ msgstr "موصى به"
+
+#~ msgid "locales.pageOrderNext"
+#~ msgstr "متابعة"
+
+#~ msgid "locales.pagePaymentMethodAntiBan"
+#~ msgstr "Anti-Ban system"
+
+#~ msgid "locales.pagePaymentMethodAntiBanLocale"
+#~ msgstr "نظام منع الحظر"
+
+#~ msgid "locales.pagePaymentMethodCard3d"
+#~ msgstr "بطاقة + حماية ثلاثية الأبعاد"
+
+#~ msgid "locales.pagePaymentMethodCheckout"
+#~ msgstr "إلى صفحة الدفع"
+
+#~ msgid "locales.pagePaymentMethodCoupon"
+#~ msgstr "القسيمة"
+
+#~ msgid "locales.pagePaymentMethodCouponApply"
+#~ msgstr "استخدم القسيمة"
+
+#~ msgid "locales.pagePaymentMethodCouponHave"
+#~ msgstr "لديك قسيمة"
+
+#~ msgid "locales.pagePaymentMethodDelivery"
+#~ msgstr "وقت التسليم سا1 إلى 2عتين"
+
+#~ msgid "locales.pagePaymentMethodGuarantee"
+#~ msgstr "ضمان لمدة 3 أيام"
+
+#~ msgid "locales.pagePaymentMethodMore"
+#~ msgstr "المزيد من طرق الدفع"
+
+#: pages/payments.js:28
+msgid "locales.pagePaymentMethodName"
+msgstr "الدفع"
+
+#~ msgid "locales.pagePaymentMethodPay"
+#~ msgstr "الدفع بالبطاقة"
+
+#~ msgid "locales.pagePaymentMethodPayOther"
+#~ msgstr "دفع مع شيء"
+
+#~ msgid "locales.pagePaymentMethodPayPal"
+#~ msgstr "الدفع عن طريق PayPal"
+
+#: components/Garantee/Garantee.js:74
+msgid "locales.pagePaymentMethodSafe"
+msgstr "مدفوعات آمنة بنسبة 100%"
+
+#~ msgid "locales.pagePaymentMethodTaxesCovered"
+#~ msgstr "Taxes covered"
+
+#~ msgid "locales.pagePaymentMethodTaxesCoveredLocale"
+#~ msgstr "الضرائب مشمولة"
+
+#: pages/coins/index.js:147
+msgid "locales.pagePaymentMethodTitle"
+msgstr "عروض الباقات"
+
+#~ msgid "locales.pagePaymentMethodTotalAmount"
+#~ msgstr "المبلغ الإجمالي"
+
+#~ msgid "locales.pagePlatformMark"
+#~ msgstr "جديد!"
+
+#~ msgid "locales.pagePlatformName"
+#~ msgstr "جهاز"
+
+#~ msgid "locales.pagePlatformName2"
+#~ msgstr "جهاز"
+
+#: components/Profile/Profile.js:192
+msgid "locales.password"
+msgstr "كلمة المرور"
+
+#~ msgid "locales.payment_p1"
+#~ msgstr "يقبل الدفع باليورو. وحدهم المستخدمون المسجلون من يمكنهم الدفع على الموقع الإلكتروني."
+
+#~ msgid "locales.payment_p2_1"
+#~ msgstr "يتم تنظيم المدفوعات عبر نظامي الدفع الدوليين "
+
+#~ msgid "locales.payment_p2_2"
+#~ msgstr " و"
+
+#~ msgid "locales.payment_p2_3"
+#~ msgstr ". يعمل نظامنا مع جميع المدفوعات التي تم إجراؤها باستخدام البطاقات المصرفية، بغض النظر عن بلدك أو البنك الذي تم إصدار البطاقة منه. عند الدفع مقابل طلب، يمكنك اختيار طريقة الدفع الأنسب لك."
+
+#: components/Auth/Auth copy 2.js:113
+#: components/Auth/Auth.js:168
+#~ msgid "locales.paymentsLanguage"
+#~ msgstr "ar-EG"
+
+#: components/Order/StickySecondStep.js:445
+#: components/Order/StickySecondStep.js:454
+#: components/Package/CheckoutSticky.js:502
+#: components/Package/CheckoutSticky.js:510
+#: components/Purchase/Purchase.js:609
+#: components/Purchase/Purchase.js:631
+msgid "locales.payNow"
+msgstr "الدفع الآن"
+
+#: components/Order/StepSecondContent.js:49
+#: components/Package/Checkout.js:23
+#: pages/coins/[id].js:301
+#: pages/coins/index.js:155
+msgid "locales.platform"
+msgstr "المنصة"
+
+#~ msgid "locales.platformLogin"
+#~ msgstr "Platform / Login"
+
+#~ msgid "locales.platformName"
+#~ msgstr "Your platform:"
+
+#~ msgid "locales.price"
+#~ msgstr "السعر"
+
+#: components/PrivacyContent/PrivacyContent.js:34
+msgid "locales.privacya1"
+msgstr "تكون الموافقة سارية المفعول من لحظة قيام الشخص المالك للبيانات الشخصية بالتسجيل في موقع "
+
+#: components/PrivacyContent/PrivacyContent.js:46
+msgid "locales.privacya2"
+msgstr "إذا كنت تريد حذف حساب RoyalFUT الخاص بك، فالرجاء إرسال طلبك إلى "
+
+#: components/BurgerMenu/BurgerMenu.js:302
+msgid "locales.profile"
+msgstr "ملف التعريف"
+
+#~ msgid "locales.profileCodesErrors"
+#~ msgstr "يُرجى إدخال الأكواد الاحتياطية. يجب أن يكون الكود 8 حروف على الأقل"
+
+#~ msgid "locales.profileFormSuccess"
+#~ msgstr "يتم تغيير النظام ، والحالة"
+
+#~ msgid "locales.profileNotify"
+#~ msgstr "جارٍ تسليم طلبك رقم xxxxx"
+
+#~ msgid "locales.quick_order"
+#~ msgstr "الطلب السريع"
+
+#~ msgid "locales.reportProblem"
+#~ msgstr "الإبلاغ عن مشكلة"
+
+#: components/ReviewsGallery/ReviewsGallery.js:91
+msgid "locales.reviews"
+msgstr " عدد المراجعات "
+
+#: components/TableOrders/TableOrderBody.js:779
+#: components/TableOrders/TableOrderBody.js:808
+msgid "locales.saveChanges"
+msgstr "حفظ التغييرات"
+
+#: components/BurgerMenu/BurgerMenu.js:409
+#: components/TableOrders/TableOrderBody.js:330
+#: components/TableOrders/TableOrderBody.js:558
+msgid "locales.seePassword"
+msgstr "انظر كلمة المرور"
+
+#~ msgid "locales.seo0"
+#~ msgstr "لدينا أفضل الصفقات على عملات FIFA الخاصة بجهاز PlayStation 4. نحن نقدم عملات FIFA PS4 الرخيصة مع التسليم عالي السرعة ونضمن أمان حسابك دون رسوم."
+
+#~ msgid "locales.seo1"
+#~ msgstr "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لجهاز PS4 منّا مع الثقة في الحصول على أفضل صفقة."
+
+#~ msgid "locales.seo10"
+#~ msgstr "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لأجهزة Xbox Series X/S منّا مع الثقة في الحصول على أفضل صفقة."
+
+#~ msgid "locales.seo11"
+#~ msgstr "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل Xbox الخاصة بك؟ تواصل معنا بأي طريقة تريدها."
+
+#~ msgid "locales.seo2"
+#~ msgstr "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل PlayStation الخاصة بك؟ تواصل معنا بأي طريقة تريدها."
+
+#~ msgid "locales.seo3"
+#~ msgstr "لدينا أفضل الصفقات على عملات FIFA الخاصة بجهاز PlayStation 5. نحن نقدم عملات FIFA PS5 الرخيصة مع التسليم عالي السرعة ونضمن أمان حسابك دون رسوم."
+
+#~ msgid "locales.seo4"
+#~ msgstr "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لجهاز PS5 منّا مع الثقة في الحصول على أفضل صفقة."
+
+#~ msgid "locales.seo5"
+#~ msgstr "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل PlayStation الخاصة بك؟ تواصل معنا بأي طريقة تريدها."
+
+#~ msgid "locales.seo6"
+#~ msgstr "لدينا أفضل الصفقات على عملات FIFA الخاصة بجهاز Xbox One. نحن نقدم عملات FIFA الرخيصة مع التسليم عالي السرعة ونضمن أمان حسابك دون رسوم."
+
+#~ msgid "locales.seo7"
+#~ msgstr "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لجهاز Xbox 1 منّا مع الثقة في الحصول على أفضل صفقة."
+
+#~ msgid "locales.seo8"
+#~ msgstr "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل Xbox الخاصة بك؟ تواصل معنا بأي طريقة تريدها."
+
+#~ msgid "locales.seo9"
+#~ msgstr "لدينا أفضل الصفقات على عملات FIFA الخاصة بـ Xbox Series X. كما نقدم عملات FIFA رخيصة لأجهزة Xbox Series S مع سرعة تسليم عالية ونضمن أمان حسابك دون رسوم."
+
+#~ msgid "locales.seot1_ps4"
+#~ msgstr "لدينا أفضل الصفقات على عملات FIFA الخاصة بجهاز PlayStation 4. نحن نقدم عملات FIFA PS4 الرخيصة مع التسليم عالي السرعة ونضمن أمان حسابك دون رسوم."
+
+#~ msgid "locales.seot1_ps5"
+#~ msgstr "لدينا أفضل الصفقات على عملات FIFA الخاصة بجهاز PlayStation 5. نحن نقدم عملات FIFA PS5 الرخيصة مع التسليم عالي السرعة ونضمن أمان حسابك دون رسوم."
+
+#~ msgid "locales.seot1_xb"
+#~ msgstr "لدينا أفضل الصفقات على عملات FIFA الخاصة بجهاز Xbox One. نحن نقدم عملات FIFA الرخيصة مع التسليم عالي السرعة ونضمن أمان حسابك دون رسوم."
+
+#~ msgid "locales.seot1_xbxs"
+#~ msgstr "لدينا أفضل الصفقات على عملات FIFA الخاصة بـ Xbox Series X. كما نقدم عملات FIFA رخيصة لأجهزة Xbox Series S مع سرعة تسليم عالية ونضمن أمان حسابك دون رسوم."
+
+#~ msgid "locales.seot2_ps4"
+#~ msgstr "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لجهاز PS4 منّا مع الثقة في الحصول على أفضل صفقة."
+
+#~ msgid "locales.seot2_ps5"
+#~ msgstr "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لجهاز PS5 منّا مع الثقة في الحصول على أفضل صفقة."
+
+#~ msgid "locales.seot2_xb"
+#~ msgstr "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لجهاز Xbox 1 منّا مع الثقة في الحصول على أفضل صفقة."
+
+#~ msgid "locales.seot2_xbxs"
+#~ msgstr "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لأجهزة Xbox Series X/S منّا مع الثقة في الحصول على أفضل صفقة."
+
+#~ msgid "locales.seot3_ps4"
+#~ msgstr "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل PlayStation الخاصة بك؟ تواصل معنا بأي طريقة تريدها."
+
+#~ msgid "locales.seot3_ps5"
+#~ msgstr "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل PlayStation الخاصة بك؟ تواصل معنا بأي طريقة تريدها."
+
+#~ msgid "locales.seot3_xb"
+#~ msgstr "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل Xbox الخاصة بك؟ تواصل معنا بأي طريقة تريدها."
+
+#~ msgid "locales.seot3_xbxs"
+#~ msgstr "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل Xbox الخاصة بك؟ تواصل معنا بأي طريقة تريدها."
+
+#: components/Profile/Profile.js:160
+msgid "locales.settings"
+msgstr "الإعدادات"
+
+#~ msgid "locales.sidebarAllLink"
+#~ msgstr "جميع التقييمات"
+
+#~ msgid "locales.sidebarTitle"
+#~ msgstr "أحدث التقييمات"
+
+#~ msgid "locales.sidebarTrust"
+#~ msgstr "en-GB"
+
+#~ msgid "locales.sidebarTrustWidth"
+#~ msgstr "236px"
+
+#~ msgid "locales.specOfferTitle"
+#~ msgstr "لا تفوّت عرضنا الخاص"
+
+#: pages/coins/index.js:250
+#: pages/coins/index.js:337
+msgid "locales.startSave"
+msgstr "ابدأ في توفير الكثير من الوقت باستخدام الأداة الجديدة تمامًا من أصدقائنا!"
+
+#: components/TableOrders/StatusInfo.js:19
+msgid "locales.status"
+msgstr "الحالة"
+
+#~ msgid "locales.status.accepted"
+#~ msgstr "مقبول"
+
+#~ msgid "locales.status.created"
+#~ msgstr "إنشاء"
+
+#~ msgid "locales.status.customer_online"
+#~ msgstr "حساب FIFA قيد الاستخدام حاليًا"
+
+#~ msgid "locales.status.error_fut"
+#~ msgstr "FUT خطأ"
+
+#~ msgid "locales.status.error_payment"
+#~ msgstr "فشلت عملية الدفع"
+
+#~ msgid "locales.status.finished"
+#~ msgstr "مكتمل"
+
+#~ msgid "locales.status.fut_error"
+#~ msgstr "FUT خطأ"
+
+#~ msgid "locales.status.issued_refund"
+#~ msgstr "ألغيت"
+
+#~ msgid "locales.status.locked"
+#~ msgstr "مقفل"
+
+#~ msgid "locales.status.no_access_to_fifa_21_webapp"
+#~ msgstr "لا يمكن الوصول إلى تطبيق EA FC 25 على الويب"
+
+#~ msgid "locales.status.no_enough_coins_to_start"
+#~ msgstr "عملات معدنية غير كافية للبدء"
+
+#~ msgid "locales.status.no_enough_stock"
+#~ msgstr "عملات معدنية غير كافية للبدء"
+
+#~ msgid "locales.status.not_enough_coins_to_start"
+#~ msgstr "عملات معدنية غير كافية للبدء"
+
+#~ msgid "locales.status.not_enough_stock"
+#~ msgstr "عملات معدنية غير كافية للبدء"
+
+#~ msgid "locales.status.out_of_stock"
+#~ msgstr "غير متوفر"
+
+#~ msgid "locales.status.payed"
+#~ msgstr "مدفوع"
+
+#~ msgid "locales.status.payment_failed"
+#~ msgstr "فشلت عملية الدفع"
+
+#~ msgid "locales.status.progress"
+#~ msgstr "قيد التنفيذ"
+
+#~ msgid "locales.status.success"
+#~ msgstr "النجاح"
+
+#~ msgid "locales.status.waiting_payment"
+#~ msgstr "في انتظار السداد"
+
+#~ msgid "locales.status.warning"
+#~ msgstr "تحذير"
+
+#~ msgid "locales.status.wrong_backup"
+#~ msgstr "كود احتياطي خاطئ"
+
+#~ msgid "locales.status.wrong_credentials"
+#~ msgstr "بيانات اعتماد خاطئة"
+
+#~ msgid "locales.sublogo"
+#~ msgstr "عملات EA FC 25"
+
+#~ msgid "locales.sublogo2"
+#~ msgstr "عناصر EA FC 25"
+
+#~ msgid "locales.succPaid"
+#~ msgstr "تم الدفع مقابل طلبك بنجاح!"
+
+#: components/TermsContent/TermsContent.js:18
+msgid "locales.terms_text"
+msgstr "تُرجى قراءة اتفاقية المستخدم التالية بعناية. إذا لم تقبل أيًّا من البنود الواردة في اتفاقية المستخدم هذه، فليس لديك الحق في تأكيد تسجيلك أو استخدام أيّ خدمات يتم تقديمها عن طريق موقع https://royalfut.com أو بيع البضائع أو شرائها أو تبادلها عن طريق هذه المنصة التجارية."
+
+#: components/TermsContent/TermsContent.js:53
+msgid "locales.termsa1"
+msgstr "الشروط والأحكام من 01.10.2020 (01.10.2020 - 07.02.2021)"
+
+#: components/TermsContent/TermsContent.js:63
+msgid "locales.termsa2"
+msgstr "الشروط والأحكام من 08.02.2021 (08.02.2021 - 03.06.2021)"
+
+#: components/TermsContent/TermsContent.js:73
+msgid "locales.termsa3"
+msgstr "سياسة الخصوصية من 01.10.2020 (01.10.2020 - 07.02.2021)"
+
+#~ msgid "locales.toDay"
+#~ msgstr "اليوم"
+
+#~ msgid "locales.totsPromoText"
+#~ msgstr " <span class=\"color\"><b> خصم %18-</b> على رسوم الصفقات - </span> استخدم الرمز الترويجي: <b>TOTSY</b>فريق الموسم"
+
+#: components/TableOrders/StatusInfo.js:117
+#: components/TableOrders/TableItem.js:846
+msgid "locales.transferred"
+msgstr "تم نقل العملات"
+
+#: components/HowDelivery/Howdelivery.js:85
+#: components/HowDelivery/Howdelivery.js:120
+msgid "locales.trustcom"
+msgstr " ملاحظاتك ."
+
+#~ msgid "locales.trySbc"
+#~ msgstr "جرب SBC Solver مجانًا الآن!"
+
+#: pages/index.js:117
+#~ msgid "locales.tryThese"
+#~ msgstr "جرّب هذه الخيارات أيضًا"
+
+#: components/HowDelivery/Howdelivery.js:34
+#: components/HowDelivery/Howdelivery.js:63
+msgid "locales.unused"
+msgstr " . لا نحتاج إلا إلى رمز واحد غير مستخدم لبدء عملية تسليم طلبك."
+
+#: components/Profile/Profile.js:208
+msgid "locales.update"
+msgstr "تحديث"
+
+#~ msgid "locales.upto1m"
+#~ msgstr "ما يصل إلى مليون عملة"
+
+#: components/TermsContent/TermsContent.js:21
+msgid "locales.user_agreement"
+msgstr "اتفاقية المستخدم"
+
+#: components/TableOrders/TableOrderBody.js:746
+msgid "locales.wrong_backup"
+msgstr "كود احتياطي خاطئ"
+
+#~ msgid "locales.wrongCode"
+#~ msgstr "كود احتياطي خاطئ"
+
+#~ msgid "locales.wrongCredentials"
+#~ msgstr "بيانات اعتماد خاطئة"
+
+#~ msgid "locales.yesterDay"
+#~ msgstr "أمس"
+
+#~ msgid "locales.youLogged"
+#~ msgstr "لقد سجلت الدخول بنجاح باسم"
+
+#: components/Profile/RoyalRanging.js:1422
+#: components/Profile/RoyalRanging.js:1452
+msgid "locked"
+msgstr "مقفل"
+
+#: components/Profile/Profile.js:171
+msgid "loyalty program"
+msgstr "برنامج الولاء"
+
+#: components/Carusel/Carusel.js:109
+#: components/Carusel/Carusel.js:139
+msgid "mainblocks0"
+msgstr "شكّل فريق أحلامك الآن"
+
+#: components/Carusel/Carusel.js:110
+#: components/Carusel/Carusel.js:140
+msgid "mainblocks1"
+msgstr "مع عملات EA Sports FC 25، يمكنك اختيار أفضل الخيارات الممكنة لكل مركز في فرقتك. أطلق العنان لخيالك وجرب أشياء جديدة. عش تجربة شائقة!"
+
+#: components/Carusel/Carusel.js:87
+#: components/Modal/Modal.js:169
+#: components/Package/IdCard.js:135
+#: components/Package/PackageCard.js:144
+#: pages/coins/index.js:234
+#: pages/coins/index.js:321
+msgid "mainblocks10"
+msgstr "شراء العملات"
+
+#: components/FaqMain/FaqMain.js:159
+msgid "mainblocks11"
+msgstr "هل لديك المزيد من الأسئلة؟"
+
+#: components/Footer/Footer.js:102
+msgid "mainblocks12"
+msgstr "قنواتنا الاجتماعية"
+
+#~ msgid "mainblocks13"
+#~ msgstr "مورد"
+
+#~ msgid "mainblocks14"
+#~ msgstr "عملات وخدمات EA FC 25"
+
+#~ msgid "mainblocks15"
+#~ msgstr "الخاص بك"
+
+#: components/H1/H1.js:10
+msgid "mainblocks16"
+msgstr "مكانك المفضل"
+
+#: components/H1/H1.js:13
+msgid "mainblocks17"
+msgstr "لشراء عملات"
+
+#: components/H1/H1.js:16
+msgid "mainblocks18"
+msgstr "وخدمات FC 25"
+
+#~ msgid "mainblocks19"
+#~ msgstr "فريق"
+
+#: components/Carusel/Carusel.js:121
+#: components/Carusel/Carusel.js:151
+msgid "mainblocks2"
+msgstr "احصل على أي بطاقة تريدها"
+
+#~ msgid "mainblocks20"
+#~ msgstr "FC 25 Ultimate Team المفضل لديك"
+
+#~ msgid "mainblocks21"
+#~ msgstr "متجر العملات"
+
+#: components/Offer/Offer.js:29
+msgid "mainblocks22"
+msgstr "الخيار الأكثر أمانًا لشراء"
+
+#: components/Offer/Offer.js:32
+msgid "mainblocks23"
+msgstr "عملات FIFA 25"
+
+#: components/ReviewsGallery/ReviewsGallery.js:71
+msgid "mainblocks24"
+msgstr "آراء عملائنا"
+
+#~ msgid "mainblocks25"
+#~ msgstr "التقييم __"
+
+#~ msgid "mainblocks26"
+#~ msgstr "بناءً على __ التقييمات"
+
+#: components/ReviewsGallery/ReviewsGallery.js:99
+msgid "mainblocks27"
+msgstr "ممتاز"
+
+#: components/ReviewsGallery/ReviewsGallery.js:113
+msgid "mainblocks28"
+msgstr "شركة معتمدة"
+
+#~ msgid "mainblocks29"
+#~ msgstr ""
+
+#: components/Carusel/Carusel.js:122
+#: components/Carusel/Carusel.js:152
+msgid "mainblocks3"
+msgstr "أخيرًا، ستتمكن من الحصول على اللاعبين الأكثر شهرة في Ultimate Team. ابدأ بجمع البطاقات المطلوبة من كل عرض FC UT ترويجي. لا تفوت الفرصة!"
+
+#: components/Carusel/Carusel.js:115
+#: components/Carusel/Carusel.js:145
+msgid "mainblocks4"
+msgstr "اكتشف المزيد من الميزات داخل اللعبة باستخدام بطاقات عالية التصنيف"
+
+#: components/Carusel/Carusel.js:116
+#: components/Carusel/Carusel.js:146
+msgid "mainblocks5"
+msgstr "استمتع بتجارب جديدة بالاستعانة بأفضل اللاعبين ذوي مجموعات PlayStyles+‎ مختلفة من شأنها التأثير على أسلوب اللعب في Ultimate Team."
+
+#: components/Carusel/Carusel.js:103
+#: components/Carusel/Carusel.js:133
+msgid "mainblocks6"
+msgstr "حقق أعلى الرتب"
+
+#: components/Carusel/Carusel.js:104
+#: components/Carusel/Carusel.js:134
+msgid "mainblocks7"
+msgstr "إن اللعب بأفضل بطاقات اللاعبين في ترسانتك هو طريقك المباشر لتحقيق المجد بالوصول إلى أعلى الرتب والحصول على أروع المكافآت. الأمر عائد إليك!"
+
+#: components/Carusel/Carusel.js:127
+#: components/Carusel/Carusel.js:157
+msgid "mainblocks8"
+msgstr "العب الآن. ولا تضيع وقتك في جني العملات"
+
+#: components/Carusel/Carusel.js:128
+#: components/Carusel/Carusel.js:158
+msgid "mainblocks9"
+msgstr "انس أمر تجميع العملات المحبط وابدأ في بذل وقتك الثمين على شيء يستحق العناء، ألا وهو اللعبة نفسها! ركز على تسجيل الأهداف في ملاعب Ultimate Team وليس على جني العملات السخيف."
+
+#: components/Infografic/Infografic.js:51
+msgid "min"
+msgstr "دقيقة"
+
+#: pages/coins/[id].js:216
+msgid "minutes"
+msgstr "minutes"
+
+#~ msgid "Netherlands"
+#~ msgstr "هولندا"
+
+#: components/Cookie/Cookie.js:35
+msgid "newcookies"
+msgstr "🍪 نحن نستخدم ملفات تعريف الارتباط لجعل تجربتك مع موقعنا أفضل.        "
+
+#: components/Cookie/Cookie.js:38
+msgid "newcookieslink"
+msgstr "التفاصيل"
+
+#~ msgid "newh1_1"
+#~ msgstr "الخيار الأكثر أمانًا لشراء"
+
+#~ msgid "newh1_2"
+#~ msgstr "عملات FC 25 "
+
+#~ msgid "newh1_3"
+#~ msgstr ""
+
+#: components/MainFunnel/MainFunnel.js:46
+msgid "newh1_4"
+msgstr "عملات FC 25"
+
+#: components/Cookie/Cookie.js:52
+msgid "okay"
+msgstr "موافق"
+
+#~ msgid "orderh1"
+#~ msgstr "Buy FC 25 Ultimate Team coins"
+
+#~ msgid "orderinfo"
+#~ msgstr "Order info"
+
+#: components/Infografic/Infografic.js:34
+msgid "orders to our customers"
+msgstr "طلب لعملائنا"
+
+#~ msgid "orderstep2"
+#~ msgstr "Checkout"
+
+#~ msgid "orderstep3"
+#~ msgstr "Delivery"
+
+#: components/Header/Header.js:69
+msgid "pageCoinsBundles"
+msgstr "حزم العملات"
+
+#: components/MainFunnel/StickySecondStep.js:157
+msgid "payNow"
+msgstr "الدفع الآن"
+
+#~ msgid "pl_upd0"
+#~ msgstr "سوق الانتقالات مغلقة"
+
+#~ msgid "pl_upd1"
+#~ msgstr "تم منع حسابك من استخدام سوق الانتقالات في FC Ultimate Team Web App، أرسل بيانات حسابك الآخر الذي به سوق انتقالات مفتوحة، إذا كان لديك واحد، أو اتصل بفريق الدعم لدينا للتوصل إلى حل آخر"
+
+#~ msgid "pl_upd10"
+#~ msgstr "إعادة إرسال الرسالة الإلكترونية"
+
+#~ msgid "pl_upd11"
+#~ msgstr "[[X]] من الثواني"
+
+#~ msgid "pl_upd12"
+#~ msgstr "كود خاطئ"
+
+#~ msgid "pl_upd13"
+#~ msgstr "لقد قمت بتسجيل الدخول باسم [[X]]"
+
+#: components/LoyaltyProgram/MainLoyalty.js:30
+msgid "pl_upd14"
+msgstr "ما آلية عمل برنامج الولاء؟"
+
+#: components/LoyaltyProgram/MainLoyalty.js:33
+msgid "pl_upd15"
+msgstr "كل عملية شراء تدفعك إلى الانغماس في عالم عجائب كرة القدم! لذا، انطلق في مغامرة رقمية شائقة ممتلئة بالشراء والكسب والإنفاق والوصول إلى مستويات جديدة!"
+
+#: components/LoyaltyProgram/MainLoyalty.js:40
+msgid "pl_upd16"
+msgstr "المستخدمون مشتركون بالفعل في برنامج الولاء"
+
+#: components/LoyaltyProgram/MainLoyalty.js:46
+msgid "pl_upd17"
+msgstr "ربح عملاؤنا بالفعل نقاط ROYAL"
+
+#: components/GuideContent/StickyCoupon.js:32
+#: components/LoyaltyProgram/MainLoyalty.js:54
+msgid "pl_upd18"
+msgstr "اشتر العملات"
+
+#: components/LoyaltyProgram/MainLoyalty.js:57
+msgid "pl_upd19"
+msgstr "احصل على بعض العملات اللامعة لرفع مستوى تجربة اللعب وإطلاق عنان قدرات Ultimate Team الكاملة!"
+
+#~ msgid "pl_upd2"
+#~ msgstr "سجل الدخول أو اشترك"
+
+#: components/LoyaltyProgram/MainLoyalty.js:64
+msgid "pl_upd20"
+msgstr "اربح نقاط ROYAL"
+
+#: components/LoyaltyProgram/MainLoyalty.js:67
+msgid "pl_upd21"
+msgstr "اجمع نقاط ROYAL كل مرة تشتري فيها العملات على موقعنا الإلكتروني واحصل على مزايا إضافية عن طريق الوصول إلى مستويات ولاء جديدة."
+
+#: components/LoyaltyProgram/MainLoyalty.js:73
+msgid "pl_upd22"
+msgstr "استخدم نقاط ROYAL"
+
+#: components/LoyaltyProgram/MainLoyalty.js:76
+msgid "pl_upd23"
+msgstr "استبدل نقاط ROYAL في عملية الشراء التالية التي تجريها واستمتع بالحصول على عملات جديدة بخصم رائع!"
+
+#: components/LoyaltyProgram/MainLoyalty.js:85
+msgid "pl_upd24"
+msgstr "اشتر العملات"
+
+#: components/LoyaltyProgram/MainLoyalty.js:95
+msgid "pl_upd25"
+msgstr "تعرف على المزيد عن نقاط ROYAL"
+
+#: components/Order/OrderDeliveryPlug.js:20
+msgid "pl_upd26"
+msgstr "معلومات التسليم"
+
+#: components/Order/OrderDeliveryPlug.js:24
+msgid "pl_upd27"
+msgstr "لبدء عملية التسليم، سيتعين عليك إرسال بيانات حساب EA. وسيتم تسليم العملات إلى نادي Ultimate Team المرتبط بحساب EA."
+
+#: components/LoyaltyProgram/RoyalPointsInfo.js:27
+msgid "pl_upd28"
+msgstr "نقدم لك نظام الولاء الجديد المعتمد على الاسترداد النقدي، اربح نقاطًا نظير كل عملية شراء تجريها، واستخدمها في الطلبات المستقبلية وابلغ مستويات جديدة للتمتع بمزايا إضافية."
+
+#: components/LoyaltyProgram/RoyalPointsInfo.js:32
+msgid "pl_upd29"
+msgstr "تعرف على المزيد"
+
+#~ msgid "pl_upd3"
+#~ msgstr "أدخل بريك الإلكتروني لتسجيل الدخول أو إنشاء حساب"
+
+#~ msgid "pl_upd30"
+#~ msgstr "الإجمالي الفرعي"
+
+#: components/Package/CheckoutSticky.js:414
+msgid "pl_upd31"
+msgstr "ممنوع استخدام"
+
+#: components/Package/CheckoutSticky.js:425
+msgid "pl_upd32"
+msgstr "استخدم "
+
+#~ msgid "pl_upd33"
+#~ msgstr "السعر الإجمالي"
+
+#: components/Package/CheckoutSticky.js:469
+msgid "pl_upd34"
+msgstr "سجل الدخول لإتمام عملية الاسترداد النقدي"
+
+#: components/Package/CheckoutSticky.js:468
+msgid "pl_upd35"
+msgstr "النقود المستردة لهذا الطلب"
+
+#: components/Package/CheckoutSticky.js:397
+msgid "pl_upd36"
+msgstr "خصم نقاط ROYAL"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:146
+#: components/LoyaltyProgram/RoyalPointsInfo.js:24
+msgid "pl_upd37"
+msgstr "نقاط ROYAL"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:149
+msgid "pl_upd38"
+msgstr "استخدم نقاط الاسترداد النقدي المستلمة من عمليات الشراء السابقة لدفع جزء من سعر الطلب. استمتع بمزايا إضافية مع كل مستوى جديد تبلغه."
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:160
+msgid "pl_upd39"
+msgstr "مستويات برنامج الولاء"
+
+#~ msgid "pl_upd4"
+#~ msgstr "ستتلقى رابط التصريح للتحقق من عنوان البريد الإلكتروني المحدد، فضلاً عن كود فريد مكون من 6 أرقام لتسجيل الدخول بأمان"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:207
+msgid "pl_upd40"
+msgstr "مستواك"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:218
+msgid "pl_upd41"
+msgstr "المتطلبات"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:222
+msgid "pl_upd42"
+msgstr "[[x]] من عمليات الشراء على الموقع الإلكتروني"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:225
+msgid "pl_upd43"
+msgstr "[[x]] من العملات المشتراة في المجمل"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:234
+msgid "pl_upd44"
+msgstr "المزايا"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:238
+msgid "pl_upd45"
+msgstr "[[x]]% من النقود المستردة المستلمة من كل عملية شراء"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:241
+msgid "pl_upd46"
+msgstr "يمكن دفع ما يصل إلى [[x]]% من سعر الطلب باستخدام نقاط ROYAL"
+
+#: pages/profile.js:55
+msgid "pl_upd49"
+msgstr "ملفك التعريفي"
+
+#~ msgid "pl_upd5"
+#~ msgstr "عنوان بريدك الإلكتروني"
+
+#: components/Profile/RoyalPoints.js:55
+msgid "pl_upd50"
+msgstr "رصيد نقاط ROYAL"
+
+#: components/Profile/RoyalPoints.js:83
+msgid "pl_upd51"
+msgstr "استخدم نقاط الاسترداد النقدي المستلمة من عمليات الشراء السابقة لدفع جزء من سعر الطلب. استمتع بمزايا إضافية مع كل مستوى جديد تبلغه."
+
+#: components/Profile/RoyalRanging.js:75
+msgid "pl_upd52"
+msgstr "مستوى الولاء الحالي"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:76
+msgid "pl_upd53"
+msgstr "برونزي"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:80
+msgid "pl_upd54"
+msgstr "فضي"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:84
+msgid "pl_upd55"
+msgstr "ذهبي"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:88
+msgid "pl_upd56"
+msgstr "Inform"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:92
+msgid "pl_upd57"
+msgstr "بطل"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:96
+msgid "pl_upd58"
+msgstr "أيقوني"
+
+#: components/Profile/RoyalRanging.js:116
+#: components/Profile/RoyalRanging.js:202
+#: components/Profile/RoyalRanging.js:311
+#: components/Profile/RoyalRanging.js:388
+#: components/Profile/RoyalRanging.js:496
+#: components/Profile/RoyalRanging.js:602
+#: components/Profile/RoyalRanging.js:744
+#: components/Profile/RoyalRanging.js:879
+#: components/Profile/RoyalRanging.js:1053
+#: components/Profile/RoyalRanging.js:1188
+msgid "pl_upd59"
+msgstr "عدد عمليات الشراء اللازم للوصول إلى المستوى التالي"
+
+#~ msgid "pl_upd6"
+#~ msgstr "إرسال رسالة تصريح إلكترونية"
+
+#: components/Profile/RoyalRanging.js:1366
+msgid "pl_upd60"
+msgstr "إجمالي العملات المشتراة"
+
+#: components/Profile/RoyalRanging.js:1422
+#: components/Profile/RoyalRanging.js:1452
+msgid "pl_upd61"
+msgstr "المزايا التي تتمتع بها"
+
+#: components/Profile/RoyalRanging.js:1427
+msgid "pl_upd62"
+msgstr "من النقود المستردة المستلمة من كل عملية شراء"
+
+#~ msgid "pl_upd63"
+#~ msgstr "ابلغ المستوى التالي لزيادة"
+
+#~ msgid "pl_upd64"
+#~ msgstr "يمكن دفع أقصى قيمة ممكنة"
+
+#: components/Profile/RoyalRanging.js:1457
+msgid "pl_upd65"
+msgstr "من سعر الطلب باستخدام نقاط ROYAL"
+
+#: components/Profile/PointsHistory.js:69
+msgid "pl_upd66"
+msgstr "سجل نقاط ROYAL"
+
+#~ msgid "pl_upd69"
+#~ msgstr "اشتر المزيد من العملات لفتح هذا المستوى"
+
+#~ msgid "pl_upd7"
+#~ msgstr "أدخل الكود المكون من 6 أرقام"
+
+#~ msgid "pl_upd70"
+#~ msgstr "أجرِ المزيد من عمليات الشراء لفتح هذا المستوى التالي"
+
+#: components/Profile/RoyalRanging.js:75
+msgid "pl_upd71"
+msgstr "أجرِ المزيد من عمليات الشراء واشتر المزيد من العملات لفتح هذا المستوى"
+
+#~ msgid "pl_upd72"
+#~ msgstr "غير مدفوع"
+
+#~ msgid "pl_upd73"
+#~ msgstr "لم يتم دفع قيمة هذا الطلب"
+
+#~ msgid "pl_upd74"
+#~ msgstr "تم الإلغاء"
+
+#~ msgid "pl_upd75"
+#~ msgstr "تم إلغاء الطلب بناءً على طلبك"
+
+#~ msgid "pl_upd76"
+#~ msgstr "أدخل بيانات حساب EA"
+
+#~ msgid "pl_upd77"
+#~ msgstr "لبدء عملية التسليم، أدخل بيانات حساب EA باستخدام النموذج أدناه"
+
+#~ msgid "pl_upd78"
+#~ msgstr "الطلب في قائمة الانتظار"
+
+#~ msgid "pl_upd79"
+#~ msgstr "تأكد من تسجيل الخروج من Ultimate Team على جهاز الألعاب/جهاز الكمبيوتر والأجهزة الأخرى عبر FC Ultimate Team Web App / FC Companion"
+
+#~ msgid "pl_upd8"
+#~ msgstr "الرجاء إدراج كود التأكيد الذي أرسلناه إلى [[X]] في الخانة أدناه"
+
+#~ msgid "pl_upd80"
+#~ msgstr "عملية التسليم قيد التنفيذ"
+
+#~ msgid "pl_upd81"
+#~ msgstr "احرص على إبقاء Ultimate Team مغلقًا في حسابك حتى انتهاء الطلب"
+
+#~ msgid "pl_upd82"
+#~ msgstr "رموز النسخ الاحتياطي"
+
+#~ msgid "pl_upd83"
+#~ msgstr "الأكواد الاحتياطية خاطئة"
+
+#~ msgid "pl_upd84"
+#~ msgstr "الأكواد الاحتياطية التي قدمتها لنا إما غير صحيحة أو منتهية الصلاحية أو مأخوذة من حساب خاطئ، تأكد من إرسال الأكواد الصحيحة"
+
+#~ msgid "pl_upd9"
+#~ msgstr "أو انقر على الرابط الموجود في الرسالة الإلكترونية لتأكيد عنوان البريد الإلكتروني"
+
+#: components/DeliverySteps/DeliverySteps.js:16
+msgid "process"
+msgstr "عملية التوصيل"
+
+#~ msgid "Qatar"
+#~ msgstr "قطر"
+
+#~ msgid "rangeHeader0"
+#~ msgstr "Bronze"
+
+#~ msgid "rangeHeader1"
+#~ msgstr "Silver"
+
+#~ msgid "rangeHeader2"
+#~ msgstr "Gold"
+
+#~ msgid "rangeHeader3"
+#~ msgstr "Inform"
+
+#~ msgid "rangeHeader4"
+#~ msgstr "Hero"
+
+#~ msgid "rangeHeader5"
+#~ msgstr "Icon"
+
+#: components/Message/Message.js:115
+msgid "refresh"
+msgstr "قم بتحديث الصفحة"
+
+#: components/Aside/Aside.js:65
+msgid "reviews"
+msgstr " عدد المراجعات "
+
+#: components/Infografic/Infografic.js:60
+msgid "satisfied costumers"
+msgstr "من العملاء الراضين"
+
+#~ msgid "Saudi Arabia"
+#~ msgstr "المملكة العربية السعودية"
+
+#: pages/coins/index.js:249
+#: pages/coins/index.js:336
+msgid "sbc"
+msgstr "جرب SBC Solver بسعر مخفض"
+
+#: components/ModalTimer/ModalTimer.js:53
+msgid "season"
+msgstr "استعد للموسم الجديد"
+
+#: components/MainContainer.js:602
+#: components/MainContainer.js:608
+msgid "seo:root:description"
+msgstr "أفضل متجر لشراء عملات EA SPORTS FC 25 Coins ✔اشترِ عملات EA FC 25 لأجهزة PS 4/5 وXbox One / X / S 🎮 مع التسليم السريع والدعم المباشر ⚡ مدفوعات آمنة 100% 🔒 ومكان آمن للحصول على عملات Ultimate Team الرخيصة 😉"
+
+#: pages/_app.js:25
+msgid "seo:root:title"
+msgstr "اشترِ عملات FC 25 لجميع المنصات | متجر عملات Ultimate Team"
+
+#~ msgid "seo0"
+#~ msgstr "العربية"
+
+#: components/BuyCoinsDropdown/BuyCoinsDropdown.js:57
+#: components/Offer/Offer.js:47
+#: components/OptionWithItems/OptionWithItems.js:45
+#: components/StickyBlock/StickyBlock.js:31
+msgid "seo1"
+msgstr "شراء العملات"
+
+#~ msgid "seo10"
+#~ msgstr "شراء العملات"
+
+#: components/NotFound/NotFound.js:16
+msgid "seo100"
+msgstr "معذرة، الصفحة التي تبحث عنها غير موجودة"
+
+#: components/NotFound/NotFound.js:19
+msgid "seo101"
+msgstr "ربما تكون قد كتبت العنوان الخطأ، أو ربما تمت إزالة الصفحة التي تحاول الوصول إليها."
+
+#: components/NotFound/NotFound.js:26
+msgid "seo102"
+msgstr "الانتقال إلى الصفحة الرئيسية"
+
+#: components/Modal/Modal.js:421
+msgid "seo103"
+msgstr "هل هذه أول مرة لك هنا؟"
+
+#: components/Modal/Modal.js:424
+msgid "seo104"
+msgstr "قبل المتابعة، يرجى تأكيد البيانات أدناه"
+
+#: components/InputChecker/InputChecker.js:86
+msgid "seo105"
+msgstr "رصيد عملة Ultimate Team الخاص بي لا يقل عن 5000."
+
+#: components/InputChecker/InputChecker.js:110
+msgid "seo106"
+msgstr "لقد قمت بتسجيل الخروج من Ultimate Team على وحدة التشغيل الخاصة بي ولا أستخدم تطبيق Ultimate Team Web / تطبيق FC المرافق على أجهزة أخرى."
+
+#: components/InputChecker/InputChecker.js:136
+msgid "seo107"
+msgstr "لا تُظهر لي هذه الرسالة مرة أخرى. هذه ليست أول عملية شراء لي، فأنا على دراية بجميع المتطلبات."
+
+#: components/ChangeAvatar/ChangeAvatar.js:83
+#: components/Modal/Modal.js:182
+#: components/Modal/Modal.js:214
+#: components/Modal/Modal.js:444
+msgid "seo108"
+msgstr "تأكيد"
+
+#~ msgid "seo109"
+#~ msgstr "كلمة المرور"
+
+#~ msgid "seo11"
+#~ msgstr "الطلب السريع"
+
+#: components/ChangePassword/ChangePassword.js:158
+#: components/ChangePassword/ChangePassword.js:178
+msgid "seo110"
+msgstr "كلمة المرور الحالية"
+
+#: components/ChangePassword/ChangePassword.js:209
+#: components/ChangePassword/ChangePassword.js:223
+msgid "seo111"
+msgstr "كلمة المرور الجديدة"
+
+#: components/ChangePassword/ChangePassword.js:257
+#: components/ChangePassword/ChangePassword.js:271
+#: components/ChangePassword/ChangePassword.js:322
+msgid "seo112"
+msgstr "تأكيد كلمة المرور الجديدة"
+
+#: components/ChangePassword/ChangePassword.js:299
+msgid "seo113"
+msgstr "كلمة المرور غير مطابقة"
+
+#: components/TableOrders/TableItem.js:106
+msgid "seo114"
+msgstr "اليوم"
+
+#: components/TableOrders/TableItem.js:110
+msgid "seo115"
+msgstr "الأمس"
+
+#~ msgid "seo116"
+#~ msgstr "المبلغ"
+
+#~ msgid "seo117"
+#~ msgstr "الحالة"
+
+#: components/TableOrders/TableOrderBody.js:277
+#: components/TableOrders/TableOrderBody.js:475
+msgid "seo118"
+msgstr "تفاصيل حساب EA"
+
+#: components/TableOrders/TableOrderBody.js:297
+#: components/TableOrders/TableOrderBody.js:496
+msgid "seo119"
+msgstr "البريد الإلكتروني لحساب EA"
+
+#~ msgid "seo12"
+#~ msgstr "جرّب هذه الخيارات أيضًا"
+
+#: components/TableOrders/TableOrderBody.js:322
+#: components/TableOrders/TableOrderBody.js:543
+msgid "seo120"
+msgstr "كلمة مرور حساب EA"
+
+#: components/TableOrders/TableOrderBody.js:390
+#: components/TableOrders/TableOrderBody.js:650
+msgid "seo121"
+msgstr "الرموز الاحتياطية لحساب EA"
+
+#: components/TableOrders/TableOrderBody.js:750
+msgid "seo122"
+msgstr "نوصي بإرسال رمزين إلى 3 رموز احتياطية على الأقل"
+
+#: components/TableOrders/TableOrderBody.js:755
+msgid "seo123"
+msgstr "يمكنك الحصول على الرموز الاحتياطية في هذه الصفحة:  "
+
+#: components/TableOrders/TableItem.js:361
+msgid "seo124"
+msgstr "إرسال التفاصيل"
+
+#: components/TableOrders/TableItem.js:261
+#: components/TableOrders/TableItem.js:271
+#: components/TableOrders/TableItem.js:281
+#: components/TableOrders/TableItem.js:537
+#: components/TableOrders/TableItem.js:547
+msgid "seo125"
+msgstr "أعد محاولة الدفع"
+
+#~ msgid "seo126"
+#~ msgstr "إعادة إرسال التفاصيل"
+
+#: components/TableOrders/TableItem.js:498
+#: components/TableOrders/TableItem.js:511
+#: components/TableOrders/TableItem.js:524
+msgid "seo127"
+msgstr "إطلاق التسليم"
+
+#: components/TableOrders/TableItem.js:291
+#: components/TableOrders/TableItem.js:301
+#: components/TableOrders/TableItem.js:311
+#: components/TableOrders/TableItem.js:321
+#: components/TableOrders/TableItem.js:331
+#: components/TableOrders/TableItem.js:341
+#: components/TableOrders/TableItem.js:424
+#: components/TableOrders/TableItem.js:435
+#: components/TableOrders/TableItem.js:446
+msgid "seo128"
+msgstr "استئناف التسليم"
+
+#: components/TableOrders/TableItem.js:413
+msgid "seo129"
+msgstr "تغيير التفاصيل"
+
+#~ msgid "seo13"
+#~ msgstr "حزم العملات"
+
+#: components/TableOrders/TableItem.js:351
+#: components/TableOrders/TableItem.js:457
+#: components/TableOrders/TableItem.js:557
+msgid "seo130"
+msgstr "تكرار الطلب"
+
+#: components/TableOrders/TableItem.js:499
+#: components/TableOrders/TableItem.js:512
+#: components/TableOrders/TableItem.js:525
+msgid "seo131"
+msgstr "افتح صفحة التسليم في علامة تبويب جديدة"
+
+#: components/ReviewsContent/ReviewsContent.js:75
+msgid "seo132"
+msgstr "المراجعات"
+
+#: components/ReviewsContent/ReviewsContent.js:80
+msgid "seo133"
+msgstr "اقرأ تجارب مئات العملاء على موقعنا. جميع المراجعات من صفحة ROYALFUT على Trustpilot. Trustpilot هي منصة مراجعات دولية، وهي الأكثر شعبية بين المستهلكين من أوروبا والولايات المتحدة. يتم التحقق بانتظام من المراجعات على الموقع بحثًا عن الاحتيال والعبث من قبل وسطاء Trustpilot. لا يمكننا التأثير على تصنيف المراجعات وتكوينها إلا من خلال العمل الاحترافي وجودة الخدمة المقدمة للعميل. إذا كنت تريد كتابة مراجعة، "
+
+#: components/ReviewsContent/ReviewsContent.js:87
+msgid "seo134"
+msgstr "إذن فامنحنا تقييمًا الآن!"
+
+#: components/Rated/Rated.js:106
+msgid "seo135"
+msgstr "قيِّمناالآن"
+
+#~ msgid "seo14"
+#~ msgstr "حتى العملاء الأكثر تقدمًا في اللعبة سيسعدون بمكافأة الشراء. احصل عليها اليوم!"
+
+#: components/StickyBlock/StickyBlock.js:24
+msgid "seo146"
+msgstr "أنت... هل تبحث عن بعض العملات؟"
+
+#~ msgid "seo147"
+#~ msgstr "شراء العملات"
+
+#: components/StickyBlock/StickyBlock.js:37
+msgid "seo148"
+msgstr "الانتقال إلى الصفحة الرئيسية"
+
+#: components/PaymentContent/PaymentContent.js:10
+msgid "seo149"
+msgstr "يقبل ROYALFUT.COM المدفوعات بست عملات مختلفة دون رسوم."
+
+#~ msgid "seo15"
+#~ msgstr "جرب SBC Solver مجانًا الآن!"
+
+#: components/PaymentContent/PaymentContent.js:11
+msgid "seo150"
+msgstr "يمكن للمستخدمين المسجلين فقط إجراء المدفوعات على الموقع. يتم تنظيم المدفوعات من خلال أنظمة الدفع الدولية. يُحظر على حاملي البطاقات المصرفية في المناطق التالية الشراء: أفغانستان، ساموا الأمريكية، أروبا، جزر البهاما، بوتسوانا، بوروندي، كمبوديا، جمهورية إفريقيا الوسطى، الكونغو، جمهورية الكونغو الديمقراطية، القرم وسيفاستوبول، كوبا، غينيا الاستوائية، إريتريا، إثيوبيا، العراق، لبنان، ليبيا، مالي، ميانمار، نيكاراغوا، كوريا الشمالية، باكستان، فلسطين، الاتحاد الروسي، ساموا، سيراليون، الصومال، جنوب السودان، السودان، سوريا، ترينيداد وتوباغو، تركمانستان، أوغندا، جزر فيرجن الأمريكية، فنزويلا، اليمن، زيمبابوي."
+
+#: components/PaymentContent/PaymentContent.js:12
+msgid "seo151"
+msgstr "عند شراء منتجنا الرقمي، يمكنك التأكد من أن أموالك آمنة."
+
+#: pages/coins/[id]/payment.js:28
+msgid "seo152"
+msgstr "الشراء"
+
+#: components/Purchase/Purchase.js:349
+msgid "seo153"
+msgstr "طلبك"
+
+#~ msgid "seo154"
+#~ msgstr "الطريقة"
+
+#: components/Purchase/Purchase.js:471
+msgid "seo155"
+msgstr "التفاصيل"
+
+#~ msgid "seo156"
+#~ msgstr "الدفع الآن"
+
+#~ msgid "seo157"
+#~ msgstr "أدخل المبلغ المطلوب من العملات لشرائها"
+
+#: components/TableOrders/TableItem.js:364
+msgid "seo158"
+msgstr "أدخل تفاصيل حساب EA الخاص بك"
+
+#: components/TableOrders/TableItem.js:367
+msgid "seo159"
+msgstr "لبدء عملية التسليم، أدخل تفاصيل حساب EA الخاص بك باستخدام النموذج أدناه."
+
+#~ msgid "seo16"
+#~ msgstr "ابدأ في توفير الكثير من الوقت باستخدام الأداة الجديدة تمامًا من أصدقائنا!"
+
+#: components/TableOrders/TableItem.js:503
+#: components/TableOrders/TableItem.js:516
+#: components/TableOrders/TableItem.js:529
+msgid "seo160"
+msgstr "في انتظار التسليم اليدوي"
+
+#: components/TableOrders/TableItem.js:506
+#: components/TableOrders/TableItem.js:519
+#: components/TableOrders/TableItem.js:532
+msgid "seo161"
+msgstr "انقر فوق الزر أدناه لبدء التحويل اليدوي للعملة"
+
+#~ msgid "seo162"
+#~ msgstr "تسجيل الدخول إلى حسابك"
+
+#: components/TableOrders/TableItem.js:377
+msgid "seo163"
+msgstr "تأكد من تسجيل الخروج من Ultimate Team على وحدة التشغيل الخاصة بك والأجهزة الأخرى عبر تطبيق Ultimate Team على الويب/ تطبيق FIFA المرافق حتى انتهاء الطلب."
+
+#: components/TableOrders/TableItem.js:384
+msgid "seo164"
+msgstr "التسليم قيد التقدم"
+
+#: components/TableOrders/TableItem.js:387
+msgid "seo165"
+msgstr "تأكد من إبقاء FUT مغلقًا على حسابك حتى ينتهي الأمر"
+
+#~ msgid "seo166"
+#~ msgstr "رموز النسخ الاحتياطي"
+
+#: components/TableOrders/TableItem.js:395
+msgid "seo167"
+msgstr "رموز النسخ الاحتياطي غير صحيحة"
+
+#: components/TableOrders/TableItem.js:398
+msgid "seo168"
+msgstr "الرموز الاحتياطية التي زودتنا بها إما غير صحيحة وإما منتهية الصلاحية وإما مأخوذة من حساب غير صحيح"
+
+#: components/TableOrders/TableItem.js:416
+msgid "seo169"
+msgstr "البريد الإلكتروني / كلمة المرور غير صحيحة"
+
+#~ msgid "seo17"
+#~ msgstr "لا تفوّت عرضنا الخاص"
+
+#: components/TableOrders/TableItem.js:419
+msgid "seo170"
+msgstr "تأكد من أنك لم تقم بأي أخطاء إملائية وأنك ترسل تفاصيل حساب EA الخاص بك، وليس أي حسابات أخرى (PSN أو شبكة Xbox وما إلى ذلك)"
+
+#: components/TableOrders/TableItem.js:354
+#: components/TableOrders/TableItem.js:560
+msgid "seo171"
+msgstr "انتهى"
+
+#: components/TableOrders/TableItem.js:357
+#: components/TableOrders/TableItem.js:563
+msgid "seo172"
+msgstr "لا تتردد في تسجيل الدخول مرة أخرى إلى Ultimate Team والاستمتاع بعملاتك!"
+
+#: components/TableOrders/TableItem.js:460
+msgid "seo173"
+msgstr "تم الإلغاء"
+
+#: components/TableOrders/TableItem.js:463
+msgid "seo174"
+msgstr "تم إلغاء طلبك بناءً على طلبك"
+
+#: components/DeliveryStage/DeliveryStage.js:109
+#: components/Order/OrderDeliveryStage.js:120
+#: components/TableOrders/TableItem.js:274
+#: components/TableOrders/TableItem.js:550
+msgid "seo175"
+msgstr "فشلت عملية الدفع"
+
+#: components/DeliveryStage/DeliveryStage.js:112
+#: components/Order/OrderDeliveryStage.js:125
+#: components/TableOrders/TableItem.js:277
+#: components/TableOrders/TableItem.js:553
+msgid "seo176"
+msgstr "يرجى المحاولة مرة أخرى أو تغيير طريقة الدفع إذا استمرت المشكلة"
+
+#: components/TableOrders/TableItem.js:264
+#: components/TableOrders/TableItem.js:540
+msgid "seo177"
+msgstr "غير مدفوع"
+
+#: components/TableOrders/TableItem.js:267
+#: components/TableOrders/TableItem.js:543
+msgid "seo178"
+msgstr "لم يتم دفع ثمن هذا الطلب حتى الآن"
+
+#: components/TableOrders/TableItem.js:427
+#: components/TableOrders/TableItem.js:449
+msgid "seo179"
+msgstr "تم تسجيل الدخول"
+
+#~ msgid "seo18"
+#~ msgstr "اطلب الآن"
+
+#: components/TableOrders/TableItem.js:430
+#: components/TableOrders/TableItem.js:452
+msgid "seo180"
+msgstr "قم بتسجيل الخروج من حسابك حتى نتمكن من متابعة عملية التسليم"
+
+#: components/TableOrders/TableItem.js:438
+msgid "seo181"
+msgstr "عبر الإنترنت في تطبيق Ultimate Team على الويب"
+
+#: components/TableOrders/TableItem.js:441
+msgid "seo182"
+msgstr "سجّل الخروج من تطبيق Ultimate Team على الويب / تطبيق FIFA المرافق حتى نتمكن من متابعة عملية التسليم"
+
+#~ msgid "seo183"
+#~ msgstr "التحقق من تسجيل الدخول"
+
+#: components/TableOrders/TableItem.js:344
+msgid "seo184"
+msgstr "التحقق من تسجيل الدخول معطل"
+
+#: components/TableOrders/TableItem.js:347
+msgid "seo185"
+msgstr "تأكد من تمكين التحقق من تسجيل الدخول في إعدادات حساب EA الخاص بك"
+
+#~ msgid "seo186"
+#~ msgstr "قائمة التحويل"
+
+#~ msgid "seo187"
+#~ msgstr "قائمة التحويل كاملة"
+
+#~ msgid "seo188"
+#~ msgstr "تأكد من مسح قائمة التحويل الخاصة بك حتى نتمكن من بدء عملية التسليم"
+
+#: components/TableOrders/TableItem.js:314
+#: components/TableOrders/TableItem.js:324
+msgid "seo189"
+msgstr "لا توجد سوق انتقالات في تطبيق Ultimate Team على الويب"
+
+#~ msgid "seo19"
+#~ msgstr "خبرة طويلة الأمد"
+
+#: components/TableOrders/TableItem.js:317
+#: components/TableOrders/TableItem.js:327
+msgid "seo190"
+msgstr "تأكد من أن لديك حق الوصول إلى سوق الانتقالات في تطبيق Ultimate Team على الويب حتى نتمكن من البدء في معالجة طلبك"
+
+#: components/TableOrders/TableItem.js:304
+msgid "seo191"
+msgstr "لا يوجد نادٍ في تطبيق Ultimate Team على الويب"
+
+#: components/TableOrders/TableItem.js:307
+msgid "seo192"
+msgstr "تأكد من إعداد ناديك في تطبيق Ultimate Team على الويب حتى نتمكن من البدء في معالجة طلبك"
+
+#: components/TableOrders/TableItem.js:294
+msgid "seo193"
+msgstr "عملات غير كافية"
+
+#: components/TableOrders/TableItem.js:297
+msgid "seo194"
+msgstr "تأكد من أن لديك 5000 عملة على الأقل في رصيدك في نادي Ultimate Team حتى نتمكن من بدء عملية التسليم"
+
+#: components/TableOrders/TableItem.js:284
+msgid "seo195"
+msgstr "منصة غير صحيحة"
+
+#: components/TableOrders/TableItem.js:287
+msgid "seo196"
+msgstr "حسابك ليس به نادي Ultimate Team مرتبط بالمنصة التي حددتها، يرجى إرسال تفاصيل الحساب الصحيح أو الاتصال بالدعم لتغيير المنصة"
+
+#~ msgid "seo197"
+#~ msgstr "الصفحة الرئيسية"
+
+#~ msgid "seo198"
+#~ msgstr "المنصة"
+
+#~ msgid "seo199"
+#~ msgstr "المراجعات"
+
+#~ msgid "seo2"
+#~ msgstr "حزم العملات"
+
+#~ msgid "seo20"
+#~ msgstr "تم تشكيل فريقنا في الأصل في موسم FIFA 17. منذ ذلك الحين، قمنا بتحويل أكثر من 100 مليار عملة لعملائنا، وتلقى أكثر من 60 ألف نادٍ حول العالم إعادة تعبئة العملات منّا، وتستخدم 10 متاجر أخرى على الأقل خوارزمية تحويل العملات الخاصة بنا."
+
+#~ msgid "seo200"
+#~ msgstr "الأسئلة الشائعة"
+
+#~ msgid "seo201"
+#~ msgstr "الشراء"
+
+#~ msgid "seo202"
+#~ msgstr "المدفوعات"
+
+#~ msgid "seo203"
+#~ msgstr "سياسة الخصوصية"
+
+#~ msgid "seo204"
+#~ msgstr "ملف التعريف"
+
+#~ msgid "seo205"
+#~ msgstr "حزم العملات"
+
+#~ msgid "seo206"
+#~ msgstr "[[X]] من عملات FUT"
+
+#~ msgid "seo207"
+#~ msgstr "حزم العملات"
+
+#~ msgid "seo208"
+#~ msgstr "العملات"
+
+#~ msgid "seo209"
+#~ msgstr "اللاعبون"
+
+#~ msgid "seo21"
+#~ msgstr "أسعار مناسبة"
+
+#~ msgid "seo210"
+#~ msgstr "تعزيز دوري نهاية الأسبوع"
+
+#: components/PageChanger/PageChanger.js:95
+#: components/Payments/Payments.js:33
+#: components/Payments/Payments.js:346
+msgid "seo211"
+msgstr "قريبًا"
+
+#: components/BonusBlock/BonusBlock.js:19
+msgid "seo212"
+msgstr "هل تحتاج إلى بعض المساعدة في حل SBC؟"
+
+#: components/BonusBlock/BonusBlock.js:22
+msgid "seo213"
+msgstr "جرب أداة متقدمة من شركائنا. تم تضمين خصم منا بالفعل في الأسعار."
+
+#: components/BonusBlock/BonusBlock.js:32
+msgid "seo214"
+msgstr "معرفة المزيد"
+
+#~ msgid "seo215"
+#~ msgstr "التداول المريح"
+
+#~ msgid "seo216"
+#~ msgstr "عملات مع مكافآت"
+
+#~ msgid "seo217"
+#~ msgstr "المكافأة"
+
+#~ msgid "seo218"
+#~ msgstr "السعر"
+
+#~ msgid "seo219"
+#~ msgstr "الاختيار"
+
+#~ msgid "seo22"
+#~ msgstr "نحن نقدم واحدًا من أقل الأسعار في السوق، وبالنسبة إلى عملائنا الدائمين، يكون السعر أقل!"
+
+#~ msgid "seo220"
+#~ msgstr "معرفة التفاصيل"
+
+#~ msgid "seo221"
+#~ msgstr "مبلغ آخر"
+
+#~ msgid "seo222"
+#~ msgstr "ستستلم"
+
+#~ msgid "seo223"
+#~ msgstr "الجزء الرئيسي"
+
+#~ msgid "seo224"
+#~ msgstr "جزء المكافأة"
+
+#~ msgid "seo225"
+#~ msgstr "المبلغ الإجمالي"
+
+#~ msgid "seo226"
+#~ msgstr "شراء العملات"
+
+#~ msgid "seo227"
+#~ msgstr "[[X]] من عملات FIFA Ultimate Team"
+
+#~ msgid "seo228"
+#~ msgstr "احصل على عملات FIFA في أفضل مكان لشراء عناصر FUT الرخيصة. ROYALFUT هو أفضل متجر FUT ستراه على الإطلاق. ألقِ نظرة على هذه الأسعار المخفّضة لعملات FUT التي نقدمها. لا توجد ضرائب وتكاليف إضافية مشمولة لأي طلبات لعملات Ultimate Team."
+
+#~ msgid "seo229"
+#~ msgstr "هنا يمكنك شراء [[X]] من الآلاف من عملات FIFA مقابل [[Y]] فقط. نوصي باختيار طريقة تسليم Comfort Trade لأنها أسهل ولا تتطلب مشاركتك أثناء تحويل العملة. [[X]] سيتم تحويل 00000 من العملات إلى حسابك خلال [[H]]}. يمكنك شراء معظم أرخص لاعبي FUT بهذا المبلغ."
+
+#~ msgid "seo23"
+#~ msgstr "آمن وموثوق"
+
+#~ msgid "seo230"
+#~ msgstr "هنا يمكنك شراء [[X]] من الآلاف من عملات FIFA مقابل [[Y]] فقط. نوصي باختيار طريقة تسليم Comfort Trade لأنها أسهل ولا تتطلب مشاركتك أثناء تحويل العملة. سيتم تحويل [[X]] من الملايين من العملات إلى حسابك خلال [[H]]}. يمكنك شراء معظم أرخص لاعبي FUT بهذا المبلغ."
+
+#~ msgid "seo231"
+#~ msgstr "كيف يعمل التسليم؟"
+
+#~ msgid "seo232"
+#~ msgstr "متجر EA FC 25 Ultimate Team | متجر EA SPORTS FC 25"
+
+#~ msgid "seo233"
+#~ msgstr "أفضل متجر لشراء عملات EA SPORTS FC 25 Coins ✔اشترِ عملات EA FC 25 لأجهزة PS 4/5 وXbox One / X / S 🎮 مع التسليم السريع والدعم المباشر ⚡ مدفوعات آمنة 100% 🔒 ومكان آمن للحصول على عملات Ultimate Team الرخيصة 😉"
+
+#~ msgid "seo234"
+#~ msgstr "شراء عملات EA FC 25 Ultimate Team رخيصة عبر الإنترنت | عملات FUT للبيع، وبأسعار مخفّضة"
+
+#~ msgid "seo235"
+#~ msgstr "المكان الأكثر أمانًا لشراء عملات EA SPORTS FC 25 ✔ اشترِ عملات EA FC 25 لأجهزة PS 4/5 وأجهزة Xbox One / X / S 🎮 مع التسليم السريع والدعم مباشر ⚡مدفوعات آمنة 100% 🔒 ومكان آمن للحصول على عملات FUT الرخيصة 😉"
+
+#~ msgid "seo236"
+#~ msgstr "اشترِ عملات فيفا 23 رخيصة لأجهزة PS4 | عملات EA SPORTS FC 25 لأجهزة PS4"
+
+#~ msgid "seo237"
+#~ msgstr "المكان الأكثر أمانًا لشراء عملات EA SPORTS FC 25 لأجهزة PS4 🎮 احصل على أفضل اللاعبين لفريقك للفوز على خصومك 🥇 مع التسليم السريع والدعم المباشر 🔒 المكان الأكثر أمانًا للحصول على عملات FUT الرخيصة 😉"
+
+#~ msgid "seo238"
+#~ msgstr "اشترِ عملات فيفا 23 رخيصة لأجهزة PS5 | عملات EA SPORTS FC 25 لأجهزة PS5"
+
+#~ msgid "seo239"
+#~ msgstr "المكان الأكثر أمانًا لشراء عملات EA SPORTS FC 25 لأجهزة PS5 🎮 احصل على أفضل اللاعبين لفريقك للفوز على خصومك 🥇 مع التسليم السريع والدعم المباشر 🔒 المكان الأكثر أمانًا للحصول على عملات FUT الرخيصة 😉"
+
+#~ msgid "seo24"
+#~ msgstr "هدفنا الرئيسي هو أن نقدم لك الخيار الأكثر أمانًا لزيادة رصيد نادي FUT الخاص بك. نعمل باستمرار على تحسين خوارزمية تحويل العملات لدينا، ونختبرها على الآلاف من حساباتنا قبل إعطاء الضوء الأخضر لها لاتخاذ إجراء."
+
+#~ msgid "seo240"
+#~ msgstr "اشترِ عملات EA FC 25 الرخيصة لأجهزة Xbox One | عملات EA SPORTS FC 25 لجهاز Xbox One"
+
+#~ msgid "seo241"
+#~ msgstr "المكان الأكثر أمانًا لشراء عملات EA SPORTS FC 25 لأجهزة Xbox One 🎮 احصل على أفضل اللاعبين لفريقك للفوز على خصومك 🥇 مع التسليم السريع والدعم المباشر 🔒 المكان الأكثر أمانًا للحصول على عملات FUT الرخيصة 😉"
+
+#~ msgid "seo242"
+#~ msgstr "اشترِ عملات EA FC 25 الرخيصة لأجهزة Xbox | عملات EA SPORTS FC 25 لأجهزة Xbox Series X/S"
+
+#~ msgid "seo243"
+#~ msgstr "المكان الأكثر أمانًا لشراء عملات EA SPORTS FC 25 لأجهزة Xbox Series X/S 🎮 احصل على أفضل اللاعبين لفريقك للفوز على خصومك🥇مع التسليم السريع والدعم المباشر 🔒المكان الأكثر أمانًا للحصول على عملات FUT الرخيصة 😉"
+
+#~ msgid "seo244"
+#~ msgstr "اشترِ 100 ألف عملة EA FC 25 | سعر 100 ألف من عملات FUT"
+
+#~ msgid "seo245"
+#~ msgstr "المكان الأكثر أمانًا لشراء 100 ألف عملة في EA SPORTS FC 25 من أجل فريق الخاص بك 🥇 اختر المنصة الخاصة بك: PS أو Xbox أو PC 🎮 التسليم السريع والدعم المباشر🔒المكان الأكثر أمانًا للحصول على عملات FUT الرخيصة😉"
+
+#~ msgid "seo246"
+#~ msgstr "اشترِ مليون عملة EA FC 25 | سعر مليون عملة FUT"
+
+#~ msgid "seo247"
+#~ msgstr "المكان الأكثر أمانًا لشراء مليون عملة في EA SPORTS FC 25 من أجل فريق الخاص بك 🥇 اختر المنصة الخاصة بك: PS أو Xbox أو PC 🎮 التسليم السريع والدعم المباشر🔒المكان الأكثر أمانًا للحصول على عملات FUT الرخيصة😉"
+
+#~ msgid "seo248"
+#~ msgstr "لدينا أفضل الصفقات على عملات FIFA الخاصة بجهاز PlayStation 4. نحن نقدم عملات FIFA PS4 الرخيصة مع التسليم عالي السرعة ونضمن أمان حسابك دون رسوم."
+
+#~ msgid "seo249"
+#~ msgstr "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لجهاز PS4 منّا مع الثقة في الحصول على أفضل صفقة."
+
+#~ msgid "seo25"
+#~ msgstr "مستوى عالٍ من الخدمة"
+
+#~ msgid "seo250"
+#~ msgstr "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل PlayStation الخاصة بك؟ تواصل معنا بأي طريقة تريدها."
+
+#~ msgid "seo251"
+#~ msgstr "لدينا أفضل الصفقات على عملات FIFA الخاصة بجهاز PlayStation 5. نحن نقدم عملات FIFA PS5 الرخيصة مع التسليم عالي السرعة ونضمن أمان حسابك دون رسوم."
+
+#~ msgid "seo252"
+#~ msgstr "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لجهاز PS5 منّا مع الثقة في الحصول على أفضل صفقة."
+
+#~ msgid "seo253"
+#~ msgstr "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل PlayStation الخاصة بك؟ تواصل معنا بأي طريقة تريدها."
+
+#~ msgid "seo254"
+#~ msgstr "لدينا أفضل الصفقات على عملات FIFA الخاصة بجهاز Xbox One. نحن نقدم عملات FIFA الرخيصة مع التسليم عالي السرعة ونضمن أمان حسابك دون رسوم."
+
+#~ msgid "seo255"
+#~ msgstr "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لجهاز Xbox 1 منّا مع الثقة في الحصول على أفضل صفقة."
+
+#~ msgid "seo256"
+#~ msgstr "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل Xbox الخاصة بك؟ تواصل معنا بأي طريقة تريدها."
+
+#~ msgid "seo257"
+#~ msgstr "لدينا أفضل الصفقات على عملات FIFA الخاصة بـ Xbox Series X. كما نقدم عملات FIFA رخيصة لأجهزة Xbox Series S مع سرعة تسليم عالية ونضمن أمان حسابك دون رسوم."
+
+#~ msgid "seo258"
+#~ msgstr "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لأجهزة Xbox Series X/S منّا مع الثقة في الحصول على أفضل صفقة."
+
+#~ msgid "seo259"
+#~ msgstr "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل Xbox الخاصة بك؟ تواصل معنا بأي طريقة تريدها."
+
+#~ msgid "seo26"
+#~ msgstr "نحن نقدر وقتك، ولهذا السبب نحن مصممون دائمًا على متابعة التحسين المستمر لهذه الجوانب من موقعنا على الويب مثل واجهة وجودة خدمة دعم العملاء لدينا، للتأكد من أن تجربة التسوق معنا تمت بسلاسة قدر الإمكان."
+
+#~ msgid "seo260"
+#~ msgstr ""
+
+#~ msgid "seo27"
+#~ msgstr "جهات الاتصال"
+
+#: components/Order/PlatformSection.js:129
+msgid "seo28"
+msgstr "المنصة"
+
+#~ msgid "seo29"
+#~ msgstr "المعلومات"
+
+#~ msgid "seo3"
+#~ msgstr "المراجعات"
+
+#: components/Purchase/Purchase.js:412
+#: components/Purchase/Purchase.js:445
+msgid "seo30"
+msgstr "الدفع"
+
+#~ msgid "seo31"
+#~ msgstr "التسليم"
+
+#~ msgid "seo32"
+#~ msgstr "الأحكام والشروط"
+
+#~ msgid "seo33"
+#~ msgstr "سياسة الخصوصية"
+
+#: components/BurgerMenu/BurgerMenu.js:354
+msgid "seo34"
+msgstr "الاشتراك"
+
+#: components/BurgerMenu/BurgerMenu.js:342
+msgid "seo35"
+msgstr "تسجيل الدخول"
+
+#~ msgid "seo36"
+#~ msgstr "أنا أوافق على الأحكام و الشروط"
+
+#~ msgid "seo37"
+#~ msgstr "أو الاشتراك عبر"
+
+#: components/Profile/Profile.js:149
+msgid "seo38"
+msgstr "الطلبات"
+
+#~ msgid "seo39"
+#~ msgstr "الإعدادات"
+
+#: components/Header/Header.js:85
+msgid "seo4"
+msgstr "الأسئلة الشائعة"
+
+#: components/BurgerMenu/BurgerMenu.js:286
+#: pages/profile.js:83
+msgid "seo40"
+msgstr "تسجيل الخروج"
+
+#~ msgid "seo41"
+#~ msgstr "example@site.com"
+
+#~ msgid "seo42"
+#~ msgstr "كلمة المرور"
+
+#~ msgid "seo43"
+#~ msgstr "8 أحرف على الأقل"
+
+#~ msgid "seo44"
+#~ msgstr "تسجيل الدخول عبر"
+
+#~ msgid "seo45"
+#~ msgstr "الذهاب إلى متجر EA FC 25 Ultimate Team Store"
+
+#~ msgid "seo46"
+#~ msgstr "المنصة"
+
+#~ msgid "seo47"
+#~ msgstr "المتابعة"
+
+#: components/Order/OrderDelivery.js:108
+msgid "seo48"
+msgstr "طريقة التسليم"
+
+#~ msgid "seo49"
+#~ msgstr "المتابعة"
+
+#: components/BurgerMenu/BurgerMenu.js:297
+#: components/BurgerMenu/BurgerMenu.js:466
+#: components/Header/Header.js:146
+msgid "seo5"
+msgstr "تسجيل الدخول"
+
+#~ msgid "seo50"
+#~ msgstr "العملات"
+
+#: components/Order/StickyTotalBlock.js:126
+msgid "seo51"
+msgstr "السعر"
+
+#: components/Order/OrderDelivery.js:149
+msgid "seo52"
+msgstr "موصى به"
+
+#: components/Order/OrderDelivery.js:158
+msgid "seo53"
+msgstr "سندير عملية التسليم بأنفسنا، كل ما عليك فعله هو تزويدنا بتفاصيل حساب EA الخاص بك."
+
+#~ msgid "seo54"
+#~ msgstr "مزاد اللاعب"
+
+#~ msgid "seo55"
+#~ msgstr "ما يصل إلى مليون عملة"
+
+#: components/Order/OrderDelivery.js:218
+msgid "seo56"
+msgstr "طريقة التسليم اليدوي التي لا تتطلب أي تفاصيل حساب، ستحتاج معها إلى تحويل العملات بنفسك باستخدام تعليماتنا البسيطة."
+
+#~ msgid "seo57"
+#~ msgstr "كيف تعمل هذه الطريقة؟"
+
+#~ msgid "seo58"
+#~ msgstr "كيف يعمل التسليم؟"
+
+#~ msgid "seo59"
+#~ msgstr "التداول المريح"
+
+#~ msgid "seo6"
+#~ msgstr "رفيقك الرئيسي في متجر EA FC 25 Ultimate Team"
+
+#~ msgid "seo60"
+#~ msgstr "مزاد اللاعب"
+
+#: components/Order/StepOneContent.js:38
+msgid "seo61"
+msgstr "المبلغ"
+
+#~ msgid "seo62"
+#~ msgstr "العملات"
+
+#~ msgid "seo63"
+#~ msgstr "السعر"
+
+#~ msgid "seo64"
+#~ msgstr "العملة"
+
+#~ msgid "seo65"
+#~ msgstr "الدفع"
+
+#~ msgid "seo66"
+#~ msgstr "الدفع بالبطاقة"
+
+#~ msgid "seo67"
+#~ msgstr "أو الدفع بالعملات المشفرة"
+
+#~ msgid "seo68"
+#~ msgstr "هل لديك قسيمة؟"
+
+#~ msgid "seo69"
+#~ msgstr "الدفع الآن"
+
+#~ msgid "seo7"
+#~ msgstr "نجعل بناء فريق الأحلام متاحًا للجميع على مدار السنة!"
+
+#: components/GaranteeRow/GaranteeRow.js:41
+#: components/Package/GaranteeRowCoinsPage.js:41
+msgid "seo70"
+msgstr "مدفوعات آمنة 100%"
+
+#: components/GaranteeRow/GaranteeRow.js:52
+#: components/Package/GaranteeRowCoinsPage.js:52
+msgid "seo71"
+msgstr "وقت التسليم [[HH]]"
+
+#: components/Garantee/Garantee.js:84
+#: components/GaranteeRow/GaranteeRow.js:66
+#: components/Package/GaranteeRowCoinsPage.js:66
+msgid "seo72"
+msgstr "مؤهل لاسترداد الأموال"
+
+#~ msgid "seo73"
+#~ msgstr "تسجيل الدخول للشراء"
+
+#~ msgid "seo74"
+#~ msgstr "الحد الأدنى لقيمة أمر الدفع باستخدام BTC أو ETH أو USDT هو [[N]]"
+
+#: components/Package/CheckoutCoupon.js:446
+msgid "seo75"
+msgstr "القسيمة"
+
+#: components/Package/CheckoutCoupon.js:439
+#: components/PriceCouponRedesign/PriceCouponRedesign.js:653
+msgid "seo76"
+msgstr "الطلب"
+
+#~ msgid "seo77"
+#~ msgstr "التسليم"
+
+#~ msgid "seo78"
+#~ msgstr "نجحت العملية"
+
+#: components/DeliveryStage/DeliveryStage.js:73
+#: pages/coins/payment.js:42
+#: pages/order/index.js:117
+#: pages/order/pc.js:84
+#: pages/order/ps4.js:83
+#: pages/order/ps5.js:82
+#: pages/order/xbox_one.js:84
+#: pages/order/xbox_xs.js:84
+msgid "seo79"
+msgstr "تم الدفع مقابل طلبك بنجاح!"
+
+#~ msgid "seo8"
+#~ msgstr "TrustScore 4.6 | عدد المراجعات 550"
+
+#: components/DeliveryStage/DeliveryStage.js:76
+#: components/Order/OrderDeliveryStage.js:77
+msgid "seo80"
+msgstr "انتقل إلى قسم الطلبات واتبع التعليمات هناك لبدء عملية تسليم عملاتك."
+
+#: components/DeliveryStage/DeliveryStage.js:87
+#: components/Order/OrderDeliveryStage.js:92
+msgid "seo81"
+msgstr "الانتقال إلى طلباتي"
+
+#: components/DeliveryStage/DeliveryStage.js:93
+#: components/Order/OrderDeliveryStage.js:103
+msgid "seo82"
+msgstr "ستتم إعادة توجيهك تلقائيًا خلال {X} ثوانٍ"
+
+#~ msgid "seo83"
+#~ msgstr "فشلت العملية"
+
+#: pages/coins/payment.js:42
+#: pages/order/index.js:118
+#: pages/order/pc.js:85
+#: pages/order/ps4.js:84
+#: pages/order/ps5.js:83
+#: pages/order/xbox_one.js:85
+#: pages/order/xbox_xs.js:85
+msgid "seo84"
+msgstr "كانت عملية الدفع الخاصة بك غير ناجحة"
+
+#~ msgid "seo85"
+#~ msgstr "يرجى تجربة طريقة دفع مختلفة أو المحاولة مرة أخرى في وقت لاحق."
+
+#: components/DeliveryStage/DeliveryStage.js:121
+#: components/Order/OrderDeliveryStage.js:135
+msgid "seo86"
+msgstr "أعد محاولة الدفع"
+
+#~ msgid "seo87"
+#~ msgstr "نحن نستخدم ملفات تعريف الارتباط"
+
+#~ msgid "seo88"
+#~ msgstr "إذا تابعت، سنفترض أنك توافق على شروط استخدام ملفات تعريف الارتباط الخاصة بنا."
+
+#: components/Auth/Auth.js:66
+#: components/BurgerMenu/BurgerMenu.js:172
+#: components/BurgerMenu/BurgerMenu.js:205
+msgid "seo89"
+msgstr "لقد قمت بتسجيل الدخول باسم [[X]]"
+
+#~ msgid "seo9"
+#~ msgstr "كيف تعمل هذه الطريقة؟"
+
+#~ msgid "seo90"
+#~ msgstr "تم قبول طلبك"
+
+#: components/MainContainer.js:135
+msgid "seo91"
+msgstr "لقد قمت بتسجيل الخروج"
+
+#: components/MainContainer.js:230
+msgid "seo92"
+msgstr "انتهت صلاحية جلستك. الرجاء تسجيل الدخول من جديد."
+
+#~ msgid "seo93"
+#~ msgstr "تحتاج إلى تسجيل الدخول إلى حسابك لاسترداد قسيمة."
+
+#: components/BurgerMenu/BurgerMenu.js:155
+msgid "seo94"
+msgstr "[[X]] قيد الاستخدام بالفعل"
+
+#: components/TableOrders/TableItem.js:473
+msgid "seo95"
+msgstr "خطأ في إنشاء الطلب: يرجى الاتصال بالدعم"
+
+#~ msgid "seo96"
+#~ msgstr "فشل تسجيل الدخول الخاص بك عبر Google، يرجى المحاولة مرة أخرى"
+
+#~ msgid "seo97"
+#~ msgstr "فشل تسجيل الدخول الخاص بك عبر Facebook، يرجى المحاولة مرة أخرى"
+
+#: components/BurgerMenu/BurgerMenu.js:418
+#: components/Message/Message.js:32
+msgid "seo98"
+msgstr "خطأ في البريد الإلكتروني أو كلمة المرور"
+
+#: components/BurgerMenu/BurgerMenu.js:384
+msgid "seo99"
+msgstr "أدخل عنوان بريد إلكتروني صالحًا"
+
+#: components/Garantee/Garantee.js:51
+#: components/GaranteeRow/GaranteeRow.js:28
+#: components/Package/GaranteeRowCoinsPage.js:27
+msgid "seoh"
+msgstr "ساعة"
+
+#: components/Garantee/Garantee.js:42
+#: components/Garantee/Garantee.js:50
+#: components/GaranteeRow/GaranteeRow.js:27
+#: components/Package/GaranteeRowCoinsPage.js:26
+msgid "seom"
+msgstr "m"
+
+#~ msgid "seop22"
+#~ msgstr "ستجد في متجرنا أفضل العروض على عملة EA FC لكل منصة ألعاب. فنحن نتميز بتقديم عملات UT 25 رخيصة وبسرعة التوصيل ونضمن أمان حسابك بدون أي رسوم إضافية."
+
+#~ msgid "seop23"
+#~ msgstr "يبذل فريقنا قصارى جهده لتقديم أفضل أسعار في السوق. لذا، عند شراء عملات FIFA 25 منا لأي منصة، فاطمئن أنك ستحصل عليها بأفضل سعر."
+
+#~ msgid "seop24"
+#~ msgstr "إذا كانت لديك أي استفسارات متعلقة بشراء عملات FC 25 لجهاز الألعاب الخاص بك، فلا تتردد في التواصل معنا عن طريق أي وسيلة اتصال."
+
+#~ msgid "t"
+#~ msgstr "حول التسليم"
+
+#~ msgid "t_t"
+#~ msgstr "سيتم تسليم القطع النقدية إلى نادي FC 25 المتصل بحساب EA الخاص بك. مطلوب فقط تفاصيل حساب EA لتحويل العملات."
+
+#: components/Aside/Aside.js:52
+msgid "trust:commenturl"
+msgstr "https://uk.trustpilot.com/review/royalfut.com"
+
+#~ msgid "United Arab Emirates"
+#~ msgstr "الإمارات العربية المتحدة"
+
+#~ msgid "United Kingdom"
+#~ msgstr "المملكة المتحدة"
+
+#~ msgid "United States"
+#~ msgstr "الولايات المتحدة"
+
+#: components/ContactsContent/СontactsContent.js:28
+#: pages/wl-boost.js:85
+msgid "via"
+msgstr "اتصل بنا عبر"
+
+#~ msgid "What are the advantages of buying {ut} coins instead of {pt}?"
+#~ msgstr "ما مزايا شراء عملات {ut} بدلاً من {pt}؟"
+
+#: components/Auth/Auth.js:23
+#: components/Message/Message.js:34
+msgid "wntwrng"
+msgstr "حدث خطأ ما"
+
+#: components/PlugVideo/PlugVideo.js:16
+msgid "work"
+msgstr "العمل قيد التنفيذ"

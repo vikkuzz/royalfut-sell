@@ -2,17 +2,12 @@
 "use client";
 
 import { useState } from "react";
-// import { EmptyImageIcon } from "@royalfut/icons";
+import Image from "next/image";
 import { Button } from "@royalfut/ui";
 import { cn } from "@royalfut/utils";
 
-import type { CSSProperties, ReactNode } from "react";
+import type { ReactNode } from "react";
 import type { FNCN, FNCNChildren } from "@royalfut/interfaces";
-import Image from "next/image";
-
-interface IShadow extends CSSProperties {
-    boxShadow: string;
-}
 
 const Guide: FNCN<{
     title: string;
@@ -53,7 +48,7 @@ const Guide: FNCN<{
                         "text-xl sm:text-base font-bold transition-colors duration-300",
                         {
                             "text-white": isActive,
-                            "text-white-40": !isActive,
+                            // "text-white-40": !isActive,
                         }
                     )}>
                     {step}
@@ -79,7 +74,7 @@ const Guide: FNCN<{
                         "block text-3xl sm:text-2xl text-left font-bold leading-tight",
                         {
                             "text-white cursor-default": isActive,
-                            "text-white-40 cursor-pointer": !isActive,
+                            // "text-white-40 cursor-pointer": !isActive,
                         }
                     )}>
                     {title}
@@ -89,7 +84,7 @@ const Guide: FNCN<{
                         "text-xl sm:text-base font-medium inline-block",
                         {
                             "text-white-60": isActive,
-                            "text-white-40": !isActive,
+                            // "text-white-40": !isActive,
                         }
                     )}>
                     {desc}
@@ -102,22 +97,20 @@ const Guide: FNCN<{
 
 const GuideContent: FNCNChildren<{ disable?: boolean }> = ({
     className,
-    disable = false,
+    // disable = false,
     children,
 }) => {
-    const shadow: IShadow = {
-        boxShadow: "0px 8px 80px 0px rgba(137, 81, 242, 0.40)",
-    };
-
     return (
         <div
             className={cn(
                 "flex w-full h-auto justify-end",
-                { "opacity-30": disable },
+                // { "opacity-30": disable },
                 className
             )}>
             <div
-                style={shadow}
+                style={{
+                    boxShadow: "0px 8px 80px 0px rgba(137, 81, 242, 0.40)",
+                }}
                 className="relative flex w-full max-w-3xl h-full bg-black-1 rounded-xl overflow-hidden flex-shrink-0 flex-col items-center justify-center">
                 {/* <EmptyImageIcon className="w-14 h-14 text-white-40" /> */}
                 {children}

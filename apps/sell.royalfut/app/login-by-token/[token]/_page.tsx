@@ -1,6 +1,6 @@
 import { tokenLogin } from "@royalfut/actions";
 import { redirect } from "next/navigation";
-import { PUBLIC_ROUTES } from "@royalfut/collections";
+import { PROJECT_PUBLIC_SELLER_ROUTES } from "@royalfut/collections";
 import { CookiesKeys } from "@royalfut/enums";
 import { cookies } from "next/headers";
 
@@ -8,11 +8,10 @@ import type { FC } from "react";
 
 const LoginByToken: FC<{ params: { token: string } }> = async ({ params }) => {
     if (!params?.token) {
-        redirect(PUBLIC_ROUTES.UNAUTHORIZED_REDIRECT);
+        redirect(PROJECT_PUBLIC_SELLER_ROUTES.UNAUTHORIZED_REDIRECT);
     }
 
     try {
-        console.log(params, "params");
         await tokenLogin(params.token);
         cookies().set(CookiesKeys.AUTH_USER_TOKEN, params.token, {
             httpOnly: true,
@@ -20,9 +19,9 @@ const LoginByToken: FC<{ params: { token: string } }> = async ({ params }) => {
             maxAge: 60 * 60 * 24 * 7,
             path: "/",
         });
-        // redirect(PUBLIC_ROUTES.HOME);
+        // redirect(PROJECT_PUBLIC_SELL_ROUTES.HOME);
     } catch (e) {
-        // redirect(PUBLIC_ROUTES.UNAUTHORIZED_REDIRECT);
+        // redirect(PROJECT_PUBLIC_SELL_ROUTES.UNAUTHORIZED_REDIRECT);
     }
 
     return null;

@@ -1,0 +1,26 @@
+.container {
+    padding: 2px 8px;
+    justify-content: center;
+    align-items: center;
+    gap: 2px;
+    height: 24px;
+    align-self: center;
+    width: auto;
+
+    border: none;
+    border-radius: 100px;
+    background: var(
+        --Primary-Purple-gradient,
+        linear-gradient(266deg, #a82df9 0%, #6678e9 100%)
+    );
+
+    span {
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
+    }
+}
+.wrapper_img {
+    min-width: 12px;
+    background: transparent;
+}

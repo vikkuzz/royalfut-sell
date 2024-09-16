@@ -25,7 +25,6 @@
     "**/*.js",
     "**/*.jsx",
     "../../apps/sell.royalfut/.next/types/**/*.ts",
-    "../../dist/apps/sell.royalfut/.next/types/**/*.ts",
     "next-env.d.ts",
     ".next/types/**/*.ts",
     "jest.config.ts"

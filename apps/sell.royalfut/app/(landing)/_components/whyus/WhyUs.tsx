@@ -171,7 +171,7 @@ const WhyUs = () => {
         <LayoutViewportSectionFrame asChild>
             <section className="flex flex-col mt-24">
                 <div className="mb-10">
-                    <h2 className="w-2/4 text-6xl font-bold text-white">
+                    <h2 className="min-w-full md:min-w-[500px] md:max-w-[550px] text-6xl font-bold text-white">
                         Why you should choose us
                     </h2>
                 </div>

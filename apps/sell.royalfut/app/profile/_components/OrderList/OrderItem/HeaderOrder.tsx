@@ -17,8 +17,8 @@ const HeaderOrder = ({ order }: { order: IOrder }) => {
             <div>№ {order.id}</div>
             <div className="flex gap-1" data-state={isOpen ? "open" : "closed"}>
                 <div className="bg-white/[.1] px-2 py-1 text-xs text-white/75 rounded-full">
-                    {ccyCollection[order.currency.toLowerCase()].symbol}{" "}
-                    {Number(order.overallPrice).toFixed(2)}
+                    {ccyCollection[order.currency].symbol}{" "}
+                    {order.estimatedPrice?.toFixed(2)}
                 </div>
                 <ArrowDownFilledIcon
                     className={cn(

@@ -1,0 +1,49 @@
+.container {
+    flex-direction: column-reverse;
+    gap: 40px;
+
+    @media (min-width: 1025px) {
+        flex-direction: row;
+        gap: 100px;
+
+        justify-content: space-between;
+    }
+}
+.sticky_block {
+    height: min-content;
+    width: auto;
+
+    @media (min-width: 1025px) {
+        position: sticky;
+        top: 90px;
+        min-width: 550px;
+        max-width: 550px;
+    }
+}
+.wparrer_column {
+    flex-direction: column;
+    gap: 100px;
+    padding-bottom: 40px;
+
+    @media (min-width: 1025px) {
+        padding-bottom: 100px;
+    }
+}
+.text_content {
+    max-width: 720px;
+    flex-direction: column;
+    gap: 24px;
+
+    p {
+        line-height: 150%;
+        flex-direction: column;
+        span {
+            line-height: 150%;
+        }
+    }
+}
+.marker {
+    width: auto;
+    padding-left: 24px;
+    padding-right: 8px;
+}

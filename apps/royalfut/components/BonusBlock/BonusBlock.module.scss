@@ -1,0 +1,46 @@
+.block_container{
+    flex-direction: column;    
+    background: #2B2D43;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0px 12px 20px rgba(0, 0, 0, 0.4);
+    border-radius: 28px;
+    padding: 20px;
+    width: 100%;
+    gap: 8px;
+    justify-content: flex-end;
+    padding-top: 90px;
+
+    background-image: url('/img/Vector\ 927.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 370px;
+
+    @media (min-width:1025px) {
+        max-width: 332px;
+        width: 332px;
+    }
+}
+.bonus_title{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+}
+.bonus_text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: rgba(255, 255, 255, 0.6);
+}
+.btn_wrapper{
+    padding-top: 8px;
+    background-color: transparent;
+    background-image: none;
+}
+.text_btn{
+    justify-content: center;
+    
+}

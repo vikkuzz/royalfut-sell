@@ -1,0 +1,210 @@
+.content{
+    flex-direction: column;
+    gap: 32px;
+    @media (min-width:1025px){
+        flex-direction: row;
+        align-items: stretch;
+        gap: 16px;
+    }
+    
+}
+
+.acc_container{
+    flex-direction: column;
+    background-color: transparent;
+}
+.acc_item{
+    flex-direction: column;
+    align-items: flex-start;
+}
+.item_title{
+    background-color: transparent;
+    width: auto;
+}
+.item_arrow{
+    background-color: transparent;
+}
+.item_content{
+    background-color: transparent;
+}
+.item_title_container{
+    width: auto;
+}
+.faq_blocktext{
+    flex-direction: column;
+    transition: all .3s;
+    align-items: flex-start;
+    gap: 8px;
+
+    p{
+        padding-bottom: 0;
+        color: var(--white-06-white, rgba(255, 255, 255, 0.60));
+        font-family: 'Montserrat';
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+    }
+}
+.content_text{
+    //padding: 24px 32px;
+
+    p{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+
+        /* White/0.6 White */
+
+        color: rgba(255, 255, 255, 0.6);
+    }
+}
+.p_text{
+    display: block;
+}
+.p_link{
+    font-family: 'Montserrat',helvetica,arial,sans-serif;
+    display: inline-block;
+    width: auto;
+    text-decoration: underline;
+    color: hsla(0,0%,100%,.8);
+    font-size: 3.7333333333vmin;
+    line-height: 4.8vmin;
+    letter-spacing: -.02em;
+
+    @media (min-width:1025px) {
+        font-size: 14px;
+        line-height: 18px;
+    }
+}
+.p_link:hover{
+    text-decoration: none;
+    color: #fff;
+}
+.column_sticky{
+    flex-direction: column;
+    max-width: 448px;
+
+    @media (min-width:1025px) {
+        gap: 32px;
+    }
+}
+
+.nav_container{
+    flex-direction: column;
+    max-width: 448px;
+
+    @media (min-width:1025px) {
+        gap: 8px;
+    }    
+}
+.btn_section{
+    padding: 16px 0;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    
+    &:hover{
+        opacity: 0.6;
+    }
+
+    @media (min-width:1025px) {
+        padding: 16px 24px;
+
+        &:hover{
+            opacity: 1;
+            border-radius: 24px;
+            background: ( rgba(255, 255, 255, 0.05));
+        }
+    }   
+}
+.faq_section{
+    flex-direction: column;
+    gap: 20px;
+}
+.faq_h2{
+    font-family: 'Montserrat';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    scroll-margin-top: 150px;
+}
+.section_text_wrapper{
+    border-radius: 28px;
+    border: 1px solid var(--white-01-white, rgba(255, 255, 255, 0.10));
+    background: var(--white-005-white, rgba(255, 255, 255, 0.05));
+    padding: 12px;
+}
+.custom_ul{
+    padding: 0;
+    flex-direction: column;
+    background-color: transparent;
+    gap: 8px;
+
+    color: var(--white-06-white, rgba(255, 255, 255, 0.60));
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.custom_li{
+    background-color: transparent;
+    gap: 8px;
+    color: var(--white-06-white, rgba(255, 255, 255, 0.60));
+
+    span{
+        display: initial;
+        width: auto;
+
+        color: var(--white-06-white, rgba(255, 255, 255, 0.60));
+        font-family: 'Montserrat';
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+    }
+    a{
+        width: auto;
+        display: initial;
+        //color: rgba(255, 255, 255, 0.60);
+        font-family: 'Montserrat';
+        font-size: 16px;
+        font-style: bold;
+        font-weight: 600;
+        line-height: normal;
+
+        &:hover{
+            color: white;
+        }
+    }
+    strong{
+        width: auto;
+        display: contents;
+        background-color: transparent;
+    }
+}
+.wrapper_sections{
+    gap: 32px;
+}
+.show_modal{
+    width: auto;
+    justify-content: center;
+}
+.center{
+    align-items: center;
+}
+.link_trust{
+    width: auto;
+    display: contents;
+}
+.stick_block{
+    position: sticky;
+    top: 90px;
+    gap: 8px;
+}

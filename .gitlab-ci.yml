@@ -1,0 +1,81 @@
+.prepare-ssh: &prepare-ssh
+  - mkdir -p ~/.ssh
+  - chmod 700 ~/.ssh
+  - eval $(ssh-agent -s)
+  - echo "${PROD_ROYALFUT_SSH_KEY}" | tr -d '\r' | ssh-add -
+
+.release-ssh: &release-ssh
+  - set -x
+  - |
+    ssh -o StrictHostKeyChecking=no ubuntu@royalfut.com 'bash -s' << EOF
+      echo "Starting release script" && \
+      cd /home/ubuntu && \
+      nohup ./next_release.sh &
+    EOF
+
+.prepare-ssh-test: &prepare-ssh-test
+  - mkdir -p ~/.ssh
+  - chmod 700 ~/.ssh
+  - eval $(ssh-agent -s)
+  - echo "${TEST_ROYALFUT_SSH_KEY}" | tr -d '\r' | ssh-add -
+
+.release-ssh-test-royalfut: &release-ssh-test-royalfut
+  - set -x
+  - |
+    ssh -o StrictHostKeyChecking=no ubuntu@test-royalfut.com 'bash -s' << EOF
+      echo "Starting release script" && \
+      cd /home/ubuntu && \
+      nohup ./release_royalfut.sh &
+    EOF
+
+.release-ssh-test-seller-royalfut: &release-ssh-test-seller-royalfut
+  - set -x
+  - |
+    ssh -o StrictHostKeyChecking=no ubuntu@test-royalfut.com 'bash -s' << EOF
+      echo "Starting release script" && \
+      cd /home/ubuntu && \
+      nohup ./release_seller_royalfut.sh &
+    EOF
+
+stages:
+  - prepare
+  - deploy
+
+deploy-royalfut-test:
+  stage: deploy
+  when: manual
+  only:
+    - develop
+  variables:
+    SSH_KEY: ${TEST_ROYALFUT_SSH_KEY}
+    USER: ${TEST_ROYALFUT_USER}
+    HOST: ${TEST_ROYALFUT_HOST}
+  script:
+    - *prepare-ssh-test
+    - *release-ssh-test-royalfut
+
+deploy-sell-royalfut-test:
+  stage: deploy
+  when: manual
+  only:
+    - develop
+  variables:
+    SSH_KEY: ${TEST_ROYALFUT_SSH_KEY}
+    USER: ${TEST_ROYALFUT_USER}
+    HOST: ${TEST_ROYALFUT_HOST}
+  script:
+    - *prepare-ssh-test
+    - *release-ssh-test-seller-royalfut
+
+deploy-royalfut-production:
+  stage: deploy
+  when: manual
+  only:
+    - master
+  variables:
+    SSH_KEY: ${PROD_ROYALFUT_SSH_KEY}
+    USER: ${PROD_ROYALFUT_USER}
+    HOST: ${NEXTPROD_ROYALFUT_HOST}
+  script:
+    - *prepare-ssh
+    - *release-ssh

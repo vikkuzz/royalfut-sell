@@ -1,0 +1,16 @@
+export type * from "./components";
+export type * from "./locale.interface";
+export type * from "./utils.interface";
+export type * from "./user.interface";
+export type * from "./funnel.interface";
+export type * from "./element.interface";
+export type * from "./cookie.interface";
+export type * from "./order.interface";
+export type * from "./payouts.interface";
+export type * from "./withdraw.interface";
+export type * from "./reviews.interface";
+export type * from "./tools.interface";
+export type * from "./app.interface";
+export type * from "./bonus.interface";
+export type * as IAPI from "./api";
+export type * from "./blog.interface";

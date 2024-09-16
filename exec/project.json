@@ -1,0 +1,41 @@
+{
+  "name": "exec",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "exec/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {
+    "build": {
+      "executor": "@nx/js:tsc",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/exec",
+        "main": "exec/src/index.ts",
+        "tsConfig": "exec/tsconfig.lib.json",
+        "assets": [
+          "exec/*.md",
+          {
+            "input": "./exec/src",
+            "glob": "**/!(*.ts)",
+            "output": "./src"
+          },
+          {
+            "input": "./exec/src",
+            "glob": "**/*.d.ts",
+            "output": "./src"
+          },
+          {
+            "input": "./exec",
+            "glob": "generators.json",
+            "output": "."
+          },
+          {
+            "input": "./exec",
+            "glob": "executors.json",
+            "output": "."
+          }
+        ]
+      }
+    }
+  }
+}

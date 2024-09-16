@@ -1,0 +1,113 @@
+.textblock{
+    position: relative;
+    flex-direction: column;
+    padding: 0 2vmin 2vmin;
+
+    @media (min-width:768px) and (max-width:1023px) {
+        background: rgba(255, 255, 255, 0.05);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        border-radius: 28px;
+    }
+
+    @media (min-width:1025px) {
+        background: rgba(255, 255, 255, 0.05);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        border-radius: 28px;
+        height: 100%;
+    }
+}
+.textblock_decor{
+    //position: absolute;
+    top: 0;
+    left: 0;
+    //z-index: -1;
+    //max-width: 9.5vmin;
+    width: 48px;
+    background-color: transparent;
+    //object-position: 0vmin -2vmin;
+    object-fit: contain;
+
+    @media (min-width:1025px) {
+        max-width: 55px;
+    }
+}
+.textblock_container{
+    flex-direction: column;
+    padding-top: 15vmin;
+    gap: 32px;
+
+    @media (min-width:1025px) {
+        padding-top: 100px;
+        flex-direction: row;
+        gap: 16px;
+    }
+}
+.textblock_text{
+    background-color: transparent;
+    // font-family: 'Montserrat',helvetica,arial,sans-serif;
+    // font-weight: 600;
+    // font-size: 3.2vmin;
+    // line-height: 4vmin;
+    // letter-spacing: -.01em;
+    // color: hsla(0,0%,100%,.6);
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: rgba(255, 255, 255, 0.6);
+
+    @media (min-width:1025px) {
+        font-size: 16px;
+        line-height: 20px;
+    }
+}
+.textblock_title{
+    background-color: transparent;
+    padding-bottom: 12px;
+    //padding-bottom: 1.6vmin;
+    font-size: 18px;
+    line-height: 6.4vmin;
+    font-weight: 400;
+    justify-content: flex-start;
+    padding-top: 2vmin;
+    gap: 20px;
+    align-items: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 29px;    
+
+    @media (min-width:1025px) {
+        font-size: 36px;
+        line-height: 36px;
+        flex-direction: column;
+        align-items: flex-start;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 29px;
+        display: flex;
+
+        color: #FFFFFF;
+    }
+}
+
+.textblock_row{
+    //padding-bottom:12.8vmin;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 32px;
+
+    @media (min-width:768px) and (max-width:1023px) {
+        flex-direction: row;
+    }
+
+    @media (min-width:1025px) {
+        padding-bottom: 60px;
+        flex-direction: row;
+        gap: 16px;
+    }
+}

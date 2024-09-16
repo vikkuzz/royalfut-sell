@@ -1,0 +1,4469 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-03-13 12:09+0400\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: nl\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: pages/_app.js:26
+msgid "\"seo:root:description\""
+msgstr ""
+
+#: components/DeliveryStage/DeliveryStage.js:121
+#~ msgid "{0}"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:52
+msgid "80% of orders are delivered"
+msgstr "zijn 80% van de bestellingen geleverd"
+
+#~ msgid "a0"
+#~ msgstr "Gebaseerd op [[X]] recensies"
+
+#: components/Rated/Rated.js:83
+#: components/ReviewsGallery/ReviewsGallery.js:87
+msgid "a0_1"
+msgstr "Gebaseerd op "
+
+#: components/Rated/Rated.js:90
+msgid "a0_2"
+msgstr "[[X]] recensies"
+
+#: components/ChangePassword/ChangePassword.js:153
+msgid "a1"
+msgstr "Wachtwoord wijzigen"
+
+#~ msgid "a10"
+#~ msgstr "Bonusmunten"
+
+#: components/Order/OrderDelivery.js:192
+msgid "a100"
+msgstr "Spelersveiling"
+
+#: components/CustomAccordion/CustomAccordion.js:52
+#: components/CustomAccordion/CustomAccordion.js:642
+msgid "a101"
+msgstr "Vragen over de Spelersveiling-bezorgmethode"
+
+#: components/CustomAccordion/CustomAccordion.js:648
+msgid "a102"
+msgstr "Hoe moet ik mijn FUT-club voorbereiden voor een Spelersveiling-bestelling?"
+
+#: components/CustomAccordion/CustomAccordion.js:345
+msgid "a103"
+msgstr "- zorg dat je de transfermarkt hebt ontgrendeld "
+
+#: components/CustomAccordion/CustomAccordion.js:348
+msgid "a103_2"
+msgstr "- houd minstens 5000 munten in je saldo"
+
+#: components/CustomAccordion/CustomAccordion.js:659
+msgid "a104"
+msgstr "Hoe controleer ik of mijn transfermarkt is ontgrendeld?"
+
+#: components/CustomAccordion/CustomAccordion.js:357
+msgid "a105"
+msgstr "Transfermarkt is ontgrendeld"
+
+#: components/CustomAccordion/CustomAccordion.js:360
+msgid "a106"
+msgstr "Transfermarkt is vergrendeld"
+
+#: components/CustomAccordion/CustomAccordion.js:670
+msgid "a107"
+msgstr "Welke stappen moet ik nemen om een bestelling te plaatsen en munten te ontvangen met deze methode?"
+
+#: components/CustomAccordion/CustomAccordion.js:211
+msgid "a108"
+msgstr "Spelersveiling"
+
+#: components/CustomAccordion/CustomAccordion.js:225
+msgid "a109"
+msgstr "1. Kies de Spelersveiling-bezorgmethode terwijl je een bestelling plaatst."
+
+#: components/Purchase/Purchase.js:661
+msgid "a11"
+msgstr "Je bestelling wordt geladen, een momentje..."
+
+#: components/CustomAccordion/CustomAccordion.js:228
+msgid "a110"
+msgstr "2. Betaal voor je bestelling."
+
+#: components/CustomAccordion/CustomAccordion.js:231
+msgid "a111"
+msgstr "3. Na een geslaagde betaling word je doorgestuurd naar de pagina met de instructies voor het bezorgen van de munten. Volg de daarin beschreven stappen en gebruik het account waarnaar je de munten wilt laten overmaken."
+
+#: components/CustomAccordion/CustomAccordion.js:235
+msgid "a112"
+msgstr "Meer informatie over het hele proces vind je in de video hieronder."
+
+#~ msgid "a113"
+#~ msgstr "Meer info"
+
+#: components/CustomAccordion/CustomAccordion.js:243
+msgid "a114"
+msgstr "4. Dat is alles! Veel plezier met je munten! En vergeet niet om een"
+
+#~ msgid "a115"
+#~ msgstr "recensie achter te laten op Trustpilot."
+
+#~ msgid "a116"
+#~ msgstr "Als je vragen hebt of hulp nodig hebt, neem dan gerust contact op met ons ondersteuningsteam via live chat of op welke manier je maar wilt (WhatsApp, Telegram, Instagram Direct of e-mail)."
+
+#: components/CustomAccordion/CustomAccordion.js:53
+#: components/CustomAccordion/CustomAccordion.js:681
+msgid "a117"
+msgstr "Vragen over betalingen"
+
+#: components/CustomAccordion/CustomAccordion.js:687
+msgid "a118"
+msgstr "In welke landen zijn jullie actief?"
+
+#: components/CustomAccordion/CustomAccordion.js:447
+msgid "a119"
+msgstr "We zijn over de hele wereld actief en accepteren betalingen uit alle regio's, met uitzondering van rechtsgebieden met een hoog risico zoals Afghanistan, Noord-Korea, Syrië, de Krim en meer."
+
+#: components/ChangeAvatar/ChangeAvatar.js:52
+msgid "a12"
+msgstr "Kies je profielafbeelding"
+
+#: components/CustomAccordion/CustomAccordion.js:695
+msgid "a120"
+msgstr "Welke betaalmethoden zijn er beschikbaar op jullie website?"
+
+#: components/CustomAccordion/CustomAccordion.js:458
+msgid "a121"
+msgstr "De lijst met betaalmethoden die we ondersteunen, wordt voortdurend bijgewerkt omdat we de interactie tussen gebruikers en onze service willen verbeteren. Op dit moment accepteren we de volgende betaalmethoden: "
+
+#: components/CustomAccordion/CustomAccordion.js:462
+msgid "a121_2"
+msgstr "1. VISA-, MasterCard-, Maestro-, Discover-, DinnersClub-, JCB- en UnionPay-kaarten."
+
+#: components/CustomAccordion/CustomAccordion.js:465
+msgid "a121_3"
+msgstr " 2. Contactloos betalen via Apple Pay en Google Pay. "
+
+#: components/CustomAccordion/CustomAccordion.js:468
+msgid "a121_4"
+msgstr "3. Bankoverschrijving via de meeste EU-banken, iDeal en andere. "
+
+#: components/CustomAccordion/CustomAccordion.js:471
+msgid "a121_5"
+msgstr "4. Cryptocurrencies - Bitcoin, USD Tether, Ethereum."
+
+#: components/CustomAccordion/CustomAccordion.js:703
+msgid "a122"
+msgstr "Hoe kan ik mijn geld terugkrijgen?"
+
+#: components/CustomAccordion/CustomAccordion.js:708
+msgid "a123"
+msgstr "Als je je bestelling hebt betaald, maar om de een of andere reden geen munten meer nodig hebt, kun je een volledige terugbetaling aanvragen. Om dat te doen, moet je contact opnemen met onze klantenservice via live chat of op een andere manier naar keuze (WhatsApp, Telegram, Instagram Direct of e-mail)."
+
+#: components/CustomAccordion/CustomAccordion.js:713
+msgid "a124"
+msgstr "Kopen jullie ook munten van gebruikers?"
+
+#: components/CustomAccordion/CustomAccordion.js:718
+msgid "a125"
+msgstr "Dat is niet onze belangrijkste focus, maar soms doen we dat wel. Als je contact opneemt met onze manager via Skype of Telegram, zullen we je aanbod overwegen."
+
+#~ msgid "a126"
+#~ msgstr "Helemaal klaar? Dan is het tijd om een aankoop te doen!"
+
+#~ msgid "a127"
+#~ msgstr "Munten kopen"
+
+#: components/RedirectModal/RedirectModal.js:40
+msgid "a128"
+msgstr "Doorverwijzen..."
+
+#: components/RedirectModal/RedirectModal.js:42
+msgid "a129"
+msgstr "Je wordt automatisch doorverwezen naar de site van onze partner"
+
+#~ msgid "a13"
+#~ msgstr "Verander het aantal munten"
+
+#: components/RedirectModal/RedirectModal.js:44
+msgid "a130"
+msgstr "over [[X]] seconden"
+
+#: components/Modal/Modal.js:253
+msgid "a131"
+msgstr "Ga nu"
+
+#~ msgid "a132"
+#~ msgstr "Er zijn minstens 2 back-upcodes vereist"
+
+#~ msgid "a133"
+#~ msgstr "Je bestelling"
+
+#~ msgid "a134"
+#~ msgstr "Bonusmunten"
+
+#: components/Order/OrderPayments.js:107
+msgid "a135"
+msgstr "Betaalmethode"
+
+#: components/Payments/Payments.js:96
+#: components/Payments/Payments.js:181
+#: components/Purchase/Purchase.js:126
+#: components/Purchase/Purchase.js:132
+#: components/Purchase/Purchase.js:162
+#: components/Purchase/Purchase.js:168
+#: components/Purchase/Purchase.js:180
+msgid "a136"
+msgstr "Met kaart"
+
+#: components/Payments/Payments.js:140
+#: components/Purchase/Purchase.js:156
+msgid "a137"
+msgstr "Via online bankieren"
+
+#: components/Payments/Payments.js:160
+#: components/Payments/Payments.js:200
+#: components/Purchase/Purchase.js:138
+#: components/Purchase/Purchase.js:144
+#: components/Purchase/Purchase.js:150
+#: components/Purchase/Purchase.js:174
+msgid "a138"
+msgstr "Met crypto"
+
+#: components/Order/OrderPayments.js:36
+#: components/Payments/Payments.js:146
+msgid "a139"
+msgstr "EU: bankoverschrijving"
+
+#: components/TableOrders/TableOrderBody.js:728
+msgid "a14"
+msgstr "Plakken"
+
+#~ msgid "a140"
+#~ msgstr "Bezorging"
+
+#: components/DeliveryContent/DeliveryContent.js:13
+msgid "a141"
+msgstr "We willen je graag laten kennismaken met het innovatieve systeem voor EA FC-munten, ontwikkeld door ondergetekende, met een unieke benadering van de FIFA-muntenmarkt. Elke individuele bestelling wordt verwerkt met behulp van een aantal eigendomsprotocollen waarbij ongewilde gevolgen voor het account van EA worden uitgesloten. We zijn doorlopend bezig met het verbeteren van ons algoritme voor muntoverdracht. We kalibreren het grondig en het wordt uitvoerig getest. Alleen als elk getest onderdeel positief uit de bus komt, wordt het goedgekeurd voor volledige implementatie."
+
+#: components/DeliveryContent/DeliveryContent.js:15
+msgid "a142"
+msgstr "Daarnaast is onze invloedssfeer flink uitgebreid door het aangaan van productieve partnerschappen met veel andere organisaties die betrokken zijn bij de verkoop van EA FC-munten. Momenteel bevat ons ecosysteem meer dan 10 op ons platform geïntegreerde winkels. En onze deuren naar zulk soort samenwerkingen staan altijd open. Als je geïnteresseerd bent in een partnerschap met ons als EA FC-muntenwinkel, neem dan contact met ons op via"
+
+#: components/DeliveryContent/DeliveryContent.js:24
+msgid "a143"
+msgstr "Skype"
+
+#: components/DeliveryContent/DeliveryContent.js:27
+msgid "a144"
+msgstr "of"
+
+#: components/DeliveryContent/DeliveryContent.js:34
+msgid "a145"
+msgstr "Telegram"
+
+#: components/DeliveryContent/DeliveryContent.js:37
+msgid "a146"
+msgstr "om de details te bespreken van deze samenwerkingsmogelijkheid, waardoor we gezamenlijk de bovenstaande lijst met prestaties op de FUT- en EA FC-muntenmarkt nog indrukwekkender kunnen maken."
+
+#: components/Infografic/Infografic.js:114
+msgid "a147"
+msgstr "Hier zijn wat statistieken* voor de geïnteresseerden:"
+
+#: components/Infografic/Infografic.js:12
+#: components/InfograficMain/InfograficMain.js:12
+msgid "a148"
+msgstr "We hebben meer dan"
+
+#~ msgid "a149"
+#~ msgstr "7"
+
+#: components/Infografic/Infografic.js:14
+#~ msgid "a149_1"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:14
+msgid "a149_2"
+msgstr "7"
+
+#: components/Infografic/Infografic.js:15
+msgid "a149_3"
+msgstr "+"
+
+#~ msgid "a15"
+#~ msgstr "Log in op je account om de coupon te gebruiken"
+
+#: components/Infografic/Infografic.js:16
+msgid "a150"
+msgstr "jaar ervaring"
+
+#: components/Infografic/Infografic.js:21
+#: components/InfograficMain/InfograficMain.js:20
+msgid "a151"
+msgstr "We hebben meer dan"
+
+#~ msgid "a152"
+#~ msgstr "100"
+
+#: components/Infografic/Infografic.js:23
+#~ msgid "a152_1"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:23
+msgid "a152_2"
+msgstr "100"
+
+#: components/Infografic/Infografic.js:24
+msgid "a152_3"
+msgstr "B+"
+
+#: components/Infografic/Infografic.js:26
+#~ msgid "a153"
+#~ msgstr "munten overgedragen aan klantenaccounts"
+
+#: components/Infografic/Infografic.js:30
+#: components/InfograficMain/InfograficMain.js:28
+msgid "a154"
+msgstr "We hebben meer dan"
+
+#~ msgid "a155"
+#~ msgstr "100"
+
+#: components/Infografic/Infografic.js:32
+#~ msgid "a155_1"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:32
+msgid "a155_2"
+msgstr "100"
+
+#: components/Infografic/Infografic.js:33
+msgid "a155_3"
+msgstr "K+"
+
+#: components/Infografic/Infografic.js:35
+#~ msgid "a156"
+#~ msgstr "geleverde bestellingen"
+
+#: components/Infografic/Infografic.js:39
+#: components/InfograficMain/InfograficMain.js:36
+msgid "a157"
+msgstr "Onze dienst is gebruikt door meer dan"
+
+#~ msgid "a158"
+#~ msgstr "30"
+
+#: components/Infografic/Infografic.js:41
+#~ msgid "a158_1"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:41
+msgid "a158_2"
+msgstr "30"
+
+#: components/Infografic/Infografic.js:42
+msgid "a158_3"
+msgstr "K+"
+
+#: components/Infografic/Infografic.js:44
+#~ msgid "a159"
+#~ msgstr "spelers die onze dienst hebben uitgeprobeerd"
+
+#~ msgid "a16"
+#~ msgstr "+ $ [[X]] per 100k"
+
+#: components/Infografic/Infografic.js:48
+#: components/InfograficMain/InfograficMain.js:44
+msgid "a160"
+msgstr "In minder dan"
+
+#~ msgid "a161"
+#~ msgstr ">80%"
+
+#: components/Infografic/Infografic.js:50
+#~ msgid "a161_1"
+#~ msgstr ">"
+
+#: components/Infografic/Infografic.js:50
+msgid "a161_2"
+msgstr "20"
+
+#: components/Infografic/Infografic.js:53
+#~ msgid "a162"
+#~ msgstr "terugkerende klanten die minstens 2x iets hebben gekocht"
+
+#: components/Infografic/Infografic.js:57
+#: components/InfograficMain/InfograficMain.js:53
+msgid "a163"
+msgstr "Volgens enquêtes zijn"
+
+#~ msgid "a164"
+#~ msgstr "97%"
+
+#: components/Infografic/Infografic.js:61
+#~ msgid "a165"
+#~ msgstr "klanttevredenheid volgens de enquêtes"
+
+#: components/Infografic/Infografic.js:126
+msgid "a166"
+msgstr "*relevant per 1 oktober 2023"
+
+#~ msgid "a167"
+#~ msgstr ""
+
+#~ msgid "a17"
+#~ msgstr "EA FC 25 Ultimate Team Store | EA Sports FC-muntenwinkel"
+
+#~ msgid "a18"
+#~ msgstr "Je ontvangt"
+
+#: pages/coins/index.js:196
+#: pages/coins/index.js:275
+msgid "a19"
+msgstr "Aangepaste hoeveelheid"
+
+#: components/Modal/Modal.js:492
+msgid "a2"
+msgstr "Terug"
+
+#: components/InformationStub/InformationStub.js:19
+msgid "a20"
+msgstr "Je hebt nog geen bestellingen geplaatst"
+
+#: components/InformationStub/InformationStub.js:22
+msgid "a21"
+msgstr "Deze sectie bevat je bestelgeschiedenis"
+
+#: components/InformationStub/InformationStub.js:30
+msgid "a22"
+msgstr "Terug naar startpagina"
+
+#~ msgid "a23"
+#~ msgstr "Met kaart"
+
+#: components/Order/OrderPayments.js:72
+msgid "a24"
+msgstr "Met crypto"
+
+#~ msgid "a25"
+#~ msgstr "Met Apple Pay"
+
+#~ msgid "a26"
+#~ msgstr "Met Google Pay"
+
+#~ msgid "a27"
+#~ msgstr "Met e-wallet"
+
+#~ msgid "a28"
+#~ msgstr "Met bankoverschrijving"
+
+#~ msgid "a29"
+#~ msgstr "VEELGESTELDE VRAGEN"
+
+#~ msgid "a3"
+#~ msgstr "Selecteren"
+
+#: components/CustomAccordion/CustomAccordion.js:502
+#: components/FaqMain/FaqMain.js:124
+msgid "a30"
+msgstr "Waarom zou ik voor ROYALFUT.COM kiezen?"
+
+#: components/CustomAccordion/CustomAccordion.js:61
+#: components/FaqMain/FaqMain.js:19
+msgid "a31"
+msgstr "Daar zijn meerdere redenen voor, zoals je na de eerste aankoop zelf zult ontdekken:"
+
+#: components/CustomAccordion/CustomAccordion.js:65
+#: components/FaqMain/FaqMain.js:23
+msgid "a32"
+msgstr "Wij bieden een van de laagste prijzen op de markt."
+
+#: components/CustomAccordion/CustomAccordion.js:71
+#: components/FaqMain/FaqMain.js:29
+msgid "a33"
+msgstr "Een enorm aantal recensies van tevreden klanten: bekijk ze"
+
+#: components/CustomAccordion/CustomAccordion.js:74
+#: components/FaqMain/FaqMain.js:32
+msgid "a34"
+msgstr "hier."
+
+#: components/CustomAccordion/CustomAccordion.js:82
+#: components/FaqMain/FaqMain.js:40
+msgid "a35"
+msgstr "De absolute veiligheid van je account die altijd voorop staat en een volledige terugbetalingsgarantie voor het geval je bestelling om de een of andere reden niet is geleverd."
+
+#: components/FaqMain/FaqMain.js:46
+msgid "a36"
+msgstr "Kortste leveringstijden: bij ons heb je niet te maken met lange wachttijden voordat de bestelling wordt vervuld."
+
+#: components/FaqMain/FaqMain.js:52
+msgid "a37"
+msgstr "Ons ondersteuningsteam staat altijd klaar om je te helpen bij het oplossen van problemen die je kunt tegenkomen, zowel voor als na de aankoop, via live chat of op een andere manier naar keuze (WhatsApp, Telegram, Instagram Direct of e-mail)."
+
+#: components/CustomAccordion/CustomAccordion.js:510
+#: components/FaqMain/FaqMain.js:132
+msgid "a38"
+msgstr "Wat zijn de voordelen van [[UT]]-munten kopen in plaats van [[PT]]?"
+
+#: components/CustomAccordion/CustomAccordion.js:370
+#: components/FaqMain/FaqMain.js:65
+msgid "a39"
+msgstr "Munten zijn de eerste keus van de meeste [[F]]-spelers van over de hele wereld vanwege hun lage kosten en de mogelijkheid om ze veel voordeliger uit te geven aan je [[UT]]-club."
+
+#~ msgid "a4"
+#~ msgstr "Geselecteerd"
+
+#: components/CustomAccordion/CustomAccordion.js:377
+#: components/FaqMain/FaqMain.js:72
+msgid "a40"
+msgstr "Je kunt[[UT]]-munten uitgeven aan in-game items die op de transfermarkt zijn gezet door andere spelers. Dit kunnen spelerskaarten zijn, coachkaarten, uniformen, stadions, verbruiksitems en meer. En belangrijker nog, dit kan allemaal niet gekocht worden met [[PT]]."
+
+#: components/CustomAccordion/CustomAccordion.js:384
+#: components/FaqMain/FaqMain.js:79
+msgid "a41"
+msgstr "Met [[PT]] kun je pakketten kopen in de [[UT]]-winkel en toegang krijgen tot de [[UT]]-drafts. Beide dingen kun je echter ook met munten doen. Wat echt geld betreft, is het 5 keer goedkoper om in-game te winkelen met [[UT]]-munten in plaats van [[PT]]. Koop je munten bij ons en zie het zelf 😉"
+
+#: components/CustomAccordion/CustomAccordion.js:520
+msgid "a42"
+msgstr "Welke bezorgmethoden bieden jullie en wat is het verschil tussen de verschillende opties?"
+
+#: components/CustomAccordion/CustomAccordion.js:397
+msgid "a43"
+msgstr "Er zijn twee bezorgmethoden die je kunt kiezen op onze website: Comfort Trade en Spelersveiling."
+
+#: components/CustomAccordion/CustomAccordion.js:402
+msgid "a44"
+msgstr "Om Comfort Trade-bestellingen te verwerken, moet je ons je EA-accountgegevens geven, maar verder is er geen actie nodig van jouw kant; wij handelen het bezorgproces zelf af."
+
+#: components/CustomAccordion/CustomAccordion.js:407
+msgid "a45"
+msgstr "Voor de Spelersveiling-bezorgmethode zijn geen gegevens nodig, maar je zult de munten zelf moeten overzetten aan de hand van onze instructies."
+
+#: components/CustomAccordion/CustomAccordion.js:412
+msgid "a46"
+msgstr "Meer info over bezorgmethoden vind je"
+
+#: components/CustomAccordion/CustomAccordion.js:414
+msgid "a47"
+msgstr "hier."
+
+#: components/CustomAccordion/CustomAccordion.js:528
+msgid "a48"
+msgstr "Hoelang duurt het tot de munten bezorgd worden?"
+
+#: components/CustomAccordion/CustomAccordion.js:426
+msgid "a49"
+msgstr "Dat hangt af van de bezorgmethode die je kiest."
+
+#: components/BurgerMenu/BurgerMenu.js:306
+#: components/BurgerMenu/BurgerMenu.js:501
+msgid "a5"
+msgstr "Menu"
+
+#: components/CustomAccordion/CustomAccordion.js:431
+msgid "a50"
+msgstr "We tonen de geschatte levertijd voor Comfort Trade-bestellingen vóór betaling op de afrekenpagina. Als alle gegevens die je hebt opgegeven correct zijn en je account volledig klaar is voor het overmaken van munten, is de bestelling gemiddeld binnen 15-20 minuten klaar. Houd er echter rekening mee dat de levertijd voornamelijk afhangt van het aantal bestelde munten."
+
+#: components/CustomAccordion/CustomAccordion.js:436
+msgid "a51"
+msgstr "Wat betreft de Spelersveiling-bezorgmethode, de timing van deze optie hangt volledig van jou af. De muntoverdracht wordt uitgevoerd door het kopen en verkopen van spelerskaarten. Er worden gemiddeld 3-10 kaarten door ons systeem gesuggereerd die je koopt en verkoopt om de bestelling te voltooien met deze methode. Maar vergeet niet dat je startsaldo een belangrijke rol speelt in dit scenario - hoe groter het is, hoe sneller de levering zal worden verwerkt, dus probeer het zo hoog mogelijk te maken voordat je een bestelling plaatst, bijvoorbeeld door ongewenste kaarten te verkopen."
+
+#: components/CustomAccordion/CustomAccordion.js:536
+msgid "a52"
+msgstr "Hoe gebruik ik een kortingscoupon?"
+
+#: components/CustomAccordion/CustomAccordion.js:542
+msgid "a53"
+msgstr "Ga naar de afrekenpagina."
+
+#: components/CustomAccordion/CustomAccordion.js:548
+#: components/FaqMain/FaqMain.js:143
+msgid "a54"
+msgstr "Zijn er nog speciale aanbiedingen voor gewone klanten?"
+
+#: components/CustomAccordion/CustomAccordion.js:554
+#: components/FaqMain/FaqMain.js:91
+msgid "a55"
+msgstr "Ja. Je ontvangt speciale aanbiedingen zodra we merken dat je regelmatig bij ons koopt. Bovendien werken we aan een transparant loyaliteitsprogramma. Binnenkort meer hierover!"
+
+#: components/Order/OrderDelivery.js:141
+msgid "a56"
+msgstr "Comfort Trade"
+
+#: components/CustomAccordion/CustomAccordion.js:51
+#: components/CustomAccordion/CustomAccordion.js:563
+msgid "a57"
+msgstr "Vragen over de Comfort Trade-bezorgmethode"
+
+#: components/CustomAccordion/CustomAccordion.js:569
+msgid "a58"
+msgstr "Hoe moet ik mijn [[UT]]-club voorbereiden op een Comfort Trade-bestelling?"
+
+#~ msgid "a59"
+#~ msgstr "Transferlijst"
+
+#~ msgid "a6"
+#~ msgstr "[[X]] munten"
+
+#: components/CustomAccordion/CustomAccordion.js:110
+msgid "a60"
+msgstr "zorg dat je de transfermarkt hebt ontgrendeld in [[WA]]"
+
+#: components/CustomAccordion/CustomAccordion.js:120
+msgid "a61"
+msgstr "houd minstens 5000 munten in je saldo"
+
+#: components/CustomAccordion/CustomAccordion.js:126
+msgid "a62"
+msgstr "maak zoveel mogelijk ruimte vrij op je transferlijst"
+
+#: components/CustomAccordion/CustomAccordion.js:580
+msgid "a63"
+msgstr "Hoe controleer ik of mijn transfermarkt in [[WA]] is ontgrendeld?"
+
+#: components/CustomAccordion/CustomAccordion.js:138
+msgid "a64"
+msgstr "Transfermarkt is ontgrendeld"
+
+#: components/CustomAccordion/CustomAccordion.js:141
+msgid "a65"
+msgstr "Transfermarkt is vergrendeld"
+
+#: components/CustomAccordion/CustomAccordion.js:591
+msgid "a66"
+msgstr "Welke stappen moet ik nemen om een bestelling te plaatsen en munten te ontvangen met deze methode?"
+
+#: components/CustomAccordion/CustomAccordion.js:151
+msgid "a67"
+msgstr "Comfort Trade"
+
+#: components/CustomAccordion/CustomAccordion.js:165
+msgid "a68"
+msgstr "1. Kies de Comfort Trade-bezorgmethode terwijl je een bestelling plaatst."
+
+#: components/CustomAccordion/CustomAccordion.js:168
+msgid "a69"
+msgstr "2. Betaal voor je bestelling."
+
+#~ msgid "a7"
+#~ msgstr "FC 25-munten"
+
+#: components/CustomAccordion/CustomAccordion.js:171
+msgid "a70"
+msgstr "3. Na een geslaagde betaling moet je je EA-accountgegevens invullen in de betreffende invoervelden."
+
+#: components/CustomAccordion/CustomAccordion.js:174
+msgid "a71"
+msgstr "4. Als de ingevoerde gegevens kloppen, begint het automatische bezorgproces. Zorg dat je tijdens dit proces NIET inlogt op je [[F]]-account. Als de bestelling is voltooid, krijg je hier melding van via e-mail en er verschijnt een overeenkomstig bericht op de website."
+
+#: components/CustomAccordion/CustomAccordion.js:181
+msgid "a72"
+msgstr "Meer informatie over het hele proces vind je in de video hieronder."
+
+#: components/CustomAccordion/CustomAccordion.js:185
+#: components/CustomAccordion/CustomAccordion.js:239
+#: components/Products/Products.js:61
+msgid "a73"
+msgstr "Meer info"
+
+#: components/CustomAccordion/CustomAccordion.js:189
+msgid "a74"
+msgstr "5. Dat is alles! Veel plezier met je munten! En vergeet niet om een"
+
+#: components/CustomAccordion/CustomAccordion.js:196
+#: components/CustomAccordion/CustomAccordion.js:250
+msgid "a75"
+msgstr "recensie achter te laten op Trustpilot."
+
+#: components/CustomAccordion/CustomAccordion.js:201
+#: components/CustomAccordion/CustomAccordion.js:255
+msgid "a76"
+msgstr "Als je vragen hebt of hulp nodig hebt, neem dan gerust contact op met ons ondersteuningsteam via live chat of op welke manier je maar wilt (WhatsApp, Telegram, Instagram Direct of e-mail)."
+
+#: components/CustomAccordion/CustomAccordion.js:599
+msgid "a77"
+msgstr "Welke gegevens zijn vereist voor een muntentransfer via Comfort Trade-bezorgmethode?"
+
+#~ msgid "a78"
+#~ msgstr "Back-upcodes"
+
+#: components/CustomAccordion/CustomAccordion.js:264
+msgid "a79"
+msgstr "Alleen het e-mailadres, wachtwoord en back-upcodes van je EA-account. Je hoeft geen EA ID- en PSN/Xbox-inloggegevens of andere informatie te delen."
+
+#~ msgid "a8"
+#~ msgstr "Betaling"
+
+#: components/CustomAccordion/CustomAccordion.js:607
+msgid "a80"
+msgstr "Hoe beschermt ROYALFUT.COM mijn persoonlijke gegevens?"
+
+#: components/CustomAccordion/CustomAccordion.js:273
+msgid "a81"
+msgstr "De administratie van het project beschermt de informatie die via de website wordt verzonden tegen hacken en diefstal op basis van ons strikte privacybeleid en beheersysteem. We geven je EA-accountgegevens, gegevens van betaalkaarten enz. onder GEEN beding door aan derden! Lees meer op onze"
+
+#: components/CustomAccordion/CustomAccordion.js:276
+msgid "a82"
+msgstr "privacybeleid-pagina."
+
+#~ msgid "a83"
+#~ msgstr "Aanmeldverificatie"
+
+#: components/CustomAccordion/CustomAccordion.js:615
+msgid "a84"
+msgstr "Hoe zet ik inlogverificatie aan voor mijn EA-account?"
+
+#: components/CustomAccordion/CustomAccordion.js:287
+msgid "a85"
+msgstr "1. Open de"
+
+#: components/CustomAccordion/CustomAccordion.js:294
+msgid "a86"
+msgstr "pagina voor EA-accountinstellingen"
+
+#: components/CustomAccordion/CustomAccordion.js:299
+msgid "a87"
+msgstr "2. Beveiliging > Aanmeldverificatie > Inschakelen > Beveiligingscode verzenden > Aanmeldverificatie inschakelen"
+
+#~ msgid "a88"
+#~ msgstr "Back-upcodes"
+
+#~ msgid "a89"
+#~ msgstr "Waar kan ik de back-upcodes voor mijn EA-account vinden?"
+
+#~ msgid "a9"
+#~ msgstr "Winkelwagentje"
+
+#~ msgid "a90"
+#~ msgstr "1. Open de"
+
+#~ msgid "a91"
+#~ msgstr "pagina voor EA-accountinstellingen."
+
+#~ msgid "a92"
+#~ msgstr "2. Beveiliging > Back-upcodes > Weergeven > Beveiligingscode verzenden > Verzenden"
+
+#: components/CustomAccordion/CustomAccordion.js:623
+msgid "a93"
+msgstr "Ik ben het e-mailadres van mijn EA-account vergeten. Waar kan ik dat vinden?"
+
+#: components/CustomAccordion/CustomAccordion.js:309
+msgid "a94"
+msgstr "1. Open de game en ga naar het hoofdmenu."
+
+#: components/CustomAccordion/CustomAccordion.js:312
+msgid "a95"
+msgstr "2. Aanpassen > Online-instellingen > EA-account"
+
+#: components/CustomAccordion/CustomAccordion.js:631
+msgid "a96"
+msgstr "Ik ben het wachtwoord van mijn EA-account vergeten. Hoe kan ik het herstellen?"
+
+#: components/CustomAccordion/CustomAccordion.js:323
+msgid "a97"
+msgstr "1. Ga naar de"
+
+#: components/CustomAccordion/CustomAccordion.js:330
+msgid "a98"
+msgstr "aanmeldpagina voor EA-accounts."
+
+#: components/CustomAccordion/CustomAccordion.js:335
+msgid "a99"
+msgstr "2. Aanmelden > Wachtwoord vergeten? > Volgende > Code verzenden > Volgende > Versturen"
+
+#~ msgid "aa0"
+#~ msgstr "Welkom bij een nieuw tijdperk van EA's voetbalsimulator!"
+
+#: components/SpecialOffer/SpecialOffer.js:63
+msgid "aa0_1"
+msgstr "Speciale aanbieding"
+
+#~ msgid "aa1"
+#~ msgstr "EA FC 25-releasepromotie -7%"
+
+#~ msgid "aa10"
+#~ msgstr "Koop EA FC 25-munten voor [[X]]"
+
+#~ msgid "aa11"
+#~ msgstr ""
+
+#~ msgid "aa2"
+#~ msgstr "Gebruik deze coupon voor korting op je volgende bestelling"
+
+#~ msgid "aa3"
+#~ msgstr "In ontwikkeling"
+
+#: components/PageChanger/PageChanger.js:71
+msgid "aa4"
+msgstr "Demo"
+
+#: pages/wl-boost.js:74
+msgid "aa5"
+msgstr "Heb je een boost nodig? Op ons kun je rekenen!"
+
+#: pages/wl-boost.js:79
+msgid "aa6"
+msgstr "We bieden de volgende diensten: EA FC 25 Ultimate Team Finals Rank Boost, UT Champion Finals, UT Champion Playoffs, Divisions Rivals. Neem nu contact met ons op voor de beste prijs!"
+
+#~ msgid "aa7"
+#~ msgstr "We zijn terug over:"
+
+#~ msgid "aa8"
+#~ msgstr "Bezig met voorbereiden op het nieuwe seizoen"
+
+#~ msgid "aa9"
+#~ msgstr "Koop EA FC 25-munten voor je Ultimate Team-club"
+
+#~ msgid "ab0"
+#~ msgstr "Hier zijn wat statistieken* voor de geïnteresseerden:"
+
+#~ msgid "ab1"
+#~ msgstr "7"
+
+#: components/InfograficMain/InfograficMain.js:48
+msgid "ab10"
+msgstr "terugkerende klanten die minstens 2x iets hebben gekocht"
+
+#~ msgid "ab100"
+#~ msgstr "Kassa"
+
+#~ msgid "ab101"
+#~ msgstr "Veilig betalen"
+
+#~ msgid "ab102"
+#~ msgstr "Betaalmethode"
+
+#~ msgid "ab103"
+#~ msgstr "Bezorgmethode"
+
+#~ msgid "ab104"
+#~ msgstr "Kom meer te weten over de verschillen"
+
+#: components/Order/OrderDelivery.js:208
+msgid "ab105"
+msgstr "Niet beschikbaar voor deze hoeveelheid"
+
+#: components/Order/Coupon.js:654
+msgid "ab106"
+msgstr "Heb je een coupon?"
+
+#~ msgid "ab107"
+#~ msgstr "Meld je aan om te kopen"
+
+#: components/Order/OrderInfo.js:95
+msgid "ab108"
+msgstr "Bestelling bewerken"
+
+#: components/Order/OrderInfo.js:98
+msgid "ab109"
+msgstr "Munten"
+
+#: components/InfograficMain/InfograficMain.js:56
+msgid "ab11"
+msgstr "klanttevredenheid volgens de enquêtes"
+
+#~ msgid "ab110"
+#~ msgstr "Platform"
+
+#: components/MainFunnel/StickySecondStep.js:115
+#: components/Order/StickySecondStep.js:355
+#: components/Package/CheckoutSticky.js:451
+msgid "ab111"
+msgstr "Totale prijs"
+
+#~ msgid "ab112"
+#~ msgstr "Nu betalen"
+
+#: components/Offer/Offer.js:65
+msgid "ab113"
+msgstr "0% toeslagen"
+
+#~ msgid "ab114"
+#~ msgstr "GEEN toeslagen"
+
+#~ msgid "ab115"
+#~ msgstr ""
+
+#~ msgid "ab12"
+#~ msgstr "* geldend vanaf 1 oktober 2023"
+
+#~ msgid "ab13"
+#~ msgstr "Daarnaast is onze invloedssfeer flink uitgebreid door het aangaan van productieve partnerschappen met veel andere organisaties die betrokken zijn bij de verkoop van EA FC-munten. Momenteel bevat ons ecosysteem meer dan 10 op ons platform geïntegreerde winkels. En onze deuren naar zulk soort samenwerkingen staan altijd open. Als je geïnteresseerd bent in een partnerschap met ons als EA FC-muntenwinkel, neem dan contact met ons op via"
+
+#~ msgid "ab14"
+#~ msgstr "Skype"
+
+#~ msgid "ab15"
+#~ msgstr "of"
+
+#~ msgid "ab16"
+#~ msgstr "Telegram"
+
+#~ msgid "ab17"
+#~ msgstr "om de details te bespreken van deze samenwerkingsmogelijkheid, waardoor we gezamenlijk de bovenstaande lijst met prestaties op de FUT- en EA FC-muntenmarkt nog indrukwekkender kunnen maken."
+
+#~ msgid "ab18"
+#~ msgstr "Onverwachte fout"
+
+#~ msgid "ab19"
+#~ msgstr "Neem contact op met de klantenservice"
+
+#~ msgid "ab1pl"
+#~ msgstr "+"
+
+#: components/InfograficMain/InfograficMain.js:15
+msgid "ab2"
+msgstr "jaar ervaring"
+
+#: components/FaqMain/FaqMain.js:114
+#: pages/faq.js:28
+msgid "ab20"
+msgstr "Veelgestelde vragen"
+
+#: components/CustomAccordion/CustomAccordion.js:50
+#: components/CustomAccordion/CustomAccordion.js:496
+msgid "ab21"
+msgstr "Algemene vragen"
+
+#~ msgid "ab22"
+#~ msgstr "Met deze hoeveelheid kun je bijna iedere goedkoopste speler kopen."
+
+#~ msgid "ab23"
+#~ msgstr "Sommige van de meest waardevolle spelers liggen met deze hoeveelheid al binnen je bereik."
+
+#~ msgid "ab24"
+#~ msgstr "Met deze hoeveelheid kun je elke beschikbare kaart kopen. Maak je droomteam compleet!"
+
+#: components/TableOrders/TableItem.js:374
+msgid "ab25"
+msgstr "Bestelling in wachtrij"
+
+#~ msgid "ab26"
+#~ msgstr "Koop FC 25-munten voor alle platforms | Ultimate Team-muntenwinkel"
+
+#: pages/order/index.js:58
+#: pages/order/index.js:93
+msgid "ab27"
+msgstr "Koop FC 25-munten voor een platform | ROYALFUT"
+
+#: pages/order/index.js:95
+msgid "ab28"
+msgstr "EA FC 25-muntenaankoop | Veilig betalen | ROYALFUT"
+
+#~ msgid "ab29"
+#~ msgstr "Koop FC 25-munten voor PlayStation 4 | ROYALFUT"
+
+#~ msgid "ab3"
+#~ msgstr "100 "
+
+#~ msgid "ab30"
+#~ msgstr "Koop FC 25-munten voor PlayStation 5 | ROYALFUT"
+
+#~ msgid "ab31"
+#~ msgstr "Koop FC 25-munten voor Xbox One | ROYALFUT"
+
+#~ msgid "ab32"
+#~ msgstr "Koop FC 25-munten voor Xbox Series X/S | ROYALFUT"
+
+#~ msgid "ab33"
+#~ msgstr "Koop FC 25-munten voor pc (Origin / Steam / Epic Games) | ROYALFUT"
+
+#: pages/order/index.js:100
+msgid "ab34"
+msgstr "De betaling is mislukt :( | ROYALFUT"
+
+#: pages/order/index.js:98
+msgid "ab35"
+msgstr "Bedankt voor je aankoop! | ROYALFUT"
+
+#: components/CustomAccordion/CustomAccordion.js:88
+msgid "ab36"
+msgstr "Reviews | ROYALFUT"
+
+#: components/CustomAccordion/CustomAccordion.js:94
+msgid "ab37"
+msgstr "Betalingsmethoden | ROYALFUT"
+
+#~ msgid "ab38"
+#~ msgstr "Ultimate Team-muntenlevering | ROYALFUT"
+
+#: pages/profile.js:34
+msgid "ab39"
+msgstr "Bestelgeschiedenis | ROYALFUT"
+
+#~ msgid "ab3pl"
+#~ msgstr "miljard+"
+
+#: components/InfograficMain/InfograficMain.js:23
+msgid "ab4"
+msgstr "munten overgedragen aan klantenaccounts"
+
+#: pages/profile.js:25
+msgid "ab40"
+msgstr "Mijn profiel | ROYALFUT"
+
+#~ msgid "ab41"
+#~ msgstr "Veilig betalen | ROYALFUT"
+
+#~ msgid "ab42"
+#~ msgstr "Koop een FC 25-boost | Hogere rang in Weekend League en Division Rivals"
+
+#~ msgid "ab43"
+#~ msgstr "Info versturen"
+
+#~ msgid "ab44"
+#~ msgstr "Info weer versturen"
+
+#~ msgid "ab45"
+#~ msgstr "Levering starten"
+
+#~ msgid "ab46"
+#~ msgstr "Levering hervatten"
+
+#~ msgid "ab47"
+#~ msgstr "Codes opnieuw versturen"
+
+#~ msgid "ab48"
+#~ msgstr "Details wijzigen"
+
+#~ msgid "ab49"
+#~ msgstr "Wijzigingen opslaan"
+
+#~ msgid "ab5"
+#~ msgstr "100K+"
+
+#~ msgid "ab50"
+#~ msgstr "🍪 We gebruiken cookies om je ervaring op onze site beter te maken."
+
+#~ msgid "ab51"
+#~ msgstr "Meer info"
+
+#~ msgid "ab52"
+#~ msgstr "Oké"
+
+#: pages/cookie-policy.js:27
+msgid "ab53"
+msgstr "Cookiebeleid"
+
+#: pages/cookie-policy.js:30
+msgid "ab54"
+msgstr "Door deze website te gebruiken en akkoord te gaan met dit beleid, stem je in met ons cookiegebruik in overeenstemming met de voorwaarden van dit beleid."
+
+#: pages/cookie-policy.js:34
+msgid "ab55"
+msgstr "Over cookies"
+
+#: pages/cookie-policy.js:37
+msgid "ab56"
+msgstr "Cookies zijn eenvoudige tekstbestanden die op je computer of mobiel worden opgeslagen door de server van een website. Ze bevatten anonieme informatie zoals een unieke identificatiecode, de domeinnaam van de website en wat cijfers en getallen."
+
+#: pages/cookie-policy.js:40
+msgid "ab57"
+msgstr "Wat voor soort cookies gebruiken we?"
+
+#: pages/cookie-policy.js:43
+msgid "ab58"
+msgstr "Essentiële cookies"
+
+#: pages/cookie-policy.js:46
+msgid "ab59"
+msgstr "Essentiële cookies geven ons de kans je de best mogelijke ervaring te bieden bij het gebruik van onze website. Deze cookies stellen ons bijvoorbeeld op de hoogte dat je een account hebt aangemaakt en hebt ingelogd met dat account."
+
+#: components/InfograficMain/InfograficMain.js:31
+msgid "ab6"
+msgstr "geleverde bestellingen"
+
+#: pages/cookie-policy.js:49
+msgid "ab60"
+msgstr "Functionaliteitscookies"
+
+#: pages/cookie-policy.js:52
+msgid "ab61"
+msgstr "Met functionaliteitscookies kunnen we de site laten werken volgens de keuzes die jij maakt. We herkennen bijvoorbeeld je gebruikersnaam en onthouden hoe je de site hebt aangepast tijdens eerdere bezoeken."
+
+#: pages/cookie-policy.js:55
+msgid "ab62"
+msgstr "Analytische cookies"
+
+#: pages/cookie-policy.js:58
+msgid "ab63"
+msgstr "Deze cookies stellen ons en derden in staat om data te verzamelen voor statistische doeleinden over hoe onze bezoekers de website gebruiken. Deze cookies bevatten geen persoonlijke informatie zoals namen en e-mailadressen, en helpen ons om je gebruikerservaring van de website te verbeteren."
+
+#: pages/cookie-policy.js:61
+msgid "ab64"
+msgstr "Cookies van derde partijen"
+
+#: pages/cookie-policy.js:64
+msgid "ab65"
+msgstr "Als je de website gebruikt, kun je ook cookies van derden ontvangen."
+
+#: pages/cookie-policy.js:67
+msgid "ab66"
+msgstr "Onze adverteerders en serviceproviders sturen je mogelijk cookies. Met de informatie die ze verkrijgen door jouw gebruik van hun cookies kunnen ze:"
+
+#: pages/cookie-policy.js:70
+msgid "ab67"
+msgstr "je browser over meerdere websites volgen"
+
+#: pages/cookie-policy.js:71
+msgid "ab68"
+msgstr "een profiel opbouwen van je websurfgedrag"
+
+#: pages/cookie-policy.js:72
+msgid "ab69"
+msgstr "reclame voor je kiezen waarin je mogelijk geïnteresseerd bent, gebaseerd op je interacties met hun services."
+
+#~ msgid "ab7"
+#~ msgstr "30K+"
+
+#: pages/cookie-policy.js:75
+msgid "ab70"
+msgstr "We gebruiken Google Analytics, een webanalyseservice verstrekt door Google, Inc. ('Google'). Google Analytics gebruikt 'cookies'. Deze tekstbestanden worden op je pc geplaatst zodat de website kan analyseren hoe gebruikers de site gebruiken. De informatie die door cookies worden verzameld over je gebruik van de website (inclusief je IP-adres) wordt doorgestuurd naar Google en opgeslagen op servers in de Verenigde Staten. Het IP-adres wordt voor verzending afgekort om anonimiteit te waarborgen. Google gebruikt deze informatie om voor ons je gebruik van de website te evalueren, rapporten op te stellen over websiteactiviteiten en andere services aan te bieden in relatie met je website- en internetactiviteit in verband met het gebruik van de website. Google zal je IP-adres niet associëren met andere data in bezit van Google. Je mag het gebruik van cookies weigeren via de instellingen van je browser, maar als je dat doet, kun je mogelijk niet volledig gebruikmaken van alle functies van deze website. Daarnaast kun je het verzamelen van door cookies gegenereerde informatie (inclusief je IP-adres) over je gebruik van de website en het verwerken van deze data door Google verhinderen door de browser-plug-in te downloaden en installeren via deze link:"
+
+#: pages/cookie-policy.js:76
+#: pages/cookie-policy.js:77
+msgid "ab71"
+msgstr "https://tools.google.com/dlpage/gaoptout?hl=en"
+
+#~ msgid "ab72"
+#~ msgstr "De meeste browsers staan toe cookies te weigeren. Op google.com kun je lezen hoe je alle cookies in je browser kunt blokkeren."
+
+#: pages/cookie-policy.js:81
+msgid "ab73"
+msgstr "Cookies blokkeren"
+
+#: pages/cookie-policy.js:84
+msgid "ab74"
+msgstr "De meeste browsers staan toe cookies te weigeren. Op google.com kun je lezen hoe je alle cookies in je browser kunt blokkeren."
+
+#: pages/cookie-policy.js:87
+msgid "ab75"
+msgstr "Het blokkeren van alle cookies heeft echter een negatief effect op de bruikbaarheid van veel websites. Als je cookies blokkeert, kun je mogelijk sommige functies van de website niet gebruiken (inloggen, toestemming voor toegang, zoekfuncties)."
+
+#: pages/cookie-policy.js:90
+msgid "ab76"
+msgstr "Hoe verwijder je cookies?"
+
+#: pages/cookie-policy.js:93
+msgid "ab77"
+msgstr "Als je de cookies die zijn ingesteld door onze website wilt beperken of blokkeren, kun je dat doen via de browserinstellingen. Of ga naar www.internetcookies.com, waar je alle informatie kunt vinden over hoe je dit kunt doen voor veel verschillende browsers en apparaten. Je vindt daar algemene informatie over cookies en over het verwijderen van cookies op je apparaat."
+
+#: pages/cookie-policy.js:96
+msgid "ab78"
+msgstr "Contact opnemen"
+
+#: pages/cookie-policy.js:99
+msgid "ab79"
+msgstr "Als je vragen hebt over dit beleid of ons cookiegebruik, neem dan contact met ons op via support@royalfut.com."
+
+#: components/InfograficMain/InfograficMain.js:39
+msgid "ab8"
+msgstr "spelers die onze dienst hebben uitgeprobeerd"
+
+#~ msgid "ab80"
+#~ msgstr "Er is iets fout gegaan"
+
+#~ msgid "ab81"
+#~ msgstr "Pagina verversen"
+
+#: components/DeliverySteps/DeliverySteps.js:44
+msgid "ab82"
+msgstr "Een bestelling plaatsen"
+
+#: components/DeliverySteps/DeliverySteps.js:47
+msgid "ab83"
+msgstr "Selecteer je platform en gewenste hoeveelheid munten en betaal voor je bestelling."
+
+#: components/DeliverySteps/DeliverySteps.js:65
+msgid "ab84"
+msgstr "De levering starten"
+
+#: components/DeliverySteps/DeliverySteps.js:68
+msgid "ab85"
+msgstr "Ga na geslaagde betaling verder naar de"
+
+#: components/DeliverySteps/DeliverySteps.js:69
+msgid "ab86"
+msgstr "pagina Bestelgeschiedenis"
+
+#: components/DeliverySteps/DeliverySteps.js:70
+msgid "ab87"
+msgstr ", zoek je bestelling en voltooi de vereiste handelingen om het leveringsproces te starten."
+
+#: components/DeliverySteps/DeliverySteps.js:88
+msgid "ab88"
+msgstr "Veel plezier met je aankoop"
+
+#: components/DeliverySteps/DeliverySteps.js:91
+msgid "ab89"
+msgstr "Als de bestelling voltooid is, kun je je munten uitgeven zoals je wilt en bij ons terugkomen als je nieuwe nodig hebt."
+
+#~ msgid "ab9"
+#~ msgstr ">80%"
+
+#: components/DeliverySteps/DeliverySteps.js:28
+msgid "ab90"
+msgstr "Hulp nodig? Je kunt altijd contact opnemen met onze klantenservice."
+
+#: components/Offer/Offer.js:82
+msgid "ab91"
+msgstr "Als je geen zin meer hebt om heel hard te werken voor je FC 25-munten hebben we een perfecte en goedkope oplossing voor je! Maak kennis met ROYALFUT.com, de betrouwbaarste EA FC-muntenwinkel, met vele jaren ervaring. Deze uitstekend beoordeelde marktplaats biedt de laagste prijzen voor FIFA 25-munten online met garantie op snelle levering en 100% accountveiligheid. Het kopen van FC-munten bij ROYALFUT is de goedkoopste legale manier om je game nog leuker te maken, zonder het risico van onaangename gevolgen. Bij de gewone aanbiedingen voor Ultimate Team-munten in deze winkel zijn de toch al lage prijzen nog verder verlaagd zodat je in de game goedkoop je slag kunt slaan. De aanbiedingen voor FUT-munten op het ROYALFUT-platform zijn 100% betrouwbaar en onze klantenservice is ook nog eens geweldig. Ze zullen je altijd helpen met welke vragen of problemen je ook komt aankloppen. Je vindt tegenwoordig niet zo makkelijk meer een wettige UT 25-muntenwinkel, maar ROYALFUT.com is er zonder twijfel een. Dit is absoluut de beste plek om Ultimate Team-munten te kopen voor pc, PS4, PS5, Xbox One, Xbox Series X of Xbox Series S, met 100% veilige betalingen en directe levering."
+
+#: pages/order/index.js:115
+#: pages/order/pc.js:82
+#: pages/order/ps4.js:81
+#: pages/order/ps5.js:80
+#: pages/order/xbox_one.js:82
+#: pages/order/xbox_xs.js:82
+msgid "ab92"
+msgstr "Koop FC 25 Ultimate Team-munten"
+
+#: components/Order/Steps.js:14
+#: components/Order/Steps.js:56
+msgid "ab93"
+msgstr "Bestellingsinfo"
+
+#: components/MainFunnel/StickySecondStep.js:170
+#: components/Order/Steps.js:21
+#: components/Order/Steps.js:59
+#: components/Order/StickyTotalBlock.js:158
+msgid "ab94"
+msgstr "Kassa"
+
+#: components/Order/Steps.js:28
+#: components/Order/Steps.js:62
+msgid "ab95"
+msgstr "Bezorging"
+
+#: components/Order/OrderInfo.js:103
+msgid "ab96"
+msgstr "Platform"
+
+#: components/Order/CoinsChanger.js:356
+msgid "ab97"
+msgstr "Aantal"
+
+#: components/Package/IdCard.js:110
+msgid "ab98"
+msgstr "Prijs"
+
+#~ msgid "ab99"
+#~ msgstr "Korting"
+
+#: components/MainFunnel/StickySecondStep.js:157
+msgid "authToPay"
+msgstr "Meld je aan om te kopen"
+
+#~ msgid "Bahrain"
+#~ msgstr "Bahrein"
+
+#: components/Breadcrumbs/Breadcrumbs.js:9
+#~ msgid "Breadcrumbs reviews"
+#~ msgstr ""
+
+#: data-elements/breadcrumbs.js:11
+#~ msgid "breadcrumbs.[id]"
+#~ msgstr "FUT-munten"
+
+#: components/Breadcrumbs/Breadcrumbs.js:76
+#~ msgid "breadcrumbs.{elem}"
+#~ msgstr ""
+
+#: data-elements/breadcrumbs.js:5
+#~ msgid "breadcrumbs.404"
+#~ msgstr "404"
+
+#: data-elements/breadcrumbs.js:19
+#~ msgid "breadcrumbs.coins"
+#~ msgstr "Muntenpakketten"
+
+#: data-elements/breadcrumbs.js:23
+#~ msgid "breadcrumbs.contact"
+#~ msgstr "Contacten"
+
+#: data-elements/breadcrumbs.js:21
+#~ msgid "breadcrumbs.delivery"
+#~ msgstr "Leveringen"
+
+#: data-elements/breadcrumbs.js:22
+#~ msgid "breadcrumbs.faq"
+#~ msgstr "FAQ"
+
+#: data-elements/breadcrumbs.js:4
+#~ msgid "breadcrumbs.guide"
+#~ msgstr "guide"
+
+#: data-elements/breadcrumbs.js:17
+#~ msgid "breadcrumbs.home"
+#~ msgstr "Home"
+
+#: data-elements/breadcrumbs.js:12
+#~ msgid "breadcrumbs.order"
+#~ msgstr "Platform"
+
+#: data-elements/breadcrumbs.js:20
+#~ msgid "breadcrumbs.payment"
+#~ msgstr "Betalingen"
+
+#: data-elements/breadcrumbs.js:8
+#~ msgid "breadcrumbs.payments"
+#~ msgstr "Betalingen"
+
+#: data-elements/breadcrumbs.js:25
+#~ msgid "breadcrumbs.privacy-policy"
+#~ msgstr "Privacybeleid"
+
+#: data-elements/breadcrumbs.js:26
+#~ msgid "breadcrumbs.profile"
+#~ msgstr "Profiel"
+
+#: data-elements/breadcrumbs.js:13
+#~ msgid "breadcrumbs.ps4"
+#~ msgstr "PlayStation 4"
+
+#: data-elements/breadcrumbs.js:14
+#~ msgid "breadcrumbs.ps5"
+#~ msgstr "PlayStation 5"
+
+#: data-elements/breadcrumbs.js:7
+#~ msgid "breadcrumbs.purchase"
+#~ msgstr "Kopen"
+
+#: data-elements/breadcrumbs.js:9
+#~ msgid "breadcrumbs.reviews"
+#~ msgstr "Recensies"
+
+#: data-elements/breadcrumbs.js:24
+#~ msgid "breadcrumbs.terms"
+#~ msgstr "de voorwaarden en bepalingen"
+
+#: data-elements/breadcrumbs.js:6
+#~ msgid "breadcrumbs.wl-boost"
+#~ msgstr "WL Boost"
+
+#: data-elements/breadcrumbs.js:15
+#~ msgid "breadcrumbs.xbox_one"
+#~ msgstr "Xbox One"
+
+#: data-elements/breadcrumbs.js:16
+#~ msgid "breadcrumbs.xbox_xs"
+#~ msgstr "Xbox Series X|S"
+
+#: components/Order/StickySecondStep.js:400
+#: components/Order/StickyTotalBlock.js:148
+#: components/Package/IdCard.js:103
+msgid "cashback"
+msgstr "Cashback"
+
+#~ msgid "coins_page0"
+#~ msgstr "Te ontvangen"
+
+#: components/TableOrders/TableItem.js:406
+msgid "coins_page1"
+msgstr "Er zijn te ontvangen items"
+
+#~ msgid "coins_page10"
+#~ msgstr "Subtotaal"
+
+#~ msgid "coins_page11"
+#~ msgstr "Korting ()"
+
+#~ msgid "coins_page12"
+#~ msgstr "Toepassen"
+
+#~ msgid "coins_page13"
+#~ msgstr "Totale prijs"
+
+#~ msgid "coins_page14"
+#~ msgstr "Ongeldige promocode"
+
+#: pages/coins/[id].js:222
+msgid "coins_page15"
+msgstr "Met deze hoeveelheid kun je bijna iedere goedkoopste speler kopen."
+
+#: pages/coins/[id].js:225
+msgid "coins_page16"
+msgstr "Sommige van de meest waardevolle spelers liggen met deze hoeveelheid al binnen je bereik."
+
+#: pages/coins/[id].js:227
+msgid "coins_page17"
+msgstr "Met deze hoeveelheid kun je elke beschikbare kaart kopen. Maak je droomteam compleet!"
+
+#: pages/coins/[id].js:177
+#: pages/coins/[id].js:192
+msgid "coins_page18"
+msgstr "[[X]] FC 25 Ultimate Team-munten"
+
+#: pages/coins/[id].js:201
+msgid "coins_page19"
+msgstr "Koop online EA FC 25-munten van de veiligste leverancier op de markt: de ROYALFUT Store. We zijn al meer dan zeven jaar gespecialiseerd in de verkoop van FIFA Ultimate Team-items. Ons doel is om ervoor te zorgen dat onze klanten kunnen profiteren van de beste deals en veiligste overdracht van FC UT-munten. ROYALFUT biedt een comfortabele en prettige winkelervaring door de gebruiksvriendelijke interface, veilige betalingsmogelijkheden en uitmuntende klantenservice."
+
+#: components/TableOrders/TableItem.js:409
+msgid "coins_page2"
+msgstr "Je hebt te ontvangen items in je Ultimate Team-club. Wijs ze toe, zodat we kunnen beginnen met leveren"
+
+#: pages/coins/[id].js:204
+msgid "coins_page20"
+msgstr "Hier kun je [[X]] FC-munten kopen voor maar [[Y]] [[C]]. Zorg er na het plaatsen van de bestelling voor dat je via de FC Web-app/Companion-app op zowel je console/pc als op andere apparaten bent uitgelogd. [[X]] munten worden dan binnen [[A]]-[[B]] [[T]] overgemaakt naar je rekening."
+
+#: pages/coins/[id].js:231
+msgid "coins_page21"
+msgstr "Wat je van ons krijgt"
+
+#: pages/coins/[id].js:236
+msgid "coins_page22"
+msgstr "300k munten in je UT-club;"
+
+#: pages/coins/[id].js:240
+msgid "coins_page23"
+msgstr "Dekking van (5%) EA-btw"
+
+#~ msgid "coins_page24"
+#~ msgstr "Cashback van 12 ROYAL-punten (het equivalent van 1,2 USD);"
+
+#~ msgid "coins_page25"
+#~ msgstr "Loyaliteitsniveauvoortgang"
+
+#: pages/coins/[id].js:252
+msgid "coins_page26"
+msgstr "100% accountveiligheid"
+
+#: pages/coins/[id].js:258
+msgid "coins_page27"
+msgstr "Wat we van je nodig hebben"
+
+#: pages/coins/[id].js:264
+msgid "coins_page28"
+msgstr "Toegang tot je EA-account"
+
+#: pages/coins/[id].js:266
+msgid "coins_page29"
+msgstr "— als je een gelicentieerde kopie hebt van EA Sports FC 25 voor PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Series X of pc (aangeschaft als fysieke cd of digitaal via de EA-app, Steam of Epic Games Store) heb je geluk, want wat ons systeem nu alleen nog maar van je nodig heeft voor toegang tot je Ultimate Team-club zijn de gegevens van je EA-account, bestaande uit je e-mailadres, wachtwoord en een paar back-upcodes. Maar geen paniek, we slaan je gegevens niet op. Ze worden gewist na voltooiing van elke bestelling."
+
+#~ msgid "coins_page3"
+#~ msgstr "Transferkand."
+
+#: pages/coins/[id].js:271
+msgid "coins_page30"
+msgstr "Ontgrendelde Transfermarkt"
+
+#: pages/coins/[id].js:273
+msgid "coins_page31"
+msgstr "— om je club voor te bereiden op een muntenlevering is het zeer belangrijk dat je al toegang hebt tot de Transfermarkt in de Web-app. Als die echter nog niet is ontgrendeld, moet je dagelijks 3 volledige Ultimate Team-wedstrijden spelen en daarnaast elke dag de FC Web-app/Companion-app bezoeken, tot je toegang krijgt tot de Transfermarkt."
+
+#: pages/coins/[id].js:278
+msgid "coins_page32"
+msgstr "Ten minste 5000 munten op je UT-clubsaldo"
+
+#: pages/coins/[id].js:280
+msgid "coins_page33"
+msgstr "— bij deze hoeveelheid munten begint ons leveringssysteem met de overdracht. Als je clubsaldo lager is, kun je verhandelbare items verkopen door ze op de lijst van de Transfermarkt te zetten of via de Quick Sell-optie. En je kunt natuurlijk ook altijd munten verdienen door wedstrijden te spelen. Vergeet niet dat een hogere startbalans zorgt voor een sneller leveringsproces."
+
+#~ msgid "coins_page34"
+#~ msgstr "100% veilige betalingen"
+
+#~ msgid "coins_page35"
+#~ msgstr "Leveringstijd van [[X]]-[[Y]] uur"
+
+#~ msgid "coins_page36"
+#~ msgstr "3 dagen garantie"
+
+#: pages/coins/[id].js:300
+msgid "coins_page37"
+msgstr "Zie ook"
+
+#~ msgid "coins_page38"
+#~ msgstr "[[X]] keer gekocht"
+
+#~ msgid "coins_page39"
+#~ msgstr ""
+
+#: components/TableOrders/TableItem.js:334
+msgid "coins_page4"
+msgstr "Max. transferkandid."
+
+#: components/TableOrders/TableItem.js:337
+msgid "coins_page5"
+msgstr "Je lijst met transferkandidaten is vol. Maak hem leeg, zodat we kunnen beginnen met leveren"
+
+#: components/TableOrders/TableItem.js:480
+msgid "coins_page6"
+msgstr "Onbekende fout"
+
+#: components/TableOrders/TableItem.js:483
+msgid "coins_page7"
+msgstr "Probeer je bestelling later opnieuw te plaatsen of neem contact op met de klantenservice als het probleem blijft bestaan"
+
+#~ msgid "coins_page8"
+#~ msgstr "Nieuwe bestelling"
+
+#~ msgid "coins_page9"
+#~ msgstr "Nu kopen"
+
+#: components/Footer/Footer.js:362
+msgid "cookiepage"
+msgstr "Cookiebeleid"
+
+#: components/ReviewsContent/ReviewsContent.js:15
+msgid "country.Bahrain"
+msgstr "Bahrein"
+
+#: components/ReviewsContent/ReviewsContent.js:16
+msgid "country.France"
+msgstr "Frankrijk"
+
+#: components/ReviewsContent/ReviewsContent.js:17
+msgid "country.Germany"
+msgstr "Duitsland"
+
+#: components/ReviewsContent/ReviewsContent.js:18
+msgid "country.Kuwait"
+msgstr "Koeweit"
+
+#: components/ReviewsContent/ReviewsContent.js:19
+msgid "country.Netherlands"
+msgstr "Nederland"
+
+#: components/ReviewsContent/ReviewsContent.js:20
+msgid "country.Qatar"
+msgstr "Qatar"
+
+#: components/ReviewsContent/ReviewsContent.js:21
+msgid "country.Saudi Arabia"
+msgstr "Saudi-Arabië"
+
+#: components/ReviewsContent/ReviewsContent.js:22
+msgid "country.United Arab Emirates"
+msgstr "Verenigde Arabische Emiraten"
+
+#: components/ReviewsContent/ReviewsContent.js:23
+msgid "country.United Kingdom"
+msgstr "Verenigd Koninkrijk"
+
+#: components/ReviewsContent/ReviewsContent.js:24
+msgid "country.United States"
+msgstr "Verenigde Staten"
+
+#: components/BurgerMenu/BurgerMenu.js:82
+#~ msgid "emailOrPassword"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:25
+msgid "FIFA & EA FC Coins"
+msgstr "FIFA- en EA FC-munten overgedragen aan klanten"
+
+#: components/Infografic/Infografic.js:43
+msgid "FIFA and EA FC players"
+msgstr "FIFA- en EA FC-spelers"
+
+#~ msgid "France"
+#~ msgstr "Frankrijk"
+
+#~ msgid "Germany"
+#~ msgstr "Duitsland"
+
+#: components/Header/Header.js:78
+msgid "header_reviews"
+msgstr "Recensies"
+
+#: components/MainFunnel/MainFunnel.js:44
+#~ msgid "home:newh1_2"
+#~ msgstr "FC 25-munten "
+
+#: components/MainFunnel/MainFunnel.js:47
+#~ msgid "home:newh1_3"
+#~ msgstr "te kopen<<<<<<< HEAD"
+
+#: components/MainFunnel/MainFunnel.js:32
+#: components/MainFunnel/MainFunnel.js:53
+#~ msgid "home:newh1_4"
+#~ msgstr "FC 25-munten te kopen"
+
+#: components/MainFunnel/MainFunnel.js:33
+msgid "home:title"
+msgstr "Veiligste optie om"
+
+#: pages/coins/[id].js:217
+msgid "hours"
+msgstr "hours"
+
+#~ msgid "Kuwait"
+#~ msgstr "Koeweit"
+
+#~ msgid "locales.account"
+#~ msgstr "Account"
+
+#: components/TableOrders/TableItem.js:711
+msgid "locales.amount"
+msgstr "Aantal"
+
+#: components/Order/StickySecondStep.js:445
+#: components/Order/StickySecondStep.js:454
+#: components/Package/CheckoutSticky.js:502
+#: components/Package/CheckoutSticky.js:510
+#: components/Purchase/Purchase.js:610
+#: components/Purchase/Purchase.js:633
+msgid "locales.authToPay"
+msgstr "Meld je aan om te kopen"
+
+#~ msgid "locales.backToTop"
+#~ msgstr "Terug naar boven"
+
+#~ msgid "locales.backupCode"
+#~ msgstr "Backup-codes"
+
+#~ msgid "locales.backupCodes"
+#~ msgstr "Hier kun je back-upcodes krijgen: "
+
+#~ msgid "locales.blackFriday"
+#~ msgstr "TEAM OF THE YEAR <span class=\"color\">- 20% korting</span> op de aanbiedingen prijs - gebruik de promotiecode: <span class=\"color\">TOTY</span>"
+
+#~ msgid "locales.buyingCoins"
+#~ msgstr "Munten kopen op royalfut.com"
+
+#~ msgid "locales.cancelOrder"
+#~ msgstr "Bestelling annuleren"
+
+#: components/TextBlockContainer/TextBlockContainer.js:13
+msgid "locales.card_text_1"
+msgstr "Ons team werd opgericht tijdens het FIFA 17-seizoen. Sindsdien hebben we meer dan 100 miljard munten overgemaakt aan onze klanten, hebben meer dan 60 duizend clubs over de hele wereld munten van ons ontvangen en gebruiken minstens 10 andere winkels ons algoritme voor het overmaken van munten."
+
+#: components/TextBlockContainer/TextBlockContainer.js:30
+msgid "locales.card_text_2"
+msgstr "We bieden een van de laagste prijzen op de markt, en voor onze vaste klanten is de prijs zelfs nog lager!"
+
+#: components/TextBlockContainer/TextBlockContainer.js:18
+msgid "locales.card_text_3"
+msgstr "Ons belangrijkste doel is om jou de veiligste optie te bieden om je FUT-clubsaldo op te waarderen. We verbeteren ons algoritme voor het overmaken van munten voortdurend en testen het op duizenden van onze accounts voordat we het goedkeuren en inzetten."
+
+#: components/TextBlockContainer/TextBlockContainer.js:25
+msgid "locales.card_text_4"
+msgstr "We waarderen je tijd, daarom zijn we altijd vastbesloten om door te gaan met het verbeteren van aspecten van onze website, zoals de interface en de kwaliteit van onze klantenservice, om ervoor te zorgen dat jouw winkelervaring bij ons zo soepel mogelijk verloopt."
+
+#: components/TextBlockContainer/TextBlockContainer.js:12
+msgid "locales.card_title_1"
+msgstr "Jarenlange ervaring"
+
+#: components/TextBlockContainer/TextBlockContainer.js:29
+msgid "locales.card_title_2"
+msgstr "Betaalbare prijzen"
+
+#: components/TextBlockContainer/TextBlockContainer.js:17
+msgid "locales.card_title_3"
+msgstr "Veilig en betrouwbaar"
+
+#: components/TextBlockContainer/TextBlockContainer.js:24
+msgid "locales.card_title_4"
+msgstr "Uitstekende service"
+
+#~ msgid "locales.coinsFor"
+#~ msgstr "Munten voor"
+
+#: components/HowDelivery/Howdelivery.js:239
+#: components/MethodChanger/MethodChanger.js:46
+msgid "locales.comfortMethodName"
+msgstr "Comfort ruil"
+
+#~ msgid "locales.comfortText"
+#~ msgstr "Wij zorgen zelf voor de levering, je hoeft alleen je EA-accountgegevens aan ons door te geven."
+
+#~ msgid "locales.commentOut"
+#~ msgstr "van"
+
+#: components/Rated/Rated.js:66
+#: components/ReviewsGallery/ReviewsGallery.js:80
+msgid "locales.commentRated"
+msgstr "Beoordeling"
+
+#~ msgid "locales.commentReviews"
+#~ msgstr "reviews"
+
+#: components/Rated/Rated.js:87
+#: components/Rated/Rated.js:101
+#: components/ReviewsContent/ReviewsContent.js:85
+msgid "locales.commentUrl"
+msgstr "https://nl.trustpilot.com/review/royalfut.com"
+
+#~ msgid "locales.continue"
+#~ msgstr "Doorgaan"
+
+#: components/TableOrders/TableItem.js:403
+msgid "locales.continueTransfering"
+msgstr "Doorgaan met transfers"
+
+#~ msgid "locales.cookieButton"
+#~ msgstr "Begrepen"
+
+#~ msgid "locales.cookieText"
+#~ msgstr "Ga door met browsen om je goedkeuring te geven aan ons cookiebeleid."
+
+#~ msgid "locales.cookieTitle"
+#~ msgstr "Wij gebruiken cookies"
+
+#: components/Order/Coupon.js:342
+#: components/Order/Coupon.js:516
+#: components/Package/CheckoutCoupon.js:99
+#: components/Package/CheckoutCoupon.js:352
+msgid "locales.couponCondition"
+msgstr "De grootte van de bestelling komt niet overeen met de minimale vereisten voor het gebruik van een coupon"
+
+#: components/Order/Coupon.js:307
+#: components/Order/Coupon.js:485
+#: components/Package/CheckoutCoupon.js:64
+#: components/Package/CheckoutCoupon.js:321
+msgid "locales.couponExpired"
+msgstr "Kortingsbon niet meer geldig"
+
+#: components/Order/Coupon.js:324
+#: components/Order/Coupon.js:500
+#: components/Package/CheckoutCoupon.js:81
+#: components/Package/CheckoutCoupon.js:336
+msgid "locales.couponLimit"
+msgstr "Deze coupon is volledig gebruikt"
+
+#~ msgid "locales.cryptoAre"
+#~ msgstr ""
+
+#~ msgid "locales.cryptoIs"
+#~ msgstr "is"
+
+#~ msgid "locales.cryptoMessage"
+#~ msgstr "Het minimale bestelbedrag om e betalen met "
+
+#~ msgid "locales.cryptoOr"
+#~ msgstr "of"
+
+#~ msgid "locales.cryptoWith"
+#~ msgstr ""
+
+#~ msgid "locales.currency"
+#~ msgstr "$"
+
+#~ msgid "locales.currencyName"
+#~ msgstr "USD"
+
+#~ msgid "locales.currencyTranslate"
+#~ msgstr "Valuta"
+
+#~ msgid "locales.deliveryMethodName"
+#~ msgstr "Delivery method:"
+
+#~ msgid "locales.deliverytext"
+#~ msgstr " biedt een uniek EA FC 25-coin systeem. We werken samen met een breed aanbod aan coinleveranciers. Bij het uitvoeren van je bestelling gebruiken handhaven we speciale regels. Zo garanderen we dat jij nooit last hebt van EA-boetes. Je kan een paar van die regels hieronder lezen:"
+
+#~ msgid "locales.deliverytitle"
+#~ msgstr "Rubriek Leveringen"
+
+#~ msgid "locales.email"
+#~ msgstr "E-mail"
+
+#~ msgid "locales.emailOrPassword"
+#~ msgstr "Ongeldig e-mailadres of wachtwoord."
+
+#: components/HowDelivery/Howdelivery.js:88
+#: components/HowDelivery/Howdelivery.js:123
+msgid "locales.enjoy"
+msgstr "achter als je bestelling is afgerond. Veel plezier met de game en we zien je graag terug :)"
+
+#: components/TableOrders/TableItem.js:392
+msgid "locales.enterCode"
+msgstr "Code invoeren"
+
+#~ msgid "locales.faqtitle"
+#~ msgstr "HEB JE VRAGEN?"
+
+#~ msgid "locales.faqtitle2"
+#~ msgstr "HEB JE VRAGEN?"
+
+#~ msgid "locales.fbError"
+#~ msgstr "Ongeldig e-mailadres of wachtwoord."
+
+#~ msgid "locales.footerAddrees"
+#~ msgstr "Yasha Limited, Office 908H Nicolaou Pentadromos Center, Limassol, Cyprus"
+
+#~ msgid "locales.footerContact"
+#~ msgstr "ALGEMENE VOORLICHTING"
+
+#~ msgid "locales.footerInfo"
+#~ msgstr "JURIDISCH"
+
+#: components/Footer/Footer.js:308
+msgid "locales.footerInfo_2"
+msgstr "Info"
+
+#: components/Footer/Footer.js:30
+#: pages/contact.js:29
+msgid "locales.footerLinkContact"
+msgstr "Contacten"
+
+#: components/Footer/Footer.js:318
+msgid "locales.footerLinkDelivery"
+msgstr "Leveringen"
+
+#: components/Footer/Footer.js:329
+msgid "locales.footerLinkPayment"
+msgstr "Betalingen"
+
+#~ msgid "locales.footerLinkPrivacy"
+#~ msgstr "Privacy"
+
+#: components/Footer/Footer.js:351
+#: pages/privacy-policy.js:28
+msgid "locales.footerLinkPrivacyPolicy"
+msgstr "Privacybeleid"
+
+#: components/Footer/Footer.js:340
+msgid "locales.footerLinkTerms"
+msgstr "Voorwaarden te accepteren"
+
+#: components/Footer/Footer.js:192
+msgid "locales.footerPlatforms"
+msgstr "Platform"
+
+#~ msgid "locales.forPaymentError"
+#~ msgstr "Betaling mislukt"
+
+#~ msgid "locales.garantee3"
+#~ msgstr "Komt in aanmerking voor terugbetaling"
+
+#~ msgid "locales.h1_1"
+#~ msgstr "Veiligste optie om "
+
+#~ msgid "locales.h1_2"
+#~ msgstr "Koop FC 25 munten"
+
+#~ msgid "locales.h1_coins"
+#~ msgstr "Jouw EA FC 25 Ultimate Team Store"
+
+#~ msgid "locales.h1_p1"
+#~ msgstr "Je grootste hulp in "
+
+#~ msgid "locales.h1_p2"
+#~ msgstr "EA FC 25 Ultimate Team Store"
+
+#~ msgid "locales.haveCoupon"
+#~ msgstr "Ik heb een kortingsbon"
+
+#~ msgid "locales.header_reviews"
+#~ msgstr "Recensies"
+
+#~ msgid "locales.hidePassword"
+#~ msgstr "Wachtwoord verbergen"
+
+#: components/HowDelivery/Howdelivery.js:216
+msgid "locales.hwd"
+msgstr "HOE VERLOOPT DE LEVERING?"
+
+#~ msgid "locales.infoBlockText1"
+#~ msgstr "We willen dat jij je FUT-clubsaldo op een zo veilig mogelijke manier kunt aanvullen tegen een zacht prijsje. Onze prijzen bevatten geen commissie of verborgen toeslagen. We hebben jaren gewerkt aan het opzetten van deze service."
+
+#~ msgid "locales.infoBlockText2"
+#~ msgstr "We gebruiken Smart ANTI-BAN System 3.0, dat werkt volgens speciale regels. Zo bevat ons systeem handmatig verdiende munten voor elke bestelling. Dit garandeert 100% veiligheid voor je FUT-club."
+
+#~ msgid "locales.infoBlockText3"
+#~ msgstr "We respecteren je tijd. Onze interface en ondersteuning worden constant verbeterd, zodat je bestellingen snel en probleemloos worden doorgevoerd. Een paar keer klikken en wij doen de rest."
+
+#~ msgid "locales.infoBlockText4"
+#~ msgstr "Als je na de aankoop de munten niet kunt gebruiken, of als er een andere reden is waarom je geen munten voor je account kunt krijgen, is een terugbetaling gegarandeerd."
+
+#~ msgid "locales.infoBlockTitle1"
+#~ msgstr "JOUW EERSTE KEUZE"
+
+#~ msgid "locales.infoBlockTitle2"
+#~ msgstr "VEILIG BEZORGD"
+
+#~ msgid "locales.infoBlockTitle3"
+#~ msgstr "SNEL EN EENVOUDIG"
+
+#~ msgid "locales.infoBlockTitle4"
+#~ msgstr "TERUGBETALINGSGARANTIE"
+
+#: components/Message/Message.js:29
+#: components/Order/Coupon.js:357
+#: components/Order/Coupon.js:530
+#: components/Package/CheckoutCoupon.js:114
+#: components/Package/CheckoutCoupon.js:366
+#: components/Package/CheckoutCoupon.js:560
+msgid "locales.invalidPromo"
+msgstr "Ongeldige kortingscode"
+
+#~ msgid "locales.isAlreadyTaken"
+#~ msgstr "bestaat al"
+
+#~ msgid "locales.isInvalid"
+#~ msgstr "Ongeldig"
+
+#~ msgid "locales.lang"
+#~ msgstr "en-GB"
+
+#~ msgid "locales.li1"
+#~ msgstr "• De kaart op de markt te plaatsen tegen een andere prijs dan het toegastane maximum, gebaseerd op de prijsklasse voor deze kaart"
+
+#~ msgid "locales.li2"
+#~ msgstr "• De levering van munten af te wisselen met het aflossen van kaarten van accounts die alleen handmatige trading voor het verdienen van munten gebruiken."
+
+#~ msgid "locales.li3"
+#~ msgstr "• Met meer dan 7000 FUT-clubs tot onze beschikking, verzilveren we in de meeste bestellingen een kaart van een club die wekenlang geen coin tranfer heeft gedaan."
+
+#~ msgid "locales.loading"
+#~ msgstr "Laden"
+
+#~ msgid "locales.login"
+#~ msgstr "Platform / e-mail"
+
+#~ msgid "locales.logOut"
+#~ msgstr "UITLOGGEN"
+
+#: components/H1/H1.js:20
+msgid "locales.main_h2"
+msgstr "Wij zorgen het hele jaar door dat iedereen z'n droomteam kan samenstellen!"
+
+#~ msgid "locales.manualText"
+#~ msgstr "Handmatige bezorgmethode die geen accountgegevens vereist. Je moet de munten zelf overmaken met behulp van onze eenvoudige instructies."
+
+#: components/HowDelivery/Howdelivery.js:252
+#: components/MethodChanger/MethodChanger.js:79
+msgid "locales.marketMethodName"
+msgstr "Spelersveiling"
+
+#: components/HowItWorks/HowItWorks.js:10
+msgid "locales.marketMethodWhat"
+msgstr "HOE WERKT HET?"
+
+#~ msgid "locales.menu"
+#~ msgstr ""
+
+#: pages/delivery.js:28
+msgid "locales.menuLinkDelivery"
+msgstr "Leveringen"
+
+#~ msgid "locales.menuLinkDesc"
+#~ msgstr "Ons systeem is volledig geautomatiseerd, "
+
+#~ msgid "locales.menuLinkDesc2"
+#~ msgstr "wij leveren de munten op ieder moment, 24u/24 en 7d/7"
+
+#~ msgid "locales.menuLinkDescDisabled"
+#~ msgstr "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋"
+
+#~ msgid "locales.menulinkfaq"
+#~ msgstr "FAQ"
+
+#~ msgid "locales.menuLinkFaq"
+#~ msgstr "FAQ"
+
+#~ msgid "locales.menuLinkOrder"
+#~ msgstr "MUNTEN KOPEN"
+
+#~ msgid "locales.menuLinkReviews"
+#~ msgstr "Beoordeling"
+
+#~ msgid "locales.menuOffers"
+#~ msgstr "Offers"
+
+#~ msgid "locales.menuSignIn"
+#~ msgstr "INLOGGEN"
+
+#~ msgid "locales.MissingOrInvalidCredentialsCode"
+#~ msgstr "Verbindingsfout, gelieve het nog eens te proberen!"
+
+#~ msgid "locales.modalSignBtnIn"
+#~ msgstr "INLOGGEN"
+
+#: components/BurgerMenu/BurgerMenu.js:482
+msgid "locales.modalSignBtnUp"
+msgstr "INSCHRIJVEN"
+
+#~ msgid "locales.modalSignEmail"
+#~ msgstr "E-mail"
+
+#~ msgid "locales.modalSignEmail1"
+#~ msgstr "email@address.com"
+
+#: components/BurgerMenu/BurgerMenu.js:399
+msgid "locales.modalSignPassword"
+msgstr "Wachtwoord"
+
+#~ msgid "locales.modalSignSeePassword"
+#~ msgstr "Zie wachtwoord"
+
+#~ msgid "locales.modalSignSymbols3"
+#~ msgstr "minstens 3 tekens lang"
+
+#: components/BurgerMenu/BurgerMenu.js:425
+#: components/ChangePassword/ChangePassword.js:251
+msgid "locales.modalSignSymbols8"
+msgstr "minstens 8 letters"
+
+#~ msgid "locales.modalSignTerms"
+#~ msgstr "Klik hierboven op \"Aanmelden\" om de Algemene <a href=\"/nl/terms/\">Voorwaarden te accepteren</a>"
+
+#: components/BurgerMenu/BurgerMenu.js:442
+msgid "locales.modalSocialForgot"
+msgstr "Ik accepteer "
+
+#: components/Auth/Auth.js:99
+msgid "locales.modalSocialLogin"
+msgstr "Log in via"
+
+#: components/Auth/Auth.js:125
+#~ msgid "locales.modalSocialLogin}"
+#~ msgstr ""
+
+#: components/BurgerMenu/BurgerMenu.js:450
+#: components/TermsContent/TermsContent.js:15
+msgid "locales.modalSocialLoginCheck"
+msgstr "de voorwaarden en bepalingen"
+
+#~ msgid "locales.modalSocialLoginFB"
+#~ msgstr "Log in via FaceBook"
+
+#: components/Auth/Auth.js:107
+msgid "locales.modalSocialLoginGoogle"
+msgstr "Log in via Google"
+
+#: components/Auth/Auth.js:98
+msgid "locales.modalSocialOr"
+msgstr "of"
+
+#: components/Auth/Auth.js:98
+msgid "locales.modalSocialSigin"
+msgstr "Meld je aan via"
+
+#~ msgid "locales.modalSocialSiginFB"
+#~ msgstr "Meld je aan via FaceBook"
+
+#: components/Auth/Auth.js:109
+msgid "locales.modalSocialSiginGoogle"
+msgstr "Meld je aan via Google"
+
+#~ msgid "locales.modalTabSignIn"
+#~ msgstr "INLOGGEN"
+
+#~ msgid "locales.modalTabSignUp"
+#~ msgstr "INSCHRIJVEN"
+
+#~ msgid "locales.nav.amount"
+#~ msgstr "Aantal"
+
+#~ msgid "locales.nav.delivery"
+#~ msgstr "Bezorging"
+
+#~ msgid "locales.nav.details"
+#~ msgstr "Order details"
+
+#~ msgid "locales.nav.method"
+#~ msgstr "Methode"
+
+#~ msgid "locales.nav.payment"
+#~ msgstr "Betaling"
+
+#~ msgid "locales.nav.platform"
+#~ msgstr "Platform"
+
+#~ msgid "locales.numDay"
+#~ msgstr "#"
+
+#~ msgid "locales.orderCreationError"
+#~ msgstr "bestelling aanmaken fout"
+
+#: components/SpecialOffer/SpecialOffer.js:108
+msgid "locales.orderNow"
+msgstr "Bestel nu"
+
+#~ msgid "locales.orders"
+#~ msgstr "Bestellingen"
+
+#~ msgid "locales.orderUpdateError"
+#~ msgstr "bestelling fout bijwerken"
+
+#~ msgid "locales.orWithCrypto"
+#~ msgstr "Of met crypto"
+
+#~ msgid "locales.p1"
+#~ msgstr "Hierdoor kunnen we de veiligste manier bieden om EA FC 25-munten op internet te kopen."
+
+#~ msgid "locales.p2"
+#~ msgstr "Volg de instructies die op de website staan, of die je van de manager via de livechat krijgt, om je munten zo snel mogelijk te ontvangen."
+
+#~ msgid "locales.p3"
+#~ msgstr "Wanneer je ons digitale product koopt, garanderen we dat jouw geld veilig behandelt wordt."
+
+#~ msgid "locales.p4"
+#~ msgstr "Je kan een betaalde bestelling niet retourneren of annuleren."
+
+#: pages/index.js:127
+#~ msgid "locales.pack_descript"
+#~ msgstr "Zelfs de meest verfijnde klanten zullen blij zijn met de aankoopbonus. Haal 'm vandaag nog!"
+
+#~ msgid "locales.pageAmountAmountLabel"
+#~ msgstr "Aantal"
+
+#: components/Package/CoinsBlock.js:25
+#: components/PageChanger/PageChanger.js:53
+msgid "locales.pageAmountCoinsLabel"
+msgstr "Munten"
+
+#~ msgid "locales.pageAmountName"
+#~ msgstr "MUNTEN AANTAL"
+
+#~ msgid "locales.pageAmountPriceLabel"
+#~ msgstr "Prijs"
+
+#: components/HowDelivery/Howdelivery.js:44
+msgid "locales.pageCoinsAfter"
+msgstr "Als je bestelling is betaald, ga je naar een pagina met twee velden: e-mail en wachtwoord. Voer je EA-account gegevens in deze velden in."
+
+#~ msgid "locales.pageCoinsAfterPayment"
+#~ msgstr "Na een geslaagde betaling ontvang je instructies voor het kopen van spelerskaarten. Je koopt spelerskaarten tegen de marktprijs en wij kopen ze weer van jou tegen een hogere prijs."
+
+#~ msgid "locales.pageCoinsAfterSuccessfull"
+#~ msgstr "Zodra we de betaling hebben ontvangen, vragen we je eenmalig toegang tot je EA-account. We hebben je e-mailadres, wachtwoord en back-upcode nodig. Met deze gegevens loggen we in op de FUT-webapp om te kunnen kopen en verkopen op de Transfermarkt. We kopen spelerskaarten voor de marktprijs en zetten ze vervolgens in de Transfermarkt met een hoger prijskaartje. Daarna worden ze gekocht door ons bezorgingsteam."
+
+#: components/HowDelivery/Howdelivery.js:97
+msgid "locales.pageCoinsAfterSuccessfully"
+msgstr "Nadat je bestelling is afgerond, ga je naar een pagina waar we je vragen naar het saldo van je club. Op basis daarvan bieden we je een speler aan die je kunt kopen. Je hoeft niet meer te betalen dan de vastgestelde prijs. Daarna kun je hem verkopen voor het bedrag dat wij bieden."
+
+#~ msgid "locales.pageCoinsApply"
+#~ msgstr "TOEPASSEN"
+
+#~ msgid "locales.pageCoinsAutomated"
+#~ msgstr "Het overzetten van munten van onze FUT-clubs naar die van jou is deels geautomatiseerd. Het door ons ontwikkelde algoritme houdt rekening met een aantal regels om jouw account te beschermen tijdens het bestellen op onze website. Als je na betaling toch geen gebruik wilt maken van onze service, kun je het bedrag veilig terugstorten op de rekening die werd gebruikt voor de betaling."
+
+#~ msgid "locales.pageCoinsBeforePurchase"
+#~ msgstr "Als je munten koopt op de ROYALFUT-website word je stap voor stap begeleid door een gebruiksvriendelijk proces voor het overzetten van munten via onze webinterface. Zorg dat je de volledige toegang hebt tot het account van de club waarvoor je munten bestelt voordat je een aankoop doet."
+
+#~ msgid "locales.pageCoinsBestPriceIncludes"
+#~ msgstr "Standaardprijs omvat:"
+
+#: pages/index.js:126
+#~ msgid "locales.pageCoinsBundles"
+#~ msgstr "Muntenpakketten"
+
+#~ msgid "locales.pageCoinsBuy"
+#~ msgstr "KOPEN"
+
+#~ msgid "locales.pageCoinsBuyNow"
+#~ msgstr "NU KOPEN"
+
+#: components/HowDelivery/Howdelivery.js:96
+msgid "locales.pageCoinsBuyPlayer"
+msgstr "EEN SPELER KOPEN"
+
+#~ msgid "locales.pageCoinsCancel"
+#~ msgstr "ANNULEREN"
+
+#~ msgid "locales.pageCoinsCheck"
+#~ msgstr "2. Controleer je bestelling"
+
+#~ msgid "locales.pageCoinsChoose"
+#~ msgstr "3. Kies je betalingsmethode"
+
+#~ msgid "locales.pageCoinsClubBalance"
+#~ msgstr "er moeten minstens 5000 munten staan op de rekening van je FUT-club.;"
+
+#~ msgid "locales.pageCoinsComfort"
+#~ msgstr "De bezorging van munten via Comfort Trade is volledig geautomatiseerd. Je hoeft zelf niks te doen. Snel en handig toch?"
+
+#~ msgid "locales.pageCoinsCompensated"
+#~ msgstr "We verhandelen geen kaarten van je club, daarom is het noodzakelijk dat je een saldo van minstens 5000 munten hebt. Anders kunnen we geen transactie starten. Met deze hoeveelheid munten kunnen we verschillende kaarten kopen om het bezorgingsproces te starten. EA-toeslagen die van toepassing zijn op verkopen via de FIFA-transfermarkt worden volledig door ons gecompenseerd, net als het aanvankelijke muntensaldo van je club."
+
+#~ msgid "locales.pageCoinsCompleteTransactions"
+#~ msgstr "Als je munten koopt op de ROYALFUT-website word je stap voor stap begeleid door een gebruiksvriendelijk proces voor het overzetten van munten via onze webinterface. Je moet een aantal transacties voltooien op de Transfermarkt via het FIFA-menu van de game op je console of via de FUT-webapp- / FUT Companion App-interface."
+
+#~ msgid "locales.pageCoinsConditions"
+#~ msgstr "Aan welke voorwaarden moet ik voldoen om gebruik te maken van de muntenaanvulservice?"
+
+#~ msgid "locales.pageCoinsConfirm"
+#~ msgstr "BEVESTIGEN"
+
+#~ msgid "locales.pageCoinsConfirmOrder"
+#~ msgstr "BESTELLING BEVESTIGEN"
+
+#: components/HowDelivery/Howdelivery.js:100
+msgid "locales.pageCoinsConfirmPlayer"
+msgstr "EEN SPELER BEVESTIGEN"
+
+#: components/PriceCouponRedesign/PriceCouponRedesign.js:603
+msgid "locales.pageCoinsCoupon"
+msgstr "Een coupon"
+
+#~ msgid "locales.pageCoinsCustomAmount"
+#~ msgstr "Custom Amount"
+
+#~ msgid "locales.pageCoinsCustomAmountLocale"
+#~ msgstr "Zelfgekozen hoeveelheid"
+
+#~ msgid "locales.pageCoinsDeliveringVia"
+#~ msgstr "<strong>bezorgd via</strong>"
+
+#~ msgid "locales.pageCoinsDelivery"
+#~ msgstr "levertijd"
+
+#~ msgid "locales.pageCoinsDeliveryMethodName"
+#~ msgstr "Leveringsmethode:"
+
+#~ msgid "locales.pageCoinsDeliveryTime"
+#~ msgstr "levertijd"
+
+#~ msgid "locales.pageCoinsDiscount"
+#~ msgstr "Korting"
+
+#~ msgid "locales.pageCoinsDiscounted"
+#~ msgstr "Korting toegepast!"
+
+#~ msgid "locales.pageCoinsDiscounts"
+#~ msgstr "Korting (_%):"
+
+#: components/HowDelivery/Howdelivery.js:70
+msgid "locales.pageCoinsDoNotEnter"
+msgstr "Speel niet tijdens het leveringsproces. Als het proces is afgerond, ontvang je een e-mail. Neem contact op met de klantenmanager om het tijdstip te controleren waarop je bestelling is uitgevoerd."
+
+#~ msgid "locales.pageCoinsEaAccount"
+#~ msgstr "Gebruik alleen eenmalige back-upcodes van je <a href =\"https://myaccount.ea.com/cp-ui/security/index\" class=\"coins-description__text--under\">EA-accountinstellingen</a>. "
+
+#~ msgid "locales.pageCoinsEasy"
+#~ msgstr "Het aanvullen van het saldo van je FUT-club is een vrij eenvoudig proces: koop een kaart -> verkoop een kaart -> herhaal dit. Kind kan de was doen."
+
+#~ msgid "locales.pageCoinsEditOrder"
+#~ msgstr "BESTELLING WIJZIGEN"
+
+#~ msgid "locales.pageCoinsEditOrders"
+#~ msgstr "BESTELLING WIJZIGEN"
+
+#: components/HowDelivery/Howdelivery.js:73
+#: components/HowDelivery/Howdelivery.js:108
+msgid "locales.pageCoinsEnjoy"
+msgstr "GENIET VAN DE GAME!"
+
+#~ msgid "locales.pageCoinsEnterAmount"
+#~ msgstr "HOEVEELHEID INVOEREN"
+
+#: components/HowDelivery/Howdelivery.js:77
+#: components/HowDelivery/Howdelivery.js:112
+msgid "locales.pageCoinsFeedback"
+msgstr "Laat "
+
+#: components/Purchase/Purchase.js:364
+msgid "locales.pageCoinsFifa"
+msgstr "EA FC-munten"
+
+#: components/Package/CoinsBlock.js:37
+msgid "locales.pageCoinsFifaCoins"
+msgstr " FIFA-MUNTEN"
+
+#: components/HowDelivery/Howdelivery.js:43
+msgid "locales.pageCoinsFill"
+msgstr "VUL DE VEREISTE GEGEVENS IN"
+
+#: components/HowDelivery/Howdelivery.js:47
+msgid "locales.pageCoinsFillBackup"
+msgstr "VUL HET VELD VOOR BACK-UPCODES IN"
+
+#~ msgid "locales.pageCoinsFindVideo"
+#~ msgstr "Onder aan de pagina vind je een video waarin wordt uitgelegd hoe je je FUT-club voorziet van munten via de Spelersveiling."
+
+#: components/HowDelivery/Howdelivery.js:105
+msgid "locales.pageCoinsFirstPart"
+msgstr "Het eerste deel van de overdracht is voltooid. Herhaal de vorige stappen zo vaak als nodig is om je bestelling te voltooien."
+
+#~ msgid "locales.pageCoinsFor"
+#~ msgstr "<strong> voor</strong>"
+
+#~ msgid "locales.pageCoinsGarantee"
+#~ msgstr "3 dagen garantie tegen bans en zeroing"
+
+#~ msgid "locales.pageCoinsGuaranteeSafe"
+#~ msgstr "Alleen dan kunnen we je 100% veiligheid garanderen."
+
+#~ msgid "locales.pageCoinsH"
+#~ msgstr "(X)-(Y)u"
+
+#~ msgid "locales.pageCoinsHaveNice"
+#~ msgstr "Shop ze!"
+
+#~ msgid "locales.pageCoinsHello"
+#~ msgstr "HALLO!"
+
+#~ msgid "locales.pageCoinsHowDelivery"
+#~ msgstr "Hoe vindt de bezorging plaats?"
+
+#~ msgid "locales.pageCoinsHowWillDelivery"
+#~ msgstr "Hoe vindt de bezorging plaats?"
+
+#~ msgid "locales.pageCoinsImportant"
+#~ msgstr "<b>BELANGRIJK!</b> "
+
+#~ msgid "locales.pageCoinsInform"
+#~ msgstr "Als je je gegevens hebt ingevuld, gaan we de bestelling verwerken. Dit kost enige tijd (de geschatte levertijd wordt gegeven voor betaling). Wanneer je onjuiste inloggegevens invoert of een ander probleem ons belemmert in toegang tot je account, nemen we direct contact met je op via e-mail."
+
+#~ msgid "locales.pageCoinsLockedMarket"
+#~ msgstr "Als de Transfermarkt gesloten is in de FUT-webapp moet je de bezorgingsmethode veranderen naar Spelersveiling."
+
+#~ msgid "locales.pageCoinsLogin"
+#~ msgstr "INLOGGEN"
+
+#~ msgid "locales.pageCoinsLogOut"
+#~ msgstr "UITLOGGEN"
+
+#~ msgid "locales.pageCoinsM"
+#~ msgstr "(X)-(Y)m"
+
+#~ msgid "locales.pageCoinsNeed1000"
+#~ msgstr "Je hoeft maar aan één voorwaarde te voldoen: er moeten minstens 1000 munten staan op de rekening van je FUT-club."
+
+#~ msgid "locales.pageCoinsNotifiedEmail"
+#~ msgstr "We stellen je via e-mail op de hoogte als je bestelling is afgerond. Shop ze!"
+
+#~ msgid "locales.pageCoinsOffers"
+#~ msgstr "MUNTENSETS"
+
+#~ msgid "locales.pageCoinsPaymentFee"
+#~ msgstr "Toeslag:"
+
+#~ msgid "locales.pageCoinsPlatform"
+#~ msgstr "Platform"
+
+#~ msgid "locales.pageCoinsPlatform1"
+#~ msgstr "Sony PlayStation 4 en PlayStation 5"
+
+#~ msgid "locales.pageCoinsPlatform2"
+#~ msgstr "Xbox One en Xbox Series S, Xbox Series X"
+
+#~ msgid "locales.pageCoinsPrevPage"
+#~ msgstr "Vorige pagina"
+
+#~ msgid "locales.pageCoinsPrice"
+#~ msgstr "Prijs"
+
+#~ msgid "locales.pageCoinsProcessAutomated"
+#~ msgstr "Het overzetten van munten van onze FUT-clubs naar die van jou is volledig geautomatiseerd. Ons algoritme houdt rekening met een aantal regels die jouw account beschermen als je bestelt op onze website. We bieden een garantie van 3 dagen. In die tijd kun je je geld terugkrijgen op de rekening die is gebruikt voor de betaling als de uitgever je dreigt met sancties. Neem in dat geval contact op met onze vertegenwoordiger en geef je bestelnummer door en de reden voor de restitutie."
+
+#~ msgid "locales.pageCoinsReceive"
+#~ msgstr "Hoe ontvang ik de munten?"
+
+#~ msgid "locales.pageCoinsRefund"
+#~ msgstr "Restitutie gegarandeerd als je de munten niet kunt gebruiken"
+
+#~ msgid "locales.pageCoinsRegister"
+#~ msgstr "1. Registreer je of log in op je ROYALFUT-account"
+
+#: components/HowDelivery/Howdelivery.js:104
+msgid "locales.pageCoinsRepeatUntil"
+msgstr "HERHAAL TOT DE OVERDRACHT IS VOLTOOID"
+
+#~ msgid "locales.pageCoinsSignUp"
+#~ msgstr "AANMELDEN"
+
+#~ msgid "locales.pageCoinsStep"
+#~ msgstr "Alle stappen die je moet doorlopen om het saldo van je FIFA Ultimate Team-club te spekken met munten worden gedetailleerd uitgelegd. Het is glashelder :)"
+
+#: components/Package/CheckoutSticky.js:384
+msgid "locales.pageCoinsSubtotal"
+msgstr "Subtotaal:"
+
+#~ msgid "locales.pageCoinsText"
+#~ msgstr "Koop munten en geef ze uit aan spelerskaarten of -packs in FIFA Ultimate Team. Deze service is voor gebruikers op <span class=\"js-change-platform\">$ {platforms}</span> users. Pas op: wijzig je bestelling direct als je op een andere console speelt. <span class=\"js-change-platform\">$ {platforms}</span> -munten geven je de mogelijkheid om diverse hooggewaardeerde spelerskaarten te kopen in FUT of een pack-klapper van jewelste te maken!"
+
+#: components/HowDelivery/Howdelivery.js:101
+msgid "locales.pageCoinsThenConfirm"
+msgstr "Daarna bevestig je je speler voor de veiling en vragen wij welke speler van jou is. Om te zien welke speler van jou is, kun je tot het einde van de veiling de tijden vergelijken."
+
+#: components/HowDelivery/Howdelivery.js:23
+#: components/HowDelivery/Howdelivery.js:51
+msgid "locales.pageCoinsToStart"
+msgstr "Om te beginnen met het leveringsproces moet je de juiste velden invullen met back-upcodes die je hier kunt vinden:"
+
+#~ msgid "locales.pageCoinsTotal"
+#~ msgstr "TOTAAL"
+
+#~ msgid "locales.pageCoinsTotaltotal"
+#~ msgstr "Totaal:"
+
+#~ msgid "locales.pageCoinsToTheCheckout"
+#~ msgstr "NAAR DE KASSA"
+
+#~ msgid "locales.pageCoinsTransferMarket"
+#~ msgstr "je moet de Transfermarkt hebben ontgrendeld in de FUT-webapp (alleen voor de Comfort Trade-bezorgingsmethode)."
+
+#~ msgid "locales.pageCoinsUltimateTeam"
+#~ msgstr "<span class=\"js-change-coins\">$ {coins}</span> FIFA Ultimate Team-munten"
+
+#~ msgid "locales.pageCoinsUseInstructions"
+#~ msgstr "Alle handelingen komen overeen met de interactieve instructies op onze website en aanvullend gebruik van het FIFA-menu van de game op je console of de FUT-webapp- / FUT Companion App-interface."
+
+#~ msgid "locales.pageCoinsUseService"
+#~ msgstr "Je moet aan een aantal voorwaarden voldoen om de service te kunnen gebruiken:"
+
+#: components/HowDelivery/Howdelivery.js:69
+msgid "locales.pageCoinsWaitCompletion"
+msgstr "WACHT TOT JE BESTELLING IS AFGEROND"
+
+#~ msgid "locales.pageCoinsYourPlatform"
+#~ msgstr "Je platform:"
+
+#~ msgid "locales.pageDeliveryContent1Email"
+#~ msgstr "E-mail"
+
+#~ msgid "locales.pageDeliveryContent1Name"
+#~ msgstr "Voer je EA account gegevens in"
+
+#~ msgid "locales.pageDeliveryContent1Next"
+#~ msgstr "Volgende"
+
+#~ msgid "locales.pageDeliveryContent1Password"
+#~ msgstr "Wachtwoord"
+
+#~ msgid "locales.pageDeliveryContent1SeePassword"
+#~ msgstr "Zie wachtwoord"
+
+#~ msgid "locales.pageDeliveryContent1Text"
+#~ msgstr "Je hebt voor de Easy-methode gekozen. Dit betekent dat we in jouw naam spelers verkopen. <br>We gebruiken je account alleen om overboekingen te regelen en niet voor andere doeleinden <br>Nadat je bestelling is voltooid, raden we je aan om het wachtwoord van je account te wijzigen."
+
+#~ msgid "locales.pageDeliveryContent2Code"
+#~ msgstr "Code invoeren"
+
+#~ msgid "locales.pageDeliveryContent2CodePlaceholder"
+#~ msgstr "Backup-code"
+
+#~ msgid "locales.pageDeliveryContent2Name"
+#~ msgstr "Voer je code van 8 cijfers in"
+
+#~ msgid "locales.pageDeliveryContent2Next"
+#~ msgstr "Volgende"
+
+#~ msgid "locales.pageDeliveryContent2Text"
+#~ msgstr "Je kan de code op <a href=\"https://myaccount.ea.com/cp-ui/security/index\" rel=\"noindex, nofollow\" target=\"_blank\">myaccount.ea.com</a> verkrijgen. Ga naar de pagina \"Beveiliging\" in de rubriek Back-upcodes"
+
+#~ msgid "locales.pageDeliveryContent3Name"
+#~ msgstr "\"Het gebruik van je account"
+
+#~ msgid "locales.pageDeliveryContent3Process1"
+#~ msgstr "Gelieve niet je account te gebruiken tijdens het overboeken\""
+
+#~ msgid "locales.pageDeliveryContent3Process2"
+#~ msgstr "Je mag deze pagina verlaten. We sturen je een e-mail wanneer je bestelling is voltooid."
+
+#~ msgid "locales.pageDeliveryContentButtonReload"
+#~ msgstr "Tijd voor transfers!"
+
+#~ msgid "locales.pageDeliveryFormSuccess"
+#~ msgstr "Bestelling verzonden, bestelstatus: <span class=\"status\"></span>"
+
+#~ msgid "locales.pageDeliveryFormSuccessBtn"
+#~ msgstr "Bestelling bekijken"
+
+#~ msgid "locales.pageDeliveryName"
+#~ msgstr "LEVERING <div class=\"site__tab-name-content\">van bestelling №<span></span></div>"
+
+#~ msgid "locales.pageDeliveryTab1"
+#~ msgstr "Spel <br class=\"for-mobile\">account"
+
+#~ msgid "locales.pageDeliveryTab2"
+#~ msgstr "Back-<br class=\"for-mobile\">upcodes"
+
+#~ msgid "locales.pageDeliveryTab3"
+#~ msgstr "Verwerken"
+
+#~ msgid "locales.pageDeliveryTab4"
+#~ msgstr "Gedaan"
+
+#~ msgid "locales.pageMethodCard1Name"
+#~ msgstr "Comfort ruil"
+
+#~ msgid "locales.pageMethodCard1Text"
+#~ msgstr "Alleen je FUT 22-accountgegevens zijn vereist. Wij doen de rest voor je."
+
+#~ msgid "locales.pageMethodCard2Name"
+#~ msgstr "Spelersveiling"
+
+#~ msgid "locales.pageMethodCard2Text"
+#~ msgstr "Volg de instructies die wij u geven. Snel, veilig, maar handmatig. "
+
+#~ msgid "locales.pageMethodCard2Text2"
+#~ msgstr "Werkt niet met bestellingen van meer dan 1 miljoen munten"
+
+#: components/PageChanger/PageChanger.js:92
+msgid "locales.pageMethodCardSoon"
+msgstr "Binnenkort"
+
+#~ msgid "locales.pageMethodName"
+#~ msgstr "LEVERINGSMETHODE"
+
+#~ msgid "locales.pageMethodRecomend"
+#~ msgstr "aanbevolen"
+
+#~ msgid "locales.pageOrderNext"
+#~ msgstr "Doorgaan"
+
+#~ msgid "locales.pagePaymentMethodAntiBan"
+#~ msgstr "Anti-Ban system"
+
+#~ msgid "locales.pagePaymentMethodAntiBanLocale"
+#~ msgstr "ANTI-BAN-SYSTEEM"
+
+#~ msgid "locales.pagePaymentMethodCard3d"
+#~ msgstr "Kaart + 3D Secure"
+
+#~ msgid "locales.pagePaymentMethodCheckout"
+#~ msgstr "Naar de kassa"
+
+#~ msgid "locales.pagePaymentMethodCoupon"
+#~ msgstr "Kortingsbon"
+
+#~ msgid "locales.pagePaymentMethodCouponApply"
+#~ msgstr "Korting TOEPASSEN"
+
+#~ msgid "locales.pagePaymentMethodCouponHave"
+#~ msgstr "Ik heb een kortingsbon"
+
+#~ msgid "locales.pagePaymentMethodDelivery"
+#~ msgstr "1-2 uur levertijd"
+
+#~ msgid "locales.pagePaymentMethodGuarantee"
+#~ msgstr "3 dagen garantie"
+
+#~ msgid "locales.pagePaymentMethodMore"
+#~ msgstr "Meer betalingsmethodes"
+
+#: pages/payments.js:28
+msgid "locales.pagePaymentMethodName"
+msgstr "BETALING"
+
+#~ msgid "locales.pagePaymentMethodPay"
+#~ msgstr "Betaal met bankkaart"
+
+#~ msgid "locales.pagePaymentMethodPayOther"
+#~ msgstr "Betaal met iets"
+
+#~ msgid "locales.pagePaymentMethodPayPal"
+#~ msgstr "Betalen met PayPal"
+
+#: components/Garantee/Garantee.js:74
+msgid "locales.pagePaymentMethodSafe"
+msgstr "100% VEILIG BETALEN"
+
+#~ msgid "locales.pagePaymentMethodTaxesCovered"
+#~ msgstr "Taxes covered"
+
+#~ msgid "locales.pagePaymentMethodTaxesCoveredLocale"
+#~ msgstr "BELASTING GEREGELD"
+
+#: pages/coins/index.js:147
+msgid "locales.pagePaymentMethodTitle"
+msgstr "BUNDELAANBIEDINGEN"
+
+#~ msgid "locales.pagePaymentMethodTotalAmount"
+#~ msgstr "Totaal aantal"
+
+#~ msgid "locales.pagePlatformMark"
+#~ msgstr "NIEUWE!"
+
+#~ msgid "locales.pagePlatformName"
+#~ msgstr "Platform"
+
+#~ msgid "locales.pagePlatformName2"
+#~ msgstr "Platform"
+
+#: components/Profile/Profile.js:192
+msgid "locales.password"
+msgstr "Wachtwoord"
+
+#~ msgid "locales.payment_p1"
+#~ msgstr " accepteert betalingen in euro's. Alleen geregistreerde gebruikers kunnen betalingen op de website doen."
+
+#~ msgid "locales.payment_p2_1"
+#~ msgstr "De betalingen worden georganiseerd via het internationale betalingssysteemen "
+
+#~ msgid "locales.payment_p2_2"
+#~ msgstr " en "
+
+#~ msgid "locales.payment_p2_3"
+#~ msgstr ". Ons systeem aanvaard alle betaalmethodes die standaard met bankkaarten gedaan worden, ongeacht het land of de bank. Bij het afrekenen van een bestelling kan je voor de gewenste betaalmethode kiezen."
+
+#: components/Auth/Auth copy 2.js:113
+#: components/Auth/Auth.js:168
+#~ msgid "locales.paymentsLanguage"
+#~ msgstr "nl-NL"
+
+#: components/Order/StickySecondStep.js:445
+#: components/Order/StickySecondStep.js:454
+#: components/Package/CheckoutSticky.js:502
+#: components/Package/CheckoutSticky.js:510
+#: components/Purchase/Purchase.js:609
+#: components/Purchase/Purchase.js:631
+msgid "locales.payNow"
+msgstr "Betaal nu"
+
+#: components/Order/StepSecondContent.js:49
+#: components/Package/Checkout.js:23
+#: pages/coins/[id].js:301
+#: pages/coins/index.js:155
+msgid "locales.platform"
+msgstr "Platform"
+
+#~ msgid "locales.platformLogin"
+#~ msgstr "Platform / Login"
+
+#~ msgid "locales.platformName"
+#~ msgstr "Your platform:"
+
+#~ msgid "locales.price"
+#~ msgstr "Prijs"
+
+#: components/PrivacyContent/PrivacyContent.js:34
+msgid "locales.privacya1"
+msgstr "De toestemming is geldig vanaf het moment dat de Persoonlijke Data zijn geregistreerd op "
+
+#: components/PrivacyContent/PrivacyContent.js:46
+msgid "locales.privacya2"
+msgstr "Wil je je RoyalFUT-account verwijderen? Stuur dan een e-mail naar "
+
+#: components/BurgerMenu/BurgerMenu.js:302
+msgid "locales.profile"
+msgstr "Online spelersprofiel"
+
+#~ msgid "locales.profileCodesErrors"
+#~ msgstr "Gelieve je backup codes in te voeren. De code moet minstens 8 tekens lang zijn."
+
+#~ msgid "locales.profileFormSuccess"
+#~ msgstr "Volgorde is veranderd, de status"
+
+#~ msgid "locales.profileNotify"
+#~ msgstr "LEVERING van bestelling №xxxxx"
+
+#~ msgid "locales.quick_order"
+#~ msgstr "Snelle bestelling"
+
+#~ msgid "locales.reportProblem"
+#~ msgstr "Een probleem melden"
+
+#: components/ReviewsGallery/ReviewsGallery.js:91
+msgid "locales.reviews"
+msgstr "recensies"
+
+#: components/TableOrders/TableOrderBody.js:779
+#: components/TableOrders/TableOrderBody.js:808
+msgid "locales.saveChanges"
+msgstr "Wijzigingen opslaan"
+
+#: components/BurgerMenu/BurgerMenu.js:409
+#: components/TableOrders/TableOrderBody.js:330
+#: components/TableOrders/TableOrderBody.js:558
+msgid "locales.seePassword"
+msgstr "Zie wachtwoord"
+
+#~ msgid "locales.seo0"
+#~ msgstr "Wij hebben de beste aanbiedingen op FIFA-munten voor PlayStation 4. We bieden goedkope FIFA PS4-munten met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN."
+
+#~ msgid "locales.seo1"
+#~ msgstr "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor PS4 kopen met het vertrouwen dat je de beste deal krijgt."
+
+#~ msgid "locales.seo10"
+#~ msgstr "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor Xbox Series X/S kopen met het vertrouwen dat je de beste deal krijgt."
+
+#~ msgid "locales.seo11"
+#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt."
+
+#~ msgid "locales.seo2"
+#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt."
+
+#~ msgid "locales.seo3"
+#~ msgstr "Wij hebben de beste aanbiedingen op FIFA-munten voor PlayStation 5. We bieden goedkope FIFA PS5-munten met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN."
+
+#~ msgid "locales.seo4"
+#~ msgstr "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor PS5 kopen met het vertrouwen dat je de beste deal krijgt."
+
+#~ msgid "locales.seo5"
+#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt."
+
+#~ msgid "locales.seo6"
+#~ msgstr "Wij hebben de beste aanbiedingen op FIFA-munten voor Xbox One. We bieden goedkope FIFA-munten met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN."
+
+#~ msgid "locales.seo7"
+#~ msgstr "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor Xbox One kopen met het vertrouwen dat je de beste deal krijgt."
+
+#~ msgid "locales.seo8"
+#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt."
+
+#~ msgid "locales.seo9"
+#~ msgstr "Wij hebben de beste aanbiedingen op FIFA-munten voor Xbox Series X. We bieden goedkope FIFA-munten voor Xbox Series X met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN."
+
+#~ msgid "locales.seot1_ps4"
+#~ msgstr "Wij hebben de beste aanbiedingen op FIFA-munten voor PlayStation 4. We bieden goedkope FIFA PS4-munten met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN."
+
+#~ msgid "locales.seot1_ps5"
+#~ msgstr "Wij hebben de beste aanbiedingen op FIFA-munten voor PlayStation 5. We bieden goedkope FIFA PS5-munten met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN."
+
+#~ msgid "locales.seot1_xb"
+#~ msgstr "Wij hebben de beste aanbiedingen op FIFA-munten voor Xbox One. We bieden goedkope FIFA-munten met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN."
+
+#~ msgid "locales.seot1_xbxs"
+#~ msgstr "Wij hebben de beste aanbiedingen op FIFA-munten voor Xbox Series X. We bieden goedkope FIFA-munten voor Xbox Series X met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN."
+
+#~ msgid "locales.seot2_ps4"
+#~ msgstr "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor PS4 kopen met het vertrouwen dat je de beste deal krijgt."
+
+#~ msgid "locales.seot2_ps5"
+#~ msgstr "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor PS5 kopen met het vertrouwen dat je de beste deal krijgt."
+
+#~ msgid "locales.seot2_xb"
+#~ msgstr "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor Xbox One kopen met het vertrouwen dat je de beste deal krijgt."
+
+#~ msgid "locales.seot2_xbxs"
+#~ msgstr "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor Xbox Series X/S kopen met het vertrouwen dat je de beste deal krijgt."
+
+#~ msgid "locales.seot3_ps4"
+#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt."
+
+#~ msgid "locales.seot3_ps5"
+#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt."
+
+#~ msgid "locales.seot3_xb"
+#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt."
+
+#~ msgid "locales.seot3_xbxs"
+#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt."
+
+#: components/Profile/Profile.js:160
+msgid "locales.settings"
+msgstr "Instellingen"
+
+#~ msgid "locales.sidebarAllLink"
+#~ msgstr "Alle beoordelingen"
+
+#~ msgid "locales.sidebarTitle"
+#~ msgstr "Laatste beoordelingen"
+
+#~ msgid "locales.sidebarTrust"
+#~ msgstr "nl-NL"
+
+#~ msgid "locales.sidebarTrustWidth"
+#~ msgstr "242px"
+
+#~ msgid "locales.specOfferTitle"
+#~ msgstr "Mis onze speciale aanbieding niet"
+
+#: pages/coins/index.js:250
+#: pages/coins/index.js:337
+msgid "locales.startSave"
+msgstr "Bespaar een hoop tijd met de gloednieuwe tool van onze vrienden!"
+
+#: components/TableOrders/StatusInfo.js:19
+msgid "locales.status"
+msgstr "Status"
+
+#~ msgid "locales.status.accepted"
+#~ msgstr "AANVAARD"
+
+#~ msgid "locales.status.created"
+#~ msgstr "AANGEMAAKT"
+
+#~ msgid "locales.status.customer_online"
+#~ msgstr "FIFA account momenteel in gebruik"
+
+#~ msgid "locales.status.error_fut"
+#~ msgstr "FOUT FUT"
+
+#~ msgid "locales.status.error_payment"
+#~ msgstr "BETALING MISLUKT"
+
+#~ msgid "locales.status.finished"
+#~ msgstr "AFGEWERKT"
+
+#~ msgid "locales.status.fut_error"
+#~ msgstr "FOUT FUT"
+
+#~ msgid "locales.status.issued_refund"
+#~ msgstr "GEANNULEERD"
+
+#~ msgid "locales.status.locked"
+#~ msgstr "afgesloten"
+
+#~ msgid "locales.status.no_access_to_fifa_21_webapp"
+#~ msgstr "Geen toegang tot EA FC 25 WEB-APP"
+
+#~ msgid "locales.status.no_enough_coins_to_start"
+#~ msgstr "NIET GENOEG MUNTEN OM TE STARTEN"
+
+#~ msgid "locales.status.no_enough_stock"
+#~ msgstr "NIET GENOEG MUNTEN"
+
+#~ msgid "locales.status.not_enough_coins_to_start"
+#~ msgstr "NIET GENOEG MUNTEN OM TE STARTEN"
+
+#~ msgid "locales.status.not_enough_stock"
+#~ msgstr "NIET GENOEG MUNTEN"
+
+#~ msgid "locales.status.out_of_stock"
+#~ msgstr "UITVERKOCHT"
+
+#~ msgid "locales.status.payed"
+#~ msgstr "BETAALD"
+
+#~ msgid "locales.status.payment_failed"
+#~ msgstr "BETALING MISLUKT"
+
+#~ msgid "locales.status.progress"
+#~ msgstr "BEZIG MET UITVOERING"
+
+#~ msgid "locales.status.success"
+#~ msgstr "Succes"
+
+#~ msgid "locales.status.waiting_payment"
+#~ msgstr "WACHT OP BETALING"
+
+#~ msgid "locales.status.warning"
+#~ msgstr "Waarschuwing"
+
+#~ msgid "locales.status.wrong_backup"
+#~ msgstr "VERKEERDE BACK-UP"
+
+#~ msgid "locales.status.wrong_credentials"
+#~ msgstr "VERKEERDE GEGEVENS"
+
+#~ msgid "locales.sublogo"
+#~ msgstr "EA FC 25 munten"
+
+#~ msgid "locales.sublogo2"
+#~ msgstr "EA FC 25-items"
+
+#~ msgid "locales.succPaid"
+#~ msgstr "Je bestelling is betaald!"
+
+#: components/TermsContent/TermsContent.js:18
+msgid "locales.terms_text"
+msgstr "Lees de volgende Gebruikersovereenkomst goed. Als je niet akkoord gaat met een van de voorwaarden uit deze Gebruikersovereenkomst, heb je niet het recht om je registratie te bevestigen, diensten van https://royalfut.com te gebruiken, of goederen verkopen, kopen of ruilen via dit ruilplatform."
+
+#: components/TermsContent/TermsContent.js:53
+msgid "locales.termsa1"
+msgstr "Algemene voorwaarden vanaf 01.10.2020 (01.10.2020 - 07.02.2021)"
+
+#: components/TermsContent/TermsContent.js:63
+msgid "locales.termsa2"
+msgstr "Algemene voorwaarden vanaf 08.02.2021 (08.02.2021 - 03.06.2021)"
+
+#: components/TermsContent/TermsContent.js:73
+msgid "locales.termsa3"
+msgstr "Privacybeleid van 01.10.2020 (01.10.2020 - 07.02.2021)"
+
+#~ msgid "locales.toDay"
+#~ msgstr "Vandaag"
+
+#~ msgid "locales.totsPromoText"
+#~ msgstr "TEAM OF THE SEASON <b>- 18% korting</b> op de aanbiedingen prijs - <span class=\"color\">gebruik de promotiecode: <b>TOTSY</b></span>"
+
+#: components/TableOrders/StatusInfo.js:117
+#: components/TableOrders/TableItem.js:846
+msgid "locales.transferred"
+msgstr "Munten overgedragen"
+
+#: components/HowDelivery/Howdelivery.js:85
+#: components/HowDelivery/Howdelivery.js:120
+msgid "locales.trustcom"
+msgstr "  je feedback"
+
+#~ msgid "locales.trySbc"
+#~ msgstr "Probeer SBC Solver nu gratis!"
+
+#: pages/index.js:117
+#~ msgid "locales.tryThese"
+#~ msgstr "Probeer deze opties ook eens"
+
+#: components/HowDelivery/Howdelivery.js:34
+#: components/HowDelivery/Howdelivery.js:63
+msgid "locales.unused"
+msgstr " . We hebben maar één ongebruikte code nodig om je bestelling te leveren."
+
+#: components/Profile/Profile.js:208
+msgid "locales.update"
+msgstr "Update"
+
+#~ msgid "locales.upto1m"
+#~ msgstr "Tot 1m munten"
+
+#: components/TermsContent/TermsContent.js:21
+msgid "locales.user_agreement"
+msgstr "Gebruikersovereenkomst"
+
+#: components/TableOrders/TableOrderBody.js:746
+msgid "locales.wrong_backup"
+msgstr "VERKEERDE BACK-UP"
+
+#~ msgid "locales.wrongCode"
+#~ msgstr "VERKEERDE BACK-UP"
+
+#~ msgid "locales.wrongCredentials"
+#~ msgstr "VERKEERDE GEGEVENS"
+
+#~ msgid "locales.yesterDay"
+#~ msgstr "Gisteren"
+
+#~ msgid "locales.youLogged"
+#~ msgstr "Je bent met succes aangemeld als"
+
+#: components/Profile/RoyalRanging.js:1422
+#: components/Profile/RoyalRanging.js:1452
+msgid "locked"
+msgstr "Vergrendeld"
+
+#: components/Profile/Profile.js:171
+msgid "loyalty program"
+msgstr "Loyalty programma"
+
+#: components/Carusel/Carusel.js:109
+#: components/Carusel/Carusel.js:139
+msgid "mainblocks0"
+msgstr "Bouw nu aan je droomteam"
+
+#: components/Carusel/Carusel.js:110
+#: components/Carusel/Carusel.js:140
+msgid "mainblocks1"
+msgstr "Met EA Sports FC 25-munten heb je alle keuze voor elke positie in je team. Laat je verbeelding de vrije loop, probeer nieuwe opties en experimenteer erop los!"
+
+#: components/Carusel/Carusel.js:87
+#: components/Modal/Modal.js:169
+#: components/Package/IdCard.js:135
+#: components/Package/PackageCard.js:144
+#: pages/coins/index.js:234
+#: pages/coins/index.js:321
+msgid "mainblocks10"
+msgstr "Munten kopen"
+
+#: components/FaqMain/FaqMain.js:159
+msgid "mainblocks11"
+msgstr "Heb je vragen?"
+
+#: components/Footer/Footer.js:102
+msgid "mainblocks12"
+msgstr "Onze sociale media"
+
+#~ msgid "mainblocks13"
+#~ msgstr "Jouw leverancier"
+
+#~ msgid "mainblocks14"
+#~ msgstr "van EA FC 25-"
+
+#~ msgid "mainblocks15"
+#~ msgstr "munten en services"
+
+#: components/H1/H1.js:10
+msgid "mainblocks16"
+msgstr "Je favoriete stek"
+
+#: components/H1/H1.js:13
+msgid "mainblocks17"
+msgstr "voor munten en"
+
+#: components/H1/H1.js:16
+msgid "mainblocks18"
+msgstr "services van FC 25"
+
+#~ msgid "mainblocks19"
+#~ msgstr "Beste muntenwinkel"
+
+#: components/Carusel/Carusel.js:121
+#: components/Carusel/Carusel.js:151
+msgid "mainblocks2"
+msgstr "Ontvang alle kaarten die je maar wilt"
+
+#~ msgid "mainblocks20"
+#~ msgstr "voor FC 25"
+
+#~ msgid "mainblocks21"
+#~ msgstr "Ultimate Team"
+
+#: components/Offer/Offer.js:29
+msgid "mainblocks22"
+msgstr "FIFA 25-munten"
+
+#: components/Offer/Offer.js:32
+msgid "mainblocks23"
+msgstr "veilig kopen"
+
+#: components/ReviewsGallery/ReviewsGallery.js:71
+msgid "mainblocks24"
+msgstr "Klantenreviews"
+
+#~ msgid "mainblocks25"
+#~ msgstr "Beoordeling __"
+
+#~ msgid "mainblocks26"
+#~ msgstr "Op basis van __ reviews"
+
+#: components/ReviewsGallery/ReviewsGallery.js:99
+msgid "mainblocks27"
+msgstr "Uitstekend"
+
+#: components/ReviewsGallery/ReviewsGallery.js:113
+msgid "mainblocks28"
+msgstr "Geverifieerd bedrijf"
+
+#~ msgid "mainblocks29"
+#~ msgstr ""
+
+#: components/Carusel/Carusel.js:122
+#: components/Carusel/Carusel.js:152
+msgid "mainblocks3"
+msgstr "Eindelijk kun je de Ultimate Team-spelers kiezen die je het liefst wilt. Start je collectie topkaarten van elke FC UT-promo zodat je altijd het beste hebt!"
+
+#: components/Carusel/Carusel.js:115
+#: components/Carusel/Carusel.js:145
+msgid "mainblocks4"
+msgstr "Ontdek meer functies in de game met de beste kaarten"
+
+#: components/Carusel/Carusel.js:116
+#: components/Carusel/Carusel.js:146
+msgid "mainblocks5"
+msgstr "Ga voor nieuwe ervaringen met topspelers en experimenteer met allerlei PlayStyles+-combinaties die van invloed zijn op de gameplay in Ultimate Team."
+
+#: components/Carusel/Carusel.js:103
+#: components/Carusel/Carusel.js:133
+msgid "mainblocks6"
+msgstr "Bereik het hoogste"
+
+#: components/Carusel/Carusel.js:104
+#: components/Carusel/Carusel.js:134
+msgid "mainblocks7"
+msgstr "Als je met de beste spelerskaarten speelt, is de weg naar succes en de beste beloningen kort. Je hebt het in eigen hand!"
+
+#: components/Carusel/Carusel.js:127
+#: components/Carusel/Carusel.js:157
+msgid "mainblocks8"
+msgstr "Speel nu en stop met grinden"
+
+#: components/Carusel/Carusel.js:128
+#: components/Carusel/Carusel.js:158
+msgid "mainblocks9"
+msgstr "Vergeet dat frustrerende munten farmen en doe wat leukers met je tijd: de game zelf spelen! Richt je op het doel op de velden van Ultimate Teams, niet op eindeloos grinden."
+
+#: components/Infografic/Infografic.js:51
+msgid "min"
+msgstr "min"
+
+#: pages/coins/[id].js:216
+msgid "minutes"
+msgstr "minutes"
+
+#~ msgid "Netherlands"
+#~ msgstr "Nederland"
+
+#: components/Cookie/Cookie.js:35
+msgid "newcookies"
+msgstr "🍪 We gebruiken cookies om je ervaring op onze site beter te maken.        "
+
+#: components/Cookie/Cookie.js:38
+msgid "newcookieslink"
+msgstr "Meer info        "
+
+#~ msgid "newh1_1"
+#~ msgstr "Veiligste optie om"
+
+#~ msgid "newh1_2"
+#~ msgstr "FC 25-munten "
+
+#~ msgid "newh1_3"
+#~ msgstr "te kopen"
+
+#: components/MainFunnel/MainFunnel.js:46
+msgid "newh1_4"
+msgstr "FC 25-munten te kopen"
+
+#: components/Cookie/Cookie.js:52
+msgid "okay"
+msgstr "Oké        "
+
+#~ msgid "orderh1"
+#~ msgstr "Buy FC 25 Ultimate Team coins"
+
+#~ msgid "orderinfo"
+#~ msgstr "Order info"
+
+#: components/Infografic/Infografic.js:34
+msgid "orders to our customers"
+msgstr "bestellingen geleverd aan klanten"
+
+#~ msgid "orderstep2"
+#~ msgstr "Checkout"
+
+#~ msgid "orderstep3"
+#~ msgstr "Delivery"
+
+#: components/Header/Header.js:69
+msgid "pageCoinsBundles"
+msgstr "Muntenpakketten"
+
+#: components/MainFunnel/StickySecondStep.js:157
+msgid "payNow"
+msgstr "Betaal nu"
+
+#~ msgid "pl_upd0"
+#~ msgstr "Transfermarkt vergrendeld"
+
+#~ msgid "pl_upd1"
+#~ msgstr "Je account heeft geen toegang tot de Transfermarkt in de FC Ultimate Team Web-app. Log in met een ander account waarmee de Transfermarkt niet is vergrendeld, als je er een hebt, of neem contact op met onze klantenservice om een andere oplossing te zoeken"
+
+#~ msgid "pl_upd10"
+#~ msgstr "E-mail opnieuw versturen"
+
+#~ msgid "pl_upd11"
+#~ msgstr "[[X]] sec."
+
+#~ msgid "pl_upd12"
+#~ msgstr "Code onjuist"
+
+#~ msgid "pl_upd13"
+#~ msgstr "Je bent aangemeld als [[X]]"
+
+#: components/LoyaltyProgram/MainLoyalty.js:30
+msgid "pl_upd14"
+msgstr "Hoe werkt ons loyaltyprogramma?"
+
+#: components/LoyaltyProgram/MainLoyalty.js:33
+msgid "pl_upd15"
+msgstr "Met elke aankoop kom je verder in de wondere wereld van voetbal! Start je digitale avontuur en koop munten, verdien korting en bereik nieuwe niveaus!"
+
+#: components/LoyaltyProgram/MainLoyalty.js:40
+msgid "pl_upd16"
+msgstr "Gebruikers die al meedoen aan ons loyaltyprogramma"
+
+#: components/LoyaltyProgram/MainLoyalty.js:46
+msgid "pl_upd17"
+msgstr "ROYAL-punten die al zijn verdiend door onze klanten"
+
+#: components/GuideContent/StickyCoupon.js:32
+#: components/LoyaltyProgram/MainLoyalty.js:54
+msgid "pl_upd18"
+msgstr "Koop munten"
+
+#: components/LoyaltyProgram/MainLoyalty.js:57
+msgid "pl_upd19"
+msgstr "Til je game-ervaring naar een hoger plan door glimmende munten te kopen en haal alles uit je Ultimate Team!"
+
+#~ msgid "pl_upd2"
+#~ msgstr "Inloggen of aanmelden"
+
+#: components/LoyaltyProgram/MainLoyalty.js:64
+msgid "pl_upd20"
+msgstr "Verdien ROYAL-punten"
+
+#: components/LoyaltyProgram/MainLoyalty.js:67
+msgid "pl_upd21"
+msgstr "Telkens als je munten koopt op onze website, verdien je ROYAL-punten en ontgrendel je extra voordelen door nieuwe loyaliteitsniveaus te bereiken."
+
+#: components/LoyaltyProgram/MainLoyalty.js:73
+msgid "pl_upd22"
+msgstr "Geef je ROYAL-punten uit"
+
+#: components/LoyaltyProgram/MainLoyalty.js:76
+msgid "pl_upd23"
+msgstr "Benut je ROYAL-punten tijdens je volgende aankoop om met korting aan nieuwe munten te komen!"
+
+#: components/LoyaltyProgram/MainLoyalty.js:85
+msgid "pl_upd24"
+msgstr "Koop munten"
+
+#: components/LoyaltyProgram/MainLoyalty.js:95
+msgid "pl_upd25"
+msgstr "Meer informatie over ROYAL-punten"
+
+#: components/Order/OrderDeliveryPlug.js:20
+msgid "pl_upd26"
+msgstr "Levering"
+
+#: components/Order/OrderDeliveryPlug.js:24
+msgid "pl_upd27"
+msgstr "Je moet de gegevens van je EA-account opgeven om de levering te starten. De munten worden toegevoegd aan de Ultimate Team-club die is gekoppeld aan je EA-account."
+
+#: components/LoyaltyProgram/RoyalPointsInfo.js:27
+msgid "pl_upd28"
+msgstr "Ons nieuwe cashbacksysteem waarin loyaliteit wordt beloond: met elke aankoop verdien je punten om uit te geven aan nieuwe bestellingen en nieuwe niveaus – met extra voordelen – te bereiken."
+
+#: components/LoyaltyProgram/RoyalPointsInfo.js:32
+msgid "pl_upd29"
+msgstr "Meer info"
+
+#~ msgid "pl_upd3"
+#~ msgstr "Voer je e-mailadres in om in te loggen of maak een account aan"
+
+#~ msgid "pl_upd30"
+#~ msgstr "Subtotaal"
+
+#: components/Package/CheckoutSticky.js:414
+msgid "pl_upd31"
+msgstr "Niet gebruiken"
+
+#: components/Package/CheckoutSticky.js:425
+msgid "pl_upd32"
+msgstr " gebruiken"
+
+#~ msgid "pl_upd33"
+#~ msgstr "Totaalprijs"
+
+#: components/Package/CheckoutSticky.js:469
+msgid "pl_upd34"
+msgstr "Log in voor cashback"
+
+#: components/Package/CheckoutSticky.js:468
+msgid "pl_upd35"
+msgstr "Je cashback voor deze bestelling"
+
+#: components/Package/CheckoutSticky.js:397
+msgid "pl_upd36"
+msgstr "Korting met ROYAL-punten"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:146
+#: components/LoyaltyProgram/RoyalPointsInfo.js:24
+msgid "pl_upd37"
+msgstr "ROYAL-punten"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:149
+msgid "pl_upd38"
+msgstr "Betaal een deel van de kosten met cashbackpunten van eerdere aankopen. Telkens als je een nieuw niveau bereikt, ontgrendel je extra voordelen."
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:160
+msgid "pl_upd39"
+msgstr "Niveaus loyaltyprogramma"
+
+#~ msgid "pl_upd4"
+#~ msgstr "Ter verificatie sturen we een autorisatielink naar het opgegeven e-mailadres en een 6-cijferige code om veilig in te loggen"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:207
+msgid "pl_upd40"
+msgstr "Je niveau"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:218
+msgid "pl_upd41"
+msgstr "Vereisten"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:222
+msgid "pl_upd42"
+msgstr "[[x]] aankopen op de website"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:225
+msgid "pl_upd43"
+msgstr "[[x]] munten in totaal gekocht"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:234
+msgid "pl_upd44"
+msgstr "Voordelen"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:238
+msgid "pl_upd45"
+msgstr "[[x]]% cashback bij elke aankoop"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:241
+msgid "pl_upd46"
+msgstr "Maximaal [[x]]% van de bestelkosten kan worden betaald met ROYAL-punten"
+
+#: pages/profile.js:55
+msgid "pl_upd49"
+msgstr "Je profiel"
+
+#~ msgid "pl_upd5"
+#~ msgstr "Je e-mailadres"
+
+#: components/Profile/RoyalPoints.js:55
+msgid "pl_upd50"
+msgstr "Je ROYAL-puntensaldo"
+
+#: components/Profile/RoyalPoints.js:83
+msgid "pl_upd51"
+msgstr "Betaal een deel van de kosten met cashbackpunten van eerdere aankopen. Telkens als je een nieuw niveau bereikt, ontgrendel je extra voordelen."
+
+#: components/Profile/RoyalRanging.js:75
+msgid "pl_upd52"
+msgstr "Je huidige loyaltyniveau"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:76
+msgid "pl_upd53"
+msgstr "Brons"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:80
+msgid "pl_upd54"
+msgstr "Zilver"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:84
+msgid "pl_upd55"
+msgstr "Goud"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:88
+msgid "pl_upd56"
+msgstr "Inform"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:92
+msgid "pl_upd57"
+msgstr "Held"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:96
+msgid "pl_upd58"
+msgstr "Icoon"
+
+#: components/Profile/RoyalRanging.js:116
+#: components/Profile/RoyalRanging.js:202
+#: components/Profile/RoyalRanging.js:311
+#: components/Profile/RoyalRanging.js:388
+#: components/Profile/RoyalRanging.js:496
+#: components/Profile/RoyalRanging.js:602
+#: components/Profile/RoyalRanging.js:744
+#: components/Profile/RoyalRanging.js:879
+#: components/Profile/RoyalRanging.js:1053
+#: components/Profile/RoyalRanging.js:1188
+msgid "pl_upd59"
+msgstr "Aantal aankopen tot het volgende niveau"
+
+#~ msgid "pl_upd6"
+#~ msgstr "Autorisatiemail sturen"
+
+#: components/Profile/RoyalRanging.js:1366
+msgid "pl_upd60"
+msgstr "Totaal aantal munten gekocht"
+
+#: components/Profile/RoyalRanging.js:1422
+#: components/Profile/RoyalRanging.js:1452
+msgid "pl_upd61"
+msgstr "Je voordelen"
+
+#: components/Profile/RoyalRanging.js:1427
+msgid "pl_upd62"
+msgstr "cashback ontvangen bij alle aankopen"
+
+#~ msgid "pl_upd63"
+#~ msgstr "Bereik het volgende niveau en verhoog"
+
+#~ msgid "pl_upd64"
+#~ msgstr "Maximale waarde"
+
+#: components/Profile/RoyalRanging.js:1457
+msgid "pl_upd65"
+msgstr "van de bestelkosten kan worden betaald met ROYAL-punten"
+
+#: components/Profile/PointsHistory.js:69
+msgid "pl_upd66"
+msgstr "Geschiedenis ROYAL-punten"
+
+#~ msgid "pl_upd69"
+#~ msgstr "Koop meer munten om dit niveau te ontgrendelen"
+
+#~ msgid "pl_upd7"
+#~ msgstr "6-cijferige code invoeren"
+
+#~ msgid "pl_upd70"
+#~ msgstr "Rond meer aankopen af om het volgende niveau te ontgrendelen"
+
+#: components/Profile/RoyalRanging.js:75
+msgid "pl_upd71"
+msgstr "Doe meer aankopen en koop meer munten om dit niveau te ontgrendelen"
+
+#~ msgid "pl_upd72"
+#~ msgstr "Niet betaald"
+
+#~ msgid "pl_upd73"
+#~ msgstr "Deze bestelling is nog niet betaald"
+
+#~ msgid "pl_upd74"
+#~ msgstr "Geannuleerd"
+
+#~ msgid "pl_upd75"
+#~ msgstr "Deze bestelling is op jouw verzoek geannuleerd"
+
+#~ msgid "pl_upd76"
+#~ msgstr "Voer je EA-accountgegevens in"
+
+#~ msgid "pl_upd77"
+#~ msgstr "Om de levering te starten, moet je via het onderstaande formulier je EA-accountgegevens opgeven"
+
+#~ msgid "pl_upd78"
+#~ msgstr "Bestelling in wachtrij"
+
+#~ msgid "pl_upd79"
+#~ msgstr "Controleer of je bent uitgelogd in Ultimate Team op je console of pc of andere apparaten via FC Ultimate Team Web-app / FC Companion"
+
+#~ msgid "pl_upd8"
+#~ msgstr "Vul in het vak hieronder de verificatiecode in die we hebben gestuurd naar [[X]]"
+
+#~ msgid "pl_upd80"
+#~ msgstr "Bestelling onderweg"
+
+#~ msgid "pl_upd81"
+#~ msgstr "Log niet in op Ultimate Team met je account tot de bestelling is voltooid"
+
+#~ msgid "pl_upd82"
+#~ msgstr "Back-upcodes"
+
+#~ msgid "pl_upd83"
+#~ msgstr "Verkeerde back-upcodes"
+
+#~ msgid "pl_upd84"
+#~ msgstr "De back-upcodes die je hebt opgegeven, zijn onjuist of verlopen, of ze horen bij een ander account. Controleer of je de goede code opgeeft"
+
+#~ msgid "pl_upd9"
+#~ msgstr "of klik op de link in de e-mail om je e-mailadres te bevestigen"
+
+#: components/DeliverySteps/DeliverySteps.js:16
+msgid "process"
+msgstr "Bezorgproces"
+
+#~ msgid "Qatar"
+#~ msgstr "Qatar"
+
+#~ msgid "rangeHeader0"
+#~ msgstr "Bronze"
+
+#~ msgid "rangeHeader1"
+#~ msgstr "Silver"
+
+#~ msgid "rangeHeader2"
+#~ msgstr "Gold"
+
+#~ msgid "rangeHeader3"
+#~ msgstr "Inform"
+
+#~ msgid "rangeHeader4"
+#~ msgstr "Hero"
+
+#~ msgid "rangeHeader5"
+#~ msgstr "Icon"
+
+#: components/Message/Message.js:115
+msgid "refresh"
+msgstr "Pagina verversen"
+
+#: components/Aside/Aside.js:65
+msgid "reviews"
+msgstr "recensies"
+
+#: components/Infografic/Infografic.js:60
+msgid "satisfied costumers"
+msgstr "van onze klanten tevreden"
+
+#~ msgid "Saudi Arabia"
+#~ msgstr "Saudi-Arabië"
+
+#: pages/coins/index.js:249
+#: pages/coins/index.js:336
+msgid "sbc"
+msgstr "Probeer SBC Solver met korting"
+
+#: components/ModalTimer/ModalTimer.js:53
+msgid "season"
+msgstr "Bezig met voorbereiden op het nieuwe seizoen"
+
+#: components/MainContainer.js:602
+#: components/MainContainer.js:608
+msgid "seo:root:description"
+msgstr "Beste winkel voor EA SPORTS FC 25-munten ✔ Koop EA FC 25-munten voor PS4/5, Xbox One/X/S 🎮Snelle bezorging en 24/7 support ⚡ 100% veilige betalingen 🔒 Veilige plek om goedkoop Ultimate Team-munten te kopen 😉"
+
+#: pages/_app.js:25
+msgid "seo:root:title"
+msgstr "Koop FC 25-munten voor alle platforms | Ultimate Team-muntenwinkel"
+
+#~ msgid "seo0"
+#~ msgstr "Nederlands"
+
+#: components/BuyCoinsDropdown/BuyCoinsDropdown.js:57
+#: components/Offer/Offer.js:47
+#: components/OptionWithItems/OptionWithItems.js:45
+#: components/StickyBlock/StickyBlock.js:31
+msgid "seo1"
+msgstr "Munten kopen"
+
+#~ msgid "seo10"
+#~ msgstr "Munten kopen"
+
+#: components/NotFound/NotFound.js:16
+msgid "seo100"
+msgstr "Sorry, de pagina die je zoekt bestaat niet"
+
+#: components/NotFound/NotFound.js:19
+msgid "seo101"
+msgstr "Mogelijk heb je het verkeerde adres ingevoerd, of de pagina die je probeert te bereiken is verwijderd."
+
+#: components/NotFound/NotFound.js:26
+msgid "seo102"
+msgstr "Ga naar startpagina"
+
+#: components/Modal/Modal.js:421
+msgid "seo103"
+msgstr "Is dit je eerste bezoek?"
+
+#: components/Modal/Modal.js:424
+msgid "seo104"
+msgstr "Bevestig de onderstaande verklaringen voor je doorgaat"
+
+#: components/InputChecker/InputChecker.js:86
+msgid "seo105"
+msgstr "Mijn Ultimate Team-muntensaldo is minstens 5000."
+
+#: components/InputChecker/InputChecker.js:110
+msgid "seo106"
+msgstr "Ik ben afgemeld bij Ultimate Team op mijn console en ik gebruikt geen FC 25 Web App / FC Companion App op andere apparaten."
+
+#: components/InputChecker/InputChecker.js:136
+msgid "seo107"
+msgstr "Laat dit bericht niet meer zien. Dit is niet mijn eerste aankoop. Ik ben me bewust van alle vereisten."
+
+#: components/ChangeAvatar/ChangeAvatar.js:83
+#: components/Modal/Modal.js:182
+#: components/Modal/Modal.js:214
+#: components/Modal/Modal.js:444
+msgid "seo108"
+msgstr "Bevestigen"
+
+#~ msgid "seo109"
+#~ msgstr "Wachtwoord"
+
+#~ msgid "seo11"
+#~ msgstr "Snelle bestelling"
+
+#: components/ChangePassword/ChangePassword.js:158
+#: components/ChangePassword/ChangePassword.js:178
+msgid "seo110"
+msgstr "Huidig wachtwoord"
+
+#: components/ChangePassword/ChangePassword.js:209
+#: components/ChangePassword/ChangePassword.js:223
+msgid "seo111"
+msgstr "Nieuw wachtwoord"
+
+#: components/ChangePassword/ChangePassword.js:257
+#: components/ChangePassword/ChangePassword.js:271
+#: components/ChangePassword/ChangePassword.js:322
+msgid "seo112"
+msgstr "Nieuw wachtwoord bevestigen"
+
+#: components/ChangePassword/ChangePassword.js:299
+msgid "seo113"
+msgstr "Wachtwoorden komen niet overeen"
+
+#: components/TableOrders/TableItem.js:106
+msgid "seo114"
+msgstr "Vandaag"
+
+#: components/TableOrders/TableItem.js:110
+msgid "seo115"
+msgstr "Gisteren"
+
+#~ msgid "seo116"
+#~ msgstr "Aantal"
+
+#~ msgid "seo117"
+#~ msgstr "Status"
+
+#: components/TableOrders/TableOrderBody.js:277
+#: components/TableOrders/TableOrderBody.js:475
+msgid "seo118"
+msgstr "EA-accountgegevens"
+
+#: components/TableOrders/TableOrderBody.js:297
+#: components/TableOrders/TableOrderBody.js:496
+msgid "seo119"
+msgstr "E-mailadres EA-account"
+
+#~ msgid "seo12"
+#~ msgstr "Probeer deze opties ook eens"
+
+#: components/TableOrders/TableOrderBody.js:322
+#: components/TableOrders/TableOrderBody.js:543
+msgid "seo120"
+msgstr "Wachtwoord EA-account"
+
+#: components/TableOrders/TableOrderBody.js:390
+#: components/TableOrders/TableOrderBody.js:650
+msgid "seo121"
+msgstr "Back-upcodes EA-account"
+
+#: components/TableOrders/TableOrderBody.js:750
+msgid "seo122"
+msgstr "We raden je aan om minstens 2-3 back-upcodes op te geven"
+
+#: components/TableOrders/TableOrderBody.js:755
+msgid "seo123"
+msgstr "Je kunt je back-upcodes vinden op deze pagina:  "
+
+#: components/TableOrders/TableItem.js:361
+msgid "seo124"
+msgstr "Gegevens verzenden"
+
+#: components/TableOrders/TableItem.js:261
+#: components/TableOrders/TableItem.js:271
+#: components/TableOrders/TableItem.js:281
+#: components/TableOrders/TableItem.js:537
+#: components/TableOrders/TableItem.js:547
+msgid "seo125"
+msgstr "Opnieuw proberen"
+
+#~ msgid "seo126"
+#~ msgstr "Data opnieuw verz."
+
+#: components/TableOrders/TableItem.js:498
+#: components/TableOrders/TableItem.js:511
+#: components/TableOrders/TableItem.js:524
+msgid "seo127"
+msgstr "Bezorging beginnen"
+
+#: components/TableOrders/TableItem.js:291
+#: components/TableOrders/TableItem.js:301
+#: components/TableOrders/TableItem.js:311
+#: components/TableOrders/TableItem.js:321
+#: components/TableOrders/TableItem.js:331
+#: components/TableOrders/TableItem.js:341
+#: components/TableOrders/TableItem.js:424
+#: components/TableOrders/TableItem.js:435
+#: components/TableOrders/TableItem.js:446
+msgid "seo128"
+msgstr "Bezorging hervatten"
+
+#: components/TableOrders/TableItem.js:413
+msgid "seo129"
+msgstr "Gegevens veranderen"
+
+#~ msgid "seo13"
+#~ msgstr "Muntenpakketten"
+
+#: components/TableOrders/TableItem.js:351
+#: components/TableOrders/TableItem.js:457
+#: components/TableOrders/TableItem.js:557
+msgid "seo130"
+msgstr "Bestelling herhalen"
+
+#: components/TableOrders/TableItem.js:499
+#: components/TableOrders/TableItem.js:512
+#: components/TableOrders/TableItem.js:525
+msgid "seo131"
+msgstr "Bezorgingspagina openen in nieuw tabblad"
+
+#: components/ReviewsContent/ReviewsContent.js:75
+msgid "seo132"
+msgstr "Recensies"
+
+#: components/ReviewsContent/ReviewsContent.js:80
+msgid "seo133"
+msgstr "Lees de ervaringen van honderden klanten op onze website. Alle beoordelingen zijn afkomstig van de ROYALFUT pagina op Trustpilot. Trustpilot is een internationaal beoordelingsplatform, het populairste platform onder consumenten in Europa en de VS. Recensies op de site worden regelmatig gecontroleerd op fraude en manipulatie door de moderators van Trustpilot. We kunnen de beoordeling en de samenstelling van de beoordelingen alleen beïnvloeden door middel van professioneel werk en de kwaliteit van de service die aan de klant wordt geboden. Als je een recensie wilt achterlaten, "
+
+#: components/ReviewsContent/ReviewsContent.js:87
+msgid "seo134"
+msgstr "kun je ons nu beoordelen!"
+
+#: components/Rated/Rated.js:106
+msgid "seo135"
+msgstr "Beoordeel ons"
+
+#~ msgid "seo14"
+#~ msgstr "Zelfs de meest verfijnde klanten zullen blij zijn met de aankoopbonus. Haal 'm vandaag nog!"
+
+#: components/StickyBlock/StickyBlock.js:24
+msgid "seo146"
+msgstr "Psst... Zoek je munten?"
+
+#~ msgid "seo147"
+#~ msgstr "Munten kopen"
+
+#: components/StickyBlock/StickyBlock.js:37
+msgid "seo148"
+msgstr "Ga naar startpagina"
+
+#: components/PaymentContent/PaymentContent.js:10
+msgid "seo149"
+msgstr "ROYALFUT.COM accepteert betalingen in zes verschillende valuta's ZONDER KOSTEN."
+
+#~ msgid "seo15"
+#~ msgstr "Probeer SBC Solver nu gratis!"
+
+#: components/PaymentContent/PaymentContent.js:11
+msgid "seo150"
+msgstr "Alleen geregistreerde gebruikers kunnen betalingen verrichten op de website. De betalingen worden georganiseerd via de internationale betalingssystemen. Bankkaarthouders in de volgende regio's mogen geen aankopen maken: Afghanistan, Amerikaans-Samoa, Aruba, Bahama's, Botswana, Burundi, Cambodja, Centraal-Afrikaanse Republiek, Congo, Democratische Republiek Congo, Krim en Sevastopol, Cuba, Equatoriaal-Guinea, Eritrea, Ethiopië, Irak, Libanon, Libië, Mali, Myanmar, Nicaragua, Noord-Korea, Pakistan, Palestina, Russische Federatie, Samoa, Sierra Leone, Somalië, Zuid-Soedan, Soedan, Syrië, Trinidad en Tobago, Turkmenistan, Oeganda, Amerikaanse Maagdeneilanden, Venezuela, Jemen, Zimbabwe."
+
+#: components/PaymentContent/PaymentContent.js:12
+msgid "seo151"
+msgstr "Wanneer je ons digitale product koopt, kun je ervan uitgaan dat je geld veilig is."
+
+#: pages/coins/[id]/payment.js:28
+msgid "seo152"
+msgstr "Kopen"
+
+#: components/Purchase/Purchase.js:349
+msgid "seo153"
+msgstr "Je bestelling"
+
+#~ msgid "seo154"
+#~ msgstr "Methode"
+
+#: components/Purchase/Purchase.js:471
+msgid "seo155"
+msgstr "Gegevens"
+
+#~ msgid "seo156"
+#~ msgstr "Betaal nu"
+
+#~ msgid "seo157"
+#~ msgstr "Voer het aantal munten in dat je wilt kopen"
+
+#: components/TableOrders/TableItem.js:364
+msgid "seo158"
+msgstr "Voer je EA-accountgegevens in"
+
+#: components/TableOrders/TableItem.js:367
+msgid "seo159"
+msgstr "Voer je EA-accountgegevens in in het onderstaande formulier om het bezorgproces te starten."
+
+#~ msgid "seo16"
+#~ msgstr "Bespaar een hoop tijd met de gloednieuwe tool van onze vrienden!"
+
+#: components/TableOrders/TableItem.js:503
+#: components/TableOrders/TableItem.js:516
+#: components/TableOrders/TableItem.js:529
+msgid "seo160"
+msgstr "In afwachting van handmatige bezorging"
+
+#: components/TableOrders/TableItem.js:506
+#: components/TableOrders/TableItem.js:519
+#: components/TableOrders/TableItem.js:532
+msgid "seo161"
+msgstr "Klik op de onderstaande knop om de handmatige muntenoverdracht te starten"
+
+#~ msgid "seo162"
+#~ msgstr "Aanmelden op je account"
+
+#: components/TableOrders/TableItem.js:377
+msgid "seo163"
+msgstr "Zorg ervoor dat je uitgelogd bent bij Ultimate Team op je console en andere apparaten via FC 25 Web App / FC Companion App totdat de bestelling voltooid is."
+
+#: components/TableOrders/TableItem.js:384
+msgid "seo164"
+msgstr "Bezig met bezorging"
+
+#: components/TableOrders/TableItem.js:387
+msgid "seo165"
+msgstr "Zorg dat je FUT hebt afgesloten op je account tot de bestelling is voltooid"
+
+#~ msgid "seo166"
+#~ msgstr "Back-upcodes"
+
+#: components/TableOrders/TableItem.js:395
+msgid "seo167"
+msgstr "Verkeerde back-upcodes"
+
+#: components/TableOrders/TableItem.js:398
+msgid "seo168"
+msgstr "De back-upcodes die je hebt opgegeven waren onjuist, verlopen of van een verkeerde account genomen"
+
+#: components/TableOrders/TableItem.js:416
+msgid "seo169"
+msgstr "Verkeerde e-mailadres/wachtwoord"
+
+#~ msgid "seo17"
+#~ msgstr "Mis onze speciale aanbieding niet"
+
+#: components/TableOrders/TableItem.js:419
+msgid "seo170"
+msgstr "Bevestig dat je geen typfouten hebt gemaakt en dat je de gegevens hebt opgegeven van je EA-account, niet van een ander account (PSN, Xbox enz.)"
+
+#: components/TableOrders/TableItem.js:354
+#: components/TableOrders/TableItem.js:560
+msgid "seo171"
+msgstr "Voltooid"
+
+#: components/TableOrders/TableItem.js:357
+#: components/TableOrders/TableItem.js:563
+msgid "seo172"
+msgstr "Meld je aan bij Ultimate Team en geniet van je munten!"
+
+#: components/TableOrders/TableItem.js:460
+msgid "seo173"
+msgstr "Geannuleerd"
+
+#: components/TableOrders/TableItem.js:463
+msgid "seo174"
+msgstr "Je bestelling is geannuleerd op jouw verzoek"
+
+#: components/DeliveryStage/DeliveryStage.js:109
+#: components/Order/OrderDeliveryStage.js:120
+#: components/TableOrders/TableItem.js:274
+#: components/TableOrders/TableItem.js:550
+msgid "seo175"
+msgstr "Betaling mislukt"
+
+#: components/DeliveryStage/DeliveryStage.js:112
+#: components/Order/OrderDeliveryStage.js:125
+#: components/TableOrders/TableItem.js:277
+#: components/TableOrders/TableItem.js:553
+msgid "seo176"
+msgstr "Probeer het opnieuw of verander de betaalmethode als het probleem aanhoudt"
+
+#: components/TableOrders/TableItem.js:264
+#: components/TableOrders/TableItem.js:540
+msgid "seo177"
+msgstr "Niet betaald"
+
+#: components/TableOrders/TableItem.js:267
+#: components/TableOrders/TableItem.js:543
+msgid "seo178"
+msgstr "Deze bestelling is nog niet betaald"
+
+#: components/TableOrders/TableItem.js:427
+#: components/TableOrders/TableItem.js:449
+msgid "seo179"
+msgstr "Aangemeld"
+
+#~ msgid "seo18"
+#~ msgstr "Bestel nu"
+
+#: components/TableOrders/TableItem.js:430
+#: components/TableOrders/TableItem.js:452
+msgid "seo180"
+msgstr "Meld je af van je account zodat we de bezorging kunnen beginnen"
+
+#: components/TableOrders/TableItem.js:438
+msgid "seo181"
+msgstr "Online in FC 25 Web App"
+
+#: components/TableOrders/TableItem.js:441
+msgid "seo182"
+msgstr "Meld je af van FC 25 Web App / FC Companion App zodat we de bezorging kunnen beginnen"
+
+#~ msgid "seo183"
+#~ msgstr "Aanmeldverificatie"
+
+#: components/TableOrders/TableItem.js:344
+msgid "seo184"
+msgstr "Aanmeldverificatie uitgeschakeld"
+
+#: components/TableOrders/TableItem.js:347
+msgid "seo185"
+msgstr "Zorg dat je aanmeldverificatie hebt ingeschakeld in je EA-accountinstellingen"
+
+#~ msgid "seo186"
+#~ msgstr "Transferlijst"
+
+#~ msgid "seo187"
+#~ msgstr "Transferlijst is vol"
+
+#~ msgid "seo188"
+#~ msgstr "Maak je transferlijst leeg zodat we het bezorgproces kunnen beginnen"
+
+#: components/TableOrders/TableItem.js:314
+#: components/TableOrders/TableItem.js:324
+msgid "seo189"
+msgstr "Geen TM in FC 25 Web App"
+
+#~ msgid "seo19"
+#~ msgstr "Jarenlange ervaring"
+
+#: components/TableOrders/TableItem.js:317
+#: components/TableOrders/TableItem.js:327
+msgid "seo190"
+msgstr "Zorg dat je toegang hebt tot de Transfer Market in FC 25 Web App zodat we kunnen beginnen met het verwerken van je bestelling"
+
+#: components/TableOrders/TableItem.js:304
+msgid "seo191"
+msgstr "Geen club in FC 25 Web App"
+
+#: components/TableOrders/TableItem.js:307
+msgid "seo192"
+msgstr "Zorg dat je je club hebt opgezet in FC 25 Web App zodat we kunnen beginnen met het verwerken van je bestelling"
+
+#: components/TableOrders/TableItem.js:294
+msgid "seo193"
+msgstr "Te weinig munten"
+
+#: components/TableOrders/TableItem.js:297
+msgid "seo194"
+msgstr "Zorg dat je minstens 5000 munten in je Ultimate Team Club-saldo hebt zodat we het bezorgproces kunnen beginnen"
+
+#: components/TableOrders/TableItem.js:284
+msgid "seo195"
+msgstr "Verkeerde platform"
+
+#: components/TableOrders/TableItem.js:287
+msgid "seo196"
+msgstr "Jouw account heeft geen Ultimate Team-club gekoppeld aan het platform dat je hebt geselecteerd. Stuur de gegevens van het juiste account of neem contact op met support om het platform te wijzigen."
+
+#~ msgid "seo197"
+#~ msgstr "Home"
+
+#~ msgid "seo198"
+#~ msgstr "Platform"
+
+#~ msgid "seo199"
+#~ msgstr "Recensies"
+
+#~ msgid "seo2"
+#~ msgstr "Muntenpakketten"
+
+#~ msgid "seo20"
+#~ msgstr "Ons team werd opgericht tijdens het FIFA 17-seizoen. Sindsdien hebben we meer dan 100 miljard munten overgemaakt aan onze klanten, hebben meer dan 60 duizend clubs over de hele wereld munten van ons ontvangen en gebruiken minstens 10 andere winkels ons algoritme voor het overmaken van munten."
+
+#~ msgid "seo200"
+#~ msgstr "Veelgestelde vragen"
+
+#~ msgid "seo201"
+#~ msgstr "Kopen"
+
+#~ msgid "seo202"
+#~ msgstr "Betalingen"
+
+#~ msgid "seo203"
+#~ msgstr "Privacybeleid"
+
+#~ msgid "seo204"
+#~ msgstr "Online spelersprofiel"
+
+#~ msgid "seo205"
+#~ msgstr "Muntenpakketten"
+
+#~ msgid "seo206"
+#~ msgstr "[[X]] FUT-munten"
+
+#~ msgid "seo207"
+#~ msgstr "Muntenpakketten"
+
+#~ msgid "seo208"
+#~ msgstr "Munten"
+
+#~ msgid "seo209"
+#~ msgstr "Spelers"
+
+#~ msgid "seo21"
+#~ msgstr "Betaalbare prijzen"
+
+#~ msgid "seo210"
+#~ msgstr "WL-boost"
+
+#: components/PageChanger/PageChanger.js:95
+#: components/Payments/Payments.js:33
+#: components/Payments/Payments.js:346
+msgid "seo211"
+msgstr "Binnenkort"
+
+#: components/BonusBlock/BonusBlock.js:19
+msgid "seo212"
+msgstr "Hulp nodig met SBC Solution?"
+
+#: components/BonusBlock/BonusBlock.js:22
+msgid "seo213"
+msgstr "Probeer een geavanceerde tool van onze partners. De korting die je van ons krijgt is al verwerkt in de tarieven."
+
+#: components/BonusBlock/BonusBlock.js:32
+msgid "seo214"
+msgstr "Meer info"
+
+#~ msgid "seo215"
+#~ msgstr "Comfort Trade"
+
+#~ msgid "seo216"
+#~ msgstr "Munten met bonussen"
+
+#~ msgid "seo217"
+#~ msgstr "Bonus"
+
+#~ msgid "seo218"
+#~ msgstr "Prijs"
+
+#~ msgid "seo219"
+#~ msgstr "Kiezen"
+
+#~ msgid "seo22"
+#~ msgstr "We bieden een van de laagste prijzen op de markt, en voor onze vaste klanten is de prijs zelfs nog lager!"
+
+#~ msgid "seo220"
+#~ msgstr "Gegevens bekijken"
+
+#~ msgid "seo221"
+#~ msgstr "Ander aantal"
+
+#~ msgid "seo222"
+#~ msgstr "Je ontvangt"
+
+#~ msgid "seo223"
+#~ msgstr "Hoofddeel"
+
+#~ msgid "seo224"
+#~ msgstr "Bonusdeel"
+
+#~ msgid "seo225"
+#~ msgstr "Totaal"
+
+#~ msgid "seo226"
+#~ msgstr "Munten kopen"
+
+#~ msgid "seo227"
+#~ msgstr "[[X]] FIFA Ultimate Team-munten"
+
+#~ msgid "seo228"
+#~ msgstr "Koop FIFA-munten op de beste plek om goedkope FUT-items te kopen. ROYALFUT is de beste FUT-shop die je ooit hebt gezien. Kijk maar eens naar onze lage prijzen voor FUT-munten. Geen belastingen of extra kosten bij bestellingen van Ultimate Team-munten."
+
+#~ msgid "seo229"
+#~ msgstr "Hier kun je [[X]]k FIFA-munten kopen voor slechts [[Y]]. We raden aan om de bezorgmethode Comfort Trade te kiezen, omdat het gemakkelijker is en je niets hoeft te doen voor de muntoverdracht. Er worden [[X]]00000 munten overgemaakt naar je account in [[HH]]. Voor dit bedrag kun je de meeste van de goedkoopste FUT-spelers kopen."
+
+#~ msgid "seo23"
+#~ msgstr "Veilig en betrouwbaar"
+
+#~ msgid "seo230"
+#~ msgstr "Hier kun je [[X]]k FIFA-munten kopen voor slechts [[Y]]. We raden aan om de bezorgmethode Comfort Trade te kiezen, omdat het gemakkelijker is en je niets hoeft te doen voor de muntoverdracht. Er worden [[X]] miljoen munten overgemaakt naar je account in [[HH]]. Voor dit bedrag kun je de meeste van de goedkoopste FUT-spelers kopen."
+
+#~ msgid "seo231"
+#~ msgstr "Hoe werkt de levering?"
+
+#~ msgid "seo232"
+#~ msgstr "EA FC 25 Ultimate Team Store | EA SPORTS FC 25-winkel"
+
+#~ msgid "seo233"
+#~ msgstr "Beste winkel voor EA SPORTS FC 25-munten ✔ Koop EA FC 25-munten voor PS4/5, Xbox One/X/S 🎮Snelle bezorging en 24/7 support ⚡ 100% veilige betalingen 🔒 Veilige plek om goedkoop Ultimate Team-munten te kopen 😉"
+
+#~ msgid "seo234"
+#~ msgstr "Koop goedkope EA FC 25 Ultimate Team-munten online | FUT-munten te koop, lage prijzen"
+
+#~ msgid "seo235"
+#~ msgstr "Veiligste plek om EA SPORTS FC 25-munten te kopen ✔ EA FC 25-munten voor PS4/5, Xbox One/X/S 🎮 Snelle levering en 24/7 support ⚡ 100% veilig betalen 🔒 Veilige plek om goedkoop Ultimate Team-munten te halen 😉"
+
+#~ msgid "seo236"
+#~ msgstr "Koop goedkope EA FC 25-munten voor PS4 | EA SPORTS FC 25-munten voor PS4"
+
+#~ msgid "seo237"
+#~ msgstr "Veiligste plek om EA SPORTS FC 25-munten te kopen voor PS4 🎮 Haal de beste spelers voor je team om te winnen 🥇 Snelle bezorging en 24/7 support 🔒 Veilige plek om goedkoop Ultimate Team-munten te halen 😉"
+
+#~ msgid "seo238"
+#~ msgstr "Koop goedkope EA FC 25-munten voor PS5 | EA SPORTS FC 25-munten voor PS5"
+
+#~ msgid "seo239"
+#~ msgstr "Veiligste plek om EA SPORTS FC 25-munten te kopen voor PS5 🎮 Haal de beste spelers voor je team om te winnen 🥇 Snelle bezorging en 24/7 support 🔒 Veilige plek om goedkoop Ultimate Team-munten te halen 😉"
+
+#~ msgid "seo24"
+#~ msgstr "Ons belangrijkste doel is om jou de veiligste optie te bieden om je FUT-clubsaldo op te waarderen. We verbeteren ons algoritme voor het overmaken van munten voortdurend en testen het op duizenden van onze accounts voordat we het goedkeuren en inzetten."
+
+#~ msgid "seo240"
+#~ msgstr "Koop goedkope EA FC 25-munten voor Xbox One | EA SPORTS FC 25-munten voor Xbox One"
+
+#~ msgid "seo241"
+#~ msgstr "Veiligste plek om EA SPORTS FC 25-munten te kopen voor Xbox One 🎮 Haal de beste spelers voor je team om te winnen 🥇 Snelle bezorging en 24/7 support 🔒 Veilige plek voor goedkope Ultimate Team-munten 😉"
+
+#~ msgid "seo242"
+#~ msgstr "Koop goedkope EA FC 25-munten voor Xbox | EA SPORTS FC 25-munten voor Xbox Series X/S"
+
+#~ msgid "seo243"
+#~ msgstr "Veiligste plek om EA SPORTS FC 25-munten te kopen voor Xbox Series X/S 🎮 Haal de beste spelers voor je team 🥇 Snelle bezorging en 24/7 support 🔒 Veilige plek voor goedkope Ultimate Team-munten 😉"
+
+#~ msgid "seo244"
+#~ msgstr "Koop 100K EA FC 25-munten | Prijs 100K FUT-munten"
+
+#~ msgid "seo245"
+#~ msgstr "Veiligste plek om 100K EA SPORTS FC 25-munten te halen voor je Ultimate Team 🥇 Kies je platform: PS, Xbox of PC 🎮 Snelle bezorging en 24/7 support 🔒 Veiligste plek voor goedkope Ultimate Team-munten 😉"
+
+#~ msgid "seo246"
+#~ msgstr "Koop 1 miljoen EA FC 25-munten | Prijs 1000K FUT-munten"
+
+#~ msgid "seo247"
+#~ msgstr "Veiligste plek om 1000K (1 miljoen) EA SPORTS FC 25-munten te halen voor je Ultimate Team 🥇 Platform: PS, Xbox of PC 🎮 Snelle bezorging en 24/7 support 🔒 Veiligste plek voor goedkope Ultimate Team-munten 😉"
+
+#~ msgid "seo248"
+#~ msgstr "Wij hebben de beste aanbiedingen op FIFA-munten voor PlayStation 4. We bieden goedkope FIFA PS4-munten met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN."
+
+#~ msgid "seo249"
+#~ msgstr "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor PS4 kopen met het vertrouwen dat je de beste deal krijgt."
+
+#~ msgid "seo25"
+#~ msgstr "Uitstekende service"
+
+#~ msgid "seo250"
+#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt."
+
+#~ msgid "seo251"
+#~ msgstr "Wij hebben de beste aanbiedingen op FIFA-munten voor PlayStation 5. We bieden goedkope FIFA PS5-munten met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN."
+
+#~ msgid "seo252"
+#~ msgstr "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor PS5 kopen met het vertrouwen dat je de beste deal krijgt."
+
+#~ msgid "seo253"
+#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt."
+
+#~ msgid "seo254"
+#~ msgstr "Wij hebben de beste aanbiedingen op FIFA-munten voor Xbox One. We bieden goedkope FIFA-munten met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN."
+
+#~ msgid "seo255"
+#~ msgstr "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor Xbox One kopen met het vertrouwen dat je de beste deal krijgt."
+
+#~ msgid "seo256"
+#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt."
+
+#~ msgid "seo257"
+#~ msgstr "Wij hebben de beste aanbiedingen op FIFA-munten voor Xbox Series X. We bieden goedkope FIFA-munten voor Xbox Series X met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN."
+
+#~ msgid "seo258"
+#~ msgstr "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor Xbox Series X/S kopen met het vertrouwen dat je de beste deal krijgt."
+
+#~ msgid "seo259"
+#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt."
+
+#~ msgid "seo26"
+#~ msgstr "We waarderen je tijd, daarom zijn we altijd vastbesloten om door te gaan met het verbeteren van aspecten van onze website, zoals de interface en de kwaliteit van onze klantenservice, om ervoor te zorgen dat jouw winkelervaring bij ons zo soepel mogelijk verloopt."
+
+#~ msgid "seo260"
+#~ msgstr ""
+
+#~ msgid "seo27"
+#~ msgstr "Contacten"
+
+#: components/Order/PlatformSection.js:129
+msgid "seo28"
+msgstr "Platform"
+
+#~ msgid "seo29"
+#~ msgstr "Info"
+
+#~ msgid "seo3"
+#~ msgstr "Recensies"
+
+#: components/Purchase/Purchase.js:412
+#: components/Purchase/Purchase.js:445
+msgid "seo30"
+msgstr "Betaling"
+
+#~ msgid "seo31"
+#~ msgstr "Bezorging"
+
+#~ msgid "seo32"
+#~ msgstr "Algemene voorwaarden"
+
+#~ msgid "seo33"
+#~ msgstr "Privacybeleid"
+
+#: components/BurgerMenu/BurgerMenu.js:354
+msgid "seo34"
+msgstr "Registreren"
+
+#: components/BurgerMenu/BurgerMenu.js:342
+msgid "seo35"
+msgstr "Aanmelden"
+
+#~ msgid "seo36"
+#~ msgstr "Ik ga akkoord met de algemene voorwaarden"
+
+#~ msgid "seo37"
+#~ msgstr "of registreer via"
+
+#: components/Profile/Profile.js:149
+msgid "seo38"
+msgstr "Bestellingen"
+
+#~ msgid "seo39"
+#~ msgstr "Instellingen"
+
+#: components/Header/Header.js:85
+msgid "seo4"
+msgstr "FAQ"
+
+#: components/BurgerMenu/BurgerMenu.js:286
+#: pages/profile.js:83
+msgid "seo40"
+msgstr "Afmelden"
+
+#~ msgid "seo41"
+#~ msgstr "voorbeeld@website.com"
+
+#~ msgid "seo42"
+#~ msgstr "Wachtwoord"
+
+#~ msgid "seo43"
+#~ msgstr "Minstens 8 tekens"
+
+#~ msgid "seo44"
+#~ msgstr "Aanmelden via"
+
+#~ msgid "seo45"
+#~ msgstr "Jouw EA FC 25 Ultimate Team Store"
+
+#~ msgid "seo46"
+#~ msgstr "Platform"
+
+#~ msgid "seo47"
+#~ msgstr "Doorgaan"
+
+#: components/Order/OrderDelivery.js:108
+msgid "seo48"
+msgstr "Bezorgmethode"
+
+#~ msgid "seo49"
+#~ msgstr "Doorgaan"
+
+#: components/BurgerMenu/BurgerMenu.js:297
+#: components/BurgerMenu/BurgerMenu.js:466
+#: components/Header/Header.js:146
+msgid "seo5"
+msgstr "Aanmelden"
+
+#~ msgid "seo50"
+#~ msgstr "Munten"
+
+#: components/Order/StickyTotalBlock.js:126
+msgid "seo51"
+msgstr "Prijs"
+
+#: components/Order/OrderDelivery.js:149
+msgid "seo52"
+msgstr "Aanbevolen"
+
+#: components/Order/OrderDelivery.js:158
+msgid "seo53"
+msgstr "Wij zorgen zelf voor de levering, je hoeft alleen je EA-accountgegevens aan ons door te geven."
+
+#~ msgid "seo54"
+#~ msgstr "Spelersveiling"
+
+#~ msgid "seo55"
+#~ msgstr "Tot 1m munten"
+
+#: components/Order/OrderDelivery.js:218
+msgid "seo56"
+msgstr "Handmatige bezorgmethode die geen accountgegevens vereist. Je moet de munten zelf overmaken met behulp van onze eenvoudige instructies."
+
+#~ msgid "seo57"
+#~ msgstr "Hoe werkt het?"
+
+#~ msgid "seo58"
+#~ msgstr "Hoe werkt de levering?"
+
+#~ msgid "seo59"
+#~ msgstr "Comfort Trade"
+
+#~ msgid "seo6"
+#~ msgstr "Je grootste hulp in EA FC 25 Ultimate Team Store"
+
+#~ msgid "seo60"
+#~ msgstr "Spelersveiling"
+
+#: components/Order/StepOneContent.js:38
+msgid "seo61"
+msgstr "Aantal"
+
+#~ msgid "seo62"
+#~ msgstr "Munten"
+
+#~ msgid "seo63"
+#~ msgstr "Prijs"
+
+#~ msgid "seo64"
+#~ msgstr "Valuta"
+
+#~ msgid "seo65"
+#~ msgstr "Betaling"
+
+#~ msgid "seo66"
+#~ msgstr "Betaal met kaart"
+
+#~ msgid "seo67"
+#~ msgstr "Of betaal met crypto"
+
+#~ msgid "seo68"
+#~ msgstr "Heb je een coupon?"
+
+#~ msgid "seo69"
+#~ msgstr "Betaal nu"
+
+#~ msgid "seo7"
+#~ msgstr "Wij zorgen het hele jaar door dat iedereen z'n droomteam kan samenstellen!"
+
+#: components/GaranteeRow/GaranteeRow.js:41
+#: components/Package/GaranteeRowCoinsPage.js:41
+msgid "seo70"
+msgstr "100% veilig betalen"
+
+#: components/GaranteeRow/GaranteeRow.js:52
+#: components/Package/GaranteeRowCoinsPage.js:52
+msgid "seo71"
+msgstr "Bezorgtijd [[HH]]"
+
+#: components/Garantee/Garantee.js:84
+#: components/GaranteeRow/GaranteeRow.js:66
+#: components/Package/GaranteeRowCoinsPage.js:66
+msgid "seo72"
+msgstr "Komt in aanmerking voor terugbetaling"
+
+#~ msgid "seo73"
+#~ msgstr "Meld je aan om te kopen"
+
+#~ msgid "seo74"
+#~ msgstr "De minimale bestelwaarde om te kunnen betalen met BTC, ETH of USDT is [[N]]"
+
+#: components/Package/CheckoutCoupon.js:446
+msgid "seo75"
+msgstr "Coupon"
+
+#: components/Package/CheckoutCoupon.js:439
+#: components/PriceCouponRedesign/PriceCouponRedesign.js:653
+msgid "seo76"
+msgstr "Toepassen"
+
+#~ msgid "seo77"
+#~ msgstr "Bezorging"
+
+#~ msgid "seo78"
+#~ msgstr "Geslaagd"
+
+#: components/DeliveryStage/DeliveryStage.js:73
+#: pages/coins/payment.js:42
+#: pages/order/index.js:117
+#: pages/order/pc.js:84
+#: pages/order/ps4.js:83
+#: pages/order/ps5.js:82
+#: pages/order/xbox_one.js:84
+#: pages/order/xbox_xs.js:84
+msgid "seo79"
+msgstr "Je bestelling is betaald!"
+
+#~ msgid "seo8"
+#~ msgstr "TrustScore 4,6 | 550 recensies"
+
+#: components/DeliveryStage/DeliveryStage.js:76
+#: components/Order/OrderDeliveryStage.js:77
+msgid "seo80"
+msgstr "Ga naar de sectie Bestellingen en volg de instructies om het bezorgproces van je munten te beginnen."
+
+#: components/DeliveryStage/DeliveryStage.js:87
+#: components/Order/OrderDeliveryStage.js:92
+msgid "seo81"
+msgstr "Naar mijn bestellingen"
+
+#: components/DeliveryStage/DeliveryStage.js:93
+#: components/Order/OrderDeliveryStage.js:103
+msgid "seo82"
+msgstr "Je wordt automatisch doorverwezen over {X} seconden"
+
+#~ msgid "seo83"
+#~ msgstr "Mislukt"
+
+#: pages/coins/payment.js:42
+#: pages/order/index.js:118
+#: pages/order/pc.js:85
+#: pages/order/ps4.js:84
+#: pages/order/ps5.js:83
+#: pages/order/xbox_one.js:85
+#: pages/order/xbox_xs.js:85
+msgid "seo84"
+msgstr "Je betaling is niet gelukt"
+
+#~ msgid "seo85"
+#~ msgstr "Probeer een andere betaalmethode of probeer het later opnieuw."
+
+#: components/DeliveryStage/DeliveryStage.js:121
+#: components/Order/OrderDeliveryStage.js:135
+msgid "seo86"
+msgstr "Betaling opnieuw proberen"
+
+#~ msgid "seo87"
+#~ msgstr "We maken gebruik van cookies"
+
+#~ msgid "seo88"
+#~ msgstr "Als je doorgaat, gaan we ervan uit dat je akkoord gaat met onze gebruiksvoorwaarden voor cookies."
+
+#: components/Auth/Auth.js:66
+#: components/BurgerMenu/BurgerMenu.js:172
+#: components/BurgerMenu/BurgerMenu.js:205
+msgid "seo89"
+msgstr "Je bent aangemeld als [[X]]"
+
+#~ msgid "seo9"
+#~ msgstr "Hoe werkt het?"
+
+#~ msgid "seo90"
+#~ msgstr "Je bestelling is geaccepteerd"
+
+#: components/MainContainer.js:135
+msgid "seo91"
+msgstr "Je bent afgemeld"
+
+#: components/MainContainer.js:230
+msgid "seo92"
+msgstr "Je sessie is verlopen. Meld je opnieuw aan."
+
+#~ msgid "seo93"
+#~ msgstr "Je moet aangemeld zijn met je account om een coupon in te wisselen."
+
+#: components/BurgerMenu/BurgerMenu.js:155
+msgid "seo94"
+msgstr "[[X]] wordt al gebruikt"
+
+#: components/TableOrders/TableItem.js:473
+msgid "seo95"
+msgstr "Fout bij maken bestelling: contacteer support"
+
+#~ msgid "seo96"
+#~ msgstr "Aanmelden via Google is mislukt, probeer het opnieuw"
+
+#~ msgid "seo97"
+#~ msgstr "Aanmelden via Facebook is mislukt, probeer het opnieuw"
+
+#: components/BurgerMenu/BurgerMenu.js:418
+#: components/Message/Message.js:32
+msgid "seo98"
+msgstr "Ongeldig e-mailadres of wachtwoord"
+
+#: components/BurgerMenu/BurgerMenu.js:384
+msgid "seo99"
+msgstr "Voer een geldig e-mailadres in"
+
+#: components/Garantee/Garantee.js:51
+#: components/GaranteeRow/GaranteeRow.js:28
+#: components/Package/GaranteeRowCoinsPage.js:27
+msgid "seoh"
+msgstr "uur"
+
+#: components/Garantee/Garantee.js:42
+#: components/Garantee/Garantee.js:50
+#: components/GaranteeRow/GaranteeRow.js:27
+#: components/Package/GaranteeRowCoinsPage.js:26
+msgid "seom"
+msgstr "m"
+
+#~ msgid "seop22"
+#~ msgstr "In onze winkel vind je de beste deals voor EA FC-munten op elk gameplatform. We bieden goedkope UT 25-munten met razendsnelle levertijden en garanderen de veiligheid van je account ZONDER EXTRA KOSTEN."
+
+#~ msgid "seop23"
+#~ msgstr "Ons team werkt hard om jou de beste prijzen te bieden. Dus als je FIFA 25-munten van ons koopt voor welk platform dan ook, kun je er gerust op zijn dat je ze voor de beste prijs krijgt."
+
+#~ msgid "seop24"
+#~ msgstr "Als je vragen hebt over het kopen van FC 25-munten voor je console, kun je altijd contact met ons opnemen via een communicatiemethode naar keuze."
+
+#~ msgid "t"
+#~ msgstr "Over Levering"
+
+#~ msgid "t_t"
+#~ msgstr "De munten worden afgeleverd bij de FC 25-club die aan je EA-account is gekoppeld. Om de munten over te dragen zijn alleen EA-accountgegevens vereist."
+
+#: components/Aside/Aside.js:52
+msgid "trust:commenturl"
+msgstr "https://nl.trustpilot.com/review/royalfut.com"
+
+#~ msgid "United Arab Emirates"
+#~ msgstr "Verenigde Arabische Emiraten"
+
+#~ msgid "United Kingdom"
+#~ msgstr "Verenigd Koninkrijk"
+
+#~ msgid "United States"
+#~ msgstr "Verenigde Staten"
+
+#: components/ContactsContent/СontactsContent.js:28
+#: pages/wl-boost.js:85
+msgid "via"
+msgstr "Neem contact met ons op via"
+
+#~ msgid "What are the advantages of buying {ut} coins instead of {pt}?"
+#~ msgstr "Wat zijn de voordelen van {ut}-munten kopen in plaats van {pt}?"
+
+#: components/Auth/Auth.js:23
+#: components/Message/Message.js:34
+msgid "wntwrng"
+msgstr "Er is iets fout gegaan"
+
+#: components/PlugVideo/PlugVideo.js:16
+msgid "work"
+msgstr "In ontwikkeling"

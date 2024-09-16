@@ -1,0 +1,285 @@
+.price{
+    flex-direction: column;
+    //align-items: flex-end;
+    //width: auto;
+    position: relative;
+
+    @media (min-width:1025px) {
+        margin-left: auto;
+        width: 100%;
+    }
+}
+.price_wrapper{
+    font-size: 9.6vmin;
+    line-height: 9.6vmin;
+    color: #eab11f;
+    justify-content: flex-end;
+    width: auto;
+    white-space: nowrap;
+
+    @media (min-width:1025px) {
+        font-size: 36px;
+        line-height: 36px;
+        //padding-top: 24px;
+
+    }
+}
+.coupon{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 20px;
+    display: flex;
+    align-items: flex-end;
+    text-decoration-line: underline;
+    color: white;
+    width: auto;
+    align-self: flex-start;
+    border: none;
+    background-color: transparent;
+    align-items: center;
+    white-space: nowrap;
+    gap: 4px;
+    opacity: 0.4;
+
+    @media (min-width:1025px) {
+        align-self: start;
+    }
+}
+
+.coupon_container_content{
+    background-color: transparent;
+    transition: all .3s ease-out;
+    height: 64px;
+    max-height: 1000px;
+    overflow: hidden;
+    position: relative;
+}
+.coupon_content_hide{
+    height: 0;
+    max-height: 0;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    border: none;    
+    //width: 0;
+}
+.coupon_fieldset{
+    background-color: transparent;
+    height: 100%;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    border-radius: 12px 0 0 12px;
+}
+.coupon_fieldset[dir=rtl]{
+    border-radius: 0 12px 12px 0;
+}
+.coupon_legend{
+    background-color: transparent;
+    width: auto;
+    padding: 0 5px;
+    font-family: 'Montserrat',helvetica,arial,sans-serif;
+    font-weight: 600;
+    font-size: 3.2vmin;
+    line-height: 4vmin;
+    letter-spacing: -.01em;
+    color: #eab11f;
+
+    @media (min-width:1025px) {
+        font-size: 15px;
+        line-height: 15px;
+    }
+}
+.coupon_input{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    border: none;
+}
+.coupon_btn{
+    //position: absolute;
+    width: auto;
+    right: 0;
+    top: 0;
+    background: linear-gradient(265.73deg, #A82DF9 0%, #6678E9 100%);
+    border-radius: 0px 12px 12px 0px;
+    height:64px;
+    border: none;
+    align-items: center;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 0 32px;
+}
+.coupon_btn[dir=rtl]{
+    border-radius: 12px 0 0 12px;
+}
+.coupon_pic{
+    height: 16px;
+    width: auto;
+}
+.price_coupon_wrapper{
+    width: 100%;
+}
+
+.payment_method__total_coupon_title {
+    width: auto;
+        display: inline-block;
+        border-bottom: 1vmin dashed #eab11f;
+        padding-bottom: 1vmin;
+        font-family: 'Montserrat';
+        font-weight: 600;
+        font-size: 11vmin;
+        line-height: 15vmin;
+        text-transform: none;
+        color: #eab11f;
+
+        @media (min-width:1025px) {
+            border-bottom-width: 1px;
+            padding-bottom: 1px;
+            font-weight: 600;
+            font-size: 11px;
+            line-height: 15px;
+        }
+}
+
+.payment_method__total_coupon_addon {
+    position: relative;
+    width: 100%;
+    top: 1vmin;
+    display: inline-flex;
+    align-items: center;
+    margin-left: auto;
+    white-space: nowrap;
+    color: rgba(#eab11f, 0.5);
+
+    span {
+        
+        background-color: transparent;
+        color: rgba(#eab11f, 0.5);
+    }
+
+}
+.promo_wrapper{
+    justify-content: flex-end;
+    width: auto;
+    align-items: baseline;
+}
+.close_coupon{
+    width: 25px;
+    height: 25px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    background-image: url('/img/cross.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 0;
+    background-position: center;
+    min-width: 25px;
+}
+.close_coupon:hover{
+    transform: rotate(720deg) scale(1.2);
+    
+    transition: all 1s ease-in-out;
+}
+.price_payment_wrapper{
+    flex-direction: column;
+    align-items: flex-end;
+
+    @media (min-width:1025px) {
+        //position: absolute;
+        width: auto;
+        top: -64px;         
+    }
+}
+.done{
+    height: 24px;
+    background-color: transparent;
+    width: auto;
+
+}
+.coupon_input_green{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    align-items: center;
+
+    color: #15BC26;
+}
+.green{
+    background: transparent;
+    border: 1px solid #15BC26;
+    border-radius: 12px;
+    animation: pulse 2s infinite;
+    align-items: center;
+    padding-top: 16px;
+}
+.failed{
+    border: 1px solid #E84545;
+    border-radius: 12px 0px 0px 12px;
+}
+.row{
+    flex-direction: row;
+    padding-top: 16px;
+    flex-wrap: wrap;
+}
+.redesign_promo{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: flex-end;
+    color: #EAB11F;
+    border: none;
+    padding: 0;
+    text-transform: uppercase;
+    align-items: center;
+}
+.redesign_add{
+    margin: 0;
+    padding: 0;
+    position: initial;
+    padding-left: 18px;
+}
+.pic_promo{
+    width: 24px;
+    margin-left: 10px;
+}
+.payment_stage_btn{
+    position: initial;
+    align-self: flex-start;
+}
+.btn_padding{
+    padding: 0;
+    //padding-top: 8px;
+}
+
+@keyframes pulse {
+    0% {
+        box-shadow: inset  0 0 0 0 rgb(44 204 60 / 40%);
+    }
+    
+    70% {
+        box-shadow:inset  0 0 0 40px rgb(44 204 59 / 0%);
+    }
+    100% {
+        box-shadow:inset  0 0 0 0 rgb(44 204 73 / 0%);
+    }
+  }
+  

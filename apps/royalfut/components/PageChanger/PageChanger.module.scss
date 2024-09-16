@@ -1,0 +1,113 @@
+.container{
+    gap: 8px;
+
+
+    @media (min-width:1025px) {
+        background: #2B2D43;
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        border-radius: 28px;
+        gap: 16px;
+        padding: 24px;
+    }
+}
+.radio_page_label{
+    position: relative;
+    background-color: inherit;
+    
+}
+.radio_page{
+    position: absolute;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    z-index: 2;
+}
+.radio_page:checked+button{
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.1);
+    opacity: 1;
+}
+.page_btn{
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 12px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;    
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    flex-direction: column;
+
+    &:hover{
+      background-color: rgba(255,255,255,0.05);
+    }
+
+    @media (min-width:1025px) {
+        padding: 24px;
+        flex-direction: row;
+        gap: 12px;
+
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 29px;
+    }    
+}
+.btn_active{
+  background-color: rgba(255,255,255,0.1);
+}
+
+.radio_page_label[disabled]:hover {
+    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+    transform: translate3d(0, 0, 0);
+    backface-visibility: hidden;
+    perspective: 1000px;
+  }
+  
+  @keyframes shake {
+    10%, 90% {
+      transform: translate3d(-1px, 0, 0);
+    }
+  
+    20%, 80% {
+      transform: translate3d(2px, 0, 0);
+    }
+  
+    30%, 50%, 70% {
+      transform: translate3d(-4px, 0, 0);
+    }
+  
+    40%, 60% {
+      transform: translate3d(4px, 0, 0);
+    }
+  }
+.soon{
+    position: absolute;
+    background: linear-gradient(265.73deg, #A82DF9 0%, #6678E9 100%);
+    border-radius: 100px;
+    padding: 8px 16px;
+    justify-content: center;
+    width: auto;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    white-space: nowrap;
+}
+.coins_tab_img{
+
+    width: 40px;
+
+    @media (min-width:1025px) {
+        width: 48px;
+    }
+    
+}

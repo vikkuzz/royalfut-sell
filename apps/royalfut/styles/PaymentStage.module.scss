@@ -1,0 +1,293 @@
+.payment_container{
+    flex-direction: column;
+    gap: 12px;
+}
+.pay_methods_wrapper{
+    flex-direction: column;
+    gap: 12px;
+
+    @media (min-width:1025px) {
+        flex-direction: row;
+        gap: 20px;
+    }
+}
+.pay_method{
+    //background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 12px;
+    padding: 10px 20px 10px 20px;
+    align-items: center;
+
+    @media (min-width:1025px) {
+        height: 91px;
+    }
+}
+.buttons_wrapper{
+    flex-direction: column;
+    transition: all .3s ease-in-out;
+}
+.container{
+    flex-direction: column;
+    //gap: 12px;
+    position: relative;
+
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 12px;
+    transition: all .3s ease-in-out;
+    background-color: transparent;
+}
+.button{
+    border: none;
+    padding: inherit;
+    margin: 0;
+    padding: 20px 25px 20px 20px;
+    align-items: center;
+    background-color: transparent;
+}
+.arrow{
+    // width: 13px;
+    // height: 6.5px;
+    width: 24px;
+    background-color: transparent;
+}
+.text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    background-color: transparent;
+    text-align: left;
+}
+.children_container{
+    //padding: 20px;
+
+    transition: all .3s ease-in-out;
+    //transform: translate(0,-100%);
+    
+    flex-direction: column;
+    //position: absolute;
+    bottom: 0;
+    gap: inherit;
+    background-color: transparent;
+}
+.pay_method_cripto{
+    border: none;
+    align-items: center;
+
+    // border: 1px solid rgba(255, 255, 255, 0.4);
+    // border-radius: 12px;
+    transition: all .3s ease-in-out;
+    opacity: 0;
+    height: 0;
+    padding: 0;
+}
+.pay_method_cripto_desk{
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 12px;
+    height: 91px;
+    align-items: center;
+    padding: 20px;
+}
+.padding{
+    padding: 20px;
+    position: relative;
+    //gap: 12px;
+    opacity: 1;
+    height: auto;
+}
+.padding20{
+    padding: 15px 0;
+    opacity: 1;
+    height: auto;
+}
+.method_check{
+    width: 25px;
+    height: 25px;
+    min-width: 25px;
+    min-height: 25px;
+    overflow: hidden;
+    transition: all 0.3s linear;
+    border:none;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-color: transparent;
+}
+.fake_input_false{
+    min-width: 24px;
+    min-height: 24px;
+    background:url('../img/radio_not_active.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.fake_input_true{
+    min-width: 24px;
+    min-height: 24px;
+    background:url('../img/radio_active.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.paymethod_img{
+    height: 42px;
+    width: auto;
+    background-color: transparent;
+
+    @media (min-width:1025px) {
+        height: 52px;
+    }
+}
+.img_wrapper{
+    gap: 16px;
+    background-color: transparent;
+}
+.payment_checked{
+    background: rgba(255, 255, 255, 0.1);
+}
+.cripto_img{
+    background-color: transparent;
+    height: 24px;
+    width: auto;
+
+    @media (min-width:1025px) {
+        height: 52px;
+    }
+}
+.pay_method_title{
+    gap: 12px;
+    align-items: center;
+    background-color: transparent;
+}
+.pay_method_text{
+    background-color: transparent;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+
+    @media (min-width:1025px) {
+        text-align: left;
+    }
+}
+.method_apple{
+    width: 63px;
+    height: 26px;
+    margin: 8px;
+}
+.dashed{
+    background-image: url('../img/dashed.svg');
+    background-position: center;
+    background-repeat: repeat-x;
+    //background-size: ;
+}
+.parameter_name{
+    width: auto;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    //line-height: 180%;
+    color: rgba(255, 255, 255, 0.6);
+}
+.parameter_value{
+    width: auto;
+    white-space: nowrap;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 180%;
+    text-align: right;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+    cursor: pointer;
+    align-items: center;
+}
+.payment_parameter_wrapper{
+    gap: 12px;
+}
+.arrow_right{
+    width: 24px;
+}
+#platform{
+    transition: all .3s;
+}
+#amount{
+    transition: all .3s;
+}
+#method{
+    transition: all .3s;
+}
+.param_wrapper{
+    flex-direction: column;
+    padding-top: 20px;
+}
+.payment_card_h{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.4);
+    padding-bottom: 8px;
+}
+.buttons_wrapper_desk{
+    display: flex;
+    gap: 12px;
+}
+.cripto_h{
+    padding-top: 20px;
+}
+.wrapper_param{
+    @media (min-width:1025px) {
+        gap: 20px;
+        display: flex;
+    }
+    
+}
+.price_block{}
+
+.hide{
+    display: none;
+}
+.price_line_through{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: flex-end;
+    text-decoration-line: line-through;
+    color: rgba(255, 255, 255, 0.6);
+}
+.price_total{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: flex-end;
+    color: #EAB11F;
+    white-space: nowrap;
+}
+.price_step_wrapper{
+    flex-direction: column;
+    justify-content: center;
+    gap: 4px;
+
+    @media (min-width:1025px) {
+        padding-top: 25px;
+    }
+}
+.width100{
+     width: 100%;
+     justify-content: flex-end;
+}
+.price_block{
+    flex-direction: column;
+}

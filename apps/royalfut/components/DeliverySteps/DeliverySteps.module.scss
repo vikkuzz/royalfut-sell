@@ -1,0 +1,133 @@
+.container{
+    flex-direction: column;
+}
+.title_wrapper{
+    flex-direction: column;
+    gap: 16px;
+}
+.title{
+    font-size: 28px;
+    
+    font-style: normal;
+    font-weight: 700;
+    justify-content: center;
+    text-align: center;
+
+    @media (min-width:1025px) {
+        font-size: 36px;
+    }
+}
+.description{
+    gap: 8px;
+    justify-content: center;
+
+}
+.what_img_wrapper{
+    width: auto;
+}
+.descr_text{
+    width: fit-content;
+    text-align: center;
+}
+.container_content{
+    flex-direction: column;
+    gap: 16px;
+    padding-top: 40px;
+
+    @media (min-width:1025px) {
+        flex-direction: row;
+    }
+}
+.container_item{
+    flex-direction: column;
+    flex-basis: 343px;
+    flex-grow: 3;
+    gap: 16px;
+
+
+    @media (min-width:1025px) {
+        gap: 30px;
+    }
+}
+.text_wrapper{
+    gap:8px;
+    flex-direction: column;
+}
+.img_wrapper{    
+    width: 163px;
+    align-self: center;
+
+    @media (min-width:1025px) {
+        width: 100%;
+        justify-content: center;
+    }
+}
+.item_title{
+    justify-content: center;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+
+    @media (min-width:1025px) {
+        font-size: 24px;
+    }
+}
+.item_text{
+    color: var(--white-04-white, rgba(255, 255, 255, 0.40));
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.spiral{
+    position: relative;
+
+    &::before{
+        position: absolute;
+        content: '';
+        width: 124.169px;
+        height: 60.969px;
+        transform: rotate(75deg);
+        background-image: url('/img/transp_spiral_arrow.svg');
+        background-repeat: no-repeat;
+        background-size: contain;       
+        left: -15px;
+
+        @media (min-width:1025px) {
+            width: 167px;
+            height: 82px;
+            transform: rotate(0deg);
+            top: 123px;
+            left: -90px;
+        }
+    }
+}
+.spiral[dir='rtl']{
+    &::before{
+        position: absolute;
+        content: '';
+        width: 124.169px;
+        height: 60.969px;
+        transform: rotate(75deg) scale(-1,1);
+        background-image: url('/img/transp_spiral_arrow.svg');
+        background-repeat: no-repeat;
+        background-size: contain;       
+        right: -15px;
+
+        @media (min-width:1025px) {
+            width: 167px;
+            height: 82px;
+            transform: rotate(0deg) scale(-1,1);
+            top: 123px;
+            right: -90px;
+        }
+    }
+}
+.distance{
+    @media (max-width:1025px) {
+        padding-bottom: 55px;
+        flex-basis: auto;
+    }
+}

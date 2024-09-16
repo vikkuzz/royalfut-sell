@@ -1,0 +1,35 @@
+.breadcrumbs_container{
+    background-color: transparent;
+    width: auto;
+    justify-content: flex-start;
+    align-self: flex-start;
+    gap: 8px;
+    padding-top: 2px;
+    overflow: auto;
+    max-width: calc(100vw - 32px);
+    padding-bottom: 12px;
+    
+    @media (min-width:1025px) {
+        max-width: calc( 100vw - 64px );
+    }
+}
+.breadcrumbs_separator{
+    background-color: transparent;
+    padding-left: 8px;
+    opacity: 0.6;
+}
+.breadcrumbs_link{
+    background-color: transparent;
+    white-space: nowrap;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: capitalize;
+}
+.breadcrumbs_link[dir=rtl]{
+   gap: 8px;
+}
+.breadcrumbs_disable{
+    color: rgba(255,255,255,0.6);
+}

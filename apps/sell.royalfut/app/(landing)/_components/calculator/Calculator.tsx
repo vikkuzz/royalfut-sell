@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { PUBLIC_ROUTES } from "@royalfut/collections";
+import { PROJECT_PUBLIC_SELLER_ROUTES } from "@royalfut/collections";
 import {
     OrderByPlatforms,
     CoinAmountSelector,
@@ -14,12 +14,20 @@ const SellCryptoFunnelCalc = () => {
             <div className="flex flex-col w-full">
                 <OrderByPlatforms />
                 <CoinAmountSelector />
-                <CoinsAmountPanel.Root className="mt-6 sm:mt-16">
-                    <CoinsAmountPanel.Info />
+                <CoinsAmountPanel.Root className="mt-6 sm:mt-16 sm:relative">
+                    <CoinsAmountPanel.Info
+                        display={{
+                            ut: { title: "You're about to sell" },
+                            ccy: { title: "For this much" },
+                            loyality: { hide: true },
+                        }}
+                    />
                     <CoinsAmountPanel.Button
                         as="link"
                         scroll={true}
-                        href={PUBLIC_ROUTES.ORDER_ACCOUNT_DETAILS}>
+                        href={
+                            PROJECT_PUBLIC_SELLER_ROUTES.ORDER_ACCOUNT_DETAILS
+                        }>
                         Start Selling
                     </CoinsAmountPanel.Button>
                 </CoinsAmountPanel.Root>

@@ -1,0 +1,18 @@
+{
+  "name": "www.royalfut",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/www.royalfut",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project www.royalfut --web",
+  "targets": {
+    "run": {
+      "executor": "@royalfut/exec:i18n-runner",
+      "options": {
+        "project": "www.royalfut",
+        "target": "dev",
+        "i18nKeys": ["zxBzYlUmWM4i2dksj3baQA", "NJnPCLpaEoh3TtPX5e9nHA","Ck02SDnG1le9CJL5CLcGLA","950bGhT_S5atcemGT6yX4g","rhWMvPqqSaC_Pu3uYisH0Q","kcJYMMVCSNFhdNXJnbtvow","CF08UvaixokTaZMELeBSTA"]
+      }
+    }
+  }
+}

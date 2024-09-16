@@ -1,0 +1,273 @@
+.payment{
+    flex-direction: column;
+    background-color: transparent;
+}
+.payment_method__group{
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.3vmin;
+
+    @media (min-width:1025px) {
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 16px;
+    }
+}
+.payment_method__delivery{
+    white-space: nowrap;
+}
+.payment_time_svg{
+    background-image: url('../img/time.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.payment_star_svg{
+    background-image: url('../img/star.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    fill: #ADAEB3;
+}
+.payment_lock_svg{
+    background-image: url('../img/lock.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.payment_svg{
+    width: 3.7vmin;
+    height: 4.5vmin;
+
+    @media (min-width:1025px) {
+        width: 14px;
+        height: 17px;
+    }
+}
+.payment_method{
+    width: auto;
+    gap: 1.8vmin;
+
+    @media (min-width:1025px) {
+        gap: 7px;
+    }
+}
+
+.payment_method_row{
+    width: 100%;
+    gap: 1.8vmin;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+    @media (min-width:1025px) {
+        gap: 7px;
+        //align-items: flex-end;
+    }
+}
+
+.payment_method span{
+    background-color: transparent;
+    font-size: 4.8vmin;
+    line-height: 5vmin;
+    color: hsla(0,0%,100%,.5);
+
+    @media (min-width:1025px) {
+        font-size: 18px;
+        line-height: 19px;
+    }
+}
+.payment_method__secure span{
+    color: #36b23b;
+}
+.payment_method__secure{
+    border: 0.2666666667vmin solid hsla(0,0%,100%,.1);
+    border-radius: 2px;
+    padding: 1vmin 2.1vmin 1vmin 3.2vmin;
+
+    @media (min-width:1025px) {
+        padding: 4px 8px 4px 12px;
+    }
+}
+.payment_price_wrapper{
+    justify-content: flex-end;
+}
+.payment_all_methods{
+    flex-direction: column;
+
+    @media (min-width:1025px) {
+        padding-top: 16px;
+    }
+}
+.payment_method_wrapper{
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 3vmin;
+
+    @media (min-width:1025px) {
+        padding-top: 20px;
+    }
+}
+.payment_fieldset{
+    background-color: transparent;
+    border: 1px solid rgba(255,255,255,0.2);
+    cursor: pointer;
+    border-radius: 3px;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    max-width: 253px;
+    width: auto;
+
+
+    @media (min-width:1025px) {
+        height: 65px;
+        width: auto;
+    }
+}
+.payment_title{
+    width: auto;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4vmin;
+    
+    @media (min-width:1025px) {
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 15px;
+    }
+}
+.payment_bycard{
+    justify-content: flex-start;
+    padding-top: 8px;
+}
+.payment_label{
+    background-color: transparent;
+    cursor: pointer;
+    width: auto;
+    padding: 0 16px;
+    user-select: none;
+    gap: 8px;
+    padding: 3vmin 6vmin;
+    flex-grow: 1;
+    min-width: 150px;
+    min-height: 56px;
+
+    @media (min-width:1025px) {
+        padding: 0px 30px;
+        height: 100%;
+    }    
+}
+.payment_input{
+    position: absolute;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    width: 0;
+}
+.payment_fake_input{
+    min-width: 12px;
+    min-height: 12px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    box-shadow:  0 0 0 1px inset white;
+    transition: all 0.3s linear;
+}
+.payment_fake_input__apple{
+    margin-right: 40px;
+}
+.payment_input:checked + .payment_fake_input{
+    box-shadow: 0 0 0 1px inset #eab11f, 0 0 0 2px inset black;
+    background-color: #eab11f;
+}
+.payment_input:hover + .payment_fake_input{
+    box-shadow: 0 0 0 1px inset #eab11f, 0 0 0 2px inset black;
+}
+.payment_method__card{
+    //height: 17px;
+    background-color: transparent;
+    width: 45px;
+}
+.payment_method__card_master{
+    background-color: transparent;
+    width: 92px;
+}
+.payment_method__crypto{
+    width: 80px;
+}
+.payment_wrapper_logo{
+    flex-direction: column;
+    height: 100%;
+    width: auto;
+
+    @media (min-width:1025px) {
+        gap: 8px;
+        flex-direction: row;
+    }
+}
+.payment_fieldset:hover{
+    background-color: rgba(255,255,255,0.1);
+}
+.method_info{
+    position: absolute;    
+    bottom: 0;
+    right: 0;
+    padding: 2px 14px;
+    border-radius: 15px 0 3px ;
+    font-size: 12px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 9px;
+    width: auto;
+}
+.payment_label_apple{
+    position: relative;
+    //min-width: 26vmin;
+    //height: 9.5vmin;
+    background-color: transparent;
+    cursor: pointer;
+    width: auto;
+    //padding: 0 16px;
+    user-select: none;
+    gap: 8px;
+    padding: 3vmin 6vmin;
+    min-width: 150px;
+    min-height: 56px;
+    justify-content: flex-start;
+
+
+    @media (min-width:1025px) {
+        padding: 0 30px;
+        height: 100%;
+        width: 150px;
+        
+    }    
+
+}
+.payment_method__card_apple{
+    background-color: transparent;
+    width: auto;
+    position: absolute;
+}
+.payment_fieldset_apple{
+    width: auto;
+    //flex-grow: 1;
+}
+.payment_wrapper_logo_apple{
+    height: 19px;
+}
+.price_coupon_wrapper{
+    width: 100%;
+}
+.payment_disabled{
+    pointer-events: none;
+    opacity: .2;
+}
+.payment_price{
+    margin-left: auto;
+    align-self: flex-end;
+}
+.payment_price[dir='rtl']{
+    margin-right: auto;
+    margin-left: 0;
+}

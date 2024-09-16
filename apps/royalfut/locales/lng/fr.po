@@ -1,0 +1,4458 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-12-04 23:19+0100\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: fr\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: pages/_app.js:26
+msgid "\"seo:root:description\""
+msgstr ""
+
+#: components/DeliveryStage/DeliveryStage.js:121
+#~ msgid "{0}"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:52
+msgid "80% of orders are delivered"
+msgstr "80 % des commandes sont livrées"
+
+#~ msgid "a0"
+#~ msgstr "Sur la base de [[X]] avis"
+
+#: components/Rated/Rated.js:83
+#: components/ReviewsGallery/ReviewsGallery.js:87
+msgid "a0_1"
+msgstr "Sur la base de "
+
+#: components/Rated/Rated.js:90
+msgid "a0_2"
+msgstr "[[X]] avis"
+
+#: components/ChangePassword/ChangePassword.js:153
+msgid "a1"
+msgstr "Changer de mot de passe"
+
+#~ msgid "a10"
+#~ msgstr "Crédits bonus"
+
+#: components/Order/OrderDelivery.js:192
+msgid "a100"
+msgstr "Enchères joueur"
+
+#: components/CustomAccordion/CustomAccordion.js:52
+#: components/CustomAccordion/CustomAccordion.js:642
+msgid "a101"
+msgstr "Questions à propos du mode de livraison Enchères joueur"
+
+#: components/CustomAccordion/CustomAccordion.js:648
+msgid "a102"
+msgstr "Comment préparer mon club FUT pour une commande Enchères joueur ?"
+
+#: components/CustomAccordion/CustomAccordion.js:345
+msgid "a103"
+msgstr "- assurez-vous que le Marché des transferts est débloqué "
+
+#: components/CustomAccordion/CustomAccordion.js:348
+msgid "a103_2"
+msgstr "- votre solde doit être d'au moins 5 000 crédits"
+
+#: components/CustomAccordion/CustomAccordion.js:659
+msgid "a104"
+msgstr "Comment vérifier si mon Marché des transferts est débloqué ou non ?"
+
+#: components/CustomAccordion/CustomAccordion.js:357
+msgid "a105"
+msgstr "Marché des transferts débloqué"
+
+#: components/CustomAccordion/CustomAccordion.js:360
+msgid "a106"
+msgstr "Marché des transferts bloqué"
+
+#: components/CustomAccordion/CustomAccordion.js:670
+msgid "a107"
+msgstr "Quelles sont les étapes à suivre pour passer une commande et recevoir les crédits avec ce mode ?"
+
+#: components/CustomAccordion/CustomAccordion.js:211
+msgid "a108"
+msgstr "Enchères joueur"
+
+#: components/CustomAccordion/CustomAccordion.js:225
+msgid "a109"
+msgstr "1. Lorsque vous passez une commande, sélectionnez le mode de livraison Enchères joueur."
+
+#: components/Purchase/Purchase.js:661
+msgid "a11"
+msgstr "Chargement de votre commande, veuillez patienter..."
+
+#: components/CustomAccordion/CustomAccordion.js:228
+msgid "a110"
+msgstr "2. Procédez au paiement de votre commande."
+
+#: components/CustomAccordion/CustomAccordion.js:231
+msgid "a111"
+msgstr "3. Une fois le paiement effectué avec succès, vous serez redirigé vers la page contenant les instructions relatives à la livraison des crédits. Suivez les étapes décrites sur cette page en utilisant le compte sur lequel vous souhaitez faire transférer les crédits."
+
+#: components/CustomAccordion/CustomAccordion.js:235
+msgid "a112"
+msgstr "De plus amples informations sur l'ensemble du processus sont disponibles dans la vidéo ci-dessous."
+
+#~ msgid "a113"
+#~ msgstr "En savoir plus"
+
+#: components/CustomAccordion/CustomAccordion.js:243
+msgid "a114"
+msgstr "4. C'est fait ! Profitez de vos crédits ! Et n'oubliez pas de laisser un"
+
+#~ msgid "a115"
+#~ msgstr "avis à notre sujet sur Trustpilot."
+
+#~ msgid "a116"
+#~ msgstr "Pour toute question ou tout besoin d'assistance à quelque étape que ce soit, n'hésitez pas à contacter notre équipe d'assistance par le chat en direct ou par tout autre moyen de votre choix (WhatsApp, Telegram, Instagram Direct ou e-mail)."
+
+#: components/CustomAccordion/CustomAccordion.js:53
+#: components/CustomAccordion/CustomAccordion.js:681
+msgid "a117"
+msgstr "Questions à propos du paiement"
+
+#: components/CustomAccordion/CustomAccordion.js:687
+msgid "a118"
+msgstr "Quels sont les pays dans lesquels vous opérez ?"
+
+#: components/CustomAccordion/CustomAccordion.js:447
+msgid "a119"
+msgstr "Nous opérons dans le monde entier et acceptons des paiements en provenance de toutes les régions, à l'exception des juridictions à haut risque telles que l'Afghanistan, la Corée du Nord, la Syrie, la République de Crimée, etc."
+
+#: components/ChangeAvatar/ChangeAvatar.js:52
+msgid "a12"
+msgstr "Choisissez l'image de votre profil"
+
+#: components/CustomAccordion/CustomAccordion.js:695
+msgid "a120"
+msgstr "Quels sont les modes de paiement disponibles sur votre site Web ?"
+
+#: components/CustomAccordion/CustomAccordion.js:458
+msgid "a121"
+msgstr "La liste des modes de paiement que nous prenons en charge est constamment mise à jour, car notre objectif est d'améliorer l'expérience de l'interaction de l'utilisateur avec notre service. Actuellement, nous acceptons les modes de paiement suivants : "
+
+#: components/CustomAccordion/CustomAccordion.js:462
+msgid "a121_2"
+msgstr "1. Cartes VISA, MasterCard, Maestro, Discover, DinnersClub, JCB et UnionPay. "
+
+#: components/CustomAccordion/CustomAccordion.js:465
+msgid "a121_3"
+msgstr "2. Paiement sans contact via Apple Pay et Google Pay. "
+
+#: components/CustomAccordion/CustomAccordion.js:468
+msgid "a121_4"
+msgstr "3. Virement bancaire via la plupart des banques de l'UE, iDeal et autres. "
+
+#: components/CustomAccordion/CustomAccordion.js:471
+msgid "a121_5"
+msgstr "4. Cryptomonnaies telles que Bitcoin, USD Tether, Ethereum."
+
+#: components/CustomAccordion/CustomAccordion.js:703
+msgid "a122"
+msgstr "Comment obtenir le remboursement de ma commande ?"
+
+#: components/CustomAccordion/CustomAccordion.js:708
+msgid "a123"
+msgstr "Si vous effectué le paiement de votre commande avec succès, mais que pour une raison ou une autre vous n'avez plus besoin de crédit, vous pouvez demander un remboursement complet. Pour ce faire, vous devez contacter notre service d'assistance par chat en direct ou par tout autre moyen de votre choix (WhatsApp, Telegram, Instagram Direct ou e-mail)."
+
+#: components/CustomAccordion/CustomAccordion.js:713
+msgid "a124"
+msgstr "Achetez-vous également des crédits à des utilisateurs ?"
+
+#: components/CustomAccordion/CustomAccordion.js:718
+msgid "a125"
+msgstr "Ce n'est pas notre objectif principal, mais il arrive que nous le fassions. Vous pouvez contacter notre responsable via Skype ou Telegram et nous étudierons votre offre."
+
+#~ msgid "a126"
+#~ msgstr "Tout est prêt ? Il est donc temps de passer à l'achat !"
+
+#~ msgid "a127"
+#~ msgstr "Acheter des crédits"
+
+#: components/RedirectModal/RedirectModal.js:40
+msgid "a128"
+msgstr "Redirection..."
+
+#: components/RedirectModal/RedirectModal.js:42
+msgid "a129"
+msgstr "Vous allez être automatiquement redirigé vers le site de notre partenaire"
+
+#~ msgid "a13"
+#~ msgstr "Changez le nombre de crédits"
+
+#: components/RedirectModal/RedirectModal.js:44
+msgid "a130"
+msgstr "dans [[X]] secondes"
+
+#: components/Modal/Modal.js:253
+msgid "a131"
+msgstr "C'est parti"
+
+#~ msgid "a132"
+#~ msgstr "Au moins 2 codes de secours sont nécessaires"
+
+#~ msgid "a133"
+#~ msgstr "Votre commande"
+
+#~ msgid "a134"
+#~ msgstr "Crédits bonus"
+
+#: components/Order/OrderPayments.js:107
+msgid "a135"
+msgstr "Mode de paiement"
+
+#: components/Payments/Payments.js:96
+#: components/Payments/Payments.js:181
+#: components/Purchase/Purchase.js:126
+#: components/Purchase/Purchase.js:132
+#: components/Purchase/Purchase.js:162
+#: components/Purchase/Purchase.js:168
+#: components/Purchase/Purchase.js:180
+msgid "a136"
+msgstr "Par carte"
+
+#: components/Payments/Payments.js:140
+#: components/Purchase/Purchase.js:156
+msgid "a137"
+msgstr "Par services bancaires en ligne"
+
+#: components/Payments/Payments.js:160
+#: components/Payments/Payments.js:200
+#: components/Purchase/Purchase.js:138
+#: components/Purchase/Purchase.js:144
+#: components/Purchase/Purchase.js:150
+#: components/Purchase/Purchase.js:174
+msgid "a138"
+msgstr "Par cryptomonnaies"
+
+#: components/Order/OrderPayments.js:36
+#: components/Payments/Payments.js:146
+msgid "a139"
+msgstr "UE : virement bancaire"
+
+#: components/TableOrders/TableOrderBody.js:728
+msgid "a14"
+msgstr "Coller"
+
+#~ msgid "a140"
+#~ msgstr "Livraison"
+
+#: components/DeliveryContent/DeliveryContent.js:13
+msgid "a141"
+msgstr "Nous souhaitons attirer votre attention sur le système innovant de livraison des pièces EA FC développé par vos humbles serviteurs - une approche inédite sur le marché des crédits FIFA. Chaque commande est traitée selon un ensemble de protocoles exclusifs qui écartent du compte tout risque de sanctions de la part de l'EA. Nous nous efforçons constamment d'améliorer notre algorithme de transfert de crédits, en le soumettant à un calibrage minutieux et à un certain nombre d'essais divers. Ce n'est qu'après une évaluation positive de tous les aspects testés qu'il reçoit le feu vert pour une mise en œuvre complète."
+
+#: components/DeliveryContent/DeliveryContent.js:15
+msgid "a142"
+msgstr "Ajoutons à ceci que notre champ d'influence est considérablement accru par l'établissement de partenariats fructueux avec de nombreuses autres organisations impliquées dans la vente au détail de crédits EA FC. Notre écosystème compte actuellement plus de 10 boutiques de ce type intégrées à notre plateforme. Sans oublier que nos portes sont toujours ouvertes à ce type de coopération. Si vous êtes intéressé(e) par un partenariat avec nous en tant que boutique de crédits EA FC, contactez-nous via"
+
+#: components/DeliveryContent/DeliveryContent.js:24
+msgid "a143"
+msgstr "Skype"
+
+#: components/DeliveryContent/DeliveryContent.js:27
+msgid "a144"
+msgstr "ou"
+
+#: components/DeliveryContent/DeliveryContent.js:34
+msgid "a145"
+msgstr "Telegram."
+
+#: components/DeliveryContent/DeliveryContent.js:37
+msgid "a146"
+msgstr "Nous pourrons alors discuter de tous les détails de cette opportunité de collaboration, qui nous permettra d'enrichir ensemble la liste de nos réussites sur le marché des crédits FUT et EA FC présentée ci-dessus."
+
+#: components/Infografic/Infografic.js:114
+msgid "a147"
+msgstr "Voici quelques statistiques* à titre de référence :"
+
+#: components/Infografic/Infografic.js:12
+#: components/InfograficMain/InfograficMain.js:12
+msgid "a148"
+msgstr "Nous avons une expérience de"
+
+#~ msgid "a149"
+#~ msgstr "7"
+
+#: components/Infografic/Infografic.js:14
+#~ msgid "a149_1"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:14
+msgid "a149_2"
+msgstr "7"
+
+#: components/Infografic/Infografic.js:15
+msgid "a149_3"
+msgstr ""
+
+#~ msgid "a15"
+#~ msgstr "Connectez-vous à votre compte pour utiliser le coupon"
+
+#: components/Infografic/Infografic.js:16
+msgid "a150"
+msgstr "ans d'expérience dans ce domaine"
+
+#: components/Infografic/Infografic.js:21
+#: components/InfograficMain/InfograficMain.js:20
+msgid "a151"
+msgstr "Nous avons transféré à nos clients"
+
+#~ msgid "a152"
+#~ msgstr "100"
+
+#: components/Infografic/Infografic.js:23
+#~ msgid "a152_1"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:23
+msgid "a152_2"
+msgstr "100"
+
+#: components/Infografic/Infografic.js:24
+msgid "a152_3"
+msgstr "B+"
+
+#: components/Infografic/Infografic.js:26
+#~ msgid "a153"
+#~ msgstr "de crédits transférés sur les comptes de nos clients"
+
+#: components/Infografic/Infografic.js:30
+#: components/InfograficMain/InfograficMain.js:28
+msgid "a154"
+msgstr "Nous avons livré"
+
+#~ msgid "a155"
+#~ msgstr "+100 mille"
+
+#: components/Infografic/Infografic.js:32
+#~ msgid "a155_1"
+#~ msgstr "+"
+
+#: components/Infografic/Infografic.js:32
+msgid "a155_2"
+msgstr "100"
+
+#: components/Infografic/Infografic.js:33
+msgid "a155_3"
+msgstr "mille"
+
+#: components/Infografic/Infografic.js:35
+#~ msgid "a156"
+#~ msgstr "commandes livrées avec succès"
+
+#: components/Infografic/Infografic.js:39
+#: components/InfograficMain/InfograficMain.js:36
+msgid "a157"
+msgstr "Notre service a été utilisé par"
+
+#~ msgid "a158"
+#~ msgstr "+30 "
+
+#: components/Infografic/Infografic.js:41
+#~ msgid "a158_1"
+#~ msgstr "+"
+
+#: components/Infografic/Infografic.js:41
+msgid "a158_2"
+msgstr "30"
+
+#: components/Infografic/Infografic.js:42
+msgid "a158_3"
+msgstr "mille"
+
+#: components/Infografic/Infografic.js:44
+#~ msgid "a159"
+#~ msgstr "joueurs qui ont expérimenté notre service"
+
+#~ msgid "a16"
+#~ msgstr "+ [[X]] $ par 100k"
+
+#: components/Infografic/Infografic.js:48
+#: components/InfograficMain/InfograficMain.js:44
+msgid "a160"
+msgstr "80 % des commandes sont livrées"
+
+#~ msgid "a161"
+#~ msgstr ">80%"
+
+#: components/Infografic/Infografic.js:50
+#~ msgid "a161_1"
+#~ msgstr ">"
+
+#: components/Infografic/Infografic.js:50
+msgid "a161_2"
+msgstr "20"
+
+#: components/Infografic/Infografic.js:53
+#~ msgid "a162"
+#~ msgstr "de clients récurrents qui ont effectué un achat au moins deux fois"
+
+#: components/Infografic/Infografic.js:57
+#: components/InfograficMain/InfograficMain.js:53
+msgid "a163"
+msgstr "Selon les sondages, nous avons"
+
+#~ msgid "a164"
+#~ msgstr "97%"
+
+#: components/Infografic/Infografic.js:61
+#~ msgid "a165"
+#~ msgstr "taux de satisfaction de la clientèle calculé d'après les résultats des sondages"
+
+#: components/Infografic/Infografic.js:126
+msgid "a166"
+msgstr "* applicables à compter du 1er octobre 2023"
+
+#~ msgid "a167"
+#~ msgstr ""
+
+#~ msgid "a17"
+#~ msgstr "EA FC 25 Ultimate Team Store | EA Sports FC Coins Shop"
+
+#~ msgid "a18"
+#~ msgstr "Vous recevrez"
+
+#: pages/coins/index.js:196
+#: pages/coins/index.js:275
+msgid "a19"
+msgstr "Nombre personnalisé"
+
+#: components/Modal/Modal.js:492
+msgid "a2"
+msgstr "Retour"
+
+#: components/InformationStub/InformationStub.js:19
+msgid "a20"
+msgstr "Vous n'avez encore passé aucune commande"
+
+#: components/InformationStub/InformationStub.js:22
+msgid "a21"
+msgstr "Cette section présente l'historique de vos commandes une fois que vous en avez"
+
+#: components/InformationStub/InformationStub.js:30
+msgid "a22"
+msgstr "Retourner à la page d'accueil"
+
+#~ msgid "a23"
+#~ msgstr "Par carte"
+
+#: components/Order/OrderPayments.js:72
+msgid "a24"
+msgstr "Par cryptomonnaies"
+
+#~ msgid "a25"
+#~ msgstr "Par Apple Pay"
+
+#~ msgid "a26"
+#~ msgstr "Par Google Pay"
+
+#~ msgid "a27"
+#~ msgstr "Par portefeuille électronique"
+
+#~ msgid "a28"
+#~ msgstr "Par virement bancaire"
+
+#~ msgid "a29"
+#~ msgstr "Questions fréquemment posées"
+
+#~ msgid "a3"
+#~ msgstr "Sélectionner"
+
+#: components/CustomAccordion/CustomAccordion.js:502
+#: components/FaqMain/FaqMain.js:124
+msgid "a30"
+msgstr "Pourquoi choisir ROYALFUT.COM ?"
+
+#: components/CustomAccordion/CustomAccordion.js:61
+#: components/FaqMain/FaqMain.js:19
+msgid "a31"
+msgstr "Il y a plusieurs raisons à cela, que vous découvrirez certainement par vous-même après votre premier achat :"
+
+#: components/CustomAccordion/CustomAccordion.js:65
+#: components/FaqMain/FaqMain.js:23
+msgid "a32"
+msgstr "Nous proposons les prix les plus bas du marché."
+
+#: components/CustomAccordion/CustomAccordion.js:71
+#: components/FaqMain/FaqMain.js:29
+msgid "a33"
+msgstr "Un nombre important d'avis de clients que vous pourrez consulter"
+
+#: components/CustomAccordion/CustomAccordion.js:74
+#: components/FaqMain/FaqMain.js:32
+msgid "a34"
+msgstr "ici."
+
+#: components/CustomAccordion/CustomAccordion.js:82
+#: components/FaqMain/FaqMain.js:40
+msgid "a35"
+msgstr "La sécurité absolue de votre compte, qui passe toujours avant tout, et une garantie de remboursement intégral si votre commande n'a pas été livrée pour quelque raison que ce soit."
+
+#: components/FaqMain/FaqMain.js:46
+msgid "a36"
+msgstr "Délais de livraison les plus courts : avec nous, vous oublierez les longues périodes d'attente avant la finalisation de la commande."
+
+#: components/FaqMain/FaqMain.js:52
+msgid "a37"
+msgstr "Notre équipe d'assistance est toujours prête à vous aider à résoudre quelque problème que vous pourriez rencontrer, aussi bien avant qu'après l'achat, que ce soit par chat en direct ou par tout autre moyen de votre choix (WhatsApp, Telegram, Instagram Direct ou e-mail)."
+
+#: components/CustomAccordion/CustomAccordion.js:510
+#: components/FaqMain/FaqMain.js:132
+msgid "a38"
+msgstr "Quels sont les avantages à acheter des crédits [[UT]] plutôt que [[PT]] ?"
+
+#: components/CustomAccordion/CustomAccordion.js:370
+#: components/FaqMain/FaqMain.js:65
+msgid "a39"
+msgstr "Les crédits sont le premier choix de la plupart des joueurs de [[F]] du monde entier en raison de leur faible coût et de la possibilité de les dépenser de manière plus avantageuse pour votre club [[UT]]."
+
+#~ msgid "a4"
+#~ msgstr "Sélectionné"
+
+#: components/CustomAccordion/CustomAccordion.js:377
+#: components/FaqMain/FaqMain.js:72
+msgid "a40"
+msgstr "Vous pouvez dépenser des crédits [[UT]] pour acheter des éléments dans le jeu, qui ont été mis en vente sur le Marché des transferts par d'autres joueurs. Il peut s'agir de cartes de joueur, de cartes d'entraîneur, de kits de tenues, de stades, de consommables, etc. Et le plus important, c'est qu'aucun de ces objets ne peut être acheté avec des [[PT]]."
+
+#: components/CustomAccordion/CustomAccordion.js:384
+#: components/FaqMain/FaqMain.js:79
+msgid "a41"
+msgstr "Avec des [[PT]], vous pouvez acheter des kits dans la boutique [[UT]] et avoir accès aux recrutements [[UT]]. Ce sont toutefois des choses que vous pouvez également faire avec des crédits. En termes d'argent réel, il revient plus de 5 fois moins cher de faire des achats dans le jeu en utilisant des crédits [[UT]] plutôt que des [[PT]]. Commencez à acheter des crédits chez nous et constatez par vous-même 😉"
+
+#: components/CustomAccordion/CustomAccordion.js:520
+msgid "a42"
+msgstr "Quels sont les modes de livraison que vous proposez et quelle est la différence entre eux ?"
+
+#: components/CustomAccordion/CustomAccordion.js:397
+msgid "a43"
+msgstr "Sur notre site Web, vous avez le choix entre deux modes de livraison : Transaction Confort et Enchères joueur."
+
+#: components/CustomAccordion/CustomAccordion.js:402
+msgid "a44"
+msgstr "Pour permettre le traitement des commandes Transaction Confort, vous devrez nous fournir les détails de votre compte EA, mais aucune autre action ne sera nécessaire de votre part - nous nous chargerons nous-mêmes du processus de livraison."
+
+#: components/CustomAccordion/CustomAccordion.js:407
+msgid "a45"
+msgstr "Concernant le mode de livraison Enchères joueur, vous n'aurez aucun détail à fournir, mais vous devrez transférer les crédits par vous-même en suivant nos instructions."
+
+#: components/CustomAccordion/CustomAccordion.js:412
+msgid "a46"
+msgstr "Vous pouvez découvrir plus d'informations sur ces deux modes de livraison"
+
+#: components/CustomAccordion/CustomAccordion.js:414
+msgid "a47"
+msgstr "ici."
+
+#: components/CustomAccordion/CustomAccordion.js:528
+msgid "a48"
+msgstr "Combien de temps demande la livraison de crédits ?"
+
+#: components/CustomAccordion/CustomAccordion.js:426
+msgid "a49"
+msgstr "Cela dépend du mode de livraison choisi."
+
+#: components/BurgerMenu/BurgerMenu.js:306
+#: components/BurgerMenu/BurgerMenu.js:501
+msgid "a5"
+msgstr "Menu"
+
+#: components/CustomAccordion/CustomAccordion.js:431
+msgid "a50"
+msgstr "Pour les commandes Transactions Confort, nous indiquons une estimation du délai de livraison avant le paiement sur la page dédiée au règlement de la commande. Si tous les détails que vous avez fournis sont corrects et que votre compte est entièrement prêt pour le transfert de crédits, la commande sera finalisée dans un délai moyen de 15 à 20 minutes. N'oubliez cependant pas que le délai de livraison dépend principalement du nombre de crédits commandés."
+
+#: components/CustomAccordion/CustomAccordion.js:436
+msgid "a51"
+msgstr "Concernant le mode de livraison Enchères joueur, les délais de livraison dépendent entièrement de vous. Le transfert de crédits s'effectue par le biais de l'achat et de la vente de cartes de joueurs. Si vous utilisez ce mode, vous devez, en moyenne, acheter et vendre entre 3 et 10 cartes suggérées par notre système avant que la commande ne soit finalisée. Mais notez que votre solde de départ joue un rôle important dans ce scénario : plus il est élevé, plus la livraison sera traitée rapidement. Cela veut dire que vous devez essayer de l'augmenter le plus possible avant de passer une commande, comme en vendant les cartes que vous ne voulez plus."
+
+#: components/CustomAccordion/CustomAccordion.js:536
+msgid "a52"
+msgstr "Comment utiliser un coupon de réduction ?"
+
+#: components/CustomAccordion/CustomAccordion.js:542
+msgid "a53"
+msgstr "Accédez à la page Paiement."
+
+#: components/CustomAccordion/CustomAccordion.js:548
+#: components/FaqMain/FaqMain.js:143
+msgid "a54"
+msgstr "Les clients réguliers bénéficient-ils d'offres spéciales ?"
+
+#: components/CustomAccordion/CustomAccordion.js:554
+#: components/FaqMain/FaqMain.js:91
+msgid "a55"
+msgstr "Oui. Vous commencerez à recevoir des offres spéciales dès que nous aurons constaté que vous achetez régulièrement chez nous. De plus, un programme de fidélité transparent est en cours d'élaboration. Restez à l'affût des mises à jour !"
+
+#: components/Order/OrderDelivery.js:141
+msgid "a56"
+msgstr "Transaction Confort"
+
+#: components/CustomAccordion/CustomAccordion.js:51
+#: components/CustomAccordion/CustomAccordion.js:563
+msgid "a57"
+msgstr "Questions à propos du mode de livraison Transaction Confort"
+
+#: components/CustomAccordion/CustomAccordion.js:569
+msgid "a58"
+msgstr "Comment préparer mon club [[UT]] pour une commande Transaction Confort ?"
+
+#~ msgid "a59"
+#~ msgstr "Liste de transferts"
+
+#~ msgid "a6"
+#~ msgstr "[[X]] crédits"
+
+#: components/CustomAccordion/CustomAccordion.js:110
+msgid "a60"
+msgstr "assurez-vous que le Marché des transferts est débloqué dans la [[WA]]"
+
+#: components/CustomAccordion/CustomAccordion.js:120
+msgid "a61"
+msgstr "votre solde doit être d'au moins 5 000 crédits"
+
+#: components/CustomAccordion/CustomAccordion.js:126
+msgid "a62"
+msgstr "libérez autant d'espace que possible dans votre liste de transferts"
+
+#: components/CustomAccordion/CustomAccordion.js:580
+msgid "a63"
+msgstr "Comment vérifier si mon Marché des transferts est débloqué ou non dans la [[WA]] ?"
+
+#: components/CustomAccordion/CustomAccordion.js:138
+msgid "a64"
+msgstr "Marché des transferts débloqué"
+
+#: components/CustomAccordion/CustomAccordion.js:141
+msgid "a65"
+msgstr "Marché des transferts bloqué"
+
+#: components/CustomAccordion/CustomAccordion.js:591
+msgid "a66"
+msgstr "Quelles sont les étapes à suivre pour passer une commande et recevoir les crédits avec ce mode ?"
+
+#: components/CustomAccordion/CustomAccordion.js:151
+msgid "a67"
+msgstr "Transaction Confort"
+
+#: components/CustomAccordion/CustomAccordion.js:165
+msgid "a68"
+msgstr "1. Lorsque vous passez une commande, sélectionnez le mode de livraison Transaction Confort."
+
+#: components/CustomAccordion/CustomAccordion.js:168
+msgid "a69"
+msgstr "2. Procédez au paiement de votre commande."
+
+#~ msgid "a7"
+#~ msgstr "Crédits FC 25"
+
+#: components/CustomAccordion/CustomAccordion.js:171
+msgid "a70"
+msgstr "3. Une fois le paiement effectué avec succès, vous devrez indiquer les détails de votre compte EA dans les champs de saisie correspondants."
+
+#: components/CustomAccordion/CustomAccordion.js:174
+msgid "a71"
+msgstr "4. En l'absence d'erreur dans les détails soumis, la procédure de livraison automatisée sera initiée. Pendant cette procédure, vous ne devez PAS vous connecter à votre compte [[F]]. Une fois la commande terminée, vous en serez informé par e-mail et un message en ce sens s'affichera également sur le site Web."
+
+#: components/CustomAccordion/CustomAccordion.js:181
+msgid "a72"
+msgstr "De plus amples informations sur l'ensemble du processus sont disponibles dans la vidéo ci-dessous."
+
+#: components/CustomAccordion/CustomAccordion.js:185
+#: components/CustomAccordion/CustomAccordion.js:239
+#: components/Products/Products.js:61
+msgid "a73"
+msgstr "En savoir plus"
+
+#: components/CustomAccordion/CustomAccordion.js:189
+msgid "a74"
+msgstr "5. C'est fait ! Profitez de vos crédits ! Et n'oubliez pas de laisser un"
+
+#: components/CustomAccordion/CustomAccordion.js:196
+#: components/CustomAccordion/CustomAccordion.js:250
+msgid "a75"
+msgstr "avis à notre sujet sur Trustpilot."
+
+#: components/CustomAccordion/CustomAccordion.js:201
+#: components/CustomAccordion/CustomAccordion.js:255
+msgid "a76"
+msgstr "Pour toute question ou tout besoin d'assistance à quelque étape que ce soit, n'hésitez pas à contacter notre équipe d'assistance par le chat en direct ou par tout autre moyen de votre choix (WhatsApp, Telegram, Instagram Direct ou e-mail)."
+
+#: components/CustomAccordion/CustomAccordion.js:599
+msgid "a77"
+msgstr "Quels renseignements doivent être fournis pour un transfert de crédits par le biais du mode de livraison Transaction Confort ?"
+
+#~ msgid "a78"
+#~ msgstr "Codes de secours"
+
+#: components/CustomAccordion/CustomAccordion.js:264
+msgid "a79"
+msgstr "Uniquement l'adresse e-mail, le mot de passe et les codes de secours de votre compte EA. Vous n'avez pas besoin de transmettre vos identifiants EA et PSN/Xbox, ni aucun autre renseignement."
+
+#~ msgid "a8"
+#~ msgstr "Paiement"
+
+#: components/CustomAccordion/CustomAccordion.js:607
+msgid "a80"
+msgstr "De quelle manière mes informations personnelles sont-elles protégées par ROYALFUT.COM ?"
+
+#: components/CustomAccordion/CustomAccordion.js:273
+msgid "a81"
+msgstr "Les administrateurs du projet protègent les informations transmises par le biais du site Web contre le piratage et le vol au moyen de notre Politique de confidentialité et de notre système de gestion très rigoureux. Nous ne transmettons à AUCUN tiers ni en AUCUN cas les détails de votre compte EA ni les données de vos cartes de paiement ni aucune autre information ! Pour en savoir plus, consultez la"
+
+#: components/CustomAccordion/CustomAccordion.js:276
+msgid "a82"
+msgstr "page de notre Politique de confidentialité."
+
+#~ msgid "a83"
+#~ msgstr "Vérification de connexion"
+
+#: components/CustomAccordion/CustomAccordion.js:615
+msgid "a84"
+msgstr "Comment activer la vérification de connexion de mon compte EA ?"
+
+#: components/CustomAccordion/CustomAccordion.js:287
+msgid "a85"
+msgstr "1. Ouvrez la"
+
+#: components/CustomAccordion/CustomAccordion.js:294
+msgid "a86"
+msgstr "page Paramètres du compte EA"
+
+#: components/CustomAccordion/CustomAccordion.js:299
+msgid "a87"
+msgstr "2. Sécurité > Vérification de connexion > Activer > Envoyer le code > Activer Vérification de connexion"
+
+#~ msgid "a88"
+#~ msgstr "Codes de secours"
+
+#~ msgid "a89"
+#~ msgstr "Où trouver les codes de secours de mon compte EA ?"
+
+#~ msgid "a9"
+#~ msgstr "Panier"
+
+#~ msgid "a90"
+#~ msgstr "1. Ouvrez la"
+
+#~ msgid "a91"
+#~ msgstr "page Paramètres du compte EA."
+
+#~ msgid "a92"
+#~ msgstr "2. Sécurité > Codes de secours > Afficher > Envoyer le code de sécurité > Soumettre."
+
+#: components/CustomAccordion/CustomAccordion.js:623
+msgid "a93"
+msgstr "J'ai oublié l'adresse e-mail de mon compte EA, où la trouver ?"
+
+#: components/CustomAccordion/CustomAccordion.js:309
+msgid "a94"
+msgstr "1. Ouvrez le jeu et accédez au menu principal."
+
+#: components/CustomAccordion/CustomAccordion.js:312
+msgid "a95"
+msgstr "2. Personnaliser > Paramètres en ligne > Compte EA."
+
+#: components/CustomAccordion/CustomAccordion.js:631
+msgid "a96"
+msgstr "J'ai oublié le mot de passe de mon compte EA, comment le réinitialiser ?"
+
+#: components/CustomAccordion/CustomAccordion.js:323
+msgid "a97"
+msgstr "1. Accédez à la"
+
+#: components/CustomAccordion/CustomAccordion.js:330
+msgid "a98"
+msgstr "page Connexion au compte EA."
+
+#: components/CustomAccordion/CustomAccordion.js:335
+msgid "a99"
+msgstr "2. Se connecter > Mot de passe oublié ? > Suivant > Envoyer le code > Suivant > Soumettre."
+
+#~ msgid "aa0"
+#~ msgstr "Le simulateur de foot signé EA entre dans une nouvelle ère !"
+
+#: components/SpecialOffer/SpecialOffer.js:63
+msgid "aa0_1"
+msgstr "De notre offre spéciale"
+
+#~ msgid "aa1"
+#~ msgstr "Promos de lancement EA FC 25 : -7 %"
+
+#~ msgid "aa10"
+#~ msgstr "Achetez des pièces EA FC 25 pour [[X]]"
+
+#~ msgid "aa11"
+#~ msgstr ""
+
+#~ msgid "aa2"
+#~ msgstr "Utilisez ce coupon pour obtenir une remise sur votre prochaine commande"
+
+#~ msgid "aa3"
+#~ msgstr "En chantier"
+
+#: components/PageChanger/PageChanger.js:71
+msgid "aa4"
+msgstr "Démo"
+
+#: pages/wl-boost.js:74
+msgid "aa5"
+msgstr "Besoin d'un coup de pouce ? On est là !"
+
+#: pages/wl-boost.js:79
+msgid "aa6"
+msgstr "Voici les services que nous proposons : boost de rang EA FC 25 Ultimate Team Finals, UT Champion Finals, UT Champion Playoffs, Division Rivals. Contactez-nous dès maintenant pour obtenir le meilleur prix !"
+
+#~ msgid "aa7"
+#~ msgstr "Nous revenons dans :"
+
+#~ msgid "aa8"
+#~ msgstr "Préparation de la nouvelle saison"
+
+#~ msgid "aa9"
+#~ msgstr "Achetez des pièces EA FC 25 pour votre club Ultimate Team"
+
+#~ msgid "ab0"
+#~ msgstr "Voici quelques statistiques* à titre de référence :"
+
+#~ msgid "ab1"
+#~ msgstr "7"
+
+#: components/InfograficMain/InfograficMain.js:48
+msgid "ab10"
+msgstr "de clients récurrents qui ont effectué un achat au moins deux fois"
+
+#~ msgid "ab100"
+#~ msgstr "Paiement"
+
+#~ msgid "ab101"
+#~ msgstr "Paiement sécurisé"
+
+#~ msgid "ab102"
+#~ msgstr "Mode de paiement"
+
+#~ msgid "ab103"
+#~ msgstr "Mode de livraison"
+
+#~ msgid "ab104"
+#~ msgstr "En savoir plus sur les différences"
+
+#: components/Order/OrderDelivery.js:208
+msgid "ab105"
+msgstr "Non disponible contre ce montant"
+
+#: components/Order/Coupon.js:654
+msgid "ab106"
+msgstr "Vous avez un coupon ?"
+
+#~ msgid "ab107"
+#~ msgstr "Se connecter à Achat"
+
+#: components/Order/OrderInfo.js:95
+msgid "ab108"
+msgstr "Modifier la commande"
+
+#: components/Order/OrderInfo.js:98
+msgid "ab109"
+msgstr "Crédits"
+
+#: components/InfograficMain/InfograficMain.js:56
+msgid "ab11"
+msgstr "taux de satisfaction de la clientèle calculé d'après les résultats des sondages"
+
+#~ msgid "ab110"
+#~ msgstr "Plateforme"
+
+#: components/MainFunnel/StickySecondStep.js:115
+#: components/Order/StickySecondStep.js:355
+#: components/Package/CheckoutSticky.js:451
+msgid "ab111"
+msgstr "Prix total"
+
+#~ msgid "ab112"
+#~ msgstr "Payer maintenant"
+
+#: components/Offer/Offer.js:65
+msgid "ab113"
+msgstr "0 % de frais"
+
+#~ msgid "ab114"
+#~ msgstr "AUCUNS frais"
+
+#~ msgid "ab115"
+#~ msgstr ""
+
+#~ msgid "ab12"
+#~ msgstr "* applicables à compter du 1er octobre 2023"
+
+#~ msgid "ab13"
+#~ msgstr "Ajoutons à ceci que notre champ d'influence est considérablement accru par l'établissement de partenariats fructueux avec de nombreuses autres organisations impliquées dans la vente au détail de crédits EA FC. Notre écosystème compte actuellement plus de 10 boutiques de ce type intégrées à notre plateforme. Sans oublier que nos portes sont toujours ouvertes à ce type de coopération. Si vous êtes intéressé(e) par un partenariat avec nous en tant que boutique de crédits EA FC, contactez-nous via"
+
+#~ msgid "ab14"
+#~ msgstr "Skype"
+
+#~ msgid "ab15"
+#~ msgstr "ou"
+
+#~ msgid "ab16"
+#~ msgstr "Telegram."
+
+#~ msgid "ab17"
+#~ msgstr "Nous pourrons alors discuter de tous les détails de cette opportunité de collaboration, qui nous permettra d'enrichir ensemble la liste de nos réussites sur le marché des crédits FUT et EA FC présentée ci-dessus."
+
+#~ msgid "ab18"
+#~ msgstr "Erreur inattendue"
+
+#~ msgid "ab19"
+#~ msgstr "Veuillez contacter notre équipe d'assistance"
+
+#~ msgid "ab1pl"
+#~ msgstr ""
+
+#: components/InfograficMain/InfograficMain.js:15
+msgid "ab2"
+msgstr "ans d'expérience dans ce domaine"
+
+#: components/FaqMain/FaqMain.js:114
+#: pages/faq.js:28
+msgid "ab20"
+msgstr "FAQ"
+
+#: components/CustomAccordion/CustomAccordion.js:50
+#: components/CustomAccordion/CustomAccordion.js:496
+msgid "ab21"
+msgstr "Questions d'ordre général"
+
+#~ msgid "ab22"
+#~ msgstr "Avec ce montant, vous pouvez vous offrir pratiquement tous les joueurs les moins chers."
+
+#~ msgid "ab23"
+#~ msgstr "Avec ce montant, vous pouvez déjà accéder à certains des joueurs de grande valeur."
+
+#~ msgid "ab24"
+#~ msgstr "Avec ce montant, vous pouvez acheter n'importe quelle carte disponible sur le marché. Complétez votre équipe de rêve !"
+
+#: components/TableOrders/TableItem.js:374
+msgid "ab25"
+msgstr "Commande dans la file d'attente"
+
+#~ msgid "ab26"
+#~ msgstr "Achetez des crédits FC 25 pour toutes les plateformes | Boutique de crédits Ultimate Team"
+
+#: pages/order/index.js:58
+#: pages/order/index.js:93
+msgid "ab27"
+msgstr "Achetez des crédits FC 25 pour n'importe quelle plateforme | ROYALFUT"
+
+#: pages/order/index.js:95
+msgid "ab28"
+msgstr "Achat de crédits EA FC 25 | Paiement sécurisé | ROYALFUT"
+
+#~ msgid "ab29"
+#~ msgstr "Achetez des crédits FC 25 pour PlayStation 4 | ROYALFUT"
+
+#~ msgid "ab3"
+#~ msgstr "+100"
+
+#~ msgid "ab30"
+#~ msgstr "Achetez des crédits FC 25 pour PlayStation 5 | ROYALFUT"
+
+#~ msgid "ab31"
+#~ msgstr "Achetez des crédits FC 25 pour Xbox One | ROYALFUT"
+
+#~ msgid "ab32"
+#~ msgstr "Achetez des crédits FC 25 pour Xbox Series X/S | ROYALFUT"
+
+#~ msgid "ab33"
+#~ msgstr "Achetez des crédits FC 25 pour PC (Origin/Steam/Epic Games | ROYALFUT"
+
+#: pages/order/index.js:100
+msgid "ab34"
+msgstr "Échec du paiement :( | ROYALFUT"
+
+#: pages/order/index.js:98
+msgid "ab35"
+msgstr "Merci pour votre achat ! | ROYALFUT"
+
+#: components/CustomAccordion/CustomAccordion.js:88
+msgid "ab36"
+msgstr "Avis | ROYALFUT"
+
+#: components/CustomAccordion/CustomAccordion.js:94
+msgid "ab37"
+msgstr "Modes de paiement | ROYALFUT"
+
+#~ msgid "ab38"
+#~ msgstr "Livraison de crédits Ultimate Team | ROYALFUT"
+
+#: pages/profile.js:34
+msgid "ab39"
+msgstr "Historique des commandes | ROYALFUT"
+
+#~ msgid "ab3pl"
+#~ msgstr "milliards"
+
+#: components/InfograficMain/InfograficMain.js:23
+msgid "ab4"
+msgstr "de crédits transférés sur les comptes de nos clients"
+
+#: pages/profile.js:25
+msgid "ab40"
+msgstr "Mon profil | ROYALFUT"
+
+#~ msgid "ab41"
+#~ msgstr "Paiement sécurisé | ROYALFUT"
+
+#~ msgid "ab42"
+#~ msgstr "Achetez FC 25 Boosting | Amélioration du classement dans la ligue du week-end et les divisions rivales"
+
+#~ msgid "ab43"
+#~ msgstr "Envoi des détails"
+
+#~ msgid "ab44"
+#~ msgstr "Nouvel envoi Détails"
+
+#~ msgid "ab45"
+#~ msgstr "Lancer la livraison"
+
+#~ msgid "ab46"
+#~ msgstr "Reprendre livraison"
+
+#~ msgid "ab47"
+#~ msgstr "Nouvel envoi Codes"
+
+#~ msgid "ab48"
+#~ msgstr "Modifier les détails"
+
+#~ msgid "ab49"
+#~ msgstr "Enregistrer détails"
+
+#~ msgid "ab5"
+#~ msgstr "+100 mille"
+
+#~ msgid "ab50"
+#~ msgstr "Nous utilisons des cookies pour améliorer votre expérience sur notre site."
+
+#~ msgid "ab51"
+#~ msgstr "Détails"
+
+#~ msgid "ab52"
+#~ msgstr "D'accord"
+
+#: pages/cookie-policy.js:27
+msgid "ab53"
+msgstr "Politique en matière de cookies"
+
+#: pages/cookie-policy.js:30
+msgid "ab54"
+msgstr "En utilisant ce site Web et en acceptant la présente politique, vous consentez à ce que nous utilisions des cookies conformément aux modalités stipulées."
+
+#: pages/cookie-policy.js:34
+msgid "ab55"
+msgstr "À propos des cookies"
+
+#: pages/cookie-policy.js:37
+msgid "ab56"
+msgstr "Les cookies sont de simples fichiers texte qui sont stockés sur votre ordinateur ou votre appareil mobile par le serveur d'un site Web. Chaque cookie est spécifique à votre navigateur Web. Il contient des informations anonymes telles qu'un identifiant unique, le nom de domaine du site Web, ainsi que quelques chiffres et numéros."
+
+#: pages/cookie-policy.js:40
+msgid "ab57"
+msgstr "Quels sont les types de cookies que nous utilisons ?"
+
+#: pages/cookie-policy.js:43
+msgid "ab58"
+msgstr "Cookies nécessaires"
+
+#: pages/cookie-policy.js:46
+msgid "ab59"
+msgstr "Les cookies nécessaires nous permettent de vous offrir la meilleure expérience possible lorsque vous accédez à notre site Web, que vous y naviguez et que vous utilisez ses fonctions. Ces cookies nous permettent, par exemple, de repérer que vous avez créé un compte et que vous vous êtes connecté à ce compte."
+
+#: components/InfograficMain/InfograficMain.js:31
+msgid "ab6"
+msgstr "commandes livrées avec succès"
+
+#: pages/cookie-policy.js:49
+msgid "ab60"
+msgstr "Cookies de fonctionnalité"
+
+#: pages/cookie-policy.js:52
+msgid "ab61"
+msgstr "Les cookies de fonctionnalité nous permettent d'adapter le fonctionnement du site à vos choix. Par exemple, nous reconnaîtrons votre nom d'utilisateur et nous nous souviendrons de la façon dont vous avez personnalisé le site lors de vos visites."
+
+#: pages/cookie-policy.js:55
+msgid "ab62"
+msgstr "Cookies analytiques"
+
+#: pages/cookie-policy.js:58
+msgid "ab63"
+msgstr "Ces cookies nous permettent, à nous et à des services tiers, de collecter des données agrégées à des fins statistiques sur la manière dont nos visiteurs utilisent le site Web. Ces cookies ne contiennent aucune information personnelle telle que des noms ou des adresses e-mail et sont utilisés pour nous aider à améliorer votre expérience d'utilisateur du site Web."
+
+#: pages/cookie-policy.js:61
+msgid "ab64"
+msgstr "Cookies tiers"
+
+#: pages/cookie-policy.js:64
+msgid "ab65"
+msgstr "Lorsque vous utilisez le site Web, des cookies tiers peuvent également vous être envoyés."
+
+#: pages/cookie-policy.js:67
+msgid "ab66"
+msgstr "Nos annonceurs et fournisseurs de services peuvent vous envoyer des cookies. Voici à quelles fins ils peuvent utiliser les informations qu'ils obtiennent de votre utilisation de leurs cookies :"
+
+#: pages/cookie-policy.js:70
+msgid "ab67"
+msgstr "pour suivre votre navigateur sur de multiples sites Web"
+
+#: pages/cookie-policy.js:71
+msgid "ab68"
+msgstr "pour établir un profil de votre navigation sur le Web"
+
+#: pages/cookie-policy.js:72
+msgid "ab69"
+msgstr "pour cibler leurs publicités en fonction de vos interactions avec leurs services et de ce qui peut vous intéresser plus particulièrement."
+
+#~ msgid "ab7"
+#~ msgstr "+30 mille"
+
+#: pages/cookie-policy.js:75
+msgid "ab70"
+msgstr "Nous utilisons Google Analytics, un service d'analyse du Web fourni par Google, Inc. (« Google »). Google Analytics a recours à des « cookies », qui sont des fichiers texte déposés sur votre ordinateur. Ils permettent d'analyser la manière dont les utilisateurs se servent du site Web. Les informations générées par les cookies sur votre utilisation du site Web (y compris votre adresse IP) seront transmises et stockées par Google sur des serveurs situés aux États-Unis. Avant sa transmission, l'adresse IP sera tronquée afin de garantir l'anonymat. En notre nom, Google utilisera ces informations pour évaluer votre utilisation du site Web, compiler des rapports sur l'activité sur le site Web et fournir d'autres services liés à l'activité sur le site Web et à l'activité sur Internet dans le cadre de l'utilisation du site Web. Votre adresse IP ne sera pas mise en relation avec d'autres données détenues par Google. Vous pouvez refuser l'utilisation de cookies en sélectionnant les paramètres correspondants au niveau de votre navigateur. Nous attirons toutefois votre attention sur le fait que, dans ce cas, il peut arriver que vous ne puissiez pas utiliser toutes les fonctions de ce site Web. De plus, vous pouvez empêcher la collecte des informations générées par les cookies sur votre utilisation du site (y compris votre adresse IP) et le traitement de ces données par Google en téléchargeant et en installant le plug-in de navigateur disponible via le lien suivant :"
+
+#: pages/cookie-policy.js:76
+#: pages/cookie-policy.js:77
+msgid "ab71"
+msgstr "https://tools.google.com/dlpage/gaoptout?hl=en"
+
+#~ msgid "ab72"
+#~ msgstr "La plupart des navigateurs vous permettent de refuser les cookies. Sur google.com, vous trouverez des informations sur la manière de bloquer tous les cookies dans votre navigateur."
+
+#: pages/cookie-policy.js:81
+msgid "ab73"
+msgstr "Blocage des cookies"
+
+#: pages/cookie-policy.js:84
+msgid "ab74"
+msgstr "La plupart des navigateurs vous permettent de refuser les cookies. Sur google.com, vous trouverez des informations sur la manière de bloquer tous les cookies dans votre navigateur."
+
+#: pages/cookie-policy.js:87
+msgid "ab75"
+msgstr "Par contre, le blocage de tous les cookies aura un impact négatif sur les possibilités d'utilisation de nombreux sites Web. En effet, si vous bloquez les cookies, vous pouvez ne pas être en mesure d'utiliser certaines fonctions du site Web (se connecter, accéder au contenu, utiliser les fonctions de recherche)."
+
+#: pages/cookie-policy.js:90
+msgid "ab76"
+msgstr "Comment supprimer les cookies ?"
+
+#: pages/cookie-policy.js:93
+msgid "ab77"
+msgstr "Si vous souhaitez restreindre ou bloquer les cookies déposés par notre site Web, vous pouvez le faire par le biais des paramètres de votre navigateur. Vous pouvez également consulter le site www.internetcookies.com, où des informations complètes sur la manière de le faire sur une grande variété de navigateurs et d'appareils sont fournies. Vous y trouverez des informations générales sur les cookies et des détails sur la manière de les supprimer de votre appareil."
+
+#: pages/cookie-policy.js:96
+msgid "ab78"
+msgstr "Nous contacter"
+
+#: pages/cookie-policy.js:99
+msgid "ab79"
+msgstr "Pour toute question concernant la présente politique ou notre utilisation des cookies, n'hésitez pas à nous contacter à l'adresse suivante : support@royalfut.com."
+
+#: components/InfograficMain/InfograficMain.js:39
+msgid "ab8"
+msgstr "joueurs qui ont expérimenté notre service"
+
+#~ msgid "ab80"
+#~ msgstr "Une erreur s'est produite"
+
+#~ msgid "ab81"
+#~ msgstr "Actualiser la page"
+
+#: components/DeliverySteps/DeliverySteps.js:44
+msgid "ab82"
+msgstr "Passer une commande"
+
+#: components/DeliverySteps/DeliverySteps.js:47
+msgid "ab83"
+msgstr "Sélectionnez votre plateforme et le nombre de crédits souhaité, puis payez votre commande."
+
+#: components/DeliverySteps/DeliverySteps.js:65
+msgid "ab84"
+msgstr "Lancer la livraison"
+
+#: components/DeliverySteps/DeliverySteps.js:68
+msgid "ab85"
+msgstr "Une fois le paiement effectué avec succès, accédez à"
+
+#: components/DeliverySteps/DeliverySteps.js:69
+msgid "ab86"
+msgstr "La page Historique des commandes"
+
+#: components/DeliverySteps/DeliverySteps.js:70
+msgid "ab87"
+msgstr ", recherchez votre commande et effectuez les actions requises pour lancer le processus de livraison."
+
+#: components/DeliverySteps/DeliverySteps.js:88
+msgid "ab88"
+msgstr "Profiter de votre achat"
+
+#: components/DeliverySteps/DeliverySteps.js:91
+msgid "ab89"
+msgstr "Une fois la commande terminée, n'hésitez pas à dépenser vos crédits à votre guise et à revenir nous voir à chaque fois que vous avez besoin de renflouer votre solde."
+
+#~ msgid "ab9"
+#~ msgstr ">80 %"
+
+#: components/DeliverySteps/DeliverySteps.js:28
+msgid "ab90"
+msgstr "Besoin d'aide ? Contactez notre équipe d'assistance à tout moment."
+
+#: components/Offer/Offer.js:82
+msgid "ab91"
+msgstr "Si vous en avez assez de vous ruiner en crédits FC 25, nous avons une solution parfaite et bon marché pour vous ! Découvrez ROYALFUT.com, la boutique de crédits EA FC la plus fiable avec de nombreuses années d'expérience dans ce domaine. Cette marketplace de premier ordre offre les prix les plus bas pour les crédits FIFA 25 en ligne et peut garantir une livraison rapide, ainsi qu'une sécurité à 100 % de votre compte. L'achat de crédits FC sur ROYALFUT est l'option la plus économique et la plus fiable sur le plan légal pour vous aider à rendre votre jeu encore plus divertissant, sans aucun risque de conséquences désagréables. Les offres régulières de crédits Ultimate Team auxquelles vous pouvez accéder dans cette boutique permettent de bénéficier de réductions sur des prix déjà bas. Vous pouvez ainsi réaliser des transactions on ne peut plus avantageuses dans le cadre du jeu. La plateforme ROYALFUT n'est pas seulement 100 % fiable en ce qui concerne la vente de crédits FUT, mais elle est également réputée pour son service d'assistance à la clientèle exceptionnel qui apportera toujours une réponse à toutes vos questions et à tous vos problèmes. De nos jours, il est plutôt rare de trouver une boutique de crédits UT 25 légale, mais ROYALFUT.com est sans aucun doute l'une d'entre elles. Si vous cherchez à acheter des crédits Ultimate Team pour PC, PS4, PS5, Xbox One, Xbox Series X ou Xbox Series S et à bénéficier de paiements 100 % sécurisés, ainsi que d'une livraison instantanée, vous êtes à la bonne adresse."
+
+#: pages/order/index.js:115
+#: pages/order/pc.js:82
+#: pages/order/ps4.js:81
+#: pages/order/ps5.js:80
+#: pages/order/xbox_one.js:82
+#: pages/order/xbox_xs.js:82
+msgid "ab92"
+msgstr "Acheter des crédits FC 25 Ultimate Team"
+
+#: components/Order/Steps.js:14
+#: components/Order/Steps.js:56
+msgid "ab93"
+msgstr "Informations sur la commande"
+
+#: components/MainFunnel/StickySecondStep.js:170
+#: components/Order/Steps.js:21
+#: components/Order/Steps.js:59
+#: components/Order/StickyTotalBlock.js:158
+msgid "ab94"
+msgstr "Paiement"
+
+#: components/Order/Steps.js:28
+#: components/Order/Steps.js:62
+msgid "ab95"
+msgstr "Livraison"
+
+#: components/Order/OrderInfo.js:103
+msgid "ab96"
+msgstr "Plateforme"
+
+#: components/Order/CoinsChanger.js:356
+msgid "ab97"
+msgstr "Nombre"
+
+#: components/Package/IdCard.js:110
+msgid "ab98"
+msgstr "Prix"
+
+#~ msgid "ab99"
+#~ msgstr "Réduction"
+
+#: components/MainFunnel/StickySecondStep.js:157
+msgid "authToPay"
+msgstr "S'inscrire pour acheter"
+
+#~ msgid "Bahrain"
+#~ msgstr "Bahreïn"
+
+#: data-elements/breadcrumbs.js:11
+#~ msgid "breadcrumbs.[id]"
+#~ msgstr "crédits FUT"
+
+#: data-elements/breadcrumbs.js:5
+#~ msgid "breadcrumbs.404"
+#~ msgstr "404"
+
+#: data-elements/breadcrumbs.js:19
+#~ msgid "breadcrumbs.coins"
+#~ msgstr "Lots de crédits"
+
+#: data-elements/breadcrumbs.js:23
+#~ msgid "breadcrumbs.contact"
+#~ msgstr "Contacts"
+
+#: data-elements/breadcrumbs.js:21
+#~ msgid "breadcrumbs.delivery"
+#~ msgstr "Livraison"
+
+#: data-elements/breadcrumbs.js:22
+#~ msgid "breadcrumbs.faq"
+#~ msgstr "FAQ"
+
+#: data-elements/breadcrumbs.js:4
+#~ msgid "breadcrumbs.guide"
+#~ msgstr "guide"
+
+#: data-elements/breadcrumbs.js:17
+#~ msgid "breadcrumbs.home"
+#~ msgstr "Accueil"
+
+#: data-elements/breadcrumbs.js:12
+#~ msgid "breadcrumbs.order"
+#~ msgstr "Plateforme"
+
+#: data-elements/breadcrumbs.js:20
+#~ msgid "breadcrumbs.payment"
+#~ msgstr "Paiement"
+
+#: data-elements/breadcrumbs.js:8
+#~ msgid "breadcrumbs.payments"
+#~ msgstr "Paiements"
+
+#: data-elements/breadcrumbs.js:25
+#~ msgid "breadcrumbs.privacy-policy"
+#~ msgstr "Politique de confidentialité"
+
+#: data-elements/breadcrumbs.js:26
+#~ msgid "breadcrumbs.profile"
+#~ msgstr "Profil"
+
+#: data-elements/breadcrumbs.js:13
+#~ msgid "breadcrumbs.ps4"
+#~ msgstr "PlayStation 4"
+
+#: data-elements/breadcrumbs.js:14
+#~ msgid "breadcrumbs.ps5"
+#~ msgstr "PlayStation 5"
+
+#: data-elements/breadcrumbs.js:7
+#~ msgid "breadcrumbs.purchase"
+#~ msgstr "Achat"
+
+#: data-elements/breadcrumbs.js:9
+#~ msgid "breadcrumbs.reviews"
+#~ msgstr "Avis"
+
+#: data-elements/breadcrumbs.js:24
+#~ msgid "breadcrumbs.terms"
+#~ msgstr " les Conditions générales"
+
+#: data-elements/breadcrumbs.js:6
+#~ msgid "breadcrumbs.wl-boost"
+#~ msgstr "WL Boost"
+
+#: data-elements/breadcrumbs.js:15
+#~ msgid "breadcrumbs.xbox_one"
+#~ msgstr "Xbox One"
+
+#: data-elements/breadcrumbs.js:16
+#~ msgid "breadcrumbs.xbox_xs"
+#~ msgstr "Xbox Series X|S"
+
+#: components/Order/StickySecondStep.js:400
+#: components/Order/StickyTotalBlock.js:148
+#: components/Package/IdCard.js:103
+msgid "cashback"
+msgstr "Cashback"
+
+#~ msgid "coins_page0"
+#~ msgstr "Non attribués"
+
+#: components/TableOrders/TableItem.js:406
+msgid "coins_page1"
+msgstr "Il y a des éléments non affectés"
+
+#~ msgid "coins_page10"
+#~ msgstr "Sous-total"
+
+#~ msgid "coins_page11"
+#~ msgstr "Réduction ()"
+
+#~ msgid "coins_page12"
+#~ msgstr "Appliquer"
+
+#~ msgid "coins_page13"
+#~ msgstr "Prix total"
+
+#~ msgid "coins_page14"
+#~ msgstr "Code promotionnel non valide"
+
+#: pages/coins/[id].js:222
+msgid "coins_page15"
+msgstr "Avec ce montant, vous pouvez vous offrir pratiquement tous les joueurs les moins chers."
+
+#: pages/coins/[id].js:225
+msgid "coins_page16"
+msgstr "Avec ce montant, vous pouvez déjà accéder à certains des joueurs de grande valeur."
+
+#: pages/coins/[id].js:227
+msgid "coins_page17"
+msgstr "Avec ce montant, vous pouvez acheter n'importe quelle carte disponible sur le marché. Complétez votre équipe de rêve !"
+
+#: pages/coins/[id].js:177
+#: pages/coins/[id].js:192
+msgid "coins_page18"
+msgstr "[[X]] crédits FC 25 Ultimate Team"
+
+#: pages/coins/[id].js:201
+msgid "coins_page19"
+msgstr "Achetez des crédits EA FC 25 en ligne auprès du fournisseur le plus sûr du marché - ROYALFUT Store. Nous sommes spécialisés dans la vente d'éléments FIFA Ultimate Team depuis plus de 7 ans et notre objectif est de nous assurer que nos clients bénéficient des meilleures offres et des transferts de crédits FC UT les plus sûrs. ROYALFUT vous assure une expérience d'achat pratique et agréable grâce à son interface conviviale, ses options de paiement sécurisées et son service clientèle exceptionnel."
+
+#: components/TableOrders/TableItem.js:409
+msgid "coins_page2"
+msgstr "Vous avez des éléments non attribués dans votre club Ultimate Team, veillez à les attribuer afin que nous puissions lancer le processus de livraison"
+
+#: pages/coins/[id].js:204
+msgid "coins_page20"
+msgstr "Ici, vous pouvez acheter [[X]] crédits FC pour seulement [[Y]] [[C]]. Après avoir passé la commande, veillez à bien vous déconnecter d'Ultimate Team à la fois sur votre console/PC et sur tout autre appareil via l'application Web FC/Companion. Les [[X]] crédits seront transférés sur votre compte dans un délai de [[A]]-[[B]] [[T]]."
+
+#: pages/coins/[id].js:231
+msgid "coins_page21"
+msgstr "Ce que nous vous procurerons"
+
+#: pages/coins/[id].js:236
+msgid "coins_page22"
+msgstr "300 mille crédits dans votre club UT ;"
+
+#: pages/coins/[id].js:240
+msgid "coins_page23"
+msgstr "Couverture de la taxe EA (5 %) ;"
+
+#~ msgid "coins_page24"
+#~ msgstr "Cashback de 12 ROYAL Points (ce qui équivaut à 1,2 USD) ;"
+
+#~ msgid "coins_page25"
+#~ msgstr "Progression du niveau de fidélité ;"
+
+#: pages/coins/[id].js:252
+msgid "coins_page26"
+msgstr "Sécurité à 100 % de votre compte."
+
+#: pages/coins/[id].js:258
+msgid "coins_page27"
+msgstr "Ce que nous vous demanderons"
+
+#: pages/coins/[id].js:264
+msgid "coins_page28"
+msgstr "Accès à votre compte EA"
+
+#: pages/coins/[id].js:266
+msgid "coins_page29"
+msgstr "— si vous disposez d'une copie sous licence d'EA Sports FC 25 pour les consoles PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Series X ou pour ordinateur (achetée sous forme de CD physique ou numérique via EA App, Steam ou Epic Games Store), autant dire que la chance est de votre côté, car, désormais, tout ce dont notre système a besoin pour accéder à votre club Ultimate Team, ce sont les détails de votre compte EA, c'est-à-dire votre adresse e-mail, votre mot de passe et quelques codes de secours. Mais ne vous inquiétez pas, nous ne stockons pas vos données : elles sont effacées après chaque commande."
+
+#~ msgid "coins_page3"
+#~ msgstr "Obj. de transferts"
+
+#: pages/coins/[id].js:271
+msgid "coins_page30"
+msgstr "Marché des transferts débloqué"
+
+#: pages/coins/[id].js:273
+msgid "coins_page31"
+msgstr "— ce qui est primordial pour préparer votre club à une livraison de crédits, c'est de vous assurer que vous avez déjà obtenu l'accès au marché des transferts dans l'application Web. Si ce n'est pas encore le cas, vous devez commencer à jouer 3 matchs Ultimate Team complets par jour et visiter l'application Web FC/Companion tous les jours, jusqu'à ce que l'accès vous soit accordé."
+
+#: pages/coins/[id].js:278
+msgid "coins_page32"
+msgstr "Au moins 5 000 crédits sur le solde de votre club UT"
+
+#: pages/coins/[id].js:280
+msgid "coins_page33"
+msgstr "— avec ce montant, notre système de livraison pourra commencer le transfert. Si le solde de votre club ne répond pas à cette exigence, vous pouvez vendre des éléments échangeables en les proposant sur le marché des transferts ou en utilisant l'option Vente rapide. Et bien sûr, vous pouvez toujours gagner des crédits en jouant simplement quelques matchs. N'oubliez pas qu'un solde de départ plus élevé accélère le processus de transfert."
+
+#~ msgid "coins_page34"
+#~ msgstr "Paiements 100 % sécurisés"
+
+#~ msgid "coins_page35"
+#~ msgstr "Délai de livraison de [[X]]-[[Y]] h"
+
+#~ msgid "coins_page36"
+#~ msgstr "Garantie de 3 jours"
+
+#: pages/coins/[id].js:300
+msgid "coins_page37"
+msgstr "Voir aussi"
+
+#~ msgid "coins_page38"
+#~ msgstr "Acheté [[X]] fois"
+
+#~ msgid "coins_page39"
+#~ msgstr ""
+
+#: components/TableOrders/TableItem.js:334
+msgid "coins_page4"
+msgstr "Liste Obj. de transferts pleine"
+
+#: components/TableOrders/TableItem.js:337
+msgid "coins_page5"
+msgstr "Votre liste Obj. de transferts est pleine, veillez à l'effacer afin que nous puissions lancer le processus de livraison"
+
+#: components/TableOrders/TableItem.js:480
+msgid "coins_page6"
+msgstr "Erreur inconnue"
+
+#: components/TableOrders/TableItem.js:483
+msgid "coins_page7"
+msgstr "Essayez de relancer votre commande plus tard ou contactez le service d'assistance si le problème persiste."
+
+#~ msgid "coins_page8"
+#~ msgstr "Nouvelle commande"
+
+#~ msgid "coins_page9"
+#~ msgstr "Acheter maintenant"
+
+#: components/Footer/Footer.js:362
+msgid "cookiepage"
+msgstr "Politique en matière de cookies"
+
+#: components/ReviewsContent/ReviewsContent.js:15
+msgid "country.Bahrain"
+msgstr "Bahrain"
+
+#: components/ReviewsContent/ReviewsContent.js:16
+msgid "country.France"
+msgstr "France"
+
+#: components/ReviewsContent/ReviewsContent.js:17
+msgid "country.Germany"
+msgstr "Germany"
+
+#: components/ReviewsContent/ReviewsContent.js:18
+msgid "country.Kuwait"
+msgstr "Kuwait"
+
+#: components/ReviewsContent/ReviewsContent.js:19
+msgid "country.Netherlands"
+msgstr "Netherlands"
+
+#: components/ReviewsContent/ReviewsContent.js:20
+msgid "country.Qatar"
+msgstr "Qatar"
+
+#: components/ReviewsContent/ReviewsContent.js:21
+msgid "country.Saudi Arabia"
+msgstr "Saudi Arabia"
+
+#: components/ReviewsContent/ReviewsContent.js:22
+msgid "country.United Arab Emirates"
+msgstr "United Arab Emirates"
+
+#: components/ReviewsContent/ReviewsContent.js:23
+msgid "country.United Kingdom"
+msgstr "United Kingdom"
+
+#: components/ReviewsContent/ReviewsContent.js:24
+msgid "country.United States"
+msgstr "United States"
+
+#: components/BurgerMenu/BurgerMenu.js:82
+#~ msgid "emailOrPassword"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:25
+msgid "FIFA & EA FC Coins"
+msgstr "de crédits FIFA & EA FC"
+
+#: components/Infografic/Infografic.js:43
+msgid "FIFA and EA FC players"
+msgstr "joueurs de FIFA et EA FC"
+
+#~ msgid "France"
+#~ msgstr "France"
+
+#~ msgid "Germany"
+#~ msgstr "Allemagne"
+
+#: components/Header/Header.js:78
+msgid "header_reviews"
+msgstr "Avis"
+
+#: components/MainFunnel/MainFunnel.js:44
+#~ msgid "home:newh1_2"
+#~ msgstr "des crédits "
+
+#: components/MainFunnel/MainFunnel.js:47
+#~ msgid "home:newh1_3"
+#~ msgstr "FC 25<<<<<<< HEAD"
+
+#: components/MainFunnel/MainFunnel.js:32
+#: components/MainFunnel/MainFunnel.js:53
+#~ msgid "home:newh1_4"
+#~ msgstr "des crédits FC 25"
+
+#: components/MainFunnel/MainFunnel.js:33
+msgid "home:title"
+msgstr "La solution la plus sûre pour acheter"
+
+#: pages/coins/[id].js:217
+msgid "hours"
+msgstr "hours"
+
+#~ msgid "Kuwait"
+#~ msgstr "Koweit"
+
+#~ msgid "locales.account"
+#~ msgstr "Compte"
+
+#: components/TableOrders/TableItem.js:711
+msgid "locales.amount"
+msgstr "Nombre"
+
+#: components/Order/StickySecondStep.js:445
+#: components/Order/StickySecondStep.js:454
+#: components/Package/CheckoutSticky.js:502
+#: components/Package/CheckoutSticky.js:510
+#: components/Purchase/Purchase.js:610
+#: components/Purchase/Purchase.js:633
+msgid "locales.authToPay"
+msgstr "S'inscrire pour acheter"
+
+#~ msgid "locales.backToTop"
+#~ msgstr "Retour en haut"
+
+#~ msgid "locales.backupCode"
+#~ msgstr "Codes de sauvegarde"
+
+#~ msgid "locales.backupCodes"
+#~ msgstr "Vous pouvez obtenir des codes de secours ici : "
+
+#~ msgid "locales.blackFriday"
+#~ msgstr "ÉQUIPE DE L’ANNÉE <span class=\"color\">- 20% de réduction</span> sur les frais de transaction - utilisez le code promotionnel :  <span class=\"color\">TOTY</span>"
+
+#~ msgid "locales.buyingCoins"
+#~ msgstr "ACHETER DES CRÉDITS sur royalfut.com"
+
+#~ msgid "locales.cancelOrder"
+#~ msgstr "Annuler la commande"
+
+#: components/TextBlockContainer/TextBlockContainer.js:13
+msgid "locales.card_text_1"
+msgstr "À l'origine, notre équipe a été formée lors de la saison FIFA 17. Depuis lors, nous avons transféré plus de 100 milliards de crédits à nos clients, plus de 60 mille clubs du monde entier ont reçu des recharges de crédits de notre part et au moins 10 autres points de vente utilisent notre algorithme de transfert de crédits."
+
+#: components/TextBlockContainer/TextBlockContainer.js:30
+msgid "locales.card_text_2"
+msgstr "Nos prix comptent parmi les plus bas du marché, et pour nos clients fidèles, le prix est encore plus bas !"
+
+#: components/TextBlockContainer/TextBlockContainer.js:18
+msgid "locales.card_text_3"
+msgstr "Notre objectif principal est de vous fournir l'option la plus sûre pour recharger le solde de votre club FUT. Nous travaillons constamment à l'amélioration de notre algorithme de transfert de crédits, en le testant sur des milliers de comptes avant de lui donner le feu vert pour entrer en action."
+
+#: components/TextBlockContainer/TextBlockContainer.js:25
+msgid "locales.card_text_4"
+msgstr "Sachant que votre temps est précieux, nous nous efforçons sans cesse d'améliorer les différents aspects de notre site Web, tels que l'interface et la qualité de notre service d'assistance à la clientèle, de manière à vous garantir une expérience d'achat chez nous aussi fluide que possible."
+
+#: components/TextBlockContainer/TextBlockContainer.js:12
+msgid "locales.card_title_1"
+msgstr "Une expérience de longue date"
+
+#: components/TextBlockContainer/TextBlockContainer.js:29
+msgid "locales.card_title_2"
+msgstr "Prix abordables"
+
+#: components/TextBlockContainer/TextBlockContainer.js:17
+msgid "locales.card_title_3"
+msgstr "Sécurité et fiabilité"
+
+#: components/TextBlockContainer/TextBlockContainer.js:24
+msgid "locales.card_title_4"
+msgstr "Haut niveau de service"
+
+#~ msgid "locales.coinsFor"
+#~ msgstr "Crédits pour"
+
+#: components/HowDelivery/Howdelivery.js:239
+#: components/MethodChanger/MethodChanger.js:46
+msgid "locales.comfortMethodName"
+msgstr "Transaction confort"
+
+#~ msgid "locales.comfortText"
+#~ msgstr "Nous nous chargeons nous-mêmes du processus de livraison. Tous ce que vous avez à faire est de nous fournir les détails de votre compte EA."
+
+#~ msgid "locales.commentOut"
+#~ msgstr "sur"
+
+#: components/Rated/Rated.js:66
+#: components/ReviewsGallery/ReviewsGallery.js:80
+msgid "locales.commentRated"
+msgstr "Noté"
+
+#~ msgid "locales.commentReviews"
+#~ msgstr "Bewertungen"
+
+#: components/Rated/Rated.js:87
+#: components/Rated/Rated.js:101
+#: components/ReviewsContent/ReviewsContent.js:85
+msgid "locales.commentUrl"
+msgstr "https://fr.trustpilot.com/review/royalfut.com"
+
+#~ msgid "locales.continue"
+#~ msgstr "Continuer"
+
+#: components/TableOrders/TableItem.js:403
+msgid "locales.continueTransfering"
+msgstr "Poursuivre le transfert"
+
+#~ msgid "locales.cookieButton"
+#~ msgstr "J'ai compris"
+
+#~ msgid "locales.cookieText"
+#~ msgstr "Pour accepter nos conditions d'utilisation des cookies, il vous suffit de poursuivre votre navigation."
+
+#~ msgid "locales.cookieTitle"
+#~ msgstr "Nous utilisons des cookies"
+
+#: components/Order/Coupon.js:342
+#: components/Order/Coupon.js:516
+#: components/Package/CheckoutCoupon.js:99
+#: components/Package/CheckoutCoupon.js:352
+msgid "locales.couponCondition"
+msgstr "Le montant de la commande n'atteint pas le minimum requis pour utiliser un coupon"
+
+#: components/Order/Coupon.js:307
+#: components/Order/Coupon.js:485
+#: components/Package/CheckoutCoupon.js:64
+#: components/Package/CheckoutCoupon.js:321
+msgid "locales.couponExpired"
+msgstr "Coupon expiré"
+
+#: components/Order/Coupon.js:324
+#: components/Order/Coupon.js:500
+#: components/Package/CheckoutCoupon.js:81
+#: components/Package/CheckoutCoupon.js:336
+msgid "locales.couponLimit"
+msgstr "Ce coupon a été utilisé en totalité"
+
+#~ msgid "locales.cryptoAre"
+#~ msgstr ""
+
+#~ msgid "locales.cryptoIs"
+#~ msgstr "est de"
+
+#~ msgid "locales.cryptoMessage"
+#~ msgstr "Le montant minimum à payer en "
+
+#~ msgid "locales.cryptoOr"
+#~ msgstr "ou"
+
+#~ msgid "locales.cryptoWith"
+#~ msgstr ""
+
+#~ msgid "locales.currency"
+#~ msgstr "$"
+
+#~ msgid "locales.currencyName"
+#~ msgstr "USD"
+
+#~ msgid "locales.currencyTranslate"
+#~ msgstr "Devise"
+
+#~ msgid "locales.deliveryMethodName"
+#~ msgstr "Delivery method:"
+
+#~ msgid "locales.deliverytext"
+#~ msgstr " propose un système unique de livraison des crédits EA FC 25. Nous collaborons avec un nombre record de fournisseurs de crédits. Lors de l'exécution de votre commande, nous respectons des règles spéciales qui nous permettent de vous garantir que votre compte ne sera jamais frappé de sanctions de la part de l'EA. Découvrez quelques-unes de ces règles ci-dessous :"
+
+#~ msgid "locales.deliverytitle"
+#~ msgstr "Livraison"
+
+#~ msgid "locales.email"
+#~ msgstr "E-mail"
+
+#~ msgid "locales.emailOrPassword"
+#~ msgstr "Adresse électronique ou mot de passe non valide"
+
+#: components/HowDelivery/Howdelivery.js:88
+#: components/HowDelivery/Howdelivery.js:123
+msgid "locales.enjoy"
+msgstr "Amusez-vous bien et à bientôt on espère :)"
+
+#: components/TableOrders/TableItem.js:392
+msgid "locales.enterCode"
+msgstr "ENTRER LE CODE"
+
+#~ msgid "locales.faqtitle2"
+#~ msgstr "D'AUTRES QUESTIONS?"
+
+#~ msgid "locales.fbError"
+#~ msgstr "Adresse électronique ou mot de passe non valide"
+
+#~ msgid "locales.footerAddrees"
+#~ msgstr "Yasha Limited, Office 908H Nicolaou Pentadromos Center, Limassol, Cyprus"
+
+#~ msgid "locales.footerContact"
+#~ msgstr "INFO"
+
+#~ msgid "locales.footerInfo"
+#~ msgstr "MENTIONS LÉGALES"
+
+#: components/Footer/Footer.js:308
+msgid "locales.footerInfo_2"
+msgstr "Informations"
+
+#: components/Footer/Footer.js:30
+#: pages/contact.js:29
+msgid "locales.footerLinkContact"
+msgstr "Contacts"
+
+#: components/Footer/Footer.js:318
+msgid "locales.footerLinkDelivery"
+msgstr "Livraison"
+
+#: components/Footer/Footer.js:329
+msgid "locales.footerLinkPayment"
+msgstr "Paiement"
+
+#~ msgid "locales.footerLinkPrivacy"
+#~ msgstr "Confidentialité"
+
+#: components/Footer/Footer.js:351
+#: pages/privacy-policy.js:28
+msgid "locales.footerLinkPrivacyPolicy"
+msgstr "Politique de confidentialité"
+
+#: components/Footer/Footer.js:340
+msgid "locales.footerLinkTerms"
+msgstr "Conditions générales"
+
+#: components/Footer/Footer.js:192
+msgid "locales.footerPlatforms"
+msgstr "Plateforme"
+
+#~ msgid "locales.forPaymentError"
+#~ msgstr "ÉCHEC DU PAIEMENT"
+
+#~ msgid "locales.garantee3"
+#~ msgstr "Droit au remboursement"
+
+#~ msgid "locales.h1_1"
+#~ msgstr "Le meilleur choix pour "
+
+#~ msgid "locales.h1_2"
+#~ msgstr "Acheter des crédits FC 25"
+
+#~ msgid "locales.h1_coins"
+#~ msgstr "Votre EA FC 25 Ultimate Team Store par excellence"
+
+#~ msgid "locales.h1_p1"
+#~ msgstr "Votre compagnon essentiel dans "
+
+#~ msgid "locales.h1_p2"
+#~ msgstr "EA FC 25 Ultimate Team Store"
+
+#~ msgid "locales.haveCoupon"
+#~ msgstr "Si vous avez un coupon"
+
+#~ msgid "locales.header_reviews"
+#~ msgstr "Avis"
+
+#~ msgid "locales.hidePassword"
+#~ msgstr "Masquer le mot de passe"
+
+#: components/HowDelivery/Howdelivery.js:216
+msgid "locales.hwd"
+msgstr "COMMENT SE DÉROULE LA LIVRAISON ?"
+
+#~ msgid "locales.infoBlockText1"
+#~ msgstr "Notre priorité est de vous fournir le moyen le plus sûr pour réapprovisionner votre solde club FUT à bas prix. Nos tarifs n'incluent aucune commission ni frais cachés. Ce service est l'aboutissement d'années de développement."
+
+#~ msgid "locales.infoBlockText2"
+#~ msgstr "Nous utilisons le système Smart ANTI-BAN 3.0 qui intègre des règles spéciales. Par exemple, chaque commande comprend des pièces gagnées manuellement. Ces règles vous garantissent une sécurité à 100 % pour votre club FUT."
+
+#~ msgid "locales.infoBlockText3"
+#~ msgstr "Nous respectons le temps que vous nous consacrez. Nous apportons sans cesse des améliorations à notre interface et à notre assistance afin d'assurer un déroulement aisé et rapide de vos commandes. Quelques clics suffisent, et nous nous chargeons du reste."
+
+#~ msgid "locales.infoBlockText4"
+#~ msgstr "Si, après l'achat, vous ne pouvez pas utiliser les pièces ou n'êtes pas en mesure de récupérer les pièces sur votre compte pour quelque raison que ce soit, le remboursement est garanti."
+
+#~ msgid "locales.infoBlockTitle1"
+#~ msgstr "VOTRE MEILLEUR CHOIX"
+
+#~ msgid "locales.infoBlockTitle2"
+#~ msgstr "LIVRAISON PLUS SÛRE"
+
+#~ msgid "locales.infoBlockTitle3"
+#~ msgstr "RAPIDE ET SIMPLE"
+
+#~ msgid "locales.infoBlockTitle4"
+#~ msgstr "GARANTIE DE REMBOURSEMENT"
+
+#: components/Message/Message.js:29
+#: components/Order/Coupon.js:357
+#: components/Order/Coupon.js:530
+#: components/Package/CheckoutCoupon.js:114
+#: components/Package/CheckoutCoupon.js:366
+#: components/Package/CheckoutCoupon.js:560
+msgid "locales.invalidPromo"
+msgstr "Code promotionnel non valide"
+
+#~ msgid "locales.isAlreadyTaken"
+#~ msgstr "déjà enregistré"
+
+#~ msgid "locales.isInvalid"
+#~ msgstr "non valide"
+
+#~ msgid "locales.lang"
+#~ msgstr "en-GB"
+
+#~ msgid "locales.li1"
+#~ msgstr "• Règle d'inscription de la carte sur le marché des transferts en fonction du prix autre que le maximum autorisé selon la fourchette de prix de cette carte"
+
+#~ msgid "locales.li2"
+#~ msgstr "• Règle visant à alterner la livraison de crédits avec le remboursement sur la carte d'un compte sur lequel seul le trading manuel permet de gagner des crédits"
+
+#~ msgid "locales.li3"
+#~ msgstr "• Avec plus de 7 000 clubs FUT à notre disposition, dans la plupart des commandes, nous compensons une carte d'un club qui n'a pas été impliqué dans le transfert de crédits pendant plusieurs semaines"
+
+#~ msgid "locales.loading"
+#~ msgstr "Chargement"
+
+#~ msgid "locales.login"
+#~ msgstr "Plateforme / Adresse e-mail"
+
+#~ msgid "locales.logOut"
+#~ msgstr "SE DÉCONNECTER"
+
+#: components/H1/H1.js:20
+msgid "locales.main_h2"
+msgstr "Nous faisons du rêve de formation d'équipes une réalité accessible à tous, tout au long de l'année !"
+
+#~ msgid "locales.manualText"
+#~ msgstr "Mode de livraison manuel qui ne nécessite aucun détail de compte : vous devrez transférer les pièces par vous-même en suivant nos instructions simples."
+
+#: components/HowDelivery/Howdelivery.js:252
+#: components/MethodChanger/MethodChanger.js:79
+msgid "locales.marketMethodName"
+msgstr "Enchères joueur"
+
+#: components/HowItWorks/HowItWorks.js:10
+msgid "locales.marketMethodWhat"
+msgstr "COMMENT ÇA MARCHE ?"
+
+#~ msgid "locales.menu"
+#~ msgstr ""
+
+#: pages/delivery.js:28
+msgid "locales.menuLinkDelivery"
+msgstr "Livraison"
+
+#~ msgid "locales.menuLinkDesc"
+#~ msgstr "Notre système étant entièrement automatisé, "
+
+#~ msgid "locales.menuLinkDesc2"
+#~ msgstr "nous livrons donc des crédits à tout moment de la journée, 24h / 24 et 7j / 7."
+
+#~ msgid "locales.menuLinkDescDisabled"
+#~ msgstr "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋"
+
+#~ msgid "locales.menulinkfaq"
+#~ msgstr "FAQ"
+
+#~ msgid "locales.menuLinkFaq"
+#~ msgstr "FAQ"
+
+#~ msgid "locales.menuLinkOrder"
+#~ msgstr "ACHETER DES CRÉDITS"
+
+#~ msgid "locales.menuLinkReviews"
+#~ msgstr "Examen"
+
+#~ msgid "locales.menuOffers"
+#~ msgstr "Offers"
+
+#~ msgid "locales.menuSignIn"
+#~ msgstr "SE CONNECTER"
+
+#~ msgid "locales.MissingOrInvalidCredentialsCode"
+#~ msgstr "Erreur de connexion, veuillez réessayer !"
+
+#~ msgid "locales.modalSignBtnIn"
+#~ msgstr "Connecter"
+
+#: components/BurgerMenu/BurgerMenu.js:482
+msgid "locales.modalSignBtnUp"
+msgstr "S'enregistrer"
+
+#~ msgid "locales.modalSignEmail"
+#~ msgstr "E-mail"
+
+#~ msgid "locales.modalSignEmail1"
+#~ msgstr "email@address.com"
+
+#: components/BurgerMenu/BurgerMenu.js:399
+msgid "locales.modalSignPassword"
+msgstr "Mot de passe"
+
+#~ msgid "locales.modalSignSeePassword"
+#~ msgstr "Voir le mot de passe"
+
+#~ msgid "locales.modalSignSymbols3"
+#~ msgstr "au moins 3 caractères"
+
+#: components/BurgerMenu/BurgerMenu.js:425
+#: components/ChangePassword/ChangePassword.js:251
+msgid "locales.modalSignSymbols8"
+msgstr "au moins 8 lettres"
+
+#~ msgid "locales.modalSignTerms"
+#~ msgstr "En cliquant sur «S'enregistrer» ci-dessus, vous acceptez les <a href=\"/fr/terms/\">Conditions générales</a>"
+
+#: components/BurgerMenu/BurgerMenu.js:442
+msgid "locales.modalSocialForgot"
+msgstr "J'accepte "
+
+#: components/Auth/Auth.js:99
+msgid "locales.modalSocialLogin"
+msgstr "Se connecter via"
+
+#: components/Auth/Auth.js:125
+#~ msgid "locales.modalSocialLogin}"
+#~ msgstr ""
+
+#: components/BurgerMenu/BurgerMenu.js:450
+#: components/TermsContent/TermsContent.js:15
+msgid "locales.modalSocialLoginCheck"
+msgstr " les Conditions générales"
+
+#~ msgid "locales.modalSocialLoginFB"
+#~ msgstr "Se connecter via FaceBook"
+
+#: components/Auth/Auth.js:107
+msgid "locales.modalSocialLoginGoogle"
+msgstr "Se connecter via Google"
+
+#: components/Auth/Auth.js:98
+msgid "locales.modalSocialOr"
+msgstr "ou"
+
+#: components/Auth/Auth.js:98
+msgid "locales.modalSocialSigin"
+msgstr "S'enregistrer via"
+
+#~ msgid "locales.modalSocialSiginFB"
+#~ msgstr "S'enregistrer via FaceBook"
+
+#: components/Auth/Auth.js:109
+msgid "locales.modalSocialSiginGoogle"
+msgstr "S'enregistrer via Google"
+
+#~ msgid "locales.modalTabSignIn"
+#~ msgstr "SE CONNECTER"
+
+#~ msgid "locales.modalTabSignUp"
+#~ msgstr "S'enregistrer"
+
+#~ msgid "locales.nav.amount"
+#~ msgstr "Nombre"
+
+#~ msgid "locales.nav.delivery"
+#~ msgstr "Livraison"
+
+#~ msgid "locales.nav.details"
+#~ msgstr "Order details"
+
+#~ msgid "locales.nav.method"
+#~ msgstr "Mode"
+
+#~ msgid "locales.nav.payment"
+#~ msgstr "Paiement"
+
+#~ msgid "locales.nav.platform"
+#~ msgstr "Plateforme"
+
+#~ msgid "locales.numDay"
+#~ msgstr "№"
+
+#~ msgid "locales.orderCreationError"
+#~ msgstr "Erreur de création de commande"
+
+#: components/SpecialOffer/SpecialOffer.js:108
+msgid "locales.orderNow"
+msgstr "Commandez maintenant"
+
+#~ msgid "locales.orders"
+#~ msgstr "Commandes"
+
+#~ msgid "locales.orderUpdateError"
+#~ msgstr "Erreur de mise à jour de commande"
+
+#~ msgid "locales.orWithCrypto"
+#~ msgstr "Ou avec des crypto-monnaies"
+
+#~ msgid "locales.p1"
+#~ msgstr "Cela nous permet d'offrir le moyen le plus sûr d'acheter des crédits EA FC 25 sur Internet."
+
+#~ msgid "locales.p2"
+#~ msgstr " Pour vous faire livrer vos crédits le plus rapidement possible, suivez les instructions publiées sur le site Web ou fournies par le gestionnaire dans le chat en direct."
+
+#~ msgid "locales.p3"
+#~ msgstr "En achetant notre produit numérique, vous pouvez être assuré que votre argent est en sécurité."
+
+#~ msgid "locales.p4"
+#~ msgstr "Le retour ou l'annulation d'une commande payée est impossible."
+
+#: pages/index.js:127
+#~ msgid "locales.pack_descript"
+#~ msgstr "Même les clients les plus exigeants seront ravis par le bonus d'achat. Obtenez-le dès aujourd'hui !"
+
+#~ msgid "locales.pageAmountAmountLabel"
+#~ msgstr "Nombre"
+
+#: components/Package/CoinsBlock.js:25
+#: components/PageChanger/PageChanger.js:53
+msgid "locales.pageAmountCoinsLabel"
+msgstr "Crédits"
+
+#~ msgid "locales.pageAmountName"
+#~ msgstr "NOMBRE DE CRÉDITS"
+
+#~ msgid "locales.pageAmountPriceLabel"
+#~ msgstr "Prix"
+
+#: components/HowDelivery/Howdelivery.js:44
+msgid "locales.pageCoinsAfter"
+msgstr "Une fois la commande payée, vous accéderez à une page avec deux champs : adresse e-mail et mot de passe. Veuillez y renseigner vos identifiants de connexion à votre compte EA."
+
+#~ msgid "locales.pageCoinsAfterPayment"
+#~ msgstr "Une fois le paiement effectué avec succès, vous recevrez les instructions relatives à l'achat de cartes de joueurs. Les cartes que vous allez acheter sont au prix du marché et, ensuite, nous vous les achèterons à un prix plusieurs fois supérieur."
+
+#~ msgid "locales.pageCoinsAfterSuccessfull"
+#~ msgstr "Après un paiement réussi, nous demanderons à pouvoir accéder une seule fois à votre compte EA. Nous aurons besoin de vos adresse e-mail, mot de passe et code de sauvegarde. Sur la base de ces données, nous nous connecterons à l'appli Web FUT pour initier des achats et ventes sur le marché des transferts. Nous achèterons des cartes de joueurs au prix courant pour ensuite les mettre en vente plus cher sur le marché des transferts. Ces cartes seront enfin achetées par notre équipe de livraison."
+
+#: components/HowDelivery/Howdelivery.js:97
+msgid "locales.pageCoinsAfterSuccessfully"
+msgstr "Une fois votre commande payée, vous serez redirigé vers une page où nous vous demanderons de spécifier le solde de votre club, ensuite de quoi nous vous proposerons un joueur à l'achat. Vous devrez l'acheter sans dépasser le prix fixé, puis nous le vendre pour le prix que nous proposons."
+
+#~ msgid "locales.pageCoinsApply"
+#~ msgstr "APPLIQUER"
+
+#~ msgid "locales.pageCoinsAutomated"
+#~ msgstr "Une partie du processus de transfert de crédits de nos clubs FUT vers les vôtres est automatisée. L'algorithme que nous avons développé intègre un certain nombre de règles qui sécuriseront votre compte lors de votre commande sur notre site Web. Si vous décidez de ne pas utiliser le service après le paiement, vous pouvez reverser vos fonds en toute sécurité sur le compte utilisé pour effectuer un paiement."
+
+#~ msgid "locales.pageCoinsBeforePurchase"
+#~ msgstr "Pour procéder à votre achat de crédits sur le site Web de ROYALFUT, vous serez guidé pas à pas par l'interface de notre site Web tout au long d'un processus simple de transfert de crédits. Avant d'effectuer un achat, assurez-vous d'avoir un accès complet au compte du club pour lequel vous commandez des crédits."
+
+#~ msgid "locales.pageCoinsBestPriceIncludes"
+#~ msgstr "Le prix de base comprend :"
+
+#: pages/index.js:126
+#~ msgid "locales.pageCoinsBundles"
+#~ msgstr "Lots de crédits"
+
+#~ msgid "locales.pageCoinsBuy"
+#~ msgstr "ACHETER"
+
+#~ msgid "locales.pageCoinsBuyNow"
+#~ msgstr "ACHETER MAINTENANT"
+
+#: components/HowDelivery/Howdelivery.js:96
+msgid "locales.pageCoinsBuyPlayer"
+msgstr "ACHETEZ UN JOUEUR"
+
+#~ msgid "locales.pageCoinsCancel"
+#~ msgstr "ANNULER"
+
+#~ msgid "locales.pageCoinsCheck"
+#~ msgstr "2. Vérifier votre commande"
+
+#~ msgid "locales.pageCoinsChoose"
+#~ msgstr "3. Choisir l'option de paiement"
+
+#~ msgid "locales.pageCoinsClubBalance"
+#~ msgstr "le solde de votre club FUT doit être d'au moins 5 000 crédits ;"
+
+#~ msgid "locales.pageCoinsComfort"
+#~ msgstr "Avec le mode de livraison Transaction Confort, le processus de livraison des crédits est entièrement automatisé et ne nécessite pas votre participation. Rapide et pratique, non ?"
+
+#~ msgid "locales.pageCoinsCompensated"
+#~ msgstr "Nous ne déplacerons ni ne vendrons aucune des cartes de votre club, c'est pourquoi, pour lancer la transaction, nous avons besoin que votre solde soit d'au moins 5 000 crédits. Pour nous permettre d'acheter plusieurs cartes et de lancer le processus de livraison, il est nécessaire que vous disposiez de ce nombre de crédits. Nous compenserons entièrement les frais de l'EA applicables aux ventes réalisées sur le Marché des transferts de la FIFA, ainsi que le solde initial de crédits de votre club."
+
+#~ msgid "locales.pageCoinsCompleteTransactions"
+#~ msgstr "Pour procéder à votre achat de crédits sur le site Web de ROYALFUT, vous serez guidé pas à pas par l'interface de notre site Web tout au long d'un processus simple de transfert de crédits. Vous devrez effectuer un certain nombre de transactions sur le marché des transferts, que ce soit sur votre console par le biais du menu FIFA intégré au jeu sur votre console ou par l'interface des applications FUT Web/FUT Companion."
+
+#~ msgid "locales.pageCoinsConditions"
+#~ msgstr "Quelles sont les conditions à remplir pour pouvoir utiliser le service de recharge du crédit ?"
+
+#~ msgid "locales.pageCoinsConfirm"
+#~ msgstr "CONFIRMER"
+
+#~ msgid "locales.pageCoinsConfirmOrder"
+#~ msgstr "CONFIRMER LA COMMANDE"
+
+#: components/HowDelivery/Howdelivery.js:100
+msgid "locales.pageCoinsConfirmPlayer"
+msgstr "CONFIRMEZ UN JOUEUR"
+
+#: components/PriceCouponRedesign/PriceCouponRedesign.js:603
+msgid "locales.pageCoinsCoupon"
+msgstr "J'ai un coupon"
+
+#~ msgid "locales.pageCoinsCustomAmount"
+#~ msgstr "Custom Amount"
+
+#~ msgid "locales.pageCoinsCustomAmountLocale"
+#~ msgstr "Nombre personnalisé"
+
+#~ msgid "locales.pageCoinsDeliveringVia"
+#~ msgstr "<strong>livrés via</strong>"
+
+#~ msgid "locales.pageCoinsDelivery"
+#~ msgstr "Délai de livraison de"
+
+#~ msgid "locales.pageCoinsDeliveryMethodName"
+#~ msgstr "Mode de livraison:"
+
+#~ msgid "locales.pageCoinsDeliveryTime"
+#~ msgstr "Délai de livraison de"
+
+#~ msgid "locales.pageCoinsDiscount"
+#~ msgstr "Remise"
+
+#~ msgid "locales.pageCoinsDiscounted"
+#~ msgstr "Remise appliquée !"
+
+#~ msgid "locales.pageCoinsDiscounts"
+#~ msgstr "Remise (_%) :"
+
+#: components/HowDelivery/Howdelivery.js:70
+msgid "locales.pageCoinsDoNotEnter"
+msgstr "N'accédez pas au jeu pendant la livraison. Une fois le processus terminé, vous en serez notifié par e-mail. Contactez notre assistance pour toute question sur la durée d'exécution de votre commande."
+
+#~ msgid "locales.pageCoinsEaAccount"
+#~ msgstr "Utilisez uniquement les codes de sauvegarde à usage unique depuis les paramètres de votre <a href =\"https://myaccount.ea.com/cp-ui/security/index\" class=\"coins-description__text--under\">compte EA</a>. "
+
+#~ msgid "locales.pageCoinsEasy"
+#~ msgstr "Le mécanisme de recharge du club FUT en crédits est assez simple : acheter une carte -> vendre une carte -> recommencer. Quoi de plus simple ?"
+
+#~ msgid "locales.pageCoinsEditOrder"
+#~ msgstr "MODIFIER LA COMMANDE"
+
+#~ msgid "locales.pageCoinsEditOrders"
+#~ msgstr "MODIFIER LA COMMANDE"
+
+#: components/HowDelivery/Howdelivery.js:73
+#: components/HowDelivery/Howdelivery.js:108
+msgid "locales.pageCoinsEnjoy"
+msgstr "BON JEU !"
+
+#~ msgid "locales.pageCoinsEnterAmount"
+#~ msgstr "SAISIR LE NOMBRE"
+
+#: components/HowDelivery/Howdelivery.js:77
+#: components/HowDelivery/Howdelivery.js:112
+msgid "locales.pageCoinsFeedback"
+msgstr "Une fois la commande terminée, merci de bien vouloir nous laisser "
+
+#: components/Purchase/Purchase.js:364
+msgid "locales.pageCoinsFifa"
+msgstr "Crédits EA FC"
+
+#: components/Package/CoinsBlock.js:37
+msgid "locales.pageCoinsFifaCoins"
+msgstr " CRÉDITS FIFA"
+
+#: components/HowDelivery/Howdelivery.js:43
+msgid "locales.pageCoinsFill"
+msgstr "REMPLISSEZ LES DÉTAILS DEMANDÉS"
+
+#: components/HowDelivery/Howdelivery.js:47
+msgid "locales.pageCoinsFillBackup"
+msgstr "REMPLISSEZ LE CHAMP CODE DE SAUVEGARDE"
+
+#~ msgid "locales.pageCoinsFindVideo"
+#~ msgstr "En bas de la page, vous pouvez découvrir une vidéo décrivant le processus de recharge du club FUT en crédits à l'aide du mode de livraison des Enchères joueur."
+
+#: components/HowDelivery/Howdelivery.js:105
+msgid "locales.pageCoinsFirstPart"
+msgstr "La première partie du transfert est finie ! Répétez maintenant les étapes précédentes autant de fois que nécessaire pour terminer votre commande."
+
+#~ msgid "locales.pageCoinsFor"
+#~ msgstr "<strong> pour</strong>"
+
+#~ msgid "locales.pageCoinsGarantee"
+#~ msgstr "Garantie de 3 jours sans bannissement ni remise à zéro"
+
+#~ msgid "locales.pageCoinsGuaranteeSafe"
+#~ msgstr "Cela nous permet de garantir la sécurité de votre compte à 100 %."
+
+#~ msgid "locales.pageCoinsH"
+#~ msgstr "(X)-(Y) h"
+
+#~ msgid "locales.pageCoinsHaveNice"
+#~ msgstr "Bon shopping dans le jeu !"
+
+#~ msgid "locales.pageCoinsHello"
+#~ msgstr "BONJOUR!"
+
+#~ msgid "locales.pageCoinsHowDelivery"
+#~ msgstr "Comment va se dérouler la livraison ?"
+
+#~ msgid "locales.pageCoinsHowWillDelivery"
+#~ msgstr "Comment va se dérouler la livraison ?"
+
+#~ msgid "locales.pageCoinsImportant"
+#~ msgstr "<b>IMPORTANT!</b> "
+
+#~ msgid "locales.pageCoinsInform"
+#~ msgstr "Une fois que vous aurez renseigné les données, nous procéderons au traitement de la commande, ce qui nous prendra un peu de temps (le délai de livraison estimé sera précisé avant le paiement). Toutefois, si l'identifiant de connexion ou le mot de passe que vous nous avez fourni est incorrect ou en présence de tout autre problème qui nous empêche d'accéder à votre compte, nous vous en informerons immédiatement par courrier électronique."
+
+#~ msgid "locales.pageCoinsLockedMarket"
+#~ msgstr "Si, dans l'application Web FUT, la fonction Marché des transferts est verrouillée, passez le mode de livraison sur « Enchères joueur »."
+
+#~ msgid "locales.pageCoinsLogin"
+#~ msgstr "SE CONNECTER"
+
+#~ msgid "locales.pageCoinsLogOut"
+#~ msgstr "SE DÉCONNECTER"
+
+#~ msgid "locales.pageCoinsM"
+#~ msgstr "(X)-(Y) min"
+
+#~ msgid "locales.pageCoinsNeed1000"
+#~ msgstr "Une seule condition doit être remplie : vous devez disposer d'au moins 1 000 crédits sur le solde de votre club FUT."
+
+#~ msgid "locales.pageCoinsNotifiedEmail"
+#~ msgstr "Une fois votre commande prête, vous en serez informé par courrier électronique. Bon shopping dans le jeu !"
+
+#~ msgid "locales.pageCoinsOffers"
+#~ msgstr "ENSEMBLES DE CRÉDITS"
+
+#~ msgid "locales.pageCoinsPaymentFee"
+#~ msgstr "Frais de paiement :"
+
+#~ msgid "locales.pageCoinsPlatform"
+#~ msgstr "Plateforme"
+
+#~ msgid "locales.pageCoinsPlatform1"
+#~ msgstr "PlayStation 4 et PlayStation 5 de Sony"
+
+#~ msgid "locales.pageCoinsPlatform2"
+#~ msgstr "Xbox One et Xbox Series S, Xbox Series X"
+
+#~ msgid "locales.pageCoinsPrevPage"
+#~ msgstr "Page précédente"
+
+#~ msgid "locales.pageCoinsPrice"
+#~ msgstr "Prix"
+
+#~ msgid "locales.pageCoinsProcessAutomated"
+#~ msgstr "Le processus de transfert de crédits depuis nos clubs FUT vers les vôtres est entièrement automatisé. L'algorithme que nous avons développé prend en compte un certain nombre de règles qui sécuriseront votre compte lors de la commande sur notre site. Nous offrons une période de garantie de 3 jours, pendant laquelle vous pouvez reverser vos fonds sur le compte utilisé pour effectuer un paiement. Cette garantie est applicable si, dans les trois jours suivant l'exécution de la commande, vous êtes confronté à des sanctions de la part de l'éditeur du jeu. Si tel est le cas, contactez immédiatement notre opérateur en lui indiquant le numéro de votre commande et le motif du remboursement."
+
+#~ msgid "locales.pageCoinsReceive"
+#~ msgstr "Comment recevoir les crédits ?"
+
+#~ msgid "locales.pageCoinsRefund"
+#~ msgstr "Garantie de remboursement si vous ne pouvez pas utiliser les crédits"
+
+#~ msgid "locales.pageCoinsRegister"
+#~ msgstr "1. Vous enregistrer ou vous connecter à votre compte ROYALFUT"
+
+#: components/HowDelivery/Howdelivery.js:104
+msgid "locales.pageCoinsRepeatUntil"
+msgstr "RÉPÉTEZ JUSQU'À LA FIN DU TRANSFERT"
+
+#~ msgid "locales.pageCoinsSignUp"
+#~ msgstr "S'ENREGISTRER"
+
+#~ msgid "locales.pageCoinsStep"
+#~ msgstr "Toutes les étapes préalables à la recharge du solde de votre club FIFA Ultimate Team avec des crédits seront décrites en détail, étape par étape. Ainsi, vous ne risquez pas de vous sentir perdu :)"
+
+#: components/Package/CheckoutSticky.js:384
+msgid "locales.pageCoinsSubtotal"
+msgstr "Sous-total :"
+
+#~ msgid "locales.pageCoinsText"
+#~ msgstr "Achetez des crédits et dépensez-les en cartes de joueurs ou en lots sur FIFA Ultimate Team. Ce service est fourni aux utilisateurs de <span class=\"js-change-platform\">$ {platforms}</span>. Mais attention, si vous jouez sur une autre console, modifiez votre commande immédiatement. <span class=\"js-change-platform\">$ {platforms}</span> crédits donnent à un joueur la possibilité d'acheter diverses cartes de joueurs très bien notées dans FUT ou d'ouvrir un lot du tonnerre !"
+
+#: components/HowDelivery/Howdelivery.js:101
+msgid "locales.pageCoinsThenConfirm"
+msgstr "Confirmez ensuite que le joueur est en vente et nous vous demanderons d'identifier lequel est le vôtre. Pour le savoir, comparez le temps jusqu'à la fin de l'enchère."
+
+#: components/HowDelivery/Howdelivery.js:23
+#: components/HowDelivery/Howdelivery.js:51
+msgid "locales.pageCoinsToStart"
+msgstr "Pour lancer le processus de livraison, remplissez les champs correspondants avec vos codes de sauvegarde disponibles ici : "
+
+#~ msgid "locales.pageCoinsTotal"
+#~ msgstr "TOTAL"
+
+#~ msgid "locales.pageCoinsTotaltotal"
+#~ msgstr "Total :"
+
+#~ msgid "locales.pageCoinsToTheCheckout"
+#~ msgstr "ALLER AU PAIEMENT"
+
+#~ msgid "locales.pageCoinsTransferMarket"
+#~ msgstr "la fonction Marché des transferts doit être déverrouillée dans l'application Web FUT (uniquement pour le mode de livraison Transaction Confort)."
+
+#~ msgid "locales.pageCoinsUltimateTeam"
+#~ msgstr "<span class=\"js-change-coins\">$ {coins}</span> crédits FIFA Ultimate Team"
+
+#~ msgid "locales.pageCoinsUseInstructions"
+#~ msgstr "Toutes les opérations sont effectuées dans le strict respect du guide interactif de notre site Web avec l'aide supplémentaire du menu FIFA intégré au jeu sur votre console ou de l'interface des applications FUT Web/FUT Companion."
+
+#~ msgid "locales.pageCoinsUseService"
+#~ msgstr "Pour utiliser ce service, il vous suffit de remplir les quelques conditions suivantes :"
+
+#: components/HowDelivery/Howdelivery.js:69
+msgid "locales.pageCoinsWaitCompletion"
+msgstr "ATTENDEZ QUE VOTRE COMMANDE ABOUTISSE"
+
+#~ msgid "locales.pageCoinsYourPlatform"
+#~ msgstr "Votre plateforme:"
+
+#~ msgid "locales.pageDeliveryContent1Email"
+#~ msgstr "E-mail"
+
+#~ msgid "locales.pageDeliveryContent1Name"
+#~ msgstr "Entrer les détails de votre EA compte"
+
+#~ msgid "locales.pageDeliveryContent1Next"
+#~ msgstr "Suivant"
+
+#~ msgid "locales.pageDeliveryContent1Password"
+#~ msgstr "Mot de passe"
+
+#~ msgid "locales.pageDeliveryContent1SeePassword"
+#~ msgstr "Voir le mot de passe"
+
+#~ msgid "locales.pageDeliveryContent1Text"
+#~ msgstr "Vous avez opté pour le mode «Facile». Cela signifie que nous allons vendre des joueurs en votre nom. <br>Nous utilisons votre compte à la seule fin d'effectuer des transferts et à aucune autre. <br>Une fois votre commande terminée, nous vous recommandons de modifier le mot de passe de votre compte."
+
+#~ msgid "locales.pageDeliveryContent2Code"
+#~ msgstr "Entrer le code"
+
+#~ msgid "locales.pageDeliveryContent2CodePlaceholder"
+#~ msgstr "Code de sauvegarde"
+
+#~ msgid "locales.pageDeliveryContent2Name"
+#~ msgstr "Entrer le code à 8 chiffres"
+
+#~ msgid "locales.pageDeliveryContent2Next"
+#~ msgstr "Suivant"
+
+#~ msgid "locales.pageDeliveryContent2Text"
+#~ msgstr "Pour obtenir ce code, allez sur <a href=\"https://myaccount.ea.com/cp-ui/security/index\" rel=\"noindex, nofollow\" target=\"_blank\">myaccount.ea.com</a>, à la page «Sécurité» dans la rubrique «Code de sauvegarde»"
+
+#~ msgid "locales.pageDeliveryContent3Name"
+#~ msgstr "Compte en cours d'utilisation"
+
+#~ msgid "locales.pageDeliveryContent3Process1"
+#~ msgstr "N'utilisez pas votre compte pendant le transfert"
+
+#~ msgid "locales.pageDeliveryContent3Process2"
+#~ msgstr "Vous pouvez quitter cette page. Nous vous enverrons un e-mail dès que votre commande sera terminée."
+
+#~ msgid "locales.pageDeliveryContentButtonReload"
+#~ msgstr "Commençons le transfert !"
+
+#~ msgid "locales.pageDeliveryFormSuccess"
+#~ msgstr "Commande expédiée, état de la commande: <span class=\"status\"></span>"
+
+#~ msgid "locales.pageDeliveryFormSuccessBtn"
+#~ msgstr "Afficher les commandes"
+
+#~ msgid "locales.pageDeliveryName"
+#~ msgstr "LIVRAISON <div class=\"site__tab-name-content\">de votre commande №<span></span></div>"
+
+#~ msgid "locales.pageDeliveryTab1"
+#~ msgstr "Compte <br class=\"for-mobile\">du jeu"
+
+#~ msgid "locales.pageDeliveryTab2"
+#~ msgstr "Codes <br class=\"for-mobile\">de sauvegarde"
+
+#~ msgid "locales.pageDeliveryTab3"
+#~ msgstr "Traitement <br class=\"for-mobile\">en cours"
+
+#~ msgid "locales.pageDeliveryTab4"
+#~ msgstr "Terminé"
+
+#~ msgid "locales.pageMethodCard1Name"
+#~ msgstr "Transaction confort"
+
+#~ msgid "locales.pageMethodCard1Text"
+#~ msgstr "Seules les informations relatives à votre compte FUT 22 sont requises. Nous nous occupons du reste."
+
+#~ msgid "locales.pageMethodCard2Name"
+#~ msgstr "Enchères joueur"
+
+#~ msgid "locales.pageMethodCard2Text"
+#~ msgstr "Vous devrez suivre les instructions fournies. Rapide, sûr, mais manuel. "
+
+#~ msgid "locales.pageMethodCard2Text2"
+#~ msgstr "Ne fonctionne pas avec les commandes supérieures à 1 million de pièces"
+
+#: components/PageChanger/PageChanger.js:92
+msgid "locales.pageMethodCardSoon"
+msgstr "Bientôt disponible"
+
+#~ msgid "locales.pageMethodName"
+#~ msgstr "MODE DE LIVRAISON"
+
+#~ msgid "locales.pageMethodRecomend"
+#~ msgstr "conseillé"
+
+#~ msgid "locales.pageOrderNext"
+#~ msgstr "Continuer"
+
+#~ msgid "locales.pagePaymentMethodAntiBan"
+#~ msgstr "Anti-Ban system"
+
+#~ msgid "locales.pagePaymentMethodAntiBanLocale"
+#~ msgstr "SYSTÈME ANTI-BANNISSEMENT"
+
+#~ msgid "locales.pagePaymentMethodCard3d"
+#~ msgstr "Carte + 3D Secure"
+
+#~ msgid "locales.pagePaymentMethodCheckout"
+#~ msgstr "Accès à la caisse"
+
+#~ msgid "locales.pagePaymentMethodCoupon"
+#~ msgstr "Coupon"
+
+#~ msgid "locales.pagePaymentMethodCouponApply"
+#~ msgstr "cliquez sur APPLIQUER"
+
+#~ msgid "locales.pagePaymentMethodCouponHave"
+#~ msgstr "Si vous avez un coupon"
+
+#~ msgid "locales.pagePaymentMethodDelivery"
+#~ msgstr "Livraison en 1 à 2 h"
+
+#~ msgid "locales.pagePaymentMethodGuarantee"
+#~ msgstr "Garanti 3 jours"
+
+#~ msgid "locales.pagePaymentMethodMore"
+#~ msgstr "Autres moyens de paiement"
+
+#: pages/payments.js:28
+msgid "locales.pagePaymentMethodName"
+msgstr "PAIEMENT"
+
+#~ msgid "locales.pagePaymentMethodPay"
+#~ msgstr "Paiement par carte"
+
+#~ msgid "locales.pagePaymentMethodPayOther"
+#~ msgstr "Payer avec quelque chose"
+
+#~ msgid "locales.pagePaymentMethodPayPal"
+#~ msgstr "Paiement par PayPal"
+
+#: components/Garantee/Garantee.js:74
+msgid "locales.pagePaymentMethodSafe"
+msgstr "PAIEMENTS 100 % SÉCURISÉS"
+
+#~ msgid "locales.pagePaymentMethodTaxesCovered"
+#~ msgstr "Taxes covered"
+
+#~ msgid "locales.pagePaymentMethodTaxesCoveredLocale"
+#~ msgstr "AUCUN FRAIS DE COMMISSION"
+
+#: pages/coins/index.js:147
+msgid "locales.pagePaymentMethodTitle"
+msgstr "OFFRES DE LOT"
+
+#~ msgid "locales.pagePaymentMethodTotalAmount"
+#~ msgstr "Nombre total"
+
+#~ msgid "locales.pagePlatformMark"
+#~ msgstr "NOUVEAU!"
+
+#~ msgid "locales.pagePlatformName"
+#~ msgstr "Plateforme"
+
+#~ msgid "locales.pagePlatformName2"
+#~ msgstr "Plateforme"
+
+#: components/Profile/Profile.js:192
+msgid "locales.password"
+msgstr "Mot de passe"
+
+#~ msgid "locales.payment_p1"
+#~ msgstr " accepte les paiements en euros. Seuls les utilisateurs enregistrés peuvent effectuer des paiements sur le site."
+
+#~ msgid "locales.payment_p2_1"
+#~ msgstr "Les paiements sont effectués par le biais du systèmes de paiement internationaux "
+
+#~ msgid "locales.payment_p2_2"
+#~ msgstr " et "
+
+#~ msgid "locales.payment_p2_3"
+#~ msgstr ". Notre système accepte tous les paiements effectués par carte bancaire, quel que soit votre pays ou la banque d'émission de la votre carte. Lors du paiement d'une commande, vous êtes à même de choisir le mode de paiement qui vous convient le mieux."
+
+#: components/Auth/Auth copy 2.js:113
+#: components/Auth/Auth.js:168
+#~ msgid "locales.paymentsLanguage"
+#~ msgstr "fr-FR"
+
+#: components/Order/StickySecondStep.js:445
+#: components/Order/StickySecondStep.js:454
+#: components/Package/CheckoutSticky.js:502
+#: components/Package/CheckoutSticky.js:510
+#: components/Purchase/Purchase.js:609
+#: components/Purchase/Purchase.js:631
+msgid "locales.payNow"
+msgstr "Payer maintenant"
+
+#: components/Order/StepSecondContent.js:49
+#: components/Package/Checkout.js:23
+#: pages/coins/[id].js:301
+#: pages/coins/index.js:155
+msgid "locales.platform"
+msgstr "Plateforme"
+
+#~ msgid "locales.platformLogin"
+#~ msgstr "Platform / Login"
+
+#~ msgid "locales.platformName"
+#~ msgstr "Your platform:"
+
+#~ msgid "locales.price"
+#~ msgstr "Prix"
+
+#: components/PrivacyContent/PrivacyContent.js:34
+msgid "locales.privacya1"
+msgstr "Le consentement est donné dès le moment où le Détenteur des données personnelles est inscrit sur "
+
+#: components/PrivacyContent/PrivacyContent.js:46
+msgid "locales.privacya2"
+msgstr "Si vous souhaitez supprimer votre compte RoyalFUT, veuillez envoyer la demande à "
+
+#: components/BurgerMenu/BurgerMenu.js:302
+msgid "locales.profile"
+msgstr "Profil"
+
+#~ msgid "locales.profileCodesErrors"
+#~ msgstr "Veuillez entrer le code de sauvegarde qui doit comporter au moins 8 caractères."
+
+#~ msgid "locales.profileFormSuccess"
+#~ msgstr "L'ordre est changé, le statut"
+
+#~ msgid "locales.profileNotify"
+#~ msgstr "LIVRAISON de votre commande №xxxxx"
+
+#~ msgid "locales.quick_order"
+#~ msgstr "Commande rapide"
+
+#~ msgid "locales.reportProblem"
+#~ msgstr "Signaler un problème"
+
+#: components/ReviewsGallery/ReviewsGallery.js:91
+msgid "locales.reviews"
+msgstr "avis"
+
+#: components/TableOrders/TableOrderBody.js:779
+#: components/TableOrders/TableOrderBody.js:808
+msgid "locales.saveChanges"
+msgstr "ENREGISTRER LES MODIFICATIONS"
+
+#: components/BurgerMenu/BurgerMenu.js:409
+#: components/TableOrders/TableOrderBody.js:330
+#: components/TableOrders/TableOrderBody.js:558
+msgid "locales.seePassword"
+msgstr "Voir le mot de passe"
+
+#~ msgid "locales.seo0"
+#~ msgstr "Nous proposons les meilleures offres pour les crédits FIFA pour PlayStation 4. Nous proposons des crédits FIFA PS4 à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS."
+
+#~ msgid "locales.seo1"
+#~ msgstr "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour PS4 chez nous en étant sûr(e) de bénéficier de la meilleure offre."
+
+#~ msgid "locales.seo10"
+#~ msgstr "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour Xbox Série X/S chez nous en étant sûr(e) de bénéficier de la meilleure offre."
+
+#~ msgid "locales.seo11"
+#~ msgstr "L'achat de crédits EA FC 25 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+
+#~ msgid "locales.seo2"
+#~ msgstr "L'achat de crédits EA FC 25 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+
+#~ msgid "locales.seo3"
+#~ msgstr "Nous proposons les meilleures offres pour les crédits FIFA pour PlayStation 5. Nous proposons des crédits FIFA PS5 à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS."
+
+#~ msgid "locales.seo4"
+#~ msgstr "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour PS5 chez nous en étant sûr(e) de bénéficier de la meilleure offre."
+
+#~ msgid "locales.seo5"
+#~ msgstr "L'achat de crédits EA FC 25 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+
+#~ msgid "locales.seo6"
+#~ msgstr "Nous proposons les meilleures offres pour les crédits FIFA pour Xbox One. Nous proposons des crédits FIFA à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS."
+
+#~ msgid "locales.seo7"
+#~ msgstr "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour Xbox 1 chez nous en étant sûr(e) de bénéficier de la meilleure offre."
+
+#~ msgid "locales.seo8"
+#~ msgstr "L'achat de crédits EA FC 25 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+
+#~ msgid "locales.seo9"
+#~ msgstr "Nous proposons les meilleures offres pour les crédits FIFA pour Xbox Série X. De plus, nous proposons des crédits FIFA pour Xbox Série S à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS."
+
+#~ msgid "locales.seot1_ps4"
+#~ msgstr "Nous proposons les meilleures offres pour les crédits FIFA pour PlayStation 4. Nous proposons des crédits FIFA PS4 à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS."
+
+#~ msgid "locales.seot1_ps5"
+#~ msgstr "Nous proposons les meilleures offres pour les crédits FIFA pour PlayStation 5. Nous proposons des crédits FIFA PS5 à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS."
+
+#~ msgid "locales.seot1_xb"
+#~ msgstr "Nous proposons les meilleures offres pour les crédits FIFA pour Xbox One. Nous proposons des crédits FIFA à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS."
+
+#~ msgid "locales.seot1_xbxs"
+#~ msgstr "Nous proposons les meilleures offres pour les crédits FIFA pour Xbox Série X. De plus, nous proposons des crédits FIFA pour Xbox Série S à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS."
+
+#~ msgid "locales.seot2_ps4"
+#~ msgstr "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour PS4 chez nous en étant sûr(e) de bénéficier de la meilleure offre."
+
+#~ msgid "locales.seot2_ps5"
+#~ msgstr "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour PS5 chez nous en étant sûr(e) de bénéficier de la meilleure offre."
+
+#~ msgid "locales.seot2_xb"
+#~ msgstr "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour Xbox 1 chez nous en étant sûr(e) de bénéficier de la meilleure offre."
+
+#~ msgid "locales.seot2_xbxs"
+#~ msgstr "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour Xbox Série X/S chez nous en étant sûr(e) de bénéficier de la meilleure offre."
+
+#~ msgid "locales.seot3_ps4"
+#~ msgstr "L'achat de crédits EA FC 25 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+
+#~ msgid "locales.seot3_ps5"
+#~ msgstr "L'achat de crédits EA FC 25 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+
+#~ msgid "locales.seot3_xb"
+#~ msgstr "L'achat de crédits EA FC 25 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+
+#~ msgid "locales.seot3_xbxs"
+#~ msgstr "L'achat de crédits EA FC 25 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+
+#: components/Profile/Profile.js:160
+msgid "locales.settings"
+msgstr "Paramètres"
+
+#~ msgid "locales.sidebarAllLink"
+#~ msgstr "Tous les commentaires"
+
+#~ msgid "locales.sidebarTitle"
+#~ msgstr "Les dernières critiques"
+
+#~ msgid "locales.sidebarTrust"
+#~ msgstr "fr-FR"
+
+#~ msgid "locales.sidebarTrustWidth"
+#~ msgstr "219px"
+
+#~ msgid "locales.specOfferTitle"
+#~ msgstr "Ne passez pas à côté de notre offre spéciale"
+
+#: pages/coins/index.js:250
+#: pages/coins/index.js:337
+msgid "locales.startSave"
+msgstr "Commencez à gagner beaucoup de temps avec le tout nouvel outil de nos amis !"
+
+#: components/TableOrders/StatusInfo.js:19
+msgid "locales.status"
+msgstr "Statut"
+
+#~ msgid "locales.status.accepted"
+#~ msgstr "acceptée"
+
+#~ msgid "locales.status.created"
+#~ msgstr "CRÉÉE"
+
+#~ msgid "locales.status.customer_online"
+#~ msgstr "compte FIFA actuellement en cours d'utilisation"
+
+#~ msgid "locales.status.error_fut"
+#~ msgstr "ERREUR FUT"
+
+#~ msgid "locales.status.error_payment"
+#~ msgstr "ÉCHEC DU PAIEMENT"
+
+#~ msgid "locales.status.finished"
+#~ msgstr "TERMINÉ"
+
+#~ msgid "locales.status.fut_error"
+#~ msgstr "ERREUR FUT"
+
+#~ msgid "locales.status.issued_refund"
+#~ msgstr "ANNULÉ"
+
+#~ msgid "locales.status.locked"
+#~ msgstr "verrouillé"
+
+#~ msgid "locales.status.no_access_to_fifa_21_webapp"
+#~ msgstr "Aucun accès à APPLICATION WEB EA FC 25"
+
+#~ msgid "locales.status.no_enough_coins_to_start"
+#~ msgstr "PAS ASSEZ DE Crédits POUR COMMENCER"
+
+#~ msgid "locales.status.no_enough_stock"
+#~ msgstr "PAS ASSEZ DE Crédits"
+
+#~ msgid "locales.status.not_enough_coins_to_start"
+#~ msgstr "PAS ASSEZ DE Crédits POUR COMMENCER"
+
+#~ msgid "locales.status.not_enough_stock"
+#~ msgstr "PAS ASSEZ DE Crédits"
+
+#~ msgid "locales.status.out_of_stock"
+#~ msgstr "RUPTURE DE STOCK"
+
+#~ msgid "locales.status.payed"
+#~ msgstr "PAYÉE"
+
+#~ msgid "locales.status.payment_failed"
+#~ msgstr "ÉCHEC DU PAIEMENT"
+
+#~ msgid "locales.status.progress"
+#~ msgstr "EN COURS"
+
+#~ msgid "locales.status.success"
+#~ msgstr "Succès"
+
+#~ msgid "locales.status.waiting_payment"
+#~ msgstr "EN ATTENTE DE PAIEMENT"
+
+#~ msgid "locales.status.warning"
+#~ msgstr "Avertissement"
+
+#~ msgid "locales.status.wrong_backup"
+#~ msgstr "CODE DE SAUVEGARDE ERRONÉ"
+
+#~ msgid "locales.status.wrong_credentials"
+#~ msgstr "IDENTIFIANTS ERRONÉS"
+
+#~ msgid "locales.sublogo"
+#~ msgstr "Crédits EA FC 25"
+
+#~ msgid "locales.sublogo2"
+#~ msgstr "Articles pour EA FC 25"
+
+#~ msgid "locales.succPaid"
+#~ msgstr "Votre commande a été payée avec succès !"
+
+#: components/TermsContent/TermsContent.js:18
+msgid "locales.terms_text"
+msgstr "Veuillez lire attentivement l’Accord utilisateur qui suit. Si vous n’acceptez pas l’un des articles du présent Accord utilisateur, vous n’êtes pas autorisé à confirmer votre inscription, utiliser tout service fourni par https://royalfut.com, ni vendre, acheter ou échanger des biens par l’intermédiaire de cette plateforme d’échanges."
+
+#: components/TermsContent/TermsContent.js:53
+msgid "locales.termsa1"
+msgstr "Conditions générales du 01.10.2020 (01.10.2020 - 07.02.2021)"
+
+#: components/TermsContent/TermsContent.js:63
+msgid "locales.termsa2"
+msgstr "Conditions générales du 08.02.2021 (08.02.2021 - 03.06.2021)"
+
+#: components/TermsContent/TermsContent.js:73
+msgid "locales.termsa3"
+msgstr "Politique de confidentialité du 01.10.2020 (01.10.2020 - 07.02.2021)"
+
+#~ msgid "locales.toDay"
+#~ msgstr "Aujourd'hui"
+
+#~ msgid "locales.totsPromoText"
+#~ msgstr "ÉQUIPE DE LA SAISON <b>- 18% de réduction</b> sur les frais de transaction - utilisez <span class=\"color\">le code promotionnel :  <b>TOTSY</b></span>"
+
+#: components/TableOrders/StatusInfo.js:117
+#: components/TableOrders/TableItem.js:846
+msgid "locales.transferred"
+msgstr "Pièces transférées"
+
+#: components/HowDelivery/Howdelivery.js:85
+#: components/HowDelivery/Howdelivery.js:120
+msgid "locales.trustcom"
+msgstr "une évaluation. "
+
+#~ msgid "locales.trySbc"
+#~ msgstr "Essayez gratuitement l'outil de résolution des défis de création d'équipes, le SBC Solver, dès maintenant !"
+
+#: pages/index.js:117
+#~ msgid "locales.tryThese"
+#~ msgstr "Essayez également ces options"
+
+#: components/HowDelivery/Howdelivery.js:34
+#: components/HowDelivery/Howdelivery.js:63
+msgid "locales.unused"
+msgstr " . Nous n'avons besoin que d'un seul code inutilisé pour activer la livraison de votre commande."
+
+#: components/Profile/Profile.js:208
+msgid "locales.update"
+msgstr "METTRE À JOUR"
+
+#~ msgid "locales.upto1m"
+#~ msgstr "Jusqu'à 1 m de crédits"
+
+#: components/TermsContent/TermsContent.js:21
+msgid "locales.user_agreement"
+msgstr "Accord utilisateur"
+
+#: components/TableOrders/TableOrderBody.js:746
+msgid "locales.wrong_backup"
+msgstr "CODE DE SAUVEGARDE ERRONÉ"
+
+#~ msgid "locales.wrongCode"
+#~ msgstr "CODE DE SAUVEGARDE ERRONÉ"
+
+#~ msgid "locales.wrongCredentials"
+#~ msgstr "IDENTIFIANTS ERRONÉS"
+
+#~ msgid "locales.yesterDay"
+#~ msgstr "Hier"
+
+#~ msgid "locales.youLogged"
+#~ msgstr "Vous êtes connecté avec succès avec votre nom d'utilisateur"
+
+#: components/Profile/RoyalRanging.js:1422
+#: components/Profile/RoyalRanging.js:1452
+msgid "locked"
+msgstr "Verrouillé"
+
+#: components/Profile/Profile.js:171
+msgid "loyalty program"
+msgstr "Programme de fidélité"
+
+#: components/Carusel/Carusel.js:109
+#: components/Carusel/Carusel.js:139
+msgid "mainblocks0"
+msgstr "Créez votre équipe de rêve dès maintenant"
+
+#: components/Carusel/Carusel.js:110
+#: components/Carusel/Carusel.js:140
+msgid "mainblocks1"
+msgstr "Avec les crédits EA Sports FC 25, vous êtes libre de choisir les meilleures options possibles pour chaque poste de votre équipe. Laissez libre cours à votre imagination, essayez de nouvelles choses !"
+
+#: components/Carusel/Carusel.js:87
+#: components/Modal/Modal.js:169
+#: components/Package/IdCard.js:135
+#: components/Package/PackageCard.js:144
+#: pages/coins/index.js:234
+#: pages/coins/index.js:321
+msgid "mainblocks10"
+msgstr "Acheter des crédits"
+
+#: components/FaqMain/FaqMain.js:159
+msgid "mainblocks11"
+msgstr "D'autres questions ?"
+
+#: components/Footer/Footer.js:102
+msgid "mainblocks12"
+msgstr "Nos réseaux sociaux"
+
+#~ msgid "mainblocks13"
+#~ msgstr "Notre fournisseur"
+
+#~ msgid "mainblocks14"
+#~ msgstr "de crédits et services"
+
+#~ msgid "mainblocks15"
+#~ msgstr "EA FC 25"
+
+#: components/H1/H1.js:10
+msgid "mainblocks16"
+msgstr "Là où aller pour"
+
+#: components/H1/H1.js:13
+msgid "mainblocks17"
+msgstr "acheter crédits"
+
+#: components/H1/H1.js:16
+msgid "mainblocks18"
+msgstr "et services FC 25"
+
+#~ msgid "mainblocks19"
+#~ msgstr "Votre boutique"
+
+#: components/Carusel/Carusel.js:121
+#: components/Carusel/Carusel.js:151
+msgid "mainblocks2"
+msgstr "Obtenez la carte de votre choix"
+
+#~ msgid "mainblocks20"
+#~ msgstr "incontournable de crédits"
+
+#~ msgid "mainblocks21"
+#~ msgstr "FC 25 Ultimate Team"
+
+#: components/Offer/Offer.js:29
+msgid "mainblocks22"
+msgstr "La solution la plus sûre pour"
+
+#: components/Offer/Offer.js:32
+msgid "mainblocks23"
+msgstr "acheter des crédits FIFA 25"
+
+#: components/ReviewsGallery/ReviewsGallery.js:71
+msgid "mainblocks24"
+msgstr "Ce que disent nos clients"
+
+#~ msgid "mainblocks25"
+#~ msgstr "Note de __"
+
+#~ msgid "mainblocks26"
+#~ msgstr "Sur la base de __ avis"
+
+#: components/ReviewsGallery/ReviewsGallery.js:99
+msgid "mainblocks27"
+msgstr "Excellent"
+
+#: components/ReviewsGallery/ReviewsGallery.js:113
+msgid "mainblocks28"
+msgstr "Entreprise vérifiée"
+
+#~ msgid "mainblocks29"
+#~ msgstr ""
+
+#: components/Carusel/Carusel.js:122
+#: components/Carusel/Carusel.js:152
+msgid "mainblocks3"
+msgstr "Les joueurs les plus convoités de l'Ultimate Team seront enfin à votre portée. Commencez à collectionner les cartes les plus recherchées de toutes les promotions de FC UT sans jamais vous en priver !"
+
+#: components/Carusel/Carusel.js:115
+#: components/Carusel/Carusel.js:145
+msgid "mainblocks4"
+msgstr "Découvrez les aspects du jeu avec des cartes hautement cotées"
+
+#: components/Carusel/Carusel.js:116
+#: components/Carusel/Carusel.js:146
+msgid "mainblocks5"
+msgstr "Vivez une nouvelle expérience en utilisant des joueurs de haut niveau avec différentes combinaisons de PlayStyles+ qui affectent le gameplay dans Ultimate Team."
+
+#: components/Carusel/Carusel.js:103
+#: components/Carusel/Carusel.js:133
+msgid "mainblocks6"
+msgstr "Hissez-vous aux rangs les plus élevés"
+
+#: components/Carusel/Carusel.js:104
+#: components/Carusel/Carusel.js:134
+msgid "mainblocks7"
+msgstr "En jouant avec les meilleures cartes de joueur dans votre arsenal, vous empruntez un chemin direct vers la gloire, l'accession aux premiers rangs et les récompenses les plus importantes."
+
+#: components/Carusel/Carusel.js:127
+#: components/Carusel/Carusel.js:157
+msgid "mainblocks8"
+msgstr "Jouez maintenant - ne perdez pas votre temps à vous ruiner en crédits."
+
+#: components/Carusel/Carusel.js:128
+#: components/Carusel/Carusel.js:158
+msgid "mainblocks9"
+msgstr "Oubliez les frustrations liées à la collecte de crédits et consacrez votre temps précieux à ce qui compte vraiment : le jeu lui-même !"
+
+#: components/Infografic/Infografic.js:51
+msgid "min"
+msgstr "min."
+
+#: pages/coins/[id].js:216
+msgid "minutes"
+msgstr "minutes"
+
+#~ msgid "Netherlands"
+#~ msgstr "Pays-Bas"
+
+#: components/Cookie/Cookie.js:35
+msgid "newcookies"
+msgstr "🍪 Nous utilisons des cookies pour améliorer votre expérience sur notre site."
+
+#: components/Cookie/Cookie.js:38
+msgid "newcookieslink"
+msgstr "Détails"
+
+#~ msgid "newh1_1"
+#~ msgstr "La solution la plus sûre pour acheter"
+
+#~ msgid "newh1_2"
+#~ msgstr "des crédits "
+
+#~ msgid "newh1_3"
+#~ msgstr "FC 25"
+
+#: components/MainFunnel/MainFunnel.js:46
+msgid "newh1_4"
+msgstr "des crédits FC 25"
+
+#: components/Cookie/Cookie.js:52
+msgid "okay"
+msgstr "D'accord"
+
+#~ msgid "orderh1"
+#~ msgstr "Buy FC 25 Ultimate Team coins"
+
+#~ msgid "orderinfo"
+#~ msgstr "Order info"
+
+#: components/Infografic/Infografic.js:34
+msgid "orders to our customers"
+msgstr "commandes à nos clients"
+
+#~ msgid "orderstep2"
+#~ msgstr "Checkout"
+
+#~ msgid "orderstep3"
+#~ msgstr "Delivery"
+
+#: components/Header/Header.js:69
+msgid "pageCoinsBundles"
+msgstr "Lots de crédits"
+
+#: components/MainFunnel/StickySecondStep.js:157
+msgid "payNow"
+msgstr "Payer maintenant"
+
+#~ msgid "pl_upd0"
+#~ msgstr "Marché des transferts bloqué"
+
+#~ msgid "pl_upd1"
+#~ msgstr "L'utilisation du marché des transferts de l'application Web FC Ultimate Team a été suspendue sur votre compte. Soumettez les détails de votre autre compte sur lequel le marché des transferts n'est pas bloqué, si vous en avez un, ou contactez notre équipe d'assistance pour trouver une autre solution"
+
+#~ msgid "pl_upd10"
+#~ msgstr "Renvoyer l'e-mail"
+
+#~ msgid "pl_upd11"
+#~ msgstr "[[X]] s"
+
+#~ msgid "pl_upd12"
+#~ msgstr "Code incorrect"
+
+#~ msgid "pl_upd13"
+#~ msgstr "Vous êtes connecté(e) en tant que [[X]]"
+
+#: components/LoyaltyProgram/MainLoyalty.js:30
+msgid "pl_upd14"
+msgstr "Comment fonctionne notre programme de fidélité ?"
+
+#: components/LoyaltyProgram/MainLoyalty.js:33
+msgid "pl_upd15"
+msgstr "Chaque achat vous propulse dans le monde des prodiges du football ! Embarquez dans une aventure numérique passionnante, pleine d'achats, de gains, de dépenses et de franchissements de niveaux !"
+
+#: components/LoyaltyProgram/MainLoyalty.js:40
+msgid "pl_upd16"
+msgstr "Utilisateurs participant déjà à notre programme de fidélité"
+
+#: components/LoyaltyProgram/MainLoyalty.js:46
+msgid "pl_upd17"
+msgstr "ROYAL Points ont déjà été gagnés par nos clients"
+
+#: components/GuideContent/StickyCoupon.js:32
+#: components/LoyaltyProgram/MainLoyalty.js:54
+msgid "pl_upd18"
+msgstr "Acheter des crédits"
+
+#: components/LoyaltyProgram/MainLoyalty.js:57
+msgid "pl_upd19"
+msgstr "Faites l'acquisition de crédits rutilants pour améliorer votre expérience de jeu et libérer tout le potentiel de l'Ultimate Team !"
+
+#~ msgid "pl_upd2"
+#~ msgstr "Se connecter ou s'enregistrer"
+
+#: components/LoyaltyProgram/MainLoyalty.js:64
+msgid "pl_upd20"
+msgstr "Gagner des ROYAL Points"
+
+#: components/LoyaltyProgram/MainLoyalty.js:67
+msgid "pl_upd21"
+msgstr "Récupérez des ROYAL Points à chacun de vos achats de crédits sur notre site Web et débloquez des avantages supplémentaires en accédant à de nouveaux niveaux de fidélité."
+
+#: components/LoyaltyProgram/MainLoyalty.js:73
+msgid "pl_upd22"
+msgstr "Dépenser vos ROYAL Points"
+
+#: components/LoyaltyProgram/MainLoyalty.js:76
+msgid "pl_upd23"
+msgstr "Lors de votre achat suivant, échangez vos ROYAL Points et profitez d'une réduction sur vos recharges de crédits !"
+
+#: components/LoyaltyProgram/MainLoyalty.js:85
+msgid "pl_upd24"
+msgstr "Acheter des crédits"
+
+#: components/LoyaltyProgram/MainLoyalty.js:95
+msgid "pl_upd25"
+msgstr "Plus d'informations sur les ROYAL Points"
+
+#: components/Order/OrderDeliveryPlug.js:20
+msgid "pl_upd26"
+msgstr "Informations sur la livraison"
+
+#: components/Order/OrderDeliveryPlug.js:24
+msgid "pl_upd27"
+msgstr "Pour lancer le processus de livraison, vous devrez fournir les détails de votre compte EA. Les crédits seront livrés au club Ultimate Team associé à votre compte EA."
+
+#: components/LoyaltyProgram/RoyalPointsInfo.js:27
+msgid "pl_upd28"
+msgstr "Voici notre tout nouveau système de fidélité basé sur le cashback : gagnez des points chaque fois que vous faites un achat, dépensez-les à l'occasion de vos commandes ultérieures et accédez à de nouveaux niveaux pour bénéficier d'avantages supplémentaires."
+
+#: components/LoyaltyProgram/RoyalPointsInfo.js:32
+msgid "pl_upd29"
+msgstr "En savoir plus"
+
+#~ msgid "pl_upd3"
+#~ msgstr "Saisissez votre adresse e-mail pour vous connecter ou créer un compte"
+
+#~ msgid "pl_upd30"
+#~ msgstr "Sous-total"
+
+#: components/Package/CheckoutSticky.js:414
+msgid "pl_upd31"
+msgstr "Ne pas utiliser"
+
+#: components/Package/CheckoutSticky.js:425
+msgid "pl_upd32"
+msgstr "Utiliser "
+
+#~ msgid "pl_upd33"
+#~ msgstr "Prix total"
+
+#: components/Package/CheckoutSticky.js:469
+msgid "pl_upd34"
+msgstr "Connectez-vous pour bénéficier du cashback"
+
+#: components/Package/CheckoutSticky.js:468
+msgid "pl_upd35"
+msgstr "Votre cashback pour cette commande"
+
+#: components/Package/CheckoutSticky.js:397
+msgid "pl_upd36"
+msgstr "Réduction liée aux ROYAL Points"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:146
+#: components/LoyaltyProgram/RoyalPointsInfo.js:24
+msgid "pl_upd37"
+msgstr "ROYAL Points"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:149
+msgid "pl_upd38"
+msgstr "Couvrez une partie du prix de la commande avec les points de cashback reçus lors d'achats précédents. Débloquez des avantages supplémentaires à chaque nouveau niveau atteint."
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:160
+msgid "pl_upd39"
+msgstr "Niveaux du programme de fidélité"
+
+#~ msgid "pl_upd4"
+#~ msgstr "Vous recevrez un lien d'autorisation permettant de vérifier l'adresse e-mail fournie, ainsi qu'un code unique à 6 chiffres avec lequel vous pourrez vous connecter en toute sécurité"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:207
+msgid "pl_upd40"
+msgstr "Votre niveau"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:218
+msgid "pl_upd41"
+msgstr "Conditions"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:222
+msgid "pl_upd42"
+msgstr "[[x]] achats sur le site Web"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:225
+msgid "pl_upd43"
+msgstr "[[x]] crédits achetés en tout"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:234
+msgid "pl_upd44"
+msgstr "Avantages"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:238
+msgid "pl_upd45"
+msgstr "[[x]]% de cashback reçus pour chaque achat"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:241
+msgid "pl_upd46"
+msgstr "Jusqu'à [[x]]% du montant de la commande peuvent être payés avec des ROYAL Points."
+
+#: pages/profile.js:55
+msgid "pl_upd49"
+msgstr "Votre profil"
+
+#~ msgid "pl_upd5"
+#~ msgstr "Votre adresse e-mail"
+
+#: components/Profile/RoyalPoints.js:55
+msgid "pl_upd50"
+msgstr "Solde de vos Royal Points"
+
+#: components/Profile/RoyalPoints.js:83
+msgid "pl_upd51"
+msgstr "Couvrez une partie du prix de la commande avec les points de cashback reçus lors d'achats précédents. Débloquez des avantages supplémentaires à chaque nouveau niveau atteint."
+
+#: components/Profile/RoyalRanging.js:75
+msgid "pl_upd52"
+msgstr "Votre niveau actuel de fidélité"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:76
+msgid "pl_upd53"
+msgstr "Bronze"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:80
+msgid "pl_upd54"
+msgstr "Argent"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:84
+msgid "pl_upd55"
+msgstr "Or"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:88
+msgid "pl_upd56"
+msgstr "Inform"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:92
+msgid "pl_upd57"
+msgstr "Héros"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:96
+msgid "pl_upd58"
+msgstr "Icône"
+
+#: components/Profile/RoyalRanging.js:116
+#: components/Profile/RoyalRanging.js:202
+#: components/Profile/RoyalRanging.js:311
+#: components/Profile/RoyalRanging.js:388
+#: components/Profile/RoyalRanging.js:496
+#: components/Profile/RoyalRanging.js:602
+#: components/Profile/RoyalRanging.js:744
+#: components/Profile/RoyalRanging.js:879
+#: components/Profile/RoyalRanging.js:1053
+#: components/Profile/RoyalRanging.js:1188
+msgid "pl_upd59"
+msgstr "Nombre d'achats nécessaires pour accéder au niveau suivant"
+
+#~ msgid "pl_upd6"
+#~ msgstr "Envoyer l'e-mail d'autorisation"
+
+#: components/Profile/RoyalRanging.js:1366
+msgid "pl_upd60"
+msgstr "Total des crédits achetés"
+
+#: components/Profile/RoyalRanging.js:1422
+#: components/Profile/RoyalRanging.js:1452
+msgid "pl_upd61"
+msgstr "Cashback dont vous"
+
+#: components/Profile/RoyalRanging.js:1427
+msgid "pl_upd62"
+msgstr "avez bénéficié lors de chacun de vos achats"
+
+#~ msgid "pl_upd63"
+#~ msgstr "Niveau suivant à atteindre pour recevoir plus"
+
+#~ msgid "pl_upd64"
+#~ msgstr "Valeur maximale possible"
+
+#: components/Profile/RoyalRanging.js:1457
+msgid "pl_upd65"
+msgstr "du montant de la commande peuvent être payés avec des ROYAL Points."
+
+#: components/Profile/PointsHistory.js:69
+msgid "pl_upd66"
+msgstr "Historique des ROYAL Points"
+
+#~ msgid "pl_upd69"
+#~ msgstr "Achetez plus de crédits pour débloquer ce niveau"
+
+#~ msgid "pl_upd7"
+#~ msgstr "Saisir le code à 6 chiffres"
+
+#~ msgid "pl_upd70"
+#~ msgstr "Effectuez d'autres achats pour débloquer le niveau suivant"
+
+#: components/Profile/RoyalRanging.js:75
+msgid "pl_upd71"
+msgstr "Effectuez d'autres achats et achetez plus de crédits pour débloquer ce niveau"
+
+#~ msgid "pl_upd72"
+#~ msgstr "Non payée"
+
+#~ msgid "pl_upd73"
+#~ msgstr "Cette commande n'a pas encore été payée"
+
+#~ msgid "pl_upd74"
+#~ msgstr "Annulée"
+
+#~ msgid "pl_upd75"
+#~ msgstr "Cette commande a été annulée à votre demande"
+
+#~ msgid "pl_upd76"
+#~ msgstr "Saisir les détails de votre compte EA"
+
+#~ msgid "pl_upd77"
+#~ msgstr "Pour lancer le processus de livraison, saisissez les détails de votre compte EA dans le formulaire ci-dessous"
+
+#~ msgid "pl_upd78"
+#~ msgstr "Commande dans la file d'attente"
+
+#~ msgid "pl_upd79"
+#~ msgstr "Veillez à bien vous déconnecter d'Ultimate Team sur votre console/PC et sur tout autre appareil via l'application Web FC Ultimate Team/FC Companion"
+
+#~ msgid "pl_upd8"
+#~ msgstr "Veuillez inscrire le code de confirmation envoyé à [[X]] dans la case ci-dessous"
+
+#~ msgid "pl_upd80"
+#~ msgstr "Livraison en cours"
+
+#~ msgid "pl_upd81"
+#~ msgstr "Veillez à laisser Ultimate Team fermé sur votre compte jusqu'à la fin de la commande"
+
+#~ msgid "pl_upd82"
+#~ msgstr "Codes de secours"
+
+#~ msgid "pl_upd83"
+#~ msgstr "Codes de secours erronés"
+
+#~ msgid "pl_upd84"
+#~ msgstr "Les codes de secours que vous nous avez fournis sont soit incorrects, soit arrivés à expiration, soit extraits d'un mauvais compte. Veillez à soumettre les bons"
+
+#~ msgid "pl_upd9"
+#~ msgstr "ou cliquer sur le lien contenu dans l'e-mail pour confirmer votre adresse e-mail"
+
+#: components/DeliverySteps/DeliverySteps.js:16
+msgid "process"
+msgstr "Processus de livraison"
+
+#~ msgid "Qatar"
+#~ msgstr "Qatar"
+
+#~ msgid "rangeHeader0"
+#~ msgstr "Bronze"
+
+#~ msgid "rangeHeader1"
+#~ msgstr "Silver"
+
+#~ msgid "rangeHeader2"
+#~ msgstr "Gold"
+
+#~ msgid "rangeHeader3"
+#~ msgstr "Inform"
+
+#~ msgid "rangeHeader4"
+#~ msgstr "Hero"
+
+#~ msgid "rangeHeader5"
+#~ msgstr "Icon"
+
+#: components/Message/Message.js:115
+msgid "refresh"
+msgstr "Actualiser la page"
+
+#: components/Aside/Aside.js:65
+msgid "reviews"
+msgstr "avis"
+
+#: components/Infografic/Infografic.js:60
+msgid "satisfied costumers"
+msgstr "satisfait nos clients"
+
+#~ msgid "Saudi Arabia"
+#~ msgstr "Arabie Saoudite"
+
+#: pages/coins/index.js:249
+#: pages/coins/index.js:336
+msgid "sbc"
+msgstr "Testez SBC Solver à prix réduit"
+
+#: components/ModalTimer/ModalTimer.js:53
+msgid "season"
+msgstr "Préparation de la nouvelle saison"
+
+#: components/MainContainer.js:602
+#: components/MainContainer.js:608
+msgid "seo:root:description"
+msgstr "Boutique №1 pour achat crédits EA SPORTS FC 25 ✔Achat crédits EA FC 25 pour PS 4/5, Xbox One/X/S 🎮Livraison rapide, assistance live 24/7 ⚡ Paiements 100 % sûrs 🔒 Lieu sûr pour achat éco de crédits Ultimate Te"
+
+#: pages/_app.js:25
+msgid "seo:root:title"
+msgstr "Achetez des crédits FC 25 pour toutes les plateformes | Boutique de crédits Ultimate Team"
+
+#~ msgid "seo0"
+#~ msgstr "Français"
+
+#: components/BuyCoinsDropdown/BuyCoinsDropdown.js:57
+#: components/Offer/Offer.js:47
+#: components/OptionWithItems/OptionWithItems.js:45
+#: components/StickyBlock/StickyBlock.js:31
+msgid "seo1"
+msgstr "Acheter des crédits"
+
+#~ msgid "seo10"
+#~ msgstr "Acheter des crédits"
+
+#: components/NotFound/NotFound.js:16
+msgid "seo100"
+msgstr "Désolé, mais la page que vous recherchez n'existe pas."
+
+#: components/NotFound/NotFound.js:19
+msgid "seo101"
+msgstr "Vous avez peut-être tapé une adresse erronée ou la page à laquelle vous essayez d'accéder peut avoir été supprimée."
+
+#: components/NotFound/NotFound.js:26
+msgid "seo102"
+msgstr "Accéder à la page d'accueil"
+
+#: components/Modal/Modal.js:421
+msgid "seo103"
+msgstr "Vous êtes ici pour la première fois ?"
+
+#: components/Modal/Modal.js:424
+msgid "seo104"
+msgstr "Avant de poursuivre, veuillez confirmer les déclarations ci-dessous"
+
+#: components/InputChecker/InputChecker.js:86
+msgid "seo105"
+msgstr "Mon solde de crédits Ultimate Team s'élève au moins à 5 000."
+
+#: components/InputChecker/InputChecker.js:110
+msgid "seo106"
+msgstr "Je me suis déconnecté(e) de Ultimate Team sur ma console et je n'utilise pas l'application Web Ultimate Team/l'application FC Companion sur d'autres appareils."
+
+#: components/InputChecker/InputChecker.js:136
+msgid "seo107"
+msgstr "Ne plus afficher ce message. Il ne s'agit pas de mon premier achat, je suis au fait de toutes les exigences."
+
+#: components/ChangeAvatar/ChangeAvatar.js:83
+#: components/Modal/Modal.js:182
+#: components/Modal/Modal.js:214
+#: components/Modal/Modal.js:444
+msgid "seo108"
+msgstr "Confirmer"
+
+#~ msgid "seo109"
+#~ msgstr "Mot de passe"
+
+#~ msgid "seo11"
+#~ msgstr "Commande rapide"
+
+#: components/ChangePassword/ChangePassword.js:158
+#: components/ChangePassword/ChangePassword.js:178
+msgid "seo110"
+msgstr "Mot de passe actuel"
+
+#: components/ChangePassword/ChangePassword.js:209
+#: components/ChangePassword/ChangePassword.js:223
+msgid "seo111"
+msgstr "Nouveau mot de passe"
+
+#: components/ChangePassword/ChangePassword.js:257
+#: components/ChangePassword/ChangePassword.js:271
+#: components/ChangePassword/ChangePassword.js:322
+msgid "seo112"
+msgstr "Confirmer le nouveau mot de passe"
+
+#: components/ChangePassword/ChangePassword.js:299
+msgid "seo113"
+msgstr "Les mots de pas ne correspondent pas"
+
+#: components/TableOrders/TableItem.js:106
+msgid "seo114"
+msgstr "Aujourd'hui"
+
+#: components/TableOrders/TableItem.js:110
+msgid "seo115"
+msgstr "Hier"
+
+#~ msgid "seo116"
+#~ msgstr "Nombre"
+
+#~ msgid "seo117"
+#~ msgstr "Statut"
+
+#: components/TableOrders/TableOrderBody.js:277
+#: components/TableOrders/TableOrderBody.js:475
+msgid "seo118"
+msgstr "Détails du compte EA"
+
+#: components/TableOrders/TableOrderBody.js:297
+#: components/TableOrders/TableOrderBody.js:496
+msgid "seo119"
+msgstr "Adresse e-mail du compte EA"
+
+#~ msgid "seo12"
+#~ msgstr "Essayez également ces options"
+
+#: components/TableOrders/TableOrderBody.js:322
+#: components/TableOrders/TableOrderBody.js:543
+msgid "seo120"
+msgstr "Mot de passe du compte EA"
+
+#: components/TableOrders/TableOrderBody.js:390
+#: components/TableOrders/TableOrderBody.js:650
+msgid "seo121"
+msgstr "Codes de secours du compte EA"
+
+#: components/TableOrders/TableOrderBody.js:750
+msgid "seo122"
+msgstr "Nous vous recommandons de soumettre au moins 2 ou 3 codes de secours."
+
+#: components/TableOrders/TableOrderBody.js:755
+msgid "seo123"
+msgstr "Vous pouvez obtenir vos codes de secours sur la page suivante :  "
+
+#: components/TableOrders/TableItem.js:361
+msgid "seo124"
+msgstr "Envoyer les détails"
+
+#: components/TableOrders/TableItem.js:261
+#: components/TableOrders/TableItem.js:271
+#: components/TableOrders/TableItem.js:281
+#: components/TableOrders/TableItem.js:537
+#: components/TableOrders/TableItem.js:547
+msgid "seo125"
+msgstr "Réessayer paiement"
+
+#~ msgid "seo126"
+#~ msgstr "Nouvel envoi détails"
+
+#: components/TableOrders/TableItem.js:498
+#: components/TableOrders/TableItem.js:511
+#: components/TableOrders/TableItem.js:524
+msgid "seo127"
+msgstr "Lancer la livraison"
+
+#: components/TableOrders/TableItem.js:291
+#: components/TableOrders/TableItem.js:301
+#: components/TableOrders/TableItem.js:311
+#: components/TableOrders/TableItem.js:321
+#: components/TableOrders/TableItem.js:331
+#: components/TableOrders/TableItem.js:341
+#: components/TableOrders/TableItem.js:424
+#: components/TableOrders/TableItem.js:435
+#: components/TableOrders/TableItem.js:446
+msgid "seo128"
+msgstr "Reprendre livraison"
+
+#: components/TableOrders/TableItem.js:413
+msgid "seo129"
+msgstr "Modifier les détails"
+
+#~ msgid "seo13"
+#~ msgstr "Lots de crédits"
+
+#: components/TableOrders/TableItem.js:351
+#: components/TableOrders/TableItem.js:457
+#: components/TableOrders/TableItem.js:557
+msgid "seo130"
+msgstr "Renouveler commande"
+
+#: components/TableOrders/TableItem.js:499
+#: components/TableOrders/TableItem.js:512
+#: components/TableOrders/TableItem.js:525
+msgid "seo131"
+msgstr "Ouvrir la page de la commande dans nouvel onglet"
+
+#: components/ReviewsContent/ReviewsContent.js:75
+msgid "seo132"
+msgstr "Avis"
+
+#: components/ReviewsContent/ReviewsContent.js:80
+msgid "seo133"
+msgstr "Lisez ce que des centaines de clients disent de leur expérience sur notre site Web. Tous les avis proviennent de la page ROYALFUT sur Trustpilot. Trustpilot est une plateforme internationale d'avis, la plus populaire parmi les consommateurs d'Europe et des États-Unis. Les modérateurs de Trustpilot vérifient régulièrement les avis sur le site pour s'assurer qu'il n'y a pas de fraude ou de falsification. Nous ne pouvons influer sur l'évaluation et la teneur des avis que par le professionnalisme de notre travail et la qualité du service assuré au client. Si vous souhaitez laisser un avis, "
+
+#: components/ReviewsContent/ReviewsContent.js:87
+msgid "seo134"
+msgstr "évaluez-nous dès maintenant !"
+
+#: components/Rated/Rated.js:106
+msgid "seo135"
+msgstr "Évaluez-nous"
+
+#~ msgid "seo14"
+#~ msgstr "Même les clients les plus exigeants seront ravis par le bonus d'achat. Obtenez-le dès aujourd'hui !"
+
+#: components/StickyBlock/StickyBlock.js:24
+msgid "seo146"
+msgstr "Psst... Vous êtes à la recherche de quelques crédits ?"
+
+#~ msgid "seo147"
+#~ msgstr "Acheter des crédits"
+
+#: components/StickyBlock/StickyBlock.js:37
+msgid "seo148"
+msgstr "Accéder à la page d'accueil"
+
+#: components/PaymentContent/PaymentContent.js:10
+msgid "seo149"
+msgstr "ROYALFUT.COM accepte les paiements dans six devises différentes SANS FRAIS."
+
+#~ msgid "seo15"
+#~ msgstr "Essayez gratuitement l'outil de résolution des défis de création d'équipes, le SBC Solver, dès maintenant !"
+
+#: components/PaymentContent/PaymentContent.js:11
+msgid "seo150"
+msgstr "Seuls les utilisateurs enregistrés peuvent effectuer des paiements sur le site Web. Les paiements sont réalisés par l'intermédiaire des systèmes de paiement internationaux. Les titulaires de cartes bancaires des régions suivantes sont interdits d'achat : Afghanistan, Samoa américaines, Aruba, Bahamas, Botswana, Burundi, Cambodge, République centrafricaine, Congo, République démocratique du Congo, Crimée et Sébastopol, Cuba, Guinée équatoriale, Érythrée, Éthiopie, Irak, Liban, Libye, Mali, Myanmar, Nicaragua, Corée du Nord, Pakistan, Palestine, Fédération de Russie, Samoa, Sierra Leone, Somalie, Soudan du Sud, Soudan, Syrie, Trinité-et-Tobago, Turkménistan, Ouganda, Îles Vierges américaines, Venezuela, Yémen, Zimbabwe."
+
+#: components/PaymentContent/PaymentContent.js:12
+msgid "seo151"
+msgstr "En achetant notre produit numérique, vous pouvez être assuré que votre argent est en sécurité."
+
+#: pages/coins/[id]/payment.js:28
+msgid "seo152"
+msgstr "Achat"
+
+#: components/Purchase/Purchase.js:349
+msgid "seo153"
+msgstr "Votre commande"
+
+#~ msgid "seo154"
+#~ msgstr "Mode"
+
+#: components/Purchase/Purchase.js:471
+msgid "seo155"
+msgstr "Détails"
+
+#~ msgid "seo156"
+#~ msgstr "Payer maintenant"
+
+#~ msgid "seo157"
+#~ msgstr "Saisir le nombre de crédits que vous souhaitez acheter"
+
+#: components/TableOrders/TableItem.js:364
+msgid "seo158"
+msgstr "Saisir les détails de votre compte EA"
+
+#: components/TableOrders/TableItem.js:367
+msgid "seo159"
+msgstr "Pour lancer le processus de livraison, saisissez les détails de votre compte EA dans le formulaire ci-dessous."
+
+#~ msgid "seo16"
+#~ msgstr "Commencez à gagner beaucoup de temps avec le tout nouvel outil de nos amis !"
+
+#: components/TableOrders/TableItem.js:503
+#: components/TableOrders/TableItem.js:516
+#: components/TableOrders/TableItem.js:529
+msgid "seo160"
+msgstr "En attente de livraison manuelle"
+
+#: components/TableOrders/TableItem.js:506
+#: components/TableOrders/TableItem.js:519
+#: components/TableOrders/TableItem.js:532
+msgid "seo161"
+msgstr "Cliquez sur le bouton ci-dessous pour commencer le transfert manuel de crédits"
+
+#~ msgid "seo162"
+#~ msgstr "En cours de connexion à votre compte"
+
+#: components/TableOrders/TableItem.js:377
+msgid "seo163"
+msgstr "Assurez-vous d'être déconnecté(e) de Ultimate Team sur votre console et autres appareils via l'application Web Ultimate Team/l'application FIFA Companion jusqu'à la fin de la commande."
+
+#: components/TableOrders/TableItem.js:384
+msgid "seo164"
+msgstr "Livraison en cours"
+
+#: components/TableOrders/TableItem.js:387
+msgid "seo165"
+msgstr "Veillez à laisser FUT fermé sur votre compte jusqu'à la fin de la commande."
+
+#~ msgid "seo166"
+#~ msgstr "Codes de secours"
+
+#: components/TableOrders/TableItem.js:395
+msgid "seo167"
+msgstr "Codes de secours erronés"
+
+#: components/TableOrders/TableItem.js:398
+msgid "seo168"
+msgstr "Les codes de secours que vous nous avez fournis sont soit incorrects, soit arrivés à expiration, soit extraits d'un mauvais compte."
+
+#: components/TableOrders/TableItem.js:416
+msgid "seo169"
+msgstr "Adresse e-mail/mot de passe erroné(e)"
+
+#~ msgid "seo17"
+#~ msgstr "Ne passez pas à côté de notre offre spéciale"
+
+#: components/TableOrders/TableItem.js:419
+msgid "seo170"
+msgstr "Vérifiez que vous n'avez pas fait de fautes de frappe et que vous soumettez bien les détails de votre compte EA, et non ceux d'un autre compte (PSN, réseau Xbox, etc.)."
+
+#: components/TableOrders/TableItem.js:354
+#: components/TableOrders/TableItem.js:560
+msgid "seo171"
+msgstr "Terminé"
+
+#: components/TableOrders/TableItem.js:357
+#: components/TableOrders/TableItem.js:563
+msgid "seo172"
+msgstr "N'hésitez pas à vous reconnecter à Ultimate Team pour profiter de vos crédits !"
+
+#: components/TableOrders/TableItem.js:460
+msgid "seo173"
+msgstr "Annulé"
+
+#: components/TableOrders/TableItem.js:463
+msgid "seo174"
+msgstr "Votre commande a été annulée à votre demande"
+
+#: components/DeliveryStage/DeliveryStage.js:109
+#: components/Order/OrderDeliveryStage.js:120
+#: components/TableOrders/TableItem.js:274
+#: components/TableOrders/TableItem.js:550
+msgid "seo175"
+msgstr "Échec du paiement"
+
+#: components/DeliveryStage/DeliveryStage.js:112
+#: components/Order/OrderDeliveryStage.js:125
+#: components/TableOrders/TableItem.js:277
+#: components/TableOrders/TableItem.js:553
+msgid "seo176"
+msgstr "Veuillez réessayer ou changer de mode de paiement si le problème persiste"
+
+#: components/TableOrders/TableItem.js:264
+#: components/TableOrders/TableItem.js:540
+msgid "seo177"
+msgstr "Non payée"
+
+#: components/TableOrders/TableItem.js:267
+#: components/TableOrders/TableItem.js:543
+msgid "seo178"
+msgstr "Cette commande n'a pas encore été payée"
+
+#: components/TableOrders/TableItem.js:427
+#: components/TableOrders/TableItem.js:449
+msgid "seo179"
+msgstr "Connecté(e)"
+
+#~ msgid "seo18"
+#~ msgstr "Commandez maintenant"
+
+#: components/TableOrders/TableItem.js:430
+#: components/TableOrders/TableItem.js:452
+msgid "seo180"
+msgstr "Déconnectez-vous de votre compte pour nous permettre de procéder à la livraison."
+
+#: components/TableOrders/TableItem.js:438
+msgid "seo181"
+msgstr "En ligne dans l'application Web Ultimate Team"
+
+#: components/TableOrders/TableItem.js:441
+msgid "seo182"
+msgstr "Déconnectez-vous de l'application Web Ultimate Team/l'application FIFA Companion pour nous permettre de procéder à la livraison."
+
+#~ msgid "seo183"
+#~ msgstr "Vérification de connexion"
+
+#: components/TableOrders/TableItem.js:344
+msgid "seo184"
+msgstr "Vérification de connexion désactivée"
+
+#: components/TableOrders/TableItem.js:347
+msgid "seo185"
+msgstr "Veillez à activer Vérification de connexion dans les paramètres de votre compte EA"
+
+#~ msgid "seo186"
+#~ msgstr "Liste de transferts"
+
+#~ msgid "seo187"
+#~ msgstr "Liste de transferts pleine"
+
+#~ msgid "seo188"
+#~ msgstr "Assurez-vous d'effacer votre Liste de transferts afin que nous puissions commencer le processus de livraison."
+
+#: components/TableOrders/TableItem.js:314
+#: components/TableOrders/TableItem.js:324
+msgid "seo189"
+msgstr "Aucun marché des transferts dans l'application Web Ultimate Team"
+
+#~ msgid "seo19"
+#~ msgstr "Une expérience de longue date"
+
+#: components/TableOrders/TableItem.js:317
+#: components/TableOrders/TableItem.js:327
+msgid "seo190"
+msgstr "Assurez-vous d'avoir accès au marché des transferts dans l'application Web Ultimate Team afin que nous puissions commencer à traiter votre commande"
+
+#: components/TableOrders/TableItem.js:304
+msgid "seo191"
+msgstr "Aucun club dans l'application Web Ultimate Team"
+
+#: components/TableOrders/TableItem.js:307
+msgid "seo192"
+msgstr "Assurez-vous d'avoir configuré votre club dans l'application Web Ultimate Team afin que nous puissions commencer à traiter votre commande"
+
+#: components/TableOrders/TableItem.js:294
+msgid "seo193"
+msgstr "Nombre de crédits insuffisant"
+
+#: components/TableOrders/TableItem.js:297
+msgid "seo194"
+msgstr "Assurez-vous d'avoir au moins 5 000 crédits sur votre solde Ultimate Team Club pour nous permettre de commencer le processus de livraison."
+
+#: components/TableOrders/TableItem.js:284
+msgid "seo195"
+msgstr "Erreur de plateforme"
+
+#: components/TableOrders/TableItem.js:287
+msgid "seo196"
+msgstr "Votre compte n'a aucun club Ultimate Team associé à la plateforme que vous avez sélectionnée, veuillez soumettre les détails du compte concerné ou contacter le service d'assistance pour changer de plateforme"
+
+#~ msgid "seo197"
+#~ msgstr "Accueil"
+
+#~ msgid "seo198"
+#~ msgstr "Plateforme"
+
+#~ msgid "seo199"
+#~ msgstr "Avis"
+
+#~ msgid "seo2"
+#~ msgstr "Lots de crédits"
+
+#~ msgid "seo20"
+#~ msgstr "À l'origine, notre équipe a été formée lors de la saison FIFA 17. Depuis lors, nous avons transféré plus de 100 milliards de crédits à nos clients, plus de 60 mille clubs du monde entier ont reçu des recharges de crédits de notre part et au moins 10 autres points de vente utilisent notre algorithme de transfert de crédits."
+
+#~ msgid "seo200"
+#~ msgstr "FAQ"
+
+#~ msgid "seo201"
+#~ msgstr "Achat"
+
+#~ msgid "seo202"
+#~ msgstr "Paiements"
+
+#~ msgid "seo203"
+#~ msgstr "Politique de confidentialité"
+
+#~ msgid "seo204"
+#~ msgstr "Profil"
+
+#~ msgid "seo205"
+#~ msgstr "Lots de crédits"
+
+#~ msgid "seo206"
+#~ msgstr "[[X]] crédits FUT"
+
+#~ msgid "seo207"
+#~ msgstr "Lots de crédits"
+
+#~ msgid "seo208"
+#~ msgstr "Crédits"
+
+#~ msgid "seo209"
+#~ msgstr "Joueurs"
+
+#~ msgid "seo21"
+#~ msgstr "Prix abordables"
+
+#~ msgid "seo210"
+#~ msgstr "Boost League Week-end"
+
+#: components/PageChanger/PageChanger.js:95
+#: components/Payments/Payments.js:33
+#: components/Payments/Payments.js:346
+msgid "seo211"
+msgstr "Bientôt disponible"
+
+#: components/BonusBlock/BonusBlock.js:19
+msgid "seo212"
+msgstr "Besoin d'aide pour SBC Solution ?"
+
+#: components/BonusBlock/BonusBlock.js:22
+msgid "seo213"
+msgstr "Essayez un outil avancé de nos partenaires. Une réduction de notre part est déjà incluse dans les tarifs."
+
+#: components/BonusBlock/BonusBlock.js:32
+msgid "seo214"
+msgstr "En savoir plus"
+
+#~ msgid "seo215"
+#~ msgstr "Transaction Confort"
+
+#~ msgid "seo216"
+#~ msgstr "Crédits avec bonus"
+
+#~ msgid "seo217"
+#~ msgstr "Bonus"
+
+#~ msgid "seo218"
+#~ msgstr "Prix"
+
+#~ msgid "seo219"
+#~ msgstr "Choisir"
+
+#~ msgid "seo22"
+#~ msgstr "Nos prix comptent parmi les plus bas du marché, et pour nos clients fidèles, le prix est encore plus bas !"
+
+#~ msgid "seo220"
+#~ msgstr "Voir les détails"
+
+#~ msgid "seo221"
+#~ msgstr "Autre nombre"
+
+#~ msgid "seo222"
+#~ msgstr "Vous recevrez"
+
+#~ msgid "seo223"
+#~ msgstr "Part principale"
+
+#~ msgid "seo224"
+#~ msgstr "Part de bonus"
+
+#~ msgid "seo225"
+#~ msgstr "Nombre total"
+
+#~ msgid "seo226"
+#~ msgstr "ACHETER DES CRÉDITS"
+
+#~ msgid "seo227"
+#~ msgstr "[[X]] crédits FIFA Ultimate Team"
+
+#~ msgid "seo228"
+#~ msgstr "Obtenez des crédits FIFA au meilleur endroit qui soit pour acheter des articles FUT à bas prix. ROYALFUT est la meilleure boutique FUT que vous ayez jamais vue. Découvrez les prix bas que nous proposons pour les crédits FUT. Ni taxes ni frais supplémentaires ne sont appliqués aux commandes de crédits Ultimate Team."
+
+#~ msgid "seo229"
+#~ msgstr "Ici, vous pouvez acheter [[X]] mille crédits FIFA pour seulement [[Y]]. Nous vous conseillons de choisir le mode de livraison Transaction Confort, car il est plus simple et ne nécessite pas votre participation lors du transfert des crédits. [[X]]00000 crédits seront transférés sur votre compte dans [[HH]]. Ce nombre vous permet d'acheter la plupart des joueurs FUT les moins chers."
+
+#~ msgid "seo23"
+#~ msgstr "Sécurité et fiabilité"
+
+#~ msgid "seo230"
+#~ msgstr "Ici, vous pouvez acheter [[X]] mille crédits FIFA pour seulement [[Y]]. Nous vous conseillons de choisir le mode de livraison Transaction Confort, car il est plus simple et ne nécessite pas votre participation lors du transfert des crédits. [[X]] millions de crédits seront transférés sur votre compte dans [[HH]]. Ce nombre vous permet d'acheter la plupart des joueurs FUT les moins chers."
+
+#~ msgid "seo231"
+#~ msgstr "Comment se passe la livraison ?"
+
+#~ msgid "seo232"
+#~ msgstr "Boutique EA FC 25 Ultimate Team | Boutique EA SPORTS FC 25"
+
+#~ msgid "seo233"
+#~ msgstr "Boutique №1 pour achat crédits EA SPORTS FC 25 ✔Achat crédits EA FC 25 pour PS 4/5, Xbox One/X/S 🎮Livraison rapide, assistance live 24/7 ⚡ Paiements 100 % sûrs 🔒 Lieu sûr pour achat éco de crédits Ultimate Te"
+
+#~ msgid "seo234"
+#~ msgstr "Achetez en ligne des crédits EA FC 25 Ultimate Team | Crédits FUT en vente, prix bas"
+
+#~ msgid "seo235"
+#~ msgstr "Lieu sécurisé pour achat crédits EA SPORTS FC 25 ✔Achat crédits EA FC 25 pour PS 4/5, Xbox One/X/S 🎮Livraison rapide, assistance live 24/7 ⚡ Paiements 100 % sûrs 🔒 Lieu sûr pour achat éco de crédits Ultimate"
+
+#~ msgid "seo236"
+#~ msgstr "Achetez des crédits EA FC 25 pour PS4 à petits prix | Crédits EA SPORTS FC 25 pour PS4"
+
+#~ msgid "seo237"
+#~ msgstr "Meilleur lieu pour achat crédits EA SPORTS FC 25 pour PS4 🎮 Battez vos rivaux avec les meilleurs joueurs dans votre équipe 🥇 Livraison rapide, assistance live 24/7 🔒 Lieu sûr pour achat crédits Ultimate Tea"
+
+#~ msgid "seo238"
+#~ msgstr "Achetez des crédits EA FC 25 pour PS5 à petits prix | Crédits EA SPORTS FC 25 pour PS5"
+
+#~ msgid "seo239"
+#~ msgstr "Meilleur lieu pour achat crédits EA SPORTS FC 25 pour PS5 🎮 Battez vos rivaux avec les meilleurs joueurs dans votre équipe 🥇 Livraison rapide, assistance live 24/7 🔒 Lieu sûr pour achat crédits Ultimate Tea"
+
+#~ msgid "seo24"
+#~ msgstr "Notre objectif principal est de vous fournir l'option la plus sûre pour recharger le solde de votre club FUT. Nous travaillons constamment à l'amélioration de notre algorithme de transfert de crédits, en le testant sur des milliers de comptes avant de lui donner le feu vert pour entrer en action."
+
+#~ msgid "seo240"
+#~ msgstr "Achetez des crédits EA FC 25 pour Xbox One à petits prix | Crédits EA SPORTS FC 25 pour Xbox One"
+
+#~ msgid "seo241"
+#~ msgstr "Meilleur lieu pour achat crédits EA SPORTS FC 25 pour Xbox 1 🎮 Battez vos rivaux avec les meilleurs joueurs dans votre équipe 🥇 Livraison rapide, assistance live 24/7 🔒 Lieu sûr pour achat crédits Ultimate"
+
+#~ msgid "seo242"
+#~ msgstr "Achetez des crédits EA FC 25 pour Xbox à petits prix | Crédits EA SPORTS FC 25 pour Xbox Série X/S"
+
+#~ msgid "seo243"
+#~ msgstr "Lieu №1 pour achat crédits EA SPORTS FC 25 pour Xbox Série X/S 🎮 Battez vos rivaux avec meilleurs joueurs dans votre équipe 🥇 Livraison rapide, assistance live 24/7 🔒 Lieu sûr pour achat crédits Ultimate Te"
+
+#~ msgid "seo244"
+#~ msgstr "Achetez 100 mille crédits EA FC 25 | Prix de 100 mille crédits FUT"
+
+#~ msgid "seo245"
+#~ msgstr "Lieu très sûr pour achat de 100 mille crédits EA SPORTS FC 25 pour votre Ultimate Team 🥇 Choix de plateforme : PS, Xbox ou PC 🎮 Livraison rapide, assistance live 24/7 🔒 Lieu sûr pour achat crédits Ultimate"
+
+#~ msgid "seo246"
+#~ msgstr "Achetez 1 million de crédits EA FC 25 | Prix de 1 million de crédits FUT"
+
+#~ msgid "seo247"
+#~ msgstr "Lieu très sûr pour achat de 1 million crédits EA SPORTS FC 25 pour votre Ultimate Team 🥇 Choix de plateforme : PS, Xbox ou PC 🎮 Livraison rapide, assistance live 24/7 🔒 Lieu sûr pour achat crédits Ultimate"
+
+#~ msgid "seo248"
+#~ msgstr "Nous proposons les meilleures offres pour les crédits FIFA pour PlayStation 4. Nous proposons des crédits FIFA PS4 à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS."
+
+#~ msgid "seo249"
+#~ msgstr "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour PS4 chez nous en étant sûr(e) de bénéficier de la meilleure offre."
+
+#~ msgid "seo25"
+#~ msgstr "Haut niveau de service"
+
+#~ msgid "seo250"
+#~ msgstr "L'achat de crédits EA FC 25 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+
+#~ msgid "seo251"
+#~ msgstr "Nous proposons les meilleures offres pour les crédits FIFA pour PlayStation 5. Nous proposons des crédits FIFA PS5 à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS."
+
+#~ msgid "seo252"
+#~ msgstr "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour PS5 chez nous en étant sûr(e) de bénéficier de la meilleure offre."
+
+#~ msgid "seo253"
+#~ msgstr "L'achat de crédits EA FC 25 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+
+#~ msgid "seo254"
+#~ msgstr "Nous proposons les meilleures offres pour les crédits FIFA pour Xbox One. Nous proposons des crédits FIFA à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS."
+
+#~ msgid "seo255"
+#~ msgstr "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour Xbox 1 chez nous en étant sûr(e) de bénéficier de la meilleure offre."
+
+#~ msgid "seo256"
+#~ msgstr "L'achat de crédits EA FC 25 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+
+#~ msgid "seo257"
+#~ msgstr "Nous proposons les meilleures offres pour les crédits FIFA pour Xbox Série X. De plus, nous proposons des crédits FIFA pour Xbox Série S à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS."
+
+#~ msgid "seo258"
+#~ msgstr "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour Xbox Série X/S chez nous en étant sûr(e) de bénéficier de la meilleure offre."
+
+#~ msgid "seo259"
+#~ msgstr "L'achat de crédits EA FC 25 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+
+#~ msgid "seo26"
+#~ msgstr "Sachant que votre temps est précieux, nous nous efforçons sans cesse d'améliorer les différents aspects de notre site Web, tels que l'interface et la qualité de notre service d'assistance à la clientèle, de manière à vous garantir une expérience d'achat chez nous aussi fluide que possible."
+
+#~ msgid "seo260"
+#~ msgstr ""
+
+#~ msgid "seo27"
+#~ msgstr "Contacts"
+
+#: components/Order/PlatformSection.js:129
+msgid "seo28"
+msgstr "Plateforme"
+
+#~ msgid "seo29"
+#~ msgstr "Informations"
+
+#~ msgid "seo3"
+#~ msgstr "Avis"
+
+#: components/Purchase/Purchase.js:412
+#: components/Purchase/Purchase.js:445
+msgid "seo30"
+msgstr "Paiement"
+
+#~ msgid "seo31"
+#~ msgstr "Livraison"
+
+#~ msgid "seo32"
+#~ msgstr "Conditions générales"
+
+#~ msgid "seo33"
+#~ msgstr "Politique de confidentialité"
+
+#: components/BurgerMenu/BurgerMenu.js:354
+msgid "seo34"
+msgstr "S'enregistrer"
+
+#: components/BurgerMenu/BurgerMenu.js:342
+msgid "seo35"
+msgstr "Se connecter"
+
+#~ msgid "seo36"
+#~ msgstr "J'accepte les Conditions générales"
+
+#~ msgid "seo37"
+#~ msgstr "ou s'enregistrer via"
+
+#: components/Profile/Profile.js:149
+msgid "seo38"
+msgstr "Commandes"
+
+#~ msgid "seo39"
+#~ msgstr "Paramètres"
+
+#: components/Header/Header.js:85
+msgid "seo4"
+msgstr "FAQ"
+
+#: components/BurgerMenu/BurgerMenu.js:286
+#: pages/profile.js:83
+msgid "seo40"
+msgstr "Se déconnecter"
+
+#~ msgid "seo41"
+#~ msgstr "example@site.com"
+
+#~ msgid "seo42"
+#~ msgstr "Mot de passe"
+
+#~ msgid "seo43"
+#~ msgstr "Au moins 8 caractères"
+
+#~ msgid "seo44"
+#~ msgstr "Se connecter via"
+
+#~ msgid "seo45"
+#~ msgstr "Votre EA FC 25 Ultimate Team Store par excellence"
+
+#~ msgid "seo46"
+#~ msgstr "Plateforme"
+
+#~ msgid "seo47"
+#~ msgstr "Continuer"
+
+#: components/Order/OrderDelivery.js:108
+msgid "seo48"
+msgstr "Mode de livraison"
+
+#~ msgid "seo49"
+#~ msgstr "Continuer"
+
+#: components/BurgerMenu/BurgerMenu.js:297
+#: components/BurgerMenu/BurgerMenu.js:466
+#: components/Header/Header.js:146
+msgid "seo5"
+msgstr "Se connecter"
+
+#~ msgid "seo50"
+#~ msgstr "Crédits"
+
+#: components/Order/StickyTotalBlock.js:126
+msgid "seo51"
+msgstr "Prix"
+
+#: components/Order/OrderDelivery.js:149
+msgid "seo52"
+msgstr "Recommandé"
+
+#: components/Order/OrderDelivery.js:158
+msgid "seo53"
+msgstr "Nous nous chargeons nous-mêmes du processus de livraison. Tous ce que vous avez à faire est de nous fournir les détails de votre compte EA."
+
+#~ msgid "seo54"
+#~ msgstr "Enchères joueur"
+
+#~ msgid "seo55"
+#~ msgstr "Jusqu'à 1 m de crédits"
+
+#: components/Order/OrderDelivery.js:218
+msgid "seo56"
+msgstr "Mode de livraison manuel qui ne nécessite aucun détail de compte : vous devrez transférer les pièces par vous-même en suivant nos instructions simples."
+
+#~ msgid "seo57"
+#~ msgstr "Comment ça marche ?"
+
+#~ msgid "seo58"
+#~ msgstr "Comment se passe la livraison ?"
+
+#~ msgid "seo59"
+#~ msgstr "Transaction Confort"
+
+#~ msgid "seo6"
+#~ msgstr "Votre compagnon essentiel dans EA FC 25 Ultimate Team Store"
+
+#~ msgid "seo60"
+#~ msgstr "Enchères joueur"
+
+#: components/Order/StepOneContent.js:38
+msgid "seo61"
+msgstr "Nombre"
+
+#~ msgid "seo62"
+#~ msgstr "Crédits"
+
+#~ msgid "seo63"
+#~ msgstr "Prix"
+
+#~ msgid "seo64"
+#~ msgstr "Devise"
+
+#~ msgid "seo65"
+#~ msgstr "Paiement"
+
+#~ msgid "seo66"
+#~ msgstr "Paiement par carte"
+
+#~ msgid "seo67"
+#~ msgstr "Ou paiement par cryptomonnaies"
+
+#~ msgid "seo68"
+#~ msgstr "Vous avez un coupon ?"
+
+#~ msgid "seo69"
+#~ msgstr "Payer maintenant"
+
+#~ msgid "seo7"
+#~ msgstr "Nous faisons du rêve de formation d'équipes une réalité accessible à tous, tout au long de l'année !"
+
+#: components/GaranteeRow/GaranteeRow.js:41
+#: components/Package/GaranteeRowCoinsPage.js:41
+msgid "seo70"
+msgstr "Paiements 100 % sécurisés"
+
+#: components/GaranteeRow/GaranteeRow.js:52
+#: components/Package/GaranteeRowCoinsPage.js:52
+msgid "seo71"
+msgstr "Délai de livraison de [[HH]]"
+
+#: components/Garantee/Garantee.js:84
+#: components/GaranteeRow/GaranteeRow.js:66
+#: components/Package/GaranteeRowCoinsPage.js:66
+msgid "seo72"
+msgstr "Droit au remboursement"
+
+#~ msgid "seo73"
+#~ msgstr "S'inscrire pour acheter"
+
+#~ msgid "seo74"
+#~ msgstr "Pour payer en BTC, ETH ou USDT, la valeur minimale de commande est fixée à [[N]]"
+
+#: components/Package/CheckoutCoupon.js:446
+msgid "seo75"
+msgstr "Coupon"
+
+#: components/Package/CheckoutCoupon.js:439
+#: components/PriceCouponRedesign/PriceCouponRedesign.js:653
+msgid "seo76"
+msgstr "Appliquer"
+
+#~ msgid "seo77"
+#~ msgstr "Livraison"
+
+#~ msgid "seo78"
+#~ msgstr "Réussi"
+
+#: components/DeliveryStage/DeliveryStage.js:73
+#: pages/coins/payment.js:42
+#: pages/order/index.js:117
+#: pages/order/pc.js:84
+#: pages/order/ps4.js:83
+#: pages/order/ps5.js:82
+#: pages/order/xbox_one.js:84
+#: pages/order/xbox_xs.js:84
+msgid "seo79"
+msgstr "Votre commande a été payée avec succès !"
+
+#~ msgid "seo8"
+#~ msgstr "TrustScore 4,6 | 550 avis"
+
+#: components/DeliveryStage/DeliveryStage.js:76
+#: components/Order/OrderDeliveryStage.js:77
+msgid "seo80"
+msgstr "Rendez-vous dans la section Commandes et suivez les instructions pour lancer le processus de livraison de vos crédits."
+
+#: components/DeliveryStage/DeliveryStage.js:87
+#: components/Order/OrderDeliveryStage.js:92
+msgid "seo81"
+msgstr "Vers mes commandes"
+
+#: components/DeliveryStage/DeliveryStage.js:93
+#: components/Order/OrderDeliveryStage.js:103
+msgid "seo82"
+msgstr "Vous serez automatiquement redirigé dans {X} secondes"
+
+#~ msgid "seo83"
+#~ msgstr "Échec"
+
+#: pages/coins/payment.js:42
+#: pages/order/index.js:118
+#: pages/order/pc.js:85
+#: pages/order/ps4.js:84
+#: pages/order/ps5.js:83
+#: pages/order/xbox_one.js:85
+#: pages/order/xbox_xs.js:85
+msgid "seo84"
+msgstr "Votre paiement a échoué"
+
+#~ msgid "seo85"
+#~ msgstr "Veuillez essayer un autre mode de paiement ou réessayer plus tard."
+
+#: components/DeliveryStage/DeliveryStage.js:121
+#: components/Order/OrderDeliveryStage.js:135
+msgid "seo86"
+msgstr "Réessayer le paiement"
+
+#~ msgid "seo87"
+#~ msgstr "Nous avons recours à des cookies"
+
+#~ msgid "seo88"
+#~ msgstr "Si vous continuez, nous considérerons que vous acceptez nos Conditions d'utilisation des cookies."
+
+#: components/Auth/Auth.js:66
+#: components/BurgerMenu/BurgerMenu.js:172
+#: components/BurgerMenu/BurgerMenu.js:205
+msgid "seo89"
+msgstr "Vous êtes connecté(e) en tant que [[X]]"
+
+#~ msgid "seo9"
+#~ msgstr "Comment ça marche ?"
+
+#~ msgid "seo90"
+#~ msgstr "Votre commande a été acceptée"
+
+#: components/MainContainer.js:135
+msgid "seo91"
+msgstr "Vous êtes déconnecté(e)"
+
+#: components/MainContainer.js:230
+msgid "seo92"
+msgstr "Votre session a expiré. Veuillez vous reconnecter."
+
+#~ msgid "seo93"
+#~ msgstr "Vous devez être connecté(e) à votre compte pour profiter d'un coupon."
+
+#: components/BurgerMenu/BurgerMenu.js:155
+msgid "seo94"
+msgstr "[[X]] est déjà utilisé"
+
+#: components/TableOrders/TableItem.js:473
+msgid "seo95"
+msgstr "Erreur création commande. Contactez l'assistance"
+
+#~ msgid "seo96"
+#~ msgstr "Votre connexion via Google a échoué, veuillez réessayer"
+
+#~ msgid "seo97"
+#~ msgstr "Votre connexion via Facebook a échoué, veuillez réessayer"
+
+#: components/BurgerMenu/BurgerMenu.js:418
+#: components/Message/Message.js:32
+msgid "seo98"
+msgstr "Adresse électronique ou mot de passe non valide"
+
+#: components/BurgerMenu/BurgerMenu.js:384
+msgid "seo99"
+msgstr "Saisissez une adresse électronique valide"
+
+#: components/Garantee/Garantee.js:51
+#: components/GaranteeRow/GaranteeRow.js:28
+#: components/Package/GaranteeRowCoinsPage.js:27
+msgid "seoh"
+msgstr "h"
+
+#: components/Garantee/Garantee.js:42
+#: components/Garantee/Garantee.js:50
+#: components/GaranteeRow/GaranteeRow.js:27
+#: components/Package/GaranteeRowCoinsPage.js:26
+msgid "seom"
+msgstr "m"
+
+#~ msgid "seop22"
+#~ msgstr "Notre boutique vous propose les meilleurs tarifs sur les pièces EA FC pour toutes les plateformes de jeu. Nous fournissons des pièces UT 25 pas chères avec livraison rapide et garantie de sécurité de votre compte, SANS FRAIS SUPPLÉMENTAIRES."
+
+#~ msgid "seop23"
+#~ msgstr "Notre équipe fait tout pour vous proposer les meilleurs tarifs du marché. Quand vous achetez des pièces FIFA 25 chez nous, quelle que soit votre plateforme, vous avez la certitude de les obtenir au meilleur prix."
+
+#~ msgid "seop24"
+#~ msgstr "Pour toute question concernant l'achat de pièces FC 25 pour votre console, n'hésitez pas à nous contacter par le canal de communication de votre choix."
+
+#~ msgid "t"
+#~ msgstr "À Propos de la Livraison"
+
+#~ msgid "t_t"
+#~ msgstr "Les pièces seront livrées au club FC 25 connecté à votre compte EA. Seuls les détails du compte EA sont requis pour transférer les pièces."
+
+#: components/Aside/Aside.js:52
+msgid "trust:commenturl"
+msgstr "https://fr.trustpilot.com/review/royalfut.com"
+
+#~ msgid "United Arab Emirates"
+#~ msgstr "Émirats Arabes Unis"
+
+#~ msgid "United Kingdom"
+#~ msgstr "Royaume-Uni"
+
+#~ msgid "United States"
+#~ msgstr "États-Unis"
+
+#: components/ContactsContent/СontactsContent.js:28
+#: pages/wl-boost.js:85
+msgid "via"
+msgstr "Contactez-nous par"
+
+#~ msgid "What are the advantages of buying {ut} coins instead of {pt}?"
+#~ msgstr "Quels sont les avantages à acheter des crédits {ut} plutôt que {pt}?"
+
+#: components/Auth/Auth.js:23
+#: components/Message/Message.js:34
+msgid "wntwrng"
+msgstr "Une erreur s'est produite"
+
+#: components/PlugVideo/PlugVideo.js:16
+msgid "work"
+msgstr "En chantier"

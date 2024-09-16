@@ -1,0 +1,101 @@
+.container{
+    flex-direction: column;
+    gap: 12px;
+}
+.order_delivery_h3{
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.btn_method {
+    padding: 12px;
+    gap: 12px;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 8px;
+    border: 1px solid var(--white-02-white, rgba(255, 255, 255, 0.20));    
+
+    &:hover{
+        border: 1px solid var(--white-04-white, rgba(255, 255, 255, 0.40));
+        background: var(--white-005-white, rgba(255, 255, 255, 0.05));
+        color: white;
+    }
+    &:focus{
+        background: var(--black-shape, #2B2D43);
+        color: white;
+        border: none;
+    }
+}
+.delivery_section{
+    gap: 8px;
+    flex-direction: column;
+}
+.method_btn_active{
+    background: var(--black-shape, #2B2D43);
+    transition: all .3s;
+    position: relative;
+
+    &::after{
+        content:'';
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        border-radius: 100%;
+        right: 4px;
+        top: 4px;
+        background-color: #8852F2;        
+        background-image: url('/img/Succes.svg');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+    }
+}
+.item_icon_active{
+    
+    opacity: 0.4;
+}
+.method_item_title{
+    font-size: 12px;
+    font-weight: 700;
+    padding: 0 4px;
+    white-space: nowrap;
+    width: auto;
+}
+.method_item_header{
+    background-color: transparent;
+    align-items: center;
+}
+.method_item_icon_wrapper{
+    min-width: 16px;
+    width: 16px;
+}
+.method_item_text{
+    background-color: transparent;
+    text-align: left;
+    font-size: 12px;
+}
+.method_item_label{
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.4px;
+    border-radius: 20px;
+    background: var(--white-02-white, rgba(255, 255, 255, 0.20));
+    padding: 2px 4px;
+    width: auto;
+    margin-left: 4px;
+    max-width: 230px;
+}
+.item_label_active{
+    background: #8852F2;
+}
+.disabled{
+    user-select: none;
+
+    &:hover{
+        border: 1px solid var(--white-02-white, rgba(255, 255, 255, 0.20)); 
+        background-color: transparent;
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "royalfut",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/royalfut",
+  "projectType": "application",
+  "tags": [],
+  "targets": {
+    "dev": {
+      "executor": "nx:run-commands",
+      "outputs": [],
+      "options": {
+        "command": "next dev"
+      }
+    },
+    "deploy": {
+      "executor": "@royalfut/exec:deploy",
+      "options": {
+        "project": "royalfut",
+        "pname": "main.royalfut",
+        "port": 3000
+      }
+    }
+  }
+}

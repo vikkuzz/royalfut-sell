@@ -17,11 +17,13 @@
     "skipDefaultLibCheck": true,
     "baseUrl": "./",
     "paths": {
+      "@sell.royalfut/src/*": ["apps/sell.royalfut/src/*"],
       "@royalfut/actions": ["libs/actions/src/index.ts"],
       "@royalfut/actions/server": ["libs/actions/src/server.ts"],
       "@royalfut/collections": ["libs/collections/src/index.ts"],
       "@royalfut/components": ["libs/components/src/index.ts"],
       "@royalfut/enums": ["libs/enums/src/index.ts"],
+      "@royalfut/exec": ["exec/src/index.ts"],
       "@royalfut/hooks": ["libs/hooks/src/index.ts"],
       "@royalfut/icons": ["libs/icons/src/index.ts"],
       "@royalfut/interfaces": ["libs/interfaces/src/index.ts"],

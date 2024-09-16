@@ -1,16 +1,17 @@
+"use client";
 import { useCallback, useEffect, useState } from "react";
 import { TradeSummaryPanel } from "@royalfut/components";
 import { GradientButton } from "@royalfut/ui";
 import { ArrowChevronRightIcon } from "@royalfut/icons";
 import { useRouter } from "next/navigation";
-import { AUTHORIZED_API_ROUTES } from "@royalfut/collections";
+import { PROJECT_PRIVATE_SELLER_ROUTES } from "@royalfut/collections";
 
 const AwaitingDeliveryAction = () => {
     const router = useRouter();
     const [timeLeft, setTimeLeft] = useState(8);
 
-    const toOrder = useCallback(async () => {
-        await router.push(AUTHORIZED_API_ROUTES.PROFILE_ORDERS, {
+    const toOrder = useCallback(() => {
+        router.push(PROJECT_PRIVATE_SELLER_ROUTES.PROFILE_ORDERS, {
             scroll: true,
         });
     }, [router]);

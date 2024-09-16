@@ -1,0 +1,109 @@
+.method_drop_btn{
+
+    width: auto;
+    border: none;
+    cursor: pointer;
+    z-index: 2;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    padding-top: 18px;
+    text-transform: capitalize;
+    
+
+    span{
+        white-space: nowrap;
+    }
+    img{
+        width: 24px;
+        transition: .3s;
+    }
+
+    @media (min-width:1025px) {
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        border-radius: 12px;
+        width: 280px;
+        height: 64px;
+        justify-content: center;
+        align-items: center;
+        padding: 0 24px;
+
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 24px;
+    }
+}
+
+.method_drop_btn:hover img{
+    transform: rotate(180deg);
+}
+
+.container{
+    flex-direction: column;
+    position: relative;
+    width: auto;
+}
+.method_options{
+    transition: all .3s ease-in-out;
+    opacity: 0;
+    //height: 0;
+    width: auto;
+    z-index: -1;
+    overflow: hidden;
+    flex-direction: column;
+    position: absolute;
+    bottom: 0%;
+    background-color: transparent;
+    padding-top: 8px;
+    text-transform: capitalize;
+    //transform: translate(0%,-100%);
+
+    @media (min-width:1025px) {
+        width: 100%;
+    }
+}
+.container:hover .method_options{
+    opacity: 1;
+    height: auto;
+    margin-top: 8px;
+    transform: translate(0%,100%);
+    z-index: 0;
+}
+
+.container:hover .method_drop_btn{
+
+    @media (min-width:1025px) {
+        background-color: #414256;
+    }
+    
+}
+.visible_container{
+    flex-direction: column;
+    background: #35374B;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0px 12px 20px rgb(0 0 0 / 40%);
+    border-radius: 12px;
+    padding: 14px 8px;
+}
+.option{
+    border: none;
+    background-color: transparent;
+    white-space: nowrap;
+
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 36px;
+    padding: 0 24px;
+    text-transform: capitalize;
+}
+.option:hover{
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+}

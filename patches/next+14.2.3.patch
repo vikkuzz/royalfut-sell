@@ -1,0 +1,13 @@
+diff --git a/node_modules/next/dist/server/lib/start-server.js b/node_modules/next/dist/server/lib/start-server.js
+index 2f0b222..7b0ebee 100644
+--- a/node_modules/next/dist/server/lib/start-server.js
++++ b/node_modules/next/dist/server/lib/start-server.js
+@@ -107,7 +107,7 @@ async function getRequestHandlers({ dir, port, isDev, server, hostname, minimalM
+ async function startServer(serverOptions) {
+     const { dir, isDev, hostname, minimalMode, allowRetry, keepAliveTimeout, selfSignedCertificate } = serverOptions;
+     let { port } = serverOptions;
+-    process.title = `next-server (v${"14.2.3"})`;
++    process.title = process.env.PNAME || `next-server (v${"14.2.3"})`;
+     let handlersReady = ()=>{};
+     let handlersError = ()=>{};
+     let handlersPromise = new Promise((resolve, reject)=>{

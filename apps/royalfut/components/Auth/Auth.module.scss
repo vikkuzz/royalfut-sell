@@ -1,0 +1,13 @@
+.google_sign_in_wrapper {
+    height: 64px;
+
+    & > div {
+        height: 100% !important;
+    }
+
+    iframe {
+        width: 100% !important;
+        height: 100% !important;
+        margin: 0 !important;
+    }
+}

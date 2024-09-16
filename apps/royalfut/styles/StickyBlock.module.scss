@@ -1,0 +1,37 @@
+.container{
+    flex-direction: column;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 28px;
+    padding: 48px 32px;
+    background-image:  url('/img/2313216.webp'),url('/img/2312312.webp');
+    background-position: top left, right bottom;
+    background-repeat: no-repeat;
+    gap: 20px;
+
+    @media (min-width:1025px) {
+        max-width: 448px;
+        position: sticky;
+        top: 150px;
+    }
+}
+.sticky_h{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+}
+.buttons_wrapper{
+    background-color: transparent;
+    gap: 20px;
+    flex-direction: column;
+    background-image: none;
+}
+.text_btn{
+    justify-content: center;
+    
+}
+.text_btn{
+    width: auto;
+}

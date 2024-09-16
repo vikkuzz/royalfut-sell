@@ -1,0 +1,135 @@
+.rc-slider {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.rc-slider * {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+/*
+.rc-slider-track-draggable {
+  z-index: 1;
+  box-sizing: content-box;
+  background-clip: content-box;
+}
+*/
+
+.rc-slider-handle:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.rc-slider-mark {
+  position: absolute;
+  top: theme(spacing[4.5]);
+  width: 100%;
+
+  /* NOTE: Hardcore solution for saving inside a design grid */
+  /* left: 2.8%;
+    width: 94.5%;
+
+    @media screen(sm) {
+        left: 1.4%;
+        width: 97.5%;
+    }
+    */
+}
+
+.rc-slider-mark .rc-slider-mark-text:first-child {
+  left: 2.8% !important;
+
+  @media screen(sm) {
+    left: 1.4% !important;
+  }
+}
+
+.rc-slider-mark .rc-slider-mark-text:last-child {
+  left: 97.5% !important;
+
+  @media screen(sm) {
+    left: 98.8% !important;
+  }
+}
+
+.rc-slider-mark-text {
+  position: absolute;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.rc-slider-mark-text.rc-slider-mark-text-active > span {
+  color: theme(colors.white.70) !important;
+}
+
+.rc-slider-disabled .rc-slider-handle,
+.rc-slider-disabled .rc-slider-dot {
+  box-shadow: none;
+  cursor: not-allowed;
+}
+
+.rc-slider-disabled .rc-slider-mark-text,
+.rc-slider-disabled .rc-slider-dot {
+  cursor: not-allowed !important;
+}
+
+.rc-slider-tooltip-zoom-down-enter,
+.rc-slider-tooltip-zoom-down-appear {
+  display: block !important;
+  animation-duration: 0.3s;
+  animation-fill-mode: both;
+  animation-play-state: paused;
+}
+
+.rc-slider-tooltip-zoom-down-leave {
+  display: block !important;
+  animation-duration: 0.3s;
+  animation-fill-mode: both;
+  animation-play-state: paused;
+}
+
+.rc-slider-tooltip-zoom-down-enter.rc-slider-tooltip-zoom-down-enter-active,
+.rc-slider-tooltip-zoom-down-appear.rc-slider-tooltip-zoom-down-appear-active {
+  animation-name: rcSliderTooltipZoomDownIn;
+  animation-play-state: running;
+}
+
+.rc-slider-tooltip-zoom-down-leave.rc-slider-tooltip-zoom-down-leave-active {
+  animation-name: rcSliderTooltipZoomDownOut;
+  animation-play-state: running;
+}
+
+.rc-slider-tooltip-zoom-down-enter,
+.rc-slider-tooltip-zoom-down-appear {
+  transform: scale(0, 0);
+  animation-timing-function: cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.rc-slider-tooltip-zoom-down-leave {
+  animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+
+@keyframes rcSliderTooltipZoomDownIn {
+  0% {
+    transform: scale(0, 0);
+    transform-origin: 50% 100%;
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1, 1);
+    transform-origin: 50% 100%;
+  }
+}
+
+@keyframes rcSliderTooltipZoomDownOut {
+  0% {
+    transform: scale(1, 1);
+    transform-origin: 50% 100%;
+  }
+  100% {
+    transform: scale(0, 0);
+    transform-origin: 50% 100%;
+    opacity: 0;
+  }
+}

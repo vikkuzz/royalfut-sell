@@ -1,0 +1,130 @@
+.container_dd {
+    flex-direction: column;
+    gap: 12px;
+    transition: all 0.3s;
+
+    @media (min-width: 1025px) {
+        gap: 8px;
+    }
+}
+.container_dd > button > .arrow_wrapper {
+    transform: rotate(0deg);
+    transition: all 0.3s;
+}
+.container_dd:hover > button > .arrow_wrapper {
+    transition: all 0.3s;
+    transform: rotate(180deg);
+}
+.container_content_dd {
+    transition: all 0.3s;
+    transform: rotateX(90deg);
+    max-height: 0;
+    opacity: 0;
+    z-index: 3;
+    flex-direction: column;
+    gap: 4px;
+
+    overflow: hidden;
+
+    @media (min-width: 1025px) {
+        position: absolute;
+        top: calc(100% + 6px);
+        left: 0px;
+        border-radius: 16px;
+        box-shadow: 0px 12px 20px 0px rgba(0, 0, 0, 0.4);
+    }
+    @media (hover: hover) and (pointer: fine) {
+        button:hover {
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+    }
+}
+.container_dd:hover > .container_content_dd {
+    @media (min-width: 1025px) {
+        transition: all 0.3s;
+        transform: rotateX(0deg);
+        opacity: 1;
+        height: auto;
+        max-height: 200px;
+    }
+}
+.content_active {
+    transition: all 0.3s;
+    transform: rotateX(0deg);
+    opacity: 1;
+    height: auto;
+    max-height: 200px;
+}
+.container_dd:hover > .gap {
+    @media (min-width: 1025px) {
+        z-index: 2;
+        //background-color: #12142b;
+    }
+}
+.arrow_wrapper {
+    min-width: 24px;
+    width: auto;
+    background: transparent;
+    margin-left: auto;
+}
+.dd_active_text {
+    width: auto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+}
+.active_img_wrapper {
+    width: auto;
+    min-width: 24px;
+    background: transparent;
+}
+.dd_active_btn {
+    gap: 8px;
+    border: none;
+}
+.platform_btn {
+    padding: 8px 0px;
+    gap: 6px;
+    border: none;
+    //border-radius: 8px;
+    transition: all 0.3s;
+
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+
+    @media (min-width: 1025px) {
+        padding: 8px 12px;
+    }
+}
+.img_wrapper {
+    background: transparent;
+    width: auto;
+}
+.hide_block {
+    opacity: 0 !important;
+    transform: rotateX(90deg) !important;
+    max-height: 0px !important;
+}
+.gap {
+    position: absolute;
+    left: 0;
+    //z-index: 1;
+    top: calc(100%);
+    height: 16px;
+    background-color: transparent;
+    box-shadow: none;
+
+    @media (min-width: 1025px) {
+        top: calc(100% - 10px);
+        height: 20px;
+        background: transparent;
+    }
+}
+.fake_radio {
+    width: 16px;
+    height: 16px;
+    margin-left: auto;
+    background: transparent;
+    align-self: center;
+}

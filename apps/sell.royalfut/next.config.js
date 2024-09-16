@@ -2,6 +2,7 @@
 
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 const { composePlugins, withNx } = require("@nx/next");
+const withNextIntl = require("next-intl/plugin")("./i18n.ts");
 
 /**
  * @type {import('@nx/next/plugins/with-nx').WithNxOptions}
@@ -9,6 +10,37 @@ const { composePlugins, withNx } = require("@nx/next");
 const nextConfig = {
     reactStrictMode: true,
     swcMinify: true,
+    compress: process.env.STATE === "deploy" ? false : true,
+    // async headers() {
+    //     if (process.env.STATE === 'deploy') {
+    //         return [
+    //           {
+    //             source: '/:path*',
+    //             headers: [
+    //               {
+    //                 key: 'Content-Encoding',
+    //                 value: 'br',
+    //               },
+    //             ],
+    //           },
+    //         ];
+    //     }
+    //     return [];
+    // },
+    webpack(config, { isServer }) {
+        if (!isServer && process.env.STATE === "deploy") {
+            config.optimization.splitChunks.cacheGroups.vendors = {
+                test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
+                name: "vendors",
+                chunks: "all",
+                enforce: true,
+            };
+
+            config.optimization.removeEmptyChunks = true;
+        }
+
+        return config;
+    },
     compiler: {
         removeConsole: process.env.NODE_ENV !== "development",
     },
@@ -19,12 +51,12 @@ const nextConfig = {
     },
 };
 
-const withPWA = require("next-pwa")({
-    dest: "public",
-    disable: process.env.NODE_ENV === "development",
-    register: true,
-    skipWaiting: true,
-});
+// const withPWA = require("next-pwa")({
+//     dest: "public",
+//     disable: process.env.NODE_ENV === "development",
+//     register: true,
+//     skipWaiting: true,
+// });
 
 const plugins = [
     // Add more Next.js plugins to this list if needed.
@@ -32,5 +64,4 @@ const plugins = [
 ];
 
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
-// @ts-expect-error
-module.exports = composePlugins(...plugins)(withPWA(nextConfig));
+module.exports = composePlugins(...plugins)(withNextIntl(nextConfig));

@@ -1,0 +1,4456 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-12-04 23:19+0100\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: tr\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: pages/_app.js:26
+msgid "\"seo:root:description\""
+msgstr ""
+
+#: components/DeliveryStage/DeliveryStage.js:121
+#~ msgid "{0}"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:52
+msgid "80% of orders are delivered"
+msgstr "20 dakikadan kısa süre içinde teslim edilir"
+
+#~ msgid "a0"
+#~ msgstr "[[X]] değerlendirmeye dayanarak"
+
+#: components/Rated/Rated.js:83
+#: components/ReviewsGallery/ReviewsGallery.js:87
+msgid "a0_1"
+msgstr " değerlendirmeye "
+
+#: components/Rated/Rated.js:90
+msgid "a0_2"
+msgstr "dayanarak"
+
+#: components/ChangePassword/ChangePassword.js:153
+msgid "a1"
+msgstr "Parola değiştirin"
+
+#~ msgid "a10"
+#~ msgstr "Bonus jetonlar"
+
+#: components/Order/OrderDelivery.js:192
+msgid "a100"
+msgstr "Oyuncu Açık Artırma"
+
+#: components/CustomAccordion/CustomAccordion.js:52
+#: components/CustomAccordion/CustomAccordion.js:642
+msgid "a101"
+msgstr "Oyuncu Açık Artırma teslimat yöntemi hakkında sorular"
+
+#: components/CustomAccordion/CustomAccordion.js:648
+msgid "a102"
+msgstr "FUT kulübümü bir Oyuncu Açık Artırma siparişi için nasıl hazırlamalıyım?"
+
+#: components/CustomAccordion/CustomAccordion.js:345
+msgid "a103"
+msgstr "- Transfer Market'in kilidinin açık olduğundan emin olun "
+
+#: components/CustomAccordion/CustomAccordion.js:348
+msgid "a103_2"
+msgstr "- bakiyenizde en az 5000 jeton bulundurun"
+
+#: components/CustomAccordion/CustomAccordion.js:659
+msgid "a104"
+msgstr "Transfer Market kilidimin açık olup olmadığını nasıl kontrol edebilirim?"
+
+#: components/CustomAccordion/CustomAccordion.js:357
+msgid "a105"
+msgstr "Transfer Market kilidi açık"
+
+#: components/CustomAccordion/CustomAccordion.js:360
+msgid "a106"
+msgstr "Transfer Market kilitli"
+
+#: components/CustomAccordion/CustomAccordion.js:670
+msgid "a107"
+msgstr "Bu yöntemle sipariş vermek ve madeni paraları teslim almak için hangi adımları atmalıyım?"
+
+#: components/CustomAccordion/CustomAccordion.js:211
+msgid "a108"
+msgstr "Oyuncu Açık Artırma"
+
+#: components/CustomAccordion/CustomAccordion.js:225
+msgid "a109"
+msgstr "1. Sipariş verirken, Oyuncu Açık Artırma teslimat yöntemini seçin."
+
+#: components/Purchase/Purchase.js:661
+msgid "a11"
+msgstr "Siparişiniz yükleniyor, lütfen bekleyin..."
+
+#: components/CustomAccordion/CustomAccordion.js:228
+msgid "a110"
+msgstr "2. Siparişiniz için ödeme yapın."
+
+#: components/CustomAccordion/CustomAccordion.js:231
+msgid "a111"
+msgstr "3. Başarılı bir ödemenin ardından, Jeton teslimatı için talimatları içeren sayfaya yönlendirileceksiniz. Jetonların aktarılmasını istediğiniz hesabı kullanarak burada açıklanan adımları izleyin."
+
+#: components/CustomAccordion/CustomAccordion.js:235
+msgid "a112"
+msgstr "Tüm süreç hakkında daha fazla bilgiyi aşağıdaki videoda bulabilirsiniz."
+
+#~ msgid "a113"
+#~ msgstr "Daha fazla bilgi edinin"
+
+#: components/CustomAccordion/CustomAccordion.js:243
+msgid "a114"
+msgstr "4. Bu kadar! Jetonlarınızın tadını çıkarın! Ayrıca bizi"
+
+#~ msgid "a115"
+#~ msgstr "Trustpilot'ta değerlendirmeyi unutmayın"
+
+#~ msgid "a116"
+#~ msgstr "Herhangi bir sorunuz olması veya herhangi bir aşamada yardıma ihtiyaç duymanız halinde, lütfen canlı sohbet veya tercih ettiğiniz başka bir yolla (WhatsApp, Telegram, Instagram Direct veya e-posta) Destek Ekibimizle iletişime geçmekten çekinmeyin."
+
+#: components/CustomAccordion/CustomAccordion.js:53
+#: components/CustomAccordion/CustomAccordion.js:681
+msgid "a117"
+msgstr "Ödemeler hakkında sorular"
+
+#: components/CustomAccordion/CustomAccordion.js:687
+msgid "a118"
+msgstr "Hangi ülkelerde faaliyet gösteriyorsunuz?"
+
+#: components/CustomAccordion/CustomAccordion.js:447
+msgid "a119"
+msgstr "Dünyanın her yerinde faaliyet gösteriyoruz ve Afganistan, Kuzey Kore, Suriye, Kırım Cumhuriyeti ve diğer yüksek riskli yargı bölgeleri hariç tüm bölgelerden ödeme kabul ediyoruz."
+
+#: components/ChangeAvatar/ChangeAvatar.js:52
+msgid "a12"
+msgstr "Profil resminizi seçin"
+
+#: components/CustomAccordion/CustomAccordion.js:695
+msgid "a120"
+msgstr "Web sitenizde hangi ödeme yöntemleri kullanılabiliyor?"
+
+#: components/CustomAccordion/CustomAccordion.js:458
+msgid "a121"
+msgstr "Desteklediğimiz ödeme yöntemleri listesi, sunduğumuz hizmetlerdeki kullanıcı etkileşimi deneyimini iyileştirmeyi amaçladığımız için sürekli olarak güncellenmektedir. Şu an itibariyle kabul ettiğimiz ödeme yöntemleri: "
+
+#: components/CustomAccordion/CustomAccordion.js:462
+msgid "a121_2"
+msgstr "1. VISA, MasterCard, Maestro, Discover, DinnersClub, JCB ve UnionPay kartları. "
+
+#: components/CustomAccordion/CustomAccordion.js:465
+msgid "a121_3"
+msgstr "2. Apple Pay ve Google Pay aracılığıyla temassız ödeme. "
+
+#: components/CustomAccordion/CustomAccordion.js:468
+msgid "a121_4"
+msgstr "3. Çoğu AB bankası, iDeal ve diğerleri aracılığıyla banka havalesi. "
+
+#: components/CustomAccordion/CustomAccordion.js:471
+msgid "a121_5"
+msgstr "4. Kripto para birimleri - Bitcoin, USD Tether, Ethereum."
+
+#: components/CustomAccordion/CustomAccordion.js:703
+msgid "a122"
+msgstr "Siparişimi nasıl iade edebilirim?"
+
+#: components/CustomAccordion/CustomAccordion.js:708
+msgid "a123"
+msgstr "Siparişiniz için başarılı bir şekilde ödeme yaptıysanız ancak herhangi bir nedenle artık jetonlara ihtiyacınız yoksa, tam geri ödeme talep edebilirsiniz. Bunu yapmak için, canlı sohbet veya seçtiğiniz başka bir yolla (WhatsApp, Telegram, Instagram Direct veya e-posta) Destek Hizmetimizle iletişime geçmeniz yeterlidir."
+
+#: components/CustomAccordion/CustomAccordion.js:713
+msgid "a124"
+msgstr "Kullanıcılardan da jeton satın alıyor musunuz?"
+
+#: components/CustomAccordion/CustomAccordion.js:718
+msgid "a125"
+msgstr "Bu bizim odağımız ana faaliyet değil, ancak bazen yapıyoruz, Skype veya Telegram üzerinden yöneticimizle iletişime geçebilirsiniz, teklifinizi değerlendireceğiz."
+
+#~ msgid "a126"
+#~ msgstr "Her şey hazır mı? O zaman satın alma zamanı!"
+
+#~ msgid "a127"
+#~ msgstr "Jetonlar satın alın"
+
+#: components/RedirectModal/RedirectModal.js:40
+msgid "a128"
+msgstr "Yönlendiriliyor..."
+
+#: components/RedirectModal/RedirectModal.js:42
+msgid "a129"
+msgstr "Otomatik olarak ortağımızın sitesine yönlendirileceksiniz"
+
+#~ msgid "a13"
+#~ msgstr "Jeton miktarını değiştirin"
+
+#: components/RedirectModal/RedirectModal.js:44
+msgid "a130"
+msgstr "[[X]] saniye içinde"
+
+#: components/Modal/Modal.js:253
+msgid "a131"
+msgstr "Şimdi Git"
+
+#~ msgid "a132"
+#~ msgstr "En az 2 yedek kod gereklidir"
+
+#~ msgid "a133"
+#~ msgstr "Siparişiniz"
+
+#~ msgid "a134"
+#~ msgstr "Bonus jetonlar"
+
+#: components/Order/OrderPayments.js:107
+msgid "a135"
+msgstr "Ödeme yöntemi"
+
+#: components/Payments/Payments.js:96
+#: components/Payments/Payments.js:181
+#: components/Purchase/Purchase.js:126
+#: components/Purchase/Purchase.js:132
+#: components/Purchase/Purchase.js:162
+#: components/Purchase/Purchase.js:168
+#: components/Purchase/Purchase.js:180
+msgid "a136"
+msgstr "Kart ile"
+
+#: components/Payments/Payments.js:140
+#: components/Purchase/Purchase.js:156
+msgid "a137"
+msgstr "Çevrimiçi bankacılık ile"
+
+#: components/Payments/Payments.js:160
+#: components/Payments/Payments.js:200
+#: components/Purchase/Purchase.js:138
+#: components/Purchase/Purchase.js:144
+#: components/Purchase/Purchase.js:150
+#: components/Purchase/Purchase.js:174
+msgid "a138"
+msgstr "Kripto para ile"
+
+#: components/Order/OrderPayments.js:36
+#: components/Payments/Payments.js:146
+msgid "a139"
+msgstr "AB: Banka havalesi"
+
+#: components/TableOrders/TableOrderBody.js:728
+msgid "a14"
+msgstr "Yapıştır"
+
+#~ msgid "a140"
+#~ msgstr "Teslimat"
+
+#: components/DeliveryContent/DeliveryContent.js:13
+msgid "a141"
+msgstr "FIFA jeton piyasasında benzersiz bir yaklaşım olan ve tamamen sizin için geliştirilen EA FC jetonları için yenilikçi teslimat sistemini dikkatinize sunmak istiyoruz. Her sipariş, EA hesabı için herhangi bir istenmeyen sonucu tamamen ortadan kaldıran bir dizi tescilli protokole göre işleme alınır. Jeton transfer algoritmamızı sürekli olarak geliştiriyoruz, kapsamlı kalibrasyona ve bir dizi farklı teste tabi tutuyoruz ve yalnızca test edilen her aşamanın olumlu değerlendirme alması durumunda tam uygulama için yeşil ışık veriyoruz."
+
+#: components/DeliveryContent/DeliveryContent.js:15
+msgid "a142"
+msgstr "Ayrıca, EA FC jetonlarının satışıyla ile ilgilenen diğer birçok kuruluşla verimli ortaklıklar kurarak etki alanımızı büyük ölçüde genişlettik. Şu anda ekosistemimiz, platformumuza entegre edilmiş 10'dan fazla mağazayı içermektedir. Ve bu tür işbirliklerine kapımız her zaman açıktır. Bir EA FC jeton mağazası olarak bizimle ortaklık kurmakla ilgileniyorsanız bizimle"
+
+#: components/DeliveryContent/DeliveryContent.js:24
+msgid "a143"
+msgstr "Skype"
+
+#: components/DeliveryContent/DeliveryContent.js:27
+msgid "a144"
+msgstr "veya"
+
+#: components/DeliveryContent/DeliveryContent.js:34
+msgid "a145"
+msgstr "Telegram üzerinden iletişime geçin."
+
+#: components/DeliveryContent/DeliveryContent.js:37
+msgid "a146"
+msgstr "Yukarıda sunulan FUT ve EA FC jeton piyasasındaki başarılarımızın listesini birlikte güçlendirmemize olanak sağlayacak bu işbirliği fırsatının tüm ayrıntılarını görüşebiliriz."
+
+#: components/Infografic/Infografic.js:114
+msgid "a147"
+msgstr "İşte ilginizi çekecek bazı istatistikler*:"
+
+#: components/Infografic/Infografic.js:12
+#: components/InfograficMain/InfograficMain.js:12
+msgid "a148"
+msgstr "Bu alanda"
+
+#~ msgid "a149"
+#~ msgstr "7 yılı aşan"
+
+#: components/Infografic/Infografic.js:14
+#~ msgid "a149_1"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:14
+msgid "a149_2"
+msgstr "7"
+
+#: components/Infografic/Infografic.js:15
+msgid "a149_3"
+msgstr "yılı aşan"
+
+#~ msgid "a15"
+#~ msgstr "Kuponu kullanmak için hesabınıza giriş yapın"
+
+#: components/Infografic/Infografic.js:16
+msgid "a150"
+msgstr "bu alana özel deneyimimiz"
+
+#: components/Infografic/Infografic.js:21
+#: components/InfograficMain/InfograficMain.js:20
+msgid "a151"
+msgstr "Müşterilerimize"
+
+#~ msgid "a152"
+#~ msgstr "100"
+
+#: components/Infografic/Infografic.js:23
+#~ msgid "a152_1"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:23
+msgid "a152_2"
+msgstr "100"
+
+#: components/Infografic/Infografic.js:24
+msgid "a152_3"
+msgstr "B+"
+
+#: components/Infografic/Infografic.js:26
+#~ msgid "a153"
+#~ msgstr "müşterilerimizin hesaplarına aktarılan jeton"
+
+#: components/Infografic/Infografic.js:30
+#: components/InfograficMain/InfograficMain.js:28
+msgid "a154"
+msgstr "Müşterilerimize"
+
+#~ msgid "a155"
+#~ msgstr "100 binden fazla"
+
+#: components/Infografic/Infografic.js:32
+#~ msgid "a155_1"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:32
+msgid "a155_2"
+msgstr "100"
+
+#: components/Infografic/Infografic.js:33
+msgid "a155_3"
+msgstr "binden fazla"
+
+#: components/Infografic/Infografic.js:35
+#~ msgid "a156"
+#~ msgstr "başarıyla teslim edilen sipariş"
+
+#: components/Infografic/Infografic.js:39
+#: components/InfograficMain/InfograficMain.js:36
+msgid "a157"
+msgstr "Hizmetimiz"
+
+#~ msgid "a158"
+#~ msgstr "30"
+
+#: components/Infografic/Infografic.js:41
+#~ msgid "a158_1"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:41
+msgid "a158_2"
+msgstr "30"
+
+#: components/Infografic/Infografic.js:42
+msgid "a158_3"
+msgstr "binden fazla"
+
+#: components/Infografic/Infografic.js:44
+#~ msgid "a159"
+#~ msgstr "hizmetimizi deneyen oyuncu"
+
+#~ msgid "a16"
+#~ msgstr "100 bin başına +[[X]] $"
+
+#: components/Infografic/Infografic.js:48
+#: components/InfograficMain/InfograficMain.js:44
+msgid "a160"
+msgstr "Siperişlerin"
+
+#~ msgid "a161"
+#~ msgstr "%80'den fazla"
+
+#: components/Infografic/Infografic.js:50
+#~ msgid "a161_1"
+#~ msgstr "%"
+
+#: components/Infografic/Infografic.js:50
+msgid "a161_2"
+msgstr "20"
+
+#: components/Infografic/Infografic.js:52
+#~ msgid "a161_3"
+#~ msgstr "'den fazla"
+
+#: components/Infografic/Infografic.js:53
+#~ msgid "a162"
+#~ msgstr "en az iki kez alışveriş yapmış olan geri dönen müşteri oranı"
+
+#: components/Infografic/Infografic.js:57
+#: components/InfograficMain/InfograficMain.js:53
+msgid "a163"
+msgstr "Anketlere göre"
+
+#~ msgid "a164"
+#~ msgstr "97%"
+
+#: components/Infografic/Infografic.js:61
+#~ msgid "a165"
+#~ msgstr "anket sonuçlarına göre müşteri memnuniyet oranı"
+
+#: components/Infografic/Infografic.js:126
+msgid "a166"
+msgstr "* 1 Ekim 2023 itibariyle"
+
+#~ msgid "a17"
+#~ msgstr "EA FC 25 Ultimate Team Mağazası | EA Sports FC Jeton Mağazası"
+
+#~ msgid "a18"
+#~ msgstr "Şunları alacaksınız"
+
+#: pages/coins/index.js:196
+#: pages/coins/index.js:275
+msgid "a19"
+msgstr "Özel miktar"
+
+#: components/Modal/Modal.js:492
+msgid "a2"
+msgstr "Geri"
+
+#: components/InformationStub/InformationStub.js:19
+msgid "a20"
+msgstr "Henüz sipariş vermediniz"
+
+#: components/InformationStub/InformationStub.js:22
+msgid "a21"
+msgstr "Bu bölümde, siparişinizi verdikten sonra sipariş geçmişiniz yer alır"
+
+#: components/InformationStub/InformationStub.js:30
+msgid "a22"
+msgstr "Ana sayfaya geri dön"
+
+#~ msgid "a23"
+#~ msgstr "Kart ile"
+
+#: components/Order/OrderPayments.js:72
+msgid "a24"
+msgstr "Kripto para ile"
+
+#~ msgid "a25"
+#~ msgstr "Apple Pay ile"
+
+#~ msgid "a26"
+#~ msgstr "Google Pay ile"
+
+#~ msgid "a27"
+#~ msgstr "E-cüzdan ile"
+
+#~ msgid "a28"
+#~ msgstr "Banka havalesi ile"
+
+#~ msgid "a29"
+#~ msgstr "Sıkça Sorulan Sorular"
+
+#~ msgid "a3"
+#~ msgstr "Seç"
+
+#: components/CustomAccordion/CustomAccordion.js:502
+#: components/FaqMain/FaqMain.js:124
+msgid "a30"
+msgstr "Neden ROYALFUT.COM'u seçmeliyim?"
+
+#: components/CustomAccordion/CustomAccordion.js:61
+#: components/FaqMain/FaqMain.js:19
+msgid "a31"
+msgstr "Bunun, ilk satın alma işleminden sonra mutlaka keşfedeceğiniz birkaç nedeni vardır:"
+
+#: components/CustomAccordion/CustomAccordion.js:65
+#: components/FaqMain/FaqMain.js:23
+msgid "a32"
+msgstr "Piyasadaki en düşük fiyatlardan birini sunuyoruz."
+
+#: components/CustomAccordion/CustomAccordion.js:71
+#: components/FaqMain/FaqMain.js:29
+msgid "a33"
+msgstr "Memnun müşteriler tarafından yapılan çok sayıda yorum"
+
+#: components/CustomAccordion/CustomAccordion.js:74
+#: components/FaqMain/FaqMain.js:32
+msgid "a34"
+msgstr "burada bulunabilir."
+
+#: components/CustomAccordion/CustomAccordion.js:82
+#: components/FaqMain/FaqMain.js:40
+msgid "a35"
+msgstr "Hesabınızın güvenliği her zaman en büyük önceliğimizdir ve siparişinizin herhangi bir nedenle teslim edilmemesi durumunda tam iade garantisi vardır."
+
+#: components/FaqMain/FaqMain.js:46
+msgid "a36"
+msgstr "En kısa teslimat süreleri - bizi tercih ettiğinizde siparişin tamamlanması için uzun bekleme sürelerini unutacaksınız."
+
+#: components/FaqMain/FaqMain.js:52
+msgid "a37"
+msgstr "Destek ekibimiz, satın alma işleminden önce ve sonra, canlı sohbet veya seçtiğiniz herhangi bir yolla (WhatsApp, Telegram, Instagram Direct veya e-posta) karşılaşabileceğiniz herhangi bir sorunu çözmenize yardımcı olmaya her zaman hazırdır."
+
+#: components/CustomAccordion/CustomAccordion.js:510
+#: components/FaqMain/FaqMain.js:132
+msgid "a38"
+msgstr "[[PT]] yerine [[UT]] jetonları satın almanın avantajları nelerdir?"
+
+#: components/CustomAccordion/CustomAccordion.js:370
+#: components/FaqMain/FaqMain.js:65
+msgid "a39"
+msgstr "Jetonlar, düşük maliyetleri ve [[UT]] kulübünüz için çok daha faydalı bir şekilde harcanabilmeleri nedeniyle dünyadaki çoğu [[F]] oyuncusunun ilk tercihidir."
+
+#~ msgid "a4"
+#~ msgstr "Seçili"
+
+#: components/CustomAccordion/CustomAccordion.js:377
+#: components/FaqMain/FaqMain.js:72
+msgid "a40"
+msgstr "Diğer oyuncular tarafından Transfer Market'te listelenen oyun içi eşyalar için [[UT]] Jetonu harcayabilirsiniz. Bunlar oyuncu kartları, koç kartları, forma setleri, stadyumlar, sarf malzemeleri ve daha fazlası olabilir. Ve en önemlisi, bunların hiçbiri [[PT]] ile satın alınamaz."
+
+#: components/CustomAccordion/CustomAccordion.js:384
+#: components/FaqMain/FaqMain.js:79
+msgid "a41"
+msgstr "[[PT]] ile [[UT]] mağazasından paketler satın alabilir ve [[UT]] Taslaklarına erişebilirsiniz. Ancak bunların her ikisini de jeton kullanarak yapabilirsiniz. Gerçek para açısından, [[PT]] yerine [[UT]] jetonlarını kullanarak oyun içi alışveriş yapmak 5 kat daha ucuzdur. Bizimle jeton alışverişine başlayın ve kendiniz görün 😉"
+
+#: components/CustomAccordion/CustomAccordion.js:520
+msgid "a42"
+msgstr "Hangi teslimat yöntemlerini sunuyorsunuz ve aralarındaki ne tür farklar vardır?"
+
+#: components/CustomAccordion/CustomAccordion.js:397
+msgid "a43"
+msgstr "Web sitemizde seçebileceğiniz iki teslimat yöntemi vardır: Rahat İşlem ve Oyuncu Açık Artırma."
+
+#: components/CustomAccordion/CustomAccordion.js:402
+msgid "a44"
+msgstr "Rahat İşlem siparişlerinin işleme alınması için bize EA hesap bilgilerinizi vermeniz gerekir, ancak sizin başka bir işlem yapmanıza gerek yoktur, teslimat sürecini biz hallederiz."
+
+#: components/CustomAccordion/CustomAccordion.js:407
+msgid "a45"
+msgstr "Oyuncu Açık Artırma teslimat yöntemi için herhangi bir bilgi gerekmez, ancak talimatlarımızı kullanarak sizin para transferi yapmanız gerekecektir."
+
+#: components/CustomAccordion/CustomAccordion.js:412
+msgid "a46"
+msgstr "Her iki teslimat yöntemi hakkında daha fazla bilgiyi"
+
+#: components/CustomAccordion/CustomAccordion.js:414
+msgid "a47"
+msgstr "burada bulabilirsiniz."
+
+#: components/CustomAccordion/CustomAccordion.js:528
+msgid "a48"
+msgstr "Jeton teslimatı ne kadar sürer?"
+
+#: components/CustomAccordion/CustomAccordion.js:426
+msgid "a49"
+msgstr "Bu, seçtiğiniz teslimat yöntemine bağlıdır."
+
+#: components/BurgerMenu/BurgerMenu.js:306
+#: components/BurgerMenu/BurgerMenu.js:501
+msgid "a5"
+msgstr "Menü"
+
+#: components/CustomAccordion/CustomAccordion.js:431
+msgid "a50"
+msgstr "Ödeme sayfasında ödeme yapmadan önce Rahat İşlem siparişleri için yaklaşık teslimat süresini gösteriyoruz. Gönderdiğiniz tüm bilgiler doğruysa ve hesabınız para transferi için tamamen hazırsa, sipariş ortalama 15-20 dakika içinde tamamlanacaktır. Ancak, teslimat süresinin öncelikle sipariş edilen jetonların miktarına bağlı olduğunu unutmayın."
+
+#: components/CustomAccordion/CustomAccordion.js:436
+msgid "a51"
+msgstr "Oyuncu Açık Artırma teslimat yöntemine gelince, bu seçeneğin zamanlaması tamamen size bağlıdır. Para transferi oyuncu kartlarının alınıp satılmasıyla gerçekleştirilir. Bu yöntemle siparişin tamamlanması için sistemimiz tarafından önerilen ortalama 3-10 kartın tarafınızdan alınıp satılması gerekmektedir. Ancak başlangıç bakiyenizin bu senaryoda önemli bir rol oynadığını unutmayın; ne kadar büyük olursa, teslimat o kadar hızlı işlenir. Bu nedenle sipariş vermeden önce bakiyenizi mümkün olduğunca yüksek tutmaya çalışın, mesela artık istemediğiniz kartları satabilirsiniz."
+
+#: components/CustomAccordion/CustomAccordion.js:536
+msgid "a52"
+msgstr "İndirim kuponunu nasıl kullanabilirim?"
+
+#: components/CustomAccordion/CustomAccordion.js:542
+msgid "a53"
+msgstr "Ödeme sayfasına ulaşın."
+
+#: components/CustomAccordion/CustomAccordion.js:548
+#: components/FaqMain/FaqMain.js:143
+msgid "a54"
+msgstr "Düzenli müşteriler için özel teklifler var mı?"
+
+#: components/CustomAccordion/CustomAccordion.js:554
+#: components/FaqMain/FaqMain.js:91
+msgid "a55"
+msgstr "Evet, var. Bizden düzenli olarak alışveriş yapmaya başladığınızı fark ettiğimiz anda özel teklifler almaya başlayacaksınız. Ayrıca şeffaf bir sadakat programı üzerinde çalıştığımızdan bahsetmiyorum bile. Güncellemeler için bizi izlemeye devam edin!"
+
+#: components/Order/OrderDelivery.js:141
+msgid "a56"
+msgstr "Rahat İşlem"
+
+#: components/CustomAccordion/CustomAccordion.js:51
+#: components/CustomAccordion/CustomAccordion.js:563
+msgid "a57"
+msgstr "Rahat İşlem teslimat yöntemi hakkında sorular"
+
+#: components/CustomAccordion/CustomAccordion.js:569
+msgid "a58"
+msgstr "[[UT]] kulübümü Rahat İşlem siparişi için nasıl hazırlamalıyım?"
+
+#~ msgid "a59"
+#~ msgstr "Transfer Listesi"
+
+#~ msgid "a6"
+#~ msgstr "[[X]] jeton"
+
+#: components/CustomAccordion/CustomAccordion.js:110
+msgid "a60"
+msgstr "[[WA]] ayarlarında Transfer Market'in kilidinin açık olduğundan emin olun"
+
+#: components/CustomAccordion/CustomAccordion.js:120
+msgid "a61"
+msgstr "bakiyenizde en az 5000 jeton bulundurun"
+
+#: components/CustomAccordion/CustomAccordion.js:126
+msgid "a62"
+msgstr "Transfer List enizde mümkün olduğunca fazla yer açın"
+
+#: components/CustomAccordion/CustomAccordion.js:580
+msgid "a63"
+msgstr "[[WA]] ayarlarında Transfer Market kilidimin açık olup olmadığını nasıl kontrol edebilirim?"
+
+#: components/CustomAccordion/CustomAccordion.js:138
+msgid "a64"
+msgstr "Transfer Market kilidi açık"
+
+#: components/CustomAccordion/CustomAccordion.js:141
+msgid "a65"
+msgstr "Transfer Market kilitli"
+
+#: components/CustomAccordion/CustomAccordion.js:591
+msgid "a66"
+msgstr "Bu yöntemle sipariş vermek ve jetonları teslim almak için hangi adımları atmalıyım?"
+
+#: components/CustomAccordion/CustomAccordion.js:151
+msgid "a67"
+msgstr "Rahat İşlem"
+
+#: components/CustomAccordion/CustomAccordion.js:165
+msgid "a68"
+msgstr "1. Sipariş verirken Rahat İşlem teslimat yöntemini seçin."
+
+#: components/CustomAccordion/CustomAccordion.js:168
+msgid "a69"
+msgstr "2. Siparişiniz için ödeme yapın."
+
+#~ msgid "a7"
+#~ msgstr "FC 25 jetonları"
+
+#: components/CustomAccordion/CustomAccordion.js:171
+msgid "a70"
+msgstr "3. Başarılı bir ödemeden sonra, EA hesap bilgilerinizi ilgili alanlara girmeniz gerekecektir."
+
+#: components/CustomAccordion/CustomAccordion.js:174
+msgid "a71"
+msgstr "4. Gönderilen bilgiler doğruysa, [[F]] hesabınıza giriş yapmamanız gereken otomatik teslimat süreci başlayacaktır. Sipariş tamamlandığında e-posta yoluyla bilgilendirileceksiniz ve web sitesinde de bu konuda bir mesaj görünecektir."
+
+#: components/CustomAccordion/CustomAccordion.js:181
+msgid "a72"
+msgstr "Tüm süreç hakkında daha fazla bilgiyi aşağıdaki videoda bulabilirsiniz."
+
+#: components/CustomAccordion/CustomAccordion.js:185
+#: components/CustomAccordion/CustomAccordion.js:239
+#: components/Products/Products.js:61
+msgid "a73"
+msgstr "Daha fazla bilgi edinin"
+
+#: components/CustomAccordion/CustomAccordion.js:189
+msgid "a74"
+msgstr "5. Bu kadar! Jetonlarınızın tadını çıkarın! Ayrıca bizi"
+
+#: components/CustomAccordion/CustomAccordion.js:196
+#: components/CustomAccordion/CustomAccordion.js:250
+msgid "a75"
+msgstr "Trustpilot'ta değerlendirmeyi unutmayın"
+
+#: components/CustomAccordion/CustomAccordion.js:201
+#: components/CustomAccordion/CustomAccordion.js:255
+msgid "a76"
+msgstr "Herhangi bir sorunuz olması veya herhangi bir aşamada yardıma ihtiyaç duymanız halinde, lütfen canlı sohbet veya tercih ettiğiniz başka bir yolla (WhatsApp, Telegram, Instagram Direct veya e-posta) Destek Ekibimizle iletişime geçmekten çekinmeyin."
+
+#: components/CustomAccordion/CustomAccordion.js:599
+msgid "a77"
+msgstr "Rahat İşlem teslimat yöntemiyle bir Jeton transferi için hangi bilgiler gereklidir?"
+
+#~ msgid "a78"
+#~ msgstr "Yedek Kodlar"
+
+#: components/CustomAccordion/CustomAccordion.js:264
+msgid "a79"
+msgstr "Yalnızca EA hesap e-postanız, parolanız ve yedek kodlar. EA ID ve PSN/Xbox hesabı kimlik bilgilerinizi veya başka herhangi bir bilgiyi paylaşmanıza gerek yoktur."
+
+#~ msgid "a8"
+#~ msgstr "Ödeme"
+
+#: components/CustomAccordion/CustomAccordion.js:607
+msgid "a80"
+msgstr "ROYALFUT.COM kişisel bilgilerimi nasıl koruyor?"
+
+#: components/CustomAccordion/CustomAccordion.js:273
+msgid "a81"
+msgstr "Projenin yönetimi, web sitesi aracılığıyla iletilen bilgileri sıkı Gizlilik Politikamız ve Yönetim Sistemimize göre bilgisayar korsanlığına ve hırsızlığa karşı korur. EA hesap bilgilerinizi, ödeme kartı verilerinizi vb. üçüncü taraflarla HİÇBİR KOŞULDA PAYLAŞMAYIZ! Daha fazla bilgiyi"
+
+#: components/CustomAccordion/CustomAccordion.js:276
+msgid "a82"
+msgstr "Gizlilik Politikası sayfamızda bulabilirsiniz."
+
+#~ msgid "a83"
+#~ msgstr "Giriş Doğrulama"
+
+#: components/CustomAccordion/CustomAccordion.js:615
+msgid "a84"
+msgstr "EA hesabım için giriş doğrulamasını nasıl açabilirim?"
+
+#: components/CustomAccordion/CustomAccordion.js:287
+msgid "a85"
+msgstr "1. EA hesap ayarları"
+
+#: components/CustomAccordion/CustomAccordion.js:294
+msgid "a86"
+msgstr "sayfasını açın"
+
+#: components/CustomAccordion/CustomAccordion.js:299
+msgid "a87"
+msgstr "2. Güvenlik > Giriş Doğrulaması > Aç > Kod Gönder > Giriş Doğrulamasını Aç"
+
+#~ msgid "a88"
+#~ msgstr "Yedek Kodlar"
+
+#~ msgid "a89"
+#~ msgstr "EA hesabım için yedek kodları nerede bulabilirim?"
+
+#~ msgid "a9"
+#~ msgstr "Sepet"
+
+#~ msgid "a90"
+#~ msgstr "1. EA hesap ayarları"
+
+#~ msgid "a91"
+#~ msgstr "sayfasını açın."
+
+#~ msgid "a92"
+#~ msgstr "2. Güvenlik > Yedek Kodlar > Görüntüle > Güvenlik Kodu Gönder > Gönder."
+
+#: components/CustomAccordion/CustomAccordion.js:623
+msgid "a93"
+msgstr "EA hesabımın e-posta adresini hatırlamıyorum, nerede bulabilirim?"
+
+#: components/CustomAccordion/CustomAccordion.js:309
+msgid "a94"
+msgstr "1. Oyunu açın ve ana menüye gidin."
+
+#: components/CustomAccordion/CustomAccordion.js:312
+msgid "a95"
+msgstr "2. Özelleştir > Çevrimiçi Ayarlar > EA Hesabı."
+
+#: components/CustomAccordion/CustomAccordion.js:631
+msgid "a96"
+msgstr "EA hesap parolamı unuttum, nasıl sıfırlayabilirim?"
+
+#: components/CustomAccordion/CustomAccordion.js:323
+msgid "a97"
+msgstr "1. EA hesabı giriş"
+
+#: components/CustomAccordion/CustomAccordion.js:330
+msgid "a98"
+msgstr "sayfasına gidin."
+
+#: components/CustomAccordion/CustomAccordion.js:335
+msgid "a99"
+msgstr "2. Giriş > Parolanızı mı unuttunuz? > İleri > Kod Gönder > İleri > Gönder."
+
+#~ msgid "aa0"
+#~ msgstr "EA futbol simülatöründe yeni bir dönem başlıyor!"
+
+#: components/SpecialOffer/SpecialOffer.js:63
+msgid "aa0_1"
+msgstr "Özel teklifimizi kaçırmayın"
+
+#~ msgid "aa1"
+#~ msgstr "EA FC 25 Lansman İndirimi - %7"
+
+#~ msgid "aa10"
+#~ msgstr "[[X]] için EA FC 25 coin alın"
+
+#~ msgid "aa11"
+#~ msgstr ""
+
+#~ msgid "aa2"
+#~ msgstr "Bu kupon ile ilk siparişinizde indirimden yararlanın"
+
+#~ msgid "aa3"
+#~ msgstr "Çalışma sürüyor"
+
+#: components/PageChanger/PageChanger.js:71
+msgid "aa4"
+msgstr "Demo"
+
+#: pages/wl-boost.js:74
+msgid "aa5"
+msgstr "Boost mu lazım? Sorun değil!"
+
+#: pages/wl-boost.js:79
+msgid "aa6"
+msgstr "Sunduğumuz hizmetler şöyle: EA FC 25 Ultimate Team Finals Rank Boost, UT Champion Finals, UT Champion Playoffs, Divisions Rivals. Bizimle iletişime geçerek en iyi fiyatı alın!"
+
+#~ msgid "aa7"
+#~ msgstr "Kalan süre:"
+
+#~ msgid "aa8"
+#~ msgstr "Yeni sezona hazırlanıyoruz"
+
+#~ msgid "aa9"
+#~ msgstr "Ultimate Team kulübünüz için EA FC 25 coini alın"
+
+#~ msgid "ab0"
+#~ msgstr "İşte ilginizi çekecek bazı istatistikler*:"
+
+#~ msgid "ab1"
+#~ msgstr "7"
+
+#: components/InfograficMain/InfograficMain.js:48
+msgid "ab10"
+msgstr "en az iki kez alışveriş yapmış olan geri dönen müşteri oranı"
+
+#~ msgid "ab100"
+#~ msgstr "Ödeme"
+
+#~ msgid "ab101"
+#~ msgstr "Güvenli ödeme"
+
+#~ msgid "ab102"
+#~ msgstr "Ödeme yöntemi"
+
+#~ msgid "ab103"
+#~ msgstr "Teslimat yöntemi"
+
+#~ msgid "ab104"
+#~ msgstr "Farklar hakkında daha fazla bilgi edinin"
+
+#: components/Order/OrderDelivery.js:208
+msgid "ab105"
+msgstr "Bu tutar için mevcut değil"
+
+#: components/Order/Coupon.js:654
+msgid "ab106"
+msgstr "Kuponunuz mu var?"
+
+#~ msgid "ab107"
+#~ msgstr "Satın Almak için Oturum Açın"
+
+#: components/Order/OrderInfo.js:95
+msgid "ab108"
+msgstr "Siparişi düzenleyin"
+
+#: components/Order/OrderInfo.js:98
+msgid "ab109"
+msgstr "Jetonlar"
+
+#: components/InfograficMain/InfograficMain.js:56
+msgid "ab11"
+msgstr "anket sonuçlarına göre müşteri memnuniyet oranı"
+
+#~ msgid "ab110"
+#~ msgstr "Platform"
+
+#: components/MainFunnel/StickySecondStep.js:115
+#: components/Order/StickySecondStep.js:355
+#: components/Package/CheckoutSticky.js:451
+msgid "ab111"
+msgstr "Toplam fiyat"
+
+#~ msgid "ab112"
+#~ msgstr "Şimdi Ödeyin"
+
+#: components/Offer/Offer.js:65
+msgid "ab113"
+msgstr "%0 ücret"
+
+#~ msgid "ab114"
+#~ msgstr "Ücret YOK"
+
+#~ msgid "ab115"
+#~ msgstr ""
+
+#~ msgid "ab12"
+#~ msgstr "* 1 Ekim 2023 itibariyle"
+
+#~ msgid "ab13"
+#~ msgstr "Ayrıca, EA FC jetonlarının satışıyla ile ilgilenen diğer birçok kuruluşla verimli ortaklıklar kurarak etki alanımızı büyük ölçüde genişlettik. Şu anda ekosistemimiz, platformumuza entegre edilmiş 10'dan fazla mağazayı içermektedir. Ve bu tür işbirliklerine kapımız her zaman açıktır. Bir EA FC jeton mağazası olarak bizimle ortaklık kurmakla ilgileniyorsanız bizimle"
+
+#~ msgid "ab14"
+#~ msgstr "Skype"
+
+#~ msgid "ab15"
+#~ msgstr "veya"
+
+#~ msgid "ab16"
+#~ msgstr "Telegram üzerinden iletişime geçin."
+
+#~ msgid "ab17"
+#~ msgstr "Yukarıda sunulan FUT ve EA FC jeton piyasasındaki başarılarımızın listesini birlikte güçlendirmemize olanak sağlayacak bu işbirliği fırsatının tüm ayrıntılarını görüşebiliriz."
+
+#~ msgid "ab18"
+#~ msgstr "Beklenmeyen hata"
+
+#~ msgid "ab19"
+#~ msgstr "Lütfen destek ekibiyle iletişime geçin"
+
+#~ msgid "ab1pl"
+#~ msgstr "yılı aşan"
+
+#: components/InfograficMain/InfograficMain.js:15
+msgid "ab2"
+msgstr "bu alana özel deneyimimiz"
+
+#: components/FaqMain/FaqMain.js:114
+#: pages/faq.js:28
+msgid "ab20"
+msgstr "Sıkça Sorulan Sorular"
+
+#: components/CustomAccordion/CustomAccordion.js:50
+#: components/CustomAccordion/CustomAccordion.js:496
+msgid "ab21"
+msgstr "Genel sorular"
+
+#~ msgid "ab22"
+#~ msgstr "Bu miktarla en ucuz oyuncuların neredeyse tamamını alabilirsiniz."
+
+#~ msgid "ab23"
+#~ msgstr "En değerli oyunculardan bazılarına da bu miktarla ulaşmanız mümkün."
+
+#~ msgid "ab24"
+#~ msgstr "Bu miktarla piyasada bulunan herhangi bir kartı satın alabilirsiniz. Rüya takımınızı oluşturun!"
+
+#: components/TableOrders/TableItem.js:374
+msgid "ab25"
+msgstr "Sıradaki Sipariş"
+
+#~ msgid "ab26"
+#~ msgstr "Tüm Platformlar için FC 25 Jetonu Satın Alın | Ultimate Team Jeton Mağazası"
+
+#: pages/order/index.js:58
+#: pages/order/index.js:93
+msgid "ab27"
+msgstr "Herhangi Bir Platform için FC 25 Jetonu Satın Alın | ROYALFUT"
+
+#: pages/order/index.js:95
+msgid "ab28"
+msgstr "EA FC 25 Jetonu Satın Alımı | Güvenli Ödeme | ROYALFUT"
+
+#~ msgid "ab29"
+#~ msgstr "PlayStation 4 için FC 25 Jetonu Satın Alımı | ROYALFUT"
+
+#~ msgid "ab3"
+#~ msgstr "100 milyardan fazla"
+
+#~ msgid "ab30"
+#~ msgstr "PlayStation 24 için FC 5 Jetonu Satın Alımı | ROYALFUT"
+
+#~ msgid "ab31"
+#~ msgstr "Xbox One için FC 25 JEtonu Satın Alımı | ROYALFUT"
+
+#~ msgid "ab32"
+#~ msgstr "Xbox Series X/S için FC 25 Jetonu Satın Alımı | ROYALFUT"
+
+#~ msgid "ab33"
+#~ msgstr "PC için FC 25 Jetonu Satın Alımı (Origin / Steam / Epic Games) | ROYALFUT"
+
+#: pages/order/index.js:100
+msgid "ab34"
+msgstr "Ödeme başarısız oldu :( | ROYALFUT"
+
+#: pages/order/index.js:98
+msgid "ab35"
+msgstr "Satın aldığınız için teşekkürler! | ROYALFUT"
+
+#: components/CustomAccordion/CustomAccordion.js:88
+msgid "ab36"
+msgstr "Yorumlar| ROYALFUT"
+
+#: components/CustomAccordion/CustomAccordion.js:94
+msgid "ab37"
+msgstr "Ödeme Yöntemleri | ROYALFUT"
+
+#~ msgid "ab38"
+#~ msgstr "Ultimate Team Jeton Teslimatı | ROYALFUT"
+
+#: pages/profile.js:34
+msgid "ab39"
+msgstr "Sipariş Geçmişi | ROYALFUT"
+
+#: components/InfograficMain/InfograficMain.js:23
+msgid "ab4"
+msgstr "müşterilerimizin hesaplarına aktarılan jeton"
+
+#: pages/profile.js:25
+msgid "ab40"
+msgstr "Profilim | ROYALFUT"
+
+#~ msgid "ab41"
+#~ msgstr "Güvenli Ödeme | ROYALFUT"
+
+#~ msgid "ab42"
+#~ msgstr "FC 25 Güçlendirmeleri Satın Alın | Hafta Sonu Lig ve Klasman Rakiplerini Geçin"
+
+#~ msgid "ab43"
+#~ msgstr "Detayları Gönder"
+
+#~ msgid "ab44"
+#~ msgstr "Tekrar Gönder"
+
+#~ msgid "ab45"
+#~ msgstr "Teslimatı Başlat"
+
+#~ msgid "ab46"
+#~ msgstr "Teslimatı Sürdür"
+
+#~ msgid "ab47"
+#~ msgstr "Kodu Tekrar Gönder"
+
+#~ msgid "ab48"
+#~ msgstr "Detayları Değiştir"
+
+#~ msgid "ab49"
+#~ msgstr "Kaydet"
+
+#~ msgid "ab5"
+#~ msgstr "100 binden fazla"
+
+#~ msgid "ab50"
+#~ msgstr "🍪 Sitemizdeki deneyiminizi daha iyi hale getirmek için çerezler kullanıyoruz."
+
+#~ msgid "ab51"
+#~ msgstr "Politika."
+
+#~ msgid "ab52"
+#~ msgstr "Tamam"
+
+#: pages/cookie-policy.js:27
+msgid "ab53"
+msgstr "Çerez Politikası"
+
+#: pages/cookie-policy.js:30
+msgid "ab54"
+msgstr "Bu web sitesini kullanarak ve bu politikayı kabul ederek, çerezleri bu politikanın şartlarına uygun olarak kullanmamıza izin vermiş olursunuz."
+
+#: pages/cookie-policy.js:34
+msgid "ab55"
+msgstr "Çerezler hakkında"
+
+#: pages/cookie-policy.js:37
+msgid "ab56"
+msgstr "Çerezler, bir web sitesinin sunucusu tarafından bilgisayarınızda veya mobil cihazınızda depolanan basit metin dosyalarıdır. Her çerez web tarayıcınıza özgüdür. Benzersiz bir tanımlayıcı, web sitesinin alan adı ve bazı rakamlar ve sayılar gibi bazı anonim bilgiler içerecektir."
+
+#: pages/cookie-policy.js:40
+msgid "ab57"
+msgstr "Ne tür çerezler kullanıyoruz?"
+
+#: pages/cookie-policy.js:43
+msgid "ab58"
+msgstr "Gerekli çerezler"
+
+#: pages/cookie-policy.js:46
+msgid "ab59"
+msgstr "Gerekli çerezler, web sitemize erişirken ve web sitemizde gezinirken ve özelliklerini kullanırken size mümkün olan en iyi deneyimi sunmamızı sağlar. Örneğin, bu çerezler bir hesap oluşturduğunuzu ve bu hesaba giriş yaptığınızı anlamamızı sağlar."
+
+#: components/InfograficMain/InfograficMain.js:31
+msgid "ab6"
+msgstr "başarıyla teslim edilen sipariş"
+
+#: pages/cookie-policy.js:49
+msgid "ab60"
+msgstr "İşlevsellik çerezleri"
+
+#: pages/cookie-policy.js:52
+msgid "ab61"
+msgstr "İşlevsellik çerezleri, siteyi yaptığınız seçimlere uygun olarak çalıştırmamızı sağlar. Örneğin, kullanıcı adınızı tanıyarak gelecekteki ziyaretlerinizde siteyi nasıl özelleştirdiğinizi hatırlayabiliriz."
+
+#: pages/cookie-policy.js:55
+msgid "ab62"
+msgstr "Analitik çerezler"
+
+#: pages/cookie-policy.js:58
+msgid "ab63"
+msgstr "Bu çerezler, bizim ve üçüncü taraf hizmetlerinin, ziyaretçilerimizin web sitesini nasıl kullandıklarına ilişkin istatistiksel amaçlarla toplu veri toplamasını sağlar. Bu çerezler isimler ve e-posta adresleri gibi kişisel bilgiler içermez ve web sitesindeki kullanıcı deneyiminizi geliştirmemize yardımcı olmak için kullanılır."
+
+#: pages/cookie-policy.js:61
+msgid "ab64"
+msgstr "Üçüncü taraf çerezleri"
+
+#: pages/cookie-policy.js:64
+msgid "ab65"
+msgstr "Kullandığınız web siteleri de size üçüncü taraf çerezleri gönderilebilir."
+
+#: pages/cookie-policy.js:67
+msgid "ab66"
+msgstr "Reklamcılarımız ve hizmet sağlayıcılarımız size çerez gönderebilir. Onların çerezlerini kullanmanızdan elde ettikleri bilgileri şu amaçlarla kullanabilirler:"
+
+#: pages/cookie-policy.js:70
+msgid "ab67"
+msgstr "tarayıcınızı birden fazla web sitesinde izlemek"
+
+#: pages/cookie-policy.js:71
+msgid "ab68"
+msgstr "internette gezinme profilinizi oluşturmak"
+
+#: pages/cookie-policy.js:72
+msgid "ab69"
+msgstr "hizmetleriyle olan etkileşimlerinize dayalı olarak, özellikle ilginizi çekebilecek reklamları hedeflemek."
+
+#~ msgid "ab7"
+#~ msgstr "30 binden fazla"
+
+#: pages/cookie-policy.js:75
+msgid "ab70"
+msgstr "Google, Inc. (Google) tarafından sağlanan bir web analiz hizmeti olan Google Analytics'i kullanıyoruz. Google Analytics, web sitesinin kullanıcıların siteyi nasıl kullandığını analiz etmesine yardımcı olmak için bilgisayarınıza yerleştirilen metin dosyaları olan çerezleri kullanır. Çerez tarafından web sitesini kullanımınız hakkında oluşturulan bilgiler (IP adresiniz dahil) Google tarafından Amerika Birleşik Devletleri'ndeki sunuculara iletilecek ve burada saklanacaktır. IP adresi, anonimliği sağlamak için iletimden önce kesilecektir. Google, bizim adımıza bu bilgileri web sitesini kullanımınızı değerlendirmek, web sitesi etkinliği hakkında raporlar oluşturmak ve web sitesinin kullanımıyla bağlantılı olarak web sitesi etkinliği ve internet etkinliği ile ilgili diğer hizmetleri sağlamak için kullanacaktır. Google, IP adresinizi Google tarafından tutulan diğer verilerle ilişkilendirmeyecektir. Tarayıcınızda uygun ayarları seçerek çerez kullanımını reddedebilirsiniz, ancak bunu yaparsanız bu web sitesinin tüm işlevlerini kullanamayabileceğinizi lütfen unutmayın. Buna ek olarak, bağlantısı aşağıda veilern tarayıcı eklentisini indirip yüklerseniz, web sitesini kullanımınız hakkında çerez tarafından oluşturulan bilgilerin (IP adresiniz dahil) toplanmasını ve bu verilerin Google tarafından işlenmesini önleyebilirsiniz:"
+
+#: pages/cookie-policy.js:76
+#: pages/cookie-policy.js:77
+msgid "ab71"
+msgstr "https://tools.google.com/dlpage/gaoptout?hl=en"
+
+#~ msgid "ab72"
+#~ msgstr "Çoğu tarayıcı çerezleri kabul etmeyi reddetmenize izin verir. Tarayıcınızdaki tüm çerezleri nasıl engelleyeceğinizi google.com'da bulabilirsiniz."
+
+#: pages/cookie-policy.js:81
+msgid "ab73"
+msgstr "Çerezleri engelleme"
+
+#: pages/cookie-policy.js:84
+msgid "ab74"
+msgstr "Çoğu tarayıcı çerezleri kabul etmeyi reddetmenize izin verir. Tarayıcınızdaki tüm çerezleri nasıl engelleyeceğinizi google.com'da bulabilirsiniz."
+
+#: pages/cookie-policy.js:87
+msgid "ab75"
+msgstr "Bununla birlikte, tüm çerezleri engellemek, birçok web sitesinin kullanılabilirliği üzerinde olumsuz bir etkiye sahip olacaktır. Çerezleri engellerseniz, web sitesindeki belirli özellikleri kullanamayabilirsiniz (oturum açma, içeriğe erişme, arama işlevlerini kullanma)."
+
+#: pages/cookie-policy.js:90
+msgid "ab76"
+msgstr "Çerezleri nasıl silebilirim?"
+
+#: pages/cookie-policy.js:93
+msgid "ab77"
+msgstr "Web sitemiz tarafından ayarlanan çerezleri kısıtlamak veya engellemek istiyorsanız, bunu tarayıcı ayarlarınız aracılığıyla yapabilirsiniz. Alternatif olarak, çok çeşitli tarayıcılarda ve cihazlarda bunun nasıl yapılacağına dair kapsamlı bilgiler içeren www.internetcookies.com adresini ziyaret edebilirsiniz. Burada çerezler hakkında genel bilgiler ve çerezleri cihazınızdan nasıl sileceğinize dair ayrıntılar yer alır."
+
+#: pages/cookie-policy.js:96
+msgid "ab78"
+msgstr "Bize ulaşın"
+
+#: pages/cookie-policy.js:99
+msgid "ab79"
+msgstr "Bu politika veya çerez kullanımımızla ilgili herhangi bir sorunuz varsa, support@royalfut.com adresinden bize ulaşmaktan çekinmeyin."
+
+#: components/InfograficMain/InfograficMain.js:39
+msgid "ab8"
+msgstr "hizmetimizi deneyen oyuncu"
+
+#~ msgid "ab80"
+#~ msgstr "Bir şeyler ters gitti"
+
+#~ msgid "ab81"
+#~ msgstr "Sayfayı yenileyin"
+
+#: components/DeliverySteps/DeliverySteps.js:44
+msgid "ab82"
+msgstr "Bir sipariş verin"
+
+#: components/DeliverySteps/DeliverySteps.js:47
+msgid "ab83"
+msgstr "Platformunuzu ve istediğiniz jeton miktarını seçin, ardından siparişiniz için ödeme yapın."
+
+#: components/DeliverySteps/DeliverySteps.js:65
+msgid "ab84"
+msgstr "Teslimatı başlatın"
+
+#: components/DeliverySteps/DeliverySteps.js:68
+msgid "ab85"
+msgstr "Başarılı bir ödemenin ardından"
+
+#: components/DeliverySteps/DeliverySteps.js:69
+msgid "ab86"
+msgstr "Sipariş Geçmişi sayfasına"
+
+#: components/DeliverySteps/DeliverySteps.js:70
+msgid "ab87"
+msgstr "giderek siparişinizi bulun ve teslimat sürecini başlatmak için gerekli işlemleri tamamlayın."
+
+#: components/DeliverySteps/DeliverySteps.js:88
+msgid "ab88"
+msgstr "Alışverişinizin keyfini çıkarın"
+
+#: components/DeliverySteps/DeliverySteps.js:91
+msgid "ab89"
+msgstr "Sipariş tamamlandıktan sonra, jetonları istediğiniz gibi harcamaktan çekinmeyin. Yeniden jetona ihtiyacınız olduğunda yine bekleriz."
+
+#~ msgid "ab9"
+#~ msgstr "%80'den fazla"
+
+#: components/DeliverySteps/DeliverySteps.js:28
+msgid "ab90"
+msgstr "Yardıma mı ihtiyacınız var? İstediğiniz zaman Destek Ekibimizle iletişime geçin."
+
+#: components/Offer/Offer.js:82
+msgid "ab91"
+msgstr "FC 25 jetonlarını öğütmekten bıktıysanız, sizin için mükemmel ve ucuz bir çözümümüz var! Bu alanda uzun yıllara dayanan deneyime sahip en güvenilir EA FC jeton mağazası ROYALFUT.com ile tanışın. Bu en yüksek puanlı pazar yeri, çevrimiçi FIFA 25 jetonları için en düşük fiyatları sunar ve hızlı teslimat ve hesabınız için %100 güvenliği garanti edebilir. ROYALFUT'tan FC jetonları satın almak, herhangi bir tatsız sonuç riski olmadan oyununuzu daha da keyifli hale getirmenize yardımcı olmak söz konusu olduğunda en uygun fiyatlı ve yasal seçenektir. Bu mağazada bulabileceğiniz düzenli Ultimate Team jeton fırsatları, en kazançlı oyun içi işlemleri yapmanıza olanak tanıyan düşük fiyatlar sunuyor. ROYALFUT platformu, FUT jetonları satışı konusunda yalnızca %100 güvenilir olmakla kalmıoyor, aynı zamanda sahip olabileceğiniz herhangi bir soru veya sorunda size her zaman yardımcı olacak harika müşteri desteği ile de tanınıyor. Bugünlerde yasal bir UT 25 jeton mağazası bulmak oldukça zor ancak ROYALFUT.com şüphesiz bunlardan biridir. PC, PS4, PS5, Xbox One, Xbox Series X veya Xbox Series S için Ultimate Team jetonlarını %100 güvenli ödeme ve anında teslimat ile satın almak istiyorsanız burası kesinlikle sizin için en iyi yer."
+
+#: pages/order/index.js:115
+#: pages/order/pc.js:82
+#: pages/order/ps4.js:81
+#: pages/order/ps5.js:80
+#: pages/order/xbox_one.js:82
+#: pages/order/xbox_xs.js:82
+msgid "ab92"
+msgstr "FC 25 Ultimate Team jetonları satın alın"
+
+#: components/Order/Steps.js:14
+#: components/Order/Steps.js:56
+msgid "ab93"
+msgstr "Sipariş bilgileri"
+
+#: components/MainFunnel/StickySecondStep.js:170
+#: components/Order/Steps.js:21
+#: components/Order/Steps.js:59
+#: components/Order/StickyTotalBlock.js:158
+msgid "ab94"
+msgstr "Ödeme"
+
+#: components/Order/Steps.js:28
+#: components/Order/Steps.js:62
+msgid "ab95"
+msgstr "Teslimat"
+
+#: components/Order/OrderInfo.js:103
+msgid "ab96"
+msgstr "Platform"
+
+#: components/Order/CoinsChanger.js:356
+msgid "ab97"
+msgstr "Miktar"
+
+#: components/Package/IdCard.js:110
+msgid "ab98"
+msgstr "Fiyat"
+
+#~ msgid "ab99"
+#~ msgstr "İndirim"
+
+#: components/MainFunnel/StickySecondStep.js:157
+msgid "authToPay"
+msgstr "Almak için oturum açın"
+
+#~ msgid "Bahrain"
+#~ msgstr "Bahreyn"
+
+#: data-elements/breadcrumbs.js:11
+#~ msgid "breadcrumbs.[id]"
+#~ msgstr "FUT jetonu"
+
+#: data-elements/breadcrumbs.js:5
+#~ msgid "breadcrumbs.404"
+#~ msgstr "404"
+
+#: data-elements/breadcrumbs.js:19
+#~ msgid "breadcrumbs.coins"
+#~ msgstr "Jeton paketleri"
+
+#: data-elements/breadcrumbs.js:23
+#~ msgid "breadcrumbs.contact"
+#~ msgstr "iletişim"
+
+#: data-elements/breadcrumbs.js:21
+#~ msgid "breadcrumbs.delivery"
+#~ msgstr "Teslimat"
+
+#: data-elements/breadcrumbs.js:22
+#~ msgid "breadcrumbs.faq"
+#~ msgstr "SSS"
+
+#: data-elements/breadcrumbs.js:4
+#~ msgid "breadcrumbs.guide"
+#~ msgstr "guide"
+
+#: data-elements/breadcrumbs.js:17
+#~ msgid "breadcrumbs.home"
+#~ msgstr "Giriş"
+
+#: data-elements/breadcrumbs.js:12
+#~ msgid "breadcrumbs.order"
+#~ msgstr "Platform"
+
+#: data-elements/breadcrumbs.js:20
+#~ msgid "breadcrumbs.payment"
+#~ msgstr "Ödeme"
+
+#: data-elements/breadcrumbs.js:8
+#~ msgid "breadcrumbs.payments"
+#~ msgstr "Ödemeler"
+
+#: data-elements/breadcrumbs.js:25
+#~ msgid "breadcrumbs.privacy-policy"
+#~ msgstr "Gizlilik Politikası"
+
+#: data-elements/breadcrumbs.js:26
+#~ msgid "breadcrumbs.profile"
+#~ msgstr "Kişisel kullanıcı hesabı"
+
+#: data-elements/breadcrumbs.js:13
+#~ msgid "breadcrumbs.ps4"
+#~ msgstr "PlayStation 4"
+
+#: data-elements/breadcrumbs.js:14
+#~ msgid "breadcrumbs.ps5"
+#~ msgstr "PlayStation 5"
+
+#: data-elements/breadcrumbs.js:7
+#~ msgid "breadcrumbs.purchase"
+#~ msgstr "Satın alma"
+
+#: data-elements/breadcrumbs.js:9
+#~ msgid "breadcrumbs.reviews"
+#~ msgstr "Yorumlar"
+
+#: data-elements/breadcrumbs.js:24
+#~ msgid "breadcrumbs.terms"
+#~ msgstr "Koşulları kabul ediyorum"
+
+#: data-elements/breadcrumbs.js:6
+#~ msgid "breadcrumbs.wl-boost"
+#~ msgstr "WL Boost"
+
+#: data-elements/breadcrumbs.js:15
+#~ msgid "breadcrumbs.xbox_one"
+#~ msgstr "Xbox One"
+
+#: data-elements/breadcrumbs.js:16
+#~ msgid "breadcrumbs.xbox_xs"
+#~ msgstr "Xbox Series X|S"
+
+#: components/Order/StickySecondStep.js:400
+#: components/Order/StickyTotalBlock.js:148
+#: components/Package/IdCard.js:103
+msgid "cashback"
+msgstr "Cashback"
+
+#~ msgid "coins_page0"
+#~ msgstr "Atanmayan Ögeler"
+
+#: components/TableOrders/TableItem.js:406
+msgid "coins_page1"
+msgstr "Atanmamış öğeler var"
+
+#~ msgid "coins_page10"
+#~ msgstr "Ara toplam"
+
+#~ msgid "coins_page11"
+#~ msgstr "İndirim ()"
+
+#~ msgid "coins_page12"
+#~ msgstr "Uygula"
+
+#~ msgid "coins_page13"
+#~ msgstr "Toplam fiyat"
+
+#~ msgid "coins_page14"
+#~ msgstr "Geçersiz promosyon kodu"
+
+#: pages/coins/[id].js:222
+msgid "coins_page15"
+msgstr "Bu miktarla en ucuz oyuncuların neredeyse tamamını alabilirsiniz."
+
+#: pages/coins/[id].js:225
+msgid "coins_page16"
+msgstr "En değerli oyunculardan bazılarına da bu miktarla ulaşmanız mümkün."
+
+#: pages/coins/[id].js:227
+msgid "coins_page17"
+msgstr "Bu miktarla piyasada bulunan herhangi bir kartı satın alabilirsiniz. Rüya takımınızı oluşturun!"
+
+#: pages/coins/[id].js:177
+#: pages/coins/[id].js:192
+msgid "coins_page18"
+msgstr "[[X]] FC 25 Ultimate Team jetonları"
+
+#: pages/coins/[id].js:201
+msgid "coins_page19"
+msgstr "Piyasadaki en güvenli tedarikçiden çevrimiçi EA FC 25 jetonları satın alın - ROYALFUT Store. FIFA Ultimate Team ürünlerini satmak 7 yılı aşkın süredir uzmanlık alanımız olmaya devam ediyor. Amacımız, müşterilerimizin en iyi fırsatları ve FC UT jetonlarının en güvenilir transferlerini elde etmelerini sağlamaktır. ROYALFUT, kullanıcı dostu arayüzü, güvenli ödeme seçenekleri ve üstün müşteri hizmetleri ile rahat ve keyifli bir alışveriş deneyimi sunar."
+
+#: components/TableOrders/TableItem.js:409
+msgid "coins_page2"
+msgstr "Ultimate Team kulübünüzde Atanmayan Öğeleriniz var, teslimat sürecine başlayabilmemiz için öğeleri atadığınızdan emin olun"
+
+#: pages/coins/[id].js:204
+msgid "coins_page20"
+msgstr "Buradan [[X]] satın alabilirsiniz. FC jetonları sadece [[Y]] [[C]]. Sipariş verildikten sonra, hem konsolunuzda / PC'nizde hem de FC Web Uygulaması / Companion aracılığıyla diğer cihazlarda Ultimate Team'den çıkış yaptığınızdan emin olun. [[X]] jeton [[A]]-[[B]] dakika içinde hesabınıza aktarılacaktır."
+
+#: pages/coins/[id].js:231
+msgid "coins_page21"
+msgstr "Bizden neler alacaksınız"
+
+#: pages/coins/[id].js:236
+msgid "coins_page22"
+msgstr "UT kulübünüze 300 bin jeton;"
+
+#: pages/coins/[id].js:240
+msgid "coins_page23"
+msgstr "EA Vergi (%5) kapsamı;"
+
+#~ msgid "coins_page24"
+#~ msgstr "12 ROYAL Puan (1,2 USD'ye eşittir) nakit para iadesi;"
+
+#~ msgid "coins_page25"
+#~ msgstr "Sadakat Seviyesi ilerlemesi;"
+
+#: pages/coins/[id].js:252
+msgid "coins_page26"
+msgstr "Hesabınız için %100 güvenlik."
+
+#: pages/coins/[id].js:258
+msgid "coins_page27"
+msgstr "Sizden ne istiyoruz"
+
+#: pages/coins/[id].js:264
+msgid "coins_page28"
+msgstr "EA hesabınıza erişim"
+
+#: pages/coins/[id].js:266
+msgid "coins_page29"
+msgstr "— PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Series X konsolları veya PC için EA Sports FC 25'ün lisanslı bir kopyasına sahipseniz (fiziksel CD olarak veya EA App, Steam veya Epic Games Store üzerinden dijital olarak satın aldıysanız), şanslısınız çünkü bu noktadan sonra sistemimizin Ultimate Team kulübünüze başarılı bir şekilde erişmek için sizden istediği tek şey e-posta adresi, şifre ve birkaç yedek koddan oluşan EA hesap bilgilerinizdir. Ancak endişelenmeyin, verilerinizi saklamıyoruz, her sipariş tamamlanınca verileriniz siliniyor."
+
+#~ msgid "coins_page3"
+#~ msgstr "Transfer Hedefleri"
+
+#: pages/coins/[id].js:271
+msgid "coins_page30"
+msgstr "Kilitsiz Transfer Market"
+
+#: pages/coins/[id].js:273
+msgid "coins_page31"
+msgstr "— kulübünüzü jeton teslimatı için hazırlarken en önemli şeylerden biri Web Uygulamasında Transfer Market'e erişim kazandığınızdan emin olmaktır, bununla birlikte, hâlâ kilidi açılmadıysa, günde 3 tam Ultimate Team maçı oynamaya başlamanız ve erişimin size verildiği noktaya kadar FC Web Uygulamasını / Companion'ı her gün ziyaret etmeniz gerekir."
+
+#: pages/coins/[id].js:278
+msgid "coins_page32"
+msgstr "UT kulüp bakiyenizde en az 5000 jeton"
+
+#: pages/coins/[id].js:280
+msgid "coins_page33"
+msgstr "— bu miktar ile teslimat sistemimiz transferi başlatabilecektir. Kulüp bakiyeniz bu gereksinimi karşılamıyorsa, bazı takas edilebilir öğeleri Transfer Market'te listeleyerek veya Hızlı Satış seçeneğini kullanarak satabilirsiniz. Ve tabii ki sadece birkaç maç oynayarak her zaman jeton kazanabilirsiniz. Ve unutmayın, daha yüksek başlangıç bakiyesi teslimat sürecinin daha hızlı olmasını sağlar."
+
+#~ msgid "coins_page34"
+#~ msgstr "%100 güvenli ödemeler"
+
+#~ msgid "coins_page35"
+#~ msgstr "[[X]]-[[Y]] saatlik teslimat süresi"
+
+#~ msgid "coins_page36"
+#~ msgstr "3 gün garantisi"
+
+#: pages/coins/[id].js:300
+msgid "coins_page37"
+msgstr "Ayrıca bakınız"
+
+#~ msgid "coins_page38"
+#~ msgstr "[[X]] kez satın alındı"
+
+#~ msgid "coins_page39"
+#~ msgstr ""
+
+#: components/TableOrders/TableItem.js:334
+msgid "coins_page4"
+msgstr "Transfer Hedefleri Tamamlandı"
+
+#: components/TableOrders/TableItem.js:337
+msgid "coins_page5"
+msgstr "Transfer Hedefi listeniz dolu, teslimat sürecine başlayabilmemiz için listeyi temizlediğinizden emin olun"
+
+#: components/TableOrders/TableItem.js:480
+msgid "coins_page6"
+msgstr "Bilinmeyen Hata"
+
+#: components/TableOrders/TableItem.js:483
+msgid "coins_page7"
+msgstr "Siparişinizi daha sonra yeniden başlatmayı deneyin veya sorun devam ederse Destek ile iletişime geçin"
+
+#~ msgid "coins_page8"
+#~ msgstr "Yeni Sipariş"
+
+#~ msgid "coins_page9"
+#~ msgstr "Hemen Al"
+
+#: components/Footer/Footer.js:362
+msgid "cookiepage"
+msgstr "Çerez Politikası"
+
+#: components/ReviewsContent/ReviewsContent.js:15
+msgid "country.Bahrain"
+msgstr "Bahreyn"
+
+#: components/ReviewsContent/ReviewsContent.js:16
+msgid "country.France"
+msgstr "Fransa"
+
+#: components/ReviewsContent/ReviewsContent.js:17
+msgid "country.Germany"
+msgstr "Almanya"
+
+#: components/ReviewsContent/ReviewsContent.js:18
+msgid "country.Kuwait"
+msgstr "Kuveyt"
+
+#: components/ReviewsContent/ReviewsContent.js:19
+msgid "country.Netherlands"
+msgstr "Hollanda"
+
+#: components/ReviewsContent/ReviewsContent.js:20
+msgid "country.Qatar"
+msgstr "Katar"
+
+#: components/ReviewsContent/ReviewsContent.js:21
+msgid "country.Saudi Arabia"
+msgstr "Suudi Arabistan"
+
+#: components/ReviewsContent/ReviewsContent.js:22
+msgid "country.United Arab Emirates"
+msgstr "Birleşik Arap Emirlikleri"
+
+#: components/ReviewsContent/ReviewsContent.js:23
+msgid "country.United Kingdom"
+msgstr "Birleşik Krallık"
+
+#: components/ReviewsContent/ReviewsContent.js:24
+msgid "country.United States"
+msgstr "Birleşik Devletler"
+
+#: components/BurgerMenu/BurgerMenu.js:82
+#~ msgid "emailOrPassword"
+#~ msgstr ""
+
+#: components/Infografic/Infografic.js:25
+msgid "FIFA & EA FC Coins"
+msgstr "FIFA ve EA FC jetonu transfer ettik"
+
+#: components/Infografic/Infografic.js:43
+msgid "FIFA and EA FC players"
+msgstr "FIFA ve EA FC oyuncusu tarafından kullanıldı"
+
+#~ msgid "France"
+#~ msgstr "Fransa"
+
+#~ msgid "Germany"
+#~ msgstr "Almanya"
+
+#: components/Header/Header.js:78
+msgid "header_reviews"
+msgstr "Yorumlar"
+
+#: components/MainFunnel/MainFunnel.js:44
+#~ msgid "home:newh1_2"
+#~ msgstr "İçi̇n en güvenli̇ "
+
+#: components/MainFunnel/MainFunnel.js:47
+#~ msgid "home:newh1_3"
+#~ msgstr "seçenek<<<<<<< HEAD"
+
+#: components/MainFunnel/MainFunnel.js:32
+#: components/MainFunnel/MainFunnel.js:53
+#~ msgid "home:newh1_4"
+#~ msgstr "İçi̇n en güvenli̇ seçenek"
+
+#: components/MainFunnel/MainFunnel.js:33
+msgid "home:title"
+msgstr "FC 25 jetonlari satin almak"
+
+#: pages/coins/[id].js:217
+msgid "hours"
+msgstr "hours"
+
+#~ msgid "Kuwait"
+#~ msgstr "Kuveyt"
+
+#~ msgid "locales.account"
+#~ msgstr "hesabı"
+
+#: components/TableOrders/TableItem.js:711
+msgid "locales.amount"
+msgstr "Miktar"
+
+#: components/Order/StickySecondStep.js:445
+#: components/Order/StickySecondStep.js:454
+#: components/Package/CheckoutSticky.js:502
+#: components/Package/CheckoutSticky.js:510
+#: components/Purchase/Purchase.js:610
+#: components/Purchase/Purchase.js:633
+msgid "locales.authToPay"
+msgstr "Almak için oturum açın"
+
+#~ msgid "locales.backToTop"
+#~ msgstr "Başa dön"
+
+#~ msgid "locales.backupCode"
+#~ msgstr "Backup kodları"
+
+#~ msgid "locales.backupCodes"
+#~ msgstr "Yedek kodunu şuradan alabilirsiniz: "
+
+#~ msgid "locales.blackFriday"
+#~ msgstr "YILIN TAKIMI <span class=\"color\">- %20 indirimli</span> teklif ücreti - promosyon kodunu kullanın: <span class=\"color\">TOTY</span>"
+
+#~ msgid "locales.buyingCoins"
+#~ msgstr "Para satın alma royalfut.com"
+
+#~ msgid "locales.cancelOrder"
+#~ msgstr "Siparişi iptal et"
+
+#: components/TextBlockContainer/TextBlockContainer.js:13
+msgid "locales.card_text_1"
+msgstr "Takımımız ilk olarak FIFA 17 sezonunda kuruldu. O zamandan beri müşterilerimize 100 milyardan fazla jeton aktardık, dünya çapında 60 binden fazla kulüp bizden jeton dolumu hizmeti aldı ve en az 10 mağaza daha jeton aktarım algoritmamızı kullanıyor."
+
+#: components/TextBlockContainer/TextBlockContainer.js:30
+msgid "locales.card_text_2"
+msgstr "Piyasadaki en düşük fiyatlardan birini sunuyoruz ve düzenli müşterilerimiz için fiyat daha da düşük!"
+
+#: components/TextBlockContainer/TextBlockContainer.js:18
+msgid "locales.card_text_3"
+msgstr "Ana hedefimiz, FUT kulüp bakiyenizi doldurmak için size en güvenli seçeneği sunmaktır. Jeton transfer algoritmamızı sürekli olarak geliştiriyor, eyleme geçmeden önce binlerce hesabımızda testler gerçekleştiriyoruz."
+
+#: components/TextBlockContainer/TextBlockContainer.js:25
+msgid "locales.card_text_4"
+msgstr "Zamanınıza değer veriyoruz, bu nedenle bizimle alışveriş deneyiminizin mümkün olduğunca sorunsuz geçtiğinden emin olmak için web sitemizin arayüzü ve müşteri destek hizmetimizin kalitesi gibi yönlerini sürekli olarak geliştirmekte kararlıyız."
+
+#: components/TextBlockContainer/TextBlockContainer.js:12
+msgid "locales.card_title_1"
+msgstr "Uzun yıllara dayanan deneyim"
+
+#: components/TextBlockContainer/TextBlockContainer.js:29
+msgid "locales.card_title_2"
+msgstr "Uygun fiyatlandırma"
+
+#: components/TextBlockContainer/TextBlockContainer.js:17
+msgid "locales.card_title_3"
+msgstr "Güvenli ve güvenilir"
+
+#: components/TextBlockContainer/TextBlockContainer.js:24
+msgid "locales.card_title_4"
+msgstr "Yüksek hizmet seviyesi"
+
+#~ msgid "locales.coinsFor"
+#~ msgstr "Jeton bedeli"
+
+#: components/HowDelivery/Howdelivery.js:239
+#: components/MethodChanger/MethodChanger.js:46
+msgid "locales.comfortMethodName"
+msgstr "Rahat işlem"
+
+#~ msgid "locales.comfortText"
+#~ msgstr "Teslimat sürecini biz halledeceğiz, tek yapmanız gereken bize EA hesap bilgilerinizi vermek."
+
+#~ msgid "locales.commentOut"
+#~ msgstr "/"
+
+#: components/Rated/Rated.js:66
+#: components/ReviewsGallery/ReviewsGallery.js:80
+msgid "locales.commentRated"
+msgstr "puan verildi"
+
+#~ msgid "locales.commentReviews"
+#~ msgstr "görüş"
+
+#: components/Rated/Rated.js:87
+#: components/Rated/Rated.js:101
+#: components/ReviewsContent/ReviewsContent.js:85
+msgid "locales.commentUrl"
+msgstr "https://uk.trustpilot.com/review/royalfut.com"
+
+#~ msgid "locales.continue"
+#~ msgstr "Devam et"
+
+#: components/TableOrders/TableItem.js:403
+msgid "locales.continueTransfering"
+msgstr "Transfere devam edin"
+
+#~ msgid "locales.cookieButton"
+#~ msgstr "Anladım"
+
+#~ msgid "locales.cookieText"
+#~ msgstr "Çerez kullanım politikamıza onay vermek için lütfen devam edin."
+
+#~ msgid "locales.cookieTitle"
+#~ msgstr "Çerez kullanıyoruz."
+
+#: components/Order/Coupon.js:342
+#: components/Order/Coupon.js:516
+#: components/Package/CheckoutCoupon.js:99
+#: components/Package/CheckoutCoupon.js:352
+msgid "locales.couponCondition"
+msgstr "Sipariş miktarı kupon kullanmak için gereken minimum şartı karşılamıyor"
+
+#: components/Order/Coupon.js:307
+#: components/Order/Coupon.js:485
+#: components/Package/CheckoutCoupon.js:64
+#: components/Package/CheckoutCoupon.js:321
+msgid "locales.couponExpired"
+msgstr "Kuponun süresi dolmuş"
+
+#: components/Order/Coupon.js:324
+#: components/Order/Coupon.js:500
+#: components/Package/CheckoutCoupon.js:81
+#: components/Package/CheckoutCoupon.js:336
+msgid "locales.couponLimit"
+msgstr "Bu kupon tümüyle kullanılmış"
+
+#~ msgid "locales.cryptoAre"
+#~ msgstr ""
+
+#~ msgid "locales.cryptoIs"
+#~ msgstr "'dur"
+
+#~ msgid "locales.cryptoMessage"
+#~ msgstr "Minimum sipariş miktarı "
+
+#~ msgid "locales.cryptoOr"
+#~ msgstr "veya"
+
+#~ msgid "locales.cryptoWith"
+#~ msgstr ""
+
+#~ msgid "locales.currency"
+#~ msgstr "$"
+
+#~ msgid "locales.currencyName"
+#~ msgstr "USD"
+
+#~ msgid "locales.currencyTranslate"
+#~ msgstr "Para Birimi"
+
+#~ msgid "locales.deliveryMethodName"
+#~ msgstr "Delivery method:"
+
+#~ msgid "locales.deliverytext"
+#~ msgstr " benzersiz bir EA FC 25 Jetonları dağıtım sistemi sunar. Rekor sayıda Jeton tedarikçisi ile işbirliği yapıyoruz. Siparişinize dair işlemleri gerçekleştirirken, hesabınıza EA tarafından hiçbir zaman yaptırım uygulanmayacağını garanti eden özel kurallar kullanıyoruz. Bu kurallardan basılarını şöyle sıralayabiliriz:"
+
+#~ msgid "locales.deliverytitle"
+#~ msgstr "Teslimat"
+
+#~ msgid "locales.email"
+#~ msgstr "E-POSTA"
+
+#~ msgid "locales.emailOrPassword"
+#~ msgstr "E-posta veya şifre geçersiz."
+
+#: components/HowDelivery/Howdelivery.js:88
+#: components/HowDelivery/Howdelivery.js:123
+msgid "locales.enjoy"
+msgstr "bulunun ve oyunun keyfini çıkarın. Tekrar görüşmeyi iple çekiyoruz :)"
+
+#: components/TableOrders/TableItem.js:392
+msgid "locales.enterCode"
+msgstr "Kodu gir"
+
+#~ msgid "locales.faqtitle"
+#~ msgstr "HALA SORULARINIZ MI VAR?"
+
+#~ msgid "locales.faqtitle2"
+#~ msgstr "HALA SORULARINIZ MI VAR?"
+
+#~ msgid "locales.fbError"
+#~ msgstr "E-posta veya şifre geçersiz."
+
+#~ msgid "locales.footerAddrees"
+#~ msgstr "Yasha Limited, Office 908H Nicolaou Pentadromos Center, Limassol, Cyprus"
+
+#~ msgid "locales.footerContact"
+#~ msgstr "GENEL BILGI"
+
+#~ msgid "locales.footerInfo"
+#~ msgstr "YASAL"
+
+#: components/Footer/Footer.js:308
+msgid "locales.footerInfo_2"
+msgstr "Bilgi"
+
+#: components/Footer/Footer.js:30
+#: pages/contact.js:29
+msgid "locales.footerLinkContact"
+msgstr "iletişim"
+
+#: components/Footer/Footer.js:318
+msgid "locales.footerLinkDelivery"
+msgstr "Teslimat"
+
+#: components/Footer/Footer.js:329
+msgid "locales.footerLinkPayment"
+msgstr "Ödeme"
+
+#~ msgid "locales.footerLinkPrivacy"
+#~ msgstr "Gizlilik"
+
+#: components/Footer/Footer.js:351
+#: pages/privacy-policy.js:28
+msgid "locales.footerLinkPrivacyPolicy"
+msgstr "Gizlilik Politikası"
+
+#: components/Footer/Footer.js:340
+msgid "locales.footerLinkTerms"
+msgstr "Hüküm ve Koşulları"
+
+#: components/Footer/Footer.js:192
+msgid "locales.footerPlatforms"
+msgstr "Platform"
+
+#~ msgid "locales.forPaymentError"
+#~ msgstr "Ödeme başarısız"
+
+#~ msgid "locales.garantee3"
+#~ msgstr "Para iadesi için uygun"
+
+#~ msgid "locales.h1_1"
+#~ msgstr "EA FC 25 Jetonu için "
+
+#~ msgid "locales.h1_2"
+#~ msgstr "FC 25 jetonları satın al"
+
+#~ msgid "locales.h1_coins"
+#~ msgstr "EA FC 25 Ultimate Team Mağazanız"
+
+#~ msgid "locales.h1_p1"
+#~ msgstr "Daki ana yol arkadaşınız"
+
+#~ msgid "locales.h1_p2"
+#~ msgstr "EA FC 25 Ultimate Team Store"
+
+#~ msgid "locales.haveCoupon"
+#~ msgstr "İndirim kuponunuz mu var"
+
+#~ msgid "locales.header_reviews"
+#~ msgstr "Yorumlar"
+
+#~ msgid "locales.hidePassword"
+#~ msgstr "Şifreyi gizle"
+
+#: components/HowDelivery/Howdelivery.js:216
+msgid "locales.hwd"
+msgstr "TESLİMAT NASIL YAPILIYOR?"
+
+#~ msgid "locales.infoBlockText1"
+#~ msgstr "Amacımız FUT kulübünüzün bakiyesini en ucuz ve güvenli şekilde doldurmanızı sağlamak. Fiyatlarımızda hiçbir komisyon ya da gizli ücret yok. Böyle bir hizmeti geliştirmek için yıllardır çalışıyoruz."
+
+#~ msgid "locales.infoBlockText2"
+#~ msgstr "Özel kurallarla çalışan Smart Anti-Ban 3.0 sistemini kullanıyoruz. Örneğin, sistemimiz her sipariş için manuel olarak edinilmiş jetonlar da sunuyor. Bu kurallar sayesinde FUT kulübünüz %100 güvende."
+
+#~ msgid "locales.infoBlockText3"
+#~ msgstr "Zaman ayırdığınız için teşekkür ederiz. Arayüzümüz ve desteğimiz, siparişlerinizin sorunsuz ve hızlı bir şekilde yürütülmesi için sürekli olarak geliştiriliyor. Sadece birkaç tıklama, gerisini biz yapacağız."
+
+#~ msgid "locales.infoBlockText4"
+#~ msgstr "Satın aldığınız jetonları kullanamazsanız ya da herhangi bir sebeple jetonlar hesabınıza eklenmezse para iadesi garantidir."
+
+#~ msgid "locales.infoBlockTitle1"
+#~ msgstr "İLK SEÇİMİNİZ"
+
+#~ msgid "locales.infoBlockTitle2"
+#~ msgstr "EN GÜVENLİ TESLİMAT"
+
+#~ msgid "locales.infoBlockTitle3"
+#~ msgstr "Hızlı VE BASİT"
+
+#~ msgid "locales.infoBlockTitle4"
+#~ msgstr "PARA IADE GARANTISI"
+
+#: components/Message/Message.js:29
+#: components/Order/Coupon.js:357
+#: components/Order/Coupon.js:530
+#: components/Package/CheckoutCoupon.js:114
+#: components/Package/CheckoutCoupon.js:366
+#: components/Package/CheckoutCoupon.js:560
+msgid "locales.invalidPromo"
+msgstr "İndirim kodu geçersiz"
+
+#~ msgid "locales.isAlreadyTaken"
+#~ msgstr "adı alınmış."
+
+#~ msgid "locales.isInvalid"
+#~ msgstr "geçersiz"
+
+#~ msgid "locales.lang"
+#~ msgstr "en-GB"
+
+#~ msgid "locales.li1"
+#~ msgstr "• Kartın transfer piyasasında, bu kartın fiyat aralığına göre izin verilen maksimum fiyattan farklı bir fiyata listelenmesi kuralı"
+
+#~ msgid "locales.li2"
+#~ msgstr "• Jeton dağıtımını, Jeton kazanmak için sadece manuel işlemler yapan hesaplardan elde edilen kartların tekrar satın alınması yoluyla değiştirilmesi kuralı"
+
+#~ msgid "locales.li3"
+#~ msgstr "• Elimizdeki 7000'den fazla FUT kulübü ile çoğu siparişte, haftalarca jeton transferi yapmayan bir kulüpten alınan bir kartı kullanıyoruz."
+
+#~ msgid "locales.loading"
+#~ msgstr "Yükleniyor"
+
+#~ msgid "locales.login"
+#~ msgstr "Platform / E-posta"
+
+#~ msgid "locales.logOut"
+#~ msgstr "ÇIKIŞ"
+
+#: components/H1/H1.js:20
+msgid "locales.main_h2"
+msgstr "Hayalinizdeki takımı kurma etkinliğini tüm yıl boyunca herkes için mümkün kılıyoruz!"
+
+#~ msgid "locales.manualText"
+#~ msgstr "Herhangi bir hesap bilgisi gerektirmeyen manuel teslimat yöntemi, basit talimatlarımızı kullanarak jetonları kendiniz transfer etmeniz gerekecektir."
+
+#: components/HowDelivery/Howdelivery.js:252
+#: components/MethodChanger/MethodChanger.js:79
+msgid "locales.marketMethodName"
+msgstr "Oyuncu açik artirma"
+
+#: components/HowItWorks/HowItWorks.js:10
+msgid "locales.marketMethodWhat"
+msgstr "NASIL İŞLİYOR?"
+
+#~ msgid "locales.menu"
+#~ msgstr ""
+
+#: pages/delivery.js:28
+msgid "locales.menuLinkDelivery"
+msgstr "Teslimat"
+
+#~ msgid "locales.menuLinkDesc"
+#~ msgstr "Our system is fully automated, "
+
+#~ msgid "locales.menuLinkDesc2"
+#~ msgstr "so we deliver coins at any time of day, 24/7."
+
+#~ msgid "locales.menuLinkDescDisabled"
+#~ msgstr "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋"
+
+#~ msgid "locales.menulinkfaq"
+#~ msgstr "SSS"
+
+#~ msgid "locales.menuLinkFaq"
+#~ msgstr "SSS"
+
+#~ msgid "locales.menuLinkOrder"
+#~ msgstr "JETON AL"
+
+#~ msgid "locales.menuLinkReviews"
+#~ msgstr "Yorumlar"
+
+#~ msgid "locales.menuOffers"
+#~ msgstr "Offers"
+
+#~ msgid "locales.menuSignIn"
+#~ msgstr "GİRİŞ"
+
+#~ msgid "locales.MissingOrInvalidCredentialsCode"
+#~ msgstr "Bağlantı hatası. Lütfen tekrar deneyin!"
+
+#~ msgid "locales.modalSignBtnIn"
+#~ msgstr "GİRİŞ"
+
+#: components/BurgerMenu/BurgerMenu.js:482
+msgid "locales.modalSignBtnUp"
+msgstr "KAYDOL"
+
+#~ msgid "locales.modalSignEmail"
+#~ msgstr "E-POSTA"
+
+#~ msgid "locales.modalSignEmail1"
+#~ msgstr "email@address.com"
+
+#: components/BurgerMenu/BurgerMenu.js:399
+msgid "locales.modalSignPassword"
+msgstr "Şifre"
+
+#~ msgid "locales.modalSignSeePassword"
+#~ msgstr "Bkz. şifre"
+
+#~ msgid "locales.modalSignSymbols3"
+#~ msgstr "en az 3 karakter olmalıdır"
+
+#: components/BurgerMenu/BurgerMenu.js:425
+#: components/ChangePassword/ChangePassword.js:251
+msgid "locales.modalSignSymbols8"
+msgstr "en az 8 karakter"
+
+#~ msgid "locales.modalSignTerms"
+#~ msgstr "Lütfen yukarıdaki \"Kaydol\" düğmesini tıklayarak kabul edin. <a href=\"/tr/terms/\">Hüküm ve Koşulları</a>"
+
+#: components/BurgerMenu/BurgerMenu.js:442
+msgid "locales.modalSocialForgot"
+msgstr "Hüküm ve "
+
+#: components/Auth/Auth.js:99
+msgid "locales.modalSocialLogin"
+msgstr "şununla giriş yapın:"
+
+#: components/Auth/Auth.js:125
+#~ msgid "locales.modalSocialLogin}"
+#~ msgstr ""
+
+#: components/BurgerMenu/BurgerMenu.js:450
+#: components/TermsContent/TermsContent.js:15
+msgid "locales.modalSocialLoginCheck"
+msgstr "Koşulları kabul ediyorum"
+
+#~ msgid "locales.modalSocialLoginFB"
+#~ msgstr "şununla giriş yapın: FaceBook"
+
+#: components/Auth/Auth.js:107
+msgid "locales.modalSocialLoginGoogle"
+msgstr "şununla giriş yapın: Google"
+
+#: components/Auth/Auth.js:98
+msgid "locales.modalSocialOr"
+msgstr "ya da"
+
+#: components/Auth/Auth.js:98
+msgid "locales.modalSocialSigin"
+msgstr "Şununla kaydolun:"
+
+#~ msgid "locales.modalSocialSiginFB"
+#~ msgstr "Şununla kaydolun: FaceBook"
+
+#: components/Auth/Auth.js:109
+msgid "locales.modalSocialSiginGoogle"
+msgstr "Şununla kaydolun: Google"
+
+#~ msgid "locales.modalTabSignIn"
+#~ msgstr "GİRİŞ"
+
+#~ msgid "locales.modalTabSignUp"
+#~ msgstr "KAYDOL"
+
+#~ msgid "locales.nav.amount"
+#~ msgstr "Miktar"
+
+#~ msgid "locales.nav.delivery"
+#~ msgstr "Teslimat"
+
+#~ msgid "locales.nav.details"
+#~ msgstr "Order details"
+
+#~ msgid "locales.nav.method"
+#~ msgstr "Yöntem"
+
+#~ msgid "locales.nav.payment"
+#~ msgstr "Ödeme"
+
+#~ msgid "locales.nav.platform"
+#~ msgstr "Platform"
+
+#~ msgid "locales.numDay"
+#~ msgstr "#"
+
+#~ msgid "locales.orderCreationError"
+#~ msgstr "Sipariş oluşturma hatası"
+
+#: components/SpecialOffer/SpecialOffer.js:108
+msgid "locales.orderNow"
+msgstr "Şimdi sipariş verin"
+
+#~ msgid "locales.orders"
+#~ msgstr "Siparişler"
+
+#~ msgid "locales.orderUpdateError"
+#~ msgstr "Sipariş güncelleme hatası"
+
+#~ msgid "locales.orWithCrypto"
+#~ msgstr "Kripto para ile öde"
+
+#~ msgid "locales.p1"
+#~ msgstr "Böylece, İnternet üzerinden EA FC 25 jetonları satın almanın en güvenli yolunu sunuyoruz."
+
+#~ msgid "locales.p2"
+#~ msgstr "FIFA jetonlarını olabildiğince çabuk teslim almak için, web sitesinde yayınlanan veya canlı sohbette yöneticinin verdiği talimatları izleyin."
+
+#~ msgid "locales.p3"
+#~ msgstr "Bizden dijital ürün satın alırken paranızın güvende olduğundan emin olabilirsiniz."
+
+#~ msgid "locales.p4"
+#~ msgstr "Ödemesi tamamlanmış bir sipariş iade veya iptal edilemez."
+
+#: pages/index.js:127
+#~ msgid "locales.pack_descript"
+#~ msgstr "En zor beğenen müşteriler bile satın alma bonusundan memnun kalacaklar. Bugün alın!"
+
+#~ msgid "locales.pageAmountAmountLabel"
+#~ msgstr "Miktar"
+
+#: components/Package/CoinsBlock.js:25
+#: components/PageChanger/PageChanger.js:53
+msgid "locales.pageAmountCoinsLabel"
+msgstr "Jeton"
+
+#~ msgid "locales.pageAmountName"
+#~ msgstr "JETON MİKTARI"
+
+#~ msgid "locales.pageAmountPriceLabel"
+#~ msgstr "Fiyat"
+
+#: components/HowDelivery/Howdelivery.js:44
+msgid "locales.pageCoinsAfter"
+msgstr "Ödeme işlemi başarıyla tamamlandıktan sonra yönlendirileceğiniz sayfada, e-posta ve parola alanları bulunacaktır. Bu alanları EA hesap bilgileriniz ile doldurun."
+
+#~ msgid "locales.pageCoinsAfterPayment"
+#~ msgstr "Başarılı bir ödeme işleminden sonra oyuncu kartlarını satın alma talimatlarını alırsınız. Oyuncu kartlarını kendi piyasa fiyatlarından satın alırsınız, biz ise sizden birkaç kat daha yüksek bir fiyata satın alacağız."
+
+#~ msgid "locales.pageCoinsAfterSuccessfull"
+#~ msgstr "Ödeme başarıyla tamamlandıktan sonra, EA hesabınıza tek seferlik erişim izni isteriz. E-posta adresiniz, şifreniz ve backup kodunuz talep edilir. Bu erişim bilgilerini kullanarak FUT Web Uygulamasında sizin yerinize oturum açılır ve Transfer Piyasasında alım satım işlemlerine başlanır. Oyuncu kartları piyasa değerinden satın alınır ve ardından daha yüksek fiyatla Transfer Piyasasında satışa sunulur. Bunun ardından da teslimat ekibimiz bu kartları satın alır."
+
+#: components/HowDelivery/Howdelivery.js:97
+msgid "locales.pageCoinsAfterSuccessfully"
+msgstr "Siparişinizin ödemesi tamamlandıktan sonra yönlendirileceğiniz sayfada kulübünüzün bakiyesi hakkında bilgi vermeniz istenecek ve buna bağlı olarak alabileceğiniz bir oyuncu önerilecektir. Bu oyuncuyu belirlenen fiyattan satın almanız gerekir. Ardından, vereceğimiz fiyattan bize geri satabilirsiniz."
+
+#~ msgid "locales.pageCoinsApply"
+#~ msgstr "UYGULA"
+
+#~ msgid "locales.pageCoinsAutomated"
+#~ msgstr "FUT kulüplerimizden kendi makinelerimize para aktarma sürecinin bir kısmı otomatiktir. Geliştirdiğimiz algoritma, web sitemizden sipariş verirken hesabınızın güvenliğini sağlayacak bir dizi kurala göre gerçekleştirilir. Ödemeyi yaptıktan sonra hizmeti kullanmamaya karar verirseniz, paranızı ödeme yapmak için kullandığınız hesaba güvenle geri alabilirsiniz."
+
+#~ msgid "locales.pageCoinsBeforePurchase"
+#~ msgstr "ROYALFUT web sitesinden jeton satın aldığınızda, web sitemizin arayüzünden para transferiyle ilgili olarak kullanıcı dostu bir süreçte adım adım yönlendirilirsiniz. Bir satın alma işlemi yapmadan önce, jeton sipariş ettiğiniz kulübün hesabına tam erişiminiz olduğundan emin olun."
+
+#~ msgid "locales.pageCoinsBestPriceIncludes"
+#~ msgstr "Baz fiyata şunlar dahil:"
+
+#: pages/index.js:126
+#~ msgid "locales.pageCoinsBundles"
+#~ msgstr "Jeton paketleri"
+
+#~ msgid "locales.pageCoinsBuy"
+#~ msgstr "AL"
+
+#~ msgid "locales.pageCoinsBuyNow"
+#~ msgstr "HEMEN AL"
+
+#: components/HowDelivery/Howdelivery.js:96
+msgid "locales.pageCoinsBuyPlayer"
+msgstr "OYUNCU SATIN AL"
+
+#~ msgid "locales.pageCoinsCancel"
+#~ msgstr "İPTAL"
+
+#~ msgid "locales.pageCoinsCheck"
+#~ msgstr "2. Siparişinizi kontrol edin"
+
+#~ msgid "locales.pageCoinsChoose"
+#~ msgstr "3. Ödeme yöntemini seçin"
+
+#~ msgid "locales.pageCoinsClubBalance"
+#~ msgstr "FUT kulüp bakiyeniz için en az 5000 jetona sahip olmalısınız;"
+
+#~ msgid "locales.pageCoinsComfort"
+#~ msgstr "Rahat İşlem yöntemiyle para gönderme tamamen otomatiktir ve sizin herhangi bir müdahalenize gerek yoktur. Hızlı ve rahat, değil mi?"
+
+#~ msgid "locales.pageCoinsCompensated"
+#~ msgstr "Kulübünüzden herhangi bir kart taşımayız ya da satmayız, bu nedenle işlemi başlatmak için bakiyenizde en az 5000 jeton olmalıdır. Bu miktarda jetona sahip olmak şarttır, böylece teslimat sürecini başlatmak için birkaç kart satın alabiliriz. FIFA Transfer Market üzerinden yapılan satışlarda geçerli EA ücreti, kulübünüzün ilk jeton bakiyesi ile birlikte tamamen tarafımızdan ödenecektir"
+
+#~ msgid "locales.pageCoinsCompleteTransactions"
+#~ msgstr "ROYALFUT web sitesinden jeton satın aldığınızda, web sitemizin arayüzünden para transferiyle ilgili olarak kullanıcı dostu bir süreçte adım adım yönlendirilirsiniz. Konsolunuzun oyun içi FIFA menüsünden veya FUT Web Uygulaması/FUT Rehberi Uygulaması arayüzünden Transfer Market'te bir dizi işlemi tamamlamanız gerekir."
+
+#~ msgid "locales.pageCoinsConditions"
+#~ msgstr "Jeton yenileme hizmetini kullanmak için hangi koşullar karşılanmalıdır?"
+
+#~ msgid "locales.pageCoinsConfirm"
+#~ msgstr "ONAYLA"
+
+#~ msgid "locales.pageCoinsConfirmOrder"
+#~ msgstr "SİPARİŞİ ONAYLA"
+
+#: components/HowDelivery/Howdelivery.js:100
+msgid "locales.pageCoinsConfirmPlayer"
+msgstr "OYUNCUYU ONAYLA"
+
+#: components/PriceCouponRedesign/PriceCouponRedesign.js:603
+msgid "locales.pageCoinsCoupon"
+msgstr "Kuponum var"
+
+#~ msgid "locales.pageCoinsCustomAmount"
+#~ msgstr "Custom Amount"
+
+#~ msgid "locales.pageCoinsCustomAmountLocale"
+#~ msgstr "Özel miktar"
+
+#~ msgid "locales.pageCoinsDeliveringVia"
+#~ msgstr "<strong>aracılığıyla teslim edildi</strong>"
+
+#~ msgid "locales.pageCoinsDelivery"
+#~ msgstr "teslimat süresi"
+
+#~ msgid "locales.pageCoinsDeliveryMethodName"
+#~ msgstr "Tesli̇mat yöntemi̇:"
+
+#~ msgid "locales.pageCoinsDeliveryTime"
+#~ msgstr "teslimat süresi"
+
+#~ msgid "locales.pageCoinsDiscount"
+#~ msgstr "İndirim"
+
+#~ msgid "locales.pageCoinsDiscounted"
+#~ msgstr "İndirim uygulandı!"
+
+#~ msgid "locales.pageCoinsDiscounts"
+#~ msgstr "İndirim (%_):"
+
+#: components/HowDelivery/Howdelivery.js:70
+msgid "locales.pageCoinsDoNotEnter"
+msgstr "Teslimat sırasında lütfen oyuna girmeyin. Teslimatı tamamlandığında e-posta ile bilgilendirilirsiniz. Siparişinizin teslimat zamanı ile ilgili sorularınız için destek yöneticisi ile iletişime geçin."
+
+#~ msgid "locales.pageCoinsEaAccount"
+#~ msgstr "<a href =\"https://myaccount.ea.com/cp-ui/security/index\" class=\"coins-description__text--under\">EA hesabı</a> ayarlarınızdan tek kullanımlık yedekleme kodlarını kullanın. "
+
+#~ msgid "locales.pageCoinsEasy"
+#~ msgstr "FUT kulübünüze jetonlar eklemenin mekanikleri oldukça basittir: bir kart satın alın -> bir kart satın -> tekrar edin. Daha kolay ne olabilir ki?"
+
+#~ msgid "locales.pageCoinsEditOrder"
+#~ msgstr "SİPARİŞİ DÜZENLE"
+
+#~ msgid "locales.pageCoinsEditOrders"
+#~ msgstr "SİPARİŞİ DÜZENLE"
+
+#: components/HowDelivery/Howdelivery.js:73
+#: components/HowDelivery/Howdelivery.js:108
+msgid "locales.pageCoinsEnjoy"
+msgstr "OYUNUN KEYFİNİ ÇIKARIN"
+
+#~ msgid "locales.pageCoinsEnterAmount"
+#~ msgstr "TUTARI GİRİN"
+
+#: components/HowDelivery/Howdelivery.js:77
+#: components/HowDelivery/Howdelivery.js:112
+msgid "locales.pageCoinsFeedback"
+msgstr "Siparişiniz teslim edildiğinde lütfen "
+
+#: components/Purchase/Purchase.js:364
+msgid "locales.pageCoinsFifa"
+msgstr "EA FC jetonları"
+
+#: components/Package/CoinsBlock.js:37
+msgid "locales.pageCoinsFifaCoins"
+msgstr " FIFA JETONLARI"
+
+#: components/HowDelivery/Howdelivery.js:43
+msgid "locales.pageCoinsFill"
+msgstr "GEREKEN BİLGİLERİ GİRİN"
+
+#: components/HowDelivery/Howdelivery.js:47
+msgid "locales.pageCoinsFillBackup"
+msgstr "YEDEKLEME KODUNU GİRİN"
+
+#~ msgid "locales.pageCoinsFindVideo"
+#~ msgstr "Sayfanın alt kısmında, Oyuncu Açık Artırma teslimat yöntemini kullanarak FUT kulübünüze jetonlar ekleme işlemini gösteren bir video bulabilirsiniz."
+
+#: components/HowDelivery/Howdelivery.js:105
+msgid "locales.pageCoinsFirstPart"
+msgstr "Transferin ilk kısmı tamamlanmıştır. Siparişinizin tamamlanması için bu adımları kaç keç gerekiyorsa tekrar etmeniz gerekir."
+
+#~ msgid "locales.pageCoinsFor"
+#~ msgstr "<strong> için</strong>"
+
+#~ msgid "locales.pageCoinsGarantee"
+#~ msgstr "Yasaklama ve sıfırlamaya karşı 3 gün garanti"
+
+#~ msgid "locales.pageCoinsGuaranteeSafe"
+#~ msgstr "Bu şekilde hesabınızın %100 güvenli olacağını garanti edebiliriz."
+
+#~ msgid "locales.pageCoinsH"
+#~ msgstr "(X)-(Y)s"
+
+#~ msgid "locales.pageCoinsHaveNice"
+#~ msgstr "İyi bir oyun içi alışverişler!"
+
+#~ msgid "locales.pageCoinsHello"
+#~ msgstr "MERHABA!"
+
+#~ msgid "locales.pageCoinsHowDelivery"
+#~ msgstr "Teslimat nasıl gerçekleştirilir?"
+
+#~ msgid "locales.pageCoinsHowWillDelivery"
+#~ msgstr "Teslimat nasıl gerçekleştirilir?"
+
+#~ msgid "locales.pageCoinsImportant"
+#~ msgstr "<b>ÖNEMLİ!</b> "
+
+#~ msgid "locales.pageCoinsInform"
+#~ msgstr "Verileri doldurduktan sonra siparişi işleme almaya devam edeceğiz ve bu biraz zaman alacak (tahmini teslimat süresi ödemeden önce bildirilecektir). Ancak, bize sağladığınız oturum açma veya parola yanlışsa veya hesabınıza erişmemizi engelleyen başka bir sorun varsa, sizi e-posta ile derhal bilgilendireceğiz."
+
+#~ msgid "locales.pageCoinsLockedMarket"
+#~ msgstr "FUT Web uygulamasındaki Transfer Market kilitliyse, teslimat yöntemini “Oyuncu Açık Artırma” olarak değiştirin."
+
+#~ msgid "locales.pageCoinsLogin"
+#~ msgstr "GİRİŞ YAPIN"
+
+#~ msgid "locales.pageCoinsLogOut"
+#~ msgstr "ÇIKIŞ YAPIN"
+
+#~ msgid "locales.pageCoinsM"
+#~ msgstr "(X)-(Y)d"
+
+#~ msgid "locales.pageCoinsNeed1000"
+#~ msgstr "Sağlanması gereken tek bir koşul vardır: FUT kulüp bakiyeniz için en az 1000 jetona sahip olmalısınız."
+
+#~ msgid "locales.pageCoinsNotifiedEmail"
+#~ msgstr "Siparişiniz tamamlandığında e-posta ile bilgilendirileceksiniz. İyi bir oyun içi alışverişler!"
+
+#~ msgid "locales.pageCoinsOffers"
+#~ msgstr "HAZIR SIPARIŞLER"
+
+#~ msgid "locales.pageCoinsPaymentFee"
+#~ msgstr "Ödeme ücreti:"
+
+#~ msgid "locales.pageCoinsPlatform"
+#~ msgstr "Platform"
+
+#~ msgid "locales.pageCoinsPlatform1"
+#~ msgstr "Sony PlayStation 4 ve PlayStation 5"
+
+#~ msgid "locales.pageCoinsPlatform2"
+#~ msgstr "Xbox One ve Xbox Series S, Xbox Series X"
+
+#~ msgid "locales.pageCoinsPrevPage"
+#~ msgstr "Önceki sayfa"
+
+#~ msgid "locales.pageCoinsPrice"
+#~ msgstr "Fiyat"
+
+#~ msgid "locales.pageCoinsProcessAutomated"
+#~ msgstr "FUT kulüplerimizden sizin makinelerimize jeton aktarma işlemi tamamen otomatiktir. Geliştirdiğimiz algoritma, web sitemizden sipariş verirken hesabınızın güvenliğini sağlayacak bir dizi kurala göre çalışır. 3 günlük bir garanti süresi sunarız. Bu süre boyunca, oyun yayıncısının yaptırımları ile karşı karşıya kalmanız durumunda ödeme yapmak için kullanılan hesaba paranızı iade edebilirsiniz. Böyle bir durumda derhal operatörümüzle iletişime geçin ve sipariş numaranızı ve geri ödeme başlatma nedeninizi belirtin."
+
+#~ msgid "locales.pageCoinsReceive"
+#~ msgstr "Jetonları nasıl alacağım?"
+
+#~ msgid "locales.pageCoinsRefund"
+#~ msgstr "Jetonları kullanamayacaksanız iade garantisi"
+
+#~ msgid "locales.pageCoinsRegister"
+#~ msgstr "1. Kaydolun veya ROYALFUT hesabınızda oturum açın"
+
+#: components/HowDelivery/Howdelivery.js:104
+msgid "locales.pageCoinsRepeatUntil"
+msgstr "AKTARIM TAMAMLANANA KADAR TEKRARLAYINIZ"
+
+#~ msgid "locales.pageCoinsSignUp"
+#~ msgstr "KAYDOL"
+
+#~ msgid "locales.pageCoinsStep"
+#~ msgstr "FIFA Ultimate Team Club'ınızın bakiyesine jetonlar eklemeden önceki tüm adımların ayrıntılı açıklamaları olacak, yani kafanızın karışması mümkün değil :)"
+
+#: components/Package/CheckoutSticky.js:384
+msgid "locales.pageCoinsSubtotal"
+msgstr "Tutar:"
+
+#~ msgid "locales.pageCoinsText"
+#~ msgstr "FIFA Ultimate Team'de jetonlar satın alın ve oyuncu kartları veya paketler için bunları harcayın. Bu hizmet <span class=\"js-change-platform\">$ {platforms}</span> kullanıcıları için sağlanır. Dikkat edin: Farklı bir konsolda oynarsanız siparişinizi hemen değiştirin. <span class=\"js-change-platform\">$ {platforms}</span> jeton bir oyuncuya FUT'ta yüksek puanlı oyuncu kartları satın alma veya paket açma fırsatı verir!"
+
+#: components/HowDelivery/Howdelivery.js:101
+msgid "locales.pageCoinsThenConfirm"
+msgstr "Siz oyuncuyu satışa çıkardığınızı onayladıktan sonra hangi oyuncunun sizin olduğu sorulacaktır. Hangi oyuncunun sizin olduğunu anlamak için açık artırmanın bitimine kalan süreyi karşılaştırabilirsiniz."
+
+#: components/HowDelivery/Howdelivery.js:23
+#: components/HowDelivery/Howdelivery.js:51
+msgid "locales.pageCoinsToStart"
+msgstr "Teslimatın başlayabilmesi için yedekleme kodunuzu şu ardeste bulunan ilgili alana girin: "
+
+#~ msgid "locales.pageCoinsTotal"
+#~ msgstr "TOPLAM"
+
+#~ msgid "locales.pageCoinsTotaltotal"
+#~ msgstr "Toplam:"
+
+#~ msgid "locales.pageCoinsToTheCheckout"
+#~ msgstr "ÖDEMEYE GEÇ"
+
+#~ msgid "locales.pageCoinsTransferMarket"
+#~ msgstr "FUT Web uygulamasında Transfer Market'in kilidi açık olmalıdır (yalnızca Rahat İşlem teslimat yöntemi için)."
+
+#~ msgid "locales.pageCoinsUltimateTeam"
+#~ msgstr "<span class=\"js-change-coins\">$ {coins}</span> FIFA Ultimate Team Jetonu"
+
+#~ msgid "locales.pageCoinsUseInstructions"
+#~ msgstr "Tüm işlemler, konsolunuzda oyun içi FIFA menüsünün veya FUT Web Uygulaması/FUT Companion Uygulaması arayüzünün kullanılmasıyla web sitemizdeki etkileşimli talimatlara göre gerçekleştirilir."
+
+#~ msgid "locales.pageCoinsUseService"
+#~ msgstr "Hizmeti kullanmak için yalnızca birkaç koşulu karşılamanız gerekir:"
+
+#: components/HowDelivery/Howdelivery.js:69
+msgid "locales.pageCoinsWaitCompletion"
+msgstr "SİPARİŞİNİZİN TAMAMLANMASINI BEKLEYİN"
+
+#~ msgid "locales.pageCoinsYourPlatform"
+#~ msgstr "Platformunuz:"
+
+#~ msgid "locales.pageDeliveryContent1Email"
+#~ msgstr "E-POSTA"
+
+#~ msgid "locales.pageDeliveryContent1Name"
+#~ msgstr "EA hesap bilgilerinizi girin"
+
+#~ msgid "locales.pageDeliveryContent1Next"
+#~ msgstr "İleri"
+
+#~ msgid "locales.pageDeliveryContent1Password"
+#~ msgstr "Şifre"
+
+#~ msgid "locales.pageDeliveryContent1SeePassword"
+#~ msgstr "Bkz. şifre"
+
+#~ msgid "locales.pageDeliveryContent1Text"
+#~ msgstr "Kolay yöntemi seçtiniz. Yani, oyuncuları sizin adınıza biz satacağız. <br>Hesap bilgilerinizi yalnızca transferleri gerçekleştirmek için kullanacağız, başka bir amaçla değil. <br>Siparişiniz tamamlandığında hesabınızın şifresini değiştirmenizi öneririz."
+
+#~ msgid "locales.pageDeliveryContent2Code"
+#~ msgstr "Kodu gir"
+
+#~ msgid "locales.pageDeliveryContent2CodePlaceholder"
+#~ msgstr "Backup kodu"
+
+#~ msgid "locales.pageDeliveryContent2Name"
+#~ msgstr "8 haneli kodu girin"
+
+#~ msgid "locales.pageDeliveryContent2Next"
+#~ msgstr "İleri"
+
+#~ msgid "locales.pageDeliveryContent2Text"
+#~ msgstr "Bu kodu <a href=\"https://myaccount.ea.com/cp-ui/security/index\" rel=\"noindex, nofollow\" target=\"_blank\">myaccount.ea.com</a> sitesinde \"Security\" sayfasının Backup codes bölümünde bulabilirsiniz."
+
+#~ msgid "locales.pageDeliveryContent3Name"
+#~ msgstr "Hesap kullanımı"
+
+#~ msgid "locales.pageDeliveryContent3Process1"
+#~ msgstr "Transfer işlemi gerçekleştirilirken lütfen hesabınızı kullanmayın."
+
+#~ msgid "locales.pageDeliveryContent3Process2"
+#~ msgstr "Bu sayfadan ayrılabilirsiniz. Siparişiniz tamamlandığında size bir e-posta göndereceğiz."
+
+#~ msgid "locales.pageDeliveryContentButtonReload"
+#~ msgstr "Transfer yapmaya başlayalım!"
+
+#~ msgid "locales.pageDeliveryFormSuccess"
+#~ msgstr "Sipariş gönderildi, sipariş durumu: <span class=\"status\"></span>"
+
+#~ msgid "locales.pageDeliveryFormSuccessBtn"
+#~ msgstr "Siparişi görüntüle"
+
+#~ msgid "locales.pageDeliveryName"
+#~ msgstr "<div class=\"site__tab-name-content\">№<span></span> numaralı siparişiniz</div> TESLİM EDİLİYOR "
+
+#~ msgid "locales.pageDeliveryTab1"
+#~ msgstr "Oyun <br class=\"for-mobile\">hesabı"
+
+#~ msgid "locales.pageDeliveryTab2"
+#~ msgstr "Backup <br class=\"for-mobile\">kodları"
+
+#~ msgid "locales.pageDeliveryTab3"
+#~ msgstr "İşleniyor"
+
+#~ msgid "locales.pageDeliveryTab4"
+#~ msgstr "Bitti"
+
+#~ msgid "locales.pageMethodCard1Name"
+#~ msgstr "Rahat işlem"
+
+#~ msgid "locales.pageMethodCard1Text"
+#~ msgstr "FUT 22 hesap bilgilerinizi vermeniz yeterlidir. Gerisini biz sizin yerinize hallediyoruz."
+
+#~ msgid "locales.pageMethodCard2Name"
+#~ msgstr "Oyuncu açik artirma"
+
+#~ msgid "locales.pageMethodCard2Text"
+#~ msgstr "Verilen talimatları izleyerek işlemi gerçekleştirmeniz gerekir. Hızlı, güvenli fakat manuel. "
+
+#~ msgid "locales.pageMethodCard2Text2"
+#~ msgstr "1 milyon coin üzeri siparişlerle çalışmaz"
+
+#: components/PageChanger/PageChanger.js:92
+msgid "locales.pageMethodCardSoon"
+msgstr "Yakında"
+
+#~ msgid "locales.pageMethodName"
+#~ msgstr "TESLİMAT YÖNTEMİ"
+
+#~ msgid "locales.pageMethodRecomend"
+#~ msgstr "önerilen"
+
+#~ msgid "locales.pageOrderNext"
+#~ msgstr "İleri"
+
+#~ msgid "locales.pagePaymentMethodAntiBan"
+#~ msgstr "Anti-Ban system"
+
+#~ msgid "locales.pagePaymentMethodAntiBanLocale"
+#~ msgstr "YASAKLAMA ÖNLEME SİSTEMİ"
+
+#~ msgid "locales.pagePaymentMethodCard3d"
+#~ msgstr "Kart + 3D secure"
+
+#~ msgid "locales.pagePaymentMethodCheckout"
+#~ msgstr "Ödemeye git"
+
+#~ msgid "locales.pagePaymentMethodCoupon"
+#~ msgstr "kuponu"
+
+#~ msgid "locales.pagePaymentMethodCouponApply"
+#~ msgstr "Kuponu KULLAN"
+
+#~ msgid "locales.pagePaymentMethodCouponHave"
+#~ msgstr "İndirim kuponunuz mu var"
+
+#~ msgid "locales.pagePaymentMethodDelivery"
+#~ msgstr "1-2 saatte teslim"
+
+#~ msgid "locales.pagePaymentMethodGuarantee"
+#~ msgstr "3 gün garanti"
+
+#~ msgid "locales.pagePaymentMethodMore"
+#~ msgstr "Diğer ödeme yöntemleri"
+
+#: pages/payments.js:28
+msgid "locales.pagePaymentMethodName"
+msgstr "ÖDEME"
+
+#~ msgid "locales.pagePaymentMethodPay"
+#~ msgstr "Kartla ödeme"
+
+#~ msgid "locales.pagePaymentMethodPayOther"
+#~ msgstr "Bir şeyle ödeme"
+
+#~ msgid "locales.pagePaymentMethodPayPal"
+#~ msgstr "PayPal ile Ödeyin"
+
+#: components/Garantee/Garantee.js:74
+msgid "locales.pagePaymentMethodSafe"
+msgstr "%100 GÜVENLİ ÖDEME"
+
+#~ msgid "locales.pagePaymentMethodTaxesCovered"
+#~ msgstr "Taxes covered"
+
+#~ msgid "locales.pagePaymentMethodTaxesCoveredLocale"
+#~ msgstr "VERGİLER DAHİLDİR"
+
+#: pages/coins/index.js:147
+msgid "locales.pagePaymentMethodTitle"
+msgstr "PAKET TEKLİFLERİ"
+
+#~ msgid "locales.pagePaymentMethodTotalAmount"
+#~ msgstr "Toplam tutar"
+
+#~ msgid "locales.pagePlatformMark"
+#~ msgstr "YENI!"
+
+#~ msgid "locales.pagePlatformName"
+#~ msgstr "Platform"
+
+#~ msgid "locales.pagePlatformName2"
+#~ msgstr "Platform"
+
+#: components/Profile/Profile.js:192
+msgid "locales.password"
+msgstr "Şifre"
+
+#~ msgid "locales.payment_p1"
+#~ msgstr "'da avro cinsinden ödeme kabul edilir. Web sitemizde sadece kayıtlı kullanıcılar ödeme yapabilirler."
+
+#~ msgid "locales.payment_p2_1"
+#~ msgstr "Ödemeler "
+
+#~ msgid "locales.payment_p2_2"
+#~ msgstr " ve "
+
+#~ msgid "locales.payment_p2_3"
+#~ msgstr " uluslararası ödeme sistemleri üzerinden gerçekleştirilir. Sistemimiz, bulunduğunuz ülke veya kartınızı veren banka fark etmeksizin tüm ülkelerden ve tüm kartlarla ödemeler kabul etmektedir. Ödeme yaparken kendinize en uygun ödeme yöntemini seçebilirsiniz."
+
+#: components/Auth/Auth copy 2.js:113
+#: components/Auth/Auth.js:168
+#~ msgid "locales.paymentsLanguage"
+#~ msgstr "tr-TR"
+
+#: components/Order/StickySecondStep.js:445
+#: components/Order/StickySecondStep.js:454
+#: components/Package/CheckoutSticky.js:502
+#: components/Package/CheckoutSticky.js:510
+#: components/Purchase/Purchase.js:609
+#: components/Purchase/Purchase.js:631
+msgid "locales.payNow"
+msgstr "Şimdi ödeyin"
+
+#: components/Order/StepSecondContent.js:49
+#: components/Package/Checkout.js:23
+#: pages/coins/[id].js:301
+#: pages/coins/index.js:155
+msgid "locales.platform"
+msgstr "Platform"
+
+#~ msgid "locales.platformLogin"
+#~ msgstr "Platform / Login"
+
+#~ msgid "locales.platformName"
+#~ msgstr "Your platform:"
+
+#~ msgid "locales.price"
+#~ msgstr "Fiyat"
+
+#: components/PrivacyContent/PrivacyContent.js:34
+msgid "locales.privacya1"
+msgstr "Onay, kişisel veri öznesinin "
+
+#: components/PrivacyContent/PrivacyContent.js:46
+msgid "locales.privacya2"
+msgstr "Om du vill ta bort ditt ROYALFUT-konto, skicka förfrågan på "
+
+#: components/BurgerMenu/BurgerMenu.js:302
+msgid "locales.profile"
+msgstr "Profil"
+
+#~ msgid "locales.profileCodesErrors"
+#~ msgstr "Lütfen backup kodunu girin. Kod en az 8 karakter uzunluğunda olmalıdır."
+
+#~ msgid "locales.profileFormSuccess"
+#~ msgstr "Sipariş değişti, durum"
+
+#~ msgid "locales.profileNotify"
+#~ msgstr "№xxxxx numaralı siparişiniz TESLİM EDİLİYOR"
+
+#~ msgid "locales.quick_order"
+#~ msgstr "Hızlı sipariş"
+
+#~ msgid "locales.reportProblem"
+#~ msgstr "Bir sorunu bildir"
+
+#: components/ReviewsGallery/ReviewsGallery.js:91
+msgid "locales.reviews"
+msgstr "yorum"
+
+#: components/TableOrders/TableOrderBody.js:779
+#: components/TableOrders/TableOrderBody.js:808
+msgid "locales.saveChanges"
+msgstr "Değişiklikleri Kaydet"
+
+#: components/BurgerMenu/BurgerMenu.js:409
+#: components/TableOrders/TableOrderBody.js:330
+#: components/TableOrders/TableOrderBody.js:558
+msgid "locales.seePassword"
+msgstr "Bkz. şifre"
+
+#~ msgid "locales.seo0"
+#~ msgstr "PlayStation 4 için FIFA jetonlarında en iyi fırsatları sunuyoruz. Yüksek hızlı teslimat ile ucuz FIFA PS4 jetonları sunuyoruz ve hesabınızın güvenliğini ÜCRETSİZ olarak garanti ediyoruz."
+
+#~ msgid "locales.seo1"
+#~ msgstr "Ekibimiz size piyasadaki en iyi fiyatları sunmak için çok çalışıyor, böylece en iyi teklifi almanın güveniyle bizden PS4 için FUT Jetonları satın alabilirsiniz."
+
+#~ msgid "locales.seo10"
+#~ msgstr "Ekibimiz size piyasadaki en iyi fiyatları sunmak için çok çalışıyor, böylece en iyi teklifi almanın güveniyle bizden Xbox Series X/S için FUT Jetonları satın alabilirsiniz."
+
+#~ msgid "locales.seo11"
+#~ msgstr "Xbox konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
+
+#~ msgid "locales.seo2"
+#~ msgstr "PlayStation konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
+
+#~ msgid "locales.seo3"
+#~ msgstr "PlayStation 5 için FIFA jetonlarında en iyi fırsatları sunuyoruz. Yüksek hızlı teslimat ile ucuz FIFA PS5 jetonları sunuyoruz ve hesabınızın güvenliğini ÜCRETSİZ olarak garanti ediyoruz."
+
+#~ msgid "locales.seo4"
+#~ msgstr "Ekibimiz size piyasadaki en iyi fiyatları sunmak için çok çalışıyor, böylece en iyi teklifi almanın güveniyle bizden PS5 için FUT Jetonları satın alabilirsiniz."
+
+#~ msgid "locales.seo5"
+#~ msgstr "PlayStation konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
+
+#~ msgid "locales.seo6"
+#~ msgstr "Xbox One için FIFA jetonlarında en iyi fırsatları sunuyoruz. Yüksek hızlı teslimat ile ucuz FIFA jetonları sunuyoruz ve hesabınızın güvenliğini ÜCRETSİZ olarak garanti ediyoruz."
+
+#~ msgid "locales.seo7"
+#~ msgstr "Ekibimiz size piyasadaki en iyi fiyatları sunmak için çok çalışıyor, böylece en iyi teklifi almanın güveniyle bizden Xbox 1 için FUT Jetonları satın alabilirsiniz."
+
+#~ msgid "locales.seo8"
+#~ msgstr "Xbox konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
+
+#~ msgid "locales.seo9"
+#~ msgstr "Xbox Series X için FIFA jetonlarında en iyi fırsatları sunuyoruz. Ayrıca yüksek hızlı teslimat ile Xbox Series S için ucuz FIFA jetonları sunuyoruz ve hesabınızın güvenliğini ÜCRETSİZ olarak garanti ediyoruz."
+
+#~ msgid "locales.seot1_ps4"
+#~ msgstr ""
+
+#~ msgid "locales.seot1_ps5"
+#~ msgstr ""
+
+#~ msgid "locales.seot1_xb"
+#~ msgstr ""
+
+#~ msgid "locales.seot1_xbxs"
+#~ msgstr ""
+
+#~ msgid "locales.seot2_ps4"
+#~ msgstr ""
+
+#~ msgid "locales.seot2_ps5"
+#~ msgstr ""
+
+#~ msgid "locales.seot2_xb"
+#~ msgstr ""
+
+#~ msgid "locales.seot2_xbxs"
+#~ msgstr ""
+
+#~ msgid "locales.seot3_ps4"
+#~ msgstr ""
+
+#~ msgid "locales.seot3_ps5"
+#~ msgstr ""
+
+#~ msgid "locales.seot3_xb"
+#~ msgstr ""
+
+#~ msgid "locales.seot3_xbxs"
+#~ msgstr ""
+
+#: components/Profile/Profile.js:160
+msgid "locales.settings"
+msgstr "Ayarlar"
+
+#~ msgid "locales.sidebarAllLink"
+#~ msgstr "Tüm yorumlar"
+
+#~ msgid "locales.sidebarTitle"
+#~ msgstr "Son yorumlar"
+
+#~ msgid "locales.sidebarTrust"
+#~ msgstr "en-GB"
+
+#~ msgid "locales.sidebarTrustWidth"
+#~ msgstr "236px"
+
+#~ msgid "locales.specOfferTitle"
+#~ msgstr "Özel teklifimizi kaçırmayın"
+
+#: pages/coins/index.js:250
+#: pages/coins/index.js:337
+msgid "locales.startSave"
+msgstr "Arkadaşlarımızdan gelen yepyeni araçla çok zaman kazanmaya başlayın!"
+
+#: components/TableOrders/StatusInfo.js:19
+msgid "locales.status"
+msgstr "Durum"
+
+#~ msgid "locales.status.accepted"
+#~ msgstr "KABUL EDİLDİ"
+
+#~ msgid "locales.status.created"
+#~ msgstr "OLUŞTUR"
+
+#~ msgid "locales.status.customer_online"
+#~ msgstr "FIFA hesabı halihazırda kullanılıyor"
+
+#~ msgid "locales.status.error_fut"
+#~ msgstr "FUT HATASI"
+
+#~ msgid "locales.status.error_payment"
+#~ msgstr "ÖDEME BAŞARISIZ"
+
+#~ msgid "locales.status.finished"
+#~ msgstr "TAMAMLANDI"
+
+#~ msgid "locales.status.fut_error"
+#~ msgstr "FUT HATASI"
+
+#~ msgid "locales.status.issued_refund"
+#~ msgstr "İPTAL EDİLDİ"
+
+#~ msgid "locales.status.locked"
+#~ msgstr "kilitli"
+
+#~ msgid "locales.status.no_access_to_fifa_21_webapp"
+#~ msgstr "EA FC 25 WEB-APP uygulamasına erişilemiyor"
+
+#~ msgid "locales.status.no_enough_coins_to_start"
+#~ msgstr "YETERLİ JETON YOK"
+
+#~ msgid "locales.status.no_enough_stock"
+#~ msgstr "YETERLİ JETON YOK"
+
+#~ msgid "locales.status.not_enough_coins_to_start"
+#~ msgstr "YETERLİ JETON YOK"
+
+#~ msgid "locales.status.not_enough_stock"
+#~ msgstr "YETERLİ JETON YOK"
+
+#~ msgid "locales.status.out_of_stock"
+#~ msgstr "STOKTA YOK"
+
+#~ msgid "locales.status.payed"
+#~ msgstr "ÖDENDİ"
+
+#~ msgid "locales.status.payment_failed"
+#~ msgstr "ÖDEME BAŞARISIZ"
+
+#~ msgid "locales.status.progress"
+#~ msgstr "İŞLENİYOR"
+
+#~ msgid "locales.status.success"
+#~ msgstr "Başarı"
+
+#~ msgid "locales.status.waiting_payment"
+#~ msgstr "ÖDEME BEKLENİYOR"
+
+#~ msgid "locales.status.warning"
+#~ msgstr "Uyarıcı"
+
+#~ msgid "locales.status.wrong_backup"
+#~ msgstr "BACKUP HATALI"
+
+#~ msgid "locales.status.wrong_credentials"
+#~ msgstr "GİRİŞ BİLGİLERİ HATALI"
+
+#~ msgid "locales.sublogo"
+#~ msgstr "Jeton EA FC 25"
+
+#~ msgid "locales.sublogo2"
+#~ msgstr "EA FC 25 Öğeleri"
+
+#~ msgid "locales.succPaid"
+#~ msgstr "Sipariş ödemeniz başarıyla gerçekleştirildi"
+
+#: components/TermsContent/TermsContent.js:18
+msgid "locales.terms_text"
+msgstr "Lütfen aşağıdaki Kullanıcı sözleşmesini dikkatlice okuyun. Bu Kullanıcı Sözleşmesinde yer alan herhangi bir hükmü kabul etmiyorsanız kaydınızı onaylayamaz, https://royalfut.com tarafından sağlanan hizmetleri kullanamaz ve bu işlem platformunda ürün alıp satamaz veya takas edemezsiniz."
+
+#: components/TermsContent/TermsContent.js:53
+msgid "locales.termsa1"
+msgstr "01.10.2020 (01.10.2020 - 07.02.2021) arası Hüküm ve Koşulları"
+
+#: components/TermsContent/TermsContent.js:63
+msgid "locales.termsa2"
+msgstr "08.02.2021 (08.02.2021 - 03.06.2021) arası Hüküm ve Koşulları"
+
+#: components/TermsContent/TermsContent.js:73
+msgid "locales.termsa3"
+msgstr "01.10.2020 tarihinden itibaren Gizlilik Politikası (01.10.2020 - 07.02.2021)"
+
+#~ msgid "locales.toDay"
+#~ msgstr "Bugün"
+
+#~ msgid "locales.totsPromoText"
+#~ msgstr "SEZONUN TAKIMI <b>- %18 indirimli</b> teklif ücreti - promosyon <span class=\"color\">kodunu kullanın: <b>TOTSY</b></span>"
+
+#: components/TableOrders/StatusInfo.js:117
+#: components/TableOrders/TableItem.js:846
+msgid "locales.transferred"
+msgstr "Jeton transfer edildi"
+
+#: components/HowDelivery/Howdelivery.js:85
+#: components/HowDelivery/Howdelivery.js:120
+msgid "locales.trustcom"
+msgstr " geri bildirimde "
+
+#~ msgid "locales.trySbc"
+#~ msgstr "SBC Solver'ı şimdi ücretsiz olarak deneyin!"
+
+#: pages/index.js:117
+#~ msgid "locales.tryThese"
+#~ msgstr "Bu seçenekleri de deneyin"
+
+#: components/HowDelivery/Howdelivery.js:34
+#: components/HowDelivery/Howdelivery.js:63
+msgid "locales.unused"
+msgstr " . Teslimatın başlaması için, kullanılmamış tek bir kod girmeniz yeterli olacaktır."
+
+#: components/Profile/Profile.js:208
+msgid "locales.update"
+msgstr "GÜNCELLE"
+
+#~ msgid "locales.upto1m"
+#~ msgstr "1 milyona kadar jeton"
+
+#: components/TermsContent/TermsContent.js:21
+msgid "locales.user_agreement"
+msgstr "Kullanıcı Sözleşmesi"
+
+#: components/TableOrders/TableOrderBody.js:746
+msgid "locales.wrong_backup"
+msgstr "BACKUP HATALI"
+
+#~ msgid "locales.wrongCode"
+#~ msgstr "BACKUP HATALI"
+
+#~ msgid "locales.wrongCredentials"
+#~ msgstr "GİRİŞ BİLGİLERİ HATALI"
+
+#~ msgid "locales.yesterDay"
+#~ msgstr "Dün"
+
+#~ msgid "locales.youLogged"
+#~ msgstr "Kullanıcı adı olarak başarıyla kaydoldunuz."
+
+#: components/Profile/RoyalRanging.js:1422
+#: components/Profile/RoyalRanging.js:1452
+msgid "locked"
+msgstr "Kilitli"
+
+#: components/Profile/Profile.js:171
+msgid "loyalty program"
+msgstr "Sadakat Programı"
+
+#: components/Carusel/Carusel.js:109
+#: components/Carusel/Carusel.js:139
+msgid "mainblocks0"
+msgstr "Rüya Takımınızı şimdi kurun"
+
+#: components/Carusel/Carusel.js:110
+#: components/Carusel/Carusel.js:140
+msgid "mainblocks1"
+msgstr "EA Sports FC 25 Jetonları ile takımınızdaki her pozisyon için mümkün olan en iyi opsiyonları seçmekte özgürsünüz. Hayal gücünüzü konuşturun, yeni şeyler deneyin, deneyler yapın!"
+
+#: components/Carusel/Carusel.js:87
+#: components/Modal/Modal.js:169
+#: components/Package/IdCard.js:135
+#: components/Package/PackageCard.js:144
+#: pages/coins/index.js:234
+#: pages/coins/index.js:321
+msgid "mainblocks10"
+msgstr "Jetonlar satın alın"
+
+#: components/FaqMain/FaqMain.js:159
+msgid "mainblocks11"
+msgstr "Başka sorularınız mı var?"
+
+#: components/Footer/Footer.js:102
+msgid "mainblocks12"
+msgstr "Sosyal medyalarımız"
+
+#~ msgid "mainblocks13"
+#~ msgstr "EA FC 25"
+
+#~ msgid "mainblocks14"
+#~ msgstr "tedarikçiniz"
+
+#~ msgid "mainblocks15"
+#~ msgstr "Jetonlar ve Hizmetler"
+
+#: components/H1/H1.js:10
+msgid "mainblocks16"
+msgstr "FC 25 almak için"
+
+#: components/H1/H1.js:13
+msgid "mainblocks17"
+msgstr "her zamanki yer"
+
+#: components/H1/H1.js:16
+msgid "mainblocks18"
+msgstr "Jetonlar ve Hizmet"
+
+#~ msgid "mainblocks19"
+#~ msgstr "Her zamanki"
+
+#: components/Carusel/Carusel.js:121
+#: components/Carusel/Carusel.js:151
+msgid "mainblocks2"
+msgstr "İstediğiniz herhangi bir kartı alın"
+
+#~ msgid "mainblocks20"
+#~ msgstr "FC 25 Ultimate Team"
+
+#~ msgid "mainblocks21"
+#~ msgstr "Jeton Mağazası"
+
+#: components/Offer/Offer.js:29
+msgid "mainblocks22"
+msgstr "Satın almak için en güvenli seçenek"
+
+#: components/Offer/Offer.js:32
+msgid "mainblocks23"
+msgstr "FIFA 25 Jetonları"
+
+#: components/ReviewsGallery/ReviewsGallery.js:71
+msgid "mainblocks24"
+msgstr "Müşterilerimiz neler diyor"
+
+#~ msgid "mainblocks25"
+#~ msgstr "__ Puan"
+
+#~ msgid "mainblocks26"
+#~ msgstr "__ değerlendirmeye göre"
+
+#: components/ReviewsGallery/ReviewsGallery.js:99
+msgid "mainblocks27"
+msgstr "Mükemmel"
+
+#: components/ReviewsGallery/ReviewsGallery.js:113
+msgid "mainblocks28"
+msgstr "Doğrulanmış şirket"
+
+#~ msgid "mainblocks29"
+#~ msgstr ""
+
+#: components/Carusel/Carusel.js:122
+#: components/Carusel/Carusel.js:152
+msgid "mainblocks3"
+msgstr "Ultimate Team'in en sevilen oyuncuları nihayet sizin olacak. Her FC UT promosyonundan değerli kartları toplamaya başlayın ve kendinizi asla mahrum bırakmayın!"
+
+#: components/Carusel/Carusel.js:115
+#: components/Carusel/Carusel.js:145
+msgid "mainblocks4"
+msgstr "Yüksek puanlı kartları kullanarak daha fazla oyun içi özelliği keşfedin"
+
+#: components/Carusel/Carusel.js:116
+#: components/Carusel/Carusel.js:146
+msgid "mainblocks5"
+msgstr "Ultimate Team'de oynanışı etkileyen farklı PlayStyles+ kombinasyonlarına sahip en iyi oyuncuları kullanarak yeni deneyimleri keşfedin."
+
+#: components/Carusel/Carusel.js:103
+#: components/Carusel/Carusel.js:133
+msgid "mainblocks6"
+msgstr "En yüksek derecelere ulaşın"
+
+#: components/Carusel/Carusel.js:104
+#: components/Carusel/Carusel.js:134
+msgid "mainblocks7"
+msgstr "Elinizdeki en iyi oyuncu kartlarıyla oynamak, zirveye ulaşmak ve en büyük ödüllere sahip olmak için zafere giden en doğru yoldur. Her şey sizin ellerinizde!"
+
+#: components/Carusel/Carusel.js:127
+#: components/Carusel/Carusel.js:157
+msgid "mainblocks8"
+msgstr "Şimdi oynayın - jetonları biriktirerek zamanınızı boşa harcamayın"
+
+#: components/Carusel/Carusel.js:128
+#: components/Carusel/Carusel.js:158
+msgid "mainblocks9"
+msgstr "Sinir bozucu jeton çiftçiliğini unutun ve değerli zamanınızı gerçekten önemli olan şeye, yani oyunun kendisine harcamaya başlayın! "
+
+#: components/Infografic/Infografic.js:51
+msgid "min"
+msgstr "min."
+
+#: pages/coins/[id].js:216
+msgid "minutes"
+msgstr "minutes"
+
+#~ msgid "Netherlands"
+#~ msgstr "Hollanda"
+
+#: components/Cookie/Cookie.js:35
+msgid "newcookies"
+msgstr "🍪 Sitemizdeki deneyiminizi daha iyi hale getirmek için çerezler kullanıyoruz.        "
+
+#: components/Cookie/Cookie.js:38
+msgid "newcookieslink"
+msgstr "Politika.        "
+
+#~ msgid "newh1_1"
+#~ msgstr "FC 25 jetonlari satin almak"
+
+#~ msgid "newh1_2"
+#~ msgstr "İçi̇n en güvenli̇ "
+
+#~ msgid "newh1_3"
+#~ msgstr "seçenek"
+
+#: components/MainFunnel/MainFunnel.js:46
+msgid "newh1_4"
+msgstr "İçi̇n en güvenli̇ seçenek"
+
+#: components/Cookie/Cookie.js:52
+msgid "okay"
+msgstr "Tamam        "
+
+#~ msgid "orderh1"
+#~ msgstr "Buy FC 25 Ultimate Team coins"
+
+#~ msgid "orderinfo"
+#~ msgstr "Order info"
+
+#: components/Infografic/Infografic.js:34
+msgid "orders to our customers"
+msgstr "fazla sipariş teslimatı gerçekleştirdik"
+
+#~ msgid "orderstep2"
+#~ msgstr "Checkout"
+
+#~ msgid "orderstep3"
+#~ msgstr "Delivery"
+
+#: components/Header/Header.js:69
+msgid "pageCoinsBundles"
+msgstr "Jeton paketleri"
+
+#: components/MainFunnel/StickySecondStep.js:157
+msgid "payNow"
+msgstr "Şimdi ödeyin"
+
+#~ msgid "pl_upd0"
+#~ msgstr "Transfer Market Kilitli"
+
+#~ msgid "pl_upd1"
+#~ msgstr "Hesabınızın FC Ultimate Team Web Uygulamasında Transfer Market'i kullanması askıya alındı; varsa Transfer Market kilidi açık olan diğer hesabınızın ayrıntılarını gönderin veya başka bir çözüm bulmak için Destek Ekibimizle iletişime geçin"
+
+#~ msgid "pl_upd10"
+#~ msgstr "E-postayı tekrar gönder"
+
+#~ msgid "pl_upd11"
+#~ msgstr "[[X]] saniye"
+
+#~ msgid "pl_upd12"
+#~ msgstr "Yanlış kod"
+
+#~ msgid "pl_upd13"
+#~ msgstr "[[X]] olarak giriş yaptınız"
+
+#: components/LoyaltyProgram/MainLoyalty.js:30
+msgid "pl_upd14"
+msgstr "Sadakat programımız nasıl işliyor?"
+
+#: components/LoyaltyProgram/MainLoyalty.js:33
+msgid "pl_upd15"
+msgstr "Her satın alma sizi futbol harikaları dünyasına taşır! Satın alma, kazanma, harcama ve yeni seviyelere ulaşma ile dolu heyecan verici bir dijital maceraya atılın!"
+
+#: components/LoyaltyProgram/MainLoyalty.js:40
+msgid "pl_upd16"
+msgstr "kullanıcı Sadakat Programımıza katıldı"
+
+#: components/LoyaltyProgram/MainLoyalty.js:46
+msgid "pl_upd17"
+msgstr "ROYAL Puan müşterilerimiz tarafından kazanıldı"
+
+#: components/GuideContent/StickyCoupon.js:32
+#: components/LoyaltyProgram/MainLoyalty.js:54
+msgid "pl_upd18"
+msgstr "Jeton Satın Alın"
+
+#: components/LoyaltyProgram/MainLoyalty.js:57
+msgid "pl_upd19"
+msgstr "Oyun deneyiminizi yükseltmek ve Ultimate Team potansiyelinizin tamamını ortaya çıkarmak için biraz jeton alın!"
+
+#~ msgid "pl_upd2"
+#~ msgstr "Giriş Yapın veya Kaydolun"
+
+#: components/LoyaltyProgram/MainLoyalty.js:64
+msgid "pl_upd20"
+msgstr "ROYAL Puanlar Kazanın"
+
+#: components/LoyaltyProgram/MainLoyalty.js:67
+msgid "pl_upd21"
+msgstr "Web sitemizden her jeton satın aldığınızda ROYAL Puanlar toplayın ve yeni Sadakat Kademelerine ulaşarak ek avantajların kapısını açın."
+
+#: components/LoyaltyProgram/MainLoyalty.js:73
+msgid "pl_upd22"
+msgstr "ROYAL Puanlarınızı Harcayın"
+
+#: components/LoyaltyProgram/MainLoyalty.js:76
+msgid "pl_upd23"
+msgstr "ROYAL Puanlarınızı bir sonraki alışverişinizde kullanın ve jeton yenileme ücretlerinizde indirimlerin keyfini çıkarın!"
+
+#: components/LoyaltyProgram/MainLoyalty.js:85
+msgid "pl_upd24"
+msgstr "Jeton Satın Alın"
+
+#: components/LoyaltyProgram/MainLoyalty.js:95
+msgid "pl_upd25"
+msgstr "ROYAL Puanlar hakkında daha fazla bilgi edinin"
+
+#: components/Order/OrderDeliveryPlug.js:20
+msgid "pl_upd26"
+msgstr "Teslimat Bilgileri"
+
+#: components/Order/OrderDeliveryPlug.js:24
+msgid "pl_upd27"
+msgstr "Teslimat sürecini başlatmak için EA hesap bilgilerinizi göndermeniz gerekmektedir. Jetonlar, EA hesabınızla ilişkili Ultimate Team kulübüne gönderilecektir."
+
+#: components/LoyaltyProgram/RoyalPointsInfo.js:27
+msgid "pl_upd28"
+msgstr "Yepyeni nakit iadesine dayalı sadakat sistemimizle tanışın - yaptığınız her alışveriş için puan kazanın, bunları gelecekteki siparişlerinizde harcayın ve ek avantajların kilidini açmak için yeni kademelere ulaşın."
+
+#: components/LoyaltyProgram/RoyalPointsInfo.js:32
+msgid "pl_upd29"
+msgstr "Daha fazla bilgi edinin"
+
+#~ msgid "pl_upd3"
+#~ msgstr "Oturum açmak veya bir hesap oluşturmak için e-postanızı girin"
+
+#~ msgid "pl_upd30"
+#~ msgstr "Ara toplam"
+
+#: components/Package/CheckoutSticky.js:414
+msgid "pl_upd31"
+msgstr "Kullanmayın"
+
+#: components/Package/CheckoutSticky.js:425
+msgid "pl_upd32"
+msgstr " kullanın"
+
+#~ msgid "pl_upd33"
+#~ msgstr "Toplam fiyat"
+
+#: components/Package/CheckoutSticky.js:469
+msgid "pl_upd34"
+msgstr "Para iadesi almak için giriş yapın"
+
+#: components/Package/CheckoutSticky.js:468
+msgid "pl_upd35"
+msgstr "Bu sipariş için nakit iadeniz"
+
+#: components/Package/CheckoutSticky.js:397
+msgid "pl_upd36"
+msgstr "ROYAL Puan indirimi"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:146
+#: components/LoyaltyProgram/RoyalPointsInfo.js:24
+msgid "pl_upd37"
+msgstr "ROYAL Puanlar"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:149
+msgid "pl_upd38"
+msgstr "Sipariş fiyatının bir kısmını önceki alışverişlerden alınan geri ödeme puanlarıyla karşılayın. Ulaşılan her yeni kademe ile ek avantajların kilidini açın."
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:160
+msgid "pl_upd39"
+msgstr "Sadakat programı kademeleri"
+
+#~ msgid "pl_upd4"
+#~ msgstr "Verilen e-posta adresini doğrulamak için bir onay bağlantısı ve güvenli bir şekilde oturum açmak için 6 haneli benzersiz bir kod alacaksınız"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:207
+msgid "pl_upd40"
+msgstr "Sizin kademeniz"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:218
+msgid "pl_upd41"
+msgstr "Gereksinimler"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:222
+msgid "pl_upd42"
+msgstr "Web sitesinde [[x]] satın alma"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:225
+msgid "pl_upd43"
+msgstr "Toplamda [[x]] jeton alındı"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:234
+msgid "pl_upd44"
+msgstr "Avantajlar"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:238
+msgid "pl_upd45"
+msgstr "Her satın alma işleminden [[x]]% tutarında nakit iadesi alındı"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:241
+msgid "pl_upd46"
+msgstr "Sipariş fiyatının en fazla [[x]]% oranına kadar ROYAL Puanlar olarak ödenebilir"
+
+#: pages/profile.js:55
+msgid "pl_upd49"
+msgstr "Profiliniz"
+
+#~ msgid "pl_upd5"
+#~ msgstr "E-posta adresiniz"
+
+#: components/Profile/RoyalPoints.js:55
+msgid "pl_upd50"
+msgstr "ROYAL Puan Bakiyeniz"
+
+#: components/Profile/RoyalPoints.js:83
+msgid "pl_upd51"
+msgstr "Sipariş fiyatının bir kısmını önceki alışverişlerden alınan geri ödeme puanlarıyla karşılayın. Ulaşılan her yeni kademe ile ek avantajların kilidini açın."
+
+#: components/Profile/RoyalRanging.js:75
+msgid "pl_upd52"
+msgstr "Mevcut Sadakat Kademeniz"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:76
+msgid "pl_upd53"
+msgstr "Bronz"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:80
+msgid "pl_upd54"
+msgstr "Gümüş"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:84
+msgid "pl_upd55"
+msgstr "Altın"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:88
+msgid "pl_upd56"
+msgstr "İnform"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:92
+msgid "pl_upd57"
+msgstr "Kahraman"
+
+#: components/LoyaltyProgram/ModalLoyaltyComponent.js:96
+msgid "pl_upd58"
+msgstr "İkon"
+
+#: components/Profile/RoyalRanging.js:116
+#: components/Profile/RoyalRanging.js:202
+#: components/Profile/RoyalRanging.js:311
+#: components/Profile/RoyalRanging.js:388
+#: components/Profile/RoyalRanging.js:496
+#: components/Profile/RoyalRanging.js:602
+#: components/Profile/RoyalRanging.js:744
+#: components/Profile/RoyalRanging.js:879
+#: components/Profile/RoyalRanging.js:1053
+#: components/Profile/RoyalRanging.js:1188
+msgid "pl_upd59"
+msgstr "Bir sonraki seviyeye ulaşmak için gereken satın alma işlemi sayısı"
+
+#~ msgid "pl_upd6"
+#~ msgstr "Onay e-postası gönder"
+
+#: components/Profile/RoyalRanging.js:1366
+msgid "pl_upd60"
+msgstr "Satın alınan toplam jeton"
+
+#: components/Profile/RoyalRanging.js:1422
+#: components/Profile/RoyalRanging.js:1452
+msgid "pl_upd61"
+msgstr "Her satın alma"
+
+#: components/Profile/RoyalRanging.js:1427
+msgid "pl_upd62"
+msgstr "işleminden elde edilen nakit para iadesi avantajlarınız"
+
+#~ msgid "pl_upd63"
+#~ msgstr "Artırmak için bir sonraki seviyeye ulaşın"
+
+#~ msgid "pl_upd64"
+#~ msgstr "Olası maksimum değer"
+
+#: components/Profile/RoyalRanging.js:1457
+msgid "pl_upd65"
+msgstr "oranında ROYAL Puanlar kullanılarak sipariş fiyatının ödemesi gerçekleştirilebilir"
+
+#: components/Profile/PointsHistory.js:69
+msgid "pl_upd66"
+msgstr "ROYAL Puan Geçmişi"
+
+#~ msgid "pl_upd69"
+#~ msgstr "Bu seviyenin kilidini açmak için daha fazla jeton satın alın"
+
+#~ msgid "pl_upd7"
+#~ msgstr "6 haneli kodu girin"
+
+#~ msgid "pl_upd70"
+#~ msgstr "Bir sonraki seviyenin kilidini açmak için daha fazla alım yapın"
+
+#: components/Profile/RoyalRanging.js:75
+msgid "pl_upd71"
+msgstr "Bu seviyenin kilidini açmak için daha fazla alışveriş yapın ve daha fazla jeton satın alın"
+
+#~ msgid "pl_upd72"
+#~ msgstr "Ödenmedi"
+
+#~ msgid "pl_upd73"
+#~ msgstr "Bu siparişin ödemesi henüz yapılmadı"
+
+#~ msgid "pl_upd74"
+#~ msgstr "İptal Edildi"
+
+#~ msgid "pl_upd75"
+#~ msgstr "Bu sipariş isteğiniz üzerine iptal edildi"
+
+#~ msgid "pl_upd76"
+#~ msgstr "EA Hesap Bilgilerinizi Girin"
+
+#~ msgid "pl_upd77"
+#~ msgstr "Teslimat sürecini başlatmak için aşağıdaki formu kullanarak EA hesap bilgilerinizi girin"
+
+#~ msgid "pl_upd78"
+#~ msgstr "Sıradaki Sipariş"
+
+#~ msgid "pl_upd79"
+#~ msgstr "FC Ultimate Team Web Uygulaması / FC Companion aracılığıyla konsolunuzda / PC'nizde ve diğer cihazlarda Ultimate Team'den çıkış yaptığınızdan emin olun"
+
+#~ msgid "pl_upd8"
+#~ msgstr "Lütfen [[X]] adresine gönderdiğimiz onay kodunu aşağıdaki kutuya girin"
+
+#~ msgid "pl_upd80"
+#~ msgstr "Teslimat Devam Ediyor"
+
+#~ msgid "pl_upd81"
+#~ msgstr "Sipariş tamamlanana kadar Ultimate Team'i hesabınızda kapalı tuttuğunuzdan emin olun"
+
+#~ msgid "pl_upd82"
+#~ msgstr "Yedek Kodlar"
+
+#~ msgid "pl_upd83"
+#~ msgstr "Yanlış Yedek Kodlar"
+
+#~ msgid "pl_upd84"
+#~ msgstr "Bize sağladığınız yedek kodlar ya yanlış, ya süreleri dolmuş ya da yanlış bir hesaptan alınmış, doğru olanları gönderdiğinizden emin olun"
+
+#~ msgid "pl_upd9"
+#~ msgstr "veya e-posta adresinizi onaylamak için e-postadaki bağlantıya tıklayın"
+
+#: components/DeliverySteps/DeliverySteps.js:16
+msgid "process"
+msgstr "Teslimat süreci"
+
+#~ msgid "Qatar"
+#~ msgstr "Katar"
+
+#~ msgid "rangeHeader0"
+#~ msgstr "Bronze"
+
+#~ msgid "rangeHeader1"
+#~ msgstr "Silver"
+
+#~ msgid "rangeHeader2"
+#~ msgstr "Gold"
+
+#~ msgid "rangeHeader3"
+#~ msgstr "Inform"
+
+#~ msgid "rangeHeader4"
+#~ msgstr "Hero"
+
+#~ msgid "rangeHeader5"
+#~ msgstr "Icon"
+
+#: components/Message/Message.js:115
+msgid "refresh"
+msgstr "Sayfayı yenileyin"
+
+#: components/Aside/Aside.js:65
+msgid "reviews"
+msgstr "yorum"
+
+#: components/Infografic/Infografic.js:60
+msgid "satisfied costumers"
+msgstr "memnun müşterimiz var"
+
+#~ msgid "Saudi Arabia"
+#~ msgstr "Suudi Arabistan"
+
+#: pages/coins/index.js:249
+#: pages/coins/index.js:336
+msgid "sbc"
+msgstr "SBC Solver'ı indirimli fiyattan deneyin"
+
+#: components/ModalTimer/ModalTimer.js:53
+msgid "season"
+msgstr "Yeni sezona hazırlanıyoruz"
+
+#: components/MainContainer.js:602
+#: components/MainContainer.js:608
+msgid "seo:root:description"
+msgstr "EA SPORTS FC 25 Jetonları için en iyi mağaza ✔PS 4/5, Xbox One/X/S için EA FC 25 jetonları satın alın 🎮Hızlı Teslimat ve 7/24 Canlı Destek ⚡ %100 Güvenli Ödeme 🔒 Ucuz Ultimate Team Jetonları için güvenli yer"
+
+#: pages/_app.js:25
+msgid "seo:root:title"
+msgstr "Tüm Platformlar için FC 25 Jetonu Satın Alın | Ultimate Team Jeton Mağazası"
+
+#~ msgid "seo0"
+#~ msgstr "Türkçe"
+
+#: components/BuyCoinsDropdown/BuyCoinsDropdown.js:57
+#: components/Offer/Offer.js:47
+#: components/OptionWithItems/OptionWithItems.js:45
+#: components/StickyBlock/StickyBlock.js:31
+msgid "seo1"
+msgstr "Jeton satın alın"
+
+#~ msgid "seo10"
+#~ msgstr "Jeton satın alın"
+
+#: components/NotFound/NotFound.js:16
+msgid "seo100"
+msgstr "Üzgünüz, aradığınız sayfa mevcut değil"
+
+#: components/NotFound/NotFound.js:19
+msgid "seo101"
+msgstr "Adresi yanlış yazmış olabilirsiniz veya ulaşmaya çalıştığınız sayfa kaldırılmış olabilir."
+
+#: components/NotFound/NotFound.js:26
+msgid "seo102"
+msgstr "Ana Sayfaya Git"
+
+#: components/Modal/Modal.js:421
+msgid "seo103"
+msgstr "Buraya ilk gelişiniz mi?"
+
+#: components/Modal/Modal.js:424
+msgid "seo104"
+msgstr "Devam etmeden önce lütfen aşağıdaki ifadeleri onaylayın"
+
+#: components/InputChecker/InputChecker.js:86
+msgid "seo105"
+msgstr "Ultimate Team jeton bakiyem en az 5000"
+
+#: components/InputChecker/InputChecker.js:110
+msgid "seo106"
+msgstr "Konsolumda Ultimate Team'tan çıkış yaptım ve diğer cihazlarda Ultimate Team Web Uygulaması/FC Companion Uygulaması kullanmıyorum."
+
+#: components/InputChecker/InputChecker.js:136
+msgid "seo107"
+msgstr "Bu mesajı bana bir daha gösterme. Bu benim ilk satın alımım değil, tüm gerekliliklerin farkındayım."
+
+#: components/ChangeAvatar/ChangeAvatar.js:83
+#: components/Modal/Modal.js:182
+#: components/Modal/Modal.js:214
+#: components/Modal/Modal.js:444
+msgid "seo108"
+msgstr "Onayla"
+
+#~ msgid "seo109"
+#~ msgstr "Parola"
+
+#~ msgid "seo11"
+#~ msgstr "Hızlı sipariş"
+
+#: components/ChangePassword/ChangePassword.js:158
+#: components/ChangePassword/ChangePassword.js:178
+msgid "seo110"
+msgstr "Geçerli parola"
+
+#: components/ChangePassword/ChangePassword.js:209
+#: components/ChangePassword/ChangePassword.js:223
+msgid "seo111"
+msgstr "Yeni parola"
+
+#: components/ChangePassword/ChangePassword.js:257
+#: components/ChangePassword/ChangePassword.js:271
+#: components/ChangePassword/ChangePassword.js:322
+msgid "seo112"
+msgstr "Yeni parolayı onayla"
+
+#: components/ChangePassword/ChangePassword.js:299
+msgid "seo113"
+msgstr "Parolalar eşleşmiyor"
+
+#: components/TableOrders/TableItem.js:106
+msgid "seo114"
+msgstr "Bugün"
+
+#: components/TableOrders/TableItem.js:110
+msgid "seo115"
+msgstr "Dün"
+
+#~ msgid "seo116"
+#~ msgstr "Miktar"
+
+#~ msgid "seo117"
+#~ msgstr "Durum"
+
+#: components/TableOrders/TableOrderBody.js:277
+#: components/TableOrders/TableOrderBody.js:475
+msgid "seo118"
+msgstr "EA hesap bilgileri"
+
+#: components/TableOrders/TableOrderBody.js:297
+#: components/TableOrders/TableOrderBody.js:496
+msgid "seo119"
+msgstr "EA hesabı e-postası"
+
+#~ msgid "seo12"
+#~ msgstr "Bu seçenekleri de deneyin"
+
+#: components/TableOrders/TableOrderBody.js:322
+#: components/TableOrders/TableOrderBody.js:543
+msgid "seo120"
+msgstr "EA hesabı parolası"
+
+#: components/TableOrders/TableOrderBody.js:390
+#: components/TableOrders/TableOrderBody.js:650
+msgid "seo121"
+msgstr "EA hesabı yedekleme kodları"
+
+#: components/TableOrders/TableOrderBody.js:750
+msgid "seo122"
+msgstr "En az 2-3 yedek kod göndermenizi tavsiye ederiz"
+
+#: components/TableOrders/TableOrderBody.js:755
+msgid "seo123"
+msgstr "Yedekleme kodlarınızı şu sayfadan edinebilirsiniz:  "
+
+#: components/TableOrders/TableItem.js:361
+msgid "seo124"
+msgstr "Detayları gönder"
+
+#: components/TableOrders/TableItem.js:261
+#: components/TableOrders/TableItem.js:271
+#: components/TableOrders/TableItem.js:281
+#: components/TableOrders/TableItem.js:537
+#: components/TableOrders/TableItem.js:547
+msgid "seo125"
+msgstr "Ödemeyi tekrar dene"
+
+#~ msgid "seo126"
+#~ msgstr "Tekrar gönder"
+
+#: components/TableOrders/TableItem.js:498
+#: components/TableOrders/TableItem.js:511
+#: components/TableOrders/TableItem.js:524
+msgid "seo127"
+msgstr "Teslimatı başlat"
+
+#: components/TableOrders/TableItem.js:291
+#: components/TableOrders/TableItem.js:301
+#: components/TableOrders/TableItem.js:311
+#: components/TableOrders/TableItem.js:321
+#: components/TableOrders/TableItem.js:331
+#: components/TableOrders/TableItem.js:341
+#: components/TableOrders/TableItem.js:424
+#: components/TableOrders/TableItem.js:435
+#: components/TableOrders/TableItem.js:446
+msgid "seo128"
+msgstr "Teslimatı sürdür"
+
+#: components/TableOrders/TableItem.js:413
+msgid "seo129"
+msgstr "Ayrıntıları değiştir"
+
+#~ msgid "seo13"
+#~ msgstr "Jeton paketleri"
+
+#: components/TableOrders/TableItem.js:351
+#: components/TableOrders/TableItem.js:457
+#: components/TableOrders/TableItem.js:557
+msgid "seo130"
+msgstr "Siparişi tekrar et"
+
+#: components/TableOrders/TableItem.js:499
+#: components/TableOrders/TableItem.js:512
+#: components/TableOrders/TableItem.js:525
+msgid "seo131"
+msgstr "Teslimat sayfasını yeni bir sekmede aç"
+
+#: components/ReviewsContent/ReviewsContent.js:75
+msgid "seo132"
+msgstr "Yorumlar"
+
+#: components/ReviewsContent/ReviewsContent.js:80
+msgid "seo133"
+msgstr "Web sitemizde yüzlerce müşterimizin deneyimlerini okuyun. Tüm yorumlar Trustpilot'taki ROYALFUT sayfasından alınmıştır. Trustpilot, Avrupa ve ABD'deki tüketiciler arasında son derece popüler olan uluslararası bir değerlendirme platformudur. Sitedeki yorumlar Trustpilot moderatörleri tarafından dolandırıcılık ve tahrifata karşı düzenli olarak doğrulanmaktadır. Yorumların derecelendirmesini ve kompozisyonunu yalnızca profesyonel çalışma ve müşteriye sunulan hizmetin kalitesi ile etkileyebiliriz. Bir yorum bırakmak isterseniz "
+
+#: components/ReviewsContent/ReviewsContent.js:87
+msgid "seo134"
+msgstr "bizi şimdi değerlendirin!"
+
+#: components/Rated/Rated.js:106
+msgid "seo135"
+msgstr "Bizi değerlendirin"
+
+#~ msgid "seo14"
+#~ msgstr "En zor beğenen müşteriler bile satın alma bonusundan memnun kalacaklar. Bugün alın!"
+
+#: components/StickyBlock/StickyBlock.js:24
+msgid "seo146"
+msgstr "Hey... Jeton mu arıyorsunuz?"
+
+#~ msgid "seo147"
+#~ msgstr "Jeton satın alın"
+
+#: components/StickyBlock/StickyBlock.js:37
+msgid "seo148"
+msgstr "Ana Sayfaya Git"
+
+#: components/PaymentContent/PaymentContent.js:10
+msgid "seo149"
+msgstr "ROYALFUT.COM, altı farklı para birimindeki ödemeleri ÜCRET ALMADAN kabul eder."
+
+#~ msgid "seo15"
+#~ msgstr "SBC Solver'ı şimdi ücretsiz olarak deneyin!"
+
+#: components/PaymentContent/PaymentContent.js:11
+msgid "seo150"
+msgstr "Web sitesinde yalnızca kayıtlı kullanıcılar ödeme yapabilir. Ödemeler uluslararası ödeme sistemleri aracılığıyla organize edilmektedir. Şu bölgelerdeki banka kart sahiplerinin satın alma yapması yasaktır: Afganistan, Amerikan Samoası, ABD Virgin Adaları, Aruba, Bahamalar, Botsvana, Burundi, Demokratik Kongo Cumhuriyeti, Ekvator Ginesi, Eritre, Etiyopya, Filistin, Güney Sudan, Irak, Kongo, Kırım ve Sivastopol, Küba, Lübnan, Libya, Mali, Myanmar, Nikaragua, Kamboçya, Kuzey Kore, Orta Afrika Cumhuriyeti, Pakistan, Rusya Federasyonu, Samoa, Sierra Leone, Somali, Sudan, Suriye, Trinidad, Tobago, Türkmenistan, Uganda, Venezuela, Yemen ve Zimbabve."
+
+#: components/PaymentContent/PaymentContent.js:12
+msgid "seo151"
+msgstr "Dijital ürünümüzü satın alırken paranızın güvende olduğundan emin olabilirsiniz."
+
+#: pages/coins/[id]/payment.js:28
+msgid "seo152"
+msgstr "Satın alma"
+
+#: components/Purchase/Purchase.js:349
+msgid "seo153"
+msgstr "Siparişiniz"
+
+#~ msgid "seo154"
+#~ msgstr "Yöntem"
+
+#: components/Purchase/Purchase.js:471
+msgid "seo155"
+msgstr "Detaylar"
+
+#~ msgid "seo156"
+#~ msgstr "Şimdi ödeyin"
+
+#~ msgid "seo157"
+#~ msgstr "Satın almak istediğiniz jeton miktarını girin"
+
+#: components/TableOrders/TableItem.js:364
+msgid "seo158"
+msgstr "EA hesap bilgilerinizi girin"
+
+#: components/TableOrders/TableItem.js:367
+msgid "seo159"
+msgstr "Teslimat sürecini başlatmak için aşağıdaki formu kullanarak EA hesap bilgilerinizi girin."
+
+#~ msgid "seo16"
+#~ msgstr "Arkadaşlarımızdan gelen yepyeni araçla çok zaman kazanmaya başlayın!"
+
+#: components/TableOrders/TableItem.js:503
+#: components/TableOrders/TableItem.js:516
+#: components/TableOrders/TableItem.js:529
+msgid "seo160"
+msgstr "Manuel teslimat bekleniyor"
+
+#: components/TableOrders/TableItem.js:506
+#: components/TableOrders/TableItem.js:519
+#: components/TableOrders/TableItem.js:532
+msgid "seo161"
+msgstr "Manuel para transferine başlamak için aşağıdaki düğmeye tıklayın"
+
+#~ msgid "seo162"
+#~ msgstr "Hesabınızda oturum açma"
+
+#: components/TableOrders/TableItem.js:377
+msgid "seo163"
+msgstr "Sipariş tamamlanana kadar konsolunuzda ve diğer cihazlarınızda Ultimate Team Web Uygulaması/FIFA Companion Uygulaması aracılığıyla Ultimate Team'tan çıkış yaptığınızdan emin olun."
+
+#: components/TableOrders/TableItem.js:384
+msgid "seo164"
+msgstr "Teslimat Devam Ediyor"
+
+#: components/TableOrders/TableItem.js:387
+msgid "seo165"
+msgstr "Sipariş tamamlanana kadar hesabınızda FUT'u kapalı tuttuğunuzdan emin olun"
+
+#~ msgid "seo166"
+#~ msgstr "Yedek Kodlar"
+
+#: components/TableOrders/TableItem.js:395
+msgid "seo167"
+msgstr "Yanlış Yedek Kodlar"
+
+#: components/TableOrders/TableItem.js:398
+msgid "seo168"
+msgstr "Bize sağladığınız yedek kodlar ya yanlış, ya süreleri dolmuş ya da yanlış bir hesaptan alınmış"
+
+#: components/TableOrders/TableItem.js:416
+msgid "seo169"
+msgstr "Yanlış E-posta/Parola"
+
+#~ msgid "seo17"
+#~ msgstr "Özel teklifimizi kaçırmayın"
+
+#: components/TableOrders/TableItem.js:419
+msgid "seo170"
+msgstr "Herhangi bir yazım hatası yapmadığınızdan ve başka herhangi bir hesabın değil (PSN, Xbox ağı vb.) EA hesabınızın ayrıntılarını gönderdiğinizden emin olun."
+
+#: components/TableOrders/TableItem.js:354
+#: components/TableOrders/TableItem.js:560
+msgid "seo171"
+msgstr "Bitti"
+
+#: components/TableOrders/TableItem.js:357
+#: components/TableOrders/TableItem.js:563
+msgid "seo172"
+msgstr "Ultimate Team'a geri dönmekten çekinmeyin ve jetonlarınızın tadını çıkarın!"
+
+#: components/TableOrders/TableItem.js:460
+msgid "seo173"
+msgstr "İptal Edildi"
+
+#: components/TableOrders/TableItem.js:463
+msgid "seo174"
+msgstr "Siparişiniz isteğiniz üzerine iptal edildi"
+
+#: components/DeliveryStage/DeliveryStage.js:109
+#: components/Order/OrderDeliveryStage.js:120
+#: components/TableOrders/TableItem.js:274
+#: components/TableOrders/TableItem.js:550
+msgid "seo175"
+msgstr "Ödeme Başarısız"
+
+#: components/DeliveryStage/DeliveryStage.js:112
+#: components/Order/OrderDeliveryStage.js:125
+#: components/TableOrders/TableItem.js:277
+#: components/TableOrders/TableItem.js:553
+msgid "seo176"
+msgstr "Sorun devam ederse lütfen tekrar deneyin veya ödeme yöntemini değiştirin"
+
+#: components/TableOrders/TableItem.js:264
+#: components/TableOrders/TableItem.js:540
+msgid "seo177"
+msgstr "Ödenmedi"
+
+#: components/TableOrders/TableItem.js:267
+#: components/TableOrders/TableItem.js:543
+msgid "seo178"
+msgstr "Bu sipariş için henüz ödeme yapılmadı"
+
+#: components/TableOrders/TableItem.js:427
+#: components/TableOrders/TableItem.js:449
+msgid "seo179"
+msgstr "İmzalandı"
+
+#~ msgid "seo18"
+#~ msgstr "Şimdi sipariş verin"
+
+#: components/TableOrders/TableItem.js:430
+#: components/TableOrders/TableItem.js:452
+msgid "seo180"
+msgstr "Teslimata devam edebilmemiz için hesabınızdan çıkış yapın"
+
+#: components/TableOrders/TableItem.js:438
+msgid "seo181"
+msgstr "Ultimate Team Web Uygulamasında Çevrimiçi"
+
+#: components/TableOrders/TableItem.js:441
+msgid "seo182"
+msgstr "Teslimata devam edebilmemiz için Ultimate Team Web/FIFA Companion Uygulamasından çıkış yapın"
+
+#~ msgid "seo183"
+#~ msgstr "Giriş Doğrulaması"
+
+#: components/TableOrders/TableItem.js:344
+msgid "seo184"
+msgstr "Giriş Doğrulama Devre Dışı"
+
+#: components/TableOrders/TableItem.js:347
+msgid "seo185"
+msgstr "EA hesap ayarlarınızda Oturum Açma Doğrulamasını etkinleştirdiğinizden emin olun"
+
+#~ msgid "seo186"
+#~ msgstr "Transfer Listesi"
+
+#~ msgid "seo187"
+#~ msgstr "Transfer Listesi Dolu"
+
+#~ msgid "seo188"
+#~ msgstr "Teslimat sürecine başlayabilmemiz için Transfer Listenizi temizlediğinizden emin olun"
+
+#: components/TableOrders/TableItem.js:314
+#: components/TableOrders/TableItem.js:324
+msgid "seo189"
+msgstr "Ultimate Team Web Uygulamasında TM Yok"
+
+#~ msgid "seo19"
+#~ msgstr "Uzun yıllara dayanan deneyim"
+
+#: components/TableOrders/TableItem.js:317
+#: components/TableOrders/TableItem.js:327
+msgid "seo190"
+msgstr "Siparişinizi işlemeye başlayabilmemiz için Ultimate Team Web Uygulamasında Transfer Market'e erişiminiz olduğundan emin olun"
+
+#: components/TableOrders/TableItem.js:304
+msgid "seo191"
+msgstr "Ultimate Team Web Uygulamasında Kulüp Yok"
+
+#: components/TableOrders/TableItem.js:307
+msgid "seo192"
+msgstr "Siparişinizi işlemeye başlayabilmemiz için kulübünüzü Ultimate Team Web Uygulamasında kurduğunuzdan emin olun"
+
+#: components/TableOrders/TableItem.js:294
+msgid "seo193"
+msgstr "Yeterli Jeton Yok"
+
+#: components/TableOrders/TableItem.js:297
+msgid "seo194"
+msgstr "Teslimat sürecine başlayabilmemiz için Ultimate Team Club bakiyenizde en az 5000 jeton olduğundan emin olun"
+
+#: components/TableOrders/TableItem.js:284
+msgid "seo195"
+msgstr "Yanlış Platform"
+
+#: components/TableOrders/TableItem.js:287
+msgid "seo196"
+msgstr "Hesabınızda seçtiğiniz platformla ilişkili bir Ultimate Team kulübü yok, lütfen doğru hesabın ayrıntılarını gönderin veya platformu değiştirmek için Destek ile iletişime geçin"
+
+#~ msgid "seo197"
+#~ msgstr "Ana Sayfa"
+
+#~ msgid "seo198"
+#~ msgstr "Platform"
+
+#~ msgid "seo199"
+#~ msgstr "Yorumlar"
+
+#~ msgid "seo2"
+#~ msgstr "Jeton paketleri"
+
+#~ msgid "seo20"
+#~ msgstr "Takımımız ilk olarak FIFA 17 sezonunda kuruldu. O zamandan beri müşterilerimize 100 milyardan fazla jeton aktardık, dünya çapında 60 binden fazla kulüp bizden jeton dolumu hizmeti aldı ve en az 10 mağaza daha jeton aktarım algoritmamızı kullanıyor."
+
+#~ msgid "seo200"
+#~ msgstr "SSS"
+
+#~ msgid "seo201"
+#~ msgstr "Satın alma"
+
+#~ msgid "seo202"
+#~ msgstr "Ödemeler"
+
+#~ msgid "seo203"
+#~ msgstr "Gizlilik politikası"
+
+#~ msgid "seo204"
+#~ msgstr "Profil"
+
+#~ msgid "seo205"
+#~ msgstr "Jeton paketleri"
+
+#~ msgid "seo206"
+#~ msgstr "[[X]] FUT jetonu"
+
+#~ msgid "seo207"
+#~ msgstr "Jeton paketleri"
+
+#~ msgid "seo208"
+#~ msgstr "Jetonlar"
+
+#~ msgid "seo209"
+#~ msgstr "Oyuncular"
+
+#~ msgid "seo21"
+#~ msgstr "Uygun fiyatlandırma"
+
+#~ msgid "seo210"
+#~ msgstr "Hafta Sonu Ligi Güçlendirmesi"
+
+#: components/PageChanger/PageChanger.js:95
+#: components/Payments/Payments.js:33
+#: components/Payments/Payments.js:346
+msgid "seo211"
+msgstr "Çok yakında"
+
+#: components/BonusBlock/BonusBlock.js:19
+msgid "seo212"
+msgstr "SBC Çözümü ile ilgili yardıma mı ihtiyacınız var?"
+
+#: components/BonusBlock/BonusBlock.js:22
+msgid "seo213"
+msgstr "Ortaklarımızın sunduğu gelişmiş bir aracı deneyin. Bizim sunduğumuz bir indirim zaten fiyatlara dahildir."
+
+#: components/BonusBlock/BonusBlock.js:32
+msgid "seo214"
+msgstr "Ayrintili Bilgi"
+
+#~ msgid "seo215"
+#~ msgstr "Rahat İşlem"
+
+#~ msgid "seo216"
+#~ msgstr "Bonuslu jetonlar"
+
+#~ msgid "seo217"
+#~ msgstr "Bonus"
+
+#~ msgid "seo218"
+#~ msgstr "Fiyat"
+
+#~ msgid "seo219"
+#~ msgstr "Seç"
+
+#~ msgid "seo22"
+#~ msgstr "Piyasadaki en düşük fiyatlardan birini sunuyoruz ve düzenli müşterilerimiz için fiyat daha da düşük!"
+
+#~ msgid "seo220"
+#~ msgstr "Ayrıntılara bakın"
+
+#~ msgid "seo221"
+#~ msgstr "Başka miktar"
+
+#~ msgid "seo222"
+#~ msgstr "Alacağın"
+
+#~ msgid "seo223"
+#~ msgstr "Ana kısım"
+
+#~ msgid "seo224"
+#~ msgstr "Bonus kısım"
+
+#~ msgid "seo225"
+#~ msgstr "Toplam miktar"
+
+#~ msgid "seo226"
+#~ msgstr "Jeton satın alın"
+
+#~ msgid "seo227"
+#~ msgstr "[[X]] FIFA Ultimate Team jetonu"
+
+#~ msgid "seo228"
+#~ msgstr "Ucuz FUT öğeleri satın almak için en iyi yerden FIFA jetonları alın. ROYALFUT, şimdiye kadar gördüğünüz en iyi FUT mağazasıdır. Sunduğumuz FUT jetonları için bu düşük fiyatlara bir göz atın. Herhangi bir Ultimate Team jetonları siparişine vergi ve ek maliyetler dâhil değildir."
+
+#~ msgid "seo229"
+#~ msgstr "Burada [[X]]k FIFA jetonunu sadece [[Y]] karşılığında satın alabilirsiniz. Daha kolay olduğu ve jeton transferi sırasında katılımınızı gerektirmediği için Comfort Trade teslimat yöntemini seçmenizi öneririz. [[X]]00000 jeton [[HH]] içinde hesabınıza aktarılacaktır. Bu miktarla en ucuz FUT oyuncularının çoğunu satın alabilirsiniz."
+
+#~ msgid "seo23"
+#~ msgstr "Güvenli ve güvenilir"
+
+#~ msgid "seo230"
+#~ msgstr "Burada [[X]]k FIFA jetonunu sadece [[Y]] karşılığında satın alabilirsiniz. Daha kolay olduğu ve jeton transferi sırasında katılımınızı gerektirmediği için Comfort Trade teslimat yöntemini seçmenizi öneririz. [[X]] milyon jeton [[HH]] içinde hesabınıza aktarılacaktır. Bu miktar karşılığında en ucuz FUT oyuncularının çoğunu satın alabilirsiniz."
+
+#~ msgid "seo231"
+#~ msgstr "Teslimat nasıl gerçekleşiyor?"
+
+#~ msgid "seo232"
+#~ msgstr "EA FC 25 Ultimate Team Mağazası | EA SPORTS FC 25 Mağazası"
+
+#~ msgid "seo233"
+#~ msgstr "EA SPORTS FC 25 Jetonları için en iyi mağaza ✔PS 4/5, Xbox One/X/S için EA FC 25 jetonları satın alın 🎮Hızlı Teslimat ve 7/24 Canlı Destek ⚡ %100 Güvenli Ödeme 🔒 Ucuz Ultimate Team Jetonları için güvenli yer"
+
+#~ msgid "seo234"
+#~ msgstr "Online Ucuz EA FC 25 Ultimate Team Jetonları Alın | Satılık FUT Jetonları, düşük fiyatlar"
+
+#~ msgid "seo235"
+#~ msgstr "EA SPORTS FC 25 Jetonları için en güvenli yer ✔PS 4/5, Xbox One/X/S için EA FC 25 jetonları satın alın 🎮Hızlı Teslimat ve 7/24 Canlı Destek ⚡%100 Güvenli Ödeme 🔒 Ucuz Ultimate Team Jetonları için güvenli yer"
+
+#~ msgid "seo236"
+#~ msgstr "PS4 için Ucuz EA FC 25 Jetonları Satın Alın | PS4 için EA SPORTS FC 25 Jetonları"
+
+#~ msgid "seo237"
+#~ msgstr "PS4 için EA SPORTS FC 25 Jetonları almak için en güvenli yer 🎮 Rakiplerinizi yenmek için için en iyi oyuncuları alın 🥇 Hızlı Teslimat ve 7/24 Canlı Destek 🔒 Ucuz Ultimate Team Jetonları almak için güvenli y"
+
+#~ msgid "seo238"
+#~ msgstr "PS5 için Ucuz EA FC 25 Jetonları Satın Alın | PS5 için EA SPORTS FC 25 Jetonları"
+
+#~ msgid "seo239"
+#~ msgstr "PS5 için EA SPORTS FC 25 Jetonları almak için en güvenli yer 🎮 Rakiplerinizi yenmek için için en iyi oyuncuları alın 🥇 Hızlı Teslimat ve 7/24 Canlı Destek 🔒 Ucuz Ultimate Team Jetonları almak için güvenli y"
+
+#~ msgid "seo24"
+#~ msgstr "Ana hedefimiz, FUT kulüp bakiyenizi doldurmak için size en güvenli seçeneği sunmaktır. Jeton transfer algoritmamızı sürekli olarak geliştiriyor, eyleme geçmeden önce binlerce hesabımızda testler gerçekleştiriyoruz."
+
+#~ msgid "seo240"
+#~ msgstr "Xbox Oneiçin Ucuz EA FC 25 Jetonları Satın Alın | Xbox One için EA SPORTS FC 25 Jetonları"
+
+#~ msgid "seo241"
+#~ msgstr "Xbox One'da EA SPORTS FC 25 Jetonları almak için en güvenli yer 🎮 Rakiplerinizi yenmek için için en iyi oyuncuları alın 🥇 Hızlı Teslimat ve 7/24 Canlı Destek 🔒 Ucuz Ultimate Team Jetonları almak için güvenl"
+
+#~ msgid "seo242"
+#~ msgstr "Xbox için Ucuz EA FC 25 Jetonları Satın Alın | Xbox için EA SPORTS FC 25 Jetonları"
+
+#~ msgid "seo243"
+#~ msgstr "Xbox'da EA SPORTS FC 25 Jetonları almak için en güvenli yer 🎮 Rakiplerinizi yenmek için için en iyi oyuncuları alın 🥇 Hızlı Teslimat ve 7/24 Canlı Destek 🔒 Ucuz Ultimate Team Jetonları almak için güvenli ye"
+
+#~ msgid "seo244"
+#~ msgstr "100K EA FC 25 Jetonu Satın Alın | 100K FUT Jetonu Fiyatı"
+
+#~ msgid "seo245"
+#~ msgstr "Ultimate Team için 100K EA SPORTS FC 25 Jetonu satın almak için en güvenli yer 🥇 Platformunuzu seçin: PS, Xbox veya PC 🎮 Hızlı Teslimat ve 7/24 Canlı Destek 🔒 Ucuz Ultimate Team Jetonları almak için güvenli"
+
+#~ msgid "seo246"
+#~ msgstr "1 Milyon EA FC 25 Jetonu Satın Alın | 1000K FUT Jetonu Fiyatı"
+
+#~ msgid "seo247"
+#~ msgstr "Ultimate Team için 1000K (1 milyon) EA SPORTS FC 25 Jetonu almak için en güvenli yer 🥇 Platformunuzu seçin: PS, Xbox, PC 🎮 Hızlı Teslimat ve 7/24 Canlı Destek 🔒 Ucuz Ultimate Team Jetonları almak için güven"
+
+#~ msgid "seo248"
+#~ msgstr "PlayStation 4 için FIFA jetonlarında en iyi fırsatları sunuyoruz. Yüksek hızlı teslimat ile ucuz FIFA PS4 jetonları sunuyoruz ve hesabınızın güvenliğini ÜCRETSİZ olarak garanti ediyoruz."
+
+#~ msgid "seo249"
+#~ msgstr "Ekibimiz size piyasadaki en iyi fiyatları sunmak için çok çalışıyor, böylece en iyi teklifi almanın güveniyle bizden PS4 için FUT Jetonları satın alabilirsiniz."
+
+#~ msgid "seo25"
+#~ msgstr "Yüksek hizmet seviyesi"
+
+#~ msgid "seo250"
+#~ msgstr "PlayStation konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
+
+#~ msgid "seo251"
+#~ msgstr "PlayStation 5 için FIFA jetonlarında en iyi fırsatları sunuyoruz. Yüksek hızlı teslimat ile ucuz FIFA PS5 jetonları sunuyoruz ve hesabınızın güvenliğini ÜCRETSİZ olarak garanti ediyoruz."
+
+#~ msgid "seo252"
+#~ msgstr "Ekibimiz size piyasadaki en iyi fiyatları sunmak için çok çalışıyor, böylece en iyi teklifi almanın güveniyle bizden PS5 için FUT Jetonları satın alabilirsiniz."
+
+#~ msgid "seo253"
+#~ msgstr "PlayStation konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
+
+#~ msgid "seo254"
+#~ msgstr "Xbox One için FIFA jetonlarında en iyi fırsatları sunuyoruz. Yüksek hızlı teslimat ile ucuz FIFA jetonları sunuyoruz ve hesabınızın güvenliğini ÜCRETSİZ olarak garanti ediyoruz."
+
+#~ msgid "seo255"
+#~ msgstr "Ekibimiz size piyasadaki en iyi fiyatları sunmak için çok çalışıyor, böylece en iyi teklifi almanın güveniyle bizden Xbox 1 için FUT Jetonları satın alabilirsiniz."
+
+#~ msgid "seo256"
+#~ msgstr "Xbox konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
+
+#~ msgid "seo257"
+#~ msgstr "Xbox Series X için FIFA jetonlarında en iyi fırsatları sunuyoruz. Ayrıca yüksek hızlı teslimat ile Xbox Series S için ucuz FIFA jetonları sunuyoruz ve hesabınızın güvenliğini ÜCRETSİZ olarak garanti ediyoruz."
+
+#~ msgid "seo258"
+#~ msgstr "Ekibimiz size piyasadaki en iyi fiyatları sunmak için çok çalışıyor, böylece en iyi teklifi almanın güveniyle bizden Xbox Series X/S için FUT Jetonları satın alabilirsiniz."
+
+#~ msgid "seo259"
+#~ msgstr "Xbox konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
+
+#~ msgid "seo26"
+#~ msgstr "Zamanınıza değer veriyoruz, bu nedenle bizimle alışveriş deneyiminizin mümkün olduğunca sorunsuz geçtiğinden emin olmak için web sitemizin arayüzü ve müşteri destek hizmetimizin kalitesi gibi yönlerini sürekli olarak geliştirmekte kararlıyız."
+
+#~ msgid "seo27"
+#~ msgstr "İletişim"
+
+#: components/Order/PlatformSection.js:129
+msgid "seo28"
+msgstr "Platform"
+
+#~ msgid "seo29"
+#~ msgstr "Bilgi"
+
+#~ msgid "seo3"
+#~ msgstr "Yorumlar"
+
+#: components/Purchase/Purchase.js:412
+#: components/Purchase/Purchase.js:445
+msgid "seo30"
+msgstr "Ödeme"
+
+#~ msgid "seo31"
+#~ msgstr "Teslimat"
+
+#~ msgid "seo32"
+#~ msgstr "Şartlar ve koşullar"
+
+#~ msgid "seo33"
+#~ msgstr "Gizlilik politikası"
+
+#: components/BurgerMenu/BurgerMenu.js:354
+msgid "seo34"
+msgstr "Kayıt"
+
+#: components/BurgerMenu/BurgerMenu.js:342
+msgid "seo35"
+msgstr "Giriş"
+
+#~ msgid "seo36"
+#~ msgstr "Hüküm ve Koşulları kabul ediyorum"
+
+#~ msgid "seo37"
+#~ msgstr "veya şu yolla Kaydolun"
+
+#: components/Profile/Profile.js:149
+msgid "seo38"
+msgstr "Siparişler"
+
+#~ msgid "seo39"
+#~ msgstr "Ayarlar"
+
+#: components/Header/Header.js:85
+msgid "seo4"
+msgstr "SSS"
+
+#: components/BurgerMenu/BurgerMenu.js:286
+#: pages/profile.js:83
+msgid "seo40"
+msgstr "Oturumu kapat"
+
+#~ msgid "seo41"
+#~ msgstr "example@site.com"
+
+#~ msgid "seo42"
+#~ msgstr "Parola"
+
+#~ msgid "seo43"
+#~ msgstr "En az 8 karakter"
+
+#~ msgid "seo44"
+#~ msgstr "Şununla giriş yapın"
+
+#~ msgid "seo45"
+#~ msgstr "EA FC 25 Ultimate Team Mağazanız"
+
+#~ msgid "seo46"
+#~ msgstr "Platform"
+
+#~ msgid "seo47"
+#~ msgstr "Devam et"
+
+#: components/Order/OrderDelivery.js:108
+msgid "seo48"
+msgstr "Teslimat yöntemi"
+
+#~ msgid "seo49"
+#~ msgstr "Devam et"
+
+#: components/BurgerMenu/BurgerMenu.js:297
+#: components/BurgerMenu/BurgerMenu.js:466
+#: components/Header/Header.js:146
+msgid "seo5"
+msgstr "Giriş"
+
+#~ msgid "seo50"
+#~ msgstr "Jetonlar"
+
+#: components/Order/StickyTotalBlock.js:126
+msgid "seo51"
+msgstr "Fiyat"
+
+#: components/Order/OrderDelivery.js:149
+msgid "seo52"
+msgstr "Tavsiye edilen"
+
+#: components/Order/OrderDelivery.js:158
+msgid "seo53"
+msgstr "Teslimat sürecini biz halledeceğiz, tek yapmanız gereken bize EA hesap bilgilerinizi vermek."
+
+#~ msgid "seo54"
+#~ msgstr "Oyuncu Açık Artırma"
+
+#~ msgid "seo55"
+#~ msgstr "1 milyona kadar jeton"
+
+#: components/Order/OrderDelivery.js:218
+msgid "seo56"
+msgstr "Herhangi bir hesap bilgisi gerektirmeyen manuel teslimat yöntemi, basit talimatlarımızı kullanarak jetonları kendiniz transfer etmeniz gerekecektir."
+
+#~ msgid "seo57"
+#~ msgstr "Nasıl çalışıyor?"
+
+#~ msgid "seo58"
+#~ msgstr "Teslimat nasıl gerçekleşiyor?"
+
+#~ msgid "seo59"
+#~ msgstr "Rahat İşlem"
+
+#~ msgid "seo6"
+#~ msgstr "Daki ana yol arkadaşınız EA FC 25 Ultimate Team Store"
+
+#~ msgid "seo60"
+#~ msgstr "Oyuncu Açık Artırma"
+
+#: components/Order/StepOneContent.js:38
+msgid "seo61"
+msgstr "Miktar"
+
+#~ msgid "seo62"
+#~ msgstr "Jetonlar"
+
+#~ msgid "seo63"
+#~ msgstr "Fiyat"
+
+#~ msgid "seo64"
+#~ msgstr "Para Birimi"
+
+#~ msgid "seo65"
+#~ msgstr "Ödeme"
+
+#~ msgid "seo66"
+#~ msgstr "Kart ile ödeme"
+
+#~ msgid "seo67"
+#~ msgstr "Ya da kripto ile ödeme yapın"
+
+#~ msgid "seo68"
+#~ msgstr "Kuponunuz var mı?"
+
+#~ msgid "seo69"
+#~ msgstr "Şimdi ödeyin"
+
+#~ msgid "seo7"
+#~ msgstr "Hayalinizdeki takımı kurma etkinliğini tüm yıl boyunca herkes için mümkün kılıyoruz!"
+
+#: components/GaranteeRow/GaranteeRow.js:41
+#: components/Package/GaranteeRowCoinsPage.js:41
+msgid "seo70"
+msgstr "%100 güvenli ödemeler"
+
+#: components/GaranteeRow/GaranteeRow.js:52
+#: components/Package/GaranteeRowCoinsPage.js:52
+msgid "seo71"
+msgstr "[[HH]] teslimat süresi"
+
+#: components/Garantee/Garantee.js:84
+#: components/GaranteeRow/GaranteeRow.js:66
+#: components/Package/GaranteeRowCoinsPage.js:66
+msgid "seo72"
+msgstr "Para iadesi için uygun"
+
+#~ msgid "seo73"
+#~ msgstr "Almak için oturum açın"
+
+#~ msgid "seo74"
+#~ msgstr "BTC, ETH veya USDT ile ödeme yapmak için minimum sipariş değeri [[N]]"
+
+#: components/Package/CheckoutCoupon.js:446
+msgid "seo75"
+msgstr "Kupon"
+
+#: components/Package/CheckoutCoupon.js:439
+#: components/PriceCouponRedesign/PriceCouponRedesign.js:653
+msgid "seo76"
+msgstr "Uygula"
+
+#~ msgid "seo77"
+#~ msgstr "Teslimat"
+
+#~ msgid "seo78"
+#~ msgstr "Başarılı"
+
+#: components/DeliveryStage/DeliveryStage.js:73
+#: pages/coins/payment.js:42
+#: pages/order/index.js:117
+#: pages/order/pc.js:84
+#: pages/order/ps4.js:83
+#: pages/order/ps5.js:82
+#: pages/order/xbox_one.js:84
+#: pages/order/xbox_xs.js:84
+msgid "seo79"
+msgstr "Sipariş ödemeniz başarıyla gerçekleştirildi"
+
+#~ msgid "seo8"
+#~ msgstr "TrustScore 4.6 | 550 yorum"
+
+#: components/DeliveryStage/DeliveryStage.js:76
+#: components/Order/OrderDeliveryStage.js:77
+msgid "seo80"
+msgstr "Siparişler bölümüne gidin ve jetonlarınızın teslimat sürecini başlatmak için oradaki talimatları izleyin."
+
+#: components/DeliveryStage/DeliveryStage.js:87
+#: components/Order/OrderDeliveryStage.js:92
+msgid "seo81"
+msgstr "Emirlerime git"
+
+#: components/DeliveryStage/DeliveryStage.js:93
+#: components/Order/OrderDeliveryStage.js:103
+msgid "seo82"
+msgstr "{X} saniye içinde otomatik olarak yönlendirileceksiniz"
+
+#~ msgid "seo83"
+#~ msgstr "Başarısız"
+
+#: pages/coins/payment.js:42
+#: pages/order/index.js:118
+#: pages/order/pc.js:85
+#: pages/order/ps4.js:84
+#: pages/order/ps5.js:83
+#: pages/order/xbox_one.js:85
+#: pages/order/xbox_xs.js:85
+msgid "seo84"
+msgstr "Ödemeniz başarısız oldu"
+
+#~ msgid "seo85"
+#~ msgstr "Lütfen farklı bir ödeme yöntemi deneyin veya daha sonra tekrar deneyin."
+
+#: components/DeliveryStage/DeliveryStage.js:121
+#: components/Order/OrderDeliveryStage.js:135
+msgid "seo86"
+msgstr "Ödemeyi tekrar dene"
+
+#~ msgid "seo87"
+#~ msgstr "Çerezler kullanıyoruz"
+
+#~ msgid "seo88"
+#~ msgstr "Devam ederseniz, çerez kullanım şartlarımızı kabul ettiğinizi varsayacağız."
+
+#: components/Auth/Auth.js:66
+#: components/BurgerMenu/BurgerMenu.js:172
+#: components/BurgerMenu/BurgerMenu.js:205
+msgid "seo89"
+msgstr "[[X]] olarak giriş yaptınız"
+
+#~ msgid "seo9"
+#~ msgstr "Nasıl çalışıyor?"
+
+#~ msgid "seo90"
+#~ msgstr "Siparişiniz kabul edildi"
+
+#: components/MainContainer.js:135
+msgid "seo91"
+msgstr "Çıkış yaptınız"
+
+#: components/MainContainer.js:230
+msgid "seo92"
+msgstr "Oturumunuzun süresi doldu. Lütfen tekrar giriş yapın."
+
+#~ msgid "seo93"
+#~ msgstr "Kupon kullanmak için hesabınıza giriş yapmış olmanız gerekir."
+
+#: components/BurgerMenu/BurgerMenu.js:155
+msgid "seo94"
+msgstr "[[X]] zaten kullanımda"
+
+#: components/TableOrders/TableItem.js:473
+msgid "seo95"
+msgstr "Sipariş oluşturma hatası: Destek ekibine ulaşın"
+
+#~ msgid "seo96"
+#~ msgstr "Google üzerinden girişiniz başarısız oldu, lütfen tekrar deneyin"
+
+#~ msgid "seo97"
+#~ msgstr "Facebook üzerinden girişiniz başarısız oldu, lütfen tekrar deneyin"
+
+#: components/BurgerMenu/BurgerMenu.js:418
+#: components/Message/Message.js:32
+msgid "seo98"
+msgstr "Geçersiz e-posta veya parola"
+
+#: components/BurgerMenu/BurgerMenu.js:384
+msgid "seo99"
+msgstr "Geçerli bir e-posta adresi girin"
+
+#: components/Garantee/Garantee.js:51
+#: components/GaranteeRow/GaranteeRow.js:28
+#: components/Package/GaranteeRowCoinsPage.js:27
+msgid "seoh"
+msgstr "saatte"
+
+#: components/Garantee/Garantee.js:42
+#: components/Garantee/Garantee.js:50
+#: components/GaranteeRow/GaranteeRow.js:27
+#: components/Package/GaranteeRowCoinsPage.js:26
+msgid "seom"
+msgstr "m"
+
+#~ msgid "seop22"
+#~ msgstr "Her oyun platformu için EA FC coinlerini en ucuz fiyata mağazamızda bulabilirsiniz. UT 25 coinlerini hem ucuz hem hızlı teslimat ile sunuyoruz, ilave ücret olmaksızın hesabınızın güvenliğini garanti ediyoruz."
+
+#~ msgid "seop23"
+#~ msgstr "Size piyasanın en ucuz fiyatlarını sunmak için ni gerekiyorsa yapıyoruz. Yani, bizden herhangi bir platform için FIFA 25 Coini satın aldığınızda bunu en iyi fiyata yaptığınızdan emin olabilirsiniz."
+
+#~ msgid "seop24"
+#~ msgstr "FC 25 coini satın alımı ile ilgili sorularınız varsa bizimle dilediğiniz yoldan iletişime geçebilirsiniz."
+
+#~ msgid "t"
+#~ msgstr "Teslimat Hakkında"
+
+#~ msgid "t_t"
+#~ msgstr "Paralar, EA hesabınıza bağlı FC 25 kulübüne teslim edilecektir. Paraları aktarmak için yalnızca EA hesap bilgileri gereklidir."
+
+#: components/Aside/Aside.js:52
+msgid "trust:commenturl"
+msgstr "https://uk.trustpilot.com/review/royalfut.com"
+
+#~ msgid "United Arab Emirates"
+#~ msgstr "Birleşik Arap Emirlikleri"
+
+#~ msgid "United Kingdom"
+#~ msgstr "Birleşik Krallık"
+
+#~ msgid "United States"
+#~ msgstr "Birleşik Devletler"
+
+#: components/ContactsContent/СontactsContent.js:28
+#: pages/wl-boost.js:85
+msgid "via"
+msgstr "Bizimle iletişime geçmek için"
+
+#~ msgid "What are the advantages of buying {ut} coins instead of {pt}?"
+#~ msgstr "{pt} yerine {ut} jetonları satın almanın avantajları nelerdir?"
+
+#: components/Auth/Auth.js:23
+#: components/Message/Message.js:34
+msgid "wntwrng"
+msgstr "Bir şeyler ters gitti"
+
+#: components/PlugVideo/PlugVideo.js:16
+msgid "work"
+msgstr "Çalışma sürüyor"

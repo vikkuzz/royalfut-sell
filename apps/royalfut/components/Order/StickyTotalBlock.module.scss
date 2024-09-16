@@ -1,0 +1,99 @@
+.sticky_block {
+    position: sticky;
+    bottom: 0;
+    padding: 12px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 16px;
+    background: var(--black-shape, #2b2d43);
+    flex-direction: column;
+    gap: 12px;
+
+    @media (min-width: 1025px) {
+        position: relative;
+        flex-direction: row;
+        padding: 8px 12px;
+        min-width: fit-content;
+    }
+}
+.wrapper_btn {
+    justify-content: center;
+    @media (min-width: 1025px) {
+        width: auto;
+    }
+}
+.arrow_wrapper {
+    width: auto;
+}
+.btn_text {
+    width: auto;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.btn_text_wrapper {
+    justify-content: center;
+    align-items: center;
+}
+.price_values {
+    gap: 24px;
+}
+.discount {
+    width: auto;
+}
+.price_all {
+    flex-direction: column;
+    width: auto;
+    align-self: flex-start;
+    gap: 4px;
+    background: transparent;
+}
+.price_all_title {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.prices_wrapper {
+    gap: 4px;
+    flex-direction: column;
+}
+.price_actual {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    width: auto;
+    white-space: nowrap;
+    gap: 8px;
+
+    @media (min-width: 1025px) {
+        font-size: 28px;
+    }
+}
+.price_not_actual {
+    white-space: nowrap;
+    text-align: center;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: line-through;
+    align-items: center;
+    width: auto;
+}
+.dd_wrapper {
+    width: auto;
+    background-color: transparent;
+    //padding-left: 12px;
+
+    @media (min-width: 1025px) {
+        padding-left: 0;
+    }
+}
+.price_bonus_wrapper {
+    gap: 8px;
+}

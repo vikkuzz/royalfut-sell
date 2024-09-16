@@ -1,0 +1,90 @@
+.container {
+    flex-direction: column;
+    gap: 12px;
+}
+.order_payment_h3 {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: transparent;
+}
+.payment_btn {
+    flex-direction: column;
+    padding: 8px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid var(--white-02-white, rgba(255, 255, 255, 0.2));
+    height: 70px;
+
+    color: var(--white-04-white, rgba(255, 255, 255, 0.4));
+    text-align: center;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 10px;
+    letter-spacing: -0.4px;
+
+    &:hover {
+        border: 1px solid var(--white-04-white, rgba(255, 255, 255, 0.4));
+        background: var(--white-005-white, rgba(255, 255, 255, 0.05));
+        color: white;
+    }
+    &:focus {
+        background: var(--black-shape, #2b2d43);
+        color: white;
+        border: none;
+    }
+}
+.payment_btn_active {
+    background: var(--black-shape, #2b2d43);
+    transition: all 0.3s;
+    position: relative;
+
+    &::after {
+        content: '';
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        border-radius: 100%;
+        right: 4px;
+        top: 4px;
+        background-color: #8852f2;
+        background-image: url('/img/Succes.svg');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+    }
+}
+.imgs_wrapper {
+    gap: 4px;
+    justify-content: center;
+    height: 36px;
+    background-color: transparent;
+}
+.image_item {
+    width: auto;
+}
+.payment_section {
+    gap: 8px;
+    flex-wrap: wrap;
+}
+.label_payment {
+    flex-basis: 90px;
+    flex-grow: 1;
+    position: relative;
+}
+.disc {
+    position: absolute;
+    top: -4px;
+    left: 4px;
+    border-radius: 4px;
+    background: var(--Labels-Sale, #349f5e);
+    font-size: 10px;
+    font-style: italic;
+    font-weight: 600;
+    padding: 2px 4px;
+    width: auto;
+    z-index: 1;
+}

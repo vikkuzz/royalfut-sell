@@ -1,0 +1,44 @@
+.newpages_content {
+    flex-direction: column;
+    margin: 0 auto;
+    max-width: 343px;
+    gap: 12px;
+    background-color: transparent;
+}
+.wrapper_img {
+    max-width: 241px;
+    max-height: 291px;
+    align-self: center;
+}
+.h1 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: center;
+}
+.text_content {
+    flex-direction: column;
+    gap: 16px;
+}
+.p {
+    display: initial;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.9);
+    line-height: 20px;
+    text-align: center;
+}
+.strong {
+    display: inline;
+}
+.btn_wrapper {
+    padding-top: 2px;
+    padding-bottom: 50px;
+}
+.text_btn {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: center;
+    justify-content: center;
+}

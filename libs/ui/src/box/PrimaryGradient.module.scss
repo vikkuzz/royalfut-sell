@@ -1,0 +1,14 @@
+.gradient {
+  background: linear-gradient(265.73deg, #a82df9 0%, #6678e9 100%) !important;
+}
+
+.hover {
+  &:hover:not(:disabled) {
+    background: linear-gradient(265.73deg, #bc56ff 0%, #7788f8 100%) !important;
+    box-shadow: 0px 8px 80px rgb(137 81 242 / 40%);
+  }
+}
+
+.shadow {
+  box-shadow: 0px 8px 80px rgb(137 81 242 / 40%);
+}

@@ -1,0 +1,58 @@
+.container {
+    gap: 8px;
+    background: transparent;
+}
+.platform_btn {
+    opacity: 0.4;
+    padding: 16px;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+    height: 48px;
+    border: 1px solid var(--white-02-white, rgba(255, 255, 255, 0.4));
+    border-radius: 8px;
+
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+
+    @media (min-width: 1025px) {
+        height: 64px;
+        font-size: 16px;
+        padding: 16px 24px;
+    }
+
+    &:hover {
+        background-color: rgba(255, 255, 255, 0.1);
+    }
+}
+.platform_btn_active {
+    opacity: 1;
+    background: rgba(255, 255, 255, 0.1);
+
+    transition: all 0.3s;
+    position: relative;
+    border: none;
+
+    &::after {
+        content: '';
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        border-radius: 100%;
+        right: 4px;
+        top: 4px;
+        background-color: #8852f2;
+        background-image: url('/img/Succes.svg');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+    }
+}
+.img_wrapper {
+    width: 16px;
+    background-color: transparent;
+}
+.small {
+    padding: 8px 12px;
+}

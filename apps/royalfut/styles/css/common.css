@@ -1,0 +1,76 @@
+.popper[data-radix-popper-content-wrapper],
+.popper [data-radix-popper-content-wrapper] {
+  z-index: var(--z-index-popper, auto) !important;  
+}
+div[data-radix-popper-content-wrapper]{
+  width: auto !important;
+}
+
+.webkit-text-fill-transparent {
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+}
+
+.x-pos-center {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.y-pos-center {
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.list-style-disc-centerd {
+  --padding: var(--style-disc-px, 1.5rem);
+  --size: var(--style-disc-s, 0.3rem);
+  --top: var(--style-disc-t, 50%);
+  --color: var(--style-disc-color, theme(colors.white.60));
+}
+
+.list-style-disc-centerd li,
+.list-style-disc-centerd-li {
+  position: relative;
+  padding-left: var(--padding);
+}
+
+.list-style-disc-centerd li::before,
+.list-style-disc-centerd-li::before {
+  content: "";
+  position: absolute;
+  left: calc(var(--padding) / 2);
+  transform: translate(-50%, -50%);
+  top: var(--top);
+  border-radius: 100%;
+  width: var(--size);
+  height: var(--size);
+  background-color: var(--color);
+}
+
+.loop-y-slider-inner {
+  animation-name: animate-loop-y;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-direction: var(--direction, normal);
+  animation-duration: var(--duration, 25000ms);
+}
+
+@keyframes animate-loop-y {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-50%);
+  }
+}
+
+.linear-primary-pan-gradient {
+  background: linear-gradient(
+    266deg,
+    #fb9ee1 2.7%,
+    #a82df9 37.71%,
+    #6678e9 62.72%,
+    #fb9ee1 90.62%
+  );
+  background-size: 200%;
+}

@@ -1,10 +1,10 @@
 "use client";
 
-import { useAuthListener, useRouteChangeListener } from "@royalfut/hooks";
+import { useAuthListener, useRouteChangeUIListener } from "@royalfut/hooks";
 import { useMount } from "@lilib/hooks";
 
 const Watcher = () => {
-    useRouteChangeListener();
+    useRouteChangeUIListener();
     const { subscribe } = useAuthListener();
 
     useMount(() => {

@@ -1,0 +1,86 @@
+.containerItem {
+    height: 171px;
+    width: 261px;
+    padding: 20px 12px 20px 20px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 4px;
+    border-radius: 24px;
+    border: 1px solid var(--white-02-white, rgba(255, 255, 255, 0.2));
+    transform: translate3d(0, 0, 0) span {
+        width: auto;
+    }
+}
+.first_card {
+    background: linear-gradient(52deg, #181333, #44405c 50%, #4c4c9d, #663eab);
+}
+.two_card {
+    background: linear-gradient(52deg, #181333, #44405c 50%, #5e4252, #ba4644);
+}
+.three_card {
+    background: linear-gradient(52deg, #181333, #44405c 50%, #365666, #3c85a3);
+}
+.four_card {
+    background: linear-gradient(52deg, #181333, #44405c 50%, #5f684f, #9db736);
+}
+.five_card {
+    background: linear-gradient(52deg, #181333, #44405c 50%, #64417c, #be3ab9);
+}
+.six_card {
+    background: linear-gradient(52deg, #181333, #44405c 50%, #876653, #b16320);
+}
+
+.card_start_text {
+    color: var(--white-06-white, rgba(255, 255, 255, 0.6));
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.card_data_text {
+    font-family: 'Montserrat';
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: auto;
+}
+// .card_dataAfter_Text {
+//     font-family: 'Montserrat';
+//     font-size: 40px;
+//     font-style: normal;
+//     font-weight: 700;
+//     line-height: normal;
+//     width: auto;
+// }
+.info_items_wrapper {
+    flex-wrap: wrap;
+    gap: 16px;
+}
+.infografic_container {
+    flex-direction: column;
+    gap: 24px;
+}
+.infografic_h2 {
+    padding-top: 18px;
+    font-family: 'Montserrat';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.infografic_after_text {
+    color: var(--white-06-white, rgba(255, 255, 255, 0.6));
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.row_col {
+    flex-direction: column;
+    background: transparent;
+}

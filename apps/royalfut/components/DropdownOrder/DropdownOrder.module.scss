@@ -1,0 +1,119 @@
+.container {
+    flex-direction: column;
+    position: relative;
+    width: fit-content;
+    display: inline-flex;
+    justify-content: center;
+
+    @media (min-width: 1025px) {
+        //width: auto;
+        margin-top: 0;
+    }
+}
+.value_container {
+    position: absolute;
+    display: none;
+    //margin-top: -135px;
+    width: 235px;
+
+    flex-wrap: wrap;
+    //top: 30px;
+    right: -90px;
+    padding: 16px 24px 16px 16px;
+    background: #35374b;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0px 12px 20px rgb(0 0 0 / 40%);
+    border-radius: 12px;
+    transform: translateY(-63%);
+    z-index: 1;
+
+    transition: all 0.5s;
+    //z-index: -1;
+}
+.value_container[dir='rtl'] {
+    right: auto;
+    left: -16px;
+}
+.title_wrapper {
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0;
+    border: none;
+
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 0 4px;
+    min-width: 80px;
+}
+.title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    color: #ffffff;
+    background-color: transparent;
+    width: auto;
+    padding: 0;
+    padding-left: 4px;
+}
+.title[dir='rtl'] {
+    //padding: 0 18px 0 9px;
+    padding: 0;
+    padding-right: 4px;
+}
+.title_arrow {
+    width: 24px;
+    height: 24px;
+    background-color: transparent;
+    transition: all 0.5s;
+}
+.value_wrapper {
+    align-items: center;
+}
+.drop_elem {
+    max-width: 50%;
+    height: 40px;
+    gap: 4px;
+    border: none;
+
+    display: flex;
+
+    align-items: center;
+}
+.drop_elem:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+}
+.value_img {
+    background-color: transparent;
+    width: 16px;
+}
+.value_img2 {
+    background-color: transparent;
+    width: 16px;
+    margin-right: 4px;
+    margin-left: 9px;
+}
+.value_title {
+    background-color: transparent;
+    width: auto;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 40px;
+    color: rgba(255, 255, 255, 0.6);
+}
+.value_img_wrapper {
+    width: auto;
+    background-color: transparent;
+}
+.rotate {
+    transform: rotate(180deg);
+    transition: all 0.5s;
+}
+.preview {
+    background-color: transparent;
+    width: auto;
+}

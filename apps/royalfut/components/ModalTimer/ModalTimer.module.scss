@@ -1,0 +1,44 @@
+.timer_container{
+    flex-direction: column;
+    gap: 24px;
+    padding: 0 16px 80px;
+
+    @media (min-width:1025px) {
+        padding: 0 52px 52px;
+    }
+}
+.timer_img{
+    object-fit: contain;
+    width: 343px;
+    height: 140px;
+
+    @media (min-width:1025px) {
+        width: 568px;
+        height: 207px;
+    }
+}
+.timer{
+    font-family: 'Montserrat';
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    justify-content: center;
+}
+.description{
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    color: var(--white-04-white, rgba(255, 255, 255, 0.40));
+    justify-content: center;
+    text-align: center;
+}
+.countdown{
+    width: 180px;
+    gap: 8px;
+}
+.countdown_timer{
+    min-width: 125px;
+}

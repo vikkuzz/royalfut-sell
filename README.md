@@ -1,3 +1,3 @@
 ## Requirements
 
-- node v20
+-   node v20

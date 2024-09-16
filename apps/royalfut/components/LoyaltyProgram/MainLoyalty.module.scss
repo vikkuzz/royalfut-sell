@@ -1,0 +1,205 @@
+.container {
+    flex-direction: column;
+    padding-bottom: 100px;
+}
+.h2 {
+    text-align: center;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+
+    @media (min-width: 1025px) {
+        width: 505px;
+        align-self: center;
+        justify-content: center;
+    }
+}
+.text {
+    color: var(--white-06-white, rgba(255, 255, 255, 0.6));
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+
+    @media (min-width: 1025px) {
+        width: 450px;
+        justify-content: center;
+        align-self: center;
+    }
+}
+.title {
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+}
+.descr {
+    color: var(--white-06-white, rgba(255, 255, 255, 0.6));
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+}
+.num_block {
+    width: 32px;
+    height: 32px;
+    padding: 6px 0px;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 100px;
+    background: var(--Black-Black-2, #242640);
+
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+
+    @media (min-width: 1025px) {
+        align-self: center;
+        width: 64px;
+        height: 64px;
+        font-size: 24px;
+    }
+}
+.num_title {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    @media (min-width: 1025px) {
+        justify-content: center;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+    }
+}
+.num_descr {
+    color: var(--white-06-white, rgba(255, 255, 255, 0.6));
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    @media (min-width: 1025px) {
+        justify-content: center;
+        text-align: center;
+        font-size: 16px;
+        line-height: 160%;
+    }
+}
+.btn_for_modal {
+    height: 56px;
+    padding: 12px 24px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    align-self: stretch;
+
+    border-radius: 12px;
+    background: var(--white-01-white, rgba(255, 255, 255, 0.1));
+
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    //text-transform: capitalize;
+    border: none;
+    transition: all 0.3s;
+
+    &:hover {
+        background: var(--white-01-white, rgba(255, 255, 255, 0.2));
+    }
+}
+.text_btn {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.text_block {
+    flex-direction: column;
+    gap: 16px;
+
+    @media (min-width: 1025px) {
+        gap: 24px;
+    }
+}
+.border_block {
+    padding: 12px;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 4px;
+    align-self: stretch;
+
+    border-radius: 12px;
+    background: var(--Black-Black-2, #242640);
+}
+.blocks_wrapper {
+    flex-direction: column;
+    gap: 8px;
+    padding: 24px 0 32px;
+
+    @media (min-width: 1025px) {
+        gap: 16px;
+        flex-direction: row;
+        width: 450px;
+        align-self: center;
+    }
+}
+.num_blocks_wrapper {
+    gap: 16px;
+    flex-direction: column;
+
+    @media (min-width: 1025px) {
+        gap: 22px;
+        flex-direction: row;
+    }
+}
+.num_block_wrapper {
+    flex-direction: column;
+    gap: 4px;
+
+    @media (min-width: 1025px) {
+        //justify-content: center;
+        gap: 12px;
+    }
+}
+.num_title {
+    padding-top: 8px;
+
+    @media (min-width: 1025px) {
+        justify-content: center;
+        padding-top: 12px;
+    }
+}
+.btns_wrapper {
+    flex-direction: column;
+    gap: 16px;
+    padding-top: 32px;
+
+    @media (min-width: 1025px) {
+        width: 520px;
+        align-self: center;
+        flex-direction: row;
+        padding-top: 56px;
+    }
+}
+.text_btn {
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    justify-content: center;
+}
+.center_pic {
+    position: relative;
+    align-self: center;
+    width: 674px;
+    height: auto;
+    @media (min-width: 1025px) {
+        height: 373px;
+    }
+}
+.pic_wrapper {
+    position: relative;
+    justify-content: center;
+}

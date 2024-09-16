@@ -1,0 +1,152 @@
+.h1 {
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: lowercase;
+    display: initial;
+
+    &::first-letter {
+        text-transform: uppercase;
+    }
+
+    @media (min-width: 1025px) {
+        font-size: 52px;
+        font-style: normal;
+        font-weight: 700;
+        width: auto;
+    }
+}
+
+.h_wrapper {
+    align-items: center;
+    flex-direction: column;
+    gap: 16px;
+    padding-top: 24px;
+}
+
+.aside_wrapper {
+    width: auto;
+    padding-bottom: 32px;
+
+    @media (min-width: 1025px) {
+        padding-bottom: 80px;
+    }
+}
+
+.platform_block_wrapper {
+    flex-direction: column;
+    gap: 12px;
+
+    @media (min-width: 1025px) {
+        gap: 19px;
+        max-width: 420px;
+    }
+}
+
+.h3 {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+
+    @media (min-width: 1025px) {
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+    }
+}
+.gallery_wrapper {
+    padding-top: 24px;
+    gap: 16px;
+
+    @media (min-width: 1025px) {
+        padding-top: 40px;
+    }
+}
+.slide {
+    width: 332px !important;
+}
+.calc_container {
+    flex-direction: column;
+    border-radius: 28px;
+    border: 1px solid var(--white-02-white, rgba(255, 255, 255, 0.2));
+    background: linear-gradient(
+        180deg,
+        #353054 0%,
+        rgba(53, 48, 84, 0) 161.55%
+    );
+    margin-top: 50px;
+
+    /* Shape shadow */
+    box-shadow: 0px 12px 20px 0px rgba(0, 0, 0, 0.4);
+    gap: 30px;
+    max-width: 796px;
+    padding: 16px;
+    width: 100vw;
+    left: -16px;
+    position: relative;
+
+    @media (min-width: 1025px) {
+        width: 100%;
+        left: 0;
+        padding: 24px;
+        margin-top: 0;
+    }
+}
+
+.calc_bonus_wrapper {
+    padding-top: 56px;
+    gap: 16px;
+}
+.product_wrapper {
+    margin-top: 40px;
+    @media (min-width: 1025px) {
+        max-width: 564px;
+        margin-top: 0;
+    }
+}
+.buy_btn_wrapper {
+    background-color: transparent;
+}
+.card_btns {
+    gap: 12px;
+    background: transparent;
+    flex-direction: column;
+
+    @media (min-width: 1025px) {
+        flex-direction: row;
+    }
+}
+.text_btn {
+    width: auto;
+    align-self: center;
+}
+.price_currency {
+    background: transparent;
+    gap: 8px;
+    align-items: flex-end;
+
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+}
+.img_wrapper {
+    width: auto;
+    min-width: 24px;
+    min-height: 24px;
+}
+.dd_wrapper {
+    padding-left: 4px;
+}
+.title_coins_changer {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+}
+.title_platform_coins_wrapper {
+    flex-direction: column;
+    gap: 16px;
+
+    @media (min-width: 1025px) {
+        flex-direction: row;
+    }
+}

@@ -1,0 +1,229 @@
+.coins_wrapper{
+    padding: 16px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 16px;
+    flex-direction: column;
+    overflow: hidden;
+}
+.h{
+    background-color: transparent;
+    
+    color: rgba(255, 255, 255, 0.4);
+    padding-bottom: 8px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+}
+.coins_input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 10px 24px;
+    gap: 8px;
+    //width: 190px;
+    height: 64px;
+    background: #1B1D33;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    border-radius: 12px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+
+    @media (min-width:1025px) {
+        background: transparent;
+        width: 100%;
+    }
+}
+.coins_input:focus{
+    background: #282B4A;
+    border: 1px solid #8852F2;
+}
+.coins_input:hover{
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.8);
+}
+
+.coins_btn{
+    width: 32px;
+    height: 32px;
+    min-width: 32px;
+    min-height: 32px;
+    //background: linear-gradient(265.73deg, #A82DF9 0%, #6678E9 100%);
+    border: none;
+    border-radius: 60px;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    user-select: none;
+    //background: url('../img/minus.svg');
+    background-size: cover;
+}
+.coins_btn_plus{
+    width: 32px;
+    height: 32px;
+    min-width: 32px;
+    min-height: 32px;
+    max-width: 32px;
+    max-height: 32px;
+    //background: linear-gradient(265.73deg, #A82DF9 0%, #6678E9 100%);
+    border: none;
+    padding: 0;
+    margin: 0;
+    border-radius: 100%;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    user-select: none;
+    background: url('../img/plus.svg');
+    background-size: cover;
+
+    &:hover{
+        background: url('../img/plus.png');
+    }
+}
+.coins_btn_minus{
+    width: 32px;
+    height: 32px;
+    min-width: 32px;
+    min-height: 32px;
+    max-width: 32px;
+    max-height: 32px;
+    //background: linear-gradient(265.73deg, #A82DF9 0%, #6678E9 100%);
+    border: none;
+    padding: 0;
+    margin: 0;
+    border-radius: 100%;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    user-select: none;
+    background: url('../img/minus.svg');
+    background-size: cover;
+
+    &:hover{
+        background: url('../img/minus.png');
+    }
+}
+.input_wrapper{
+    align-items: center;
+    gap:12px;
+    background-color: transparent;
+    position: relative;
+}
+.coins_pack{
+    position: relative;
+    //top: -10px;
+    padding-top: 20px;
+    gap: 8px;
+    overflow: auto;
+    justify-content: flex-start;
+    padding-left: 24px;
+    padding-right: 24px;
+    left: -24px;
+    width: 100vw;
+    background-color: transparent;
+
+    @media (min-width:1025px) {
+        width: 107%;
+        padding-top: 38px;
+        padding-bottom: 8px;
+    }
+    @media (min-width:1025px) {
+        &::-webkit-scrollbar {
+          height: 4px;
+          transition: opacity 0.5s ease-out;
+          border: none;
+        }
+        &::-webkit-scrollbar-thumb {
+            border: 4px solid rgba(255, 255, 255, 0.4);
+            transition: opacity 0.5s ease-out;
+        }
+        &::-webkit-scrollbar-track {
+            background-color: transparent;
+        }
+      }
+}
+.coins_pack[dir=rtl]{
+    right: -24px;
+}
+.pack{
+    position: relative;
+    //width: 13.8vw;
+    //min-width: 13.8vw;
+    //height: 9.333vw;
+    font-size: 3.2vw;
+    background: rgba(255, 255, 255, 0.1);
+    border: none;
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: rgba(255, 255, 255, 0.6);
+    justify-content: center;
+    align-items: center;
+
+    @media (min-width:1025px) {
+        width: 68px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        min-width: 68px;
+        font-size: 16px;
+        height: auto;
+    }
+    @media (min-width:1440px) {
+        width: 50px;
+        font-size: 16px;
+    }
+}
+.pack:hover{
+    background: rgba(255, 255, 255, 0.2);
+}
+.discount{
+    position: absolute;
+    top: -14px;
+    border-radius: 4px;
+    padding: 3px 5px 3px 4px;
+    width: auto;
+    //height: 18px;
+    font-family: Montserrat,helvetica,arial,sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 12px;
+    line-height: 12px;
+    color: black;
+    background: #eab11f;
+    transform: rotate(-15deg);
+    z-index: 1;
+    direction: ltr;
+    padding: 4px 8px;
+    border-radius: 8px;
+}
+.coins_calc_funnel_input{
+    height: 56px;
+    background-color: transparent;
+}
+.position{
+    position: absolute;
+    left:50%;
+    top: -50px;
+    transform: translate(-50%);
+    transition: all 0.5s ease-in-out;
+}
+.view{
+    opacity: 1;    
+    top: -7px;
+}
+.hide{
+    opacity: 0;
+}

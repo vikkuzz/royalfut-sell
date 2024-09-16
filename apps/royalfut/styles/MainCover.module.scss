@@ -1,0 +1,39 @@
+.maincover_container{
+    display: flex;
+    max-width: 550px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    @media (min-width:768px) and (max-width:1023px) {
+        max-width: 792px;
+    }
+}
+.cover_img[dir='ltr']{
+    // background-position: center;
+    // background-color: transparent;
+    // background-repeat: no-repeat;
+    // background-size: contain;
+
+    @media (min-width:1025px) {
+        position: absolute;
+        right: -38px;
+        margin-left: auto;
+        z-index: -2;
+        top: -25px;
+        width: auto;
+    }
+}
+.cover_img[dir='rtl']{
+    @media (min-width:1025px) {
+        position: absolute;
+        left: -38px;
+        margin-left: auto;
+        z-index: -2;
+        top: -25px;
+        width: auto;
+    }
+}
+.width100{
+    width: 100%;
+}

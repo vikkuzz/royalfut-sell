@@ -1,0 +1,18 @@
+.container{
+    flex-direction: column;
+    gap: 8px;
+}
+.title_wrapper{
+    gap: 4px;
+}
+.title{
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    width: auto;
+}
+.text{
+    color: var(--white-04-white, rgba(255, 255, 255, 0.40));    
+    font-size: 12px;
+    font-weight: 500;
+}

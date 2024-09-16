@@ -1,0 +1,517 @@
+.mainorder{
+    flex-direction: column;
+}
+.mainorder_wrapper_options{
+    position: relative;
+    flex-direction: column;
+    padding: 0 24px;
+    width: 100vw;
+    padding-top: 4.2vmin;
+    transition: all .3s ease-in-out;
+
+    @media (min-width:1025px) {
+        padding: 32px 0 0;
+        width: 100%;
+    }
+}
+.mainorder_svg{
+    stroke: inherit;
+    width: 6.5vmin;
+    height: 4.5vmin;
+    background-color: transparent;
+    stroke-width: 2;
+    fill: inherit;
+    color: inherit;
+
+    @media (min-width:1025px) {
+        width: 26px;
+        height: 34px;
+    }
+}
+.mainorder_svg_platform{
+    width: 8.2vmin;
+    height: 8.2vmin;
+    background-color: transparent;
+    fill: inherit;
+    color: inherit;
+
+    @media (min-width:1025px) {
+        width: 38px;
+        height: auto;
+    }
+}
+.mainorder_option_text{
+    stroke: inherit;
+    color: inherit;
+    fill: inherit;
+    justify-content: flex-start;
+    width: auto;
+    gap: 2.6vmin;
+
+    @media (min-width:1025px) {
+        gap:10px;
+    }
+}
+.mainorder_option_btn{
+    color: white;
+    stroke: white;
+    fill: white;
+    border: none;
+    padding: 0 0 4.2vmin;
+    background-color: transparent;
+    justify-content: flex-start;
+
+    @media (min-width:1025px) {
+        padding: 0 0 24px;
+    }
+}
+.mainorder_option_btn:hover{
+    color: #e5b713;
+    stroke:#e5b713;
+    fill:#e5b713;
+    transition: all 0.3s ease-in-out;
+}
+.mainorder_option_name{
+    color: inherit;
+    font-size: 6.4vmin;
+    line-height: 6.4vmin;
+    background-color: transparent;
+    text-align: start;
+    white-space: nowrap;
+
+    @media (min-width:1025px) {
+        font-size: 36px;
+        line-height: 36px;
+        white-space: nowrap;
+    }
+}
+.mainorder_option_props{
+    gap:2vmin;
+    fill: inherit;
+    color: inherit;
+    justify-content: flex-end;
+}
+.mainorder_svg_done{
+    fill:none;
+    background-color: transparent;
+    width: 6.4vmin;
+    height: 6.4vmin;
+    stroke: white;
+    stroke-width: 2;
+
+    @media (min-width:1025px) {
+        width: 24px;
+        height: 24px;
+    }
+}
+.mainorder_backgr_done{
+    width: 6.4vmin;
+    height: 6.4vmin;
+    border-radius: 50%;
+    background-color: #36b23b;
+
+    @media (min-width:1025px) {
+        width: 24px;
+        height: 24px;
+    }
+}
+.mainorder_open_property{
+    background-color: rgba(255,255,255,0.2);
+    flex-direction: column;
+    transition: all .3s ease-in-out;
+
+    @media (min-width:1025px) {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
+.mainorder_container_content{
+    flex-direction: column;
+    background-color: transparent;
+    padding-bottom: 6.4vmin;
+    transition: all .3s ease-out;
+    height: 110vmin;
+    max-height: 1000px;
+    overflow: hidden;
+
+    @media (min-width:1025px) {
+        height: 290px;
+        padding-bottom: 16px;
+    }
+}
+.mainorder_wrapper_row{
+    flex-direction: column;
+
+    @media (min-width:1025px) {
+        flex-direction: row;
+        padding: 16px 8px;
+        gap: 16px;
+    }
+}
+.mainorder_container_content_coins{
+    flex-direction: column;
+    background-color: transparent;
+    padding-bottom: 6.4vmin;
+    transition: all .3s ease-out;
+    height: 78vmin;
+    max-height: 1000px;
+    overflow: hidden;
+
+    @media (min-width:1025px) {
+        padding-bottom: 32px;
+        height: 275px;
+    }
+}
+.mainorder_content{
+    height: auto;
+    flex-direction: column;
+    font-size: 4.8vmin;
+    line-height: 4.8vmin;
+    max-height: 500px;
+    gap: 5vmin;
+    padding: 7vmin 5vmin; 
+    border-radius: 4px;
+    border: 1px solid hsla(0,0%,100%,.2);
+
+    @media (min-width:1025px) {
+        font-size: 18px;
+        line-height: 18px;
+        gap: 24px;
+        width: 100%;
+        height: 100%;
+        padding: 0;
+    }
+}
+.mainorder_mobile{
+    padding-left: 0;
+    padding-right: 0;
+}
+.mainorder_platform_wrapper{
+    flex-direction: row;
+    padding: 1vmin;
+    gap: 1vmin;
+
+    @media (min-width:1025px) {
+        height: 147px;
+        //height: 350px;
+        gap: 16px;
+        padding: 0;
+    }
+}
+.mainorder_padding_0{
+    padding: 0;
+    gap: 0;
+    height: 0;
+    max-height: 0;
+    transition: all .3s ease-in-out;
+}
+.mainorder_divider{
+    height: 1px;
+    background-color: rgba(255,255,255,0.2);
+}
+.mainorder_svg_platform__btn{
+    width: 12.2vmin;
+    background-color: transparent;
+    fill: inherit;
+    color: inherit;    
+
+    @media (min-width:1025px) {
+        width: 66px;
+    }
+}
+.mainorder_btn_wrapper{
+    padding-top: 4.2vmin;
+    justify-content: center;
+
+    @media (min-width:1025px) {
+        padding-top: 24px;
+        justify-content: flex-end;
+    }
+}
+.mainorder_continue_btn{
+    border-radius: 2px;
+    padding: 3.7333333333vmin 16vmin;
+    font-size: 6.4vmin;
+    line-height: 6.4vmin;
+    text-align: center;
+    color: #fff;
+    background-color: #eab11f;
+    border: none;
+    width: auto;
+
+    @media (min-width:1025px) {
+        font-size: 20px;
+        line-height: 20px;
+        padding: 14px 93px;
+    }
+}
+.mainorder__btn_notactive:hover{
+    background-color: hsla(0,0%,100%,.1);
+}
+.mainorder_btn_ps_active{
+    background: #003087;
+}
+.mainorder_btn_xbox_active{
+    background: #36B23B;
+}
+.mainorder__btn_notactive{
+    background-color: transparent;
+}
+.mainorder_current_info{
+    font-family: 'Montserrat',helvetica,arial,sans-serif;
+    font-weight: 600;
+    font-size: 3.2vmin;
+    line-height: 4vmin;
+    color: inherit;
+    width: auto;
+
+    @media (max-width:1024px) {
+        padding-left: 55px;
+    }
+
+    @media (min-width:1025px) {
+        font-size: 12px;
+        line-height: 15px;
+    }
+}
+.mainorder_method_container{
+    padding: 0 4.2vmin;
+    gap: 3.2vmin;
+
+    @media (min-width:1025px) {
+        padding: 0;
+        gap: 16px;
+    }
+}
+.mainorder_method_btn{
+    position: relative;
+    flex-direction: column;
+    padding: 4.2vmin;
+    gap: 4.2vmin;
+    border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 4px;
+    height: 100%;
+    justify-content: flex-start;
+
+    @media (min-width:1025px) {
+        padding: 16px;
+    }
+;
+}
+.mainorder_recomend{
+    justify-content: flex-start;
+    font-family: 'Montserrat',helvetica,arial,sans-serif;
+    font-weight: 600;
+    font-size: 3.2vmin;
+    line-height: 4vmin;
+    background-color: transparent;
+
+    @media (min-width:1025px) {
+        font-size: 12px;
+        line-height: 15px;
+    }
+}
+.mainorder_method_btn_bcgr::after{
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: '';
+    width: 8vmin;
+    height: 12vmin;
+    background: url('../img/gradient.svg');
+    background-repeat: no-repeat;
+    background-position: -2px -2px;
+    background-size: contain;
+    opacity: .6;
+    z-index: -1;
+}
+.mainorder_method_info_wrapper{
+    flex-direction: column;
+    gap: 4.2vmin;
+    background-color: transparent;
+
+    @media (min-width:1025px) {
+        gap: 8px;
+    }
+}
+.mainorder_method_name{
+    font-size: 4.8vmin;
+    line-height: 4.8vmin;
+    background-color: transparent;
+
+    @media (min-width:1025px) {
+        font-size: 18px;
+        line-height: 18px;
+    }
+}
+.mainorder_method_info{
+    font-family: 'Montserrat',helvetica,arial,sans-serif;
+    font-weight: 400;
+    font-size: 3.2vmin;
+    line-height: 4vmin;
+    flex-direction: column;
+    background-color: transparent;
+
+    @media (min-width:1025px) {
+        font-size: 12px;
+        line-height: 15px;
+    }
+}
+.mainorder_method_info span{
+    font-family: 'Montserrat',helvetica,arial,sans-serif;
+    font-size: 12px;
+    line-height: 15px;
+    font-weight: 600;
+    background-color: transparent;
+}
+.mainorder_container_content_delivery{
+    flex-direction: column;
+    background-color: transparent;
+    padding-bottom: 6.4vmin;
+    transition: all .3s ease-out;
+    height: 95vmin;
+    max-height: 1000px;
+    overflow: hidden;
+
+    @media (min-width:1025px) {
+        height: 300px;
+        padding-bottom: 32px;
+    }
+}
+.mainorder_container_content_payment{
+    flex-direction: column;
+    background-color: transparent;
+    padding-bottom: 6.4vmin;
+    transition: all .3s ease-out;
+    //height: 165vmin;
+    height: auto;
+    max-height: 165vmin;
+    max-height: 1000px;
+    overflow: hidden;
+
+    @media (min-width:574px) {
+        height: 118vmin;
+    }
+
+    @media (min-width:1025px) {
+        //height: 610px;
+        height: auto;
+        padding-bottom: 32px;
+    }
+}
+.mainorder_payment_wrapper{
+    flex-direction: row;
+    padding: 1vmin;
+    gap: 1vmin;
+
+    @media (min-width:1025px) {
+        height: auto;
+        //height: 520px;
+        gap: 16px;
+        padding: 0;
+    }
+}
+.mainorder_content_hide{
+    height: 0;
+    max-height: 0;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    border: none;    
+}
+.mainorder_submit_wrapper{
+    background-color: transparent;
+}
+.info_text{
+    background-color: transparent;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: initial;
+}
+.info_svg_wrapper{
+    width: auto;
+}
+.mainorder_submit_wrapper{
+    flex-direction: column;
+
+    @media (min-width:1025px) {
+        flex-direction: row;
+    }
+}
+.crypto_info_wrapper{
+    //padding: 1vmin;
+    gap:13px;
+    padding-top: 8px;
+}
+.crypto_message{
+    background-color: transparent;
+}
+.mainorder_disabled{
+    pointer-events: none;
+    opacity: 0.3;
+}
+.mainorder_nobackgr{
+    border: 1px solid white;
+    border-radius: 50%;
+    background-color: transparent;
+    width: 6.4vmin;
+    height: 6.4vmin;
+
+    @media (min-width:1025px) {
+        width: 24px;
+        height: 24px;
+    }
+}
+.method_info{
+    color: inherit;
+    width: auto;
+}
+.method_info img{
+    background-color: transparent;
+    width: 22px;
+}
+
+.method_info:hover .info_text{
+    color: white;
+    transition: all 0.3s linear;
+}
+.info_method{
+    margin:4vmin auto 4.5vmin;
+    color: hsla(0,0%,100%,.5);
+}
+.info_method_title{
+    margin-left: auto;
+    color: hsla(0,0%,100%,.5);
+}
+.mainorder_option_btn:hover .info_method_title{
+    color: white;
+    transition: all 0.3s linear;
+}
+.hide{
+    display: none;
+}
+.info_text{
+    color: inherit;
+    //padding: 0 8px;
+    @media (max-width:1024px) {
+        font-size: 3.2vmin;
+        line-height: 4vmin;
+    }
+}
+.info_text:hover{
+    color: rgb(255, 255, 255);
+}
+.cripto_info_text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: flex-end;
+    color: rgba(255, 255, 255, 0.6);
+    display: initial;
+}

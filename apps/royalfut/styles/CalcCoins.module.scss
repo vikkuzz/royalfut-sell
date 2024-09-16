@@ -1,0 +1,248 @@
+.calccoins{
+    flex-direction: column;
+    background-color: transparent;
+
+    @media (min-width:1025px) {
+        flex-direction: row;
+        align-items: flex-start;
+    }
+}
+.coins_fieldset{
+    position: relative;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: auto;
+    border: 1px solid rgba(255,255,255,0.3);
+    border-radius: 4px;
+    flex-direction: column;
+    background-color: transparent;
+    padding-bottom: 0;
+    height: auto;
+    @media (min-width:1025px) {
+        height: 71px;
+    }
+}
+.coins_pack{
+    position: relative;
+    top: -10px;
+    padding-top: 20px;
+    gap: 8px;
+    overflow: auto;
+    justify-content: flex-start;
+    padding-left: 24px;
+    padding-right: 24px;
+    left: -24px;
+    width: 100vw;
+
+    @media (min-width:1025px) {
+        &::-webkit-scrollbar {
+          height: 4px;
+          transition: opacity 0.5s ease-out;
+          border: none;
+        }
+        &::-webkit-scrollbar-thumb {
+            border: 4px solid rgba(255, 255, 255, 0.4);
+            transition: opacity 0.5s ease-out;
+        }
+        &::-webkit-scrollbar-track {
+            background-color: transparent;
+        }
+      }
+}
+.coins_input{
+    height: 12vmin;
+    border: none;
+    background-color: transparent;
+    font-family: 'BebasNeue';
+    font-weight: 500;
+    font-size: 9vmin;
+    line-height: 9vmin;
+    justify-content: flex-start;
+
+    @media (min-width:1025px) {
+        height: auto;
+        font-size: 36px;
+        line-height: 36px;
+    }
+}
+.coins_input:hover{
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.8);
+}
+.coins_legend{
+    width: auto;
+    height: auto;
+    background-color: transparent;
+    padding: 0 8px;
+    font-family: 'Montserrat',helvetica,arial,sans-serif;
+    font-weight: 600;
+    font-size: 3.2vmin;
+    line-height: 4vmin;
+    letter-spacing: -.01em;
+
+    @media (min-width:1025px) {
+        font-size: 12px;
+        line-height: 15px;
+    }
+}
+.coins_wrapper{
+    flex-direction: column;
+    align-items: flex-start;
+
+    @media (min-width:1025px) {
+        width: 50%;
+    }
+}
+.pack{
+    position: relative;
+    width: 13.8vw;
+    min-width: 13.8vw;
+    height: 9.333vw;
+    font-size: 3.2vw;
+    background-color: hsla(0,0%,100%,.2);
+    border: none;
+    border-radius: 4px;
+    padding: 10px 0;
+    font-family: 'Montserrat';
+    font-weight: 600;
+
+    @media (min-width:1025px) {
+        width: 44px;
+        min-width: auto;
+        font-size: 11px;
+        height: auto;
+    }
+    @media (min-width:1440px) {
+        width: 50px;
+        font-size: 12px;
+    }
+}
+.discount{
+    position: absolute;
+    top: -14px;
+    border-radius: 4px;
+    padding: 3px 5px 3px 4px;
+    width: 28px;
+    height: 18px;
+    font-family: Montserrat,helvetica,arial,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 10px;
+    line-height: 12px;
+    color: #2b2c40;
+    background: #eab11f;
+    transform: rotate(352deg);
+    z-index: 1;
+    direction: ltr;
+}
+.calc_inputs_wrapper{
+    flex-direction: column;
+    align-items: flex-start;
+}
+.calc_coins__border{
+    border-radius: 4px 0 0 4px;
+    @media (max-width:1024px) {
+        padding-left: 4px;
+    }
+}
+.calc_coins__border2{
+    border-radius: 0 4px 4px 0;
+}
+.currency_label{
+    background-color: transparent;
+    //position: absolute;
+    top: 0%;
+    left: 0;
+    height: 12vmin;
+    //padding-top: 10px;
+    width: auto;
+    font-size: 9.6vmin;
+    line-height: 9.6vmin;
+    @media (max-width:1024px) {
+        padding-left: 8px;
+    }
+
+    @media (min-width:1025px) {
+        height: auto;
+        font-size: 36px;
+        line-height: 36px;
+        //padding-top: 11px;
+        //padding-left: 8px;
+    }
+}
+.coins_input__currency{
+    width: 100%;
+    padding-left: 5px;
+    padding-right: 15px;
+    min-width: max-content;
+    //border: 1px solid tomato;
+}
+.coins_input__currency:hover{
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.8);
+}
+.coins_input_wrapper{
+    width: 100%;
+    background-color: transparent;
+    //border: 1px solid tomato;
+    padding: 0;
+
+    justify-content: flex-start;
+    @media (min-width:1025px) {
+        position: absolute;
+    }
+}
+.coins_input__disc{
+    width: 100%;
+    white-space: nowrap;
+    background-color: transparent;
+    color: #616172;
+    text-decoration: line-through;
+    font-weight: 500;
+    font-size: 9.6vmin;
+    line-height: 9.6vmin;
+    justify-content: flex-start;
+
+    @media (min-width:1025px) {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    
+}
+.coins_pack[dir='rtl']{
+    position: relative;
+    top: -10px;
+    padding-top: 20px;
+    gap: 8px;
+    overflow: auto;
+    justify-content: flex-start;
+    padding-left: 24px;
+    padding-right: 24px;
+    right: -24px;
+    width: 100vw;
+    @media (min-width:1025px) {
+        &::-webkit-scrollbar {
+          height: 4px;
+          transition: opacity 0.5s ease-out;
+          border: none;
+        }
+        &::-webkit-scrollbar-thumb {
+            border: 4px solid rgba(255, 255, 255, 0.4);
+            transition: opacity 0.5s ease-out;
+        }
+        &::-webkit-scrollbar-track {
+            background-color: transparent;
+        }
+      }
+}
+.cripto_info_text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: flex-end;
+    color: rgba(255, 255, 255, 0.6);
+    display: initial;
+}

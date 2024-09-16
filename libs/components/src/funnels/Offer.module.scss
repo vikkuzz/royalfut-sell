@@ -1,0 +1,177 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 64px;
+  gap: 16px;
+  position: relative;
+  overflow: hidden;
+
+  @media (min-width: 1025px) {
+    padding-top: 100px;
+    gap: 32px;
+  }
+}
+.content_offer {
+  display: flex;
+  border-radius: 28px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.05);
+  padding: 240px 24px 20px;
+  flex-direction: column;
+  position: relative;
+
+  &:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    max-width: 375px;
+    height: 290px;
+    top: 0px;
+    left: 0;
+    z-index: 2;
+    background-image: url("/img/haaland-erling.webp");
+    background-color: transparent;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    @media (min-width: 1025px) {
+      width: 541px;
+      height: 431px;
+      max-width: initial;
+      right: 0px;
+      top: -40px;
+      left: initial;
+    }
+  }
+
+  @media (min-width: 1025px) {
+    padding: 26px 40px 5px;
+  }
+
+  &[dir="rtl"]::after {
+    right: initial;
+    left: 0px;
+  }
+}
+.offer_h_1 {
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 700;
+  padding-top: 10px;
+
+  @media (min-width: 1025px) {
+    padding-top: 8px;
+  }
+}
+.offer_h1_gradient {
+  font-size: 48px;
+  font-style: italic;
+  font-weight: 800;
+  line-height: 99%;
+  z-index: 3;
+
+  padding-top: 8px;
+
+  background: var(--dsadas, linear-gradient(266deg, #a82df9 0%, #6678e9 100%));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  @media (min-width: 1025px) {
+    font-size: 64px;
+    width: 655px;
+  }
+  @media (min-width: 1400px) {
+    width: 700px;
+  }
+}
+.wrapper_desk_btns {
+  display: flex;
+  flex-direction: column;
+  background-color: transparent;
+
+  @media (min-width: 1025px) {
+    flex-direction: row;
+    padding-top: 40px;
+    padding-bottom: 28px;
+  }
+}
+.wrapper_btns {
+  display: flex;
+  padding: 28px 0 8px;
+  gap: 16px;
+  flex-direction: column;
+
+  @media (min-width: 768px) and (max-width: 1023px) {
+    flex-direction: row;
+    padding: 52px 0 24px;
+  }
+
+  @media (min-width: 1025px) {
+    flex-direction: row;
+    padding: 0;
+  }
+}
+.buy_btn_width {
+  @media (min-width: 1025px) {
+    max-width: 284px;
+  }
+}
+.buy_btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  border-radius: 12px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  text-transform: capitalize;
+  height: 100%;
+
+  @media (min-width: 1025px) {
+    min-width: 284px;
+    width: 260px;
+    height: 100%;
+  }
+}
+.fees_wrapper {
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+
+  @media (min-width: 1025px) {
+    gap: 4px;
+    width: auto;
+  }
+}
+.arrow_spiral_wrapper {
+  width: 50px;
+}
+.fees_img_wrapper {
+  display: flex;
+  width: 100px;
+  height: 58px;
+  background-image: url("/img/Ellipsefee.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  text-align: center;
+}
+.reverse_arrow_spiral_wrapper {
+  width: auto;
+}
+.text_after_block {
+  color: var(--white-04-white, rgba(255, 255, 255, 0.4));
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
