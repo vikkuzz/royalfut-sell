@@ -5,6 +5,7 @@
 import {
     BlogCard,
     H1WithBackImg,
+    HeadPage,
     PaginatorBlog,
     RedirectCard,
     SearchBtn,
@@ -163,15 +164,21 @@ const Index = () => {
     return (
         <div className="block w-auto h-auto bg-transparent">
             <div className="block w-auto h-auto bg-transparent md:hidden">
-                <H1WithBackImg
+                <HeadPage
                     img={"/img/backH1mobile.png"}
                     text={"FIFA 25 BLOG"}
+                    bread={true}
+                    positionText={"center"}
+                    imgSize={"cover"}
                 />
             </div>
             <div className="hidden md:flex md:w-full md:h-auto md:opacity-100">
-                <H1WithBackImg
+                <HeadPage
                     img={"/img/backH1desk.png"}
                     text={"FIFA 25 BLOG"}
+                    positionText={"center"}
+                    imgSize={"cover"}
+                    bread={true}
                 />
             </div>
 
@@ -193,7 +200,7 @@ const Index = () => {
                             className="block w-full min-h-[48px] text-xs pl-12 pr-4 font-medium bg-[#12142b] border border-white-70 rounded-xl"
                         />
                     </div> */}
-                    <div className="w-fit self-center">
+                    <div className="w-fit self-center z-[2]">
                         <Tags action={clickOnTag} tags={currentTags} />
                     </div>
                 </div>

@@ -33,8 +33,7 @@ const StickyCoupon = ({ coupon }: { coupon: string }) => {
                         <GradientButtonRegular
                             as="link"
                             href={"/order"}
-                            className="w-full text-2xl my-[16px] h-[64px] font-semibold md:my-0"
-                        >
+                            className="w-full text-2xl my-[16px] h-[64px] font-semibold md:my-0">
                             Buy Coins
                         </GradientButtonRegular>
                         <Button
@@ -43,10 +42,10 @@ const StickyCoupon = ({ coupon }: { coupon: string }) => {
                             className={cn(
                                 "flex relative text-xl rounded-2xl transition-all duration-300 font-semibold w-full hover:bg-white/10 h-[64px]",
                                 {
-                                    "animate-shadow-pulse duration-2000": copyText,
-                                },
-                            )}
-                        >
+                                    "animate-shadow-pulse duration-2000":
+                                        copyText,
+                                }
+                            )}>
                             <Image
                                 alt="border"
                                 src={"/img/border.svg"}
@@ -59,12 +58,11 @@ const StickyCoupon = ({ coupon }: { coupon: string }) => {
                                     ref={promocode}
                                     defaultValue={coupon.toUpperCase()}
                                     readOnly
-                                    className={`flex w-auto bg-transparent justify-center border-0 text-center font-semibold outline-none select-none ${styles.input_text}`}
-                                ></input>
+                                    className={`flex w-auto bg-transparent justify-center border-0 text-center font-semibold outline-none select-none ${styles.input_text}`}></input>
                                 <img
                                     alt="copy"
                                     src={`${!copyText ? `/img/content_copy.svg` : `/img/done_green.svg`}`}
-                                    className="bg-transparent w-auto h-[24px] align-self-end"
+                                    className="absolute right-11 bg-transparent w-auto h-[24px] align-self-end"
                                 />
                             </label>
                         </Button>

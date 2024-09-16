@@ -198,7 +198,7 @@ const Index = ({ params }: { params: { post: string } }) => {
                 <HeadPage
                     img={"/img/backH1mobile.png"}
                     text={card.title}
-                    bread={{ post: card.slug }}
+                    bread={{ post: card.title }}
                     card={card}
                 />
             </div>
@@ -206,7 +206,7 @@ const Index = ({ params }: { params: { post: string } }) => {
                 <HeadPage
                     img={"/img/backH1desk.png"}
                     text={card.title}
-                    bread={{ post: card.slug }}
+                    bread={{ post: card.title }}
                     card={card}
                 />
             </div>
@@ -260,7 +260,7 @@ const Index = ({ params }: { params: { post: string } }) => {
                     </div>
                 </div>
                 <Offer />
-                <div className="flex flex-col gap-6 pt-14 md:pt-[32px]">
+                <div className="flex flex-col gap-6 pt-[32px]">
                     <span className="text-[28px] font-bold md:text-[36px] leading-normal">
                         Что еще почитать
                     </span>
