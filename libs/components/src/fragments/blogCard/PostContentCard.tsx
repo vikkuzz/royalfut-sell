@@ -16,7 +16,7 @@ const PostContentCard = ({
             <div className="flex w-auto h-auto gap-3 opacity-60">
                 <div className="w-auto h-auto">{card.date}</div>
                 <div className="flex w-auto h-auto gap-1 items-center">
-                    <ClockIcon className="h-4 fill-white bg-transparent" />
+                    <ClockIcon className="h-4 w-auto fill-white bg-transparent" />
                     <span className="w-auto h-auto bg-transparent whitespace-nowrap">{card.time}</span>
                 </div>
             </div>
@@ -49,10 +49,7 @@ const PostContentCard = ({
                             src={`/img/blog/${card.slug}/${card.pic1}.jpg`}
                         />
                     )}
-                </div>
-                <div className="hidden md:flex max-h-[300px] md:w-auto md:h-auto md:opacity-100">
-                    <BannerCard card={redirectedCard} />
-                </div>
+                </div>                
             </div>
         </div>
     );

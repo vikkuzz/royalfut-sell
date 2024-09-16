@@ -174,35 +174,40 @@ const Index = () => {
                     text={"FIFA 25 BLOG"}
                 />
             </div>
-            <div className="flex flex-col w-auto h-auto bg-transparent gap-4 md:flex-row-reverse justify-between">
-                <div className="block w-auto min-h-[48px]">
-                    <Input
-                        placeholder="Search"
-                        icon={{
-                            // eslint-disable-next-line @typescript-eslint/ban-ts-comment
-                            // @ts-expect-error
-                            "<>": SearchBtn,
-                            props: {
-                                centered: true,
-                            },
-                        }}
-                        borderType="box"
-                        cnBox="w-full min-h-[48px] relative group inline-flex items-center justify-center z-[1] bg-transparent"
-                        className="block w-full min-h-[48px] text-xs pl-12 pr-4 font-medium bg-[#12142b] border border-white-70 rounded-xl"
-                    />
+            
+            <div className="flex flex-col gap-2">
+                <div className="flex flex-col w-auto h-auto bg-transparent gap-4 pt-4">
+                    {/* <div className="block w-auto min-h-[48px]">
+                        <Input
+                            placeholder="Search"
+                            icon={{
+                                // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+                                // @ts-expect-error
+                                "<>": SearchBtn,
+                                props: {
+                                    centered: true,
+                                },
+                            }}
+                            borderType="box"
+                            cnBox="w-full min-h-[48px] relative group inline-flex items-center justify-center z-[1] bg-transparent"
+                            className="block w-full min-h-[48px] text-xs pl-12 pr-4 font-medium bg-[#12142b] border border-white-70 rounded-xl"
+                        />
+                    </div> */}
+                    <div className="w-fit self-center">
+                        <Tags action={clickOnTag} tags={currentTags} />
+                    </div>
                 </div>
-                <Tags action={clickOnTag} tags={currentTags} />
-            </div>
-            <div className="flex flex-wrap w-auto gap-4 pt-10">
-                {slicedPosts?.map((card: ICard) => {
-                    if (card.tags[0] === "redirect") {
-                        return <RedirectCard key={card.slug} card={card} />;
-                    } else {
-                        return (
-                            <BlogCard key={card.slug} card={card} tags={tags} />
-                        );
-                    }
-                })}
+                <div className="flex flex-wrap justify-center w-auto gap-4 pt-10">                    
+                    {slicedPosts?.map((card: ICard) => {
+                        if (card.tags[0] === "redirect") {
+                            return <RedirectCard key={card.slug} card={card} />;
+                        } else {
+                            return (
+                                <BlogCard key={card.slug} card={card} tags={tags} />
+                            );
+                        }
+                    })}
+                </div>
             </div>
             <div className="flex w-auto justify-center pt-7">
                 {Math.ceil(filteredPosts.length / 10) > 1 && (

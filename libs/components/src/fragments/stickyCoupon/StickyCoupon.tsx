@@ -54,7 +54,7 @@ const StickyCoupon = ({ coupon }: { coupon: string }) => {
                                 className="absolute"
                                 // objectFit="cover"
                             />
-                            <label className="flex bg-transparent cursor-pointer">
+                            <label className="flex justify-center bg-transparent cursor-pointer">
                                 <input
                                     ref={promocode}
                                     defaultValue={coupon.toUpperCase()}

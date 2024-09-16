@@ -31,7 +31,7 @@ const BlogCard = ({
     return (
         <Link
             href={`/blog/${card.slug}`}
-            className={cn("flex w-[350px] min-w-[332px]", {
+            className={cn("flex w-full min-w-[332px]", {
                 "md:w-[332px]": card.width === "1",
                 "md:w-[680px]": card.width === "2",
             })}
