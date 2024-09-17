@@ -40,7 +40,7 @@ const Dropdown = () => {
             openDelay={100}
             open={isOpen}
             onOpenChange={onOpenChange}>
-            <HoverCard.Trigger asChild>
+            <HoverCard.Trigger asChild onClick={() => setIsOpen(prev => !prev)}>
                 <button className="flex gap-2 text-base font-semibold items-center bg-white/5 w-fit py-3 px-10 rounded-2xl hover:bg-white-10">
                     <ShareIcon className="fill-white bg-transparent w-6" />
                     Share
