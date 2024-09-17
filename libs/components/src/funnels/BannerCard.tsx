@@ -9,14 +9,14 @@ const BannerCard = ({ card }: { card: ICard }) => {
             className={
                 "flex flex-col justify-end items-center overflow-hidden w-full bg-primary rounded-2xl border-1 border-[white-10] md:max-w-[350px] relative"
             }>
-            <div className="h-[375px] w-[450px] min-h-[125px] absolute top-0">
+            <div className="h-[375px] w-auto min-h-[125px] absolute top-0">
                 {card.cover && (
                     <Image
                         alt="cover card"
                         width={350}
                         height={350}
                         // fill
-                        src={card.cover}
+                        src={"/img/banner_cover_coins.png"}
                         objectFit="cover"
                         quality={100}
                     />
