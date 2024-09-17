@@ -45,7 +45,26 @@
     "mainblocks22": "Satın almak için en güvenli seçenek ",
     "newh1_4": "İçi̇n en güvenli̇ seçenek",
     "ab111": "Toplam fiyat",
-    "newh1_1": "FC 25 jetonlari satin almak "
+    "newh1_1": "FC 25 jetonlari satin almak ",
+    "preorder": {
+      "newh1_1": "Pre-order FC 25 ",
+      "newh1_2": "Coins today",
+      "checkout": "Pre-Order Now",
+      "buy_coins": "Pre-Order Coins",
+      "title": "Pre-Order FIFA 25 Coins for All Platforms | Ultimate Team Coin Store",
+      "meta_title": "Pre-order FIFA 25 Coins for Any Platform",
+      "meta_descr": "Best store to pre-order FUT 25 Coins ✓ Pre-order FIFA 25 Coins for PS 4/5, Xbox One/X/S Fast Delivery & 24/7 Live Support ⚡ 100% Secure Payments Safe place to get ",
+      "loyalty": "Acquire shiny coins to elevate your gaming experience and be among the first to enjoy the full Ultimate Team potential!",
+      "faq_t1": "What are the advantages of pre-ordering FC 25 Ultimate Team coins instead of buying FC Points?",
+      "faq_t2": "Coins are the first choice of most EA FC 25 players around the world because of their low cost, and the ability to spend them much more beneficially for your FC 25 Ultimate Team club.",
+      "faq_t3": "You can spend FC 25 Ultimate Team Coins on in-game items that have been listed on the Transfer Market by other players. These could be player cards, coach cards, uniform kits, stadiums, consumables and more. And most importantly, none of these can be bought with FC Points.",
+      "faq_t4": "With FC Points, you can buy packs from the FC 25 Ultimate Team store and get access to the FC 25 Ultimate Team Drafts. However, you can do both of these things using coins as well. In terms of real money, it's more than 5 times cheaper to shop in-game using FC 25 Ultimate Team coins instead of FC Points. Start shopping for coins with us and see for yourself 😉",
+      "safest": "Safest option to pre-order ",
+      "safest_2": "FIFA 25 Coins",
+      "grinding": "If you are tired of grinding FC 25 coins we have a perfect low-costing solution for you! Meet ROYALFUT.com, the most reliable EA FC coins shop with many years of experience in this field. This top-rated marketplace offers the lowest prices for FIFA 25 coins online and can guarantee fast delivery and 100% security of your account. Pre-ordering FC coins at ROYALFUT is the most affordable and legitimate option when it comes to helping you make your game even more enjoyable with no risk of any unpleasant consequences whatsoever. The regular Ultimate Team coin deals that you can find in this shop are decreasing already low prices which allows you to make the most profitable in-game transactions. ROYALFUT platform isn't only 100% reliable about their FUT coins for sale but is also known for their amazing customer support that will always help you with any question or problem you may have. It's pretty rare these days to find a legit UT 25 coins store but ROYALFUT.com is without any doubt one of them. This is absolutely the best place for you if you're looking to buy Ultimate Team coins for PC, PS4, PS5, Xbox One, Xbox Series X or Xbox Series S with 100% safe payments and instant delivery.",
+      "build": "Build your Dream Team now",
+      "experiment": "With EA Sports FC 25 Coins, you're free to pick the best possible options for every position in your squad. Indulge your imagination, try new things, experiment!"
+    }
   },
   "new51": {
     "p1": "Her zaman piyasadaki en ucuz FC paralarını sunmaya çalışıyoruz.",
@@ -226,6 +245,12 @@
     "makepayment": "Ödeme yapmak"
   },
   "order": {
+    "preorder": {
+      "h1": "Pre-order FC 25 Ultimate Team coins",
+      "details": "Pre-Order Details",
+      "signin": "Sign In to Pre-Order",
+      "buy": "Pre-Order Now"
+    },
     "ab34": "Ödeme başarısız oldu :( | ROYALFUT",
     "ab92": "FC 25 Ultimate Team jetonlarını satın alın",
     "ab93": "Sipariş bilgisi",

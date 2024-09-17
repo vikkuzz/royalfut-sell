@@ -11,6 +11,7 @@ import { useTranslations } from "next-intl";
 
 const MainLoyalty = () => {
     const t = useTranslations("loyalty");
+    const preorder = useTranslations("home.preorder");
     const dispatch = useDispatch();
 
     const getLoyaltyModal = () => {
@@ -59,10 +60,10 @@ const MainLoyalty = () => {
                 <div className={`${styles.num_block_wrapper}`}>
                     <div className={`${styles.num_block}`}>1</div>
                     <span className={`${styles.num_title}`}>
-                        {t("pl_upd18")}
+                        {preorder("buy_coins")}
                     </span>
                     <span className={`${styles.num_descr}`}>
-                        {t("pl_upd19")}
+                        {preorder("loyalty")}
                     </span>
                 </div>
                 <div className={`${styles.num_block_wrapper}`}>
@@ -89,7 +90,7 @@ const MainLoyalty = () => {
                 <Link href={"/order"}>
                     <GradientBtn size={{ height: 56 }}>
                         <span className={`${styles.text_btn}`}>
-                            {t("pl_upd24")}
+                            {preorder("buy_coins")}
                         </span>
                     </GradientBtn>
                 </Link>

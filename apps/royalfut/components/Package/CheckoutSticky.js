@@ -585,7 +585,7 @@ const CheckoutSticky = () => {
                     <GradientBtn size={size} callback={aproovePayment}>
                         <span className={`${styles.btn_text_wrapper}`}>
                             <span className={`${styles.btn_text}`}>
-                                {stateUser.token ? t(`payNow`) : t(`authToPay`)}
+                                {stateUser.token ? t(`preorder.buy`) : t(`preorder.signin`)}
                             </span>
                             <span className={`${styles.arrow_wrapper}`}>
                                 <Image

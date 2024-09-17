@@ -47,7 +47,7 @@ export default function Order() {
         <div className={`${styles.app_main}`}>
             <h1 className={`${styles.app_h1} ${styles.order_h}`}>
                 {stateOrderStep != 3
-                    ? t(`ab92`)
+                    ? t(`preorder.h1`)
                     : currentPath
                       ? t(`seo79`)
                       : t(`seo84`)}

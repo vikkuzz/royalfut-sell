@@ -117,7 +117,7 @@ const Index = ({ data, locale }) => {
                                     className={`${styles.buy_btn_width}`}>
                                     <GradientBtn size={{ height: 64 }}>
                                         <span className={` ${styles.buy_btn}`}>
-                                            {t("headerdropdown.buy_coins")}
+                                            {t("preorder.buy_coins")}
                                         </span>
                                     </GradientBtn>
                                 </a>

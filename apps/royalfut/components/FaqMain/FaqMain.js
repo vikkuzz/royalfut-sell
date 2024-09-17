@@ -9,6 +9,7 @@ import { useTranslations } from "next-intl";
 
 const FaqMain = () => {
     const t = useTranslations("faq");
+    const preorder = useTranslations("home.preorder");
 
     const WhyRoyalfut = () => {
         return (
@@ -66,21 +67,21 @@ const FaqMain = () => {
             <div className={`${styles.faq_blocktext} ${styles.content_text}`}>
                 <p className={`${styles.custom_li}`}>
                     <span>
-                        {t(`a39`)
+                        {preorder(`faq_t2`)
                             .replaceAll("[F]", "EA FC 25")
                             .replaceAll("[UT]", "FC 25 Ultimate Team")}
                     </span>
                 </p>
                 <p className={`${styles.custom_li}`}>
                     <span>
-                        {t(`a40`)
+                        {preorder(`faq_t3`)
                             .replaceAll("[UT]", "FC 25 Ultimate Team")
                             .replaceAll("[PT]", "FC Points")}
                     </span>
                 </p>
                 <p className={`${styles.custom_li}`}>
                     <span>
-                        {t(`a41`)
+                        {preorder(`faq_t4`)
                             .replaceAll("[UT]", "FC 25 Ultimate Team")
                             .replaceAll("[PT]", "FC Points")}
                     </span>
@@ -88,6 +89,33 @@ const FaqMain = () => {
             </div>
         );
     };
+    // const HowChange = () => {
+    //     return (
+    //         <div className={`${styles.faq_blocktext} ${styles.content_text}`}>
+    //             <p className={`${styles.custom_li}`}>
+    //                 <span>
+    //                     {t(`a39`)
+    //                         .replaceAll("[F]", "EA FC 25")
+    //                         .replaceAll("[UT]", "FC 25 Ultimate Team")}
+    //                 </span>
+    //             </p>
+    //             <p className={`${styles.custom_li}`}>
+    //                 <span>
+    //                     {t(`a40`)
+    //                         .replaceAll("[UT]", "FC 25 Ultimate Team")
+    //                         .replaceAll("[PT]", "FC Points")}
+    //                 </span>
+    //             </p>
+    //             <p className={`${styles.custom_li}`}>
+    //                 <span>
+    //                     {t(`a41`)
+    //                         .replaceAll("[UT]", "FC 25 Ultimate Team")
+    //                         .replaceAll("[PT]", "FC Points")}
+    //                 </span>
+    //             </p>
+    //         </div>
+    //     );
+    // };
     const Section = () => {
         return (
             <div className={`${styles.faq_blocktext}`}>
@@ -132,7 +160,7 @@ const FaqMain = () => {
                             </Panel>
                             <Panel
                                 className="site-collapse-custom-panel"
-                                header={t(`a38`)
+                                header={preorder(`faq_t1`)
                                     .replaceAll("[UT]", "FC 25 Ultimate Team")
                                     .replaceAll("[PT]", "FC Points")}
                                 // header={msg}

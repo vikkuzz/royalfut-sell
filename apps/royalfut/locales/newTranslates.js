@@ -9073,7 +9073,7 @@ export const newTranslates = {
         aa7: "我们的回归时间：",
         aa8: "准备好迎接新赛季",
         aa9: "为你的EA FC 25 Ultimate Team俱乐部购买金币",
-        aa10: "Buy EA FC 25金币仅售{{X}}",
+        aa10: "Buy EA FC 24金币仅售{{X}}",
         aa11: "",
         season: "准备好迎接新赛季",
         work: "进行中",

@@ -311,7 +311,8 @@ class Api {
             case "acquiring":
                 suburl = "";
                 settings.data = JSON.stringify({
-                    successUrl: acquiringUrls.successUrl,
+                    successUrl: `${window.location.origin}${localeLang}/profile?tab=orders&status=from-acquiring-successfully&id=${orderId}`,
+                    // successUrl: acquiringUrls.successUrl,
 
                     // successUrl: `https://royalfut.com/${localeLang}/profile/?id=${orderId}#orders`,
                     failUrl: acquiringUrls.failUrl,
@@ -320,7 +321,8 @@ class Api {
             case "eubanktransfer":
                 suburl = "/eubanktransfer";
                 settings.data = JSON.stringify({
-                    successUrl: acquiringUrls.successUrl,
+                    successUrl: `${window.location.origin}${localeLang}/profile?tab=orders&status=from-acquiring-successfully&id=${orderId}`,
+                    // successUrl: acquiringUrls.successUrl,
 
                     // successUrl: `https://royalfut.com/${localeLang}/profile/?id=${orderId}#orders`,
                     failUrl: acquiringUrls.failUrl,
@@ -336,35 +338,37 @@ class Api {
             case "bitcoin":
                 suburl = "/bitcoin";
                 settings.data = JSON.stringify({
-                    successUrl: `${window.location.origin}${localeLang}/profile?tab=orders&id=${orderId}`,
+                    successUrl: `${window.location.origin}${localeLang}/profile?tab=orders&status=from-acquiring-successfully&id=${orderId}`,
                     failUrl: currentUrl + "#from-acquiring",
                 });
                 break;
             case "usdt":
                 suburl = "/usdtether";
                 settings.data = JSON.stringify({
-                    successUrl: `${window.location.origin}${localeLang}/profile?tab=orders&id=${orderId}`,
+                    successUrl: `${window.location.origin}${localeLang}/profile?tab=orders&status=from-acquiring-successfully&id=${orderId}`,
                     failUrl: currentUrl + "#from-acquiring",
                 });
                 break;
             case "etherium":
                 suburl = "/etherium";
                 settings.data = JSON.stringify({
-                    successUrl: `${window.location.origin}${localeLang}/profile?tab=orders&id=${orderId}`,
+                    successUrl: `${window.location.origin}${localeLang}/profile?tab=orders&status=from-acquiring-successfully&id=${orderId}`,
                     failUrl: currentUrl + "#from-acquiring",
                 });
                 break;
             case "unionPay":
                 suburl = "/union";
                 settings.data = JSON.stringify({
-                    successUrl: acquiringUrls.successUrl,
+                    successUrl: `${window.location.origin}${localeLang}/profile?tab=orders&status=from-acquiring-successfully&id=${orderId}`,
+                    // successUrl: acquiringUrls.successUrl,
                     failUrl: acquiringUrls.failUrl,
                 });
                 break;
             case "crypto":
                 suburl = "/crypto";
                 settings.data = JSON.stringify({
-                    successUrl: acquiringUrls.successUrl,
+                    successUrl: `${window.location.origin}${localeLang}/profile?tab=orders&status=from-acquiring-successfully&id=${orderId}`,
+                    // successUrl: acquiringUrls.successUrl,
                     failUrl: acquiringUrls.failUrl,
                 });
                 break;
@@ -462,7 +466,8 @@ class Api {
                 Authorization: `Token ${token}`,
             },
             data: JSON.stringify({
-                successUrl: acquiringUrls.successUrl,
+                successUrl: `${window.location.origin}${localeLang}/profile?tab=orders&status=from-acquiring-successfully&id=${orderId}`,
+                // successUrl: acquiringUrls.successUrl,
                 failUrl: acquiringUrls.failUrl,
             }),
         };

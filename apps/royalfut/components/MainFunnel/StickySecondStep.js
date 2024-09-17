@@ -132,7 +132,8 @@ const StickySecondStep = () => {
                         <GradientBtn size={{ height: 56 }}>
                             <span className={`${styles.btn_text_wrapper}`}>
                                 <span className={`${styles.btn_text}`}>
-                                    {t("ab94")}
+                                    {/* <Trans>ab94</Trans> */}
+                                    {t("preorder.buy")}
                                 </span>
                                 <span className={`${styles.arrow_wrapper}`}>
                                     <Image

@@ -5,8 +5,10 @@ import Index from "./index";
 export async function generateMetadata({ params }) {
     console.log("params", params);
     return {
-        title: seoTags[params.locale]?.title,
-        description: seoTags[params.locale]?.description,
+        title: "Pre-Order FIFA 25 Coins for All Platforms | Ultimate Team Coin Store",
+        // title: seoTags[params.locale]?.title,
+        description: "Best store to pre-order FUT 25 Coins ✓ Pre-order FIFA 25 Coins for PS 4/5, Xbox One/X/S Fast Delivery & 24/7 Live Support ⚡ 100% Secure Payments Safe place to get ",
+        // description: seoTags[params.locale]?.description,
         icons: {
             icon: "/favicon2.ico", // /public path
         },
