@@ -7,9 +7,9 @@ const BannerCard = ({ card }: { card: ICard }) => {
     return (
         <div
             className={
-                "flex flex-col justify-end items-center overflow-hidden w-full bg-primary rounded-2xl border-1 border-[white-10] md:max-w-[332px] relative"
+                "flex flex-col justify-end items-center overflow-hidden w-full bg-primary rounded-2xl border-1 border-[white-10] md:max-w-[350px] relative"
             }>
-            <div className="h-[375px] w-[430px] min-h-[125px] absolute top-0">
+            <div className="h-[375px] w-[450px] min-h-[125px] absolute top-0">
                 {card.cover && (
                     <Image
                         alt="cover card"

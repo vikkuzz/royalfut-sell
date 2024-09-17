@@ -13,33 +13,28 @@ const Offer = () => {
 
     return (
         <div className={`${styles.container}`}>
-            <div
-                className={`${styles.content_offer}`}
-            >
-                <TrustScore/>
+            <div className={`${styles.content_offer}`}>
+                <TrustScore />
                 <span className={`${styles.offer_h_1}`}>
                     Safest option to buy
                 </span>
                 <span className={`${styles.offer_h1_gradient}`}>
-                    FIFA 24 Coins
+                    FIFA 25 Coins
                 </span>
                 <div className={`${styles.wrapper_desk_btns}`}>
                     <div
                         // className={`${styles.wrapper_btns} ${stateBuyOff && "disabled"}`}
-                        className={`${styles.wrapper_btns}`}
-                    >
+                        className={`${styles.wrapper_btns}`}>
                         <GradientButtonRegular
                             as="link"
                             href={"/order"}
-                            className="text-xl font-semibold w-full sm:w-72 h-[4.5rem] min-h-[46px] sm:h-full rounded-xl md:max-w-[284px]"
-                        >
+                            className="text-xl font-semibold w-full sm:w-72 h-[4.5rem] min-h-[46px] sm:h-full rounded-xl md:max-w-[284px]">
                             Buy Coins
                         </GradientButtonRegular>
 
                         <div className={`${styles.fees_wrapper}`}>
                             <div
-                                className={`${styles.arrow_spiral_wrapper} hidden md:flex md:opacity-100 md:w-auto md:h-auto`}
-                            >
+                                className={`${styles.arrow_spiral_wrapper} hidden md:flex md:opacity-100 md:w-auto md:h-auto`}>
                                 <Image
                                     alt="arrow"
                                     src="/img/arrow_spiral.svg"
@@ -52,8 +47,7 @@ const Offer = () => {
                                 0% fees
                             </div>
                             <div
-                                className={`${styles.reverse_arrow_spiral_wrapper} md:hidden`}
-                            >
+                                className={`${styles.reverse_arrow_spiral_wrapper} md:hidden`}>
                                 <Image
                                     alt="arrow"
                                     src="/img/arrow_spiral_1.svg"
