@@ -117,7 +117,9 @@ const IndexPage = async () => {
                     </GradientButton>
                 </div>
             </LayoutViewportSectionFrame>
-            <LayoutViewportSectionFrame dir={dir} className="flex flex-col mt-24">
+            <LayoutViewportSectionFrame
+                dir={dir}
+                className="flex flex-col mt-24">
                 <SectionTitle>{t3("coins.options.title")}</SectionTitle>
                 <div className="flex gap-4 flex-col sm:flex-row">
                     {options.map(option => (
@@ -134,7 +136,9 @@ const IndexPage = async () => {
                 dir={dir}>
                 <FeatureHighlights cards={benefitCards} />
             </LayoutViewportSectionFrame>
-            <LayoutViewportSectionFrame dir={dir} className="flex flex-col mt-24">
+            <LayoutViewportSectionFrame
+                dir={dir}
+                className="flex flex-col mt-24">
                 <FAQSnippet.Title>{t4("faq.h1")}</FAQSnippet.Title>
                 <FAQSnippet.QA />
                 <FAQSnippet.CTA />
