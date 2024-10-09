@@ -1,0 +1,1121 @@
+{
+  "header": {
+    "auth": {
+      "trigger": "Log In"
+    },
+    "nav": {
+      "1": "Buy Coins",
+      "2": "Coin Bundles",
+      "3": "Reviews",
+      "4": "FAQ"
+    }
+  },
+  "auth": {
+    "action": {
+      "changeEmail": "Change email",
+      "login": "Get The Link",
+      "sendCodeAgain": "Send code again"
+    },
+    "divider": {
+      "1": "or"
+    },
+    "email": {
+      "placeholder": "Email"
+    },
+    "notify": {
+      "sentConfirmationCode": "We've sent you a six-digit confirmation code to <mail>{address}</mail>. Please enter it below to confirm your email address.\n"
+    },
+    "oauth": {
+      "google": "Continue With Google"
+    },
+    "text": {
+      "authTitle": "Log In or Sign Up",
+      "code": "Enter 6-digit code",
+      "codeInfo": "Leave your e-mail and we will send you an authorization link"
+    },
+    "validation": {
+      "codeIsNotValid": "Code is not valid, try again!",
+      "enterEmail": "Please enter your email address.",
+      "invalidEmail": "Invalid email address."
+    }
+  },
+  "home": {
+    "benefit": {
+      "1": {
+        "desc": "Our team was originally formed back in the FIFA 17 season. Since then, we have transferred over 100 billion coins to our customers, more than 60 thousand clubs around the globe have received coin refills from us, and at least 10 other stores use our coin transfer algorithm.",
+        "title": "Long-standing experience"
+      },
+      "2": {
+        "desc": "Our main goal is to provide you with the safest option to top up your FUT club balance. We are constantly improving our coin transfer algorithm, testing it on thousands of our accounts before greenlighting it for action.",
+        "title": "Safe and reliable"
+      },
+      "3": {
+        "desc": "We value your time, that's why we're always determined to pursue continuous enhancement of such aspects of our website as interface and quality of our customer support service еo make sure that your shopping experience with us went as smoothly as possible.",
+        "title": "High level of service"
+      },
+      "4": {
+        "desc": "We offer one of the lowest prices on the market, and for our regular customers the price is even lower!",
+        "title": "Affordable pricing"
+      }
+    },
+    "calc": {
+      "panel": {
+        "action": {
+          "1": "Checkout"
+        },
+        "info": {
+          "ccy": "Total price"
+        }
+      }
+    },
+    "carousel": {
+      "promo": {
+        "1": {
+          "desc": "Playing with the best player cards in your arsenal is a straight road to glory of getting to the top ranks and having the greatest rewards. Everything is in your hands!",
+          "title": "Achieve the highest ranks"
+        },
+        "2": {
+          "desc": "With EA Sports FC 24 Coins, you're free to pick the best possible options for every position in your squad. Indulge your imagination, try new things, experiment!",
+          "title": "Build your Dream Team now"
+        },
+        "3": {
+          "desc": "Embrace new experiences by using top players with different PlayStyles+ combinations that affect gameplay in Ultimate Team.",
+          "title": "Discover more in-game features using high-rated cards"
+        },
+        "4": {
+          "desc": "Ultimate Team's most coveted players will finally be yours to grab. Start collecting desirable cards from every FC UT promo and never deny yourself!",
+          "title": "Get any card you want"
+        },
+        "5": {
+          "desc": "Forget about frustrating coin farming and start spending your precious time on what really matters - the game itself!",
+          "title": "Play now - don’t waste your time grinding coins"
+        },
+        "action": {
+          "title": "Buy coins"
+        }
+      }
+    },
+    "coins": {
+      "options": {
+        "1": {
+          "desc": "Even the most sophisticated customers will be delighted by the purchase bonus. Get it today!",
+          "title": "Coin bundles"
+        },
+        "2": {
+          "desc": "Start saving a lot of time with the brand new tool from our friends!",
+          "title": "Try SBC Solver at a discounted rate"
+        },
+        "title": "Try these options as well"
+      }
+    },
+    "delivery": {
+      "process": {
+        "card": {
+          "1": {
+            "desc": "Select your platform and desired amount of coins, then pay for your order.",
+            "title": "Place an order"
+          },
+          "2": {
+            "desc": "After successful payment, proceed to the Order History page, find your order and complete the required actions to start the delivery process.",
+            "title": "Launch the delivery"
+          },
+          "3": {
+            "desc": "Once the order is finished, feel free to spend the coins however you like and come back to us whenever you need a refill.",
+            "title": "Enjoy your purchase"
+          }
+        },
+        "desc": "Need help? Contact our Support Team anytime",
+        "title": "Delivery process"
+      }
+    },
+    "faq": {
+      "q": {
+        "1": {
+          "content": "<content>There are several reasons for that which you will surely discover yourself after the first purchase:</content><list><listItem>A huge number of reviews by satisfied customers which can be found <link>here.</link></listItem><listItem>The absolute safety of your account which always comes first and a full refund guarantee in case your order was, for some reason, not delivered.</listItem><listItem>Shortest delivery timelines — with us, you will forget about the long waiting times for the order to be completed.</listItem><listItem>Our support team is always ready to help you to solve any problem you may encounter, both before and after the purchase, whether through live chat or any other way of your choice (WhatsApp, Telegram, Instagram direct or e-mail).</listItem></list>"
+        }
+      }
+    },
+    "heading": {
+      "1": {
+        "1": "Safest option to buy ",
+        "2": "FC 24 Coins"
+      }
+    },
+    "infographic": {
+      "stats": {
+        "desc": {
+          "1": "years of experience in this field",
+          "2": "coins transferred to our customers accounts",
+          "3": "successfully delivered orders",
+          "4": "players who have tried our service",
+          "5": "of returning customers who have made a purchase at least twice",
+          "6": "customer satisfaction rate according to the polls results"
+        }
+      }
+    },
+    "loyalty": {
+      "program": {
+        "overview": {
+          "action": {
+            "primary": "Buy Coins",
+            "sec": "Learn More"
+          },
+          "desc": "Each purchase propels you into the world of football wonders! Embark on an exciting digital adventure full of buying, earning, spending and reaching new tiers!",
+          "stats": {
+            "1": "Users already participating in our Loyalty Program",
+            "2": "ROYAL Points have already been earned by our customers"
+          },
+          "steps": {
+            "1": {
+              "desc": "Acquire some shiny coins to elevate your gaming experience and bring out your full Ultimate Team potential!",
+              "title": "Buy Coins"
+            },
+            "2": {
+              "desc": "Collect ROYAL Points every time you purchase coins on our website and unlock additional benefits by reaching new Loyalty Tiers.",
+              "title": "Earn ROYAL Points"
+            },
+            "3": {
+              "desc": "Redeem your ROYAL Points on the future purchases and enjoy getting your coin refills with a discount!",
+              "title": "Spend Your Cashback"
+            }
+          },
+          "title": "How does our Loyalty Program work?"
+        }
+      }
+    },
+    "promotional": {
+      "offer": {
+        "fc24": {
+          "description": "If you are tired of grinding FC 24 coins we have a perfect low-costing solution for you! Meet <b>ROYALFUT.com</b>, the most reliable EA FC coins shop with many years of experience in this field. This top-rated marketplace offers the lowest prices for FIFA 24 coins online and can guarantee fast delivery and 100% security of your account. Purchasing FC coins at ROYALFUT is the most affordable and legitimate option when it comes to helping you make your game even more enjoyable with no risk of any unpleasant consequences whatsoever. The regular Ultimate Team coin deals that you can find in this shop are decreasing already low prices which allows you to make the most profitable in-game transactions. ROYALFUT platform isn't only 100% reliable about their FUT coins for sale but is also known for their amazing customer support that will always help you with any question or problem you may have. It's pretty rare these days to find a legit UT 24 coins store but <b>ROYALFUT.com</b> is without any doubt one of them. This is absolutely the best place for you if you're looking to buy Ultimate Team coins for PC, PS4, PS5, Xbox One, Xbox Series X or Xbox Series S with 100% safe payments and instant delivery.\n"
+        }
+      }
+    },
+    "trustpilot": {
+      "reviews": {
+        "action": "Buy Coins",
+        "count": "Based on <highlight>{amount} reviews</highlight>",
+        "rate": "Excellent",
+        "rating": "Rating {amount} / {max}\n",
+        "title": "What Our Customers Have to Say",
+        "verified": "Verified company"
+      }
+    }
+  },
+  "cookie": {
+    "widget": {
+      "action": {
+        "1": "Accept",
+        "2": "Reject all"
+      },
+      "checkbox": {
+        "1": "Necessary",
+        "2": "Analytics"
+      },
+      "details": "This website uses cookies to optimize functionality and offer a delightful browsing experience. Feel free to explore our website with the confidence that your privacy is respected, and you have control over cookie consent. See our <link>Cookie Policy</link>."
+    }
+  },
+  "profile": {
+    "action": {
+      "logOut": "Log Out"
+    },
+    "title": {
+      "account": "Your Account"
+    }
+  },
+  "default": {
+    "trustScore": {
+      "reviewsAmount": "{amount} reviews"
+    }
+  },
+  "user": {
+    "action": {
+      "logOut": "Log Out"
+    },
+    "bar": {
+      "nav": {
+        "1": {
+          "1": "Order history",
+          "2": "Settings",
+          "3": "Loyalty program",
+          "title": "Profile"
+        }
+      }
+    }
+  },
+  "footer": {
+    "nav": {
+      "1": {
+        "1": "Delivery",
+        "2": "Payment",
+        "3": "Terms and Conditions",
+        "4": "Privacy Policy",
+        "5": "Cookie Policy"
+      }
+    },
+    "title": {
+      "contacts": "Contacts",
+      "nav": {
+        "1": "Platform",
+        "2": "Info"
+      },
+      "socials": "Our socials"
+    }
+  },
+  "car_home": {
+    "carousel": {
+      "promo": {
+        "4": {
+          "desc": "Ultimate Team's most coveted players will finally be yours to grab. Start collecting desirable cards from every FC UT promo and never deny yourself!",
+          "title": "Get any card you want"
+        },
+        "5": {
+          "desc": "Forget about frustrating coin farming and start spending your precious time on what really matters - the game itself!",
+          "title": "Play now - don’t waste your time grinding coins"
+        },
+        "action": {
+          "title": "Buy coins"
+        }
+      }
+    },
+    "coins": {
+      "options": {
+        "1": {
+          "desc": "Even the most sophisticated customers will be delighted by the purchase bonus. Get it today!",
+          "title": "Coin bundles"
+        },
+        "2": {
+          "desc": "Start saving a lot of time with the brand new tool from our friends!",
+          "title": "Try SBC Solver at a discounted rate"
+        },
+        "title": "Try these options as well"
+      }
+    },
+    "delivery": {
+      "process": {
+        "card": {
+          "1": {
+            "desc": "Select your platform and desired amount of coins, then pay for your order.",
+            "title": "Place an order"
+          },
+          "2": {
+            "desc": "After successful payment, proceed to the Order History page, find your order and complete the required actions to start the delivery process.",
+            "title": "Launch the delivery"
+          },
+          "3": {
+            "desc": "Once the order is finished, feel free to spend the coins however you like and come back to us whenever you need a refill.",
+            "title": "Enjoy your purchase"
+          }
+        },
+        "desc": "Need help? Contact our Support Team anytime"
+      }
+    }
+  },
+  "li_home": {
+    "delivery": {
+      "process": {
+        "title": "Delivery process"
+      }
+    },
+    "faq": {
+      "q": {
+        "1": {
+          "content": "<content>There are several reasons for that which you will surely discover yourself after the first purchase:</content><list><listItem>A huge number of reviews by satisfied customers which can be found <link>here.</link></listItem><listItem>The absolute safety of your account which always comes first and a full refund guarantee in case your order was, for some reason, not delivered.</listItem><listItem>Shortest delivery timelines — with us, you will forget about the long waiting times for the order to be completed.</listItem><listItem>Our support team is always ready to help you to solve any problem you may encounter, both before and after the purchase, whether through live chat or any other way of your choice (WhatsApp, Telegram, Instagram direct or e-mail).</listItem></list>"
+        }
+      }
+    },
+    "heading": {
+      "1": {
+        "1": "Safest option to buy ",
+        "2": "FC 24 Coins"
+      }
+    },
+    "infographic": {
+      "stats": {
+        "desc": {
+          "1": "years of experience in this field",
+          "2": "coins transferred to our customers accounts",
+          "3": "successfully delivered orders",
+          "4": "players who have tried our service",
+          "5": "of returning customers who have made a purchase at least twice",
+          "6": "customer satisfaction rate according to the polls results"
+        }
+      }
+    },
+    "loyalty": {
+      "program": {
+        "overview": {
+          "action": {
+            "primary": "Buy Coins",
+            "sec": "Learn More"
+          },
+          "desc": "Each purchase propels you into the world of football wonders! Embark on an exciting digital adventure full of buying, earning, spending and reaching new tiers!",
+          "stats": {
+            "1": "Users already participating in our Loyalty Program",
+            "2": "ROYAL Points have already been earned by our customers"
+          },
+          "steps": {
+            "1": {
+              "desc": "Acquire some shiny coins to elevate your gaming experience and bring out your full Ultimate Team potential!",
+              "title": "Buy Coins"
+            }
+          }
+        }
+      }
+    }
+  },
+  "pi_cookie": {
+    "widget": {
+      "action": {
+        "1": "Accept",
+        "2": "Reject all"
+      },
+      "checkbox": {
+        "1": "Necessary",
+        "2": "Analytics"
+      },
+      "details": "This website uses cookies to optimize functionality and offer a delightful browsing experience. Feel free to explore our website with the confidence that your privacy is respected, and you have control over cookie consent. See our <link>Cookie Policy</link>."
+    }
+  },
+  "pi_home": {
+    "loyalty": {
+      "program": {
+        "overview": {
+          "steps": {
+            "2": {
+              "desc": "Collect ROYAL Points every time you purchase coins on our website and unlock additional benefits by reaching new Loyalty Tiers.",
+              "title": "Earn ROYAL Points"
+            },
+            "3": {
+              "desc": "Redeem your ROYAL Points on the future purchases and enjoy getting your coin refills with a discount!",
+              "title": "Spend Your Cashback"
+            }
+          },
+          "title": "How does our Loyalty Program work?"
+        }
+      }
+    },
+    "promotional": {
+      "offer": {
+        "fc24": {
+          "description": "If you are tired of grinding {fc} coins we have a perfect low-costing solution for you! Meet <b>ROYALFUT.com</b>, the most reliable EA FC coins shop with many years of experience in this field. This top-rated marketplace offers the lowest prices for {fifa} coins online and can guarantee fast delivery and 100% security of your account. Purchasing FC coins at ROYALFUT is the most affordable and legitimate option when it comes to helping you make your game even more enjoyable with no risk of any unpleasant consequences whatsoever. The regular Ultimate Team coin deals that you can find in this shop are decreasing already low prices which allows you to make the most profitable in-game transactions. ROYALFUT platform isn't only 100% reliable about their FUT coins for sale but is also known for their amazing customer support that will always help you with any question or problem you may have. It's pretty rare these days to find a legit {ut} coins store but <b>ROYALFUT.com</b> is without any doubt one of them. This is absolutely the best place for you if you're looking to buy Ultimate Team coins for PC, PS4, PS5, Xbox One, Xbox Series X or Xbox Series S with 100% safe payments and instant delivery.\n"
+        }
+      }
+    },
+    "trustpilot": {
+      "reviews": {
+        "action": "Buy Coins",
+        "count": "Based on <highlight>{amount} reviews</highlight>",
+        "rate": "Excellent",
+        "rating": "Rating {amount} / {max}\n",
+        "title": "What Our Customers Have to Say",
+        "verified": "Verified company"
+      }
+    }
+  },
+  "vpr_auth": {
+    "validation": {
+      "invalidEmail": "Invalid email address."
+    }
+  },
+  "vpr_home": {
+    "benefit": {
+      "1": {
+        "desc": "Our team was originally formed back in the FIFA 17 season. Since then, we have transferred over 100 billion coins to our customers, more than 60 thousand clubs around the globe have received coin refills from us, and at least 10 other stores use our coin transfer algorithm.",
+        "title": "Long-standing experience"
+      },
+      "2": {
+        "desc": "Our main goal is to provide you with the safest option to top up your FUT club balance. We are constantly improving our coin transfer algorithm, testing it on thousands of our accounts before greenlighting it for action.",
+        "title": "Safe and reliable"
+      },
+      "3": {
+        "desc": "We value your time, that's why we're always determined to pursue continuous enhancement of such aspects of our website as interface and quality of our customer support service еo make sure that your shopping experience with us went as smoothly as possible.",
+        "title": "High level of service"
+      },
+      "4": {
+        "desc": "We offer one of the lowest prices on the market, and for our regular customers the price is even lower!",
+        "title": "Affordable pricing"
+      }
+    },
+    "calc": {
+      "panel": {
+        "action": {
+          "1": "Checkout"
+        },
+        "info": {
+          "ccy": "Total price"
+        }
+      }
+    },
+    "carousel": {
+      "promo": {
+        "1": {
+          "desc": "Playing with the best player cards in your arsenal is a straight road to glory of getting to the top ranks and having the greatest rewards. Everything is in your hands!",
+          "title": "Achieve the highest ranks"
+        },
+        "2": {
+          "desc": "With EA Sports FC 24 Coins, you're free to pick the best possible options for every position in your squad. Indulge your imagination, try new things, experiment!",
+          "title": "Build your Dream Team now"
+        },
+        "3": {
+          "desc": "Embrace new experiences by using top players with different PlayStyles+ combinations that affect gameplay in Ultimate Team.",
+          "title": "Discover more in-game features using high-rated cards"
+        }
+      }
+    }
+  },
+  "ye_user": {
+    "action": {
+      "logOut": "Log Out"
+    },
+    "bar": {
+      "nav": {
+        "1": {
+          "1": "Order history",
+          "2": "Settings",
+          "3": "Loyalty program",
+          "title": "Profile"
+        }
+      }
+    }
+  },
+  "ye_default": {
+    "trustScore": {
+      "reviewsAmount": "{amount} reviews"
+    }
+  },
+  "ye_profile": {
+    "action": {
+      "logOut": "Log Out"
+    },
+    "title": {
+      "account": "Your Account"
+    }
+  },
+  "ye_footer": {
+    "nav": {
+      "1": {
+        "1": "Delivery",
+        "2": "Payment",
+        "3": "Terms and Conditions",
+        "4": "Privacy Policy",
+        "5": "Cookie Policy"
+      }
+    },
+    "title": {
+      "contacts": "Contacts",
+      "nav": {
+        "1": "Platform",
+        "2": "Info"
+      },
+      "socials": "Our socials"
+    }
+  },
+  "cs_home": {
+    "carousel": {
+      "promo": {
+        "1": {
+          "title": "Achieve the highest ranks"
+        },
+        "2": {
+          "desc": "With EA Sports FC 24 Coins, you're free to pick the best possible options for every position in your squad. Indulge your imagination, try new things, experiment!",
+          "title": "Build your Dream Team now"
+        },
+        "3": {
+          "desc": "Embrace new experiences by using top players with different PlayStyles+ combinations that affect gameplay in Ultimate Team.",
+          "title": "Discover more in-game features using high-rated cards"
+        },
+        "4": {
+          "desc": "Ultimate Team's most coveted players will finally be yours to grab. Start collecting desirable cards from every FC UT promo and never deny yourself!",
+          "title": "Get any card you want"
+        },
+        "5": {
+          "desc": "Forget about frustrating coin farming and start spending your precious time on what really matters - the game itself!",
+          "title": "Play now - don’t waste your time grinding coins"
+        },
+        "action": {
+          "title": "Buy coins"
+        }
+      }
+    },
+    "coins": {
+      "options": {
+        "1": {
+          "desc": "Even the most sophisticated customers will be delighted by the purchase bonus. Get it today!",
+          "title": "Coin bundles"
+        },
+        "2": {
+          "desc": "Start saving a lot of time with the brand new tool from our friends!",
+          "title": "Try SBC Solver at a discounted rate"
+        },
+        "title": "Try these options as well"
+      }
+    },
+    "delivery": {
+      "process": {
+        "card": {
+          "1": {
+            "desc": "Select your platform and desired amount of coins, then pay for your order.",
+            "title": "Place an order"
+          }
+        }
+      }
+    }
+  },
+  "kelly_profile": {
+    "orders": {
+      "amount": "Amount",
+      "failed_description": "Please try again or change the payment method if the problem persists",
+      "failed_title": "Payment failed",
+      "make": "Make payment",
+      "no_club": "No UT Club Detected",
+      "no_club_description": "Make sure you have your club set up in {fc} Web App so we could start processing your order",
+      "not_enough": "Not enough coins",
+      "not_enough_description": "Make sure you have at least 5000 coins on your Ultimate Team Club balance so we could begin the delivery process",
+      "no_tm": "No TM In {fc} Web App",
+      "no_tm_description": "Make sure you have access to the Transfer Market in {fc} Web App so we could start processing your order",
+      "resume": "Resume delivery",
+      "retry": "Retry payment",
+      "status": "Status",
+      "unpaid": "Unpaid",
+      "unpaid_description": "This order has not been paid for yet",
+      "wrong_description": "Your account doesn't have an Ultimate Team club associated with the platform you have selected, please submit the details of the correct account or contact Support to change the platform",
+      "wrong_platform": "Wrong platform"
+    }
+  },
+  "sky_profile": {
+    "orders": {
+      "backup_description": "The backup codes you have provided us with are either incorrect, expired or taken from a wrong account, make sure to submit the correct ones",
+      "continue": "Continue Transfering",
+      "details": "Enter your EA account details",
+      "details_description": "To start the delivery process, enter your EA account details using the form below.",
+      "finished_description": "Feel free to log back to Ultimate Team and enjoy your coins!",
+      "finished_title": "Finished",
+      "in_progress": "Delivery in Progress",
+      "in_progress_description": "Make sure to keep Ultimate Team closed on your account until the order is finished",
+      "list_full_description": "Make sure to clear your Transfer List so we could begin the delivery process",
+      "list_full_title": "Transfer list full",
+      "login_disabled": "Login verification disabled",
+      "login_disabled_description": "Make sure to enable Login Verification in your EA account settings",
+      "queue": "Order in Queue",
+      "queue_description": "Make sure you have logged out of Ultimate Team on your console / PC and other devices via FC Ultimate Team Web App / FC Companion",
+      "resubmit": "Resubmit Codes",
+      "submit": "Submit details",
+      "wrong_backup": "Wrong Backup Codes"
+    }
+  },
+  "add_profile": {
+    "orders": {
+      "cancelled": "Cancelled",
+      "cancelled_description": "Your order has been cancelled at your request",
+      "items": "Unassigned Items",
+      "items_description": "You have Unassigned Items in your Ultimate Team club, make sure to assign them so we could begin the delivery process",
+      "online": "Online in Web App",
+      "online_description": "Log out from {fc} Web App / FC Companion App for us to be able to proceed with the delivery",
+      "signed": "Signed In",
+      "signed_description": "Log out from your account for us to be able to proceed with the delivery",
+      "undefined_description": "Please contact support",
+      "unexpected": "Unexpected Error",
+      "unexpected_description": "Order creation error: Please contact support",
+      "unknown": "Unknown Error",
+      "wrong_cred": "Wrong Email/Password",
+      "wrong_cred_description": "Make sure you didn't make any typos and that you're submitting the details of your EA account, not any other ones (PSN, Xbox network etc.)"
+    }
+  },
+  "chris_coinBundles": {
+    "calc": {
+      "title": "Choose your own amount"
+    },
+    "coinCard": {
+      "action": "Buy Now"
+    },
+    "coinsAmount": {
+      "h1": "{fc} Ultimate team coins",
+      "h2": {
+        "1": "What you will get from us:"
+      },
+      "list": {
+        "3": {
+          "item": {
+            "1": "{amount}k coins in your UT club"
+          }
+        }
+      },
+      "p1": "Buy EA {fc} coins online from the safest supplier on the market - ROYALFUT Store. Selling FIFA Ultimate Team items has been our specialty for more than 7 years. Our goal is to ensure that our customers are getting the greatest deals and the safest transfers of FC UT coins. ROYALFUT offers a convenient and enjoyable shopping experience with its user-friendly interface, secure payment options and outstanding customer service.",
+      "p2": "Here you can purchase {amount}k FC coins for only {price} {currency}. Once the order is placed make sure that you are logged out of Ultimate Team both on your console / PC and other devices via FC Web App / Companion. {amount}k coins will be transferred to your account within {timeValue} {time}."
+    },
+    "h1": "Package offers",
+    "noticePanel": "You can buy any card available on the market with this amount. Complete your dream team!",
+    "optionCard": {
+      "desc": "Start saving a lot of time with the brand new tool from our friends!",
+      "title": "Try SBC Solver at a discounted rate"
+    },
+    "platform": "Platform"
+  },
+  "chris_profile": {
+    "orders": {
+      "get_backup": "You can get backup codes here:",
+      "goback": "Go back to homepage",
+      "noorders": "You haven't placed any orders yet",
+      "noorders_text": "This section will contain your order history once you have",
+      "recom": "We would recommend submitting at least 2-3 backup codes"
+    }
+  },
+  "bailey_coinsAmount": {
+    "guaranteesCard": {
+      "1": "100% Secure Payments",
+      "2": "{timeValue} {time} Delivery Time",
+      "3": "Eligible For A Refund"
+    },
+    "h2": {
+      "2": "What we will need from you",
+      "3": "What Our Customers Have to Say",
+      "4": "Frequently Asked Questions",
+      "5": "See also"
+    },
+    "list": {
+      "2": {
+        "item": {
+          "1": {
+            "strong": "Access to your EA account",
+            "text": "— if you have a licensed copy of EA Sports {fc} for PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Seris X consoles or PC (purchased either as a physical CD or digitally via EA App, Steam or Epic Games Store), then you're in luck, because from this point on all our system needs from you to successfully access your Ultimate Team club is your EA account details consisting of e-mail address, password and a few backup codes. But don't worry, we do not store your data, it's getting wiped after completion of every order."
+          },
+          "2": {
+            "strong": "Unlocked Transfer Market",
+            "text": "— one of the most crucial things in preparing your club for a coin delivery is making sure that you have already gained access to the Transfer Market in Web App, however, if it's still not unlocked, then you need to start playing 3 full Ultimate Team matches a day and visiting FC Web App / Companion on a daily basis as well, up until the point of access being granted to you."
+          },
+          "3": {
+            "strong": "At least 5000 coins on your UT club balance",
+            "text": "— with this amount our delivery system will be able to begin the transfer. If your club balance does not meet this requirement, you can sell some tradable items either by listing them on the Transfer Market or by using Quick Sell option. And of course you can always earn coins by simply playing some matches. And remember, higher starting balance results in faster delivery process."
+          }
+        }
+      },
+      "3": {
+        "item": {
+          "2": "EA Tax (5%) coverage;",
+          "3": "100% safety of your account."
+        }
+      }
+    }
+  },
+  "skyler_pages": {
+    "card": {
+      "button": {
+        "1": "Buy coins",
+        "2": "Go to Homepage"
+      },
+      "title": "Psst... Looking for some coins?"
+    },
+    "faq": {
+      "h1": "Frequently Asked Questions",
+      "nav": {
+        "items": {
+          "1": "General questions",
+          "2": "Questions about delivery",
+          "3": "Questions about payments"
+        }
+      }
+    },
+    "rated": {
+      "button": "Rate us",
+      "h1": "Rated {rate} / 5",
+      "p": {
+        "1": {
+          "link": "Reviews",
+          "text": "Based on"
+        }
+      }
+    },
+    "reviews": {
+      "h1": "Reviews",
+      "p1": "Offers a unique {fifa} coins delivery system. We cooperate with a record number of coins suppliers. When fulfilling your order, we use special rules that guarantee that no sanctions will be ever applied to your account from EA. See some of these rules below"
+    }
+  },
+  "jordan_pages": {
+    "cookie": {
+      "h1": "Cookie Policy",
+      "h2": {
+        "1": "About cookies",
+        "2": "What types of cookies do we use?"
+      },
+      "h3": {
+        "1": "Necessary cookies"
+      },
+      "p": {
+        "1": "By using this website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.",
+        "2": "Cookies are simple text files that are stored on your computer or mobile device by a website’s server. Each cookie is unique to your web browser. It will contain some anonymous information such as a unique identifier, website’s domain name, and some digits and numbers."
+      }
+    },
+    "delivery": {
+      "h1": "Delivery",
+      "h2": {
+        "1": "Here are some stats* for your interest:"
+      },
+      "notice": "* relevant as of October 1, 2023",
+      "p": {
+        "1": "We would like to bring to your attention the innovative delivery system for EA FC coins developed by yours truly — a unique approach on the FIFA coins market. Every single order is processed according to a set of proprietary protocols that completely exclude any undesirable consequences for the account from EA. We are constantly improving our coin transfer algorithm, subjecting it to thorough calibration and a number of diverse trials and only in case of a positive evaluation of every tested aspect, it receives a green light for full implementation.",
+        "p2_fragments": {
+          "1": "And furthermore, our scope of influence is greatly expanded by establishing productive partnerships with many other organizations involved in EA FC coins retailing. Currently, our ecosystem includes more than 10 stores likes this integrated into our platform. And our doors for such cooperation are always open. If you are interested in partnering with us as an EA FC coin store, then contact us via",
+          "2": "or",
+          "3": "where we can discuss all the details of this collaboration opportunity, which will allow us to collectively strengthen the list of our achievements on FUT and EA FC coin market presented above."
+        }
+      }
+    },
+    "payments": {
+      "h1": "Payment",
+      "p": {
+        "1": "ROYALFUT.COM accepts payments in six different currencies with NO FEE.",
+        "2": "Only registered users can make payments on the website. The payments are organized through the international payment systems. Bank cardholders in the following regions are prohibited from purchasing: Afghanistan, American Samoa, Aruba, Bahamas, Botswana, Burundi, Cambodia, Central African Republic, Congo, Democratic Republic of Congo, Crimea and Sevastopol, Cuba, Equatorial Guinea, Eritrea, Ethiopia, Iraq, Lebanon, Libya, Mali, Myanmar, Nicaragua, North Korea, Pakistan, Palestine, Russian Federation, Samoa, Sierra Leone, Somalia, South Sudan, Sudan, Syria, Trinidad and Tobago, Turkmenistan, Uganda, US Virgin Islands, Venezuela, Yemen, Zimbabwe.",
+        "3": "When purchasing our digital product, you can be sure your money is safe."
+      }
+    }
+  },
+  "kendall_pages": {
+    "cookie": {
+      "h2": {
+        "3": "Blocking cookies",
+        "4": "How to delete cookies?"
+      },
+      "h3": {
+        "2": "Functionality cookies",
+        "3": "Analytical cookies",
+        "4": "Third party cookies"
+      },
+      "list": {
+        "1": {
+          "item": {
+            "1": "to track your browser across multiple websites",
+            "2": "to build a profile of your web surfing",
+            "3": "to target advertisements based on your interactions with their services, which may be of particular interest to you."
+          }
+        }
+      },
+      "p": {
+        "3": "Necessary cookies allow us to offer you the best possible experience when accessing and navigating through our website and using its features. For example, these cookies allow us to recognize that you have created an account and have logged into that account.",
+        "4": "Functionality cookies let us operate the site in accordance with the choices you make. For example, we will recognize your username and remember how you customized the site during future visits.",
+        "5": "These cookies enable us and third-party services to collect aggregated data for statistical purposes on how our visitors use the website. These cookies do not contain personal information such as names and email addresses and are used to help us improve your user experience of the website.",
+        "6": "When you use the website, you may also be sent third party cookies.\n\n",
+        "7": "Our advertisers and service providers may send you cookies. They may use the information they obtain from your use of their cookies:",
+        "8": "We use Google Analytics, a web analytics service provided by Google, Inc. ('Google'). Google Analytics uses 'cookies', which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. The IP address will be truncated before transmission to ensure anonymity. On our behalf, Google will use this information to evaluate your use of the website, compiling reports on website activity and providing other services relating to website activity and internet activity in connection with the use of the website. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser; however please note that if you do this you may not be able to use the full functionality of this website. In addition to that you may prevent the collection of the information generated by the cookie about your use of the website (including your IP address) and the processing of this data by Google if you download and install the browser plug-in available at the following link:",
+        "9": "Most browsers allow you to refuse to accept cookies. You can find in google.com how to block all cookies in your browser.",
+        "10": "Blocking all cookies will, however, have a negative impact upon the usability of many websites. If you block cookies, you may not be able to use certain features on the website (log on, access content, use search functions).",
+        "11": {
+          "1": "If you want to restrict or block the cookies that are set by our website, you can do so through your browser setting. Alternatively, you can visit"
+        }
+      }
+    }
+  },
+  "jules_pages": {
+    "cookie": {
+      "h3": {
+        "5": "Contacting us"
+      },
+      "p": {
+        "11": {
+          "2": ", which contains comprehensive information on how to do this on a wide variety of browsers and devices. You will find general information about cookies and details on how to delete cookies from your device."
+        },
+        "12": "If you have any questions regarding this policy or our use of cookies, feel free to reach out to us at"
+      }
+    },
+    "privacy": {
+      "h1": "Privacy policy",
+      "list": {
+        "1": {
+          "item": {
+            "1": "Provide you with our services.",
+            "2": "Contact you by email, phone or other means to resolve disputes, collect fees, troubleshoot your account or our sites, services, applications or tools, or for other purposes permitted by law.",
+            "3": "Prevent and detect fraud, security breaches, potentially prohibited or illegal activities, and enforce our user Agreements",
+            "4": "Check to identify our customers and verify their identity",
+            "5": "Operational reasons such as efficiency gains, training and quality control",
+            "6": "Prevent unauthorized access and modifications to our systems",
+            "7": "Marketing of our services and the services of select third parties for:",
+            "8": "External audits and quality checks",
+            "7_0": "- existing and former clients",
+            "7_1": "- third parties who have previously expressed interest in our services",
+            "7_2": "- third parties with whom we have previously had no business"
+          },
+          "p": "The Operator processes the data of the Subject in order to:"
+        }
+      },
+      "p": {
+        "1": "By registering with the service, the user grants ROYALFUT their consent to check and process their personal data based on the following conditions:"
+      }
+    }
+  },
+  "dakota_pages": {
+    "privacy": {
+      "list": {
+        "2": {
+          "item": {
+            "1": "your name and contact information, including email address and telephone number",
+            "2": "information that allows us to verify and confirm your identity, such as your date of birth",
+            "3": "your gender information, if you choose to provide it to us",
+            "4": "computer login data, page view statistics, traffic to and from ROYALFUT, and cookie information",
+            "5": "location data",
+            "6": "information about your delivery (platform, number of coins in the order), billing information, information about transactions and payment cards",
+            "7": "your personal or professional interests",
+            "8": "your professional online presence",
+            "9": "your contact history with ROYALFUT, its employees, directors, affiliates, your purchase history and saved items on ROYALFUT",
+            "10": "information about the accounts you link to ROYALFUT, for example, Facebook, Google and other platforms",
+            "11": "information that allows us to conduct credit or other financial checks on you",
+            "12": "information on how you use the ROYALFUT Website",
+            "13": "your answers to polls, and information about participation in contests, giveaways and special offers",
+            "14": "transactional information based on your ROYALFUT activity (e.g. information to simplify the buying and selling process)",
+            "15": "public discussions, chats, dispute resolution, correspondence via ROYALFUT, as well as correspondence sent to us"
+          },
+          "p": {
+            "1": "The list of personal data transferred to ROYALFUT for processing:",
+            "2": "We may collect and use the following personal information about you:"
+          }
+        }
+      }
+    }
+  },
+  "quinn_pages": {
+    "home": {
+      "calc": {
+        "panel": {
+          "info": {
+            "ccy": "Total price"
+          }
+        }
+      },
+      "header": {
+        "nav": {
+          "1": "Buy coins",
+          "2": "Coin bundles",
+          "3": "Reviews",
+          "4": "FAQ",
+          "5": "Blog"
+        }
+      },
+      "heading": {
+        "1": {
+          "1": "SAFEST OPTION TO BUY",
+          "2": "{fc} COINS"
+        }
+      }
+    },
+    "privacy": {
+      "list": {
+        "2": {
+          "item": {
+            "16": "other information, including IP address and standard web log information (browser type, Internet Service Provider (ISP), referral/exit pages, operating system, date/time stamp and clickstream data), as well as additional information from third parties, such as billing account information provided by any payment services you use to make purchases or receive payments, as well as your browser ID, cookie ID, device ID, device type, information about proxy server usage/VPN and related technologies, location information, email addresses, phone numbers and public social media profiles provided by our payment fraud service providers and customer due diligence."
+          }
+        }
+      },
+      "p": {
+        "2": "This personal data is required to provide you with our services. You can choose not to provide us with information, but some information about you is necessary in order for you to: register as a member; purchase products or services, complete a profile; take part in surveys, competitions or draws; ask us a question, or initiate other transactions on our Website. ROYALFUT also uses this information for trend analysis, fraud detection and site administration.",
+        "3": "Consent is valid from the moment the personal data subject is registered at",
+        "4": "If you want to delete your RoyalFUT account please send the request at"
+      }
+    },
+    "terms": {
+      "h1": "Terms and Conditions",
+      "h2": {
+        "1": "User Agreement"
+      },
+      "p": {
+        "1": {
+          "1": "Please read the following User Agreement carefully. If you do not accept any of the items in this User Agreement, you do not have the right to confirm your registration, use any services provided by",
+          "2": ", or sell, buy or exchange goods via this trading platform."
+        }
+      }
+    },
+    "trustScore": {
+      "reviewsAmount": "{reviewsAmount} reviews"
+    }
+  },
+  "phoenix_pages": {
+    "auth": {
+      "action": {
+        "changeEmail": "Change email",
+        "login": "Get The Link",
+        "sendCodeAgain": "Send code again"
+      },
+      "btn": {
+        "login": "Log In"
+      },
+      "divider": {
+        "1": "Or"
+      },
+      "email": {
+        "placeholder": "Email"
+      },
+      "notify": {
+        "sentConfirmationCode": "We've sent you a six-digit confirmation code to <mail>{address}</mail>. Please enter it below to confirm your email address."
+      },
+      "oauth": {
+        "google": "Continue With Google"
+      },
+      "text": {
+        "authTitle": "Log In or Sign Up",
+        "code": "Enter 6-digit code",
+        "codeInfo": "Leave your e-mail and we will send you an authorization link"
+      }
+    },
+    "contacts": {
+      "h1": "Contacts",
+      "title": {
+        "1": "Contact Us Via",
+        "2": "Social"
+      }
+    },
+    "faq": {
+      "action": "Have more questions?"
+    }
+  },
+  "jamie_pages": {
+    "faq": {
+      "acc": {
+        "q": {
+          "1": {
+            "title": "Why should I choose ROYALFUT?"
+          },
+          "2": {
+            "title": "What are the advantages of buying EAS FC coins over FC Points?"
+          },
+          "3": {
+            "title": "How long does coin delivery take?"
+          },
+          "4": {
+            "title": "How do I use a discount coupon?"
+          },
+          "5": {
+            "title": "Are there any special offers for regular customers?"
+          },
+          "6": {
+            "title": "How should I prepare my FC Ultimate Team club for a coin transfer?"
+          },
+          "7": {
+            "title": "How do I check whether my Transfer Market in FC Ultimate Team Web App unlocked or not?"
+          }
+        }
+      },
+      "nav": {
+        "1": "General questions",
+        "2": "Questions about delivery",
+        "3": "Questions about payments"
+      },
+      "q": {
+        "1": {
+          "title": "Why should I choose ROYALFUT?"
+        },
+        "2": {
+          "content": {
+            "1": "Coins are the first choice of most EA Sports FC players around the world because of their low cost, and the ability to spend them much more beneficially for your FC Ultimate Team club. You can spend Ultimate Team coins on in-game items that have been listed on the Transfer Market by other players. These could be player cards, coach cards, uniform kits, stadiums, consumables and more. And most importantly, none of these can be bought with FC Points. With FC Points, you can buy packs from the FC Ultimate Team store and get access to the FC Ultimate Team Drafts. However, you can do both of these things using coins as well. In terms of real money, it's more than 5 times cheaper to shop in-game using EAS FC coins instead of FC Points. Start shopping for coins with us and see for yourself 😉",
+            "2": "You can spend {fc} Ultimate Team Coins on in-game items that have been listed on the Transfer Market by other players. These could be player cards, coach cards, uniform kits, stadiums, consumables and more. And most importantly, none of these can be bought with FC Points.",
+            "3": "With FC Points, you can buy packs from the {fc} Ultimate Team store and get access to the {fc} Ultimate Team Drafts. However, you can do both of these things using coins as well. In terms of real money, it's more than 5 times cheaper to shop in-game using {fc} Ultimate Team coins instead of FC Points. Start shopping for coins with us and see for yourself 😉"
+          },
+          "title": "What are the advantages of buying EAS FC coins over FC Points?"
+        },
+        "3": {
+          "content": "Yes, there are. You will start receiveing special offers as soon as we notice that you have started buying from us on a regulare basis. Not to mention that we also have a transparent loyalty program in the works. Stay tuned for the updates!",
+          "title": "Are there any special offers for regular customers?"
+        }
+      }
+    }
+  },
+  "alex_pages": {
+    "faq": {
+      "acc": {
+        "q": {
+          "1": {
+            "content": "<content>There are several reasons for that which you will surely discover yourself after the first purchase:</content><list><listItem>A huge number of reviews by satisfied customers which can be found <link>here.</link></listItem><listItem>The absolute safety of your account which always comes first and a full refund guarantee in case your order was, for some reason, not delivered.</listItem><listItem>Shortest delivery timelines — with us, you will forget about the long waiting times for the order to be completed.</listItem><listItem>Our support team is always ready to help you to solve any problem you may encounter, both before and after the purchase, whether through live chat or any other way of your choice (WhatsApp, Telegram, Instagram direct or e-mail).</listItem></list>"
+          },
+          "2": {
+            "content": "<content>Coins are the first choice of most EA Sports FC players around the world because of their low cost, and the ability to spend them much more beneficially for your FC Ultimate Team club. You can spend Ultimate Team coins on in-game items that have been listed on the Transfer Market by other players. These could be player cards, coach cards, uniform kits, stadiums, consumables and more. And most importantly, none of these can be bought with FC Points. With FC Points, you can buy packs from the FC Ultimate Team store and get access to the FC Ultimate Team Drafts. However, you can do both of these things using coins as well. In terms of real money, it's more than 5 times cheaper to shop in-game using EAS FC coins instead of FC Points. Start shopping for coins with us and see for yourself 😉</content><content>You can spend {fc} Ultimate Team Coins on in-game items that have been listed on the Transfer Market by other players. These could be player cards, coach cards, uniform kits, stadiums, consumables and more. And most importantly, none of these can be bought with FC Points.</content><content>With FC Points, you can buy packs from the {fc} Ultimate Team store and get access to the {fc} Ultimate Team Drafts. However, you can do both of these things using coins as well. In terms of real money, it's more than 5 times cheaper to shop in-game using {fc} Ultimate Team coins instead of FC Points. Start shopping for coins with us and see for yourself 😉</content>"
+          },
+          "3": {
+            "content": "<content>It depends on the delivery method you choose.</content><content>We show the approximate delivery time for Comfort Trade orders before payment on the checkout page. If all the details you have submitted are correct and your account is fully ready for coin transfer, then the order will be finished within 15-20 minutes on average. However, keep in mind that the delivery time primarily depends on the amount of ordered coins.</content><content>As for the Player Auction delivery method, the timings of this option depend entirely on you. The coin transfer is carried out by buying and selling player cards. It takes an average of 3-10 cards suggested by our system to be bought and sold by you for the order to be completed using this method. But note that your starting balance plays an important role in this scenario — the bigger it is, the faster the delivery will be processed, so try to make it as high as possible before placing an order, for example you can sell unwanted cards.</content>"
+          },
+          "4": {
+            "content": "Reach the checkout page."
+          },
+          "5": {
+            "content": "Yes, there are. You will start receiveing special offers as soon as we notice that you have started buying from us on a regulare basis. Not to mention that we also have a transparent loyalty program in the works. Stay tuned for the updates!"
+          },
+          "6": {
+            "content": "<list><listItem>Make sure your Transfer Market in FC Ultimate Team Web App is unlocked</listItem><listItem>Keep at least 5000 coins on your UT club balance</listItem><listItem>Clear as much space as possible in your Transfer List and Transfer Targets list</listItem><listItem>Assign all the unassigned items, if you have any, to your club</listItem></list>"
+          },
+          "8": {
+            "title": "What steps should I take to place an order and recieve the purchased coins?"
+          },
+          "9": {
+            "title": "What details should I submit to launch the delivery process of my order?"
+          },
+          "10": {
+            "title": "How does ROYALFUT protect my personal information?"
+          },
+          "11": {
+            "title": "How do I turn on login verification for my EA account?"
+          },
+          "12": {
+            "title": "I don't remember my EA account email address, where can I find it?"
+          },
+          "13": {
+            "title": "I forgot my EA account password, how do I reset it?"
+          },
+          "14": {
+            "title": "How can I retrieve my EA account backup codes?"
+          },
+          "15": {
+            "title": "What countries do you operate in?"
+          },
+          "16": {
+            "title": "Which payment methods are available on your website?"
+          },
+          "17": {
+            "title": "How to refund my order?"
+          },
+          "18": {
+            "title": "Do you buy coins from users as well?"
+          }
+        }
+      }
+    }
+  },
+  "drew_pages": {
+    "faq": {
+      "acc": {
+        "q": {
+          "7": {
+            "content": "<content>Transfer Market is unlocked</content>\n<content>Transfer Market is locked</content>"
+          },
+          "8": {
+            "content": "<list><listItem>Choose your platform and desirable amount of coins</listItem>\n<listItem>Pay for your order.</listItem>\n<listItem>After successful payment, you will need to fill your EA account details in the respective input fields and press the \"Save changes\" button</listItem>\n<listItem>If the submitted details are correct and no other problems with your account occur, the automated delivery process will begin during which you should NOT log in to FC Ultimate Team neither on your console / PC nor any other devices via FC Web App / Companion. As soon as the delivery of your coins is complete the status of your order will be changed to \"Finished\" and you also will be notified about the fact through email.You can find more information about the whole process in the video below.\n<button>Learn More</button></listItem>\n<listItem>That's it, feel free to log back in to Ultimate Team and spend the coins! And if you enjoyed your stay at ROYALFUT, please don't forget to leave a review for us on Trustpilot.review for us on Trustpilot.</listItem></list>\n<content>Should you have any questions or require any assistance at any stage, please don't hesitate to contact our Support Team via live chat or any other way of your choice (WhatsApp, Telegram, Instagram Direct or e-mail).</content>"
+          },
+          "9": {
+            "content": "Only your EA account email, password and backup codes. You don't need to share your EA ID and PSN/Xbox account credentials or any other details."
+          },
+          "10": {
+            "content": "<content>The administration of the project protects the information transmitted through the website from hacking and theft based on our strict Privacy Policy and Management System. We do NOT share your EA account details, data of payment cards, etc. to third parties under NO circumstances! Learn more on our</content><link>Privacy Policy page.</link>"
+          },
+          "11": {
+            "content": "<list><listItem>Open the EA account settings page</listItem>\n<listItem> Security > Login Verification > Turn On > Send Code > Turn On Login Verification</listItem></list>"
+          },
+          "12": {
+            "content": "<list><listItem>Open the game and go to the main menu.</listItem><listItem>Customise > Online Settings > EA Account.</listItem></list>"
+          },
+          "13": {
+            "content": "<list><listItem>Go to the\nEA account login page.</listItem><listItem> Login > Forgot your password? > Next > Send Code > Next > Submit.</listItem></list>"
+          },
+          "14": {
+            "content": "<content>You can find your backup codes in your EA account settings. Here's the link that will take you right to it:</content><link>https://myaccount.ea.com/cp-ui/security/index</link>"
+          },
+          "15": {
+            "content": "We operate all over the globe and accept payments from all regions, with the exception of high-risk jurisdictions such as Afghanistan, North Korea, Syria, the Republic of Crimea and others."
+          },
+          "16": {
+            "content": "<content>The list of payment methods we support is constantly updated as we aim to improve the experience of user interaction with our service. At the moment we accept the following payment methods:</content><list><listItem>VISA, MasterCard, Maestro, Discover, DinnersClub, JCB and UnionPay cards.</listItem><listItem>Contactless payment through Apple Pay and Google Pay.</listItem><listItem>Bank transfer through most of EU banks, iDeal and others.</listItem><listItem>Cryptocurrencies — Bitcoin, USD Tether, Etherium.</listItem></list>"
+          },
+          "17": {
+            "content": "If you have successfully paid for your order, but for some reason you don't need coins anymore, you can request a full refund. In order to do that, you need to contact our Support Service via live chat or any other way of your choice (WhatsApp, Telegram, Instagram Direct or e-mail)."
+          },
+          "18": {
+            "content": "It's not our main focus, but sometimes we do, you can contact our manager via Skype or Telegram and we'll consider your offer."
+          }
+        }
+      }
+    }
+  }
+}

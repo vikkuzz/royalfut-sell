@@ -1,0 +1,860 @@
+{
+  "default": {},
+  "car_home": {
+    "carousel": {
+      "promo": {
+        "4": {
+          "desc": "De meest begeerde spelers van Ultimate Team zijn eindelijk van jou. Begin met het verzamelen van gewilde kaarten van elke FC UT promo en ontzeg jezelf nooit iets!",
+          "title": "Koop elke kaart die je wilt"
+        },
+        "5": {
+          "desc": "Vergeet het frustrerende verzamelen van munten en besteed je kostbare tijd aan wat er echt toe doet: het spel zelf!",
+          "title": "Speel nu - verspil je tijd niet met het verzamelen van munten"
+        },
+        "action": {
+          "title": "Munten kopen"
+        }
+      }
+    },
+    "coins": {
+      "options": {
+        "1": {
+          "desc": "Zelfs de meest verfijnde klanten zullen blij zijn met de aankoopbonus. Koop hem vandaag nog!",
+          "title": "Muntenbundels"
+        },
+        "2": {
+          "desc": "Bespaar veel tijd met de gloednieuwe tool van onze vrienden!",
+          "title": "Probeer SBC Solver met korting"
+        },
+        "title": "Probeer ook deze opties"
+      }
+    },
+    "delivery": {
+      "process": {
+        "card": {
+          "1": {
+            "desc": "Selecteer uw platform en het gewenste aantal munten en betaal vervolgens uw bestelling.",
+            "title": "Een bestelling plaatsen"
+          },
+          "2": {
+            "desc": "Nadat de betaling is geslaagd, gaat u naar de pagina Bestelgeschiedenis. Zoek uw bestelling en voer de vereiste handelingen uit om het bezorgproces te starten.",
+            "title": "Start de levering"
+          },
+          "3": {
+            "desc": "Zodra de bestelling is afgerond, kunt u de munten naar eigen wens besteden en kunt u bij ons terugkomen wanneer u ze weer nodig heeft.",
+            "title": "Veel plezier met uw aankoop"
+          }
+        },
+        "desc": "Hulp nodig? Neem op elk gewenst moment contact op met ons Support Team"
+      }
+    }
+  },
+  "li_home": {
+    "delivery": {
+      "process": {
+        "title": "Leveringsproces"
+      }
+    },
+    "faq": {
+      "q": {
+        "1": {
+          "content": "<content>Er zijn verschillende redenen hiervoor die u na de eerste aankoop zeker zelf zult ontdekken:</content><list><listItem> Een groot aantal beoordelingen van tevreden klanten die te vinden zijn<link> hier.</link></listItem><listItem> De absolute veiligheid van uw account staat altijd voorop en we garanderen dat u het volledige aankoopbedrag terugkrijgt als uw bestelling om welke reden dan ook niet wordt geleverd.</listItem><listItem> De kortste levertijden: bij ons vergeet u de lange wachttijden totdat uw bestelling is voltooid.</listItem><listItem> Ons supportteam staat altijd klaar om u te helpen bij het oplossen van eventuele problemen, zowel vóór als ná de aankoop. Dit kan via de livechat of op een andere manier naar keuze (WhatsApp, Telegram, Instagram direct of e-mail).</listItem></list>"
+        }
+      }
+    },
+    "heading": {
+      "1": {
+        "1": "Veiligste optie om te kopen ",
+        "2": "FC 24 Munten"
+      }
+    },
+    "infographic": {
+      "stats": {
+        "desc": {
+          "1": "jarenlange ervaring op dit gebied",
+          "2": "munten overgemaakt naar de rekeningen van onze klanten",
+          "3": "succesvol afgeleverde bestellingen",
+          "4": "spelers die onze service hebben geprobeerd",
+          "5": "van terugkerende klanten die minstens twee keer een aankoop hebben gedaan",
+          "6": "klanttevredenheidscijfer volgens de resultaten van de peilingen"
+        }
+      }
+    },
+    "loyalty": {
+      "program": {
+        "overview": {
+          "action": {
+            "primary": "Koop munten",
+            "sec": "Meer informatie"
+          },
+          "desc": "Elke aankoop stuwt je de wereld van voetbalwonderen binnen! Ga mee op een spannend digitaal avontuur vol met kopen, verdienen, uitgeven en het bereiken van nieuwe niveaus!",
+          "stats": {
+            "1": "Gebruikers die al deelnemen aan ons Loyaliteitsprogramma",
+            "2": "ROYAL-punten zijn al door onze klanten verdiend"
+          },
+          "steps": {
+            "1": {
+              "desc": "Verzamel glimmende munten om je spelervaring naar een hoger niveau te tillen en je Ultimate Team-potentieel volledig tot zijn recht te laten komen!",
+              "title": "Koop munten"
+            }
+          }
+        }
+      }
+    }
+  },
+  "pi_cookie": {
+    "widget": {
+      "action": {
+        "1": "Accepteren",
+        "2": "Alles afwijzen"
+      },
+      "checkbox": {
+        "1": "Nodig",
+        "2": "Analyse"
+      },
+      "details": "Deze website maakt gebruik van cookies om de functionaliteit te optimaliseren en een aangename browse-ervaring te bieden. Voel je vrij om onze website te verkennen met het vertrouwen dat je privacy wordt gerespecteerd en dat je controle hebt over cookietoestemming. Bekijk onze<link> Cookiebeleid</link> ."
+    }
+  },
+  "pi_home": {
+    "loyalty": {
+      "program": {
+        "overview": {
+          "steps": {
+            "2": {
+              "desc": "Verzamel ROYAL Points iedere keer dat u munten koopt op onze website en ontgrendel extra voordelen door nieuwe loyaliteitsniveaus te bereiken.",
+              "title": "Verdien ROYAL-punten"
+            },
+            "3": {
+              "desc": "Wissel uw ROYAL Points in bij toekomstige aankopen en ontvang korting op uw muntvullingen!",
+              "title": "Besteed uw cashback"
+            }
+          },
+          "title": "Hoe werkt ons loyaliteitsprogramma?"
+        }
+      }
+    },
+    "promotional": {
+      "offer": {
+        "fc24": {
+          "description": "Als je het beu bent om {fc} munten te grinden, hebben we een perfecte, goedkope oplossing voor je! Maak kennis met <b>ROYALFUT.com</b> , de meest betrouwbare EA FC muntenwinkel met vele jaren ervaring op dit gebied. Deze top-rated marktplaats biedt de laagste prijzen voor {fifa} munten online en kan snelle levering en 100% veiligheid van je account garanderen. FC munten kopen bij ROYALFUT is de meest betaalbare en legitieme optie als het gaat om het nog leuker maken van je spel, zonder enig risico op onaangename gevolgen. De reguliere Ultimate Team muntendeals die je in deze winkel kunt vinden, zijn al lage prijzen, waardoor je de meest winstgevende in-game transacties kunt doen. Het ROYALFUT-platform is niet alleen 100% betrouwbaar over hun FUT munten die te koop zijn, maar staat ook bekend om hun geweldige klantenservice die je altijd zal helpen met elke vraag of probleem dat je hebt. Het is tegenwoordig vrij zeldzaam om een legitieme {ut} muntenwinkel te vinden, maar <b>ROYALFUT.com</b> is er zonder twijfel een van. Dit is absoluut de beste plek voor jou als je Ultimate Team-munten wilt kopen voor PC, PS4, PS5, Xbox One, Xbox Series X of Xbox Series S met 100% veilige betalingen en directe levering.\n"
+        }
+      }
+    },
+    "trustpilot": {
+      "reviews": {
+        "action": "Koop munten",
+        "count": "Gebaseerd op<highlight> {amount} beoordelingen</highlight>",
+        "rate": "Uitstekend",
+        "rating": "Beoordeling {amount} / {max}\n",
+        "title": "Wat onze klanten zeggen",
+        "verified": "Geverifieerd bedrijf"
+      }
+    }
+  },
+  "vpr_auth": {
+    "validation": {
+      "invalidEmail": "Ongeldig e-mailadres."
+    }
+  },
+  "vpr_home": {
+    "benefit": {
+      "1": {
+        "desc": "Ons team werd oorspronkelijk gevormd in het FIFA 17-seizoen. Sindsdien hebben we meer dan 100 miljard munten naar onze klanten overgemaakt, hebben meer dan 60 duizend clubs over de hele wereld muntvullingen van ons ontvangen en gebruiken minstens 10 andere winkels ons algoritme voor muntoverdracht.",
+        "title": "Jarenlange ervaring"
+      },
+      "2": {
+        "desc": "Ons hoofddoel is om u de veiligste optie te bieden om uw FUT-clubsaldo op te waarderen. We verbeteren voortdurend ons algoritme voor het overmaken van munten en testen het op duizenden van onze accounts voordat we het groen licht geven voor actie.",
+        "title": "Veilig en betrouwbaar"
+      },
+      "3": {
+        "desc": "Wij waarderen uw tijd en zijn daarom altijd vastbesloten om de aspecten van onze website, zoals de interface en de kwaliteit van onze klantenservice, voortdurend te verbeteren. Zo zorgen wij ervoor dat uw winkelervaring bij ons zo soepel mogelijk verloopt.",
+        "title": "Hoog serviceniveau"
+      },
+      "4": {
+        "desc": "Wij bieden een van de laagste prijzen op de markt. En voor onze vaste klanten is de prijs zelfs nog lager!",
+        "title": "Betaalbare prijzen"
+      }
+    },
+    "calc": {
+      "panel": {
+        "action": {
+          "1": "Uitchecken"
+        },
+        "info": {
+          "ccy": "Totale prijs"
+        }
+      }
+    },
+    "carousel": {
+      "promo": {
+        "1": {
+          "desc": "Spelen met de beste spelerkaarten in je arsenaal is een rechte weg naar glorie, naar de hoogste rangen en de grootste beloningen. Alles ligt in jouw handen!",
+          "title": "Bereik de hoogste rangen"
+        },
+        "2": {
+          "desc": "Met EA Sports FC 24 Coins bent u vrij om de best mogelijke opties te kiezen voor elke positie in uw team. Geef uw fantasie de vrije loop, probeer nieuwe dingen, experimenteer!",
+          "title": "Stel nu uw Dream Team samen"
+        },
+        "3": {
+          "desc": "Ervaar nieuwe ervaringen door topspelers te gebruiken met verschillende PlayStyles+-combinaties die de gameplay in Ultimate Team beïnvloeden.",
+          "title": "Ontdek meer in-game functies met behulp van kaarten met een hoge beoordeling"
+        }
+      }
+    }
+  },
+  "ye_user": {
+    "action": {
+      "logOut": "Uitloggen"
+    },
+    "bar": {
+      "nav": {
+        "1": {
+          "1": "Bestelgeschiedenis",
+          "2": "Instellingen",
+          "3": "Loyaliteitsprogramma",
+          "title": "Profiel"
+        }
+      }
+    }
+  },
+  "ye_default": {
+    "trustScore": {
+      "reviewsAmount": "{amount} beoordelingen"
+    }
+  },
+  "ye_profile": {
+    "action": {
+      "logOut": "Uitloggen"
+    },
+    "title": {
+      "account": "Uw account"
+    }
+  },
+  "ye_footer": {
+    "nav": {
+      "1": {
+        "1": "Levering",
+        "2": "Betaling",
+        "3": "Algemene voorwaarden",
+        "4": "Privacybeleid",
+        "5": "Cookiebeleid"
+      }
+    },
+    "title": {
+      "contacts": "Contacten",
+      "nav": {
+        "1": "Platform",
+        "2": "Informatie"
+      },
+      "socials": "Onze sociale media"
+    }
+  },
+  "cs_home": {
+    "carousel": {
+      "promo": {
+        "1": {
+          "title": "Bereik de hoogste rangen"
+        },
+        "2": {
+          "desc": "Met EA Sports FC 24 Coins bent u vrij om de best mogelijke opties te kiezen voor elke positie in uw team. Geef uw fantasie de vrije loop, probeer nieuwe dingen, experimenteer!",
+          "title": "Stel nu uw Dream Team samen"
+        },
+        "3": {
+          "desc": "Ervaar nieuwe ervaringen door topspelers te gebruiken met verschillende PlayStyles+-combinaties die de gameplay in Ultimate Team beïnvloeden.",
+          "title": "Ontdek meer in-game functies met behulp van kaarten met een hoge beoordeling"
+        },
+        "4": {
+          "desc": "De meest begeerde spelers van Ultimate Team zijn eindelijk van jou. Begin met het verzamelen van gewilde kaarten van elke FC UT promo en ontzeg jezelf nooit iets!",
+          "title": "Koop elke kaart die je wilt"
+        },
+        "5": {
+          "desc": "Vergeet het frustrerende verzamelen van munten en besteed je kostbare tijd aan wat er echt toe doet: het spel zelf!",
+          "title": "Speel nu - verspil je tijd niet met het verzamelen van munten"
+        },
+        "action": {
+          "title": "Munten kopen"
+        }
+      }
+    },
+    "coins": {
+      "options": {
+        "1": {
+          "desc": "Zelfs de meest verfijnde klanten zullen blij zijn met de aankoopbonus. Haal hem vandaag nog!",
+          "title": "Muntenbundels"
+        },
+        "2": {
+          "desc": "Bespaar veel tijd met de gloednieuwe tool van onze vrienden!",
+          "title": "Probeer SBC Solver met korting"
+        },
+        "title": "Probeer ook deze opties"
+      }
+    },
+    "delivery": {
+      "process": {
+        "card": {
+          "1": {
+            "desc": "Selecteer uw platform en het gewenste aantal munten en betaal vervolgens uw bestelling.",
+            "title": "Een bestelling plaatsen"
+          }
+        }
+      }
+    }
+  },
+  "kelly_profile": {
+    "orders": {
+      "amount": "Hoeveelheid",
+      "failed_description": "Probeer het opnieuw of wijzig de betaalmethode als het probleem zich blijft voordoen",
+      "failed_title": "Betaling mislukt",
+      "make": "Betaling doen",
+      "no_club": "Geen UT-club gedetecteerd",
+      "no_club_description": "Zorg ervoor dat je je club hebt ingesteld in de {fc} Web App, zodat we je bestelling kunnen verwerken.",
+      "not_enough": "Niet genoeg munten",
+      "not_enough_description": "Zorg ervoor dat je minimaal 5000 munten op je Ultimate Team Club-saldo hebt staan, zodat we het leveringsproces kunnen starten",
+      "no_tm": "Geen TM in {fc} web-app",
+      "no_tm_description": "Zorg ervoor dat u toegang hebt tot de transfermarkt in de {fc} web-app, zodat we uw bestelling kunnen verwerken.",
+      "resume": "Hervat levering",
+      "retry": "Betaling opnieuw proberen",
+      "status": "Staat",
+      "unpaid": "Onbetaald",
+      "unpaid_description": "Deze bestelling is nog niet betaald",
+      "wrong_description": "Er is geen Ultimate Team-club gekoppeld aan je account op het platform dat je hebt geselecteerd. Geef de gegevens van het juiste account door of neem contact op met Support om het platform te wijzigen.",
+      "wrong_platform": "Verkeerd platform"
+    }
+  },
+  "sky_profile": {
+    "orders": {
+      "backup_description": "De back-upcodes die u ons hebt verstrekt, zijn onjuist, verlopen of afkomstig van een verkeerd account. Zorg ervoor dat u de juiste codes indient.",
+      "continue": "Doorgaan met overdragen",
+      "details": "Voer uw EA-accountgegevens in",
+      "details_description": "Om het leveringsproces te starten, vult u uw EA-accountgegevens in via het onderstaande formulier.",
+      "finished_description": "Meld je gerust weer aan bij Ultimate Team en geniet van je munten!",
+      "finished_title": "Afgerond",
+      "in_progress": "Levering in uitvoering",
+      "in_progress_description": "Zorg ervoor dat Ultimate Team gesloten blijft op je account totdat de bestelling is voltooid",
+      "list_full_description": "Zorg ervoor dat u uw overdrachtslijst wist, zodat we met het leveringsproces kunnen beginnen",
+      "list_full_title": "Transferlijst vol",
+      "login_disabled": "Inlogverificatie uitgeschakeld",
+      "login_disabled_description": "Zorg ervoor dat u Login Verification inschakelt in uw EA-accountinstellingen",
+      "queue": "Bestelling in wachtrij",
+      "queue_description": "Zorg ervoor dat je bent uitgelogd bij Ultimate Team op je console/pc en andere apparaten via de FC Ultimate Team Web App/FC Companion",
+      "resubmit": "Codes opnieuw indienen",
+      "submit": "Gegevens indienen",
+      "wrong_backup": "Verkeerde back-upcodes"
+    }
+  },
+  "add_profile": {
+    "orders": {
+      "cancelled": "Geannuleerd",
+      "cancelled_description": "Uw bestelling is op uw verzoek geannuleerd",
+      "items": "Niet-toegewezen items",
+      "items_description": "Je hebt niet-toegewezen items in je Ultimate Team-club, zorg ervoor dat je ze toewijst zodat we het leveringsproces kunnen starten",
+      "online": "Online in web-app",
+      "online_description": "Meld u af bij {fc} Web App / FC Companion App, zodat wij de levering kunnen voortzetten.",
+      "signed": "Ingelogd",
+      "signed_description": "Meld u af bij uw account, zodat wij de levering kunnen voortzetten.",
+      "undefined_description": "Neem contact op met de ondersteuning",
+      "unexpected": "Onverwachte fout",
+      "unexpected_description": "Fout bij het aanmaken van de bestelling: Neem contact op met de ondersteuning",
+      "unknown": "Onbekende fout",
+      "wrong_cred": "Verkeerd e-mailadres/wachtwoord",
+      "wrong_cred_description": "Controleer of je geen typefouten hebt gemaakt en dat je de gegevens van je EA-account invoert en niet die van een ander account (PSN, Xbox Network, etc.)."
+    }
+  },
+  "chris_coinBundles": {
+    "calc": {
+      "title": "Kies je eigen bedrag"
+    },
+    "coinCard": {
+      "action": "Nu kopen"
+    },
+    "coinsAmount": {
+      "h1": "{fc} Ultieme teammunten",
+      "h2": {
+        "1": "Wat u van ons krijgt:"
+      },
+      "list": {
+        "3": {
+          "item": {
+            "1": "{amount} k munten in je UT-club"
+          }
+        }
+      },
+      "p1": "Koop EA {fc} munten online bij de veiligste leverancier op de markt - ROYALFUT Store. Het verkopen van FIFA Ultimate Team-artikelen is al meer dan 7 jaar onze specialiteit. Ons doel is om ervoor te zorgen dat onze klanten de beste deals en de veiligste overdrachten van FC UT-munten krijgen. ROYALFUT biedt een gemakkelijke en plezierige winkelervaring met zijn gebruiksvriendelijke interface, veilige betalingsopties en uitstekende klantenservice.",
+      "p2": "Hier kun je {amount} k FC munten kopen voor slechts {price} {currency}. Zodra de bestelling is geplaatst, zorg ervoor dat je bent uitgelogd van Ultimate Team op zowel je console / PC als andere apparaten via FC Web App / Companion. {amount} k munten worden binnen {timeValue} {time} overgemaakt naar je account."
+    },
+    "h1": "Pakket aanbiedingen",
+    "noticePanel": "Met dit bedrag kunt u elke kaart kopen die op de markt verkrijgbaar is. Maak uw dreamteam compleet!",
+    "optionCard": {
+      "desc": "Bespaar veel tijd met de gloednieuwe tool van onze vrienden!",
+      "title": "Probeer SBC Solver met korting"
+    },
+    "platform": "Platform"
+  },
+  "chris_profile": {
+    "orders": {
+      "get_backup": "Hier kunt u back-upcodes krijgen:",
+      "goback": "Ga terug naar de homepage",
+      "noorders": "U heeft nog geen bestellingen geplaatst",
+      "noorders_text": "In dit gedeelte vindt u uw bestelgeschiedenis nadat u deze hebt geplaatst.",
+      "recom": "Wij raden aan om minimaal 2-3 back-upcodes in te dienen"
+    }
+  },
+  "bailey_coinsAmount": {
+    "guaranteesCard": {
+      "1": "100% veilige betalingen",
+      "2": "{timeValue} {time} Levertijd",
+      "3": "In aanmerking komen voor restitutie"
+    },
+    "h2": {
+      "2": "Wat wij van u nodig hebben",
+      "3": "Wat onze klanten zeggen",
+      "4": "Veelgestelde vragen",
+      "5": "Zie ook"
+    },
+    "list": {
+      "2": {
+        "item": {
+          "1": {
+            "strong": "Toegang tot uw EA-account",
+            "text": "— als je een gelicentieerd exemplaar van EA Sports {fc} voor PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Seris X consoles of PC hebt (gekocht als fysieke CD of digitaal via EA App, Steam of Epic Games Store), dan heb je geluk, want vanaf dit punt heeft ons systeem alleen je EA-accountgegevens nodig om succesvol toegang te krijgen tot je Ultimate Team-club, bestaande uit je e-mailadres, wachtwoord en een paar back-upcodes. Maar maak je geen zorgen, we slaan je gegevens niet op, ze worden gewist na voltooiing van elke bestelling."
+          },
+          "2": {
+            "strong": "Ontgrendelde transfermarkt",
+            "text": "— Een van de belangrijkste dingen bij het voorbereiden van je club op een levering van munten, is ervoor zorgen dat je al toegang hebt tot de transfermarkt in de webapp. Als deze echter nog niet is ontgrendeld, moet je 3 volledige Ultimate Team-wedstrijden per dag spelen en ook dagelijks de FC-webapp/Companion bezoeken, totdat je toegang krijgt."
+          },
+          "3": {
+            "strong": "Minimaal 5000 munten op je UT-clubsaldo",
+            "text": "— met dit bedrag kan ons leveringssysteem de overdracht starten. Als uw clubbalans niet aan deze vereiste voldoet, kunt u enkele verhandelbare items verkopen door ze op de Transfermarkt te plaatsen of door de optie Snel verkopen te gebruiken. En natuurlijk kunt u altijd munten verdienen door gewoon wat wedstrijden te spelen. En vergeet niet, een hoger startsaldo resulteert in een sneller leveringsproces."
+          }
+        }
+      },
+      "3": {
+        "item": {
+          "2": "EA Tax (5%) dekking;",
+          "3": "100% veiligheid van uw account."
+        }
+      }
+    }
+  },
+  "skyler_pages": {
+    "card": {
+      "button": {
+        "1": "Munten kopen",
+        "2": "Ga naar de startpagina"
+      },
+      "title": "Psst... Op zoek naar wat munten?"
+    },
+    "faq": {
+      "h1": "Veelgestelde vragen",
+      "nav": {
+        "items": {
+          "1": "Algemene vragen",
+          "2": "Vragen over levering",
+          "3": "Vragen over betalingen"
+        }
+      }
+    },
+    "rated": {
+      "button": "Beoordeel ons",
+      "h1": "Beoordeeld {rate} / 5",
+      "p": {
+        "1": {
+          "link": "Beoordelingen",
+          "text": "Gebaseerd op"
+        }
+      }
+    },
+    "reviews": {
+      "h1": "Beoordelingen",
+      "p1": "Biedt een uniek {fifa} munten leveringssysteem. We werken samen met een recordaantal munten leveranciers. Bij het uitvoeren van uw bestelling, gebruiken we speciale regels die garanderen dat er nooit sancties op uw account worden toegepast door EA. Zie enkele van deze regels hieronder"
+    }
+  },
+  "jordan_pages": {
+    "cookie": {
+      "h1": "Cookiebeleid",
+      "h2": {
+        "1": "Over cookies",
+        "2": "Welke soorten cookies gebruiken wij?"
+      },
+      "h3": {
+        "1": "Noodzakelijke cookies"
+      },
+      "p": {
+        "1": "Door deze website te gebruiken en akkoord te gaan met dit beleid, stemt u in met ons gebruik van cookies in overeenstemming met de voorwaarden van dit beleid.",
+        "2": "Cookies zijn eenvoudige tekstbestanden die door de server van een website op uw computer of mobiele apparaat worden opgeslagen. Elke cookie is uniek voor uw webbrowser. Het bevat wat anonieme informatie, zoals een unieke identificatiecode, de domeinnaam van de website en wat cijfers en getallen."
+      }
+    },
+    "delivery": {
+      "h1": "Levering",
+      "h2": {
+        "1": "Hier zijn enkele statistieken* die u kunnen interesseren:"
+      },
+      "notice": "* relevant vanaf 1 oktober 2023",
+      "p": {
+        "1": "Wij willen u graag wijzen op het innovatieve leveringssysteem voor EA FC-munten dat door mij is ontwikkeld — een unieke aanpak op de FIFA-muntenmarkt. Elke bestelling wordt verwerkt volgens een reeks eigen protocollen die alle ongewenste gevolgen voor de account van EA volledig uitsluiten. We verbeteren voortdurend ons algoritme voor muntoverdracht, onderwerpen het aan grondige kalibratie en een aantal uiteenlopende tests en alleen in het geval van een positieve evaluatie van elk getest aspect, krijgt het groen licht voor volledige implementatie.",
+        "p2_fragments": {
+          "1": "En bovendien wordt onze invloedssfeer enorm uitgebreid door productieve partnerschappen aan te gaan met veel andere organisaties die betrokken zijn bij de verkoop van EA FC-munten. Momenteel omvat ons ecosysteem meer dan 10 winkels zoals deze die geïntegreerd zijn in ons platform. En onze deuren voor dergelijke samenwerking staan altijd open. Als u geïnteresseerd bent in een partnerschap met ons als EA FC-muntwinkel, neem dan contact met ons op via",
+          "2": "of",
+          "3": "waar we alle details van deze samenwerkingsmogelijkheid kunnen bespreken, waardoor we gezamenlijk de lijst met onze prestaties op de FUT- en EA FC-muntenmarkt die hierboven is gepresenteerd, kunnen versterken."
+        }
+      }
+    },
+    "payments": {
+      "h1": "Betaling",
+      "p": {
+        "1": "ROYALFUT.COM accepteert betalingen in zes verschillende valuta's ZONDER KOSTEN.",
+        "2": "Alleen geregistreerde gebruikers kunnen betalingen doen op de website. De betalingen worden georganiseerd via de internationale betalingssystemen. Bankkaarthouders in de volgende regio's mogen geen aankopen doen: Afghanistan, Amerikaans Samoa, Aruba, Bahama's, Botswana, Burundi, Cambodja, Centraal-Afrikaanse Republiek, Congo, Democratische Republiek Congo, Krim en Sebastopol, Cuba, Equatoriaal-Guinea, Eritrea, Ethiopië, Irak, Libanon, Libië, Mali, Myanmar, Nicaragua, Noord-Korea, Pakistan, Palestina, Russische Federatie, Samoa, Sierra Leone, Somalië, Zuid-Soedan, Soedan, Syrië, Trinidad en Tobago, Turkmenistan, Oeganda, Amerikaanse Maagdeneilanden, Venezuela, Jemen, Zimbabwe.",
+        "3": "Wanneer u ons digitale product koopt, kunt u er zeker van zijn dat uw geld veilig is."
+      }
+    }
+  },
+  "kendall_pages": {
+    "cookie": {
+      "h2": {
+        "3": "Cookies blokkeren",
+        "4": "Hoe verwijder ik cookies?"
+      },
+      "h3": {
+        "2": "Functionele cookies",
+        "3": "Analytische cookies",
+        "4": "Cookies van derden"
+      },
+      "list": {
+        "1": {
+          "item": {
+            "1": "om uw browser over meerdere websites te volgen",
+            "2": "om een profiel van uw websurfen op te bouwen",
+            "3": "om op u gerichte advertenties te tonen op basis van uw interacties met hun diensten, die voor u van specifiek belang kunnen zijn."
+          }
+        }
+      },
+      "p": {
+        "3": "Noodzakelijke cookies stellen ons in staat om u de best mogelijke ervaring te bieden bij het openen en navigeren door onze website en het gebruiken van de functies ervan. Deze cookies stellen ons bijvoorbeeld in staat om te herkennen dat u een account hebt aangemaakt en bent ingelogd op dat account.",
+        "4": "Functionaliteitscookies laten ons de site beheren in overeenstemming met de keuzes die u maakt. Zo herkennen we bijvoorbeeld uw gebruikersnaam en onthouden we hoe u de site hebt aangepast tijdens toekomstige bezoeken.",
+        "5": "Deze cookies stellen ons en externe diensten in staat om geaggregeerde gegevens te verzamelen voor statistische doeleinden over hoe onze bezoekers de website gebruiken. Deze cookies bevatten geen persoonlijke informatie zoals namen en e-mailadressen en worden gebruikt om ons te helpen uw gebruikerservaring van de website te verbeteren.",
+        "6": "Wanneer u de website gebruikt, kunnen er ook cookies van derden naar u worden verzonden.\n\n",
+        "7": "Onze adverteerders en dienstverleners kunnen u cookies sturen. Zij kunnen de informatie die zij verkrijgen door uw gebruik van hun cookies gebruiken:",
+        "8": "Wij gebruiken Google Analytics, een webanalyse-service die wordt aangeboden door Google Inc. ('Google'). Google Analytics maakt gebruik van 'cookies', tekstbestanden die op uw computer worden geplaatst om de website te helpen analyseren hoe gebruikers de site gebruiken. De door de cookie gegenereerde informatie over uw gebruik van de website (inclusief uw IP-adres) wordt verzonden naar en door Google opgeslagen op servers in de Verenigde Staten. Het IP-adres wordt voor verzending afgekapt om anonimiteit te garanderen. Google gebruikt deze informatie namens ons om uw gebruik van de website te evalueren, rapporten over de websiteactiviteit samen te stellen en andere diensten aan te bieden met betrekking tot websiteactiviteit en internetactiviteit in verband met het gebruik van de website. Google zal uw IP-adres niet koppelen aan andere gegevens die door Google worden bewaard. U kunt het gebruik van cookies weigeren door de juiste instellingen in uw browser te selecteren; houd er echter rekening mee dat u in dat geval mogelijk niet de volledige functionaliteit van deze website kunt gebruiken. U kunt bovendien voorkomen dat de door het cookie gegenereerde informatie over uw gebruik van de website (met inbegrip van uw IP-adres) door Google wordt verzameld en verwerkt, als u de browserplug-in downloadt en installeert die beschikbaar is via de volgende link:",
+        "9": "De meeste browsers staan u toe om cookies te weigeren. U kunt op google.com vinden hoe u alle cookies in uw browser kunt blokkeren.",
+        "10": "Het blokkeren van alle cookies zal echter een negatieve impact hebben op de bruikbaarheid van veel websites. Als u cookies blokkeert, kunt u bepaalde functies op de website mogelijk niet gebruiken (inloggen, toegang tot inhoud, zoekfuncties gebruiken).",
+        "11": {
+          "1": "Als u de cookies die door onze website worden geplaatst, wilt beperken of blokkeren, kunt u dit doen via uw browserinstellingen. U kunt ook naar"
+        }
+      }
+    }
+  },
+  "jules_pages": {
+    "cookie": {
+      "h3": {
+        "5": "Contact met ons opnemen"
+      },
+      "p": {
+        "11": {
+          "2": ", die uitgebreide informatie bevat over hoe u dit kunt doen op een breed scala aan browsers en apparaten. U vindt algemene informatie over cookies en details over hoe u cookies van uw apparaat kunt verwijderen."
+        },
+        "12": "Als u vragen heeft over dit beleid of ons gebruik van cookies, kunt u gerust contact met ons opnemen via"
+      }
+    },
+    "privacy": {
+      "h1": "Privacybeleid",
+      "list": {
+        "1": {
+          "item": {
+            "1": "Om u onze diensten te kunnen verlenen.",
+            "2": "Om contact met u op te nemen via e-mail, telefoon of op een andere manier om geschillen op te lossen, kosten te innen, problemen met uw account of onze sites, diensten, toepassingen of hulpmiddelen op te lossen, of voor andere doeleinden die wettelijk zijn toegestaan.",
+            "3": "Voorkom en detecteer fraude, inbreuken op de beveiliging, mogelijk verboden of illegale activiteiten en handhaaf onze gebruikersovereenkomsten",
+            "4": "Controleer of onze klanten geïdentificeerd zijn en hun identiteit geverifieerd is",
+            "5": "Operationele redenen zoals efficiëntieverbeteringen, training en kwaliteitscontrole",
+            "6": "Voorkom ongeautoriseerde toegang en wijzigingen aan onze systemen",
+            "7": "Marketing van onze diensten en de diensten van geselecteerde derden voor:",
+            "8": "Externe audits en kwaliteitscontroles",
+            "7_0": "- bestaande en voormalige cliënten",
+            "7_1": "- derden die eerder interesse hebben getoond in onze diensten",
+            "7_2": "- derden met wie wij voorheen geen zaken hebben gedaan"
+          },
+          "p": "De Verwerkingsverantwoordelijke verwerkt de gegevens van de Betrokkene om:"
+        }
+      },
+      "p": {
+        "1": "Door zich te registreren voor de dienst geeft de gebruiker ROYALFUT toestemming om zijn/haar persoonlijke gegevens te controleren en te verwerken op basis van de volgende voorwaarden:"
+      }
+    }
+  },
+  "dakota_pages": {
+    "privacy": {
+      "list": {
+        "2": {
+          "item": {
+            "1": "uw naam en contactgegevens, inclusief e-mailadres en telefoonnummer",
+            "2": "informatie waarmee wij uw identiteit kunnen verifiëren en bevestigen, zoals uw geboortedatum",
+            "3": "uw geslachtsinformatie, als u ervoor kiest deze aan ons te verstrekken",
+            "4": "computer-inloggegevens, paginaweergavestatistieken, verkeer van en naar ROYALFUT en cookie-informatie",
+            "5": "locatiegegevens",
+            "6": "informatie over uw levering (platform, aantal munten in de bestelling), factuurgegevens, informatie over transacties en betaalkaarten",
+            "7": "uw persoonlijke of professionele interesses",
+            "8": "uw professionele online aanwezigheid",
+            "9": "uw contactgeschiedenis met ROYALFUT, haar werknemers, directeuren, filialen, uw aankoopgeschiedenis en opgeslagen items op ROYALFUT",
+            "10": "informatie over de accounts die u koppelt aan ROYALFUT, bijvoorbeeld Facebook, Google en andere platforms",
+            "11": "informatie waarmee wij krediet- of andere financiële controles op u kunnen uitvoeren",
+            "12": "informatie over hoe u de ROYALFUT-website gebruikt",
+            "13": "uw antwoorden op peilingen en informatie over deelname aan wedstrijden, weggeefacties en speciale aanbiedingen",
+            "14": "transactiegegevens op basis van uw ROYALFUT-activiteit (bijv. informatie om het koop- en verkoopproces te vereenvoudigen)",
+            "15": "openbare discussies, chats, geschillenbeslechting, correspondentie via ROYALFUT, evenals correspondentie die naar ons wordt verzonden"
+          },
+          "p": {
+            "1": "Lijst met persoonsgegevens die aan ROYALFUT worden doorgegeven voor verwerking:",
+            "2": "Wij kunnen de volgende persoonlijke informatie over u verzamelen en gebruiken:"
+          }
+        }
+      }
+    }
+  },
+  "quinn_pages": {
+    "home": {
+      "calc": {
+        "panel": {
+          "info": {
+            "ccy": "Totale prijs"
+          }
+        }
+      },
+      "header": {
+        "nav": {
+          "1": "Munten kopen",
+          "2": "Muntenbundels",
+          "3": "Beoordelingen",
+          "4": "FAQ",
+          "5": "Blog"
+        }
+      },
+      "heading": {
+        "1": {
+          "1": "VEILIGSTE OPTIE OM TE KOPEN",
+          "2": "{fc}"
+        }
+      }
+    },
+    "privacy": {
+      "list": {
+        "2": {
+          "item": {
+            "16": "andere informatie, waaronder IP-adres en standaard webloggegevens (browsertype, internetprovider (ISP), verwijzings-/afsluitpagina's, besturingssysteem, datum-/tijdstempel en klikstroomgegevens), evenals aanvullende informatie van derden, zoals factureringsaccountgegevens die worden verstrekt door betalingsdiensten die u gebruikt om aankopen te doen of betalingen te ontvangen, evenals uw browser-ID, cookie-ID, apparaat-ID, apparaattype, informatie over het gebruik van proxyservers/VPN en gerelateerde technologieën, locatiegegevens, e-mailadressen, telefoonnummers en openbare socialemediaprofielen die worden verstrekt door onze dienstverleners op het gebied van betalingsfraude en klantonderzoek."
+          }
+        }
+      },
+      "p": {
+        "2": "Deze persoonlijke gegevens zijn vereist om u onze diensten te kunnen leveren. U kunt ervoor kiezen om ons geen informatie te verstrekken, maar sommige informatie over u is noodzakelijk om: u te registreren als lid; producten of diensten te kopen, een profiel in te vullen; deel te nemen aan enquêtes, wedstrijden of trekkingen; ons een vraag te stellen of andere transacties op onze website te starten. ROYALFUT gebruikt deze informatie ook voor trendanalyse, fraudedetectie en sitebeheer.",
+        "3": "De toestemming is geldig vanaf het moment dat de betrokkene bij ons is geregistreerd.",
+        "4": "Als u uw RoyalFUT-account wilt verwijderen, stuur dan een verzoek naar"
+      }
+    },
+    "terms": {
+      "h1": "Algemene voorwaarden",
+      "h2": {
+        "1": "Gebruikersovereenkomst"
+      },
+      "p": {
+        "1": {
+          "1": "Lees de volgende Gebruikersovereenkomst zorgvuldig door. Als u geen van de items in deze Gebruikersovereenkomst accepteert, hebt u niet het recht om uw registratie te bevestigen, gebruik te maken van de diensten die door",
+          "2": ", of goederen verkopen, kopen of ruilen via dit handelsplatform."
+        }
+      }
+    },
+    "trustScore": {
+      "reviewsAmount": "{reviewsAmount} beoordelingen"
+    }
+  },
+  "phoenix_pages": {
+    "auth": {
+      "action": {
+        "changeEmail": "E-mail wijzigen",
+        "login": "Ontvang de link",
+        "sendCodeAgain": "Code opnieuw verzenden"
+      },
+      "btn": {
+        "login": "Inloggen"
+      },
+      "divider": {
+        "1": "Of"
+      },
+      "email": {
+        "placeholder": "E-mail"
+      },
+      "notify": {
+        "sentConfirmationCode": "We hebben u een bevestigingscode van zes cijfers gestuurd om<mail> {address}</mail> Voer het hieronder in om uw e-mailadres te bevestigen."
+      },
+      "oauth": {
+        "google": "Doorgaan met Google"
+      },
+      "text": {
+        "authTitle": "Inloggen of Registreren",
+        "code": "Voer een 6-cijferige code in",
+        "codeInfo": "Laat uw e-mailadres achter en wij sturen u een autorisatielink"
+      }
+    },
+    "contacts": {
+      "h1": "Contacten",
+      "title": {
+        "1": "Neem contact met ons op via",
+        "2": "Sociaal"
+      }
+    },
+    "faq": {
+      "action": "Heeft u nog meer vragen?"
+    }
+  },
+  "jamie_pages": {
+    "faq": {
+      "acc": {
+        "q": {
+          "1": {
+            "title": "Waarom zou ik voor ROYALFUT kiezen?"
+          },
+          "2": {
+            "title": "Wat zijn de voordelen van het kopen van EAS FC-munten ten opzichte van FC-punten?"
+          },
+          "3": {
+            "title": "Hoe lang duurt de levering van munten?"
+          },
+          "4": {
+            "title": "Hoe gebruik ik een kortingsbon?"
+          },
+          "5": {
+            "title": "Zijn er speciale aanbiedingen voor vaste klanten?"
+          },
+          "6": {
+            "title": "Hoe moet ik mijn FC Ultimate Team-club voorbereiden op een muntoverdracht?"
+          },
+          "7": {
+            "title": "Hoe controleer ik of mijn transfermarkt in de FC Ultimate Team Web App ontgrendeld is?"
+          }
+        }
+      },
+      "nav": {
+        "1": "Algemene vragen",
+        "2": "Vragen over levering",
+        "3": "Vragen over betalingen"
+      },
+      "q": {
+        "1": {
+          "title": "Waarom zou ik voor ROYALFUT kiezen?"
+        },
+        "2": {
+          "content": {
+            "1": "Munten zijn de eerste keuze van de meeste EA Sports FC-spelers over de hele wereld vanwege hun lage kosten en de mogelijkheid om ze veel voordeliger uit te geven voor je FC Ultimate Team-club. Je kunt Ultimate Team-munten uitgeven aan in-game-items die door andere spelers op de transfermarkt zijn geplaatst. Dit kunnen spelerskaarten, coachkaarten, uniformkits, stadions, verbruiksartikelen en meer zijn. En het allerbelangrijkste: geen van deze kan worden gekocht met FC-punten. Met FC-punten kun je pakketten kopen in de FC Ultimate Team-winkel en krijg je toegang tot de FC Ultimate Team Drafts. Je kunt beide dingen echter ook doen met munten. In termen van echt geld is het meer dan 5 keer goedkoper om in-game te winkelen met EAS FC-munten in plaats van FC-punten. Begin met winkelen voor munten bij ons en ontdek het zelf 😉",
+            "2": "Je kunt {fc} Ultimate Team Coins uitgeven aan in-game items die door andere spelers op de Transfer Market zijn geplaatst. Dit kunnen spelerskaarten, coachkaarten, uniformen, stadions, verbruiksartikelen en meer zijn. En het allerbelangrijkste: geen van deze items kan met FC Points worden gekocht.",
+            "3": "Met FC Points kun je packs kopen in de {fc} Ultimate Team store en krijg je toegang tot de {fc} Ultimate Team Drafts. Je kunt beide dingen echter ook doen met munten. In termen van echt geld is het meer dan 5 keer goedkoper om in-game te winkelen met {fc} Ultimate Team munten in plaats van FC Points. Begin met winkelen voor munten bij ons en zie het zelf 😉"
+          },
+          "title": "Wat zijn de voordelen van het kopen van EAS FC-munten ten opzichte van FC-punten?"
+        },
+        "3": {
+          "content": "Ja, die zijn er. U ontvangt speciale aanbiedingen zodra wij merken dat u regelmatig bij ons koopt. En we hebben ook een transparant loyaliteitsprogramma in de maak. Blijf op de hoogte van de updates!",
+          "title": "Zijn er speciale aanbiedingen voor vaste klanten?"
+        }
+      }
+    }
+  },
+  "alex_pages": {
+    "faq": {
+      "acc": {
+        "q": {
+          "1": {
+            "content": "<content>Er zijn verschillende redenen hiervoor die u na de eerste aankoop zeker zelf zult ontdekken:</content><list><listItem> Een groot aantal beoordelingen van tevreden klanten die te vinden zijn<link> hier.</link></listItem><listItem> De absolute veiligheid van uw account staat altijd voorop en we garanderen dat u het volledige aankoopbedrag terugkrijgt als uw bestelling om welke reden dan ook niet wordt geleverd.</listItem><listItem> De kortste levertijden: bij ons vergeet u de lange wachttijden totdat uw bestelling is voltooid.</listItem><listItem> Ons supportteam staat altijd klaar om u te helpen bij het oplossen van eventuele problemen, zowel vóór als ná de aankoop. Dit kan via de livechat of op een andere manier naar keuze (WhatsApp, Telegram, Instagram direct of e-mail).</listItem></list>"
+          },
+          "2": {
+            "content": "<content>Munten zijn de eerste keuze van de meeste EA Sports FC-spelers over de hele wereld vanwege hun lage kosten en de mogelijkheid om ze veel voordeliger uit te geven voor je FC Ultimate Team-club. Je kunt Ultimate Team-munten uitgeven aan in-game-items die door andere spelers op de transfermarkt zijn geplaatst. Dit kunnen spelerskaarten, coachkaarten, uniformkits, stadions, verbruiksartikelen en meer zijn. En het allerbelangrijkste: geen van deze kan worden gekocht met FC-punten. Met FC-punten kun je pakketten kopen in de FC Ultimate Team-winkel en krijg je toegang tot de FC Ultimate Team Drafts. Je kunt beide dingen echter ook doen met munten. In termen van echt geld is het meer dan 5 keer goedkoper om in-game te winkelen met EAS FC-munten in plaats van FC-punten. Begin met winkelen voor munten bij ons en ontdek het zelf 😉</content><content> Je kunt {fc} Ultimate Team Coins uitgeven aan in-game items die door andere spelers op de Transfer Market zijn geplaatst. Dit kunnen spelerskaarten, coachkaarten, uniformen, stadions, verbruiksartikelen en meer zijn. En het allerbelangrijkste: geen van deze items kan met FC Points worden gekocht.</content><content> Met FC Points kun je packs kopen in de {fc} Ultimate Team store en krijg je toegang tot de {fc} Ultimate Team Drafts. Je kunt beide dingen echter ook doen met munten. In termen van echt geld is het meer dan 5 keer goedkoper om in-game te winkelen met {fc} Ultimate Team munten in plaats van FC Points. Begin met winkelen voor munten bij ons en zie het zelf 😉</content>"
+          },
+          "3": {
+            "content": "<content>Dat hangt af van de verzendmethode die u kiest.</content><content> We tonen de geschatte levertijd voor Comfort Trade bestellingen vóór betaling op de afrekenpagina. Als alle gegevens die u hebt ingediend correct zijn en uw account volledig gereed is voor coin transfer, dan zal de bestelling gemiddeld binnen 15-20 minuten worden afgerond. Houd er echter rekening mee dat de levertijd voornamelijk afhankelijk is van de hoeveelheid bestelde coins.</content><content> Wat betreft de Player Auction-bezorgmethode, de timing van deze optie hangt volledig van u af. De overdracht van munten wordt uitgevoerd door het kopen en verkopen van spelerskaarten. Het duurt gemiddeld 3-10 kaarten die door ons systeem worden voorgesteld om door u te worden gekocht en verkocht voordat de bestelling met deze methode wordt voltooid. Maar houd er rekening mee dat uw beginsaldo een belangrijke rol speelt in dit scenario: hoe groter het is, hoe sneller de levering wordt verwerkt, dus probeer het zo hoog mogelijk te maken voordat u een bestelling plaatst, u kunt bijvoorbeeld ongewenste kaarten verkopen.</content>"
+          },
+          "4": {
+            "content": "Ga naar de afrekenpagina."
+          },
+          "5": {
+            "content": "Ja, die zijn er. U ontvangt speciale aanbiedingen zodra wij merken dat u regelmatig bij ons koopt. En we hebben ook een transparant loyaliteitsprogramma in de maak. Blijf op de hoogte van de updates!"
+          },
+          "6": {
+            "content": "<list><listItem>Zorg ervoor dat uw transfermarkt in de FC Ultimate Team-webapp is ontgrendeld</listItem><listItem> Houd minimaal 5000 munten op uw UT-clubbalans</listItem><listItem> Maak zoveel mogelijk ruimte vrij in uw Transferlijst en Transferdoelenlijst</listItem><listItem> Wijs alle niet-toegewezen items, indien u die heeft, toe aan uw club</listItem></list>"
+          },
+          "8": {
+            "title": "Welke stappen moet ik ondernemen om een bestelling te plaatsen en de gekochte munten te ontvangen?"
+          },
+          "9": {
+            "title": "Welke gegevens moet ik doorgeven om het leveringsproces van mijn bestelling te starten?"
+          },
+          "10": {
+            "title": "Hoe beschermt ROYALFUT mijn persoonlijke gegevens?"
+          },
+          "11": {
+            "title": "Hoe schakel ik inlogverificatie in voor mijn EA-account?"
+          },
+          "12": {
+            "title": "Ik weet het e-mailadres van mijn EA-account niet meer. Waar kan ik het vinden?"
+          },
+          "13": {
+            "title": "Ik ben het wachtwoord van mijn EA-account vergeten. Hoe kan ik het opnieuw instellen?"
+          },
+          "14": {
+            "title": "Hoe kan ik de back-upcodes van mijn EA-account ophalen?"
+          },
+          "15": {
+            "title": "In welke landen bent u actief?"
+          },
+          "16": {
+            "title": "Welke betaalmethoden zijn beschikbaar op uw website?"
+          },
+          "17": {
+            "title": "Hoe kan ik mijn bestelling terugbetalen?"
+          },
+          "18": {
+            "title": "Kopen jullie ook munten van gebruikers?"
+          }
+        }
+      }
+    }
+  },
+  "drew_pages": {
+    "faq": {
+      "acc": {
+        "q": {
+          "7": {
+            "content": "<content>Transfermarkt is ontgrendeld</content><content> Transfermarkt is gesloten</content>"
+          },
+          "8": {
+            "content": "<list><listItem>Kies uw platform en het gewenste aantal munten</listItem><listItem> Betaal voor uw bestelling.</listItem><listItem> Na een succesvolle betaling moet u uw EA-accountgegevens invullen in de desbetreffende invoervelden en op de knop \"Wijzigingen opslaan\" klikken</listItem><listItem> Als de ingediende gegevens correct zijn en er geen andere problemen met uw account optreden, start het geautomatiseerde leveringsproces waarbij u NIET moet inloggen op FC Ultimate Team, noch op uw console / pc, noch op andere apparaten via FC Web App / Companion. Zodra de levering van uw munten is voltooid, wordt de status van uw bestelling gewijzigd in \"Afgerond\" en wordt u hierover ook per e-mail op de hoogte gesteld. U kunt meer informatie over het hele proces vinden in de onderstaande video. <button>Meer informatie</button></listItem><listItem> Dat is alles, voel je vrij om weer in te loggen op Ultimate Team en de munten uit te geven! En als je genoten hebt van je verblijf bij ROYALFUT, vergeet dan niet om een review voor ons achter te laten op Trustpilot.review voor ons op Trustpilot.</listItem></list><content> Mocht u vragen hebben of op enig moment hulp nodig hebben, neem dan gerust contact op met ons ondersteuningsteam via livechat of op een andere manier naar keuze (WhatsApp, Telegram, Instagram Direct of e-mail).</content>"
+          },
+          "9": {
+            "content": "Alleen uw EA-account e-mail, wachtwoord en back-upcodes. U hoeft uw EA-ID en PSN/Xbox-accountgegevens of andere details niet te delen."
+          },
+          "10": {
+            "content": "<content>Het beheer van het project beschermt de informatie die via de website wordt verzonden tegen hacking en diefstal op basis van ons strikte privacybeleid en managementsysteem. Wij delen uw EA-accountgegevens, gegevens van betaalpassen, enz. onder GEEN ENKELE omstandigheid met derden! Lees meer op onze</content><link> Privacybeleidpagina.</link>"
+          },
+          "11": {
+            "content": "<list><listItem>Open de pagina met EA-accountinstellingen</listItem><listItem> Beveiliging > Inlogverificatie > Inschakelen > Code verzenden > Inlogverificatie inschakelen</listItem></list>"
+          },
+          "12": {
+            "content": "<list><listItem>Open het spel en ga naar het hoofdmenu.</listItem><listItem> Aanpassen > Online-instellingen > EA-account.</listItem></list>"
+          },
+          "13": {
+            "content": "<list><listItem>Ga naar de inlogpagina van uw EA-account.</listItem><listItem> Inloggen > Wachtwoord vergeten? > Volgende > Code verzenden > Volgende > Verzenden.</listItem></list>"
+          },
+          "14": {
+            "content": "<content>Je kunt je back-upcodes vinden in de instellingen van je EA-account. Hier is de link die je er direct naartoe brengt:</content><link> https://myaccount.ea.com/cp-ui/security/index</link>"
+          },
+          "15": {
+            "content": "Wij zijn wereldwijd actief en accepteren betalingen uit alle regio's, met uitzondering van rechtsgebieden met een hoog risico, zoals Afghanistan, Noord-Korea, Syrië, de Republiek van de Krim en andere."
+          },
+          "16": {
+            "content": "<content>De lijst met betaalmethoden die we ondersteunen wordt voortdurend bijgewerkt, omdat we ernaar streven de ervaring van gebruikersinteractie met onze service te verbeteren. Op dit moment accepteren we de volgende betaalmethoden:</content><list><listItem> VISA, MasterCard, Maestro, Discover, DinnersClub, JCB en UnionPay-kaarten.</listItem><listItem> Contactloos betalen via Apple Pay en Google Pay.</listItem><listItem> Bankoverschrijving via de meeste EU-banken, iDeal en andere.</listItem><listItem> Cryptovaluta: Bitcoin, USD Tether, Etherium.</listItem></list>"
+          },
+          "17": {
+            "content": "Als je succesvol hebt betaald voor je bestelling, maar om een of andere reden geen munten meer nodig hebt, kun je een volledige terugbetaling aanvragen. Om dat te doen, moet je contact opnemen met onze Support Service via live chat of een andere manier naar keuze (WhatsApp, Telegram, Instagram Direct of e-mail)."
+          },
+          "18": {
+            "content": "Het is niet ons hoofddoel, maar soms doen we, kunt u contact opnemen met onze manager via Skype of per Telegram en wij overwegen uw aanbod."
+          }
+        }
+      }
+    }
+  }
+}

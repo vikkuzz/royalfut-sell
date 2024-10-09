@@ -1,0 +1,860 @@
+{
+  "default": {},
+  "car_home": {
+    "carousel": {
+      "promo": {
+        "4": {
+          "desc": "Ultimate Team'in en çok arzulanan oyuncuları sonunda sizin olacak. Her FC UT promosyonundan arzu edilen kartları toplamaya başlayın ve kendinizi asla mahrum etmeyin!",
+          "title": "İstediğiniz kartı alın"
+        },
+        "5": {
+          "desc": "Sinir bozucu coin farmını unutun ve değerli zamanınızı gerçekten önemli olan şeye, yani oyunun kendisine harcamaya başlayın!",
+          "title": "Şimdi oynayın - jetonları öğütmekle zamanınızı boşa harcamayın"
+        },
+        "action": {
+          "title": "Madeni para satın al"
+        }
+      }
+    },
+    "coins": {
+      "options": {
+        "1": {
+          "desc": "En sofistike müşteriler bile satın alma bonusundan memnun kalacak. Hemen alın!",
+          "title": "Madeni para desteleri"
+        },
+        "2": {
+          "desc": "Arkadaşlarımızın yepyeni aracıyla çokça zamandan tasarruf etmeye başlayın!",
+          "title": "SBC Solver'ı indirimli bir oranda deneyin"
+        },
+        "title": "Bu seçenekleri de deneyin"
+      }
+    },
+    "delivery": {
+      "process": {
+        "card": {
+          "1": {
+            "desc": "Platformunuzu ve istediğiniz coin miktarını seçin, ardından siparişinizin ödemesini yapın.",
+            "title": "Sipariş ver"
+          },
+          "2": {
+            "desc": "Ödemeniz başarıyla tamamlandıktan sonra Sipariş Geçmişi sayfasına gidin, siparişinizi bulun ve teslimat sürecini başlatmak için gerekli işlemleri tamamlayın.",
+            "title": "Teslimatı başlatın"
+          },
+          "3": {
+            "desc": "Siparişiniz tamamlandıktan sonra paralarınızı dilediğiniz gibi harcayabilir ve tekrar doldurmanız gerektiğinde bize geri dönebilirsiniz.",
+            "title": "Satın alma işleminizin tadını çıkarın"
+          }
+        },
+        "desc": "Yardıma mı ihtiyacınız var? Destek Ekibimizle istediğiniz zaman iletişime geçin"
+      }
+    }
+  },
+  "li_home": {
+    "delivery": {
+      "process": {
+        "title": "Teslimat süreci"
+      }
+    },
+    "faq": {
+      "q": {
+        "1": {
+          "content": "<content>Bunun birkaç nedeni var ve bunları ilk satın alımınızdan sonra mutlaka kendiniz de keşfedeceksiniz:</content><list><listItem> Memnun müşteriler tarafından yazılmış çok sayıda yorum bulunmaktadır.<link> Burada.</link></listItem><listItem> Hesabınızın mutlak güvenliği her zaman ön plandadır ve siparişinizin herhangi bir nedenle teslim edilmemesi durumunda tam para iadesi garantisi vardır.</listItem><listItem> En kısa teslimat süreleri — Bizimle siparişinizin tamamlanması için yaşadığınız uzun bekleme sürelerini unutacaksınız.</listItem><listItem> Destek ekibimiz, satın alma öncesi ve sonrasında, canlı sohbet veya tercih ettiğiniz başka bir yol (WhatsApp, Telegram, Instagram direct veya e-posta) aracılığıyla karşılaşabileceğiniz her türlü sorunu çözmenize yardımcı olmak için her zaman hazırdır.</listItem></list>"
+        }
+      }
+    },
+    "heading": {
+      "1": {
+        "1": "Satın almak için en güvenli seçenek ",
+        "2": "FC 24 Madeni Paralar"
+      }
+    },
+    "infographic": {
+      "stats": {
+        "desc": {
+          "1": "bu alanda yılların deneyimi",
+          "2": "müşterilerimizin hesaplarına aktarılan paralar",
+          "3": "siparişler başarıyla teslim edildi",
+          "4": "hizmetimizi deneyen oyuncular",
+          "5": "en az iki kez satın alma işlemi gerçekleştiren geri dönen müşterilerin",
+          "6": "Anket sonuçlarına göre müşteri memnuniyet oranı"
+        }
+      }
+    },
+    "loyalty": {
+      "program": {
+        "overview": {
+          "action": {
+            "primary": "Madeni Paralar Satın Al",
+            "sec": "Daha fazla bilgi edin"
+          },
+          "desc": "Her satın alma sizi futbol harikalarının dünyasına fırlatır! Satın alma, kazanma, harcama ve yeni seviyelere ulaşma dolu heyecan verici bir dijital maceraya atılın!",
+          "stats": {
+            "1": "Zaten Sadakat Programımıza katılan kullanıcılar",
+            "2": "Müşterilerimiz tarafından ROYAL Puanları zaten kazanıldı"
+          },
+          "steps": {
+            "1": {
+              "desc": "Oyun deneyiminizi bir üst seviyeye taşımak ve Ultimate Team potansiyelinizi tam olarak ortaya çıkarmak için parlak paralar edinin!",
+              "title": "Madeni Paralar Satın Al"
+            }
+          }
+        }
+      }
+    }
+  },
+  "pi_cookie": {
+    "widget": {
+      "action": {
+        "1": "Kabul etmek",
+        "2": "Tümünü reddet"
+      },
+      "checkbox": {
+        "1": "Gerekli",
+        "2": "Analitik"
+      },
+      "details": "Bu web sitesi işlevselliği optimize etmek ve keyifli bir tarama deneyimi sunmak için çerezler kullanır. Gizliliğinizin saygı gördüğünden ve çerez onayı üzerinde kontrole sahip olduğunuzdan emin olarak web sitemizi keşfetmekten çekinmeyin.<link> Çerez Politikası</link> ."
+    }
+  },
+  "pi_home": {
+    "loyalty": {
+      "program": {
+        "overview": {
+          "steps": {
+            "2": {
+              "desc": "Web sitemizden her jeton satın aldığınızda ROYAL Puanları toplayın ve yeni Sadakat Seviyelerine ulaşarak ek avantajların kilidini açın.",
+              "title": "ROYAL Puanları Kazanın"
+            },
+            "3": {
+              "desc": "ROYAL Puanlarınızı gelecekteki alışverişlerinizde kullanın ve jetonlarınızı indirimli olarak doldurmanın keyfini çıkarın!",
+              "title": "Geri Ödemenizi Harcayın"
+            }
+          },
+          "title": "Sadakat Programımız nasıl çalışır?"
+        }
+      }
+    },
+    "promotional": {
+      "offer": {
+        "fc24": {
+          "description": "{fc} coin öğütmekten sıkıldıysanız sizin için mükemmel düşük maliyetli bir çözümümüz var! Bu alanda uzun yıllara dayanan deneyime sahip en güvenilir EA FC coin mağazası olan <b>ROYALFUT.com</b> ile tanışın. En iyi puan alan bu pazar yeri, çevrimiçi olarak {fifa} coin'leri için en düşük fiyatları sunar ve hesabınızın hızlı teslimatını ve %100 güvenliğini garanti edebilir. ROYALFUT'tan FC coin satın almak, oyununuzu hiçbir tatsız sonuç riski olmadan daha da keyifli hale getirmenize yardımcı olmak söz konusu olduğunda en uygun fiyatlı ve meşru seçenektir. Bu mağazada bulabileceğiniz düzenli Ultimate Team coin fırsatları, zaten düşük olan fiyatları düşürerek oyun içi işlemleri en karlı şekilde yapmanızı sağlar. ROYALFUT platformu, satışa sunulan FUT coin'leri konusunda yalnızca %100 güvenilir olmakla kalmaz, aynı zamanda sahip olabileceğiniz herhangi bir soru veya sorunda size her zaman yardımcı olacak harika müşteri desteğiyle de bilinir. Günümüzde meşru bir {ut} coin mağazası bulmak oldukça nadirdir ancak <b>ROYALFUT.com</b> şüphesiz bunlardan biridir. PC, PS4, PS5, Xbox One, Xbox Series X veya Xbox Series S için %100 güvenli ödeme ve anında teslimatla Ultimate Team jetonları satın almak istiyorsanız burası kesinlikle sizin için en iyi yer.\n"
+        }
+      }
+    },
+    "trustpilot": {
+      "reviews": {
+        "action": "Madeni Paralar Satın Al",
+        "count": "Temel alınarak<highlight> {amount} inceleme</highlight>",
+        "rate": "Harika",
+        "rating": "Derecelendirme {amount} / {max}\n",
+        "title": "Müşterilerimizin Söyledikleri",
+        "verified": "Doğrulanmış şirket"
+      }
+    }
+  },
+  "vpr_auth": {
+    "validation": {
+      "invalidEmail": "Geçersiz e-posta adresi."
+    }
+  },
+  "vpr_home": {
+    "benefit": {
+      "1": {
+        "desc": "Takımımız ilk olarak FIFA 17 sezonunda kuruldu. O zamandan beri müşterilerimize 100 milyardan fazla jeton transfer ettik, dünya çapında 60 binden fazla kulüp bizden jeton dolumu aldı ve en az 10 mağaza jeton transfer algoritmamızı kullanıyor.",
+        "title": "Uzun yıllara dayanan deneyim"
+      },
+      "2": {
+        "desc": "Ana hedefimiz, FUT kulüp bakiyenizi doldurmak için en güvenli seçeneği size sunmaktır. Jeton transfer algoritmamızı sürekli olarak geliştiriyoruz, harekete geçmesi için onay vermeden önce binlerce hesabımızda test ediyoruz.",
+        "title": "Güvenli ve güvenilir"
+      },
+      "3": {
+        "desc": "Zamanınıza değer veriyoruz, bu nedenle web sitemizin arayüzü ve müşteri destek hizmetimizin kalitesi gibi yönlerini sürekli olarak iyileştirmeye her zaman kararlıyız, böylece bizimle olan alışveriş deneyiminizin olabildiğince sorunsuz geçmesini sağlıyoruz.",
+        "title": "Yüksek hizmet seviyesi"
+      },
+      "4": {
+        "desc": "Piyasadaki en düşük fiyatlardan birini sunuyoruz, düzenli müşterilerimiz için fiyat daha da düşük!",
+        "title": "Uygun fiyatlandırma"
+      }
+    },
+    "calc": {
+      "panel": {
+        "action": {
+          "1": "Çıkış yapmak"
+        },
+        "info": {
+          "ccy": "Toplam fiyat"
+        }
+      }
+    },
+    "carousel": {
+      "promo": {
+        "1": {
+          "desc": "Cephaneliğinizdeki en iyi oyuncu kartlarıyla oynamak, en üst sıralara ulaşma ve en büyük ödüllere sahip olma yolunda zafere giden düz bir yoldur. Her şey sizin elinizde!",
+          "title": "En yüksek rütbelere ulaşın"
+        },
+        "2": {
+          "desc": "EA Sports FC 24 Coins ile takımınızdaki her pozisyon için mümkün olan en iyi seçenekleri seçmekte özgürsünüz. Hayal gücünüzü serbest bırakın, yeni şeyler deneyin, deneyler yapın!",
+          "title": "Rüya Takımınızı şimdi kurun"
+        },
+        "3": {
+          "desc": "Ultimate Team'de oyun tarzını etkileyen farklı PlayStyles+ kombinasyonlarına sahip en iyi oyuncuları kullanarak yeni deneyimler yaşayın.",
+          "title": "Yüksek puanlı kartları kullanarak oyun içi daha fazla özelliği keşfedin"
+        }
+      }
+    }
+  },
+  "ye_user": {
+    "action": {
+      "logOut": "Çıkış Yap"
+    },
+    "bar": {
+      "nav": {
+        "1": {
+          "1": "Sipariş geçmişi",
+          "2": "Ayarlar",
+          "3": "Sadakat programı",
+          "title": "Profil"
+        }
+      }
+    }
+  },
+  "ye_default": {
+    "trustScore": {
+      "reviewsAmount": "{amount} inceleme"
+    }
+  },
+  "ye_profile": {
+    "action": {
+      "logOut": "Çıkış Yap"
+    },
+    "title": {
+      "account": "Hesabınız"
+    }
+  },
+  "ye_footer": {
+    "nav": {
+      "1": {
+        "1": "Teslimat",
+        "2": "Ödeme",
+        "3": "Şartlar ve koşullar",
+        "4": "Gizlilik Politikası",
+        "5": "Çerez Politikası"
+      }
+    },
+    "title": {
+      "contacts": "İletişim",
+      "nav": {
+        "1": "Platform",
+        "2": "Bilgi"
+      },
+      "socials": "Sosyal ağlarımız"
+    }
+  },
+  "cs_home": {
+    "carousel": {
+      "promo": {
+        "1": {
+          "title": "En yüksek rütbelere ulaşın"
+        },
+        "2": {
+          "desc": "EA Sports FC 24 Coins ile takımınızdaki her pozisyon için mümkün olan en iyi seçenekleri seçmekte özgürsünüz. Hayal gücünüzü serbest bırakın, yeni şeyler deneyin, deneyler yapın!",
+          "title": "Rüya Takımınızı şimdi kurun"
+        },
+        "3": {
+          "desc": "Ultimate Team'de oyun tarzını etkileyen farklı PlayStyles+ kombinasyonlarına sahip en iyi oyuncuları kullanarak yeni deneyimler yaşayın.",
+          "title": "Yüksek puanlı kartları kullanarak oyun içi daha fazla özelliği keşfedin"
+        },
+        "4": {
+          "desc": "Ultimate Team'in en çok arzulanan oyuncuları sonunda sizin olacak. Her FC UT promosyonundan arzu edilen kartları toplamaya başlayın ve kendinizi asla mahrum etmeyin!",
+          "title": "İstediğiniz kartı alın"
+        },
+        "5": {
+          "desc": "Sinir bozucu coin farmını unutun ve değerli zamanınızı gerçekten önemli olan şeye, yani oyunun kendisine harcamaya başlayın!",
+          "title": "Şimdi oynayın - jetonları öğütmekle zamanınızı boşa harcamayın"
+        },
+        "action": {
+          "title": "Madeni para satın al"
+        }
+      }
+    },
+    "coins": {
+      "options": {
+        "1": {
+          "desc": "En sofistike müşteriler bile satın alma bonusundan memnun kalacak. Hemen alın!",
+          "title": "Madeni para desteleri"
+        },
+        "2": {
+          "desc": "Arkadaşlarımızın yepyeni aracıyla çokça zamandan tasarruf etmeye başlayın!",
+          "title": "SBC Solver'ı indirimli bir oranda deneyin"
+        },
+        "title": "Bu seçenekleri de deneyin"
+      }
+    },
+    "delivery": {
+      "process": {
+        "card": {
+          "1": {
+            "desc": "Platformunuzu ve istediğiniz coin miktarını seçin, ardından siparişinizin ödemesini yapın.",
+            "title": "Sipariş ver"
+          }
+        }
+      }
+    }
+  },
+  "kelly_profile": {
+    "orders": {
+      "amount": "Miktar",
+      "failed_description": "Lütfen tekrar deneyin veya sorun devam ederse ödeme yöntemini değiştirin",
+      "failed_title": "Ödeme başarısız oldu",
+      "make": "Ödeme yapın",
+      "no_club": "UT Kulübü Algılanamadı",
+      "no_club_description": "Siparişinizi işlemeye başlayabilmemiz için kulübünüzün {fc} Web Uygulamasında kurulu olduğundan emin olun",
+      "not_enough": "Yeterli para yok",
+      "not_enough_description": "Teslimat sürecine başlayabilmemiz için Ultimate Team Club bakiyenizde en az 5000 jeton olduğundan emin olun.",
+      "no_tm": "{fc} Web Uygulamasında TM Yok",
+      "no_tm_description": "Siparişinizi işlemeye başlayabilmemiz için {fc} Web Uygulamasında Transfer Pazarına erişiminiz olduğundan emin olun",
+      "resume": "Teslimatı sürdür",
+      "retry": "Ödemeyi tekrar deneyin",
+      "status": "Durum",
+      "unpaid": "Ödenmemiş",
+      "unpaid_description": "Bu sipariş için henüz ödeme yapılmadı",
+      "wrong_description": "Hesabınızda seçtiğiniz platformla ilişkili bir Ultimate Team kulübü bulunmuyor, lütfen doğru hesabın ayrıntılarını gönderin veya platformu değiştirmek için Destek ekibiyle iletişime geçin.",
+      "wrong_platform": "Yanlış platform"
+    }
+  },
+  "sky_profile": {
+    "orders": {
+      "backup_description": "Bize sağladığınız yedek kodlar yanlış, süresi dolmuş veya yanlış bir hesaptan alınmış olabilir, doğru olanları gönderdiğinizden emin olun.",
+      "continue": "Transferi Devam Ettir",
+      "details": "EA hesap bilgilerinizi girin",
+      "details_description": "Teslimat sürecini başlatmak için lütfen aşağıdaki formu kullanarak EA hesap bilgilerinizi girin.",
+      "finished_description": "Ultimate Team'e tekrar giriş yapıp jetonlarınızın tadını çıkarabilirsiniz!",
+      "finished_title": "Bitti",
+      "in_progress": "Teslimat Devam Ediyor",
+      "in_progress_description": "Sipariş tamamlanana kadar Ultimate Team'i hesabınızda kapalı tuttuğunuzdan emin olun",
+      "list_full_description": "Teslimat sürecine başlayabilmemiz için Transfer Listenizi temizlediğinizden emin olun.",
+      "list_full_title": "Transfer listesi dolu",
+      "login_disabled": "Giriş doğrulaması devre dışı bırakıldı",
+      "login_disabled_description": "EA hesap ayarlarınızda Giriş Doğrulamasını etkinleştirdiğinizden emin olun",
+      "queue": "Sırada Sipariş",
+      "queue_description": "Konsolunuzda/PC'nizde ve diğer cihazlarınızda FC Ultimate Team Web Uygulaması/FC Companion aracılığıyla Ultimate Team'den çıkış yaptığınızdan emin olun",
+      "resubmit": "Kodları Yeniden Gönder",
+      "submit": "Ayrıntıları gönder",
+      "wrong_backup": "Yanlış Yedekleme Kodları"
+    }
+  },
+  "add_profile": {
+    "orders": {
+      "cancelled": "İptal edildi",
+      "cancelled_description": "Siparişiniz isteğiniz üzerine iptal edildi",
+      "items": "Atanmamış Öğeler",
+      "items_description": "Ultimate Team kulübünüzde Atanmamış Öğeleriniz var, teslimat sürecine başlayabilmemiz için bunları atadığınızdan emin olun",
+      "online": "Web Uygulamasında Çevrimiçi",
+      "online_description": "Teslimata devam edebilmemiz için {fc} Web Uygulaması / FC Companion Uygulamasından çıkış yapın",
+      "signed": "Oturum Açıldı",
+      "signed_description": "Teslimata devam edebilmemiz için hesabınızdan çıkış yapın",
+      "undefined_description": "Lütfen destek ekibiyle iletişime geçin",
+      "unexpected": "Beklenmeyen Hata",
+      "unexpected_description": "Sipariş oluşturma hatası: Lütfen destek ekibiyle iletişime geçin",
+      "unknown": "Bilinmeyen Hata",
+      "wrong_cred": "Yanlış E-posta/Şifre",
+      "wrong_cred_description": "Herhangi bir yazım hatası yapmadığınızdan ve EA hesabınızın ayrıntılarını gönderdiğinizden, başka hiçbir hesabın (PSN, Xbox ağı vb.) göndermediğinizden emin olun."
+    }
+  },
+  "chris_coinBundles": {
+    "calc": {
+      "title": "Kendi miktarınızı seçin"
+    },
+    "coinCard": {
+      "action": "Şimdi al"
+    },
+    "coinsAmount": {
+      "h1": "{fc} Ultimate Team paraları",
+      "h2": {
+        "1": "Bizden neler alacaksınız:"
+      },
+      "list": {
+        "3": {
+          "item": {
+            "1": "UT kulübünüzde {amount} k jeton"
+          }
+        }
+      },
+      "p1": "Piyasadaki en güvenli tedarikçiden - ROYALFUT Mağazasından çevrimiçi EA {fc} coin satın alın. FIFA Ultimate Team ürünlerini satmak 7 yıldan uzun süredir uzmanlık alanımızdır. Amacımız müşterilerimizin en iyi fırsatları ve en güvenli FC UT coin transferlerini almasını sağlamaktır. ROYALFUT, kullanıcı dostu arayüzü, güvenli ödeme seçenekleri ve olağanüstü müşteri hizmetiyle rahat ve keyifli bir alışveriş deneyimi sunar.",
+      "p2": "Burada yalnızca {price} {currency} karşılığında {amount} k FC coin satın alabilirsiniz. Sipariş verildikten sonra hem konsolunuzda / PC'nizde hem de FC Web Uygulaması / Companion aracılığıyla diğer cihazlarınızda Ultimate Team'den çıkış yaptığınızdan emin olun. {amount} k coin {timeValue} {time} içinde hesabınıza aktarılacaktır."
+    },
+    "h1": "Paket teklifleri",
+    "noticePanel": "Bu miktarla piyasadaki herhangi bir kartı satın alabilirsiniz. Rüya takımınızı tamamlayın!",
+    "optionCard": {
+      "desc": "Arkadaşlarımızın yepyeni aracıyla zamandan tasarruf etmeye başlayın!",
+      "title": "SBC Solver'ı indirimli bir oranda deneyin"
+    },
+    "platform": "Platform"
+  },
+  "chris_profile": {
+    "orders": {
+      "get_backup": "Yedek kodları buradan alabilirsiniz:",
+      "goback": "Ana sayfaya geri dön",
+      "noorders": "Henüz herhangi bir sipariş vermediniz",
+      "noorders_text": "Bu bölüm, siparişinizi tamamladıktan sonra sipariş geçmişinizi içerecektir.",
+      "recom": "En az 2-3 yedek kod göndermenizi öneririz"
+    }
+  },
+  "bailey_coinsAmount": {
+    "guaranteesCard": {
+      "1": "%100 Güvenli Ödemeler",
+      "2": "{timeValue} {time} Teslimat Süresi",
+      "3": "Geri Ödeme İçin Uygunluk"
+    },
+    "h2": {
+      "2": "Sizden neye ihtiyacımız olacak?",
+      "3": "Müşterilerimizin Söyledikleri",
+      "4": "Sıkça Sorulan Sorular",
+      "5": "Ayrıca bakınız"
+    },
+    "list": {
+      "2": {
+        "item": {
+          "1": {
+            "strong": "EA hesabınıza erişim",
+            "text": "— PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Seris X konsolları veya PC için lisanslı bir EA Sports {fc} kopyanız varsa (fiziksel CD olarak veya EA Uygulaması, Steam veya Epic Games Store üzerinden dijital olarak satın alınmışsa), şanslısınız çünkü bu noktadan itibaren sistemimizin Ultimate Team kulübünüze başarılı bir şekilde erişmeniz için sizden istediği tek şey e-posta adresi, parola ve birkaç yedek koddan oluşan EA hesap bilgilerinizdir. Ancak endişelenmeyin, verilerinizi saklamıyoruz, her sipariş tamamlandıktan sonra siliniyor."
+          },
+          "2": {
+            "strong": "Kilidi Açılmış Transfer Pazarı",
+            "text": "— Kulübünüzü jeton teslimatına hazırlamada en önemli şeylerden biri, Web Uygulamasında Transfer Pazarına erişiminizin olduğundan emin olmaktır, ancak hala kilidi açılmadıysa, günde 3 tam Ultimate Team maçı oynamaya başlamanız ve size erişim sağlanana kadar günlük olarak FC Web Uygulaması / Companion'ı ziyaret etmeniz gerekir."
+          },
+          "3": {
+            "strong": "UT kulüp bakiyenizde en az 5000 jeton",
+            "text": "— bu miktarla teslimat sistemimiz transferi başlatabilecektir. Kulüp bakiyeniz bu gereksinimi karşılamıyorsa, Transfer Pazarında listeleyerek veya Hızlı Satış seçeneğini kullanarak bazı alınıp satılabilir öğeleri satabilirsiniz. Ve elbette sadece birkaç maç oynayarak her zaman jeton kazanabilirsiniz. Ve unutmayın, daha yüksek başlangıç bakiyesi daha hızlı teslimat süreciyle sonuçlanır."
+          }
+        }
+      },
+      "3": {
+        "item": {
+          "2": "EA Vergisi (%5) kapsamı;",
+          "3": "Hesabınızın %100 güvenliği."
+        }
+      }
+    }
+  },
+  "skyler_pages": {
+    "card": {
+      "button": {
+        "1": "Madeni para satın al",
+        "2": "Ana Sayfaya Git"
+      },
+      "title": "Şşşş... Madeni para mı arıyorsun?"
+    },
+    "faq": {
+      "h1": "Sıkça Sorulan Sorular",
+      "nav": {
+        "items": {
+          "1": "Genel sorular",
+          "2": "Teslimatla ilgili sorular",
+          "3": "Ödemelerle ilgili sorular"
+        }
+      }
+    },
+    "rated": {
+      "button": "Bizi derecelendirin",
+      "h1": "{rate} / 5 olarak derecelendirildi",
+      "p": {
+        "1": {
+          "link": "İncelemeler",
+          "text": "Temel alınarak"
+        }
+      }
+    },
+    "reviews": {
+      "h1": "İncelemeler",
+      "p1": "Benzersiz bir {fifa} coin teslimat sistemi sunar. Rekor sayıda coin tedarikçisiyle iş birliği yapıyoruz. Siparişinizi yerine getirirken, EA'dan hesabınıza hiçbir yaptırım uygulanmayacağını garanti eden özel kurallar kullanırız. Bu kurallardan bazılarını aşağıda görebilirsiniz"
+    }
+  },
+  "jordan_pages": {
+    "cookie": {
+      "h1": "Çerez Politikası",
+      "h2": {
+        "1": "Çerezler hakkında",
+        "2": "Hangi tür çerezleri kullanıyoruz?"
+      },
+      "h3": {
+        "1": "Gerekli çerezler"
+      },
+      "p": {
+        "1": "Bu web sitesini kullanarak ve bu politikayı kabul ederek, çerezleri bu politikanın şartlarına uygun şekilde kullanmamıza izin vermiş olursunuz.",
+        "2": "Çerezler, bir web sitesinin sunucusu tarafından bilgisayarınıza veya mobil cihazınıza depolanan basit metin dosyalarıdır. Her çerez, web tarayıcınız için benzersizdir. Benzersiz bir tanımlayıcı, web sitesinin alan adı ve bazı rakamlar ve sayılar gibi bazı anonim bilgiler içerecektir."
+      }
+    },
+    "delivery": {
+      "h1": "Teslimat",
+      "h2": {
+        "1": "İlginizi çekebilecek bazı istatistikler* şöyle:"
+      },
+      "notice": "* 1 Ekim 2023 itibarıyla geçerlidir",
+      "p": {
+        "1": "Dikkatinize, sizin tarafınızdan geliştirilen EA FC coin'leri için yenilikçi teslimat sistemini getirmek istiyoruz - FIFA coin pazarında benzersiz bir yaklaşım. Her bir sipariş, EA'dan hesap için istenmeyen sonuçları tamamen ortadan kaldıran bir dizi tescilli protokole göre işlenir. Coin transfer algoritmamızı sürekli olarak geliştiriyoruz, onu kapsamlı bir kalibrasyona ve çeşitli denemelere tabi tutuyoruz ve yalnızca test edilen her yönün olumlu değerlendirilmesi durumunda, tam uygulama için yeşil ışık alıyor.",
+        "p2_fragments": {
+          "1": "Ve ayrıca, EA FC coin perakendeciliğine dahil olan birçok diğer kuruluşla üretken ortaklıklar kurarak etki alanımız büyük ölçüde genişledi. Şu anda ekosistemimiz, platformumuza entegre edilmiş 10'dan fazla mağazayı kapsıyor. Ve bu tür iş birlikleri için kapılarımız her zaman açık. EA FC coin mağazası olarak bizimle ortaklık kurmakla ilgileniyorsanız, bizimle şu adresten iletişime geçin:",
+          "2": "veya",
+          "3": "Yukarıda sunduğumuz FUT ve EA FC coin piyasasındaki başarılarımızın listesini hep birlikte güçlendirmemize olanak sağlayacak bu işbirliği fırsatının tüm detaylarını görüşebileceğimiz bir platform."
+        }
+      }
+    },
+    "payments": {
+      "h1": "Ödeme",
+      "p": {
+        "1": "ROYALFUT.COM ÜCRETSİZ olarak altı farklı para biriminde ödeme kabul ediyor.",
+        "2": "Sadece kayıtlı kullanıcılar web sitesinde ödeme yapabilir. Ödemeler uluslararası ödeme sistemleri aracılığıyla düzenlenir. Aşağıdaki bölgelerdeki banka kartı sahiplerinin satın alma işlemi yapması yasaktır: Afganistan, Amerikan Samoası, Aruba, Bahamalar, Botsvana, Burundi, Kamboçya, Orta Afrika Cumhuriyeti, Kongo, Kongo Demokratik Cumhuriyeti, Kırım ve Sivastopol, Küba, Ekvator Ginesi, Eritre, Etiyopya, Irak, Lübnan, Libya, Mali, Myanmar, Nikaragua, Kuzey Kore, Pakistan, Filistin, Rusya Federasyonu, Samoa, Sierra Leone, Somali, Güney Sudan, Sudan, Suriye, Trinidad ve Tobago, Türkmenistan, Uganda, ABD Virjin Adaları, Venezuela, Yemen, Zimbabve.",
+        "3": "Dijital ürünümüzü satın aldığınızda paranızın güvende olduğundan emin olabilirsiniz."
+      }
+    }
+  },
+  "kendall_pages": {
+    "cookie": {
+      "h2": {
+        "3": "Çerezleri engelleme",
+        "4": "Çerezler nasıl silinir?"
+      },
+      "h3": {
+        "2": "İşlevsellik çerezleri",
+        "3": "Analitik çerezler",
+        "4": "Üçüncü taraf çerezleri"
+      },
+      "list": {
+        "1": {
+          "item": {
+            "1": "tarayıcınızı birden fazla web sitesinde izlemek için",
+            "2": "web gezintilerinizin bir profilini oluşturmak için",
+            "3": "Hizmetleriyle etkileşimlerinize dayalı olarak, sizin için özel ilgi çekici olabilecek reklamları hedeflemek."
+          }
+        }
+      },
+      "p": {
+        "3": "Gerekli çerezler, web sitemize erişirken ve web sitemizde gezinirken ve özelliklerini kullanırken size mümkün olan en iyi deneyimi sunmamızı sağlar. Örneğin, bu çerezler bir hesap oluşturduğunuzu ve bu hesapta oturum açtığınızı anlamamızı sağlar.",
+        "4": "İşlevsel çerezler, siteyi sizin yaptığınız seçimlere göre işletmemizi sağlar. Örneğin, kullanıcı adınızı tanıyacağız ve gelecekteki ziyaretlerinizde siteyi nasıl özelleştirdiğinizi hatırlayacağız.",
+        "5": "Bu çerezler, ziyaretçilerimizin web sitesini nasıl kullandıklarına ilişkin istatistiksel amaçlar için toplu verileri toplamamızı ve üçüncü taraf hizmetlerini kullanmamızı sağlar. Bu çerezler adlar ve e-posta adresleri gibi kişisel bilgiler içermez ve web sitesinin kullanıcı deneyiminizi iyileştirmemize yardımcı olmak için kullanılır.",
+        "6": "Web sitesini kullandığınızda tarafınıza üçüncü taraf çerezleri de gönderilebilir.\n\n",
+        "7": "Reklam verenlerimiz ve hizmet sağlayıcılarımız size çerez gönderebilir. Çerezlerini kullanımınızdan elde ettikleri bilgileri kullanabilirler:",
+        "8": "Google, Inc. (\"Google\") tarafından sağlanan bir web analiz hizmeti olan Google Analytics'i kullanıyoruz. Google Analytics, web sitesinin kullanıcıların siteyi nasıl kullandığını analiz etmesine yardımcı olmak için bilgisayarınıza yerleştirilen metin dosyaları olan \"çerezler\" kullanır. Çerez tarafından web sitesini kullanımınızla ilgili oluşturulan bilgiler (IP adresiniz dahil) Google tarafından ABD'deki sunuculara iletilecek ve orada saklanacaktır. Anonimliği sağlamak için IP adresi iletimden önce kısaltılacaktır. Google, bizim adımıza bu bilgileri web sitesini kullanımınızı değerlendirmek, web sitesi etkinliğiyle ilgili raporlar derlemek ve web sitesinin kullanımıyla bağlantılı olarak web sitesi etkinliği ve internet etkinliğiyle ilgili diğer hizmetleri sağlamak için kullanacaktır. Google, IP adresinizi Google tarafından tutulan başka hiçbir veriyle ilişkilendirmeyecektir. Tarayıcınızda uygun ayarları seçerek çerez kullanımını reddedebilirsiniz; ancak bunu yaparsanız bu web sitesinin tüm işlevlerini kullanamayabileceğinizi lütfen unutmayın. Ayrıca, aşağıdaki bağlantıdan erişebileceğiniz tarayıcı eklentisini indirip kurarak, çerez tarafından oluşturulan web sitesini kullanımınıza ilişkin bilgilerin (IP adresiniz dahil) toplanmasını ve bu verilerin Google tarafından işlenmesini önleyebilirsiniz:",
+        "9": "Çoğu tarayıcı çerezleri kabul etmeyi reddetmenize izin verir. Google.com'da tarayıcınızdaki tüm çerezleri nasıl engelleyeceğinizi bulabilirsiniz.",
+        "10": "Ancak tüm çerezleri engellemek birçok web sitesinin kullanılabilirliği üzerinde olumsuz bir etkiye sahip olacaktır. Çerezleri engellerseniz web sitesindeki belirli özellikleri kullanamayabilirsiniz (oturum açma, içeriğe erişme, arama işlevlerini kullanma).",
+        "11": {
+          "1": "Web sitemiz tarafından ayarlanan çerezleri kısıtlamak veya engellemek istiyorsanız, bunu tarayıcınızın ayarından yapabilirsiniz. Alternatif olarak, şu adresi ziyaret edebilirsiniz:"
+        }
+      }
+    }
+  },
+  "jules_pages": {
+    "cookie": {
+      "h3": {
+        "5": "Bizimle iletişime geçin"
+      },
+      "p": {
+        "11": {
+          "2": ", bunun çok çeşitli tarayıcılarda ve cihazlarda nasıl yapılacağına dair kapsamlı bilgiler içerir. Çerezler hakkında genel bilgiler ve çerezleri cihazınızdan nasıl sileceğinize dair ayrıntılar bulacaksınız."
+        },
+        "12": "Bu politika veya çerez kullanımımızla ilgili herhangi bir sorunuz varsa bizimle iletişime geçmekten çekinmeyin:"
+      }
+    },
+    "privacy": {
+      "h1": "Gizlilik Politikası",
+      "list": {
+        "1": {
+          "item": {
+            "1": "Sizlere hizmetlerimizi sunalım.",
+            "2": "Anlaşmazlıkları çözmek, ücretleri toplamak, hesabınızda veya sitelerimizde, hizmetlerimizde, uygulamalarımızda veya araçlarımızda sorun gidermek veya yasa tarafından izin verilen diğer amaçlar için e-posta, telefon veya diğer yollarla sizinle iletişim kurmak.",
+            "3": "Dolandırıcılığı, güvenlik ihlallerini, potansiyel olarak yasaklanmış veya yasa dışı faaliyetleri önleyin ve tespit edin ve kullanıcı Sözleşmelerimizi uygulayın",
+            "4": "Müşterilerimizi tanımlamak ve kimliklerini doğrulamak için kontrol edin",
+            "5": "Verimlilik artışı, eğitim ve kalite kontrolü gibi operasyonel nedenler",
+            "6": "Sistemlerimize yetkisiz erişimi ve değişiklikleri önleyin",
+            "7": "Hizmetlerimizin ve belirli üçüncü tarafların hizmetlerinin pazarlanması:",
+            "8": "Dış denetimler ve kalite kontrolleri",
+            "7_0": "- mevcut ve eski müşteriler",
+            "7_1": "- daha önce hizmetlerimize ilgi göstermiş üçüncü taraflar",
+            "7_2": "- daha önce hiçbir iş yapmadığımız üçüncü taraflar"
+          },
+          "p": "İşletmeci, Konunun verilerini aşağıdaki amaçlar doğrultusunda işler:"
+        }
+      },
+      "p": {
+        "1": "Kullanıcı, servise kaydolarak ROYALFUT'un kişisel verilerini aşağıdaki koşullara göre kontrol etmesine ve işlemesine onay verir:"
+      }
+    }
+  },
+  "dakota_pages": {
+    "privacy": {
+      "list": {
+        "2": {
+          "item": {
+            "1": "Adınız ve e-posta adresiniz ve telefon numaranız dahil olmak üzere iletişim bilgileriniz",
+            "2": "doğum tarihiniz gibi kimliğinizi doğrulamamızı ve onaylamamızı sağlayan bilgiler",
+            "3": "cinsiyet bilgileriniz, bize sağlamayı seçerseniz",
+            "4": "bilgisayar oturum açma verileri, sayfa görüntüleme istatistikleri, ROYALFUT'a ve ROYALFUT'tan gelen trafik ve çerez bilgileri",
+            "5": "konum verileri",
+            "6": "teslimatınız hakkında bilgi (platform, siparişteki jeton sayısı), fatura bilgileri, işlemler ve ödeme kartları hakkında bilgi",
+            "7": "kişisel veya profesyonel ilgi alanlarınız",
+            "8": "profesyonel çevrimiçi varlığınız",
+            "9": "ROYALFUT, çalışanları, yöneticileri, iştirakleri ile olan iletişim geçmişiniz, ROYALFUT'ta satın alma geçmişiniz ve kayıtlı öğeleriniz",
+            "10": "ROYALFUT'a bağladığınız hesaplar hakkında bilgi, örneğin Facebook, Google ve diğer platformlar",
+            "11": "sizin hakkınızda kredi veya diğer finansal kontrolleri yapmamıza olanak tanıyan bilgiler",
+            "12": "ROYALFUT Web Sitesini nasıl kullandığınıza ilişkin bilgiler",
+            "13": "anketlere verdiğiniz yanıtlar ve yarışmalara, hediyelere ve özel tekliflere katılım hakkında bilgiler",
+            "14": "ROYALFUT etkinliğinize dayalı işlem bilgileri (örneğin, satın alma ve satış sürecini basitleştirecek bilgiler)",
+            "15": "kamu tartışmaları, sohbetler, anlaşmazlık çözümü, ROYALFUT aracılığıyla yazışmalar ve bize gönderilen yazışmalar"
+          },
+          "p": {
+            "1": "ROYALFUT’a işlenmek üzere aktarılan kişisel verilerin listesi:",
+            "2": "Hakkınızda aşağıdaki kişisel bilgileri toplayabilir ve kullanabiliriz:"
+          }
+        }
+      }
+    }
+  },
+  "quinn_pages": {
+    "home": {
+      "calc": {
+        "panel": {
+          "info": {
+            "ccy": "Toplam fiyat"
+          }
+        }
+      },
+      "header": {
+        "nav": {
+          "1": "Madeni para satın al",
+          "2": "Madeni para desteleri",
+          "3": "İncelemeler",
+          "4": "SSS",
+          "5": "Blog"
+        }
+      },
+      "heading": {
+        "1": {
+          "1": "SATIN ALMAK İÇİN EN GÜVENLİ SEÇENEK",
+          "2": "{fc} PARALAR"
+        }
+      }
+    },
+    "privacy": {
+      "list": {
+        "2": {
+          "item": {
+            "16": "IP adresi ve standart web günlüğü bilgileri (tarayıcı türü, İnternet Servis Sağlayıcısı (İSS), yönlendirme/çıkış sayfaları, işletim sistemi, tarih/zaman damgası ve tıklama akışı verileri) dahil olmak üzere diğer bilgiler ile satın alma işlemleri yapmak veya ödeme almak için kullandığınız herhangi bir ödeme hizmeti tarafından sağlanan faturalandırma hesabı bilgileri, tarayıcı kimliğiniz, çerez kimliğiniz, cihaz kimliğiniz, cihaz türünüz, proxy sunucusu kullanımı/VPN ve ilgili teknolojiler hakkında bilgiler, konum bilgileri, e-posta adresleri, telefon numaraları ve ödeme dolandırıcılığı hizmet sağlayıcılarımız tarafından sağlanan genel sosyal medya profilleri ve müşteri durum tespiti gibi üçüncü taraflardan gelen ek bilgiler."
+          }
+        }
+      },
+      "p": {
+        "2": "Bu kişisel veriler size hizmetlerimizi sunmak için gereklidir. Bize bilgi vermemeyi seçebilirsiniz, ancak sizin hakkınızdaki bazı bilgiler şunları yapmanız için gereklidir: üye olarak kaydolmak; ürün veya hizmet satın almak, bir profili tamamlamak; anketlere, yarışmalara veya çekilişlere katılmak; bize bir soru sormak veya Web Sitemizde başka işlemler başlatmak. ROYALFUT ayrıca bu bilgileri trend analizi, dolandırıcılık tespiti ve site yönetimi için kullanır.",
+        "3": "Rıza, kişisel veri sahibinin elektronik posta adresine kayıtlı olduğu andan itibaren geçerlidir.",
+        "4": "RoyalFUT hesabınızı silmek istiyorsanız lütfen talebinizi şu adrese gönderin:"
+      }
+    },
+    "terms": {
+      "h1": "Şartlar ve koşullar",
+      "h2": {
+        "1": "Kullanıcı Sözleşmesi"
+      },
+      "p": {
+        "1": {
+          "1": "Lütfen aşağıdaki Kullanıcı Sözleşmesini dikkatlice okuyun. Bu Kullanıcı Sözleşmesindeki maddelerden herhangi birini kabul etmiyorsanız, kaydınızı onaylama, tarafından sağlanan herhangi bir hizmeti kullanma hakkınız yoktur.",
+          "2": "veya bu ticaret platformu üzerinden malları satabilir, satın alabilir veya takas edebilirsiniz."
+        }
+      }
+    },
+    "trustScore": {
+      "reviewsAmount": "{reviewsAmount} inceleme"
+    }
+  },
+  "phoenix_pages": {
+    "auth": {
+      "action": {
+        "changeEmail": "E-postayı değiştir",
+        "login": "Bağlantıyı Al",
+        "sendCodeAgain": "Kodu tekrar gönder"
+      },
+      "btn": {
+        "login": "Giriş yapmak"
+      },
+      "divider": {
+        "1": "Veya"
+      },
+      "email": {
+        "placeholder": "E-posta"
+      },
+      "notify": {
+        "sentConfirmationCode": "Size altı haneli bir onay kodu gönderdik<mail> {address}</mail> Lütfen e-posta adresinizi doğrulamak için aşağıya girin."
+      },
+      "oauth": {
+        "google": "Google ile devam et"
+      },
+      "text": {
+        "authTitle": "Giriş Yap veya Kayıt Ol",
+        "code": "6 haneli kodu girin",
+        "codeInfo": "E-postanızı bırakın, size yetkilendirme bağlantısı gönderelim"
+      }
+    },
+    "contacts": {
+      "h1": "İletişim",
+      "title": {
+        "1": "Bizimle İletişime Geçin",
+        "2": "Sosyal"
+      }
+    },
+    "faq": {
+      "action": "Daha fazla sorunuz mu var?"
+    }
+  },
+  "jamie_pages": {
+    "faq": {
+      "acc": {
+        "q": {
+          "1": {
+            "title": "Neden ROYALFUT’u seçmeliyim?"
+          },
+          "2": {
+            "title": "EAS FC Coin satın almanın FC Puanı satın almaya göre avantajları nelerdir?"
+          },
+          "3": {
+            "title": "Madeni para teslimatı ne kadar sürer?"
+          },
+          "4": {
+            "title": "İndirim kuponunu nasıl kullanırım?"
+          },
+          "5": {
+            "title": "Düzenli müşterilere özel teklifler var mı?"
+          },
+          "6": {
+            "title": "FC Ultimate Team kulübümü jeton transferine nasıl hazırlamalıyım?"
+          },
+          "7": {
+            "title": "FC Ultimate Team Web Uygulamasında Transfer Market'imin kilidinin açılıp açılmadığını nasıl kontrol edebilirim?"
+          }
+        }
+      },
+      "nav": {
+        "1": "Genel sorular",
+        "2": "Teslimatla ilgili sorular",
+        "3": "Ödemelerle ilgili sorular"
+      },
+      "q": {
+        "1": {
+          "title": "Neden ROYALFUT’u seçmeliyim?"
+        },
+        "2": {
+          "content": {
+            "1": "Jetonlar, düşük maliyetleri ve FC Ultimate Team kulübünüz için çok daha faydalı bir şekilde harcanabilmeleri nedeniyle dünyadaki çoğu EA Sports FC oyuncusunun ilk tercihidir. Ultimate Team jetonlarını, Transfer Pazarında diğer oyuncular tarafından listelenen oyun içi öğelere harcayabilirsiniz. Bunlar oyuncu kartları, koç kartları, forma kitleri, stadyumlar, sarf malzemeleri ve daha fazlası olabilir. Ve en önemlisi, bunların hiçbiri FC Puanlarıyla satın alınamaz. FC Puanlarıyla, FC Ultimate Team mağazasından paketler satın alabilir ve FC Ultimate Team Taslaklarına erişim sağlayabilirsiniz. Ancak, bunların ikisini de jeton kullanarak da yapabilirsiniz. Gerçek para açısından, FC Puanları yerine EAS FC jetonlarını kullanarak oyun içinde alışveriş yapmak 5 kat daha ucuzdur. Bizimle jeton alışverişine başlayın ve kendiniz görün 😉",
+            "2": "Diğer oyuncular tarafından Transfer Pazarında listelenen oyun içi öğelere {fc} Ultimate Team Coin harcayabilirsiniz. Bunlar oyuncu kartları, koç kartları, forma kitleri, stadyumlar, sarf malzemeleri ve daha fazlası olabilir. Ve en önemlisi, bunların hiçbiri FC Puanlarıyla satın alınamaz.",
+            "3": "FC Puanlarıyla, {fc} Ultimate Team mağazasından paketler satın alabilir ve {fc} Ultimate Team Draft'larına erişim sağlayabilirsiniz. Ancak, bu iki şeyi de jeton kullanarak da yapabilirsiniz. Gerçek para açısından, FC Puanları yerine {fc} Ultimate Team jetonlarını kullanarak oyun içinde alışveriş yapmak 5 kat daha ucuzdur. Bizimle jeton alışverişine başlayın ve kendiniz görün 😉"
+          },
+          "title": "EAS FC Coin satın almanın FC Puanı satın almaya göre avantajları nelerdir?"
+        },
+        "3": {
+          "content": "Evet, var. Bizden düzenli olarak alışveriş yapmaya başladığınızı fark ettiğimiz anda özel teklifler almaya başlayacaksınız. Ayrıca üzerinde çalıştığımız şeffaf bir sadakat programımız olduğunu da söylemeden geçmeyelim. Güncellemeler için bizi izlemeye devam edin!",
+          "title": "Düzenli müşterilere özel teklifler var mı?"
+        }
+      }
+    }
+  },
+  "alex_pages": {
+    "faq": {
+      "acc": {
+        "q": {
+          "1": {
+            "content": "<content>Bunun birkaç nedeni var ve bunları ilk satın alımınızdan sonra mutlaka kendiniz de keşfedeceksiniz:</content><list><listItem> Memnun müşteriler tarafından yazılmış çok sayıda yorum bulunmaktadır.<link> Burada.</link></listItem><listItem> Hesabınızın mutlak güvenliği her zaman ön plandadır ve siparişinizin herhangi bir nedenle teslim edilmemesi durumunda tam para iadesi garantisi vardır.</listItem><listItem> En kısa teslimat süreleri — Bizimle siparişinizin tamamlanması için yaşadığınız uzun bekleme sürelerini unutacaksınız.</listItem><listItem> Destek ekibimiz, satın alma öncesi ve sonrasında, canlı sohbet veya tercih ettiğiniz başka bir yol (WhatsApp, Telegram, Instagram direct veya e-posta) aracılığıyla karşılaşabileceğiniz her türlü sorunu çözmenize yardımcı olmak için her zaman hazırdır.</listItem></list>"
+          },
+          "2": {
+            "content": "<content>Jetonlar, düşük maliyetleri ve FC Ultimate Team kulübünüz için çok daha faydalı bir şekilde harcanabilmeleri nedeniyle dünyadaki çoğu EA Sports FC oyuncusunun ilk tercihidir. Ultimate Team jetonlarını, Transfer Pazarında diğer oyuncular tarafından listelenen oyun içi öğelere harcayabilirsiniz. Bunlar oyuncu kartları, koç kartları, forma kitleri, stadyumlar, sarf malzemeleri ve daha fazlası olabilir. Ve en önemlisi, bunların hiçbiri FC Puanlarıyla satın alınamaz. FC Puanlarıyla, FC Ultimate Team mağazasından paketler satın alabilir ve FC Ultimate Team Taslaklarına erişim sağlayabilirsiniz. Ancak, bunların ikisini de jeton kullanarak da yapabilirsiniz. Gerçek para açısından, FC Puanları yerine EAS FC jetonlarını kullanarak oyun içinde alışveriş yapmak 5 kat daha ucuzdur. Bizimle jeton alışverişine başlayın ve kendiniz görün 😉</content><content> Diğer oyuncular tarafından Transfer Pazarında listelenen oyun içi öğelere {fc} Ultimate Team Coin harcayabilirsiniz. Bunlar oyuncu kartları, koç kartları, forma kitleri, stadyumlar, sarf malzemeleri ve daha fazlası olabilir. Ve en önemlisi, bunların hiçbiri FC Puanlarıyla satın alınamaz.</content><content> FC Puanlarıyla, {fc} Ultimate Team mağazasından paketler satın alabilir ve {fc} Ultimate Team Draft'larına erişim sağlayabilirsiniz. Ancak, bu iki şeyi de jeton kullanarak da yapabilirsiniz. Gerçek para açısından, FC Puanları yerine {fc} Ultimate Team jetonlarını kullanarak oyun içinde alışveriş yapmak 5 kat daha ucuzdur. Bizimle jeton alışverişine başlayın ve kendiniz görün 😉</content>"
+          },
+          "3": {
+            "content": "<content>Seçtiğiniz teslimat yöntemine bağlıdır.</content><content> Comfort Trade siparişleri için ödemeden önceki yaklaşık teslimat süresini ödeme sayfasında gösteriyoruz. Gönderdiğiniz tüm bilgiler doğruysa ve hesabınız jeton transferine tamamen hazırsa, sipariş ortalama 15-20 dakika içinde tamamlanacaktır. Ancak teslimat süresinin öncelikle sipariş edilen jeton miktarına bağlı olduğunu unutmayın.</content><content> Oyuncu Müzayedesi teslimat yöntemine gelince, bu seçeneğin zamanlaması tamamen size bağlıdır. Jeton transferi oyuncu kartlarının satın alınması ve satılmasıyla gerçekleştirilir. Bu yöntem kullanılarak siparişin tamamlanması için sistemimiz tarafından önerilen ortalama 3-10 kartın sizin tarafınızdan satın alınması ve satılması gerekir. Ancak bu senaryoda başlangıç bakiyenizin önemli bir rol oynadığını unutmayın — ne kadar büyükse, teslimat o kadar hızlı işlenir, bu nedenle sipariş vermeden önce bakiyenizi olabildiğince yüksek tutmaya çalışın, örneğin istenmeyen kartları satabilirsiniz.</content>"
+          },
+          "4": {
+            "content": "Ödeme sayfasına ulaşın."
+          },
+          "5": {
+            "content": "Evet, var. Bizden düzenli olarak alışveriş yapmaya başladığınızı fark ettiğimiz anda özel teklifler almaya başlayacaksınız. Ayrıca üzerinde çalıştığımız şeffaf bir sadakat programımız olduğunu da söylemeden geçmeyelim. Güncellemeler için bizi izlemeye devam edin!"
+          },
+          "6": {
+            "content": "<list><listItem>FC Ultimate Team Web Uygulamasındaki Transfer Pazarınızın kilidinin açık olduğundan emin olun</listItem><listItem> UT kulüp bakiyenizde en az 5000 jeton bulundurun</listItem><listItem> Transfer Listenizde ve Transfer Hedefleri listenizde mümkün olduğunca fazla yer açın</listItem><listItem> Eğer varsa, atanmamış tüm öğeleri kulübünüze atayın</listItem></list>"
+          },
+          "8": {
+            "title": "Sipariş vermek ve satın aldığım coinleri teslim almak için hangi adımları izlemeliyim?"
+          },
+          "9": {
+            "title": "Siparişimin teslimat sürecini başlatmak için hangi bilgileri göndermem gerekiyor?"
+          },
+          "10": {
+            "title": "ROYALFUT kişisel bilgilerimi nasıl koruyor?"
+          },
+          "11": {
+            "title": "EA hesabım için giriş doğrulamasını nasıl açabilirim?"
+          },
+          "12": {
+            "title": "EA hesabımın e-posta adresini hatırlamıyorum, nereden bulabilirim?"
+          },
+          "13": {
+            "title": "EA hesabımın şifresini unuttum, nasıl sıfırlayabilirim?"
+          },
+          "14": {
+            "title": "EA hesabımın yedek kodlarını nasıl alabilirim?"
+          },
+          "15": {
+            "title": "Hangi ülkelerde faaliyet gösteriyorsunuz?"
+          },
+          "16": {
+            "title": "Web sitenizde hangi ödeme yöntemleri mevcut?"
+          },
+          "17": {
+            "title": "Siparişimi nasıl iade edebilirim?"
+          },
+          "18": {
+            "title": "Kullanıcılardan da coin satın alıyor musunuz?"
+          }
+        }
+      }
+    }
+  },
+  "drew_pages": {
+    "faq": {
+      "acc": {
+        "q": {
+          "7": {
+            "content": "<content>Transfer Pazarı açıldı</content><content> Transfer Pazarı kilitlendi</content>"
+          },
+          "8": {
+            "content": "<list><listItem>Platformunuzu ve istediğiniz miktarda jetonu seçin</listItem><listItem> Siparişinizin ödemesini yapın.</listItem><listItem> Başarılı bir ödemeden sonra, EA hesap bilgilerinizi ilgili giriş alanlarına girmeniz ve \"Değişiklikleri kaydet\" düğmesine basmanız gerekecektir.</listItem><listItem> Gönderilen bilgiler doğruysa ve hesabınızda başka bir sorun yoksa, otomatik teslimat süreci başlayacak ve bu süreçte ne konsolunuzda/PC'nizde ne de FC Web Uygulaması/Companion aracılığıyla başka herhangi bir cihazda FC Ultimate Team'e giriş yapmamalısınız. Jetonlarınızın teslimatı tamamlanır tamamlanmaz siparişinizin durumu \"Tamamlandı\" olarak değiştirilecek ve ayrıca e-posta yoluyla bu durum hakkında bilgilendirileceksiniz. Aşağıdaki videoda tüm süreç hakkında daha fazla bilgi bulabilirsiniz. <button>Daha Fazla Bilgi Edinin</button></listItem><listItem> İşte bu kadar, Ultimate Team'e tekrar giriş yapıp paraları harcamaktan çekinmeyin! Ve ROYALFUT'taki konaklamanızdan memnun kaldıysanız, lütfen Trustpilot'ta bizim için bir yorum bırakmayı unutmayın. Trustpilot'ta bizim için bir yorum bırakın.</listItem></list><content> Herhangi bir sorunuz olması veya herhangi bir aşamada yardıma ihtiyaç duymanız halinde lütfen canlı sohbet veya tercih ettiğiniz başka bir yol (WhatsApp, Telegram, Instagram Direct veya e-posta) aracılığıyla Destek Ekibimizle iletişime geçmekten çekinmeyin.</content>"
+          },
+          "9": {
+            "content": "Sadece EA hesabınızın e-postası, şifresi ve yedek kodları. EA kimliğinizi ve PSN/Xbox hesabınızın kimlik bilgilerini veya başka herhangi bir ayrıntıyı paylaşmanıza gerek yok."
+          },
+          "10": {
+            "content": "<content>Projenin yönetimi, web sitesi aracılığıyla iletilen bilgileri sıkı Gizlilik Politikamız ve Yönetim Sistemimiz temelinde hackleme ve hırsızlıktan korur. EA hesap bilgilerinizi, ödeme kartı verilerinizi vb. HİÇBİR koşulda üçüncü taraflarla PAYLAŞMIYORUZ! Daha fazla bilgi için</content><link> Gizlilik Politikası sayfası.</link>"
+          },
+          "11": {
+            "content": "<list><listItem>EA hesap ayarları sayfasını açın</listItem><listItem> Güvenlik > Giriş Doğrulaması > Aç > Kod Gönder > Giriş Doğrulamasını Aç</listItem></list>"
+          },
+          "12": {
+            "content": "<list><listItem>Oyunu açın ve ana menüye gidin.</listItem><listItem> Özelleştir > Çevrimiçi Ayarlar > EA Hesabı.</listItem></list>"
+          },
+          "13": {
+            "content": "<list><listItem>EA hesap giriş sayfasına gidin.</listItem><listItem> Giriş > Şifrenizi mi unuttunuz? > Sonraki > Kodu Gönder > Sonraki > Gönder.</listItem></list>"
+          },
+          "14": {
+            "content": "<content>Yedek kodlarınızı EA hesap ayarlarınızda bulabilirsiniz. İşte sizi doğrudan oraya götürecek bağlantı:</content><link> https://myaccount.ea.com/cp-ui/security/index</link>"
+          },
+          "15": {
+            "content": "Afganistan, Kuzey Kore, Suriye, Kırım Cumhuriyeti ve diğerleri gibi yüksek riskli yargı bölgeleri hariç olmak üzere, dünyanın her yerinde faaliyet gösteriyoruz ve tüm bölgelerden ödeme kabul ediyoruz."
+          },
+          "16": {
+            "content": "<content>Desteklediğimiz ödeme yöntemleri listesi, kullanıcı etkileşiminin hizmetimizle deneyimini iyileştirmeyi hedeflediğimiz için sürekli olarak güncellenmektedir. Şu anda aşağıdaki ödeme yöntemlerini kabul ediyoruz:</content><list><listItem> VISA, MasterCard, Maestro, Discover, DinnersClub, JCB ve UnionPay kartları.</listItem><listItem> Apple Pay ve Google Pay ile temassız ödeme.</listItem><listItem> AB bankalarının çoğu, iDeal ve diğerleri aracılığıyla banka havalesi.</listItem><listItem> Kripto paralar — Bitcoin, USD Tether, Etherium.</listItem></list>"
+          },
+          "17": {
+            "content": "Siparişiniz için başarıyla ödeme yaptıysanız ancak herhangi bir nedenle artık jetonlara ihtiyacınız yoksa, tam bir geri ödeme talebinde bulunabilirsiniz. Bunu yapmak için, canlı sohbet veya tercih ettiğiniz başka bir yol (WhatsApp, Telegram, Instagram Direct veya e-posta) aracılığıyla Destek Servisimizle iletişime geçmeniz gerekir."
+          },
+          "18": {
+            "content": "Bu bizim ana odak noktamız değil, ancak bazen yapıyoruz, yöneticimizle Skype veya Telegram aracılığıyla iletişime geçebilirsiniz ve teklifinizi değerlendireceğiz."
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,860 @@
+{
+  "default": {},
+  "car_home": {
+    "carousel": {
+      "promo": {
+        "4": {
+          "desc": "Ultimate Teams mest eftertraktade spelare kommer äntligen att vara dina att ta tag i. Börja samla in önskvärda kort från varje FC UT-kampanj och förneka aldrig dig själv!",
+          "title": "Skaffa vilket kort du vill"
+        },
+        "5": {
+          "desc": "Glöm frustrerande myntodling och börja spendera din dyrbara tid på det som verkligen betyder något - själva spelet!",
+          "title": "Spela nu – slösa inte din tid på att mala mynt"
+        },
+        "action": {
+          "title": "Köp mynt"
+        }
+      }
+    },
+    "coins": {
+      "options": {
+        "1": {
+          "desc": "Även de mest sofistikerade kunderna kommer att bli nöjda med köpbonusen. Få det idag!",
+          "title": "Myntbuntar"
+        },
+        "2": {
+          "desc": "Börja spara mycket tid med det helt nya verktyget från våra vänner!",
+          "title": "Prova SBC Solver till ett rabatterat pris"
+        },
+        "title": "Prova dessa alternativ också"
+      }
+    },
+    "delivery": {
+      "process": {
+        "card": {
+          "1": {
+            "desc": "Välj din plattform och önskat antal mynt och betala sedan för din beställning.",
+            "title": "Lägg en beställning"
+          },
+          "2": {
+            "desc": "Efter lyckad betalning, fortsätt till sidan Orderhistorik, hitta din beställning och slutför de nödvändiga åtgärderna för att starta leveransprocessen.",
+            "title": "Starta leveransen"
+          },
+          "3": {
+            "desc": "När beställningen är klar, använd gärna mynten som du vill och kom tillbaka till oss när du behöver påfyllning.",
+            "title": "Njut av ditt köp"
+          }
+        },
+        "desc": "Behöver du hjälp? Kontakta vårt supportteam när som helst"
+      }
+    }
+  },
+  "li_home": {
+    "delivery": {
+      "process": {
+        "title": "Leveransprocess"
+      }
+    },
+    "faq": {
+      "q": {
+        "1": {
+          "content": "<content>Det finns flera anledningar till det som du säkert kommer att upptäcka själv efter det första köpet:</content><list><listItem> Ett stort antal recensioner från nöjda kunder som kan hittas<link> här.</link></listItem><listItem> Den absoluta säkerheten för ditt konto som alltid kommer först och en full återbetalningsgaranti ifall din beställning av någon anledning inte levererades.</listItem><listItem> Kortaste leveranstid — hos oss kommer du att glömma de långa väntetiderna för att beställningen ska slutföras.</listItem><listItem> Vårt supportteam är alltid redo att hjälpa dig att lösa alla problem du kan stöta på, både före och efter köpet, oavsett om det sker via livechatt eller något annat val du väljer (WhatsApp, Telegram, Instagram direkt eller e-post).</listItem></list>"
+        }
+      }
+    },
+    "heading": {
+      "1": {
+        "1": "Säkraste alternativet att köpa ",
+        "2": "FC 24 mynt"
+      }
+    },
+    "infographic": {
+      "stats": {
+        "desc": {
+          "1": "års erfarenhet inom detta område",
+          "2": "mynt som överförs till våra kunders konton",
+          "3": "framgångsrikt levererade beställningar",
+          "4": "spelare som har provat vår tjänst",
+          "5": "av återkommande kunder som har gjort ett köp minst två gånger",
+          "6": "kundnöjdhet enligt omröstningsresultaten"
+        }
+      }
+    },
+    "loyalty": {
+      "program": {
+        "overview": {
+          "action": {
+            "primary": "Köp mynt",
+            "sec": "Läs mer"
+          },
+          "desc": "Varje köp driver dig in i fotbollsvärlden! Ge dig ut på ett spännande digitalt äventyr fullt av att köpa, tjäna, spendera och nå nya nivåer!",
+          "stats": {
+            "1": "Användare som redan deltar i vårt lojalitetsprogram",
+            "2": "ROYAL-poäng har redan tjänats in av våra kunder"
+          },
+          "steps": {
+            "1": {
+              "desc": "Skaffa några glänsande mynt för att höja din spelupplevelse och ta fram din fulla potential för Ultimate Team!",
+              "title": "Köp mynt"
+            }
+          }
+        }
+      }
+    }
+  },
+  "pi_cookie": {
+    "widget": {
+      "action": {
+        "1": "Acceptera",
+        "2": "Avvisa alla"
+      },
+      "checkbox": {
+        "1": "Nödvändig",
+        "2": "Analytics"
+      },
+      "details": "Denna webbplats använder cookies för att optimera funktionaliteten och erbjuda en härlig surfupplevelse. Utforska gärna vår webbplats med förtroende för att din integritet respekteras och att du har kontroll över samtycke till cookies. Se vår<link> Cookiepolicy</link> ."
+    }
+  },
+  "pi_home": {
+    "loyalty": {
+      "program": {
+        "overview": {
+          "steps": {
+            "2": {
+              "desc": "Samla ROYAL-poäng varje gång du köper mynt på vår webbplats och lås upp ytterligare förmåner genom att nå nya lojalitetsnivåer.",
+              "title": "Tjäna ROYAL-poäng"
+            },
+            "3": {
+              "desc": "Lös in dina ROYAL-poäng på framtida köp och njut av att få dina myntpåfyllningar med rabatt!",
+              "title": "Spendera din cashback"
+            }
+          },
+          "title": "Hur fungerar vårt lojalitetsprogram?"
+        }
+      }
+    },
+    "promotional": {
+      "offer": {
+        "fc24": {
+          "description": "Om du är trött på att mala {fc} -mynt har vi en perfekt lågkostnadslösning för dig! Möt <b>ROYALFUT.com</b> , den mest pålitliga EA FC-myntbutiken med många års erfarenhet inom detta område. Denna topprankade marknadsplats erbjuder de lägsta priserna för {fifa} -mynt online och kan garantera snabb leverans och 100 % säkerhet för ditt konto. Att köpa FC-mynt på ROYALFUT är det mest prisvärda och legitima alternativet när det gäller att hjälpa dig att göra ditt spel ännu roligare utan risk för några som helst obehagliga konsekvenser. De vanliga Ultimate Team-mynterbjudandena som du kan hitta i den här butiken sänker redan låga priser vilket gör att du kan göra de mest lönsamma transaktionerna i spelet. ROYALFUT-plattformen är inte bara 100% pålitlig när det gäller deras FUT-mynt till salu utan är också känd för sin fantastiska kundsupport som alltid hjälper dig med alla frågor eller problem du kan ha. Det är ganska sällsynt nuförtiden att hitta en legitim {ut} myntbutik men <b>ROYALFUT.com</b> är utan tvekan en av dem. Det här är absolut det bästa stället för dig om du vill köpa Ultimate Team-mynt för PC, PS4, PS5, Xbox One, Xbox Series X eller Xbox Series S med 100 % säkra betalningar och omedelbar leverans.\n"
+        }
+      }
+    },
+    "trustpilot": {
+      "reviews": {
+        "action": "Köp mynt",
+        "count": "Baserat på<highlight> {amount} recensioner</highlight>",
+        "rate": "Excellent",
+        "rating": "Betyg {amount} / {max}\n",
+        "title": "Vad våra kunder har att säga",
+        "verified": "Verifierat företag"
+      }
+    }
+  },
+  "vpr_auth": {
+    "validation": {
+      "invalidEmail": "Ogiltig e-postadress."
+    }
+  },
+  "vpr_home": {
+    "benefit": {
+      "1": {
+        "desc": "Vårt lag bildades ursprungligen under FIFA 17-säsongen. Sedan dess har vi överfört över 100 miljarder mynt till våra kunder, mer än 60 tusen klubbar runt om i världen har fått myntpåfyllning från oss, och minst 10 andra butiker använder vår myntöverföringsalgoritm.",
+        "title": "Långvarig erfarenhet"
+      },
+      "2": {
+        "desc": "Vårt huvudmål är att ge dig det säkraste alternativet för att fylla på ditt FUT-klubbsaldo. Vi förbättrar ständigt vår myntöverföringsalgoritm och testar den på tusentals av våra konton innan vi ger grönt ljus för handling.",
+        "title": "Säker och pålitlig"
+      },
+      "3": {
+        "desc": "Vi värdesätter din tid, det är därför vi alltid är fast beslutna att sträva efter kontinuerlig förbättring av sådana aspekter av vår webbplats som gränssnittet och kvaliteten på vår kundsupporttjänst еo se till att din shoppingupplevelse hos oss gick så smidigt som möjligt.",
+        "title": "Hög servicenivå"
+      },
+      "4": {
+        "desc": "Vi erbjuder ett av de lägsta priserna på marknaden, och för våra stamkunder är priset ännu lägre!",
+        "title": "Överkomlig prissättning"
+      }
+    },
+    "calc": {
+      "panel": {
+        "action": {
+          "1": "Kassa"
+        },
+        "info": {
+          "ccy": "Totalt pris"
+        }
+      }
+    },
+    "carousel": {
+      "promo": {
+        "1": {
+          "desc": "Att spela med de bästa spelarkorten i din arsenal är en rak väg till ära för att komma till de högsta led och få de största belöningarna. Allt är i dina händer!",
+          "title": "Uppnå de högsta rangerna"
+        },
+        "2": {
+          "desc": "Med EA Sports FC 24 Coins är du fri att välja de bästa möjliga alternativen för varje position i din trupp. Skäm bort din fantasi, prova nya saker, experimentera!",
+          "title": "Bygg ditt Dream Team nu"
+        },
+        "3": {
+          "desc": "Omfamna nya upplevelser genom att använda toppspelare med olika PlayStyles+-kombinationer som påverkar spelet i Ultimate Team.",
+          "title": "Upptäck fler funktioner i spelet med hjälp av högklassade kort"
+        }
+      }
+    }
+  },
+  "ye_user": {
+    "action": {
+      "logOut": "Logga ut"
+    },
+    "bar": {
+      "nav": {
+        "1": {
+          "1": "Beställningshistorik",
+          "2": "Inställningar",
+          "3": "Lojalitetsprogram",
+          "title": "Profil"
+        }
+      }
+    }
+  },
+  "ye_default": {
+    "trustScore": {
+      "reviewsAmount": "{amount} recensioner"
+    }
+  },
+  "ye_profile": {
+    "action": {
+      "logOut": "Logga ut"
+    },
+    "title": {
+      "account": "Ditt konto"
+    }
+  },
+  "ye_footer": {
+    "nav": {
+      "1": {
+        "1": "Leverans",
+        "2": "Betalning",
+        "3": "Regler och villkor",
+        "4": "Sekretesspolicy",
+        "5": "Cookiepolicy"
+      }
+    },
+    "title": {
+      "contacts": "Kontakter",
+      "nav": {
+        "1": "Plattform",
+        "2": "Info"
+      },
+      "socials": "Våra umgänge"
+    }
+  },
+  "cs_home": {
+    "carousel": {
+      "promo": {
+        "1": {
+          "title": "Uppnå de högsta rangerna"
+        },
+        "2": {
+          "desc": "Med EA Sports FC 24 Coins är du fri att välja de bästa möjliga alternativen för varje position i din trupp. Skäm bort din fantasi, prova nya saker, experimentera!",
+          "title": "Bygg ditt Dream Team nu"
+        },
+        "3": {
+          "desc": "Omfamna nya upplevelser genom att använda toppspelare med olika PlayStyles+-kombinationer som påverkar spelet i Ultimate Team.",
+          "title": "Upptäck fler funktioner i spelet med hjälp av högklassade kort"
+        },
+        "4": {
+          "desc": "Ultimate Teams mest eftertraktade spelare kommer äntligen att vara dina att ta tag i. Börja samla in önskvärda kort från varje FC UT-kampanj och förneka aldrig dig själv!",
+          "title": "Skaffa vilket kort du vill"
+        },
+        "5": {
+          "desc": "Glöm frustrerande myntodling och börja spendera din dyrbara tid på det som verkligen betyder något - själva spelet!",
+          "title": "Spela nu - slösa inte din tid på att mala mynt"
+        },
+        "action": {
+          "title": "Köp mynt"
+        }
+      }
+    },
+    "coins": {
+      "options": {
+        "1": {
+          "desc": "Även de mest sofistikerade kunderna kommer att bli nöjda med köpbonusen. Få det idag!",
+          "title": "Myntbuntar"
+        },
+        "2": {
+          "desc": "Börja spara mycket tid med det helt nya verktyget från våra vänner!",
+          "title": "Prova SBC Solver till ett rabatterat pris"
+        },
+        "title": "Prova dessa alternativ också"
+      }
+    },
+    "delivery": {
+      "process": {
+        "card": {
+          "1": {
+            "desc": "Välj din plattform och önskat antal mynt och betala sedan för din beställning.",
+            "title": "Lägg en beställning"
+          }
+        }
+      }
+    }
+  },
+  "kelly_profile": {
+    "orders": {
+      "amount": "Belopp",
+      "failed_description": "Försök igen eller ändra betalningsmetod om problemet kvarstår",
+      "failed_title": "Betalningen misslyckades",
+      "make": "Gör betalning",
+      "no_club": "Ingen UT-klubb upptäckt",
+      "no_club_description": "Se till att du har din klubb inrättad i {fc} Web App så att vi kan börja behandla din beställning",
+      "not_enough": "Inte tillräckligt med mynt",
+      "not_enough_description": "Se till att du har minst 5000 mynt på ditt Ultimate Team Club-saldo så att vi kan påbörja leveransprocessen",
+      "no_tm": "Ingen TM i webbappen {fc}",
+      "no_tm_description": "Se till att du har tillgång till Transfer Market i {fc} Web App så att vi kan börja behandla din beställning",
+      "resume": "Återuppta leverans",
+      "retry": "Försök att betala igen",
+      "status": "Status",
+      "unpaid": "Obetald",
+      "unpaid_description": "Denna beställning har ännu inte betalats",
+      "wrong_description": "Ditt konto har ingen Ultimate Team-klubb kopplad till den plattform du har valt, vänligen skicka in uppgifterna om rätt konto eller kontakta supporten för att ändra plattformen",
+      "wrong_platform": "Fel plattform"
+    }
+  },
+  "sky_profile": {
+    "orders": {
+      "backup_description": "Reservkoderna du har försett oss med är antingen felaktiga, har gått ut eller tagits från ett fel konto, se till att skicka in de korrekta",
+      "continue": "Fortsätt överföra",
+      "details": "Ange dina EA-kontouppgifter",
+      "details_description": "För att starta leveransprocessen anger du dina EA-kontouppgifter med hjälp av formuläret nedan.",
+      "finished_description": "Logga gärna tillbaka till Ultimate Team och njut av dina mynt!",
+      "finished_title": "Färdig",
+      "in_progress": "Leverans pågår",
+      "in_progress_description": "Se till att hålla Ultimate Team stängt på ditt konto tills beställningen är klar",
+      "list_full_description": "Se till att rensa din överföringslista så att vi kan påbörja leveransprocessen",
+      "list_full_title": "Överföringslistan full",
+      "login_disabled": "Inloggningsverifiering inaktiverad",
+      "login_disabled_description": "Se till att aktivera inloggningsverifiering i dina EA-kontoinställningar",
+      "queue": "Beställ i kö",
+      "queue_description": "Se till att du har loggat ut från Ultimate Team på din konsol/PC och andra enheter via FC Ultimate Team Web App/FC Companion",
+      "resubmit": "Skicka in koder igen",
+      "submit": "Skicka in detaljer",
+      "wrong_backup": "Fel säkerhetskopieringskoder"
+    }
+  },
+  "add_profile": {
+    "orders": {
+      "cancelled": "Avbruten",
+      "cancelled_description": "Din beställning har annullerats på din begäran",
+      "items": "Otilldelade objekt",
+      "items_description": "Du har ej tilldelade föremål i din Ultimate Team-klubb, se till att tilldela dem så att vi kan påbörja leveransprocessen",
+      "online": "Online i webbapp",
+      "online_description": "Logga ut från {fc} Web App / FC Companion App för att vi ska kunna fortsätta med leveransen",
+      "signed": "Inloggad",
+      "signed_description": "Logga ut från ditt konto för att vi ska kunna fortsätta med leveransen",
+      "undefined_description": "Kontakta supporten",
+      "unexpected": "Oväntat fel",
+      "unexpected_description": "Fel när beställning skapades: Kontakta supporten",
+      "unknown": "Okänt fel",
+      "wrong_cred": "Fel e-post/lösenord",
+      "wrong_cred_description": "Se till att du inte gjorde några stavfel och att du skickar in uppgifterna om ditt EA-konto, inte några andra (PSN, Xbox-nätverk etc.)"
+    }
+  },
+  "chris_coinBundles": {
+    "calc": {
+      "title": "Välj ditt eget belopp"
+    },
+    "coinCard": {
+      "action": "Köp nu"
+    },
+    "coinsAmount": {
+      "h1": "{fc} Ultimata teammynt",
+      "h2": {
+        "1": "Vad du får av oss:"
+      },
+      "list": {
+        "3": {
+          "item": {
+            "1": "{amount} k mynt i din UT-klubb"
+          }
+        }
+      },
+      "p1": "Köp EA {fc} -mynt online från den säkraste leverantören på marknaden - ROYALFUT Store. Att sälja FIFA Ultimate Team-artiklar har varit vår specialitet i mer än 7 år. Vårt mål är att säkerställa att våra kunder får de bästa erbjudandena och de säkraste överföringarna av FC UT-mynt. ROYALFUT erbjuder en bekväm och trevlig shoppingupplevelse med sitt användarvänliga gränssnitt, säkra betalningsalternativ och enastående kundservice.",
+      "p2": "Här kan du köpa {amount} k FC-mynt för endast {price} {currency}. När beställningen är gjord se till att du är utloggad från Ultimate Team både på din konsol/PC och andra enheter via FC Web App/Comanion. {amount} k mynt kommer att överföras till ditt konto inom {timeValue} {time}."
+    },
+    "h1": "Paketerbjudanden",
+    "noticePanel": "Du kan köpa vilket kort som helst på marknaden med detta belopp. Komplettera ditt drömlag!",
+    "optionCard": {
+      "desc": "Börja spara mycket tid med det helt nya verktyget från våra vänner!",
+      "title": "Prova SBC Solver till ett rabatterat pris"
+    },
+    "platform": "Plattform"
+  },
+  "chris_profile": {
+    "orders": {
+      "get_backup": "Du kan få reservkoder här:",
+      "goback": "Gå tillbaka till startsidan",
+      "noorders": "Du har inte lagt några beställningar än",
+      "noorders_text": "Det här avsnittet kommer att innehålla din beställningshistorik när du har gjort det",
+      "recom": "Vi rekommenderar att du skickar in minst 2-3 reservkoder"
+    }
+  },
+  "bailey_coinsAmount": {
+    "guaranteesCard": {
+      "1": "100 % säkra betalningar",
+      "2": "{timeValue} {time} Leveranstid",
+      "3": "Berättigad till återbetalning"
+    },
+    "h2": {
+      "2": "Vad vi behöver av dig",
+      "3": "Vad våra kunder har att säga",
+      "4": "Vanliga frågor",
+      "5": "Se även"
+    },
+    "list": {
+      "2": {
+        "item": {
+          "1": {
+            "strong": "Tillgång till ditt EA-konto",
+            "text": "— om du har en licensierad kopia av EA Sports {fc} för PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Seris X-konsoler eller PC (köpt antingen som en fysisk CD eller digitalt via EA App, Steam eller Epic Games Store), då har du tur, eftersom allt vårt system behöver från dig för att framgångsrikt komma åt din Ultimate Team-klubb är dina EA-kontouppgifter bestående av e-postadress, lösenord och några reservkoder. Men oroa dig inte, vi lagrar inte din data, den raderas efter slutförandet av varje beställning."
+          },
+          "2": {
+            "strong": "Olåst Transfer Market",
+            "text": "— en av de mest avgörande sakerna för att förbereda din klubb för en myntleverans är att se till att du redan har fått tillgång till Transfer Market i webbappen, men om den fortfarande inte är upplåst måste du börja spela 3 fulla Ultimate Team matcher en dag och besöker FC Web App / Companion på daglig basis också, fram till den åtkomstpunkt som du får."
+          },
+          "3": {
+            "strong": "Minst 5000 mynt på ditt UT-klubbsaldo",
+            "text": "— Med detta belopp kommer vårt leveranssystem att kunna påbörja överföringen. Om ditt klubbsaldo inte uppfyller detta krav, kan du sälja några säljbara föremål antingen genom att lista dem på överföringsmarknaden eller genom att använda alternativet Snabbsälj. Och självklart kan du alltid tjäna mynt genom att helt enkelt spela några matcher. Och kom ihåg, högre startsaldo resulterar i snabbare leveransprocess."
+          }
+        }
+      },
+      "3": {
+        "item": {
+          "2": "EA-skatt (5 %) täckning;",
+          "3": "100 % säkerhet för ditt konto."
+        }
+      }
+    }
+  },
+  "skyler_pages": {
+    "card": {
+      "button": {
+        "1": "Köp mynt",
+        "2": "Gå till hemsidan"
+      },
+      "title": "Psst... Letar du efter några mynt?"
+    },
+    "faq": {
+      "h1": "Vanliga frågor",
+      "nav": {
+        "items": {
+          "1": "Allmänna frågor",
+          "2": "Frågor om leverans",
+          "3": "Frågor om betalningar"
+        }
+      }
+    },
+    "rated": {
+      "button": "Betygsätt oss",
+      "h1": "Betygsatt {rate} / 5",
+      "p": {
+        "1": {
+          "link": "Recensioner",
+          "text": "Baserat på"
+        }
+      }
+    },
+    "reviews": {
+      "h1": "Recensioner",
+      "p1": "Erbjuder ett unikt leveranssystem för {fifa} mynt. Vi samarbetar med rekordmånga myntleverantörer. När vi utför din beställning använder vi speciella regler som garanterar att inga sanktioner någonsin kommer att tillämpas på ditt konto från EA. Se några av dessa regler nedan"
+    }
+  },
+  "jordan_pages": {
+    "cookie": {
+      "h1": "Cookiepolicy",
+      "h2": {
+        "1": "Om cookies",
+        "2": "Vilka typer av cookies använder vi?"
+      },
+      "h3": {
+        "1": "Nödvändiga kakor"
+      },
+      "p": {
+        "1": "Genom att använda denna webbplats och godkänna denna policy samtycker du till vår användning av cookies i enlighet med villkoren i denna policy.",
+        "2": "Cookies är enkla textfiler som lagras på din dator eller mobila enhet av en webbplatss server. Varje cookie är unik för din webbläsare. Den kommer att innehålla en del anonym information som en unik identifierare, webbplatsens domännamn och några siffror och nummer."
+      }
+    },
+    "delivery": {
+      "h1": "Leverans",
+      "h2": {
+        "1": "Här är lite statistik* för ditt intresse:"
+      },
+      "notice": "* relevant från och med 1 oktober 2023",
+      "p": {
+        "1": "Vi vill uppmärksamma dig på det innovativa leveranssystemet för EA FC-mynt som utvecklats av yours truly – ett unikt tillvägagångssätt på FIFA-myntmarknaden. Varje enskild beställning behandlas enligt en uppsättning proprietära protokoll som helt utesluter alla oönskade konsekvenser för kontot från EA. Vi förbättrar ständigt vår myntöverföringsalgoritm, utsätter den för noggrann kalibrering och ett antal olika försök och endast i händelse av en positiv utvärdering av varje testad aspekt får den grönt ljus för fullständig implementering.",
+        "p2_fragments": {
+          "1": "Och dessutom utökas vårt inflytande avsevärt genom att etablera produktiva partnerskap med många andra organisationer som är involverade i EA FC-mynthandeln. För närvarande inkluderar vårt ekosystem mer än 10 butiker som gillar detta integrerat i vår plattform. Och våra dörrar för ett sådant samarbete är alltid öppna. Om du är intresserad av att samarbeta med oss som EA FC-myntbutik, kontakta oss via",
+          "2": "eller",
+          "3": "där vi kan diskutera alla detaljer i denna samarbetsmöjlighet, vilket kommer att tillåta oss att kollektivt stärka listan över våra prestationer på FUT- och EA FC-myntmarknaden som presenteras ovan."
+        }
+      }
+    },
+    "payments": {
+      "h1": "Betalning",
+      "p": {
+        "1": "ROYALFUT.COM accepterar betalningar i sex olika valutor utan AVGIFTER.",
+        "2": "Endast registrerade användare kan göra betalningar på webbplatsen. Betalningarna organiseras genom de internationella betalningssystemen. Bankkortsinnehavare i följande regioner är förbjudna att handla: Afghanistan, Amerikanska Samoa, Aruba, Bahamas, Botswana, Burundi, Kambodja, Centralafrikanska republiken, Kongo, Demokratiska republiken Kongo, Krim och Sevastopol, Kuba, Ekvatorialguinea, Eritrea, Etiopien, Irak, Libanon, Libyen, Mali, Myanmar, Nicaragua, Nordkorea, Pakistan, Palestina, Ryska federationen, Samoa, Sierra Leone, Somalia, Sydsudan, Sudan, Syrien, Trinidad och Tobago, Turkmenistan, Uganda, Amerikanska Jungfruöarna, Venezuela, Jemen, Zimbabwe.",
+        "3": "När du köper vår digitala produkt kan du vara säker på att dina pengar är säkra."
+      }
+    }
+  },
+  "kendall_pages": {
+    "cookie": {
+      "h2": {
+        "3": "Blockerar cookies",
+        "4": "Hur tar man bort cookies?"
+      },
+      "h3": {
+        "2": "Funktionscookies",
+        "3": "Analytiska cookies",
+        "4": "Tredje parts cookies"
+      },
+      "list": {
+        "1": {
+          "item": {
+            "1": "för att spåra din webbläsare över flera webbplatser",
+            "2": "för att skapa en profil för din webbsurfning",
+            "3": "att rikta in annonser baserat på din interaktion med deras tjänster, vilket kan vara av särskilt intresse för dig."
+          }
+        }
+      },
+      "p": {
+        "3": "Nödvändiga cookies tillåter oss att erbjuda dig den bästa möjliga upplevelsen när du kommer åt och navigerar genom vår webbplats och använder dess funktioner. Till exempel tillåter dessa cookies oss att känna igen att du har skapat ett konto och har loggat in på det kontot.",
+        "4": "Funktionscookies låter oss driva webbplatsen i enlighet med de val du gör. Till exempel kommer vi att känna igen ditt användarnamn och komma ihåg hur du anpassade webbplatsen vid framtida besök.",
+        "5": "Dessa cookies gör det möjligt för oss och tredjepartstjänster att samla in samlad data för statistiska ändamål om hur våra besökare använder webbplatsen. Dessa cookies innehåller inte personlig information såsom namn och e-postadresser och används för att hjälpa oss att förbättra din användarupplevelse av webbplatsen.",
+        "6": "När du använder webbplatsen kan du också få tredjepartscookies.\n\n",
+        "7": "Våra annonsörer och tjänsteleverantörer kan skicka cookies till dig. De kan använda informationen de får från din användning av deras cookies:",
+        "8": "Vi använder Google Analytics, en webbanalystjänst som tillhandahålls av Google, Inc. (\"Google\"). Google Analytics använder \"cookies\", som är textfiler som placeras på din dator, för att hjälpa webbplatsen att analysera hur användarna använder webbplatsen. Informationen som genereras av cookien om din användning av webbplatsen (inklusive din IP-adress) kommer att överföras till och lagras av Google på servrar i USA. IP-adressen kommer att trunkeras före överföring för att säkerställa anonymitet. På våra vägnar kommer Google att använda denna information för att utvärdera din användning av webbplatsen, sammanställa rapporter om webbplatsaktivitet och tillhandahålla andra tjänster relaterade till webbplatsaktivitet och internetaktivitet i samband med användningen av webbplatsen. Google kommer inte att koppla din IP-adress till någon annan data som innehas av Google. Du kan neka användningen av cookies genom att välja lämpliga inställningar i din webbläsare; Observera dock att om du gör detta kanske du inte kan använda alla funktioner på denna webbplats. Utöver det kan du förhindra insamlingen av informationen som genereras av cookien om din användning av webbplatsen (inklusive din IP-adress) och behandlingen av dessa uppgifter av Google om du laddar ner och installerar plugin-programmet för webbläsaren som finns tillgängligt på följande länk:",
+        "9": "De flesta webbläsare tillåter dig att vägra acceptera cookies. Du kan hitta på google.com hur du blockerar alla cookies i din webbläsare.",
+        "10": "Att blockera alla cookies kommer dock att ha en negativ inverkan på användbarheten av många webbplatser. Om du blockerar cookies kan det hända att du inte kan använda vissa funktioner på webbplatsen (logga in, komma åt innehåll, använda sökfunktioner).",
+        "11": {
+          "1": "Om du vill begränsa eller blockera cookies som sätts av vår webbplats kan du göra det via din webbläsarinställning. Alternativt kan du besöka"
+        }
+      }
+    }
+  },
+  "jules_pages": {
+    "cookie": {
+      "h3": {
+        "5": "Kontakta oss"
+      },
+      "p": {
+        "11": {
+          "2": ", som innehåller omfattande information om hur du gör detta på en mängd olika webbläsare och enheter. Du hittar allmän information om cookies och detaljer om hur du tar bort cookies från din enhet."
+        },
+        "12": "Om du har några frågor angående denna policy eller vår användning av cookies är du välkommen att kontakta oss på"
+      }
+    },
+    "privacy": {
+      "h1": "Integritetspolicy",
+      "list": {
+        "1": {
+          "item": {
+            "1": "Förse dig med våra tjänster.",
+            "2": "Kontakta dig via e-post, telefon eller på annat sätt för att lösa tvister, samla in avgifter, felsöka ditt konto eller våra webbplatser, tjänster, applikationer eller verktyg, eller för andra ändamål som är tillåtna enligt lag.",
+            "3": "Förebygga och upptäcka bedrägerier, säkerhetsintrång, potentiellt förbjudna eller olagliga aktiviteter och upprätthålla våra användaravtal",
+            "4": "Kontrollera för att identifiera våra kunder och verifiera deras identitet",
+            "5": "Operativa skäl som effektivitetsvinster, utbildning och kvalitetskontroll",
+            "6": "Förhindra obehörig åtkomst och modifieringar av våra system",
+            "7": "Marknadsföring av våra tjänster och tjänster från utvalda tredje parter för:",
+            "8": "Externa revisioner och kvalitetskontroller",
+            "7_0": "- befintliga och tidigare kunder",
+            "7_1": "- tredje part som tidigare har uttryckt intresse för våra tjänster",
+            "7_2": "- tredje part som vi tidigare inte har haft några affärer med"
+          },
+          "p": "Operatören behandlar personens uppgifter för att:"
+        }
+      },
+      "p": {
+        "1": "Genom att registrera sig på tjänsten ger användaren ROYALFUT sitt samtycke att kontrollera och behandla sina personuppgifter baserat på följande villkor:"
+      }
+    }
+  },
+  "dakota_pages": {
+    "privacy": {
+      "list": {
+        "2": {
+          "item": {
+            "1": "ditt namn och kontaktuppgifter, inklusive e-postadress och telefonnummer",
+            "2": "information som gör att vi kan verifiera och bekräfta din identitet, såsom ditt födelsedatum",
+            "3": "din könsinformation, om du väljer att lämna den till oss",
+            "4": "datorinloggningsdata, sidvisningsstatistik, trafik till och från ROYALFUT och cookieinformation",
+            "5": "platsdata",
+            "6": "information om din leverans (plattform, antal mynt i beställningen), faktureringsinformation, information om transaktioner och betalkort",
+            "7": "dina personliga eller professionella intressen",
+            "8": "din professionella närvaro online",
+            "9": "din kontakthistorik med ROYALFUT, dess anställda, direktörer, affiliates, din köphistorik och sparade föremål på ROYALFUT",
+            "10": "information om de konton du länkar till ROYALFUT, till exempel Facebook, Google och andra plattformar",
+            "11": "information som gör att vi kan utföra kreditkontroller eller andra finansiella kontroller av dig",
+            "12": "information om hur du använder ROYALFUT-webbplatsen",
+            "13": "dina svar på omröstningar och information om deltagande i tävlingar, giveaways och specialerbjudanden",
+            "14": "transaktionsinformation baserad på din ROYALFUT-aktivitet (t.ex. information för att förenkla köp- och säljprocessen)",
+            "15": "offentliga diskussioner, chattar, tvistlösning, korrespondens via ROYALFUT, samt korrespondens skickad till oss"
+          },
+          "p": {
+            "1": "Listan över personuppgifter som överförts till ROYALFUT för behandling:",
+            "2": "Vi kan samla in och använda följande personuppgifter om dig:"
+          }
+        }
+      }
+    }
+  },
+  "quinn_pages": {
+    "home": {
+      "calc": {
+        "panel": {
+          "info": {
+            "ccy": "Totalt pris"
+          }
+        }
+      },
+      "header": {
+        "nav": {
+          "1": "Köp mynt",
+          "2": "Myntbuntar",
+          "3": "Recensioner",
+          "4": "FAQ",
+          "5": "Blogg"
+        }
+      },
+      "heading": {
+        "1": {
+          "1": "SÄKRA ALTERNATIV ATT KÖPA",
+          "2": "{fc} MYNT"
+        }
+      }
+    },
+    "privacy": {
+      "list": {
+        "2": {
+          "item": {
+            "16": "annan information, inklusive IP-adress och standardwebblogginformation (webbläsartyp, Internetleverantör (ISP), referens-/utgångssidor, operativsystem, datum/tidsstämpel och klickströmsdata), samt ytterligare information från tredje part, som t.ex. faktureringskontoinformation som tillhandahålls av alla betalningstjänster du använder för att göra köp eller ta emot betalningar, såväl som ditt webbläsar-ID, cookie-ID, enhets-ID, enhetstyp, information om proxyserveranvändning/VPN och relaterade tekniker, platsinformation, e-postadresser, telefonnummer och offentliga sociala medieprofiler som tillhandahålls av våra leverantörer av betalningsbedrägerier och kundkännedom."
+          }
+        }
+      },
+      "p": {
+        "2": "Dessa personuppgifter är nödvändiga för att kunna tillhandahålla dig våra tjänster. Du kan välja att inte ge oss information, men viss information om dig är nödvändig för att du ska: registrera dig som medlem; köpa produkter eller tjänster, fylla i en profil; delta i undersökningar, tävlingar eller dragningar; ställ en fråga till oss eller initiera andra transaktioner på vår webbplats. ROYALFUT använder även denna information för trendanalys, bedrägeriupptäckt och webbplatsadministration.",
+        "3": "Samtycke gäller från det att den personuppgiftsansvarige är registrerad hos",
+        "4": "Om du vill ta bort ditt RoyalFUT-konto vänligen skicka förfrågan till"
+      }
+    },
+    "terms": {
+      "h1": "Regler och villkor",
+      "h2": {
+        "1": "Användaravtal"
+      },
+      "p": {
+        "1": {
+          "1": "Läs följande användaravtal noggrant. Om du inte accepterar någon av punkterna i detta användaravtal har du inte rätt att bekräfta din registrering, använda alla tjänster som tillhandahålls av",
+          "2": ", eller sälja, köpa eller byta varor via denna handelsplattform."
+        }
+      }
+    },
+    "trustScore": {
+      "reviewsAmount": "{reviewsAmount} recensioner"
+    }
+  },
+  "phoenix_pages": {
+    "auth": {
+      "action": {
+        "changeEmail": "Ändra e-post",
+        "login": "Skaffa länken",
+        "sendCodeAgain": "Skicka koden igen"
+      },
+      "btn": {
+        "login": "Logga in"
+      },
+      "divider": {
+        "1": "Eller"
+      },
+      "email": {
+        "placeholder": "E-post"
+      },
+      "notify": {
+        "sentConfirmationCode": "Vi har skickat en sexsiffrig bekräftelsekod till dig<mail> {address}</mail> . Ange den nedan för att bekräfta din e-postadress."
+      },
+      "oauth": {
+        "google": "Fortsätt med Google"
+      },
+      "text": {
+        "authTitle": "Logga in eller registrera dig",
+        "code": "Ange 6-siffrig kod",
+        "codeInfo": "Lämna din e-post så skickar vi en auktoriseringslänk till dig"
+      }
+    },
+    "contacts": {
+      "h1": "Kontakter",
+      "title": {
+        "1": "Kontakta oss via",
+        "2": "Social"
+      }
+    },
+    "faq": {
+      "action": "Har du fler frågor?"
+    }
+  },
+  "jamie_pages": {
+    "faq": {
+      "acc": {
+        "q": {
+          "1": {
+            "title": "Varför ska jag välja ROYALFUT?"
+          },
+          "2": {
+            "title": "Vilka är fördelarna med att köpa EAS FC-mynt framför FC-poäng?"
+          },
+          "3": {
+            "title": "Hur lång tid tar myntleveransen?"
+          },
+          "4": {
+            "title": "Hur använder jag en rabattkupong?"
+          },
+          "5": {
+            "title": "Finns det några specialerbjudanden för vanliga kunder?"
+          },
+          "6": {
+            "title": "Hur ska jag förbereda min FC Ultimate Team-klubb för en myntöverföring?"
+          },
+          "7": {
+            "title": "Hur kontrollerar jag om min Transfer Market i FC Ultimate Team Web App är upplåst eller inte?"
+          }
+        }
+      },
+      "nav": {
+        "1": "Allmänna frågor",
+        "2": "Frågor om leverans",
+        "3": "Frågor om betalningar"
+      },
+      "q": {
+        "1": {
+          "title": "Varför ska jag välja ROYALFUT?"
+        },
+        "2": {
+          "content": {
+            "1": "Mynt är förstahandsvalet för de flesta EA Sports FC-spelare runt om i världen på grund av deras låga kostnad och möjligheten att spendera dem mycket mer fördelaktigt för din FC Ultimate Team-klubb. Du kan spendera Ultimate Team-mynt på föremål i spelet som har listats på transfermarknaden av andra spelare. Dessa kan vara spelarkort, tränarkort, uniformssatser, arenor, förbrukningsartiklar och mer. Och viktigast av allt, ingen av dessa kan köpas med FC-poäng. Med FC Points kan du köpa paket från FC Ultimate Team-butiken och få tillgång till FC Ultimate Team Drafts. Du kan dock göra båda dessa saker med mynt också. När det gäller riktiga pengar är det mer än 5 gånger billigare att handla i spelet med EAS FC-mynt istället för FC-poäng. Börja handla mynt hos oss och se själv 😉",
+            "2": "Du kan spendera {fc} Ultimate Team Coins på föremål i spelet som har listats på transfermarknaden av andra spelare. Dessa kan vara spelarkort, tränarkort, uniformssatser, arenor, förbrukningsartiklar och mer. Och viktigast av allt, ingen av dessa kan köpas med FC-poäng.",
+            "3": "Med FC Points kan du köpa paket från {fc} Ultimate Team-butiken och få tillgång till {fc} Ultimate Team Drafts. Du kan dock göra båda dessa saker med mynt också. När det gäller riktiga pengar är det mer än 5 gånger billigare att handla i spelet med {fc} Ultimate Team-mynt istället för FC-poäng. Börja handla mynt hos oss och se själv 😉"
+          },
+          "title": "Vilka är fördelarna med att köpa EAS FC-mynt framför FC-poäng?"
+        },
+        "3": {
+          "content": "Ja, det finns. Du kommer att börja få specialerbjudanden så snart vi märker att du har börjat handla från oss regelbundet. För att inte tala om att vi också har ett transparent lojalitetsprogram på gång. Håll utkik efter uppdateringarna!",
+          "title": "Finns det några specialerbjudanden för vanliga kunder?"
+        }
+      }
+    }
+  },
+  "alex_pages": {
+    "faq": {
+      "acc": {
+        "q": {
+          "1": {
+            "content": "<content>Det finns flera anledningar till det som du säkert kommer att upptäcka själv efter det första köpet:</content><list><listItem> Ett stort antal recensioner från nöjda kunder som kan hittas<link> här.</link></listItem><listItem> Den absoluta säkerheten för ditt konto som alltid kommer först och en full återbetalningsgaranti ifall din beställning av någon anledning inte levererades.</listItem><listItem> Kortaste leveranstid — hos oss kommer du att glömma de långa väntetiderna för att beställningen ska slutföras.</listItem><listItem> Vårt supportteam är alltid redo att hjälpa dig att lösa alla problem du kan stöta på, både före och efter köpet, oavsett om det sker via livechatt eller något annat val du väljer (WhatsApp, Telegram, Instagram direkt eller e-post).</listItem></list>"
+          },
+          "2": {
+            "content": "<content>Mynt är förstahandsvalet för de flesta EA Sports FC-spelare runt om i världen på grund av deras låga kostnad och möjligheten att spendera dem mycket mer fördelaktigt för din FC Ultimate Team-klubb. Du kan spendera Ultimate Team-mynt på föremål i spelet som har listats på transfermarknaden av andra spelare. Dessa kan vara spelarkort, tränarkort, uniformssatser, arenor, förbrukningsartiklar och mer. Och viktigast av allt, ingen av dessa kan köpas med FC-poäng. Med FC Points kan du köpa paket från FC Ultimate Team-butiken och få tillgång till FC Ultimate Team Drafts. Du kan dock göra båda dessa saker med mynt också. När det gäller riktiga pengar är det mer än 5 gånger billigare att handla i spelet med EAS FC-mynt istället för FC-poäng. Börja handla mynt hos oss och se själv 😉</content><content> Du kan spendera {fc} Ultimate Team Coins på föremål i spelet som har listats på transfermarknaden av andra spelare. Dessa kan vara spelarkort, tränarkort, uniformssatser, arenor, förbrukningsartiklar och mer. Och viktigast av allt, ingen av dessa kan köpas med FC-poäng.</content><content> Med FC Points kan du köpa paket från {fc} Ultimate Team-butiken och få tillgång till {fc} Ultimate Team Drafts. Du kan dock göra båda dessa saker med mynt också. När det gäller riktiga pengar är det mer än 5 gånger billigare att handla i spelet med {fc} Ultimate Team-mynt istället för FC-poäng. Börja handla mynt hos oss och se själv 😉</content>"
+          },
+          "3": {
+            "content": "<content>Det beror på vilket leveranssätt du väljer.</content><content> Vi visar ungefärlig leveranstid för Comfort Trade-ordrar före betalning på kassasidan. Om alla uppgifter du har lämnat är korrekta och ditt konto är helt klart för myntöverföring, kommer beställningen att slutföras inom 15-20 minuter i genomsnitt. Tänk dock på att leveranstiden i första hand beror på mängden beställda mynt.</content><content> När det gäller leveransmetoden för spelarauktioner beror tidpunkterna för detta alternativ helt på dig. Myntöverföringen genomförs genom att köpa och sälja spelarkort. Det tar i genomsnitt 3-10 kort som föreslås av vårt system för att köpas och säljas av dig för att beställningen ska slutföras med denna metod. Men observera att ditt startsaldo spelar en viktig roll i det här scenariot — ju större det är, desto snabbare kommer leveransen att behandlas, så försök att göra det så högt som möjligt innan du lägger en beställning, du kan till exempel sälja oönskade kort.</content>"
+          },
+          "4": {
+            "content": "Gå till kassasidan."
+          },
+          "5": {
+            "content": "Ja, det finns. Du kommer att börja få specialerbjudanden så snart vi märker att du har börjat handla från oss regelbundet. För att inte tala om att vi också har ett transparent lojalitetsprogram på gång. Håll utkik efter uppdateringarna!"
+          },
+          "6": {
+            "content": "<list><listItem>Se till att din Transfer Market i FC Ultimate Team Web App är upplåst</listItem><listItem> Behåll minst 5000 mynt på ditt UT-klubbsaldo</listItem><listItem> Rensa så mycket utrymme som möjligt i din överföringslista och listan över överföringsmål</listItem><listItem> Tilldela alla otilldelade föremål, om du har några, till din klubb</listItem></list>"
+          },
+          "8": {
+            "title": "Vilka steg ska jag vidta för att göra en beställning och ta emot de köpta mynten?"
+          },
+          "9": {
+            "title": "Vilka uppgifter ska jag skicka för att starta leveransprocessen för min beställning?"
+          },
+          "10": {
+            "title": "Hur skyddar ROYALFUT min personliga information?"
+          },
+          "11": {
+            "title": "Hur aktiverar jag inloggningsverifiering för mitt EA-konto?"
+          },
+          "12": {
+            "title": "Jag kommer inte ihåg min e-postadress för EA-kontot, var kan jag hitta den?"
+          },
+          "13": {
+            "title": "Jag har glömt mitt EA-kontolösenord, hur återställer jag det?"
+          },
+          "14": {
+            "title": "Hur kan jag hämta reservkoderna för mitt EA-konto?"
+          },
+          "15": {
+            "title": "Vilka länder verkar du i?"
+          },
+          "16": {
+            "title": "Vilka betalningsmetoder finns tillgängliga på din webbplats?"
+          },
+          "17": {
+            "title": "Hur återbetalar jag min beställning?"
+          },
+          "18": {
+            "title": "Köper du mynt från användare också?"
+          }
+        }
+      }
+    }
+  },
+  "drew_pages": {
+    "faq": {
+      "acc": {
+        "q": {
+          "7": {
+            "content": "<content>Transfer Market är upplåst</content><content> Transfer Market är låst</content>"
+          },
+          "8": {
+            "content": "<list><listItem>Välj din plattform och önskat antal mynt</listItem><listItem> Betala för din beställning.</listItem><listItem> Efter lyckad betalning måste du fylla i dina EA-kontouppgifter i respektive inmatningsfält och trycka på knappen \"Spara ändringar\"</listItem><listItem> Om de inlämnade uppgifterna är korrekta och inga andra problem med ditt konto uppstår, kommer den automatiska leveransprocessen att börja under vilken du INTE ska logga in på FC Ultimate Team varken på din konsol/PC eller någon annan enhet via FC Web App/Comanion. Så snart leveransen av dina mynt är klar kommer statusen för din beställning att ändras till \"Färdig\" och du kommer också att meddelas om detta via e-post. Du kan hitta mer information om hela processen i videon nedan. <button>Läs mer</button></listItem><listItem> Det var allt, logga gärna in igen på Ultimate Team och spendera mynten! Och om du gillade din vistelse på ROYALFUT, glöm inte att lämna ett omdöme för oss på Trustpilot.review för oss på Trustpilot.</listItem></list><content> Om du har några frågor eller behöver hjälp i något skede, tveka inte att kontakta vårt supportteam via livechatt eller något annat val du väljer (WhatsApp, Telegram, Instagram Direct eller e-post).</content>"
+          },
+          "9": {
+            "content": "Endast e-post, lösenord och reservkoder för ditt EA-konto. Du behöver inte dela ditt EA-ID och PSN/Xbox-kontouppgifter eller andra detaljer."
+          },
+          "10": {
+            "content": "<content>Administrationen av projektet skyddar informationen som överförs via webbplatsen från hackning och stöld baserat på vår strikta integritetspolicy och vårt ledningssystem. Vi delar INTE dina EA-kontouppgifter, data från betalkort etc. till tredje part under INGA omständigheter! Läs mer på vår</content><link> Sekretesspolicy sida.</link>"
+          },
+          "11": {
+            "content": "<list><listItem>Öppna sidan med EA-kontoinställningar</listItem><listItem> Säkerhet > Inloggningsverifiering > Slå på > Skicka kod > Slå på inloggningsverifiering</listItem></list>"
+          },
+          "12": {
+            "content": "<list><listItem>Öppna spelet och gå till huvudmenyn.</listItem><listItem> Anpassa > Onlineinställningar > EA-konto.</listItem></list>"
+          },
+          "13": {
+            "content": "<list><listItem>Gå till EA-kontots inloggningssida.</listItem><listItem> Logga in > Glömt ditt lösenord? > Nästa > Skicka kod > Nästa > Skicka.</listItem></list>"
+          },
+          "14": {
+            "content": "<content>Du hittar dina reservkoder i dina EA-kontoinställningar. Här är länken som tar dig direkt till det:</content><link> https://myaccount.ea.com/cp-ui/security/index</link>"
+          },
+          "15": {
+            "content": "Vi verkar över hela världen och accepterar betalningar från alla regioner, med undantag för högriskjurisdiktioner som Afghanistan, Nordkorea, Syrien, Republiken Krim och andra."
+          },
+          "16": {
+            "content": "<content>Listan över betalningsmetoder vi stödjer uppdateras ständigt eftersom vi strävar efter att förbättra upplevelsen av användarinteraktion med vår tjänst. För närvarande accepterar vi följande betalningsmetoder:</content><list><listItem> VISA, MasterCard, Maestro, Discover, DinnersClub, JCB och UnionPay-kort.</listItem><listItem> Kontaktlös betalning via Apple Pay och Google Pay.</listItem><listItem> Banköverföring genom de flesta EU-banker, iDeal och andra.</listItem><listItem> Kryptovalutor — Bitcoin, USD Tether, Etherium.</listItem></list>"
+          },
+          "17": {
+            "content": "Om du framgångsrikt har betalat för din beställning, men av någon anledning inte behöver mynt längre, kan du begära full återbetalning. För att göra det måste du kontakta vår supporttjänst via livechatt eller något annat val du väljer (WhatsApp, Telegram, Instagram Direct eller e-post)."
+          },
+          "18": {
+            "content": "Det är inte vårt huvudsakliga fokus, men ibland gör vi, kan du kontakta vår manager via Skype eller Telegram och vi kommer att överväga ert anbud."
+          }
+        }
+      }
+    }
+  }
+}

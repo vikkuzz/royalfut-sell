@@ -1,0 +1,860 @@
+{
+  "default": {},
+  "car_home": {
+    "carousel": {
+      "promo": {
+        "4": {
+          "desc": "Les joueurs les plus convoités d'Ultimate Team seront enfin à votre disposition. Commencez à collectionner les cartes désirables de chaque promo FC UT et ne vous privez jamais !",
+          "title": "Obtenez la carte que vous voulez"
+        },
+        "5": {
+          "desc": "Oubliez la frustration liée à l'agriculture de pièces et commencez à consacrer votre temps précieux à ce qui compte vraiment : le jeu lui-même !",
+          "title": "Jouez maintenant - ne perdez pas votre temps à gagner des pièces"
+        },
+        "action": {
+          "title": "Acheter des pièces"
+        }
+      }
+    },
+    "coins": {
+      "options": {
+        "1": {
+          "desc": "Même les clients les plus exigeants seront ravis du bonus d'achat. Obtenez-le dès aujourd'hui !",
+          "title": "Paquets de pièces"
+        },
+        "2": {
+          "desc": "Commencez à gagner beaucoup de temps avec le tout nouvel outil de nos amis !",
+          "title": "Essayez SBC Solver à un tarif réduit"
+        },
+        "title": "Essayez également ces options"
+      }
+    },
+    "delivery": {
+      "process": {
+        "card": {
+          "1": {
+            "desc": "Sélectionnez votre plateforme et la quantité de pièces souhaitée, puis payez votre commande.",
+            "title": "Passer une commande"
+          },
+          "2": {
+            "desc": "Après un paiement réussi, accédez à la page Historique des commandes, recherchez votre commande et effectuez les actions requises pour démarrer le processus de livraison.",
+            "title": "Lancer la livraison"
+          },
+          "3": {
+            "desc": "Une fois la commande terminée, n'hésitez pas à dépenser les pièces comme vous le souhaitez et revenez vers nous quand vous avez besoin d'une recharge.",
+            "title": "Profitez de votre achat"
+          }
+        },
+        "desc": "Besoin d'aide ? Contactez notre équipe d'assistance à tout moment"
+      }
+    }
+  },
+  "li_home": {
+    "delivery": {
+      "process": {
+        "title": "Processus de livraison"
+      }
+    },
+    "faq": {
+      "q": {
+        "1": {
+          "content": "<content>Il y a plusieurs raisons à cela que vous découvrirez sûrement vous-même après le premier achat :</content><list><listItem> Un grand nombre d'avis de clients satisfaits que vous pouvez trouver<link> ici.</link></listItem><listItem> La sécurité absolue de votre compte qui passe toujours en premier et une garantie de remboursement complet au cas où votre commande ne serait pas livrée pour une raison quelconque.</listItem><listItem> Délais de livraison les plus courts — avec nous, vous oublierez les longs délais d’attente pour que la commande soit exécutée.</listItem><listItem> Notre équipe d'assistance est toujours prête à vous aider à résoudre tout problème que vous pourriez rencontrer, avant et après l'achat, que ce soit via le chat en direct ou tout autre moyen de votre choix (WhatsApp, Telegram, Instagram direct ou e-mail).</listItem></list>"
+        }
+      }
+    },
+    "heading": {
+      "1": {
+        "1": "L'option d'achat la plus sûre ",
+        "2": "24 pièces FC"
+      }
+    },
+    "infographic": {
+      "stats": {
+        "desc": {
+          "1": "années d'expérience dans ce domaine",
+          "2": "pièces transférées sur les comptes de nos clients",
+          "3": "commandes livrées avec succès",
+          "4": "joueurs qui ont essayé notre service",
+          "5": "des clients fidèles qui ont effectué un achat au moins deux fois",
+          "6": "taux de satisfaction client selon les résultats des sondages"
+        }
+      }
+    },
+    "loyalty": {
+      "program": {
+        "overview": {
+          "action": {
+            "primary": "Acheter des pièces",
+            "sec": "Apprendre encore plus"
+          },
+          "desc": "Chaque achat vous propulse dans le monde des merveilles du football ! Embarquez pour une aventure numérique passionnante pleine d'achats, de gains, de dépenses et d'atteinte de nouveaux niveaux !",
+          "stats": {
+            "1": "Utilisateurs participant déjà à notre programme de fidélité",
+            "2": "Des points ROYAL ont déjà été gagnés par nos clients"
+          },
+          "steps": {
+            "1": {
+              "desc": "Obtenez des pièces brillantes pour améliorer votre expérience de jeu et faire ressortir tout votre potentiel Ultimate Team !",
+              "title": "Acheter des pièces"
+            }
+          }
+        }
+      }
+    }
+  },
+  "pi_cookie": {
+    "widget": {
+      "action": {
+        "1": "Accepter",
+        "2": "Rejeter tout"
+      },
+      "checkbox": {
+        "1": "Nécessaire",
+        "2": "Analytique"
+      },
+      "details": "Ce site Web utilise des cookies pour optimiser ses fonctionnalités et offrir une expérience de navigation agréable. N'hésitez pas à explorer notre site Web en toute confiance, car votre vie privée est respectée et vous avez le contrôle sur le consentement aux cookies. Consultez notre<link> Politique de cookies</link> ."
+    }
+  },
+  "pi_home": {
+    "loyalty": {
+      "program": {
+        "overview": {
+          "steps": {
+            "2": {
+              "desc": "Collectez des points ROYAL à chaque fois que vous achetez des pièces sur notre site Web et débloquez des avantages supplémentaires en atteignant de nouveaux niveaux de fidélité.",
+              "title": "Gagnez des points ROYAL"
+            },
+            "3": {
+              "desc": "Échangez vos points ROYAL sur vos futurs achats et profitez de vos recharges de pièces avec une remise !",
+              "title": "Dépensez votre Cashback"
+            }
+          },
+          "title": "Comment fonctionne notre programme de fidélité ?"
+        }
+      }
+    },
+    "promotional": {
+      "offer": {
+        "fc24": {
+          "description": "Si vous en avez assez de broyer des pièces {fc} nous avons une solution parfaite à faible coût pour vous ! Découvrez <b>ROYALFUT.com</b> , la boutique de pièces EA FC la plus fiable avec de nombreuses années d'expérience dans ce domaine. Cette place de marché très bien notée propose les prix les plus bas pour les pièces {fifa} en ligne et peut garantir une livraison rapide et une sécurité à 100 % de votre compte. L'achat de pièces FC chez ROYALFUT est l'option la plus abordable et la plus légitime lorsqu'il s'agit de vous aider à rendre votre jeu encore plus agréable sans risque de conséquences désagréables. Les offres régulières de pièces Ultimate Team que vous pouvez trouver dans cette boutique sont des prix déjà bas en baisse, ce qui vous permet de réaliser les transactions en jeu les plus rentables. La plateforme ROYALFUT n'est pas seulement fiable à 100 % en ce qui concerne ses pièces FUT à vendre, mais elle est également connue pour son incroyable support client qui vous aidera toujours à répondre à toutes vos questions ou problèmes. Il est assez rare de nos jours de trouver un magasin de pièces {ut} légitime, mais <b>ROYALFUT.com</b> en fait sans aucun doute partie. C'est absolument le meilleur endroit pour vous si vous cherchez à acheter des pièces Ultimate Team pour PC, PS4, PS5, Xbox One, Xbox Series X ou Xbox Series S avec des paiements 100% sécurisés et une livraison instantanée.\n"
+        }
+      }
+    },
+    "trustpilot": {
+      "reviews": {
+        "action": "Acheter des pièces",
+        "count": "Basé sur<highlight> {amount} avis</highlight>",
+        "rate": "Excellent",
+        "rating": "Évaluation {amount} / {max}\n",
+        "title": "Ce que disent nos clients",
+        "verified": "Entreprise vérifiée"
+      }
+    }
+  },
+  "vpr_auth": {
+    "validation": {
+      "invalidEmail": "Adresse email invalide."
+    }
+  },
+  "vpr_home": {
+    "benefit": {
+      "1": {
+        "desc": "Notre équipe a été initialement formée lors de la saison FIFA 17. Depuis lors, nous avons transféré plus de 100 milliards de pièces à nos clients, plus de 60 000 clubs du monde entier ont reçu des recharges de pièces de notre part et au moins 10 autres magasins utilisent notre algorithme de transfert de pièces.",
+        "title": "Une longue expérience"
+      },
+      "2": {
+        "desc": "Notre objectif principal est de vous proposer l'option la plus sûre pour recharger le solde de votre club FUT. Nous améliorons constamment notre algorithme de transfert de pièces, en le testant sur des milliers de nos comptes avant de le valider.",
+        "title": "Sûr et fiable"
+      },
+      "3": {
+        "desc": "Nous apprécions votre temps, c'est pourquoi nous sommes toujours déterminés à poursuivre l'amélioration continue de certains aspects de notre site Web tels que l'interface et la qualité de notre service d'assistance client afin de garantir que votre expérience d'achat avec nous se déroule le plus facilement possible.",
+        "title": "Un niveau de service élevé"
+      },
+      "4": {
+        "desc": "Nous offrons l'un des prix les plus bas du marché, et pour nos clients réguliers, le prix est encore plus bas !",
+        "title": "Des prix abordables"
+      }
+    },
+    "calc": {
+      "panel": {
+        "action": {
+          "1": "Vérifier"
+        },
+        "info": {
+          "ccy": "Prix total"
+        }
+      }
+    },
+    "carousel": {
+      "promo": {
+        "1": {
+          "desc": "Jouer avec les meilleures cartes de joueur de votre arsenal est un chemin direct vers la gloire pour atteindre les meilleurs rangs et obtenir les plus grandes récompenses. Tout est entre vos mains !",
+          "title": "Atteignez les rangs les plus élevés"
+        },
+        "2": {
+          "desc": "Avec les 24 pièces EA Sports FC, vous êtes libre de choisir les meilleures options possibles pour chaque poste de votre équipe. Laissez libre cours à votre imagination, essayez de nouvelles choses, expérimentez !",
+          "title": "Construisez votre équipe de rêve maintenant"
+        },
+        "3": {
+          "desc": "Découvrez de nouvelles expériences en utilisant les meilleurs joueurs avec différentes combinaisons PlayStyles+ qui affectent le gameplay dans Ultimate Team.",
+          "title": "Découvrez plus de fonctionnalités dans le jeu en utilisant des cartes bien notées"
+        }
+      }
+    }
+  },
+  "ye_user": {
+    "action": {
+      "logOut": "Se déconnecter"
+    },
+    "bar": {
+      "nav": {
+        "1": {
+          "1": "Historique des commandes",
+          "2": "Paramètres",
+          "3": "Programme de fidélité",
+          "title": "Profil"
+        }
+      }
+    }
+  },
+  "ye_default": {
+    "trustScore": {
+      "reviewsAmount": "{amount} avis"
+    }
+  },
+  "ye_profile": {
+    "action": {
+      "logOut": "Se déconnecter"
+    },
+    "title": {
+      "account": "Votre compte"
+    }
+  },
+  "ye_footer": {
+    "nav": {
+      "1": {
+        "1": "Livraison",
+        "2": "Paiement",
+        "3": "Termes et conditions",
+        "4": "politique de confidentialité",
+        "5": "Politique de cookies"
+      }
+    },
+    "title": {
+      "contacts": "Contacts",
+      "nav": {
+        "1": "Plate-forme",
+        "2": "Informations"
+      },
+      "socials": "Nos réseaux sociaux"
+    }
+  },
+  "cs_home": {
+    "carousel": {
+      "promo": {
+        "1": {
+          "title": "Atteignez les rangs les plus élevés"
+        },
+        "2": {
+          "desc": "Avec les 24 pièces EA Sports FC, vous êtes libre de choisir les meilleures options possibles pour chaque poste de votre équipe. Laissez libre cours à votre imagination, essayez de nouvelles choses, expérimentez !",
+          "title": "Construisez votre équipe de rêve maintenant"
+        },
+        "3": {
+          "desc": "Découvrez de nouvelles expériences en utilisant les meilleurs joueurs avec différentes combinaisons PlayStyles+ qui affectent le gameplay dans Ultimate Team.",
+          "title": "Découvrez plus de fonctionnalités dans le jeu en utilisant des cartes bien notées"
+        },
+        "4": {
+          "desc": "Les joueurs les plus convoités d'Ultimate Team seront enfin à votre disposition. Commencez à collectionner les cartes désirables de chaque promo FC UT et ne vous privez jamais !",
+          "title": "Obtenez la carte que vous voulez"
+        },
+        "5": {
+          "desc": "Oubliez la frustration liée à l'agriculture de pièces et commencez à consacrer votre temps précieux à ce qui compte vraiment : le jeu lui-même !",
+          "title": "Jouez maintenant - ne perdez pas votre temps à gagner des pièces"
+        },
+        "action": {
+          "title": "Acheter des pièces"
+        }
+      }
+    },
+    "coins": {
+      "options": {
+        "1": {
+          "desc": "Même les clients les plus exigeants seront ravis du bonus d'achat. Obtenez-le dès aujourd'hui !",
+          "title": "Paquets de pièces"
+        },
+        "2": {
+          "desc": "Commencez à gagner beaucoup de temps avec le tout nouvel outil de nos amis !",
+          "title": "Essayez SBC Solver à un tarif réduit"
+        },
+        "title": "Essayez également ces options"
+      }
+    },
+    "delivery": {
+      "process": {
+        "card": {
+          "1": {
+            "desc": "Sélectionnez votre plateforme et la quantité de pièces souhaitée, puis payez votre commande.",
+            "title": "Passer une commande"
+          }
+        }
+      }
+    }
+  },
+  "kelly_profile": {
+    "orders": {
+      "amount": "Montant",
+      "failed_description": "Veuillez réessayer ou modifier le mode de paiement si le problème persiste",
+      "failed_title": "Paiement échoué",
+      "make": "Effectuer le paiement",
+      "no_club": "Aucun club UT détecté",
+      "no_club_description": "Assurez-vous que votre club est configuré dans l'application Web {fc} afin que nous puissions commencer à traiter votre commande",
+      "not_enough": "Pas assez de pièces",
+      "not_enough_description": "Assurez-vous d'avoir au moins 5000 pièces sur votre solde Ultimate Team Club afin que nous puissions commencer le processus de livraison",
+      "no_tm": "Pas de TM dans l'application Web {fc}",
+      "no_tm_description": "Assurez-vous d'avoir accès au marché des transferts dans l'application Web {fc} afin que nous puissions commencer à traiter votre commande",
+      "resume": "Livraison de CV",
+      "retry": "Réessayer le paiement",
+      "status": "Statut",
+      "unpaid": "Non rémunéré",
+      "unpaid_description": "Cette commande n'a pas encore été payée",
+      "wrong_description": "Votre compte n'a pas de club Ultimate Team associé à la plateforme que vous avez sélectionnée, veuillez soumettre les détails du compte correct ou contacter le support pour changer de plateforme",
+      "wrong_platform": "Mauvaise plateforme"
+    }
+  },
+  "sky_profile": {
+    "orders": {
+      "backup_description": "Les codes de sauvegarde que vous nous avez fournis sont soit incorrects, expirés ou proviennent d'un mauvais compte, assurez-vous de soumettre les bons",
+      "continue": "Continuer le transfert",
+      "details": "Entrez les détails de votre compte EA",
+      "details_description": "Pour démarrer le processus de livraison, saisissez les détails de votre compte EA en utilisant le formulaire ci-dessous.",
+      "finished_description": "N'hésitez pas à vous reconnecter à Ultimate Team et à profiter de vos pièces !",
+      "finished_title": "Fini",
+      "in_progress": "Livraison en cours",
+      "in_progress_description": "Assurez-vous de garder Ultimate Team fermé sur votre compte jusqu'à ce que la commande soit terminée",
+      "list_full_description": "Assurez-vous d'effacer votre liste de transfert afin que nous puissions commencer le processus de livraison",
+      "list_full_title": "Liste complète des transferts",
+      "login_disabled": "Vérification de connexion désactivée",
+      "login_disabled_description": "Assurez-vous d'activer la vérification de connexion dans les paramètres de votre compte EA",
+      "queue": "Commande dans la file d'attente",
+      "queue_description": "Assurez-vous d'être déconnecté d'Ultimate Team sur votre console/PC et vos autres appareils via l'application Web FC Ultimate Team/FC Companion",
+      "resubmit": "Renvoyer les codes",
+      "submit": "Soumettre les détails",
+      "wrong_backup": "Codes de sauvegarde erronés"
+    }
+  },
+  "add_profile": {
+    "orders": {
+      "cancelled": "Annulé",
+      "cancelled_description": "Votre commande a été annulée à votre demande",
+      "items": "Articles non attribués",
+      "items_description": "Vous avez des articles non attribués dans votre club Ultimate Team, assurez-vous de les attribuer afin que nous puissions commencer le processus de livraison",
+      "online": "En ligne dans l'application Web",
+      "online_description": "Déconnectez-vous de l'application Web {fc} / de l'application FC Companion pour que nous puissions procéder à la livraison",
+      "signed": "Connecté",
+      "signed_description": "Déconnectez-vous de votre compte pour que nous puissions procéder à la livraison",
+      "undefined_description": "Veuillez contacter le support",
+      "unexpected": "Erreur inattendue",
+      "unexpected_description": "Erreur de création de commande : veuillez contacter le support",
+      "unknown": "Erreur inconnue",
+      "wrong_cred": "Email/mot de passe incorrect",
+      "wrong_cred_description": "Assurez-vous de ne pas avoir fait de fautes de frappe et de soumettre les détails de votre compte EA, et non ceux d'un autre (PSN, réseau Xbox, etc.)."
+    }
+  },
+  "chris_coinBundles": {
+    "calc": {
+      "title": "Choisissez votre propre montant"
+    },
+    "coinCard": {
+      "action": "Acheter maintenant"
+    },
+    "coinsAmount": {
+      "h1": "{fc} Pièces de l'équipe ultime",
+      "h2": {
+        "1": "Ce que vous obtiendrez de nous :"
+      },
+      "list": {
+        "3": {
+          "item": {
+            "1": "{amount} k pièces dans votre club UT"
+          }
+        }
+      },
+      "p1": "Achetez des pièces EA {fc} en ligne auprès du fournisseur le plus sûr du marché - ROYALFUT Store. La vente d'articles FIFA Ultimate Team est notre spécialité depuis plus de 7 ans. Notre objectif est de garantir à nos clients les meilleures offres et les transferts les plus sûrs de pièces FC UT. ROYALFUT offre une expérience d'achat pratique et agréable avec son interface conviviale, ses options de paiement sécurisées et son service client exceptionnel.",
+      "p2": "Ici, vous pouvez acheter {amount} k pièces FC pour seulement {price} {currency}. Une fois la commande passée, assurez-vous d'être déconnecté d'Ultimate Team à la fois sur votre console / PC et sur d'autres appareils via FC Web App / Companion. {amount} k pièces seront transférées sur votre compte dans {timeValue} {time}."
+    },
+    "h1": "Offres de forfaits",
+    "noticePanel": "Vous pouvez acheter n'importe quelle carte disponible sur le marché avec ce montant. Complétez votre équipe de rêve !",
+    "optionCard": {
+      "desc": "Commencez à gagner beaucoup de temps avec le tout nouvel outil de nos amis !",
+      "title": "Essayez SBC Solver à un tarif réduit"
+    },
+    "platform": "Plate-forme"
+  },
+  "chris_profile": {
+    "orders": {
+      "get_backup": "Vous pouvez obtenir des codes de sauvegarde ici :",
+      "goback": "Retour à la page d'accueil",
+      "noorders": "Vous n'avez pas encore passé de commande",
+      "noorders_text": "Cette section contiendra l'historique de vos commandes une fois que vous aurez",
+      "recom": "Nous vous recommandons de soumettre au moins 2 à 3 codes de sauvegarde"
+    }
+  },
+  "bailey_coinsAmount": {
+    "guaranteesCard": {
+      "1": "Paiements 100% sécurisés",
+      "2": "{timeValue} {time} Heure de livraison",
+      "3": "Admissible à un remboursement"
+    },
+    "h2": {
+      "2": "Ce dont nous aurons besoin de votre part",
+      "3": "Ce que disent nos clients",
+      "4": "Questions fréquemment posées",
+      "5": "Voir aussi"
+    },
+    "list": {
+      "2": {
+        "item": {
+          "1": {
+            "strong": "Accès à votre compte EA",
+            "text": "— Si vous possédez une copie sous licence d'EA Sports {fc} pour consoles PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Series X ou PC (achetée soit sous forme de CD physique, soit sous forme numérique via l'application EA, Steam ou Epic Games Store), vous avez de la chance, car à partir de maintenant, tout ce dont notre système a besoin pour accéder avec succès à votre club Ultimate Team est votre compte EA, composé de votre adresse e-mail, de votre mot de passe et de quelques codes de sauvegarde. Mais ne vous inquiétez pas, nous ne stockons pas vos données, elles sont effacées après chaque commande."
+          },
+          "2": {
+            "strong": "Marché des transferts débloqué",
+            "text": "— l'une des choses les plus cruciales dans la préparation de votre club pour une livraison de pièces est de vous assurer que vous avez déjà obtenu l'accès au marché des transferts dans l'application Web. Cependant, s'il n'est toujours pas déverrouillé, vous devez commencer à jouer 3 matchs Ultimate Team complets par jour et visiter FC Web App / Companion quotidiennement également, jusqu'au point d'accès qui vous est accordé."
+          },
+          "3": {
+            "strong": "Au moins 5000 pièces sur le solde de votre club UT",
+            "text": "— avec ce montant, notre système de livraison pourra commencer le transfert. Si le solde de votre club ne répond pas à cette exigence, vous pouvez vendre certains objets échangeables soit en les listant sur le marché des transferts, soit en utilisant l'option de vente rapide. Et bien sûr, vous pouvez toujours gagner des pièces en jouant simplement quelques matchs. Et n'oubliez pas qu'un solde de départ plus élevé entraîne un processus de livraison plus rapide."
+          }
+        }
+      },
+      "3": {
+        "item": {
+          "2": "Couverture de la taxe EA (5 %) ;",
+          "3": "100% de sécurité de votre compte."
+        }
+      }
+    }
+  },
+  "skyler_pages": {
+    "card": {
+      "button": {
+        "1": "Acheter des pièces",
+        "2": "Aller à la page d'accueil"
+      },
+      "title": "Psst... Vous cherchez des pièces ?"
+    },
+    "faq": {
+      "h1": "Questions fréquemment posées",
+      "nav": {
+        "items": {
+          "1": "Questions générales",
+          "2": "Questions sur la livraison",
+          "3": "Questions sur les paiements"
+        }
+      }
+    },
+    "rated": {
+      "button": "Évaluez-nous",
+      "h1": "Noté {rate} / 5",
+      "p": {
+        "1": {
+          "link": "Avis",
+          "text": "Basé sur"
+        }
+      }
+    },
+    "reviews": {
+      "h1": "Avis",
+      "p1": "Propose un système unique de livraison de pièces {fifa}. Nous coopérons avec un nombre record de fournisseurs de pièces. Lors de l'exécution de votre commande, nous utilisons des règles spéciales qui garantissent qu'aucune sanction ne sera jamais appliquée à votre compte par EA. Voir certaines de ces règles ci-dessous"
+    }
+  },
+  "jordan_pages": {
+    "cookie": {
+      "h1": "Politique de cookies",
+      "h2": {
+        "1": "À propos des cookies",
+        "2": "Quels types de cookies utilisons-nous ?"
+      },
+      "h3": {
+        "1": "Cookies nécessaires"
+      },
+      "p": {
+        "1": "En utilisant ce site Web et en acceptant cette politique, vous consentez à notre utilisation de cookies conformément aux termes de cette politique.",
+        "2": "Les cookies sont de simples fichiers texte stockés sur votre ordinateur ou appareil mobile par le serveur d'un site Web. Chaque cookie est unique à votre navigateur Web. Il contiendra des informations anonymes telles qu'un identifiant unique, le nom de domaine du site Web et quelques chiffres et nombres."
+      }
+    },
+    "delivery": {
+      "h1": "Livraison",
+      "h2": {
+        "1": "Voici quelques statistiques* pour votre intérêt :"
+      },
+      "notice": "* en vigueur à compter du 1er octobre 2023",
+      "p": {
+        "1": "Nous souhaitons attirer votre attention sur le système innovant de livraison des pièces EA FC développé par votre serviteur — une approche unique sur le marché des pièces FIFA. Chaque commande est traitée selon un ensemble de protocoles propriétaires qui excluent complètement toute conséquence indésirable pour le compte EA. Nous améliorons constamment notre algorithme de transfert de pièces, le soumettant à un calibrage approfondi et à un certain nombre d'essais divers et ce n'est qu'en cas d'évaluation positive de chaque aspect testé qu'il reçoit le feu vert pour une mise en œuvre complète.",
+        "p2_fragments": {
+          "1": "De plus, notre champ d'influence est considérablement élargi en établissant des partenariats productifs avec de nombreuses autres organisations impliquées dans la vente au détail de pièces EA FC. Actuellement, notre écosystème comprend plus de 10 magasins comme celui-ci intégrés à notre plateforme. Et nos portes pour une telle coopération sont toujours ouvertes. Si vous êtes intéressé par un partenariat avec nous en tant que magasin de pièces EA FC, contactez-nous via",
+          "2": "ou",
+          "3": "où nous pourrons discuter de tous les détails de cette opportunité de collaboration, qui nous permettra de renforcer collectivement la liste de nos réalisations sur le marché des pièces FUT et EA FC présentée ci-dessus."
+        }
+      }
+    },
+    "payments": {
+      "h1": "Paiement",
+      "p": {
+        "1": "ROYALFUT.COM accepte les paiements dans six devises différentes SANS FRAIS.",
+        "2": "Seuls les utilisateurs enregistrés peuvent effectuer des paiements sur le site. Les paiements sont organisés via les systèmes de paiement internationaux. Les titulaires de cartes bancaires des régions suivantes ne sont pas autorisés à effectuer des achats : Afghanistan, Samoa américaines, Aruba, Bahamas, Botswana, Burundi, Cambodge, République centrafricaine, Congo, République démocratique du Congo, Crimée et Sébastopol, Cuba, Guinée équatoriale, Érythrée, Éthiopie, Irak, Liban, Libye, Mali, Myanmar, Nicaragua, Corée du Nord, Pakistan, Palestine, Fédération de Russie, Samoa, Sierra Leone, Somalie, Soudan du Sud, Soudan, Syrie, Trinité-et-Tobago, Turkménistan, Ouganda, Îles Vierges américaines, Venezuela, Yémen, Zimbabwe.",
+        "3": "Lorsque vous achetez notre produit numérique, vous pouvez être sûr que votre argent est en sécurité."
+      }
+    }
+  },
+  "kendall_pages": {
+    "cookie": {
+      "h2": {
+        "3": "Blocage des cookies",
+        "4": "Comment supprimer les cookies ?"
+      },
+      "h3": {
+        "2": "Cookies de fonctionnalité",
+        "3": "Cookies analytiques",
+        "4": "Cookies tiers"
+      },
+      "list": {
+        "1": {
+          "item": {
+            "1": "pour suivre votre navigateur sur plusieurs sites Web",
+            "2": "pour créer un profil de votre navigation sur le Web",
+            "3": "pour cibler les publicités en fonction de vos interactions avec leurs services, susceptibles de vous intéresser particulièrement."
+          }
+        }
+      },
+      "p": {
+        "3": "Les cookies nécessaires nous permettent de vous offrir la meilleure expérience possible lorsque vous accédez à notre site Web et que vous naviguez sur celui-ci et utilisez ses fonctionnalités. Par exemple, ces cookies nous permettent de reconnaître que vous avez créé un compte et que vous vous êtes connecté à ce compte.",
+        "4": "Les cookies de fonctionnalité nous permettent de faire fonctionner le site en fonction de vos choix. Par exemple, nous reconnaîtrons votre nom d'utilisateur et nous souviendrons de la manière dont vous avez personnalisé le site lors de vos prochaines visites.",
+        "5": "Ces cookies nous permettent, ainsi qu'à des services tiers, de collecter des données agrégées à des fins statistiques sur la façon dont nos visiteurs utilisent le site Web. Ces cookies ne contiennent pas d'informations personnelles telles que les noms et les adresses e-mail et sont utilisés pour nous aider à améliorer votre expérience utilisateur du site Web.",
+        "6": "Lorsque vous utilisez le site Web, des cookies tiers peuvent également vous être envoyés.\n\n",
+        "7": "Nos annonceurs et prestataires de services peuvent vous envoyer des cookies. Ils peuvent utiliser les informations obtenues à partir de votre utilisation de leurs cookies :",
+        "8": "Nous utilisons Google Analytics, un service d'analyse de site Internet fourni par Google, Inc. (« Google »). Google Analytics utilise des « cookies », qui sont des fichiers texte placés sur votre ordinateur, pour aider le site Internet à analyser l'utilisation du site par ses utilisateurs. Les informations générées par le cookie concernant votre utilisation du site Internet (y compris votre adresse IP) seront transmises et stockées par Google sur des serveurs situés aux États-Unis. L'adresse IP sera tronquée avant la transmission afin de garantir l'anonymat. En notre nom, Google utilisera ces informations pour évaluer votre utilisation du site Internet, compiler des rapports sur l'activité du site Internet et fournir d'autres services relatifs à l'activité du site Internet et à l'activité Internet en rapport avec l'utilisation du site Internet. Google n'associera pas votre adresse IP à d'autres données détenues par Google. Vous pouvez refuser l'utilisation de cookies en sélectionnant les paramètres appropriés de votre navigateur ; veuillez toutefois noter que si vous le faites, vous ne pourrez peut-être pas utiliser toutes les fonctionnalités de ce site Internet. En outre, vous pouvez empêcher la collecte des informations générées par le cookie concernant votre utilisation du site Web (y compris votre adresse IP) ainsi que le traitement de ces données par Google en téléchargeant et en installant le plug-in de navigateur disponible sur le lien suivant :",
+        "9": "La plupart des navigateurs vous permettent de refuser les cookies. Vous pouvez trouver sur google.com comment bloquer tous les cookies dans votre navigateur.",
+        "10": "Le blocage de tous les cookies aura toutefois un impact négatif sur la facilité d'utilisation de nombreux sites Internet. Si vous bloquez les cookies, vous ne pourrez peut-être pas utiliser certaines fonctionnalités du site Internet (connexion, accès au contenu, utilisation des fonctions de recherche).",
+        "11": {
+          "1": "Si vous souhaitez restreindre ou bloquer les cookies installés par notre site Web, vous pouvez le faire via les paramètres de votre navigateur. Vous pouvez également visiter"
+        }
+      }
+    }
+  },
+  "jules_pages": {
+    "cookie": {
+      "h3": {
+        "5": "Nous contacter"
+      },
+      "p": {
+        "11": {
+          "2": ", qui contient des informations complètes sur la manière de procéder sur une grande variété de navigateurs et d'appareils. Vous y trouverez des informations générales sur les cookies et des détails sur la manière de supprimer les cookies de votre appareil."
+        },
+        "12": "Si vous avez des questions concernant cette politique ou notre utilisation des cookies, n'hésitez pas à nous contacter à"
+      }
+    },
+    "privacy": {
+      "h1": "Politique de confidentialité",
+      "list": {
+        "1": {
+          "item": {
+            "1": "Vous fournir nos services.",
+            "2": "Vous contacter par courrier électronique, par téléphone ou par d’autres moyens pour résoudre des litiges, percevoir des frais, dépanner votre compte ou nos sites, services, applications ou outils, ou à d’autres fins autorisées par la loi.",
+            "3": "Prévenir et détecter les fraudes, les failles de sécurité, les activités potentiellement interdites ou illégales et appliquer nos accords d'utilisation",
+            "4": "Vérification pour identifier nos clients et vérifier leur identité",
+            "5": "Raisons opérationnelles telles que les gains d'efficacité, la formation et le contrôle de la qualité",
+            "6": "Empêcher l'accès non autorisé et les modifications de nos systèmes",
+            "7": "Commercialisation de nos services et des services de tiers sélectionnés pour :",
+            "8": "Audits externes et contrôles de qualité",
+            "7_0": "- clients existants et anciens clients",
+            "7_1": "- des tiers ayant déjà manifesté leur intérêt pour nos services",
+            "7_2": "- des tiers avec lesquels nous n'avons jamais eu de relations d'affaires auparavant"
+          },
+          "p": "L'Opérateur traite les données de la Personne Concernée afin de :"
+        }
+      },
+      "p": {
+        "1": "En s'inscrivant au service, l'utilisateur accorde à ROYALFUT son consentement pour vérifier et traiter ses données personnelles sur la base des conditions suivantes :"
+      }
+    }
+  },
+  "dakota_pages": {
+    "privacy": {
+      "list": {
+        "2": {
+          "item": {
+            "1": "votre nom et vos coordonnées, y compris votre adresse électronique et votre numéro de téléphone",
+            "2": "des informations qui nous permettent de vérifier et de confirmer votre identité, comme votre date de naissance",
+            "3": "vos informations de genre, si vous choisissez de nous les fournir",
+            "4": "données de connexion à l'ordinateur, statistiques de consultation des pages, trafic vers et depuis ROYALFUT et informations sur les cookies",
+            "5": "données de localisation",
+            "6": "des informations sur votre livraison (plateforme, nombre de pièces dans la commande), des informations de facturation, des informations sur les transactions et les cartes de paiement",
+            "7": "vos intérêts personnels ou professionnels",
+            "8": "votre présence professionnelle en ligne",
+            "9": "votre historique de contacts avec ROYALFUT, ses employés, administrateurs, sociétés affiliées, votre historique d'achat et les articles enregistrés sur ROYALFUT",
+            "10": "des informations sur les comptes que vous liez à ROYALFUT, par exemple, Facebook, Google et d'autres plateformes",
+            "11": "des informations qui nous permettent d'effectuer des vérifications de crédit ou d'autres vérifications financières sur vous",
+            "12": "informations sur la façon dont vous utilisez le site Web ROYALFUT",
+            "13": "vos réponses aux sondages et informations sur la participation aux concours, cadeaux et offres spéciales",
+            "14": "des informations transactionnelles basées sur votre activité ROYALFUT (par exemple des informations pour simplifier le processus d'achat et de vente)",
+            "15": "discussions publiques, chats, résolution de litiges, correspondance via ROYALFUT, ainsi que la correspondance qui nous est envoyée"
+          },
+          "p": {
+            "1": "La liste des données personnelles transférées à ROYALFUT pour traitement :",
+            "2": "Nous pouvons collecter et utiliser les informations personnelles suivantes vous concernant :"
+          }
+        }
+      }
+    }
+  },
+  "quinn_pages": {
+    "home": {
+      "calc": {
+        "panel": {
+          "info": {
+            "ccy": "Prix total"
+          }
+        }
+      },
+      "header": {
+        "nav": {
+          "1": "Acheter des pièces",
+          "2": "Paquets de pièces de monnaie",
+          "3": "Avis",
+          "4": "FAQ",
+          "5": "Blog"
+        }
+      },
+      "heading": {
+        "1": {
+          "1": "L'OPTION D'ACHAT LA PLUS SÛRE",
+          "2": "{fc} PIÈCES"
+        }
+      }
+    },
+    "privacy": {
+      "list": {
+        "2": {
+          "item": {
+            "16": "d'autres informations, y compris l'adresse IP et les informations standard du journal Web (type de navigateur, fournisseur d'accès Internet (FAI), pages de référence/sortie, système d'exploitation, horodatage et données de parcours de clics), ainsi que des informations supplémentaires provenant de tiers, telles que les informations de compte de facturation fournies par tout service de paiement que vous utilisez pour effectuer des achats ou recevoir des paiements, ainsi que votre identifiant de navigateur, identifiant de cookie, identifiant d'appareil, type d'appareil, informations sur l'utilisation du serveur proxy/VPN et technologies associées, informations de localisation, adresses e-mail, numéros de téléphone et profils de médias sociaux publics fournis par nos prestataires de services de fraude aux paiements et diligence raisonnable envers la clientèle."
+          }
+        }
+      },
+      "p": {
+        "2": "Ces données personnelles sont nécessaires pour vous fournir nos services. Vous pouvez choisir de ne pas nous fournir d'informations, mais certaines informations vous concernant sont nécessaires pour vous permettre de : vous inscrire en tant que membre ; acheter des produits ou des services, compléter un profil ; participer à des enquêtes, des concours ou des tirages au sort ; nous poser une question ou initier d'autres transactions sur notre site Web. ROYALFUT utilise également ces informations pour l'analyse des tendances, la détection des fraudes et l'administration du site.",
+        "3": "Le consentement est valable à partir du moment où la personne concernée par les données personnelles est enregistrée auprès de",
+        "4": "Si vous souhaitez supprimer votre compte RoyalFUT, veuillez envoyer la demande à"
+      }
+    },
+    "terms": {
+      "h1": "Termes et conditions",
+      "h2": {
+        "1": "Accord d'utilisation"
+      },
+      "p": {
+        "1": {
+          "1": "Veuillez lire attentivement le présent Contrat d'utilisation. Si vous n'acceptez aucun des éléments du présent Contrat d'utilisation, vous n'avez pas le droit de confirmer votre inscription, ni d'utiliser les services fournis par",
+          "2": ", ou vendre, acheter ou échanger des biens via cette plateforme de trading."
+        }
+      }
+    },
+    "trustScore": {
+      "reviewsAmount": "{reviewsAmount} avis"
+    }
+  },
+  "phoenix_pages": {
+    "auth": {
+      "action": {
+        "changeEmail": "Changer d'email",
+        "login": "Obtenir le lien",
+        "sendCodeAgain": "Envoyer à nouveau le code"
+      },
+      "btn": {
+        "login": "Se connecter"
+      },
+      "divider": {
+        "1": "Ou"
+      },
+      "email": {
+        "placeholder": "E-mail"
+      },
+      "notify": {
+        "sentConfirmationCode": "Nous vous avons envoyé un code de confirmation à six chiffres pour<mail> {address}</mail> Veuillez le saisir ci-dessous pour confirmer votre adresse e-mail."
+      },
+      "oauth": {
+        "google": "Continuer avec Google"
+      },
+      "text": {
+        "authTitle": "Connectez-vous ou inscrivez-vous",
+        "code": "Entrez le code à 6 chiffres",
+        "codeInfo": "Laissez votre e-mail et nous vous enverrons un lien d'autorisation"
+      }
+    },
+    "contacts": {
+      "h1": "Contacts",
+      "title": {
+        "1": "Contactez-nous via",
+        "2": "Sociale"
+      }
+    },
+    "faq": {
+      "action": "Vous avez d’autres questions ?"
+    }
+  },
+  "jamie_pages": {
+    "faq": {
+      "acc": {
+        "q": {
+          "1": {
+            "title": "Pourquoi devrais-je choisir ROYALFUT ?"
+          },
+          "2": {
+            "title": "Quels sont les avantages d’acheter des pièces EAS FC plutôt que des points FC ?"
+          },
+          "3": {
+            "title": "Combien de temps prend la livraison des pièces ?"
+          },
+          "4": {
+            "title": "Comment utiliser un coupon de réduction ?"
+          },
+          "5": {
+            "title": "Existe-t-il des offres spéciales pour les clients réguliers ?"
+          },
+          "6": {
+            "title": "Comment dois-je préparer mon club FC Ultimate Team pour un transfert de pièces ?"
+          },
+          "7": {
+            "title": "Comment puis-je vérifier si mon marché des transferts dans l'application Web FC Ultimate Team est déverrouillé ou non ?"
+          }
+        }
+      },
+      "nav": {
+        "1": "Questions générales",
+        "2": "Questions sur la livraison",
+        "3": "Questions sur les paiements"
+      },
+      "q": {
+        "1": {
+          "title": "Pourquoi devrais-je choisir ROYALFUT ?"
+        },
+        "2": {
+          "content": {
+            "1": "Les pièces sont le premier choix de la plupart des joueurs d'EA Sports FC du monde entier en raison de leur faible coût et de la possibilité de les dépenser de manière beaucoup plus avantageuse pour votre club FC Ultimate Team. Vous pouvez dépenser des pièces Ultimate Team sur des objets en jeu qui ont été répertoriés sur le marché des transferts par d'autres joueurs. Il peut s'agir de cartes de joueur, de cartes d'entraîneur, de tenues d'uniforme, de stades, de consommables et plus encore. Et surtout, aucun de ces éléments ne peut être acheté avec des points FC. Avec les points FC, vous pouvez acheter des packs dans la boutique FC Ultimate Team et accéder aux drafts FC Ultimate Team. Cependant, vous pouvez également faire ces deux choses en utilisant des pièces. En termes d'argent réel, il est plus de 5 fois moins cher d'acheter des pièces dans le jeu en utilisant des pièces EAS FC plutôt que des points FC. Commencez à acheter des pièces avec nous et voyez par vous-même 😉",
+            "2": "Vous pouvez dépenser {fc} pièces Ultimate Team pour acheter des objets en jeu qui ont été mis en vente sur le marché des transferts par d'autres joueurs. Il peut s'agir de cartes de joueur, de cartes d'entraîneur, de tenues d'uniforme, de stades, de consommables et bien plus encore. Et surtout, aucun de ces objets ne peut être acheté avec des points FC.",
+            "3": "Avec les points FC, vous pouvez acheter des packs dans la boutique {fc} Ultimate Team et accéder aux drafts {fc} Ultimate Team. Cependant, vous pouvez également faire ces deux choses en utilisant des pièces. En termes d'argent réel, il est plus de 5 fois moins cher d'acheter des pièces dans le jeu en utilisant des pièces {fc} Ultimate Team plutôt que des points FC. Commencez à acheter des pièces avec nous et voyez par vous-même 😉"
+          },
+          "title": "Quels sont les avantages d’acheter des pièces EAS FC plutôt que des points FC ?"
+        },
+        "3": {
+          "content": "Oui, il y en a. Vous commencerez à recevoir des offres spéciales dès que nous remarquerons que vous avez commencé à acheter chez nous régulièrement. Sans oublier que nous avons également un programme de fidélité transparent en cours d'élaboration. Restez à l'écoute des mises à jour !",
+          "title": "Existe-t-il des offres spéciales pour les clients réguliers ?"
+        }
+      }
+    }
+  },
+  "alex_pages": {
+    "faq": {
+      "acc": {
+        "q": {
+          "1": {
+            "content": "<content>Il y a plusieurs raisons à cela que vous découvrirez sûrement vous-même après le premier achat :</content><list><listItem> Un grand nombre d'avis de clients satisfaits que vous pouvez trouver<link> ici.</link></listItem><listItem> La sécurité absolue de votre compte qui passe toujours en premier et une garantie de remboursement complet au cas où votre commande ne serait pas livrée pour une raison quelconque.</listItem><listItem> Délais de livraison les plus courts — avec nous, vous oublierez les longs délais d’attente pour que la commande soit exécutée.</listItem><listItem> Notre équipe d'assistance est toujours prête à vous aider à résoudre tout problème que vous pourriez rencontrer, avant et après l'achat, que ce soit via le chat en direct ou tout autre moyen de votre choix (WhatsApp, Telegram, Instagram direct ou e-mail).</listItem></list>"
+          },
+          "2": {
+            "content": "<content>Les pièces sont le premier choix de la plupart des joueurs d'EA Sports FC du monde entier en raison de leur faible coût et de la possibilité de les dépenser de manière beaucoup plus avantageuse pour votre club FC Ultimate Team. Vous pouvez dépenser des pièces Ultimate Team sur des objets en jeu qui ont été répertoriés sur le marché des transferts par d'autres joueurs. Il peut s'agir de cartes de joueur, de cartes d'entraîneur, de tenues d'uniforme, de stades, de consommables et plus encore. Et surtout, aucun de ces éléments ne peut être acheté avec des points FC. Avec les points FC, vous pouvez acheter des packs dans la boutique FC Ultimate Team et accéder aux drafts FC Ultimate Team. Cependant, vous pouvez également faire ces deux choses en utilisant des pièces. En termes d'argent réel, il est plus de 5 fois moins cher d'acheter des pièces dans le jeu en utilisant des pièces EAS FC plutôt que des points FC. Commencez à acheter des pièces avec nous et voyez par vous-même 😉</content><content> Vous pouvez dépenser des {fc} Ultimate Team Coins sur des objets en jeu qui ont été mis en vente sur le marché des transferts par d'autres joueurs. Il peut s'agir de cartes de joueur, de cartes d'entraîneur, de tenues d'uniforme, de stades, de consommables et bien plus encore. Et surtout, aucun de ces objets ne peut être acheté avec des points FC.</content><content> Avec les points FC, vous pouvez acheter des packs dans la boutique {fc} Ultimate Team et accéder aux drafts {fc} Ultimate Team. Cependant, vous pouvez également faire ces deux choses en utilisant des pièces. En termes d'argent réel, il est plus de 5 fois moins cher d'acheter des pièces dans le jeu en utilisant des pièces {fc} Ultimate Team plutôt que des points FC. Commencez à acheter des pièces avec nous et voyez par vous-même 😉</content>"
+          },
+          "3": {
+            "content": "<content>Cela dépend du mode de livraison que vous choisissez.</content><content> Nous indiquons le délai de livraison approximatif des commandes Comfort Trade avant le paiement sur la page de paiement. Si tous les détails que vous avez soumis sont corrects et que votre compte est entièrement prêt pour le transfert de pièces, la commande sera alors terminée dans un délai moyen de 15 à 20 minutes. Cependant, gardez à l'esprit que le délai de livraison dépend principalement de la quantité de pièces commandées.</content><content> En ce qui concerne la méthode de livraison des enchères de joueurs, les délais de cette option dépendent entièrement de vous. Le transfert de pièces s'effectue en achetant et en vendant des cartes de joueur. Il faut en moyenne 3 à 10 cartes suggérées par notre système pour que la commande soit complétée à l'aide de cette méthode. Mais notez que votre solde de départ joue un rôle important dans ce scénario : plus il est important, plus la livraison sera traitée rapidement, alors essayez de le rendre aussi élevé que possible avant de passer une commande, par exemple vous pouvez vendre des cartes non désirées.</content>"
+          },
+          "4": {
+            "content": "Accédez à la page de paiement."
+          },
+          "5": {
+            "content": "Oui, il y en a. Vous commencerez à recevoir des offres spéciales dès que nous remarquerons que vous avez commencé à acheter chez nous régulièrement. Sans oublier que nous avons également un programme de fidélité transparent en cours d'élaboration. Restez à l'écoute des mises à jour !"
+          },
+          "6": {
+            "content": "<list><listItem>Assurez-vous que votre marché des transferts dans l'application Web FC Ultimate Team est déverrouillé</listItem><listItem> Gardez au moins 5000 pièces sur le solde de votre club UT</listItem><listItem> Libérez autant d'espace que possible dans votre liste de transfert et votre liste de cibles de transfert</listItem><listItem> Attribuez tous les éléments non attribués, si vous en avez, à votre club</listItem></list>"
+          },
+          "8": {
+            "title": "Quelles étapes dois-je suivre pour passer une commande et recevoir les pièces achetées ?"
+          },
+          "9": {
+            "title": "Quels détails dois-je soumettre pour lancer le processus de livraison de ma commande ?"
+          },
+          "10": {
+            "title": "Comment ROYALFUT protège mes informations personnelles ?"
+          },
+          "11": {
+            "title": "Comment activer la vérification de connexion pour mon compte EA ?"
+          },
+          "12": {
+            "title": "Je ne me souviens pas de l'adresse e-mail de mon compte EA, où puis-je la trouver ?"
+          },
+          "13": {
+            "title": "J'ai oublié le mot de passe de mon compte EA, comment le réinitialiser ?"
+          },
+          "14": {
+            "title": "Comment puis-je récupérer les codes de sauvegarde de mon compte EA ?"
+          },
+          "15": {
+            "title": "Dans quels pays opérez-vous ?"
+          },
+          "16": {
+            "title": "Quels modes de paiement sont disponibles sur votre site Web ?"
+          },
+          "17": {
+            "title": "Comment rembourser ma commande ?"
+          },
+          "18": {
+            "title": "Achetez-vous également des pièces auprès des utilisateurs ?"
+          }
+        }
+      }
+    }
+  },
+  "drew_pages": {
+    "faq": {
+      "acc": {
+        "q": {
+          "7": {
+            "content": "<content>Le marché des transferts est débloqué</content><content> Le marché des transferts est verrouillé</content>"
+          },
+          "8": {
+            "content": "<list><listItem>Choisissez votre plateforme et la quantité de pièces souhaitée</listItem><listItem> Payez votre commande.</listItem><listItem> Après un paiement réussi, vous devrez remplir les détails de votre compte EA dans les champs de saisie respectifs et appuyer sur le bouton « Enregistrer les modifications »</listItem><listItem> Si les informations fournies sont correctes et qu'aucun autre problème ne se produit avec votre compte, le processus de livraison automatisé commencera pendant lequel vous ne devrez PAS vous connecter à FC Ultimate Team ni sur votre console / PC ni sur aucun autre appareil via FC Web App / Companion. Dès que la livraison de vos pièces est terminée, le statut de votre commande passera à « Terminé » et vous en serez également informé par e-mail. Vous pouvez trouver plus d'informations sur l'ensemble du processus dans la vidéo ci-dessous. <button>En savoir plus</button></listItem><listItem> Voilà, n'hésitez pas à vous reconnecter à Ultimate Team et à dépenser les pièces ! Et si vous avez apprécié votre séjour à ROYALFUT, n'oubliez pas de nous laisser un avis sur Trustpilot.</listItem></list><content> Si vous avez des questions ou avez besoin d'aide à tout moment, n'hésitez pas à contacter notre équipe d'assistance via le chat en direct ou tout autre moyen de votre choix (WhatsApp, Telegram, Instagram Direct ou e-mail).</content>"
+          },
+          "9": {
+            "content": "Uniquement l'adresse e-mail, le mot de passe et les codes de secours de votre compte EA. Vous n'avez pas besoin de partager votre identifiant EA, vos identifiants de compte PSN/Xbox ou tout autre détail."
+          },
+          "10": {
+            "content": "<content>L'administration du projet protège les informations transmises via le site Web contre le piratage et le vol en se basant sur notre politique de confidentialité et notre système de gestion stricts. Nous ne partageons PAS les détails de votre compte EA, les données de vos cartes de paiement, etc. avec des tiers en AUCUN cas ! En savoir plus sur notre</content><link> Page de politique de confidentialité.</link>"
+          },
+          "11": {
+            "content": "<list><listItem>Ouvrez la page des paramètres du compte EA</listItem><listItem> Sécurité > Vérification de connexion > Activer > Envoyer le code > Activer la vérification de connexion</listItem></list>"
+          },
+          "12": {
+            "content": "<list><listItem>Ouvrez le jeu et accédez au menu principal.</listItem><listItem> Personnaliser > Paramètres en ligne > Compte EA.</listItem></list>"
+          },
+          "13": {
+            "content": "<list><listItem>Accédez à la page de connexion du compte EA.</listItem><listItem> Connexion > Mot de passe oublié ? > Suivant > Envoyer le code > Suivant > Soumettre.</listItem></list>"
+          },
+          "14": {
+            "content": "<content>Vous pouvez trouver vos codes de secours dans les paramètres de votre compte EA. Voici le lien qui vous y mènera directement :</content><link> https://myaccount.ea.com/cp-ui/security/index</link>"
+          },
+          "15": {
+            "content": "Nous opérons partout dans le monde et acceptons les paiements de toutes les régions, à l’exception des juridictions à haut risque telles que l’Afghanistan, la Corée du Nord, la Syrie, la République de Crimée et d’autres."
+          },
+          "16": {
+            "content": "<content>La liste des modes de paiement que nous acceptons est constamment mise à jour car nous cherchons à améliorer l'expérience d'interaction des utilisateurs avec notre service. À l'heure actuelle, nous acceptons les modes de paiement suivants :</content><list><listItem> Cartes VISA, MasterCard, Maestro, Discover, DinnersClub, JCB et UnionPay.</listItem><listItem> Paiement sans contact via Apple Pay et Google Pay.</listItem><listItem> Virement bancaire via la plupart des banques de l'UE, iDeal et autres.</listItem><listItem> Crypto-monnaies — Bitcoin, USD Tether, Etherium.</listItem></list>"
+          },
+          "17": {
+            "content": "Si vous avez payé votre commande avec succès, mais que pour une raison quelconque vous n'avez plus besoin de pièces, vous pouvez demander un remboursement complet. Pour ce faire, vous devez contacter notre service d'assistance via le chat en direct ou tout autre moyen de votre choix (WhatsApp, Telegram, Instagram Direct ou e-mail)."
+          },
+          "18": {
+            "content": "Ce n'est pas notre objectif principal, mais parfois, nous faisons, vous pouvez contacter notre responsable via Skype ou par Télégramme, et nous allons étudier votre offre."
+          }
+        }
+      }
+    }
+  }
+}

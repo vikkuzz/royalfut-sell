@@ -1,0 +1,860 @@
+{
+  "default": {},
+  "car_home": {
+    "carousel": {
+      "promo": {
+        "4": {
+          "desc": "Los jugadores más codiciados de Ultimate Team finalmente estarán a tu disposición. ¡Comienza a coleccionar cartas codiciadas de todas las promociones de FC UT y no te niegues nada!",
+          "title": "Consigue cualquier tarjeta que quieras"
+        },
+        "5": {
+          "desc": "¡Olvídate de la frustrante recolección de monedas y comienza a dedicar tu valioso tiempo a lo que realmente importa: el juego en sí!",
+          "title": "Juega ahora, no pierdas el tiempo ganando monedas"
+        },
+        "action": {
+          "title": "Comprar monedas"
+        }
+      }
+    },
+    "coins": {
+      "options": {
+        "1": {
+          "desc": "Incluso los clientes más sofisticados estarán encantados con el bono de compra. ¡Consígalo hoy!",
+          "title": "Paquetes de monedas"
+        },
+        "2": {
+          "desc": "¡Empieza a ahorrar mucho tiempo con la nueva herramienta de nuestros amigos!",
+          "title": "Pruebe SBC Solver a un precio reducido"
+        },
+        "title": "Pruebe también estas opciones"
+      }
+    },
+    "delivery": {
+      "process": {
+        "card": {
+          "1": {
+            "desc": "Seleccione su plataforma y la cantidad deseada de monedas, luego pague su pedido.",
+            "title": "Realizar un pedido"
+          },
+          "2": {
+            "desc": "Después del pago exitoso, proceda a la página Historial de pedidos, busque su pedido y complete las acciones necesarias para iniciar el proceso de entrega.",
+            "title": "Lanzar la entrega"
+          },
+          "3": {
+            "desc": "Una vez finalizado el pedido, siéntete libre de gastar las monedas como quieras y volver a contactarnos cuando necesites una recarga.",
+            "title": "Disfruta de tu compra"
+          }
+        },
+        "desc": "¿Necesita ayuda? Póngase en contacto con nuestro equipo de asistencia en cualquier momento"
+      }
+    }
+  },
+  "li_home": {
+    "delivery": {
+      "process": {
+        "title": "Proceso de entrega"
+      }
+    },
+    "faq": {
+      "q": {
+        "1": {
+          "content": "<content>Hay varias razones para ello que seguramente descubrirás tú mismo después de la primera compra:</content><list><listItem> Una gran cantidad de reseñas de clientes satisfechos que se pueden encontrar<link> aquí.</link></listItem><listItem> La absoluta seguridad de tu cuenta que siempre es lo primero y una garantía de reembolso total en caso de que tu pedido, por alguna razón, no sea entregado.</listItem><listItem> Plazos de entrega más cortos: con nosotros te olvidarás de los largos tiempos de espera para completar el pedido.</listItem><listItem> Nuestro equipo de soporte está siempre listo para ayudarte a resolver cualquier problema que puedas encontrar, tanto antes como después de la compra, ya sea a través del chat en vivo o cualquier otra forma de tu elección (WhatsApp, Telegram, Instagram directo o correo electrónico).</listItem></list>"
+        }
+      }
+    },
+    "heading": {
+      "1": {
+        "1": "La opción más segura para comprar ",
+        "2": "Monedas FC 24"
+      }
+    },
+    "infographic": {
+      "stats": {
+        "desc": {
+          "1": "Años de experiencia en este campo",
+          "2": "Monedas transferidas a las cuentas de nuestros clientes.",
+          "3": "pedidos entregados con éxito",
+          "4": "Jugadores que han probado nuestro servicio",
+          "5": "de clientes recurrentes que han realizado una compra al menos dos veces",
+          "6": "Índice de satisfacción del cliente según los resultados de las encuestas"
+        }
+      }
+    },
+    "loyalty": {
+      "program": {
+        "overview": {
+          "action": {
+            "primary": "Comprar monedas",
+            "sec": "Más información"
+          },
+          "desc": "¡Cada compra te lleva al mundo de las maravillas del fútbol! ¡Embárcate en una emocionante aventura digital llena de compras, ganancias, gastos y logros!",
+          "stats": {
+            "1": "Usuarios que ya participan en nuestro Programa de Fidelización",
+            "2": "Nuestros clientes ya han obtenido Puntos ROYAL"
+          },
+          "steps": {
+            "1": {
+              "desc": "¡Consigue algunas monedas brillantes para mejorar tu experiencia de juego y sacar a relucir todo tu potencial en Ultimate Team!",
+              "title": "Comprar monedas"
+            }
+          }
+        }
+      }
+    }
+  },
+  "pi_cookie": {
+    "widget": {
+      "action": {
+        "1": "Aceptar",
+        "2": "Rechazar todo"
+      },
+      "checkbox": {
+        "1": "Necesario",
+        "2": "Analítica"
+      },
+      "details": "Este sitio web utiliza cookies para optimizar la funcionalidad y ofrecer una agradable experiencia de navegación. Siéntase libre de explorar nuestro sitio web con la confianza de que se respeta su privacidad y tiene control sobre el consentimiento de las cookies. Vea nuestra<link> Política de cookies</link> ."
+    }
+  },
+  "pi_home": {
+    "loyalty": {
+      "program": {
+        "overview": {
+          "steps": {
+            "2": {
+              "desc": "Acumula puntos ROYAL cada vez que compres monedas en nuestro sitio web y desbloquea beneficios adicionales al alcanzar nuevos niveles de lealtad.",
+              "title": "Gana puntos ROYAL"
+            },
+            "3": {
+              "desc": "¡Canjea tus Puntos ROYAL en tus futuras compras y disfruta de tus recargas de monedas con descuento!",
+              "title": "Gaste su reembolso"
+            }
+          },
+          "title": "¿Cómo funciona nuestro Programa de Fidelidad?"
+        }
+      }
+    },
+    "promotional": {
+      "offer": {
+        "fc24": {
+          "description": "Si estás cansado de ganar monedas {fc} ¡tenemos una solución perfecta y económica para ti! Conoce <b>ROYALFUT.com</b> , la tienda de monedas EA FC más confiable con muchos años de experiencia en este campo. Este mercado de primera categoría ofrece los precios más bajos para monedas {fifa} en línea y puede garantizar una entrega rápida y una seguridad del 100 % de tu cuenta. Comprar monedas FC en ROYALFUT es la opción más asequible y legítima cuando se trata de ayudarte a hacer que tu juego sea aún más agradable sin riesgo de consecuencias desagradables. Las ofertas habituales de monedas Ultimate Team que puedes encontrar en esta tienda están disminuyendo los precios ya bajos, lo que te permite realizar las transacciones más rentables en el juego. La plataforma ROYALFUT no solo es 100 % confiable en cuanto a sus monedas FUT a la venta, sino que también es conocida por su increíble atención al cliente que siempre te ayudará con cualquier pregunta o problema que puedas tener. Es bastante raro en estos días encontrar una tienda legítima de monedas {ut} pero <b>ROYALFUT.com</b> es sin duda una de ellas. Este es absolutamente el mejor lugar para ti si estás buscando comprar monedas Ultimate Team para PC, PS4, PS5, Xbox One, Xbox Series X o Xbox Series S con pagos 100% seguros y entrega instantánea.\n"
+        }
+      }
+    },
+    "trustpilot": {
+      "reviews": {
+        "action": "Comprar monedas",
+        "count": "Residencia en<highlight> {amount} opiniones</highlight>",
+        "rate": "Excelente",
+        "rating": "Calificación {amount} / {max}\n",
+        "title": "Lo que dicen nuestros clientes",
+        "verified": "Empresa verificada"
+      }
+    }
+  },
+  "vpr_auth": {
+    "validation": {
+      "invalidEmail": "Dirección de correo electrónico no válida."
+    }
+  },
+  "vpr_home": {
+    "benefit": {
+      "1": {
+        "desc": "Nuestro equipo se formó originalmente en la temporada 17 de FIFA. Desde entonces, hemos transferido más de 100 mil millones de monedas a nuestros clientes, más de 60 mil clubes de todo el mundo han recibido recargas de monedas de nuestra parte y al menos otras 10 tiendas utilizan nuestro algoritmo de transferencia de monedas.",
+        "title": "Experiencia de muchos años"
+      },
+      "2": {
+        "desc": "Nuestro principal objetivo es brindarte la opción más segura para recargar el saldo de tu club FUT. Mejoramos constantemente nuestro algoritmo de transferencia de monedas y lo probamos en miles de nuestras cuentas antes de darle luz verde para su implementación.",
+        "title": "Seguro y confiable"
+      },
+      "3": {
+        "desc": "Valoramos su tiempo, por eso siempre estamos decididos a buscar la mejora continua de aspectos de nuestro sitio web como la interfaz y la calidad de nuestro servicio de atención al cliente para asegurarnos de que su experiencia de compra con nosotros sea lo más fluida posible.",
+        "title": "Alto nivel de servicio"
+      },
+      "4": {
+        "desc": "Ofrecemos uno de los precios más bajos del mercado, ¡y para nuestros clientes habituales el precio es aún más bajo!",
+        "title": "Precios asequibles"
+      }
+    },
+    "calc": {
+      "panel": {
+        "action": {
+          "1": "Verificar"
+        },
+        "info": {
+          "ccy": "Precio total"
+        }
+      }
+    },
+    "carousel": {
+      "promo": {
+        "1": {
+          "desc": "Jugar con las mejores cartas de jugador de tu arsenal es un camino directo a la gloria para llegar a los primeros puestos y obtener las mayores recompensas. ¡Todo está en tus manos!",
+          "title": "Alcanzar los rangos más altos"
+        },
+        "2": {
+          "desc": "Con EA Sports FC 24 Coins, puedes elegir las mejores opciones posibles para cada puesto de tu equipo. ¡Da rienda suelta a tu imaginación, prueba cosas nuevas y experimenta!",
+          "title": "Construye tu Dream Team ahora"
+        },
+        "3": {
+          "desc": "Disfruta de nuevas experiencias utilizando a los mejores jugadores con diferentes combinaciones de PlayStyles+ que afectan la jugabilidad en Ultimate Team.",
+          "title": "Descubre más funciones del juego usando cartas de alta calificación"
+        }
+      }
+    }
+  },
+  "ye_user": {
+    "action": {
+      "logOut": "Finalizar la sesión"
+    },
+    "bar": {
+      "nav": {
+        "1": {
+          "1": "Historial de pedidos",
+          "2": "Ajustes",
+          "3": "Programa de fidelización",
+          "title": "Perfil"
+        }
+      }
+    }
+  },
+  "ye_default": {
+    "trustScore": {
+      "reviewsAmount": "{amount} opiniones"
+    }
+  },
+  "ye_profile": {
+    "action": {
+      "logOut": "Finalizar la sesión"
+    },
+    "title": {
+      "account": "Su cuenta"
+    }
+  },
+  "ye_footer": {
+    "nav": {
+      "1": {
+        "1": "Entrega",
+        "2": "Pago",
+        "3": "Términos y condiciones",
+        "4": "política de privacidad",
+        "5": "Política de cookies"
+      }
+    },
+    "title": {
+      "contacts": "Contactos",
+      "nav": {
+        "1": "Plataforma",
+        "2": "Información"
+      },
+      "socials": "Nuestras redes sociales"
+    }
+  },
+  "cs_home": {
+    "carousel": {
+      "promo": {
+        "1": {
+          "title": "Alcanzar los rangos más altos"
+        },
+        "2": {
+          "desc": "Con EA Sports FC 24 Coins, puedes elegir las mejores opciones posibles para cada puesto de tu equipo. ¡Da rienda suelta a tu imaginación, prueba cosas nuevas y experimenta!",
+          "title": "Construye tu Dream Team ahora"
+        },
+        "3": {
+          "desc": "Disfruta de nuevas experiencias utilizando a los mejores jugadores con diferentes combinaciones de PlayStyles+ que afectan la jugabilidad en Ultimate Team.",
+          "title": "Descubre más funciones del juego usando cartas de alta calificación"
+        },
+        "4": {
+          "desc": "Los jugadores más codiciados de Ultimate Team finalmente estarán a tu disposición. ¡Comienza a coleccionar cartas codiciadas de todas las promociones de FC UT y no te niegues nada!",
+          "title": "Consigue cualquier tarjeta que quieras"
+        },
+        "5": {
+          "desc": "¡Olvídate de la frustrante recolección de monedas y comienza a dedicar tu valioso tiempo a lo que realmente importa: el juego en sí!",
+          "title": "Juega ahora, no pierdas el tiempo ganando monedas"
+        },
+        "action": {
+          "title": "Comprar monedas"
+        }
+      }
+    },
+    "coins": {
+      "options": {
+        "1": {
+          "desc": "Incluso los clientes más sofisticados estarán encantados con el bono de compra. ¡Consígalo hoy!",
+          "title": "Paquetes de monedas"
+        },
+        "2": {
+          "desc": "¡Empieza a ahorrar mucho tiempo con la nueva herramienta de nuestros amigos!",
+          "title": "Pruebe SBC Solver a un precio reducido"
+        },
+        "title": "Pruebe también estas opciones"
+      }
+    },
+    "delivery": {
+      "process": {
+        "card": {
+          "1": {
+            "desc": "Seleccione su plataforma y la cantidad deseada de monedas, luego pague su pedido.",
+            "title": "Realizar un pedido"
+          }
+        }
+      }
+    }
+  },
+  "kelly_profile": {
+    "orders": {
+      "amount": "Cantidad",
+      "failed_description": "Inténtalo nuevamente o cambia el método de pago si el problema persiste.",
+      "failed_title": "Pago fallido",
+      "make": "Realizar pago",
+      "no_club": "No se detectó ningún club UT",
+      "no_club_description": "Asegúrate de tener tu club configurado en la aplicación web {fc} para que podamos comenzar a procesar tu pedido.",
+      "not_enough": "No hay suficientes monedas",
+      "not_enough_description": "Asegúrate de tener al menos 5000 monedas en tu saldo de Ultimate Team Club para que podamos comenzar el proceso de entrega.",
+      "no_tm": "No hay TM en la aplicación web {fc}",
+      "no_tm_description": "Asegúrate de tener acceso al Mercado de Transferencias en la Aplicación Web {fc} para que podamos comenzar a procesar tu pedido",
+      "resume": "Entrega de currículum",
+      "retry": "Reintentar el pago",
+      "status": "Estado",
+      "unpaid": "No pagado",
+      "unpaid_description": "Este pedido aún no ha sido pagado",
+      "wrong_description": "Tu cuenta no tiene un club Ultimate Team asociado con la plataforma que has seleccionado. Envía los detalles de la cuenta correcta o comunícate con el Soporte para cambiar la plataforma.",
+      "wrong_platform": "Plataforma equivocada"
+    }
+  },
+  "sky_profile": {
+    "orders": {
+      "backup_description": "Los códigos de respaldo que nos ha proporcionado son incorrectos, están vencidos o fueron tomados de una cuenta incorrecta. Asegúrese de enviar los correctos.",
+      "continue": "Continuar con la transferencia",
+      "details": "Ingresa los detalles de tu cuenta EA",
+      "details_description": "Para iniciar el proceso de entrega, ingrese los detalles de su cuenta EA utilizando el formulario a continuación.",
+      "finished_description": "¡No dudes en volver a iniciar sesión en Ultimate Team y disfrutar de tus monedas!",
+      "finished_title": "Finalizado",
+      "in_progress": "Entrega en proceso",
+      "in_progress_description": "Asegúrate de mantener Ultimate Team cerrado en tu cuenta hasta que finalice el pedido.",
+      "list_full_description": "Asegúrese de borrar su lista de transferencia para que podamos comenzar el proceso de entrega.",
+      "list_full_title": "Lista de transferencias completa",
+      "login_disabled": "Verificación de inicio de sesión deshabilitada",
+      "login_disabled_description": "Asegúrate de habilitar la verificación de inicio de sesión en la configuración de tu cuenta EA",
+      "queue": "Orden en cola",
+      "queue_description": "Asegúrate de haber cerrado la sesión de Ultimate Team en tu consola/PC y otros dispositivos a través de la aplicación web FC Ultimate Team/FC Companion",
+      "resubmit": "Reenviar códigos",
+      "submit": "Enviar detalles",
+      "wrong_backup": "Códigos de respaldo incorrectos"
+    }
+  },
+  "add_profile": {
+    "orders": {
+      "cancelled": "Cancelado",
+      "cancelled_description": "Su pedido ha sido cancelado a petición suya.",
+      "items": "Elementos no asignados",
+      "items_description": "Tienes artículos sin asignar en tu club Ultimate Team, asegúrate de asignarlos para que podamos comenzar el proceso de entrega.",
+      "online": "En línea en la aplicación web",
+      "online_description": "Cierre sesión en la aplicación web {fc} o en la aplicación complementaria FC para que podamos continuar con la entrega.",
+      "signed": "Iniciado sesión",
+      "signed_description": "Cierre sesión en su cuenta para que podamos continuar con la entrega.",
+      "undefined_description": "Por favor, póngase en contacto con el soporte técnico",
+      "unexpected": "Error inesperado",
+      "unexpected_description": "Error al crear el pedido: Por favor, póngase en contacto con el servicio de asistencia",
+      "unknown": "Error desconocido",
+      "wrong_cred": "Correo electrónico/contraseña incorrectos",
+      "wrong_cred_description": "Asegúrate de no haber cometido ningún error tipográfico y de que estás enviando los detalles de tu cuenta EA, no de ninguna otra (PSN, red Xbox, etc.)."
+    }
+  },
+  "chris_coinBundles": {
+    "calc": {
+      "title": "Elige tu propia cantidad"
+    },
+    "coinCard": {
+      "action": "Comprar ahora"
+    },
+    "coinsAmount": {
+      "h1": "{fc} Monedas del Ultimate Team",
+      "h2": {
+        "1": "Lo que obtendrás de nosotros:"
+      },
+      "list": {
+        "3": {
+          "item": {
+            "1": "{amount} k monedas en tu club UT"
+          }
+        }
+      },
+      "p1": "Compra monedas EA {fc} en línea del proveedor más seguro del mercado: ROYALFUT Store. Vender artículos de FIFA Ultimate Team ha sido nuestra especialidad durante más de 7 años. Nuestro objetivo es asegurarnos de que nuestros clientes obtengan las mejores ofertas y las transferencias más seguras de monedas FC UT. ROYALFUT ofrece una experiencia de compra cómoda y agradable con su interfaz fácil de usar, opciones de pago seguras y un excelente servicio al cliente.",
+      "p2": "Aquí puedes comprar {amount} k monedas FC por solo {price} {currency}. Una vez que realices el pedido, asegúrate de cerrar sesión en Ultimate Team tanto en tu consola/PC como en otros dispositivos a través de la aplicación web FC/Companion. {amount} k monedas se transferirán a tu cuenta en {timeValue} {time}."
+    },
+    "h1": "Ofertas de paquetes",
+    "noticePanel": "Con este importe podrás comprar cualquier carta disponible en el mercado. ¡Completa tu dream team!",
+    "optionCard": {
+      "desc": "¡Empieza a ahorrar mucho tiempo con la nueva herramienta de nuestros amigos!",
+      "title": "Pruebe SBC Solver a un precio reducido"
+    },
+    "platform": "Plataforma"
+  },
+  "chris_profile": {
+    "orders": {
+      "get_backup": "Puede obtener códigos de respaldo aquí:",
+      "goback": "Volver a la página de inicio",
+      "noorders": "Aún no has realizado ningún pedido",
+      "noorders_text": "Esta sección contendrá su historial de pedidos una vez que haya",
+      "recom": "Le recomendamos enviar al menos 2 o 3 códigos de respaldo"
+    }
+  },
+  "bailey_coinsAmount": {
+    "guaranteesCard": {
+      "1": "Pagos 100% seguros",
+      "2": "{timeValue} {time} Tiempo de entrega",
+      "3": "Elegible para un reembolso"
+    },
+    "h2": {
+      "2": "Lo que necesitaremos de usted",
+      "3": "Lo que dicen nuestros clientes",
+      "4": "Preguntas frecuentes",
+      "5": "Véase también"
+    },
+    "list": {
+      "2": {
+        "item": {
+          "1": {
+            "strong": "Acceso a tu cuenta EA",
+            "text": "— Si tienes una copia con licencia de EA Sports {fc} para PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Series X o PC (comprada en formato físico o digital a través de EA App, Steam o Epic Games Store), estás de suerte, porque a partir de ahora, todo lo que nuestro sistema necesita de ti para acceder con éxito a tu club Ultimate Team son los datos de tu cuenta EA, que consisten en una dirección de correo electrónico, una contraseña y algunos códigos de seguridad. Pero no te preocupes, no almacenamos tus datos, se borran después de completar cada pedido."
+          },
+          "2": {
+            "strong": "Mercado de transferencias desbloqueado",
+            "text": "— una de las cosas más cruciales al preparar a tu club para una entrega de monedas es asegurarte de que ya has obtenido acceso al Mercado de Transferencias en la Aplicación Web, sin embargo, si aún no está desbloqueado, entonces necesitas comenzar a jugar 3 partidos completos de Ultimate Team al día y visitar la Aplicación Web FC / Companion diariamente también, hasta que se te otorgue el acceso."
+          },
+          "3": {
+            "strong": "Al menos 5000 monedas en el saldo de tu club UT",
+            "text": "— Con esta cantidad, nuestro sistema de entrega podrá iniciar la transferencia. Si el saldo de tu club no cumple con este requisito, puedes vender algunos artículos comercializables ya sea incluyéndolos en el Mercado de transferencias o utilizando la opción de Venta rápida. Y, por supuesto, siempre puedes ganar monedas simplemente jugando algunos partidos. Y recuerda, un saldo inicial más alto da como resultado un proceso de entrega más rápido."
+          }
+        }
+      },
+      "3": {
+        "item": {
+          "2": "Cobertura de impuestos EA (5%);",
+          "3": "100% seguridad de su cuenta."
+        }
+      }
+    }
+  },
+  "skyler_pages": {
+    "card": {
+      "button": {
+        "1": "Comprar monedas",
+        "2": "Ir a la página de inicio"
+      },
+      "title": "Psst... ¿Buscas algunas monedas?"
+    },
+    "faq": {
+      "h1": "Preguntas frecuentes",
+      "nav": {
+        "items": {
+          "1": "Preguntas generales",
+          "2": "Preguntas sobre la entrega",
+          "3": "Preguntas sobre pagos"
+        }
+      }
+    },
+    "rated": {
+      "button": "Calificanos",
+      "h1": "Calificado {rate} / 5",
+      "p": {
+        "1": {
+          "link": "Reseñas",
+          "text": "Residencia en"
+        }
+      }
+    },
+    "reviews": {
+      "h1": "Reseñas",
+      "p1": "Ofrece un sistema de entrega de monedas {fifa} único. Cooperamos con un número récord de proveedores de monedas. Al completar su pedido, utilizamos reglas especiales que garantizan que EA nunca aplicará sanciones a su cuenta. Vea algunas de estas reglas a continuación"
+    }
+  },
+  "jordan_pages": {
+    "cookie": {
+      "h1": "Política de cookies",
+      "h2": {
+        "1": "Acerca de las cookies",
+        "2": "¿Qué tipos de cookies utilizamos?"
+      },
+      "h3": {
+        "1": "Cookies necesarias"
+      },
+      "p": {
+        "1": "Al utilizar este sitio web y aceptar esta política, usted acepta nuestro uso de cookies de acuerdo con los términos de esta política.",
+        "2": "Las cookies son archivos de texto simples que el servidor de un sitio web almacena en su computadora o dispositivo móvil. Cada cookie es exclusiva de su navegador web y contiene información anónima, como un identificador único, el nombre de dominio del sitio web y algunos dígitos y números."
+      }
+    },
+    "delivery": {
+      "h1": "Entrega",
+      "h2": {
+        "1": "A continuación se muestran algunas estadísticas* que pueden interesarle:"
+      },
+      "notice": "* vigente a partir del 1 de octubre de 2023",
+      "p": {
+        "1": "Nos gustaría llamar su atención sobre el innovador sistema de entrega de monedas EA FC desarrollado por un servidor: un enfoque único en el mercado de monedas FIFA. Cada pedido se procesa de acuerdo con un conjunto de protocolos propios que excluyen por completo cualquier consecuencia indeseable para la cuenta de EA. Estamos mejorando constantemente nuestro algoritmo de transferencia de monedas, lo sometemos a una calibración exhaustiva y a una serie de pruebas diversas y solo en caso de una evaluación positiva de cada aspecto probado, recibe luz verde para su implementación completa.",
+        "p2_fragments": {
+          "1": "Además, nuestro alcance de influencia se amplía enormemente al establecer asociaciones productivas con muchas otras organizaciones involucradas en la venta minorista de monedas EA FC. Actualmente, nuestro ecosistema incluye más de 10 tiendas como esta integradas en nuestra plataforma. Y nuestras puertas para dicha cooperación siempre están abiertas. Si está interesado en asociarse con nosotros como tienda de monedas EA FC, contáctenos a través de",
+          "2": "o",
+          "3": "donde podremos discutir todos los detalles de esta oportunidad de colaboración, que nos permitirá fortalecer colectivamente la lista de nuestros logros en el mercado de monedas FUT y EA FC presentada anteriormente."
+        }
+      }
+    },
+    "payments": {
+      "h1": "Pago",
+      "p": {
+        "1": "ROYALFUT.COM acepta pagos en seis monedas diferentes SIN CARGO.",
+        "2": "Solo los usuarios registrados pueden realizar pagos en el sitio web. Los pagos se organizan a través de los sistemas de pago internacionales. Los titulares de tarjetas bancarias en las siguientes regiones tienen prohibido realizar compras: Afganistán, Samoa Americana, Aruba, Bahamas, Botsuana, Burundi, Camboya, República Centroafricana, Congo, República Democrática del Congo, Crimea y Sebastopol, Cuba, Guinea Ecuatorial, Eritrea, Etiopía, Irak, Líbano, Libia, Malí, Myanmar, Nicaragua, Corea del Norte, Pakistán, Palestina, Federación Rusa, Samoa, Sierra Leona, Somalia, Sudán del Sur, Sudán, Siria, Trinidad y Tobago, Turkmenistán, Uganda, Islas Vírgenes de los Estados Unidos, Venezuela, Yemen, Zimbabue.",
+        "3": "Al comprar nuestro producto digital, puede estar seguro de que su dinero está seguro."
+      }
+    }
+  },
+  "kendall_pages": {
+    "cookie": {
+      "h2": {
+        "3": "Bloqueo de cookies",
+        "4": "¿Cómo eliminar las cookies?"
+      },
+      "h3": {
+        "2": "Cookies de funcionalidad",
+        "3": "Cookies analíticas",
+        "4": "Cookies de terceros"
+      },
+      "list": {
+        "1": {
+          "item": {
+            "1": "Para rastrear su navegador en múltiples sitios web",
+            "2": "para crear un perfil de su navegación web",
+            "3": "para orientar anuncios basados en sus interacciones con sus servicios, que puedan ser de particular interés para usted."
+          }
+        }
+      },
+      "p": {
+        "3": "Las cookies necesarias nos permiten ofrecerle la mejor experiencia posible al acceder y navegar por nuestro sitio web y utilizar sus funciones. Por ejemplo, estas cookies nos permiten reconocer que ha creado una cuenta y ha iniciado sesión en ella.",
+        "4": "Las cookies de funcionalidad nos permiten operar el sitio de acuerdo con las opciones que usted elija. Por ejemplo, reconoceremos su nombre de usuario y recordaremos cómo personalizó el sitio durante futuras visitas.",
+        "5": "Estas cookies nos permiten a nosotros y a servicios de terceros recopilar datos agregados con fines estadísticos sobre el uso que hacen nuestros visitantes del sitio web. Estas cookies no contienen información personal como nombres y direcciones de correo electrónico y se utilizan para ayudarnos a mejorar su experiencia de usuario en el sitio web.",
+        "6": "Cuando utiliza el sitio web, también es posible que se le envíen cookies de terceros.\n\n",
+        "7": "Nuestros anunciantes y proveedores de servicios pueden enviarle cookies. Pueden utilizar la información que obtienen del uso que usted hace de sus cookies:",
+        "8": "Utilizamos Google Analytics, un servicio de análisis web proporcionado por Google, Inc. ('Google'). Google Analytics utiliza 'cookies', que son archivos de texto ubicados en su computadora, para ayudar al sitio web a analizar el uso que hacen los usuarios del sitio web. La información generada por la cookie sobre su uso del sitio web (incluida su dirección IP) será transmitida y almacenada por Google en servidores en los Estados Unidos. La dirección IP se truncará antes de la transmisión para garantizar el anonimato. En nuestro nombre, Google utilizará esta información para evaluar su uso del sitio web, compilando informes sobre la actividad del sitio web y proporcionando otros servicios relacionados con la actividad del sitio web y la actividad de Internet en relación con el uso del sitio web. Google no asociará su dirección IP con ningún otro dato del que disponga Google. Puede rechazar el uso de cookies seleccionando la configuración apropiada de su navegador; sin embargo, tenga en cuenta que si lo hace, es posible que no pueda utilizar la funcionalidad completa de este sitio web. Además, puedes evitar la recopilación de la información generada por las cookies acerca de tu uso del sitio web (incluida tu dirección IP) y el procesamiento de estos datos por parte de Google si descargas e instalas el complemento del navegador disponible en el siguiente enlace:",
+        "9": "La mayoría de los navegadores permiten rechazar la aceptación de cookies. En google.com puedes encontrar cómo bloquear todas las cookies en tu navegador.",
+        "10": "Sin embargo, bloquear todas las cookies tendrá un impacto negativo en la usabilidad de muchos sitios web. Si bloquea las cookies, es posible que no pueda utilizar ciertas funciones del sitio web (iniciar sesión, acceder al contenido, utilizar las funciones de búsqueda).",
+        "11": {
+          "1": "Si desea restringir o bloquear las cookies que establece nuestro sitio web, puede hacerlo a través de la configuración de su navegador. Alternativamente, puede visitar"
+        }
+      }
+    }
+  },
+  "jules_pages": {
+    "cookie": {
+      "h3": {
+        "5": "Contáctenos"
+      },
+      "p": {
+        "11": {
+          "2": ", que contiene información completa sobre cómo hacerlo en una amplia variedad de navegadores y dispositivos. Encontrará información general sobre las cookies y detalles sobre cómo eliminar las cookies de su dispositivo."
+        },
+        "12": "Si tiene alguna pregunta sobre esta política o nuestro uso de cookies, no dude en comunicarse con nosotros en"
+      }
+    },
+    "privacy": {
+      "h1": "Política de privacidad",
+      "list": {
+        "1": {
+          "item": {
+            "1": "Brindarle nuestros servicios.",
+            "2": "Comunicarnos con usted por correo electrónico, teléfono u otros medios para resolver disputas, cobrar tarifas, solucionar problemas de su cuenta o de nuestros sitios, servicios, aplicaciones o herramientas, o para otros fines permitidos por la ley.",
+            "3": "Prevenir y detectar fraudes, violaciones de seguridad, actividades potencialmente prohibidas o ilegales y hacer cumplir nuestros Acuerdos de usuario",
+            "4": "Verificar para identificar a nuestros clientes y verificar su identidad",
+            "5": "Razones operativas como ganancias de eficiencia, capacitación y control de calidad.",
+            "6": "Prevenir accesos y modificaciones no autorizadas a nuestros sistemas",
+            "7": "Comercialización de nuestros servicios y los servicios de terceros seleccionados para:",
+            "8": "Auditorías externas y controles de calidad",
+            "7_0": "- clientes existentes y antiguos",
+            "7_1": "- terceros que hayan manifestado previamente interés en nuestros servicios",
+            "7_2": "- terceros con los que no hemos tenido negocios anteriormente"
+          },
+          "p": "El Operador trata los datos del Titular con la finalidad de:"
+        }
+      },
+      "p": {
+        "1": "Al registrarse en el servicio, el usuario otorga a ROYALFUT su consentimiento para la verificación y tratamiento de sus datos personales en base a las siguientes condiciones:"
+      }
+    }
+  },
+  "dakota_pages": {
+    "privacy": {
+      "list": {
+        "2": {
+          "item": {
+            "1": "Su nombre e información de contacto, incluyendo dirección de correo electrónico y número de teléfono",
+            "2": "información que nos permite verificar y confirmar su identidad, como su fecha de nacimiento",
+            "3": "Su información de género, si decide proporcionárnosla",
+            "4": "datos de inicio de sesión de la computadora, estadísticas de visitas a la página, tráfico hacia y desde ROYALFUT e información de cookies",
+            "5": "datos de ubicación",
+            "6": "información sobre su entrega (plataforma, número de monedas en el pedido), información de facturación, información sobre transacciones y tarjetas de pago",
+            "7": "sus intereses personales o profesionales",
+            "8": "Tu presencia profesional en línea",
+            "9": "su historial de contacto con ROYALFUT, sus empleados, directores, afiliados, su historial de compras y artículos guardados en ROYALFUT",
+            "10": "información sobre las cuentas que vincula a ROYALFUT, por ejemplo, Facebook, Google y otras plataformas",
+            "11": "Información que nos permite realizar verificaciones crediticias u otras verificaciones financieras sobre usted.",
+            "12": "Información sobre cómo utilizar el sitio web de ROYALFUT",
+            "13": "Sus respuestas a las encuestas e información sobre la participación en concursos, sorteos y ofertas especiales.",
+            "14": "Información transaccional basada en su actividad en ROYALFUT (por ejemplo, información para simplificar el proceso de compra y venta)",
+            "15": "Discusiones públicas, chats, resolución de disputas, correspondencia a través de ROYALFUT, así como correspondencia que nos envíe"
+          },
+          "p": {
+            "1": "Lista de datos personales cedidos a ROYALFUT para su tratamiento:",
+            "2": "Podemos recopilar y utilizar la siguiente información personal sobre usted:"
+          }
+        }
+      }
+    }
+  },
+  "quinn_pages": {
+    "home": {
+      "calc": {
+        "panel": {
+          "info": {
+            "ccy": "Precio total"
+          }
+        }
+      },
+      "header": {
+        "nav": {
+          "1": "Comprar monedas",
+          "2": "Paquetes de monedas",
+          "3": "Reseñas",
+          "4": "FAQ",
+          "5": "Blog"
+        }
+      },
+      "heading": {
+        "1": {
+          "1": "LA OPCIÓN MÁS SEGURA PARA COMPRAR",
+          "2": "{fc} MONEDAS"
+        }
+      }
+    },
+    "privacy": {
+      "list": {
+        "2": {
+          "item": {
+            "16": "otra información, incluida la dirección IP e información estándar de registro web (tipo de navegador, proveedor de servicios de Internet (ISP), páginas de referencia/salida, sistema operativo, sello de fecha/hora y datos de flujo de clics), así como información adicional de terceros, como información de cuenta de facturación proporcionada por cualquier servicio de pago que utilice para realizar compras o recibir pagos, así como su ID de navegador, ID de cookie, ID de dispositivo, tipo de dispositivo, información sobre el uso del servidor proxy/VPN y tecnologías relacionadas, información de ubicación, direcciones de correo electrónico, números de teléfono y perfiles públicos de redes sociales proporcionados por nuestros proveedores de servicios de fraude de pago y diligencia debida del cliente."
+          }
+        }
+      },
+      "p": {
+        "2": "Estos datos personales son necesarios para proporcionarle nuestros servicios. Puede optar por no proporcionarnos información, pero algunos datos sobre usted son necesarios para que pueda: registrarse como miembro; comprar productos o servicios, completar un perfil; participar en encuestas, concursos o sorteos; hacernos una pregunta o iniciar otras transacciones en nuestro sitio web. ROYALFUT también utiliza esta información para el análisis de tendencias, la detección de fraudes y la administración del sitio.",
+        "3": "El consentimiento es válido desde el momento en que el titular de los datos personales se registra en",
+        "4": "Si desea eliminar su cuenta de RoyalFUT, envíe la solicitud a"
+      }
+    },
+    "terms": {
+      "h1": "Términos y condiciones",
+      "h2": {
+        "1": "Acuerdo de usuario"
+      },
+      "p": {
+        "1": {
+          "1": "Lea atentamente el siguiente Acuerdo de usuario. Si no acepta alguno de los puntos de este Acuerdo de usuario, no tendrá derecho a confirmar su registro ni a utilizar ningún servicio proporcionado por",
+          "2": ", o vender, comprar o intercambiar bienes a través de esta plataforma comercial."
+        }
+      }
+    },
+    "trustScore": {
+      "reviewsAmount": "{reviewsAmount} reseñas"
+    }
+  },
+  "phoenix_pages": {
+    "auth": {
+      "action": {
+        "changeEmail": "Cambiar correo electrónico",
+        "login": "Obtener el enlace",
+        "sendCodeAgain": "Enviar código nuevamente"
+      },
+      "btn": {
+        "login": "Acceso"
+      },
+      "divider": {
+        "1": "O"
+      },
+      "email": {
+        "placeholder": "Correo electrónico"
+      },
+      "notify": {
+        "sentConfirmationCode": "Le hemos enviado un código de confirmación de seis dígitos a<mail> {address}</mail> Introdúzcalo a continuación para confirmar su dirección de correo electrónico."
+      },
+      "oauth": {
+        "google": "Continuar con Google"
+      },
+      "text": {
+        "authTitle": "Iniciar sesión o registrarse",
+        "code": "Introduzca el código de 6 dígitos",
+        "codeInfo": "Déjanos tu e-mail y te enviaremos un link de autorización"
+      }
+    },
+    "contacts": {
+      "h1": "Contactos",
+      "title": {
+        "1": "Contáctenos a través de",
+        "2": "Social"
+      }
+    },
+    "faq": {
+      "action": "¿Tienes más preguntas?"
+    }
+  },
+  "jamie_pages": {
+    "faq": {
+      "acc": {
+        "q": {
+          "1": {
+            "title": "¿Por qué debería elegir ROYALFUT?"
+          },
+          "2": {
+            "title": "¿Cuáles son las ventajas de comprar monedas EAS FC sobre puntos FC?"
+          },
+          "3": {
+            "title": "¿Cuánto tiempo tarda la entrega de monedas?"
+          },
+          "4": {
+            "title": "¿Cómo uso un cupón de descuento?"
+          },
+          "5": {
+            "title": "¿Existen ofertas especiales para clientes habituales?"
+          },
+          "6": {
+            "title": "¿Cómo debo preparar mi club FC Ultimate Team para una transferencia de monedas?"
+          },
+          "7": {
+            "title": "¿Cómo puedo comprobar si mi Mercado de Transferencias en la aplicación web de FC Ultimate Team está desbloqueado o no?"
+          }
+        }
+      },
+      "nav": {
+        "1": "Preguntas generales",
+        "2": "Preguntas sobre la entrega",
+        "3": "Preguntas sobre pagos"
+      },
+      "q": {
+        "1": {
+          "title": "¿Por qué debería elegir ROYALFUT?"
+        },
+        "2": {
+          "content": {
+            "1": "Las monedas son la primera opción de la mayoría de los jugadores de EA Sports FC en todo el mundo debido a su bajo coste y a la posibilidad de gastarlas de forma mucho más beneficiosa para tu club de FC Ultimate Team. Puedes gastar monedas de Ultimate Team en artículos del juego que otros jugadores hayan incluido en el Mercado de transferencias. Pueden ser tarjetas de jugador, tarjetas de entrenador, uniformes, estadios, consumibles y mucho más. Y lo más importante, nada de esto se puede comprar con FC Points. Con FC Points, puedes comprar sobres en la tienda de FC Ultimate Team y obtener acceso a los Drafts de FC Ultimate Team. Sin embargo, también puedes hacer ambas cosas con monedas. En términos de dinero real, es más de 5 veces más barato comprar en el juego con monedas EAS FC en lugar de FC Points. Empieza a comprar monedas con nosotros y compruébalo tú mismo 😉",
+            "2": "Puedes gastar {fc} Ultimate Team Coins en artículos del juego que otros jugadores hayan incluido en el Mercado de transferibles. Pueden ser tarjetas de jugadores, tarjetas de entrenadores, uniformes, estadios, consumibles y más. Y lo más importante, nada de esto se puede comprar con FC Points.",
+            "3": "Con FC Points, puedes comprar sobres en la tienda de {fc} Ultimate Team y acceder a los Drafts de {fc} Ultimate Team. Sin embargo, también puedes hacer ambas cosas usando monedas. En términos de dinero real, es más de 5 veces más barato comprar en el juego usando monedas {fc} Ultimate Team en lugar de FC Points. Comienza a comprar monedas con nosotros y compruébalo tú mismo 😉"
+          },
+          "title": "¿Cuáles son las ventajas de comprar monedas EAS FC sobre puntos FC?"
+        },
+        "3": {
+          "content": "Sí, las hay. Comenzarás a recibir ofertas especiales tan pronto como notemos que has comenzado a comprar con nosotros de manera regular. Sin mencionar que también estamos desarrollando un programa de fidelización transparente. ¡Permanece atento a las actualizaciones!",
+          "title": "¿Existen ofertas especiales para clientes habituales?"
+        }
+      }
+    }
+  },
+  "alex_pages": {
+    "faq": {
+      "acc": {
+        "q": {
+          "1": {
+            "content": "<content>Hay varias razones para ello que seguramente descubrirás tú mismo después de la primera compra:</content><list><listItem> Una gran cantidad de reseñas de clientes satisfechos que se pueden encontrar<link> aquí.</link></listItem><listItem> La absoluta seguridad de tu cuenta que siempre es lo primero y una garantía de reembolso total en caso de que tu pedido, por alguna razón, no sea entregado.</listItem><listItem> Plazos de entrega más cortos: con nosotros te olvidarás de los largos tiempos de espera para completar el pedido.</listItem><listItem> Nuestro equipo de soporte está siempre listo para ayudarte a resolver cualquier problema que puedas encontrar, tanto antes como después de la compra, ya sea a través del chat en vivo o cualquier otra forma de tu elección (WhatsApp, Telegram, Instagram directo o correo electrónico).</listItem></list>"
+          },
+          "2": {
+            "content": "<content>Las monedas son la primera opción de la mayoría de los jugadores de EA Sports FC en todo el mundo debido a su bajo coste y a la posibilidad de gastarlas de forma mucho más beneficiosa para tu club de FC Ultimate Team. Puedes gastar monedas de Ultimate Team en artículos del juego que otros jugadores hayan incluido en el Mercado de transferencias. Pueden ser tarjetas de jugador, tarjetas de entrenador, uniformes, estadios, consumibles y mucho más. Y lo más importante, nada de esto se puede comprar con FC Points. Con FC Points, puedes comprar sobres en la tienda de FC Ultimate Team y obtener acceso a los Drafts de FC Ultimate Team. Sin embargo, también puedes hacer ambas cosas con monedas. En términos de dinero real, es más de 5 veces más barato comprar en el juego con monedas EAS FC en lugar de FC Points. Empieza a comprar monedas con nosotros y compruébalo tú mismo 😉</content><content> Puedes gastar {fc} Ultimate Team Coins en artículos del juego que otros jugadores hayan incluido en el Mercado de transferibles. Pueden ser tarjetas de jugadores, tarjetas de entrenadores, uniformes, estadios, consumibles y más. Y lo más importante, nada de esto se puede comprar con FC Points.</content><content> Con FC Points, puedes comprar sobres en la tienda de {fc} Ultimate Team y acceder a los Drafts de {fc} Ultimate Team. Sin embargo, también puedes hacer ambas cosas usando monedas. En términos de dinero real, es más de 5 veces más barato comprar en el juego usando monedas {fc} Ultimate Team en lugar de FC Points. Comienza a comprar monedas con nosotros y compruébalo tú mismo 😉</content>"
+          },
+          "3": {
+            "content": "<content>Depende del método de envío que elijas.</content><content> En la página de pago, antes de realizar el pago, mostramos el tiempo de entrega aproximado de los pedidos de Comfort Trade. Si todos los datos que ha enviado son correctos y su cuenta está completamente lista para la transferencia de monedas, el pedido se completará en un plazo de 15 a 20 minutos en promedio. Sin embargo, tenga en cuenta que el tiempo de entrega depende principalmente de la cantidad de monedas solicitadas.</content><content> En cuanto al método de entrega de la Subasta de Jugadores, los tiempos de esta opción dependen completamente de ti. La transferencia de monedas se realiza mediante la compra y venta de cartas de jugadores. Se necesitan un promedio de 3 a 10 cartas sugeridas por nuestro sistema para que se complete el pedido mediante este método. Pero ten en cuenta que tu saldo inicial juega un papel importante en este escenario: cuanto mayor sea, más rápido se procesará la entrega, así que intenta que sea lo más alto posible antes de realizar un pedido; por ejemplo, puedes vender cartas no deseadas.</content>"
+          },
+          "4": {
+            "content": "Llegar a la página de pago."
+          },
+          "5": {
+            "content": "Sí, las hay. Comenzarás a recibir ofertas especiales tan pronto como notemos que has comenzado a comprar con nosotros de manera regular. Sin mencionar que también estamos desarrollando un programa de fidelización transparente. ¡Permanece atento a las actualizaciones!"
+          },
+          "6": {
+            "content": "<list><listItem>Asegúrate de que tu Mercado de Transferencias en la Aplicación Web de FC Ultimate Team esté desbloqueado</listItem><listItem> Mantén al menos 5000 monedas en el saldo de tu club UT</listItem><listItem> Libere tanto espacio como sea posible en su Lista de transferencias y en su lista de Objetivos de transferencia</listItem><listItem> Asigna todos los elementos no asignados, si tienes alguno, a tu club</listItem></list>"
+          },
+          "8": {
+            "title": "¿Qué pasos debo seguir para realizar un pedido y recibir las monedas compradas?"
+          },
+          "9": {
+            "title": "¿Qué datos debo proporcionar para iniciar el proceso de entrega de mi pedido?"
+          },
+          "10": {
+            "title": "¿Cómo protege ROYALFUT mi información personal?"
+          },
+          "11": {
+            "title": "¿Cómo activo la verificación de inicio de sesión para mi cuenta EA?"
+          },
+          "12": {
+            "title": "No recuerdo la dirección de correo electrónico de mi cuenta EA, ¿dónde puedo encontrarla?"
+          },
+          "13": {
+            "title": "Olvidé la contraseña de mi cuenta EA, ¿cómo la restablezco?"
+          },
+          "14": {
+            "title": "¿Cómo puedo recuperar los códigos de respaldo de mi cuenta EA?"
+          },
+          "15": {
+            "title": "¿En qué países operamos?"
+          },
+          "16": {
+            "title": "¿Qué métodos de pago están disponibles en su sitio web?"
+          },
+          "17": {
+            "title": "¿Cómo reembolsar mi pedido?"
+          },
+          "18": {
+            "title": "¿También compráis monedas a los usuarios?"
+          }
+        }
+      }
+    }
+  },
+  "drew_pages": {
+    "faq": {
+      "acc": {
+        "q": {
+          "7": {
+            "content": "<content>El mercado de transferencias está desbloqueado</content><content> El mercado de transferencias está bloqueado</content>"
+          },
+          "8": {
+            "content": "<list><listItem>Elige tu plataforma y la cantidad deseada de monedas</listItem><listItem> Paga tu pedido</listItem><listItem> Después de realizar el pago correctamente, deberá completar los detalles de su cuenta EA en los campos de entrada correspondientes y presionar el botón \"Guardar cambios\".</listItem><listItem> Si los datos enviados son correctos y no se producen otros problemas con tu cuenta, comenzará el proceso de entrega automática durante el cual NO deberás iniciar sesión en FC Ultimate Team ni en tu consola/PC ni en ningún otro dispositivo a través de la aplicación web de FC/Companion. Tan pronto como se complete la entrega de tus monedas, el estado de tu pedido cambiará a \"Finalizado\" y también se te notificará sobre el hecho por correo electrónico. Puedes encontrar más información sobre todo el proceso en el siguiente video. <button>Más información</button></listItem><listItem> ¡Eso es todo! ¡No dudes en volver a iniciar sesión en Ultimate Team y gastar las monedas! Y si disfrutaste de tu estadía en ROYALFUT, no olvides dejarnos una reseña en Trustpilot.</listItem></list><content> Si tiene alguna pregunta o necesita ayuda en cualquier etapa, no dude en ponerse en contacto con nuestro Equipo de soporte a través del chat en vivo o cualquier otro medio de su elección (WhatsApp, Telegram, Instagram Direct o correo electrónico).</content>"
+          },
+          "9": {
+            "content": "Solo tu correo electrónico, contraseña y códigos de respaldo de tu cuenta EA. No necesitas compartir tu ID de EA ni las credenciales de tu cuenta PSN/Xbox ni ningún otro detalle."
+          },
+          "10": {
+            "content": "<content>La administración del proyecto protege la información transmitida a través del sitio web contra piratería y robo en base a nuestra estricta Política de Privacidad y Sistema de Gestión. ¡NO compartimos los detalles de su cuenta EA, datos de tarjetas de pago, etc. con terceros bajo NINGUNA circunstancia! Obtenga más información en nuestra</content><link> Página de Política de privacidad.</link>"
+          },
+          "11": {
+            "content": "<list><listItem>Abra la página de configuración de la cuenta EA</listItem><listItem> Seguridad > Verificación de inicio de sesión > Activar > Enviar código > Activar verificación de inicio de sesión</listItem></list>"
+          },
+          "12": {
+            "content": "<list><listItem>Abre el juego y ve al menú principal.</listItem><listItem> Personalizar > Configuración en línea > Cuenta EA.</listItem></list>"
+          },
+          "13": {
+            "content": "<list><listItem>Vaya a la página de inicio de sesión de la cuenta EA.</listItem><listItem> Iniciar sesión > ¿Olvidaste tu contraseña? > Siguiente > Enviar código > Siguiente > Enviar.</listItem></list>"
+          },
+          "14": {
+            "content": "<content>Puedes encontrar los códigos de respaldo en la configuración de tu cuenta EA. Aquí tienes el enlace que te llevará directamente a ellos:</content><link> https://myaccount.ea.com/cp-ui/security/index</link>"
+          },
+          "15": {
+            "content": "Operamos en todo el mundo y aceptamos pagos de todas las regiones, con excepción de jurisdicciones de alto riesgo como Afganistán, Corea del Norte, Siria, la República de Crimea y otras."
+          },
+          "16": {
+            "content": "<content>La lista de métodos de pago que admitimos se actualiza constantemente, ya que nuestro objetivo es mejorar la experiencia de interacción del usuario con nuestro servicio. En este momento, aceptamos los siguientes métodos de pago:</content><list><listItem> Tarjetas VISA, MasterCard, Maestro, Discover, DinnersClub, JCB y UnionPay.</listItem><listItem> Pago sin contacto a través de Apple Pay y Google Pay.</listItem><listItem> Transferencia bancaria a través de la mayoría de los bancos de la UE, iDeal y otros.</listItem><listItem> Criptomonedas: Bitcoin, USD Tether, Etherium.</listItem></list>"
+          },
+          "17": {
+            "content": "Si has pagado tu pedido con éxito, pero por alguna razón ya no necesitas las monedas, puedes solicitar un reembolso completo. Para ello, debes ponerte en contacto con nuestro Servicio de Atención al Cliente a través del chat en vivo o cualquier otro medio que elijas (WhatsApp, Telegram, Instagram Direct o correo electrónico)."
+          },
+          "18": {
+            "content": "No es nuestro principal objetivo, pero a veces lo hacemos, puede en contacto con nuestro administrador a través de Skype o por Telegrama y vamos a considerar su oferta."
+          }
+        }
+      }
+    }
+  }
+}
