@@ -1,8 +1,8 @@
 .prepare-ssh: &prepare-ssh
-- mkdir -p ~/.ssh
-- chmod 700 ~/.ssh
-- eval $(ssh-agent -s)
-- echo "${PROD_ROYALFUT_SSH_KEY}" | tr -d '\r' | ssh-add -
+  - mkdir -p ~/.ssh
+  - chmod 700 ~/.ssh
+  - eval $(ssh-agent -s)
+  - echo "${SSH_KEY}" | tr -d '\r' | ssh-add -
 
 .release-ssh: &release-ssh
   - set -x
@@ -41,24 +41,11 @@ stages:
   - prepare
   - deploy
 
-deploy-royalfut-production:
-  stage: deploy
-  when: manual
-  rules:
-    - if: '$CI_MERGE_REQUEST_TARGET_BRANCH_NAME == "main" && $CI_COMMIT_REF_NAME =~ /develop/'
-  variables:
-    SSH_KEY: ${PROD_ROYALFUT_SSH_KEY}
-    USER: ${PROD_ROYALFUT_USER}
-    HOST: ${NEXTPROD_ROYALFUT_HOST}
-  script:
-    - *prepare-ssh
-    - *release-ssh
-
 deploy-royalfut-test:
   stage: deploy
   when: manual
-  rules:
-    - if: '$CI_COMMIT_REF_NAME =~ /develop/'
+  only:
+    - develop
   variables:
     SSH_KEY: ${TEST_ROYALFUT_SSH_KEY}
     USER: ${TEST_ROYALFUT_USER}
@@ -70,8 +57,8 @@ deploy-royalfut-test:
 deploy-sell-royalfut-test:
   stage: deploy
   when: manual
-  rules:
-    - if: '$CI_COMMIT_REF_NAME =~ /develop/'
+  only:
+    - develop
   variables:
     SSH_KEY: ${TEST_ROYALFUT_SSH_KEY}
     USER: ${TEST_ROYALFUT_USER}
@@ -80,7 +67,7 @@ deploy-sell-royalfut-test:
     - *prepare-ssh-test
     - *release-ssh-test-seller-royalfut
 
-deploy-royalfut-production:
+deploy-production:
   stage: deploy
   when: manual
   only:

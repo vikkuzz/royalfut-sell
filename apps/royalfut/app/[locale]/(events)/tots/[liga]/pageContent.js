@@ -1,6 +1,6 @@
 import React from "react";
 
-import Coupon from "../../../fc-25-tots-events-schedule/coupon";
+import Coupon from "../../../fc-24-tots-events-schedule/coupon";
 
 import styles from "./pageContent.module.scss";
 import Image from "next/image";

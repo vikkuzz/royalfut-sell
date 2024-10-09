@@ -12,8 +12,7 @@ const PointsBlock = ({ full, mobile }) => {
     );
 
     return stateLoyaltyOrderData && stateLoyaltyOrderData?.points > 0 ? (
-        <div
-            className={`${styles.container} ${full && styles.full} ${mobile && styles.mobile}`}>
+        <div className={`${styles.container} ${full && styles.full} ${mobile && styles.mobile}`}>
             <div className={styles.points_block}>
                 <div className={`${styles.points}`}>
                     +{stateLoyaltyOrderData?.points || 0}

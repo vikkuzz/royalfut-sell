@@ -29,7 +29,7 @@ const UTCoinInput = forwardRef<
             onChange: onExternalChange,
             ...props
         },
-        externalRef,
+        externalRef
     ) => {
         const use = useTransferSelectorStore.use;
         const hasError = use.hasError();
@@ -41,15 +41,15 @@ const UTCoinInput = forwardRef<
         //     : "";
 
         const onBlur: FocusEventHandler<HTMLInputElement> = useCallback(
-            (event) => {
+            event => {
                 resetIfInvalid();
                 onExternalBlur?.(event);
             },
-            [onExternalBlur, resetIfInvalid],
+            [onExternalBlur, resetIfInvalid]
         );
 
         const onFocus: FocusEventHandler<HTMLInputElement> = useCallback(
-            (event) => {
+            event => {
                 const target = event.target;
                 const selectionRange = {
                     start: target.selectionStart,
@@ -64,21 +64,21 @@ const UTCoinInput = forwardRef<
                         target.setSelectionRange(
                             selectionRange.start || inputLen,
                             selectionRange.end || inputLen,
-                            selectionRange.direction,
+                            selectionRange.direction
                         ),
-                    0,
+                    0
                 );
                 onExternalFocus?.(event);
             },
-            [onExternalFocus],
+            [onExternalFocus]
         );
 
         const onChange: ChangeEventHandler<HTMLInputElement> = useCallback(
-            (event) => {
+            event => {
                 setValue(event.target.value);
                 onExternalChange?.(event.target.value);
             },
-            [onExternalChange, setValue],
+            [onExternalChange, setValue]
         );
 
         return (
@@ -89,7 +89,7 @@ const UTCoinInput = forwardRef<
                         "text-system-error": !!hasError,
                         "text-white": !hasError,
                     },
-                    className,
+                    className
                 )}
                 value={value}
                 native
@@ -103,7 +103,7 @@ const UTCoinInput = forwardRef<
                 {...props}
             />
         );
-    },
+    }
 );
 UTCoinInput.displayName = "UTCoinInput";
 

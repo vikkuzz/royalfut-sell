@@ -13,7 +13,6 @@ const analitic = new Analitic();
 
 const Offer = () => {
     const t = useTranslations("mainblocks");
-    const preorder = useTranslations("home.preorder");
     const dispatch = useDispatch();
 
     const stateDir = useSelector(state => state.royalfutReducer.direction);
@@ -28,10 +27,10 @@ const Offer = () => {
             <div className={`${styles.content_offer}`} dir={stateDir}>
                 <TrustScore />
                 <span className={`${styles.offer_h_1}`}>
-                    {preorder("safest")}
+                    {t("mainblocks22")}
                 </span>
                 <span className={`${styles.offer_h1_gradient}`}>
-                    {preorder("safest_2")}
+                    {t("mainblocks23")}
                 </span>
                 <div className={`${styles.wrapper_desk_btns}`}>
                     <div
@@ -42,7 +41,7 @@ const Offer = () => {
                             className={`${styles.buy_btn_width}`}>
                             <GradientBtn size={{ height: 64 }}>
                                 <span className={` ${styles.buy_btn}`}>
-                                    {preorder("buy_coins")}
+                                    {t("mainblocks10")}
                                 </span>
                             </GradientBtn>
                         </Link>
@@ -73,7 +72,7 @@ const Offer = () => {
                     </div>
                 </div>
             </div>
-            <div className={styles.text_after_block}>{preorder("grinding")}</div>
+            <div className={styles.text_after_block}>{t("ab91")}</div>
         </div>
     );
 };

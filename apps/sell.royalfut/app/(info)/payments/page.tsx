@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@royalfut/ui";
 
 const Index = async () => {
     return (

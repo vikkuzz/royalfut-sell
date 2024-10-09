@@ -1,4 +1,4 @@
-// import Link from "next/link";
+import { SOCIAL_CREDENTIALS } from "@royalfut/collections";
 
 const Index = async () => {
     return (
@@ -137,11 +137,12 @@ const Index = async () => {
                     If you have any questions regarding this policy or our use
                     of cookies, feel free to reach out to us at{" "}
                     <a
-                        href="mailto:support@royalfut.com"
-                        className="underline underline-offset-2">
-                        {" "}
-                        support@royalfut.com.
+                        href={SOCIAL_CREDENTIALS.mail.support}
+                        className="underline underline-offset-2"
+                    >
+                        {SOCIAL_CREDENTIALS.mail.support}
                     </a>
+                    .
                 </p>
             </section>
         </div>

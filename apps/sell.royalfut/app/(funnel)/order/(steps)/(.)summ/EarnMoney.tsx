@@ -2,10 +2,12 @@
 
 import { CCYDisplay, CurrencyPickerDropdown } from "@royalfut/components";
 import { ClockIcon } from "@royalfut/icons";
-import { useTransferStore } from "@royalfut/store";
+import { EPaymentCollectionGroups } from "@royalfut/enums";
+import { useTransferSelectorStore } from "@royalfut/store";
 
 const EarnMoney = () => {
-    const { payment } = useTransferStore();
+    const payment = useTransferSelectorStore.use.payment();
+
     return (
         <div className="flex flex-col gap-1">
             <div className="flex space-x-2.5">
@@ -27,8 +29,9 @@ const EarnMoney = () => {
                 </span>
                 <ClockIcon className="w-4 h-4 text-white" />
                 <span className="text-xs font-medium text-white">
-                    {payment === "first" && "10 hours"}
-                    {payment === "sixth" && "16 hours"}
+                    {payment === EPaymentCollectionGroups.ACQUIRING &&
+                        "10 hours"}
+                    {payment === EPaymentCollectionGroups.CRYPTO && "16 hours"}
                 </span>
             </div>
         </div>

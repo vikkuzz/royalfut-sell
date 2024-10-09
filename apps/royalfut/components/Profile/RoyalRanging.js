@@ -385,8 +385,7 @@ const RoyalRanging = () => {
                                             }`}>
                                             1
                                             {(stateLoyaltyUser?.level > 1 ||
-                                                (stateLoyaltyUser?.level ===
-                                                    1 &&
+                                                (stateLoyaltyUser?.level === 1 &&
                                                     stateLoyaltyUser?.ordersCount >=
                                                         1)) && (
                                                 <div
@@ -424,8 +423,7 @@ const RoyalRanging = () => {
                                             }`}>
                                             2
                                             {(stateLoyaltyUser?.level > 1 ||
-                                                (stateLoyaltyUser?.level ===
-                                                    1 &&
+                                                (stateLoyaltyUser?.level === 1 &&
                                                     stateLoyaltyUser?.ordersCount >=
                                                         2)) && (
                                                 <div
@@ -608,8 +606,7 @@ const RoyalRanging = () => {
                                             }`}>
                                             1
                                             {(stateLoyaltyUser?.level > 2 ||
-                                                (stateLoyaltyUser?.level ===
-                                                    2 &&
+                                                (stateLoyaltyUser?.level === 2 &&
                                                     stateLoyaltyUser?.ordersCount >=
                                                         1)) && (
                                                 <div
@@ -647,8 +644,7 @@ const RoyalRanging = () => {
                                             }`}>
                                             2
                                             {(stateLoyaltyUser?.level > 2 ||
-                                                (stateLoyaltyUser?.level ===
-                                                    2 &&
+                                                (stateLoyaltyUser?.level === 2 &&
                                                     stateLoyaltyUser?.ordersCount >=
                                                         2)) && (
                                                 <div
@@ -686,8 +682,7 @@ const RoyalRanging = () => {
                                             }`}>
                                             3
                                             {(stateLoyaltyUser?.level > 2 ||
-                                                (stateLoyaltyUser?.level ===
-                                                    2 &&
+                                                (stateLoyaltyUser?.level === 2 &&
                                                     stateLoyaltyUser?.ordersCount >=
                                                         3)) && (
                                                 <div
@@ -912,8 +907,7 @@ const RoyalRanging = () => {
                                             }`}>
                                             1
                                             {(stateLoyaltyUser?.level > 3 ||
-                                                (stateLoyaltyUser?.level ===
-                                                    3 &&
+                                                (stateLoyaltyUser?.level === 3 &&
                                                     stateLoyaltyUser?.ordersCount >=
                                                         1)) && (
                                                 <div
@@ -951,8 +945,7 @@ const RoyalRanging = () => {
                                             }`}>
                                             2
                                             {(stateLoyaltyUser?.level > 3 ||
-                                                (stateLoyaltyUser?.level ===
-                                                    3 &&
+                                                (stateLoyaltyUser?.level === 3 &&
                                                     stateLoyaltyUser?.ordersCount >=
                                                         2)) && (
                                                 <div
@@ -990,8 +983,7 @@ const RoyalRanging = () => {
                                             }`}>
                                             3
                                             {(stateLoyaltyUser?.level > 3 ||
-                                                (stateLoyaltyUser?.level ===
-                                                    3 &&
+                                                (stateLoyaltyUser?.level === 3 &&
                                                     stateLoyaltyUser?.ordersCount >=
                                                         3)) && (
                                                 <div
@@ -1029,8 +1021,7 @@ const RoyalRanging = () => {
                                             }`}>
                                             4
                                             {(stateLoyaltyUser?.level > 3 ||
-                                                (stateLoyaltyUser?.level ===
-                                                    3 &&
+                                                (stateLoyaltyUser?.level === 3 &&
                                                     stateLoyaltyUser?.ordersCount >=
                                                         4)) && (
                                                 <div
@@ -1295,8 +1286,7 @@ const RoyalRanging = () => {
                                             }`}>
                                             1
                                             {(stateLoyaltyUser?.level > 4 ||
-                                                (stateLoyaltyUser?.level ===
-                                                    4 &&
+                                                (stateLoyaltyUser?.level === 4 &&
                                                     stateLoyaltyUser?.ordersCount >=
                                                         1)) && (
                                                 <div
@@ -1334,8 +1324,7 @@ const RoyalRanging = () => {
                                             }`}>
                                             2
                                             {(stateLoyaltyUser?.level > 4 ||
-                                                (stateLoyaltyUser?.level ===
-                                                    4 &&
+                                                (stateLoyaltyUser?.level === 4 &&
                                                     stateLoyaltyUser?.ordersCount >=
                                                         2)) && (
                                                 <div
@@ -1373,8 +1362,7 @@ const RoyalRanging = () => {
                                             }`}>
                                             3
                                             {(stateLoyaltyUser?.level > 4 ||
-                                                (stateLoyaltyUser?.level ===
-                                                    4 &&
+                                                (stateLoyaltyUser?.level === 4 &&
                                                     stateLoyaltyUser?.ordersCount >=
                                                         3)) && (
                                                 <div
@@ -1412,8 +1400,7 @@ const RoyalRanging = () => {
                                             }`}>
                                             4
                                             {(stateLoyaltyUser?.level > 4 ||
-                                                (stateLoyaltyUser?.level ===
-                                                    4 &&
+                                                (stateLoyaltyUser?.level === 4 &&
                                                     stateLoyaltyUser?.ordersCount >=
                                                         4)) && (
                                                 <div

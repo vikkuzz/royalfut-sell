@@ -1,7 +1,7 @@
 "use client";
 
 import { HoverCard } from "@royalfut/ui";
-import { useUIGlobalStore } from "@royalfut/store";
+import { useProjectGlobalStore } from "@royalfut/store";
 import { useCurrencyPicker } from "./useCurrencyPicker";
 import { PickerTrigger, PickerCard } from "../common";
 
@@ -16,7 +16,7 @@ const CurrencyPicker: FNCN<IPickerProps> = ({
 }) => {
     const { ccy, handleChange, toggleOpen, id, isOpen, onOpenChange } =
         useCurrencyPicker();
-    const coll = useUIGlobalStore(state => state.local.ccy);
+    const coll = useProjectGlobalStore(state => state.local.ccy);
 
     if (!coll) return null;
 

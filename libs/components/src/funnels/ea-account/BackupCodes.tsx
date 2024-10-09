@@ -58,14 +58,14 @@ const BackupCodes = forwardRef<
                 });
             }, 100);
         },
-        [onChangeInputValue, setBackups],
+        [onChangeInputValue, setBackups]
     );
 
     const onRemoveBackup = useCallback(
         (code: IBackupCodeEntity) => {
             setBackups(code, "pulloff");
         },
-        [setBackups],
+        [setBackups]
     );
 
     const onBlurInput = useCallback(() => {
@@ -83,7 +83,7 @@ const BackupCodes = forwardRef<
             <InputOTP.Root
                 containerClassName={cn(
                     "w-full h-full pointer-events-[all]",
-                    className,
+                    className
                 )}
                 className={className}
                 disabled={backups.length >= 7}
@@ -91,24 +91,21 @@ const BackupCodes = forwardRef<
                 maxLength={8}
                 value={inputValue}
                 onChange={onChangeInputValue}
-                ref={composedRef}
-            >
+                ref={composedRef}>
                 <ScrollArea.Root
                     onClick={onForwardFocus}
                     onFocus={onForwardFocus}
                     type="hover"
-                    className="w-full h-full flex"
-                >
+                    className="w-full h-full flex">
                     <ScrollArea.Viewport
                         asChild
                         role="scrollbar"
                         id="dataset-table"
-                        className="h-full w-max z-[1] !flex pointer-events-auto"
-                    >
+                        className="h-full w-max z-[1] !flex pointer-events-auto">
                         <div className="w-max h-full flex pointer-events-auto">
                             {backups.length ? (
                                 <div className="relative flex items-center gap-2 mr-2 w-max top-1/2 -translate-y-1/2">
-                                    {backups.map((backup) => {
+                                    {backups.map(backup => {
                                         return (
                                             <BackupBasketBox
                                                 onRemove={onRemoveBackup}
@@ -122,39 +119,37 @@ const BackupCodes = forwardRef<
                             {backups.length < 7 && (
                                 <div
                                     className="flex h-full w-max"
-                                    ref={centerViewrRef}
-                                >
+                                    ref={centerViewrRef}>
                                     <InputOTP.Group
                                         className={cn(
                                             "flex relative items-center h-full border-none flex-none justify-center focus-visible:outline-none",
-                                            "space-x-1 pointer-events-none mr-2",
-                                        )}
-                                    >
+                                            "space-x-1 pointer-events-none mr-2"
+                                        )}>
                                         <InputOTP.Slot
                                             className={cn(
                                                 "h-full text-center text-white text-base font-medium leading-normal",
-                                                "w-3 after:absolute after:left-1/2 after:pointer-events-none after:w-full after:-translate-x-1/2 after:bottom-1.5 after:h-px after:bg-white-40",
+                                                "w-3 after:absolute after:left-1/2 after:pointer-events-none after:w-full after:-translate-x-1/2 after:bottom-1.5 after:h-px after:bg-white-40"
                                             )}
                                             index={0}
                                         />
                                         <InputOTP.Slot
                                             className={cn(
                                                 "h-full text-center text-white text-base font-medium leading-normal",
-                                                "w-3 after:absolute after:left-1/2 after:pointer-events-none after:w-full after:-translate-x-1/2 after:bottom-1.5 after:h-px after:bg-white-40",
+                                                "w-3 after:absolute after:left-1/2 after:pointer-events-none after:w-full after:-translate-x-1/2 after:bottom-1.5 after:h-px after:bg-white-40"
                                             )}
                                             index={1}
                                         />
                                         <InputOTP.Slot
                                             className={cn(
                                                 "h-full text-center text-white text-base font-medium leading-normal",
-                                                "w-3 after:absolute after:left-1/2 after:pointer-events-none after:w-full after:-translate-x-1/2 after:bottom-1.5 after:h-px after:bg-white-40",
+                                                "w-3 after:absolute after:left-1/2 after:pointer-events-none after:w-full after:-translate-x-1/2 after:bottom-1.5 after:h-px after:bg-white-40"
                                             )}
                                             index={2}
                                         />
                                         <InputOTP.Slot
                                             className={cn(
                                                 "h-full text-center text-white text-base font-medium leading-normal",
-                                                "w-3 after:absolute after:left-1/2 after:pointer-events-none after:w-full after:-translate-x-1/2 after:bottom-1.5 after:h-px after:bg-white-40",
+                                                "w-3 after:absolute after:left-1/2 after:pointer-events-none after:w-full after:-translate-x-1/2 after:bottom-1.5 after:h-px after:bg-white-40"
                                             )}
                                             index={3}
                                         />
@@ -162,34 +157,33 @@ const BackupCodes = forwardRef<
                                     <InputOTP.Group
                                         className={cn(
                                             "flex relative items-center h-full border-none flex-none justify-center focus-visible:outline-none",
-                                            "space-x-1 pointer-events-none",
-                                        )}
-                                    >
+                                            "space-x-1 pointer-events-none"
+                                        )}>
                                         <InputOTP.Slot
                                             className={cn(
                                                 "h-full text-center text-white text-base font-medium leading-normal",
-                                                "w-3 after:absolute after:left-1/2 after:pointer-events-none after:w-full after:-translate-x-1/2 after:bottom-1.5 after:h-px after:bg-white-40",
+                                                "w-3 after:absolute after:left-1/2 after:pointer-events-none after:w-full after:-translate-x-1/2 after:bottom-1.5 after:h-px after:bg-white-40"
                                             )}
                                             index={4}
                                         />
                                         <InputOTP.Slot
                                             className={cn(
                                                 "h-full text-center text-white text-base font-medium leading-normal",
-                                                "w-3 after:absolute after:left-1/2 after:pointer-events-none after:w-full after:-translate-x-1/2 after:bottom-1.5 after:h-px after:bg-white-40",
+                                                "w-3 after:absolute after:left-1/2 after:pointer-events-none after:w-full after:-translate-x-1/2 after:bottom-1.5 after:h-px after:bg-white-40"
                                             )}
                                             index={5}
                                         />
                                         <InputOTP.Slot
                                             className={cn(
                                                 "h-full text-center text-white text-base font-medium leading-normal",
-                                                "w-3 after:absolute after:left-1/2 after:pointer-events-none after:w-full after:-translate-x-1/2 after:bottom-1.5 after:h-px after:bg-white-40",
+                                                "w-3 after:absolute after:left-1/2 after:pointer-events-none after:w-full after:-translate-x-1/2 after:bottom-1.5 after:h-px after:bg-white-40"
                                             )}
                                             index={6}
                                         />
                                         <InputOTP.Slot
                                             className={cn(
                                                 "h-full text-center text-white text-base font-medium leading-normal",
-                                                "w-3 after:absolute after:left-1/2 after:pointer-events-none after:w-full after:-translate-x-1/2 after:bottom-1.5 after:h-px after:bg-white-40",
+                                                "w-3 after:absolute after:left-1/2 after:pointer-events-none after:w-full after:-translate-x-1/2 after:bottom-1.5 after:h-px after:bg-white-40"
                                             )}
                                             index={7}
                                         />
@@ -200,8 +194,7 @@ const BackupCodes = forwardRef<
                     </ScrollArea.Viewport>
                     <ScrollArea.Scrollbar
                         className="flex select-none z-[1] cursor-default pointer-events-auto touch-none absolute !-bottom-5 rounded-full w-[90%] mx-auto p-0.5 bg-white-20/30 transition-colors duration-[160ms] ease-out hover:bg-white-40/30 data-[orientation=vertical]:w-2.5 data-[orientation=horizontal]:flex-col data-[orientation=horizontal]:h-2"
-                        orientation="horizontal"
-                    >
+                        orientation="horizontal">
                         <ScrollArea.Thumb className="flex-1 pointer-events-[all] bg-primary rounded-[10px] relative before:content-[''] before:absolute before:top-1/2 before:left-1/2 before:-translate-x-1/2 before:-translate-y-1/2 before:w-full before:h-full before:min-w-full before:min-h-[0.875rem]" />
                     </ScrollArea.Scrollbar>
                 </ScrollArea.Root>

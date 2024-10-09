@@ -3,8 +3,6 @@
 import { getTranslations } from "next-intl/server";
 import { excludeProps, deepClone } from "@royalfut/utils";
 
-import type { IUIGlobalState } from "@royalfut/interfaces";
-
 type TGetMessageLabelArgs =
     | {
           t: Awaited<ReturnType<typeof getTranslations<string>>>;
@@ -18,9 +16,9 @@ type TGetMessageLabelArgs =
           fallback?: string;
       };
 
-export const localizeGlobalState = async (
-    data: IUIGlobalState
-): Promise<IUIGlobalState> => {
+export const localizeGlobalState = async <T extends Record<string, any>>(
+    data: T
+): Promise<T> => {
     const filteredData = excludeProps(deepClone(data), ["local"]);
 
     const getMessageLabel = async (props: TGetMessageLabelArgs) => {

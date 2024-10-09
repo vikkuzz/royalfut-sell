@@ -13,7 +13,7 @@ const ContentEditableUTInput = () => {
     const [editable, setEditable] = useState(false);
 
     const toggleEditable = useCallback(() => {
-        setEditable((prev) => !prev);
+        setEditable(prev => !prev);
     }, []);
 
     useEffect(() => {
@@ -42,16 +42,15 @@ const ContentEditableUTInput = () => {
                 </div>
             </div>
             <Button
-                as="button"
                 onClick={toggleEditable}
                 className={cn(
                     "w-6 h-6 flex items-center justify-center rounded-full transition-colors duration-300",
                     {
-                        "bg-secondary/50": editable,
-                        "bg-white-10 hover:bg-extra-benefit4/50": !editable,
-                    },
-                )}
-            >
+                        "bg-[hsla(var(--color-secondary),.5)]": editable,
+                        "bg-white-10 hover:bg-[hsla(var(--color-extra-benefit-4),.5)]":
+                            !editable,
+                    }
+                )}>
                 <PencilMonocolorIcon className="w-3 h-3 text-white" />
             </Button>
         </div>

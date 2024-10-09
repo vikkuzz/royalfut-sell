@@ -534,7 +534,7 @@ function MainContainer({
 
                     <meta
                         keywords={
-                            "royalfut, EA FC 25, EA FC 25 coins, EA FC 25 players" +
+                            "royalfut, EA FC 24, EA FC 24 coins, EA FC 24 players" +
                             (keywords || "")
                         }></meta>
                     <meta

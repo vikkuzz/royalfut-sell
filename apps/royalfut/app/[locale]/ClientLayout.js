@@ -12,6 +12,8 @@ import ScrollToTop from "../../components/ScrollToTop/ScrollToTop";
 import dynamic from "next/dynamic";
 import styles from "./ClientLayout.module.scss";
 
+// import { newTranslates } from '../../locales/newTranslates';
+
 const DynamicComponentModal2 = dynamic(
     () => import("../components/Modal/Modal")
 );

@@ -4,11 +4,19 @@ import { createContext, useRef, useContext } from "react";
 import { useStore } from "zustand";
 import { createAuthStore } from "./auth.store";
 
-import type { ReactNode } from "react";
+import type { ReactNode, ContextType } from "react";
 import type { StoreApi } from "zustand";
-import type { AuthStore, IAuthState } from "./auth.store";
+import type { TAuthStore, IAuthState } from "./auth.store";
 
-export const AuthStoreContext = createContext<StoreApi<AuthStore> | null>(null);
+type ExtractState<S> = S extends {
+    getState: () => infer T;
+}
+    ? T
+    : never;
+
+export const AuthStoreContext = createContext<StoreApi<TAuthStore> | null>(
+    null
+);
 
 export interface IAuthStoreProviderProps {
     children: ReactNode;
@@ -19,7 +27,7 @@ export const AuthStoreProvider = ({
     children,
     initial,
 }: IAuthStoreProviderProps) => {
-    const storeRef = useRef<StoreApi<AuthStore>>();
+    const storeRef = useRef<StoreApi<TAuthStore>>();
     if (!storeRef.current) {
         storeRef.current = createAuthStore(initial);
     }
@@ -31,7 +39,9 @@ export const AuthStoreProvider = ({
     );
 };
 
-export const useAuthStore = <T,>(selector: (store: AuthStore) => T): T => {
+export const useAuthStore = <T,>(
+    selector: (store: ExtractState<ContextType<typeof AuthStoreContext>>) => T
+): T => {
     const authStoreContext = useContext(AuthStoreContext);
 
     if (!authStoreContext) {

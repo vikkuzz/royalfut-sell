@@ -13,7 +13,7 @@ const Steps = () => {
 
     const defaultSteps = [
         {
-            title: t(`preorder.details`),
+            title: t(`ab93`),
             id: 1,
             active: true,
             selected: false,
@@ -55,7 +55,7 @@ const Steps = () => {
     useMemo(() => {
         let t_stateStep = stateStep.map(el => {
             if (el.id == 1) {
-                el.title = t(`preorder.details`);
+                el.title = t(`ab93`);
             }
             if (el.id == 2) {
                 el.title = t(`ab94_1`);

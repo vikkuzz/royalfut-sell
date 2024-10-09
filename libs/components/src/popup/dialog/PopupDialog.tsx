@@ -7,8 +7,20 @@ import { usePopupDialogStore } from "@royalfut/store";
 import { EUIDialogsNames } from "@royalfut/enums";
 
 const WithdrawDialog = lazy(() => import("./components/WithdrawDialog"));
-const SuccessNotice = lazy(() => import("./components/SuccessNotice"));
-const FiledNotice = lazy(() => import("./components/FiledNotice"));
+const SuccessNoticeDialog = lazy(
+    () => import("./components/SuccessNoticeDialog")
+);
+const FiledNoticeDialog = lazy(() => import("./components/FiledNoticeDialog"));
+const RoyalPointsDialog = lazy(() => import("./components/RoyalPointsDialog"));
+const ChooseAvatarDialog = lazy(
+    () => import("./components/ChooseAvatarDialog")
+);
+const SponsorRedirectDialog = lazy(
+    () => import("./components/SponsorRedirectDialog")
+);
+const CoinCalculationDialog = lazy(
+    () => import("./components/CoinCalculationDialog")
+);
 
 const Nope = () => <></>;
 
@@ -17,9 +29,17 @@ const renderDialog = (view: EUIDialogsNames | null) => {
         case EUIDialogsNames.WITHDRAW:
             return WithdrawDialog;
         case EUIDialogsNames.WITHDRAW_SUCCESS:
-            return SuccessNotice;
+            return SuccessNoticeDialog;
         case EUIDialogsNames.WITHDRAW_FILED:
-            return FiledNotice;
+            return FiledNoticeDialog;
+        case EUIDialogsNames.ROYAL_POINTS:
+            return RoyalPointsDialog;
+        case EUIDialogsNames.SPONSOR_REDIRECT:
+            return SponsorRedirectDialog;
+        case EUIDialogsNames.CHOOSE_AVATAR:
+            return ChooseAvatarDialog;
+        case EUIDialogsNames.COIN_CALCULATION:
+            return CoinCalculationDialog;
         default:
             return Nope;
     }
@@ -47,7 +67,7 @@ const PopupDialog = () => {
                 clear();
             }
         },
-        [clear],
+        [clear]
     );
     const View = renderDialog(popup);
 

@@ -27,10 +27,10 @@ const initialTransferEAAccountStore: ITransferEAAccountState = {
 };
 
 export const useTransferEAAccountStore = create<TransferEAAccountStore>(
-    (set) => ({
+    set => ({
         ...initialTransferEAAccountStore,
-        setLogin: (value) =>
-            set((state) => {
+        setLogin: value =>
+            set(state => {
                 let isFilled = state.isFilled;
 
                 if (value.length > 0 && state.password.length > 0) {
@@ -44,8 +44,8 @@ export const useTransferEAAccountStore = create<TransferEAAccountStore>(
                     isFilled,
                 };
             }),
-        setPassword: (value) =>
-            set((state) => {
+        setPassword: value =>
+            set(state => {
                 let isFilled = state.isFilled;
 
                 if (state.login.length > 0 && value.length > 0) {
@@ -57,7 +57,7 @@ export const useTransferEAAccountStore = create<TransferEAAccountStore>(
                 return { password: value, isFilled };
             }),
         setBackups: (code, method = "push") =>
-            set((state) => {
+            set(state => {
                 if (method === "push") {
                     return {
                         backups: [...state.backups, code],
@@ -65,7 +65,7 @@ export const useTransferEAAccountStore = create<TransferEAAccountStore>(
                 } else if (method === "pulloff") {
                     return {
                         backups: state.backups.filter(
-                            (item) => item.id !== code.id,
+                            item => item.id !== code.id
                         ),
                     };
                 }
@@ -73,5 +73,5 @@ export const useTransferEAAccountStore = create<TransferEAAccountStore>(
                 return {};
             }),
         reset: () => set(initialTransferEAAccountStore),
-    }),
+    })
 );

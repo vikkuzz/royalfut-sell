@@ -18,11 +18,11 @@ const initialCurrencyState: ICCYState = {
 };
 
 export const createCurrencyStore = (
-    initState: ICCYState = initialCurrencyState,
+    initState: ICCYState = initialCurrencyState
 ) => {
-    return createStore<CurrencyStore>()((set) => ({
+    return createStore<CurrencyStore>()(set => ({
         ...initState,
-        setCurrency: (currency) =>
+        setCurrency: currency =>
             set(() => {
                 setCurrency(currency);
                 return { currency };

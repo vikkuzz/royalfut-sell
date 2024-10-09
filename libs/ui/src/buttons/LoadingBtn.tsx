@@ -1,4 +1,4 @@
-import clsx from "clsx";
+import { cn } from "@royalfut/utils";
 
 import type { FC } from "react";
 import type { PropsWithClassName } from "@royalfut/interfaces";
@@ -14,8 +14,7 @@ export const LoadingFormBtn: FC<PropsWithClassName> = ({ className }) => (
         strokeWidth="2"
         strokeLinecap="round"
         strokeLinejoin="round"
-        className={clsx("inline h-4 w-4 animate-spin text-white", className)}
-    >
+        className={cn("inline h-4 w-4 animate-spin text-white", className)}>
         <line x1="12" y1="2" x2="12" y2="6"></line>
         <line x1="12" y1="18" x2="12" y2="22"></line>
         <line x1="4.93" y1="4.93" x2="7.76" y2="7.76"></line>

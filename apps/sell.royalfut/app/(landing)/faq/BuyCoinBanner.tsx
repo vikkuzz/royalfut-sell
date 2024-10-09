@@ -1,4 +1,5 @@
-import { GradientButton } from "@royalfut/ui";
+import { GradientButton, Link } from "@royalfut/ui";
+import { PROJECT_PUBLIC_SELLER_ROUTES } from "@royalfut/collections";
 
 const BuyCoinBanner = () => {
     return (
@@ -7,11 +8,12 @@ const BuyCoinBanner = () => {
                 Hi there! Are you interested in selling coins?
             </p>
             <div className="flex flex-col space-y-5 w-full">
-                <GradientButton className="h-16 w-full rounded-xl">
-                    Sell Coins
+                <GradientButton asChild className="h-16 w-full rounded-xl">
+                    <Link href={PROJECT_PUBLIC_SELLER_ROUTES["ORDER_INFO"]}>
+                        Sell Coins
+                    </Link>
                 </GradientButton>
                 {/* <Button
-                    as="button"
                     className="[--bordered-box-linear-bg-1:theme(colors.black.1)] text-xl rounded-xl font-semibold w-full h-16 border border-transparent bordered-box-linear-accent-1">
                     Sell any player
                 </Button> */}

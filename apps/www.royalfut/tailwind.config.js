@@ -20,6 +20,7 @@ module.exports = {
             ...tail.theme.fontFamily,
         },
         extend: {
+            typography: tail.theme.typography,
             screens: {
                 ...tail.theme.extend.screens,
             },
@@ -54,6 +55,9 @@ module.exports = {
             },
             colors: {
                 ...tail.theme.extend.colors,
+            },
+            backgroundColor: {
+                "white-05": "rgba(255, 255, 255, 0.05)",
             },
             boxShadow: {
                 ...tail.theme.extend.boxShadow,

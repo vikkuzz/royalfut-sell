@@ -23,7 +23,7 @@ const MagicStars: FNCNChildren<{ delay?: number }> = ({
     const rand = useCallback(
         (min: number, max: number) =>
             Math.floor(Math.random() * (max - min + 1)) + min,
-        []
+        [],
     );
 
     const animate = useCallback(
@@ -40,14 +40,14 @@ const MagicStars: FNCNChildren<{ delay?: number }> = ({
                 star.style.animation = "";
             }
         },
-        [rand]
+        [rand],
     );
 
     const endAnimate = useCallback(() => {
         if (intervalIdsRef.current) {
             internalAnimationUniqueIds.current.clear();
-            intervalIdsRef.current.forEach(intervalId =>
-                clearInterval(intervalId)
+            intervalIdsRef.current.forEach((intervalId) =>
+                clearInterval(intervalId),
             );
             intervalIdsRef.current = [];
         }
@@ -75,11 +75,11 @@ const MagicStars: FNCNChildren<{ delay?: number }> = ({
                         internalAnimationUniqueIds.current.add(uniqueId);
                         clearTimeout(timerId);
                     },
-                    index * (interval / 3)
+                    index * (interval / 3),
                 );
             });
         },
-        [animate, delay, id]
+        [animate, delay, id],
     );
 
     useMount(() => {
@@ -90,12 +90,12 @@ const MagicStars: FNCNChildren<{ delay?: number }> = ({
         };
 
         const callback = (entries: Array<IntersectionObserverEntry>) => {
-            entries.forEach(entry => {
+            entries.forEach((entry) => {
                 if (entry.isIntersecting) {
                     startAnimate(
                         starsBoxRef.current?.querySelectorAll(
-                            `[data-id='magic-star-animation-${id}']`
-                        ) as NodeListOf<HTMLDivElement>
+                            `[data-id='magic-star-animation-${id}']`,
+                        ) as NodeListOf<HTMLDivElement>,
                     );
                 } else {
                     endAnimate();
@@ -105,7 +105,7 @@ const MagicStars: FNCNChildren<{ delay?: number }> = ({
 
         intersectionObserverRef.current = new IntersectionObserver(
             callback,
-            options
+            options,
         );
         if (starsBoxRef.current) {
             intersectionObserverRef.current.observe(starsBoxRef.current);
@@ -123,17 +123,20 @@ const MagicStars: FNCNChildren<{ delay?: number }> = ({
         <div className={cn("relative", className)} ref={starsBoxRef}>
             <span
                 data-id={`magic-star-animation-${id}`}
-                className={styles.magicStar}>
+                className={styles.magicStar}
+            >
                 <MagicStarIcon />
             </span>
             <span
                 data-id={`magic-star-animation-${id}`}
-                className={styles.magicStar}>
+                className={styles.magicStar}
+            >
                 <MagicStarIcon />
             </span>
             <span
                 data-id={`magic-star-animation-${id}`}
-                className={styles.magicStar}>
+                className={styles.magicStar}
+            >
                 <MagicStarIcon />
             </span>
             {children}

@@ -50,8 +50,8 @@ const initialState = {
                             "AED": 0.000115,
                             "CAD": 0.000043,
                             "BRL": 0.000178,
-                            "PLN": 0.000124,
-                        },
+                            "PLN": 0.000124
+                        }
                     },
                     {
                         "platform": "ps4",
@@ -68,8 +68,8 @@ const initialState = {
                             "AED": 0.000115,
                             "CAD": 0.000043,
                             "BRL": 0.000178,
-                            "PLN": 0.000124,
-                        },
+                            "PLN": 0.000124
+                        }
                     },
                     {
                         "platform": "pc",
@@ -86,10 +86,10 @@ const initialState = {
                             "SAR": 0.000159,
                             "AED": 0.000155,
                             "CAD": 0.000058,
-                            "BRL": 0.000239,
-                        },
-                    },
-                ],
+                            "BRL": 0.000239
+                        }
+                    }
+                ]
             },
             {
                 "type": "Manual",
@@ -109,8 +109,8 @@ const initialState = {
                             "AED": 0.000354,
                             "CAD": 0.000133,
                             "BRL": 0.000546,
-                            "PLN": 0.000381,
-                        },
+                            "PLN": 0.000381
+                        }
                     },
                     {
                         "platform": "ps4",
@@ -127,8 +127,8 @@ const initialState = {
                             "AED": 0.000354,
                             "CAD": 0.000133,
                             "BRL": 0.000546,
-                            "PLN": 0.000381,
-                        },
+                            "PLN": 0.000381
+                        }
                     },
                     {
                         "platform": "pc",
@@ -145,11 +145,11 @@ const initialState = {
                             "SAR": 0.000362,
                             "AED": 0.000354,
                             "CAD": 0.000133,
-                            "BRL": 0.000546,
-                        },
-                    },
-                ],
-            },
+                            "BRL": 0.000546
+                        }
+                    }
+                ]
+            }
         ],
         currency: "RUB",
         locale: "RU",

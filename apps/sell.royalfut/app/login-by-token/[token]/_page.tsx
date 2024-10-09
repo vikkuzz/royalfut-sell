@@ -1,19 +1,19 @@
 import { tokenLogin } from "@royalfut/actions";
-import { redirect } from "next/navigation";
+import { i18nRedirect } from "@royalfut/hooks";
 import { PROJECT_PUBLIC_SELLER_ROUTES } from "@royalfut/collections";
-import { CookiesKeys } from "@royalfut/enums";
+import { ECookiesKeys } from "@royalfut/enums";
 import { cookies } from "next/headers";
 
 import type { FC } from "react";
 
 const LoginByToken: FC<{ params: { token: string } }> = async ({ params }) => {
     if (!params?.token) {
-        redirect(PROJECT_PUBLIC_SELLER_ROUTES.UNAUTHORIZED_REDIRECT);
+        i18nRedirect(PROJECT_PUBLIC_SELLER_ROUTES.UNAUTHORIZED_REDIRECT);
     }
 
     try {
         await tokenLogin(params.token);
-        cookies().set(CookiesKeys.AUTH_USER_TOKEN, params.token, {
+        cookies().set(ECookiesKeys.AUTH_USER_TOKEN, params.token, {
             httpOnly: true,
             secure: process.env.NODE_ENV === "production",
             maxAge: 60 * 60 * 24 * 7,

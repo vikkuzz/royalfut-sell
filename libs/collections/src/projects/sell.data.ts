@@ -1,12 +1,35 @@
 import { EAppContacts, EAppSocials } from "@royalfut/enums";
 import { ccyCollection } from "../locale";
-import { PROJECT_PUBLIC_ROUTES, PROJECT_PRIVATE_ROUTES } from "../routes";
+import {
+    PROJECT_PRIVATE_SELLER_ROUTES,
+    PROJECT_PUBLIC_SELLER_ROUTES,
+} from "../routes";
 import { SOCIAL_LINKS, SOCIAL_CREDENTIALS } from "../social";
 import { infographicStats } from "./general.data";
 
-import type { IUIGlobalState } from "@royalfut/interfaces";
+import type {
+    IProjectGlobalState,
+    IProjectPrivateGlobalState,
+} from "@royalfut/interfaces";
 
-const data: IUIGlobalState = {
+export const SellPrivateGlobalData: IProjectPrivateGlobalState = {
+    profile: {
+        nav: [
+            {
+                href: PROJECT_PRIVATE_SELLER_ROUTES["PROFILE_ORDERS"],
+                label: "Deals",
+                localized: false,
+            },
+            {
+                href: PROJECT_PRIVATE_SELLER_ROUTES["PROFILE_WITHDRAWALS"],
+                label: "Payouts",
+                localized: false,
+            },
+        ],
+    },
+};
+
+export const SellGlobalData: IProjectGlobalState = {
     local: {
         lng: null,
         ccy: ccyCollection,
@@ -21,12 +44,12 @@ const data: IUIGlobalState = {
         nav: [
             {
                 label: "nav.1",
-                href: `${PROJECT_PUBLIC_ROUTES["HOME"]}#how-does-it-work`,
+                href: `${PROJECT_PUBLIC_SELLER_ROUTES["HOME"]}#how-does-it-work`,
                 type: "link",
             },
             {
                 label: "nav.2",
-                href: PROJECT_PUBLIC_ROUTES["FAQ"],
+                href: PROJECT_PUBLIC_SELLER_ROUTES["FAQ"],
                 type: "link",
             },
         ],
@@ -53,7 +76,7 @@ const data: IUIGlobalState = {
                     {
                         type: "link",
                         label: "bar.nav.1.1",
-                        href: PROJECT_PRIVATE_ROUTES["PROFILE_ORDERS"],
+                        href: PROJECT_PRIVATE_SELLER_ROUTES["PROFILE_ORDERS"],
                     },
                 ],
             },
@@ -129,22 +152,24 @@ const data: IUIGlobalState = {
                     {
                         type: "link",
                         label: "nav.1.1",
-                        href: PROJECT_PUBLIC_ROUTES["PAYMENT"],
+                        href: PROJECT_PUBLIC_SELLER_ROUTES["PAYMENT"],
                     },
                     {
                         type: "link",
                         label: "nav.1.2",
-                        href: PROJECT_PUBLIC_ROUTES["TERMS_AND_CONDITIONS"],
+                        href: PROJECT_PUBLIC_SELLER_ROUTES[
+                            "TERMS_AND_CONDITIONS"
+                        ],
                     },
                     {
                         type: "link",
                         label: "nav.1.3",
-                        href: PROJECT_PUBLIC_ROUTES["PRIVACY_POLICY"],
+                        href: PROJECT_PUBLIC_SELLER_ROUTES["PRIVACY_POLICY"],
                     },
                     {
                         type: "link",
                         label: "nav.1.4",
-                        href: PROJECT_PUBLIC_ROUTES["COOKIE_POLICY"],
+                        href: PROJECT_PUBLIC_SELLER_ROUTES["COOKIE_POLICY"],
                     },
                 ],
             },
@@ -153,9 +178,7 @@ const data: IUIGlobalState = {
     pages: {
         home: {
             nsI18n: "home",
-            inforgraphic: infographicStats,
+            infographic: infographicStats,
         },
     },
 };
-
-export default data;

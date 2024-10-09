@@ -1,7 +1,7 @@
 "use client";
 
 import { HoverCard } from "@royalfut/ui";
-import { useUIGlobalStore } from "@royalfut/store";
+import { useProjectGlobalStore } from "@royalfut/store";
 import { useI18nPicker } from "./useI18nPicker";
 import { PickerTrigger, PickerCard } from "../common";
 
@@ -16,7 +16,7 @@ const I18nPickerHover: FNCN<IPickerProps> = ({
 }) => {
     const { handleChange, toggleOpen, id, isOpen, onOpenChange } =
         useI18nPicker();
-    const coll = useUIGlobalStore(state => state.local.lng);
+    const coll = useProjectGlobalStore(state => state.local.lng);
 
     if (!coll) return null;
 

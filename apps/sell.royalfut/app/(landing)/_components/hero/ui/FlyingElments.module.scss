@@ -1,6 +1,6 @@
 .shine-border-box {
   &::before {
-    content: '';
+    content: "";
     z-index: -2;
     text-align: center;
     top: 50%;
@@ -20,7 +20,7 @@
   }
 
   &::after {
-    content: '';
+    content: "";
     position: absolute;
     z-index: -1;
     left: 1px;

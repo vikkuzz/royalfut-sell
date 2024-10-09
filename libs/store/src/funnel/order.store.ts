@@ -1,6 +1,6 @@
 import { createStore } from "zustand";
-import { OrderTradeInfo } from "@royalfut/collections";
-import { OrderStepIds } from "@royalfut/enums";
+import { ORDER_PROCESSING_STEPS_INFO } from "@royalfut/collections";
+import { EOrderProcessingStepIds } from "@royalfut/enums";
 import { mergeArrays } from "@royalfut/utils";
 
 import type { MakeRequiredAndNonNullableProps } from "@royalfut/interfaces";
@@ -16,55 +16,52 @@ const ModifyStepsMethodsMap: Record<
         return external;
     },
     pulloff: function <T>(stored: Array<T>, external: Array<T>): Array<T> {
-        return stored.filter((step) => !external.includes(step));
+        return stored.filter(step => !external.includes(step));
     },
 };
 
 const findIdByStep = (step: number) => {
-    const orderInfoId = OrderTradeInfo[OrderStepIds.ORDER_INFO]._id;
-
-    if (OrderTradeInfo[OrderStepIds.ORDER_INFO].step === step) {
-        return orderInfoId;
-    }
-
-    const info = Object.values(OrderTradeInfo).find(
-        (info) => info.step === step,
-    );
-    return info ? info._id : orderInfoId;
+    const info = Object.values(ORDER_PROCESSING_STEPS_INFO).find(
+        info => info.step === step
+    )!;
+    return info._id;
 };
 
 const markPreviousStepsAsCompleted = (
-    id: OrderStepIds,
-): Array<OrderStepIds> => {
-    const actualStep = OrderTradeInfo[id].step;
+    id: EOrderProcessingStepIds
+): Array<EOrderProcessingStepIds> => {
+    const info = ORDER_PROCESSING_STEPS_INFO[id];
+    if (!info) return [];
+
+    const actualStep = info.step;
     if (actualStep === 1) {
-        return [OrderStepIds.ORDER_INFO];
+        return [info._id];
     }
 
-    return Object.values(OrderTradeInfo)
-        .filter((item) => item.step < actualStep)
-        .map((item) => item._id);
+    return Object.values(ORDER_PROCESSING_STEPS_INFO)
+        .filter(item => item!.step < actualStep)
+        .map(item => item!._id);
 };
 
 export interface IOrderTradeStepsState {
     step: number;
-    stepId: OrderStepIds;
-    allowSteps: Array<OrderStepIds>;
-    completed: Array<OrderStepIds>;
+    stepId: EOrderProcessingStepIds;
+    allowSteps: Array<EOrderProcessingStepIds>;
+    completed: Array<EOrderProcessingStepIds>;
 }
 
 interface IOrderTradeStepsActions {
     setStepId: (
-        id: OrderStepIds,
-        extra?: { markCurrentStepAsCompleted?: boolean },
+        id: EOrderProcessingStepIds,
+        extra?: { markCurrentStepAsCompleted?: boolean }
     ) => void;
     setAllowSteps: (
-        steps: Array<OrderStepIds>,
-        method?: ModifyStepsTypes,
+        steps: Array<EOrderProcessingStepIds>,
+        method?: ModifyStepsTypes
     ) => void;
     setStepsCompleted: (
-        steps: Array<OrderStepIds>,
-        method?: ModifyStepsTypes,
+        steps: Array<EOrderProcessingStepIds>,
+        method?: ModifyStepsTypes
     ) => void;
 }
 
@@ -74,37 +71,43 @@ export type OrderTradeStepsStore = IOrderTradeStepsState &
 const initialOrderTradeStepsStore: IOrderTradeStepsState = {
     step: 1,
     stepId: findIdByStep(1),
-    completed: [OrderStepIds.ORDER_INFO],
-    allowSteps: [OrderStepIds.ACCOUNT_DETAILS],
+    completed: [],
+    allowSteps: [],
 };
 
 export const createOrderTradeStepsStore = (
     initState: MakeRequiredAndNonNullableProps<
         Partial<IOrderTradeStepsState>,
         "stepId"
-    > = initialOrderTradeStepsStore,
+    > = initialOrderTradeStepsStore
 ) => {
+    const info = ORDER_PROCESSING_STEPS_INFO[initState.stepId];
+    const firstStep = Object.values(ORDER_PROCESSING_STEPS_INFO).find(
+        item => item.step === 1
+    )?._id;
     const state: IOrderTradeStepsState = {
         stepId: initState.stepId,
         completed: mergeArrays(markPreviousStepsAsCompleted(initState.stepId), [
-            OrderStepIds.ORDER_INFO,
+            firstStep!,
         ]),
-        allowSteps: OrderTradeInfo[initState.stepId].allowSteps,
-        step: OrderTradeInfo[initState.stepId].step,
+        allowSteps: info?.allowSteps || [],
+        step: info?.step || 1,
     };
 
-    return createStore<OrderTradeStepsStore>()((set) => ({
+    return createStore<OrderTradeStepsStore>()(set => ({
         ...state,
         setStepId: (id, extra = {}) =>
-            set((store) => {
+            set(store => {
                 const makeCompleted = extra.markCurrentStepAsCompleted ?? false;
+                const stepInfo = ORDER_PROCESSING_STEPS_INFO[id];
+                if (!stepInfo) return {};
 
                 return {
-                    step: OrderTradeInfo[id].step,
+                    step: stepInfo.step,
                     stepId: id,
                     allowSteps: mergeArrays(
-                        OrderTradeInfo[id].allowSteps,
-                        store.allowSteps,
+                        stepInfo.allowSteps,
+                        store.allowSteps
                     ),
                     completed: makeCompleted
                         ? mergeArrays(store.completed, [store.stepId])
@@ -112,17 +115,17 @@ export const createOrderTradeStepsStore = (
                 };
             }),
         setAllowSteps: (steps, method = "push") =>
-            set((store) => ({
+            set(store => ({
                 allowSteps: ModifyStepsMethodsMap[method](
                     store.allowSteps,
-                    steps,
+                    steps
                 ),
             })),
         setStepsCompleted: (steps, method = "push") =>
-            set((store) => ({
+            set(store => ({
                 completed: ModifyStepsMethodsMap[method](
                     store.completed,
-                    steps,
+                    steps
                 ),
             })),
     }));

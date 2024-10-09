@@ -17,10 +17,10 @@ const initialMagicLinkStore: IMagicLinkState = {
     isSendedLink: false,
 };
 
-export const useMagicLinkStore = create<MagicLinkStore>((set) => ({
+export const useMagicLinkStore = create<MagicLinkStore>(set => ({
     ...initialMagicLinkStore,
-    setEmail: (email) => set({ email }),
-    setIsSendedLink: (send) => set({ isSendedLink: send }),
+    setEmail: email => set({ email }),
+    setIsSendedLink: send => set({ isSendedLink: send }),
 }));
 
 export const resetMagicLinkStore = () => {

@@ -10,7 +10,7 @@ module.exports = {
     content: [
         join(
             __dirname,
-            "{src,pages,components,app}/**/*!(*.stories|*.spec).{ts,tsx,html}"
+            "{src,pages,components,app}/**/*!(*.stories|*.spec).{ts,tsx,html}",
         ),
         join(__dirname, "../../libs/styles/css/**/*.css"),
         ...createGlobPatternsForDependencies(__dirname),
@@ -19,6 +19,7 @@ module.exports = {
         fontFamily: {
             ...tail.theme.fontFamily,
         },
+        typography: tail.theme.typography,
         extend: {
             screens: {
                 ...tail.theme.extend.screens,
@@ -58,6 +59,7 @@ module.exports = {
             },
             animation: {
                 ...tail.theme.extend.animation,
+                pulse: "pulse 2s infinite",
             },
         },
     },

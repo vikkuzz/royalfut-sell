@@ -33,7 +33,7 @@ export function GoogleOAuthProvider({
             scriptInitialized,
             setScriptInitialized,
         }),
-        [clientId, scriptInitialized, setScriptInitialized],
+        [clientId, scriptInitialized, setScriptInitialized]
     );
 
     return (
@@ -48,7 +48,7 @@ export function useGoogleOAuth() {
 
     if (!context) {
         throw new Error(
-            "Google OAuth components must be used within GoogleOAuthProvider",
+            "Google OAuth components must be used within GoogleOAuthProvider"
         );
     }
 

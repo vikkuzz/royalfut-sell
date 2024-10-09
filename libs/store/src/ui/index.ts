@@ -1,3 +1,7 @@
 export { useUISheetStore } from "./sheet.store";
 export { usePopupDialogStore } from "./popup.store";
-export { UIGlobalStoreProvider, useUIGlobalStore } from "./global.provider";
+export {
+    type IUIContentWithAsideLayoutState,
+    UIContentWithAsideLayoutStoreProvider,
+    useUIContentWithAsideLayoutlStore,
+} from "./layout.provider";

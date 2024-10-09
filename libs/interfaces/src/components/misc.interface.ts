@@ -10,14 +10,23 @@ export interface ICarouselPromoCards {
     description: string;
 }
 
-export interface IOptionCardEntity {
+export type TOptionCardEntity = {
     id: EUIOptionCardIDs;
     title: string;
     desc: string;
-}
+} & (
+    | { type: "link"; url: string }
+    | { type?: "sponsor"; url: string }
+    | object
+);
 
 export interface IBenefitCardEntity {
     id: EUIBenefitIDs;
     title: string;
     desc: string;
+}
+
+export interface IBaseNavIdEntity {
+    id: string;
+    label: string;
 }

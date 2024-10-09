@@ -423,7 +423,7 @@ msgstr "* relevante a 1 de outubro de 2023"
 #~ msgstr ""
 
 #~ msgid "a17"
-#~ msgstr "Derradeira loja de equipa FC 25 da EA | Loja de moedas FC da EA Sports"
+#~ msgstr "Derradeira loja de equipa FC 24 da EA | Loja de moedas FC da EA Sports"
 
 #~ msgid "a18"
 #~ msgstr "Vais receber"
@@ -658,7 +658,7 @@ msgid "a69"
 msgstr "2. Paga o teu pedido."
 
 #~ msgid "a7"
-#~ msgstr "Moedas FC 25"
+#~ msgstr "Moedas FC 24"
 
 #: components/CustomAccordion/CustomAccordion.js:171
 msgid "a70"
@@ -791,10 +791,10 @@ msgid "aa0_1"
 msgstr "Oferta especial"
 
 #~ msgid "aa1"
-#~ msgstr "Promoção de lançamento do EA FC 25: desconto de 7%"
+#~ msgstr "Promoção de lançamento do EA FC 24: desconto de 7%"
 
 #~ msgid "aa10"
-#~ msgstr "Compra moedas EA FC 25 para [[X]]"
+#~ msgstr "Compra moedas EA FC 24 para [[X]]"
 
 #~ msgid "aa11"
 #~ msgstr ""
@@ -815,7 +815,7 @@ msgstr "Precisas de ajuda? Podes contar connosco!"
 
 #: pages/wl-boost.js:79
 msgid "aa6"
-msgstr "Oferecemos os seguintes serviços: EA FC 25 Ultimate Team Finals Rank Boost, UT Champion Finals, UT Champion Playoffs, Divisions Rivals. Contacta-nos e garante o melhor preço!"
+msgstr "Oferecemos os seguintes serviços: EA FC 24 Ultimate Team Finals Rank Boost, UT Champion Finals, UT Champion Playoffs, Divisions Rivals. Contacta-nos e garante o melhor preço!"
 
 #~ msgid "aa7"
 #~ msgstr "Voltaremos em:"
@@ -824,7 +824,7 @@ msgstr "Oferecemos os seguintes serviços: EA FC 25 Ultimate Team Finals Rank Bo
 #~ msgstr "A preparar a nova temporada"
 
 #~ msgid "aa9"
-#~ msgstr "Compra moedas EA FC 25 para o teu clube Ultimate Team"
+#~ msgstr "Compra moedas EA FC 24 para o teu clube Ultimate Team"
 
 #~ msgid "ab0"
 #~ msgstr "Aqui estão algumas estatísticas* que podem interessar-te:"
@@ -948,34 +948,34 @@ msgid "ab25"
 msgstr "Pedido na Fila"
 
 #~ msgid "ab26"
-#~ msgstr "Compra de moedas FC 25 para todas as plataformas | Ultimate Team Coin Store"
+#~ msgstr "Compra de moedas FC 24 para todas as plataformas | Ultimate Team Coin Store"
 
 #: pages/order/index.js:58
 #: pages/order/index.js:93
 msgid "ab27"
-msgstr "Compra de moedas FC 25 para qualquer plataforma | ROYALFUT"
+msgstr "Compra de moedas FC 24 para qualquer plataforma | ROYALFUT"
 
 #: pages/order/index.js:95
 msgid "ab28"
-msgstr "Compra de moedas EA FC 25 | Checkout seguro | ROYALFUT"
+msgstr "Compra de moedas EA FC 24 | Checkout seguro | ROYALFUT"
 
 #~ msgid "ab29"
-#~ msgstr "Compra de moedas FC 25 para PlayStation 4 | ROYALFUT"
+#~ msgstr "Compra de moedas FC 24 para PlayStation 4 | ROYALFUT"
 
 #~ msgid "ab3"
 #~ msgstr "+ de 100 B"
 
 #~ msgid "ab30"
-#~ msgstr "Compra de moedas FC 25 para PlayStation 5 | ROYALFUT"
+#~ msgstr "Compra de moedas FC 24 para PlayStation 5 | ROYALFUT"
 
 #~ msgid "ab31"
-#~ msgstr "Compra de moedas FC 25 para Xbox One | ROYALFUT"
+#~ msgstr "Compra de moedas FC 24 para Xbox One | ROYALFUT"
 
 #~ msgid "ab32"
-#~ msgstr "Compra de moedas FC 25 para Xbox Series X/S | ROYALFUT"
+#~ msgstr "Compra de moedas FC 24 para Xbox Series X/S | ROYALFUT"
 
 #~ msgid "ab33"
-#~ msgstr "Compra de moedas FC 25 para PC (Origin / Steam / Epic Games) | ROYALFUT"
+#~ msgstr "Compra de moedas FC 24 para PC (Origin / Steam / Epic Games) | ROYALFUT"
 
 #: pages/order/index.js:100
 msgid "ab34"
@@ -1012,7 +1012,7 @@ msgstr "O meu perfil | ROYALFUT"
 #~ msgstr "Checkout Seguro | ROYALFUT"
 
 #~ msgid "ab42"
-#~ msgstr "Compra o FC 25 Boosting | Sobe de Classificação na Liga de Fim de Semana e nos Rivais da Divisão"
+#~ msgstr "Compra o FC 24 Boosting | Sobe de Classificação na Liga de Fim de Semana e nos Rivais da Divisão"
 
 #~ msgid "ab43"
 #~ msgstr "Enviar Detalhes"
@@ -1213,7 +1213,7 @@ msgstr "Precisas de ajuda? Contacta a nossa equipa de assistência a qualquer mo
 
 #: components/Offer/Offer.js:82
 msgid "ab91"
-msgstr "Se estás cansado de moer moedas FC 25, temos uma solução perfeita e barata para ti! Conhece a ROYALFUT.com, a loja de moedas EA FC mais fiável, com muitos anos de experiência neste campo. Este mercado com as melhores classificações oferece os preços mais baixos para as moedas de FIFA 25 online e pode garantir uma entrega rápida e 100% de segurança da tua conta. Comprar moedas FC na ROYALFUT é a opção mais acessível e legítima quando se trata de ajudar-te a tornar o teu jogo ainda mais agradável, sem risco de quaisquer consequências desagradáveis. As ofertas regulares de moedas do Ultimate Team que podes encontrar nesta loja estão a diminuir os preços já baixos, o que permite que faças as transações mais lucrativas no jogo. A plataforma ROYALFUT não é apenas 100% fiável sobre as tuas moedas FUT à venda, mas também é conhecida pelo seu incrível apoio ao cliente que vai ajudar-te sempre com qualquer dúvida ou problema que possas ter. É muito raro hoje em dia encontrar uma loja legítima de moedas UT 25, mas a ROYALFUT.com é sem dúvida uma delas. Este é absolutamente o melhor lugar para ti se quiseres comprar moedas do Ultimate Team para PC, PS4, PS5, Xbox One, Xbox Series X ou Xbox Series S com pagamentos 100% seguros e entrega instantânea."
+msgstr "Se estás cansado de moer moedas FC 24, temos uma solução perfeita e barata para ti! Conhece a ROYALFUT.com, a loja de moedas EA FC mais fiável, com muitos anos de experiência neste campo. Este mercado com as melhores classificações oferece os preços mais baixos para as moedas de FIFA 24 online e pode garantir uma entrega rápida e 100% de segurança da tua conta. Comprar moedas FC na ROYALFUT é a opção mais acessível e legítima quando se trata de ajudar-te a tornar o teu jogo ainda mais agradável, sem risco de quaisquer consequências desagradáveis. As ofertas regulares de moedas do Ultimate Team que podes encontrar nesta loja estão a diminuir os preços já baixos, o que permite que faças as transações mais lucrativas no jogo. A plataforma ROYALFUT não é apenas 100% fiável sobre as tuas moedas FUT à venda, mas também é conhecida pelo seu incrível apoio ao cliente que vai ajudar-te sempre com qualquer dúvida ou problema que possas ter. É muito raro hoje em dia encontrar uma loja legítima de moedas UT 24, mas a ROYALFUT.com é sem dúvida uma delas. Este é absolutamente o melhor lugar para ti se quiseres comprar moedas do Ultimate Team para PC, PS4, PS5, Xbox One, Xbox Series X ou Xbox Series S com pagamentos 100% seguros e entrega instantânea."
 
 #: pages/order/index.js:115
 #: pages/order/pc.js:82
@@ -1222,7 +1222,7 @@ msgstr "Se estás cansado de moer moedas FC 25, temos uma solução perfeita e b
 #: pages/order/xbox_one.js:82
 #: pages/order/xbox_xs.js:82
 msgid "ab92"
-msgstr "Compra moedas do FC 25 Ultimate Team"
+msgstr "Compra moedas do FC 24 Ultimate Team"
 
 #: components/Order/Steps.js:14
 #: components/Order/Steps.js:56
@@ -1390,11 +1390,11 @@ msgstr "Podes comprar qualquer cartão disponível no mercado com este valor. Co
 #: pages/coins/[id].js:177
 #: pages/coins/[id].js:192
 msgid "coins_page18"
-msgstr "[[X]] moedas do FC 25 Ultimate Team"
+msgstr "[[X]] moedas do FC 24 Ultimate Team"
 
 #: pages/coins/[id].js:201
 msgid "coins_page19"
-msgstr "Compra moedas EA FC 25 online no fornecedor mais seguro do mercado - ROYALFUT Store. A venda de artigos da FIFA Ultimate Team é a nossa especialidade há mais de 7 anos. O nosso objetivo é garantir que os nossos clientes obtêm as melhores ofertas e as transferências mais seguras de moedas FC UT. O ROYALFUT oferece uma experiência de compra conveniente e agradável com a sua interface amigável, opções de pagamento seguras e excelente atendimento ao cliente."
+msgstr "Compra moedas EA FC 24 online no fornecedor mais seguro do mercado - ROYALFUT Store. A venda de artigos da FIFA Ultimate Team é a nossa especialidade há mais de 7 anos. O nosso objetivo é garantir que os nossos clientes obtêm as melhores ofertas e as transferências mais seguras de moedas FC UT. O ROYALFUT oferece uma experiência de compra conveniente e agradável com a sua interface amigável, opções de pagamento seguras e excelente atendimento ao cliente."
 
 #: components/TableOrders/TableItem.js:409
 msgid "coins_page2"
@@ -1436,7 +1436,7 @@ msgstr "Acesso à tua conta EA"
 
 #: pages/coins/[id].js:266
 msgid "coins_page29"
-msgstr "— se tiveres uma cópia licenciada do EA Sports FC 25 para consolas PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Series X ou PC (comprado como um CD físico ou digitalmente via EA App, Steam ou Epic Games Store), então estás com sorte, porque a partir deste ponto, tudo o que os nossos sistemas precisam de ti para aceder com sucesso ao teu clube Ultimate Team são os dados da tua conta EA, que consistem em endereço de e-mail, palavra-passe e alguns códigos de backup. Mas não te preocupes, não armazenamos os teus dados, eles serão apagados após a conclusão de cada pedido."
+msgstr "— se tiveres uma cópia licenciada do EA Sports FC 24 para consolas PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Series X ou PC (comprado como um CD físico ou digitalmente via EA App, Steam ou Epic Games Store), então estás com sorte, porque a partir deste ponto, tudo o que os nossos sistemas precisam de ti para aceder com sucesso ao teu clube Ultimate Team são os dados da tua conta EA, que consistem em endereço de e-mail, palavra-passe e alguns códigos de backup. Mas não te preocupes, não armazenamos os teus dados, eles serão apagados após a conclusão de cada pedido."
 
 #~ msgid "coins_page3"
 #~ msgstr "Alvos de Transferência"
@@ -1570,12 +1570,12 @@ msgstr "Avaliações"
 
 #: components/MainFunnel/MainFunnel.js:47
 #~ msgid "home:newh1_3"
-#~ msgstr "FC 25<<<<<<< HEAD"
+#~ msgstr "FC 24<<<<<<< HEAD"
 
 #: components/MainFunnel/MainFunnel.js:32
 #: components/MainFunnel/MainFunnel.js:53
 #~ msgid "home:newh1_4"
-#~ msgstr "Moedas FC 25"
+#~ msgstr "Moedas FC 24"
 
 #: components/MainFunnel/MainFunnel.js:33
 msgid "home:title"
@@ -1747,7 +1747,7 @@ msgstr "Este cupão já foi totalmente usado"
 #~ msgstr "Delivery method:"
 
 #~ msgid "locales.deliverytext"
-#~ msgstr " oferece um sistema de entregas de moedas EA FC 25 único. Cooperamos com um número recorde de fornecedores de moedas. Ao tratarmos da tua encomenda, utilizamos regras especiais que garantem que nunca serão aplicadas quaisquer sanções à tua conta da parte da EA. Consulta algumas das regras abaixo:"
+#~ msgstr " oferece um sistema de entregas de moedas EA FC 24 único. Cooperamos com um número recorde de fornecedores de moedas. Ao tratarmos da tua encomenda, utilizamos regras especiais que garantem que nunca serão aplicadas quaisquer sanções à tua conta da parte da EA. Consulta algumas das regras abaixo:"
 
 #~ msgid "locales.deliverytitle"
 #~ msgstr "Entregas"
@@ -1828,16 +1828,16 @@ msgstr "Plataforma"
 #~ msgstr "A opção mais segura para "
 
 #~ msgid "locales.h1_2"
-#~ msgstr "Comprar moedas do FC 25"
+#~ msgstr "Comprar moedas do FC 24"
 
 #~ msgid "locales.h1_coins"
-#~ msgstr "A tua Loja EA FC 25 Ultimate Team"
+#~ msgstr "A tua Loja EA FC 24 Ultimate Team"
 
 #~ msgid "locales.h1_p1"
 #~ msgstr "O teu principal companheiro na "
 
 #~ msgid "locales.h1_p2"
-#~ msgstr "Loja EA FC 25 Ultimate Team"
+#~ msgstr "Loja EA FC 24 Ultimate Team"
 
 #~ msgid "locales.haveCoupon"
 #~ msgstr "Tenho um cupão"
@@ -1942,7 +1942,7 @@ msgstr "Entregas"
 #~ msgstr "portanto entregamos moedas em qualquer momento, 24/7."
 
 #~ msgid "locales.menuLinkDescDisabled"
-#~ msgstr "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋"
+#~ msgstr "Sales of EA FC 24 coins is now closed. <br/>See you in EA FC 24 season  👋"
 
 #~ msgid "locales.menulinkfaq"
 #~ msgstr "Perguntas Frequentes"
@@ -2079,7 +2079,7 @@ msgstr "Pedir agora"
 #~ msgstr "Ou com criptomoedas"
 
 #~ msgid "locales.p1"
-#~ msgstr "Isto permite-nos oferecer a forma mais segura de comprar moedas EA FC 25 na Internet."
+#~ msgstr "Isto permite-nos oferecer a forma mais segura de comprar moedas EA FC 24 na Internet."
 
 #~ msgid "locales.p2"
 #~ msgstr "Para que as tuas moedas sejam entregues o mais rápido possível, segue as instruções publicadas no site ou recebidas do gestor no chat ao vivo."
@@ -2116,7 +2116,7 @@ msgstr "Após o pagamento, vamos redirecionar-te para uma página com os seguint
 #~ msgstr "Após um pagamento bem-sucedido, vais receber a instrução para comprares cartas de jogador. Vais comprar cartas de jogador ao seu preço de mercado e vamos comprá-las de ti a um preço muitas vezes superior."
 
 #~ msgid "locales.pageCoinsAfterSuccessfull"
-#~ msgstr "Depois do pagamento, vamos pedir para aceder uma vez à tua conta EA. Precisamos do teu e-mail, palavra passe e código de segurança. Vamos usar estes dados para iniciar sessão na FC 25 Web App e fazer compras e vendas no mercado de transferências. Vamos comprar cartas pelo valor de mercado e pô-las à venda por um valor superior. Depois, a nossa equipa vai comprá-las."
+#~ msgstr "Depois do pagamento, vamos pedir para aceder uma vez à tua conta EA. Precisamos do teu e-mail, palavra passe e código de segurança. Vamos usar estes dados para iniciar sessão na FC 24 Web App e fazer compras e vendas no mercado de transferências. Vamos comprar cartas pelo valor de mercado e pô-las à venda por um valor superior. Depois, a nossa equipa vai comprá-las."
 
 #: components/HowDelivery/Howdelivery.js:97
 msgid "locales.pageCoinsAfterSuccessfully"
@@ -2661,10 +2661,10 @@ msgstr "Ver passe"
 #~ msgstr "A nossa equipa trabalha arduamente para te oferecer os melhores preços do mercado, para que possas comprar moedas FUT para Xbox Series X/S connosco com a confiança de obter o melhor negócio."
 
 #~ msgid "locales.seo11"
-#~ msgstr "Tens alguma dúvida sobre a compra de moedas EA FC 25 para a tua consola Xbox? Entra em contacto connosco da forma que quiseres."
+#~ msgstr "Tens alguma dúvida sobre a compra de moedas EA FC 24 para a tua consola Xbox? Entra em contacto connosco da forma que quiseres."
 
 #~ msgid "locales.seo2"
-#~ msgstr "Tens alguma dúvida sobre a compra de moedas EA FC 25 para a tua consola PlayStation? Entra em contacto connosco da forma que quiseres."
+#~ msgstr "Tens alguma dúvida sobre a compra de moedas EA FC 24 para a tua consola PlayStation? Entra em contacto connosco da forma que quiseres."
 
 #~ msgid "locales.seo3"
 #~ msgstr "Temos as melhores ofertas em moedas da FIFA para PlayStation 5. Oferecemos moedas baratas FIFA PS5 com entrega de alta velocidade e garantimos a segurança da tua conta sem NENHUMA TAXA."
@@ -2673,7 +2673,7 @@ msgstr "Ver passe"
 #~ msgstr "A nossa equipa trabalha arduamente para te oferecer os melhores preços do mercado, para que possas comprar moedas FUT para PS5 connosco com a confiança de obter o melhor negócio."
 
 #~ msgid "locales.seo5"
-#~ msgstr "Tens alguma dúvida sobre a compra de moedas EA FC 25 para a tua consola PlayStation? Entra em contacto connosco da forma que quiseres."
+#~ msgstr "Tens alguma dúvida sobre a compra de moedas EA FC 24 para a tua consola PlayStation? Entra em contacto connosco da forma que quiseres."
 
 #~ msgid "locales.seo6"
 #~ msgstr "Temos as melhores ofertas em moedas da FIFA para Xbox One. Oferecemos moedas FIFA baratas com entrega de alta velocidade e garantimos a segurança da sua conta NENHUMA TAXA."
@@ -2682,7 +2682,7 @@ msgstr "Ver passe"
 #~ msgstr "A nossa equipa trabalha arduamente para te oferecer os melhores preços do mercado, para que possas comprar Moedas FUT para Xbox 1 connosco com a confiança de obteres o melhor negócio."
 
 #~ msgid "locales.seo8"
-#~ msgstr "Tens alguma dúvida sobre a compra de moedas EA FC 25 para a tua consola Xbox? Entra em contacto connosco da forma que quiseres."
+#~ msgstr "Tens alguma dúvida sobre a compra de moedas EA FC 24 para a tua consola Xbox? Entra em contacto connosco da forma que quiseres."
 
 #~ msgid "locales.seo9"
 #~ msgstr "Temos as melhores ofertas em moedas da FIFA para Xbox Series X. Também oferecemos moedas baratas da FIFA para Xbox Series S com entrega de alta velocidade e garantimos a segurança da sua conta sem NENHUMA TAXA."
@@ -2779,7 +2779,7 @@ msgstr "Estado"
 #~ msgstr "protegido"
 
 #~ msgid "locales.status.no_access_to_fifa_21_webapp"
-#~ msgstr "Sem acesso à APLICAÇÃO ONLINE EA FC 25"
+#~ msgstr "Sem acesso à APLICAÇÃO ONLINE EA FC 24"
 
 #~ msgid "locales.status.no_enough_coins_to_start"
 #~ msgstr "SEM MOEDAS SUFICIENTES PARA COMEÇAR"
@@ -2821,10 +2821,10 @@ msgstr "Estado"
 #~ msgstr "CREDENCIAIS ERRADAS"
 
 #~ msgid "locales.sublogo"
-#~ msgstr "Moedas EA FC 25"
+#~ msgstr "Moedas EA FC 24"
 
 #~ msgid "locales.sublogo2"
-#~ msgstr "Itens EA FC 25"
+#~ msgstr "Itens EA FC 24"
 
 #~ msgid "locales.succPaid"
 #~ msgstr "O teu pedido foi pago com sucesso!"
@@ -2917,7 +2917,7 @@ msgstr "Constrói a tua Equipa de Sonho agora"
 #: components/Carusel/Carusel.js:110
 #: components/Carusel/Carusel.js:140
 msgid "mainblocks1"
-msgstr "Com as moedas do EA Sports FC 25, podes escolher as melhores opções possíveis para todas as posições do teu plantel. Dá asas à tua imaginação, experimenta coisas novas, faz experiências!"
+msgstr "Com as moedas do EA Sports FC 24, podes escolher as melhores opções possíveis para todas as posições do teu plantel. Dá asas à tua imaginação, experimenta coisas novas, faz experiências!"
 
 #: components/Carusel/Carusel.js:87
 #: components/Modal/Modal.js:169
@@ -2940,7 +2940,7 @@ msgstr "As nossas redes sociais"
 #~ msgstr "O teu fornecedor"
 
 #~ msgid "mainblocks14"
-#~ msgstr "do EA FC 25"
+#~ msgstr "do EA FC 24"
 
 #~ msgid "mainblocks15"
 #~ msgstr "Moedas e Serviços"
@@ -2951,7 +2951,7 @@ msgstr "A tua escolha"
 
 #: components/H1/H1.js:13
 msgid "mainblocks17"
-msgstr "para comprar FC 25"
+msgstr "para comprar FC 24"
 
 #: components/H1/H1.js:16
 msgid "mainblocks18"
@@ -2966,7 +2966,7 @@ msgid "mainblocks2"
 msgstr "Obtém a carta que quiseres"
 
 #~ msgid "mainblocks20"
-#~ msgstr "FC 25 Ultimate Team"
+#~ msgstr "FC 24 Ultimate Team"
 
 #~ msgid "mainblocks21"
 #~ msgstr "Loja de Moedas"
@@ -2977,7 +2977,7 @@ msgstr "Opção de compra mais segura"
 
 #: components/Offer/Offer.js:32
 msgid "mainblocks23"
-msgstr "Moedas FIFA 25"
+msgstr "Moedas FIFA 24"
 
 #: components/ReviewsGallery/ReviewsGallery.js:71
 msgid "mainblocks24"
@@ -3061,18 +3061,18 @@ msgstr "Saber +.        "
 #~ msgstr "Moedas"
 
 #~ msgid "newh1_3"
-#~ msgstr "FC 25"
+#~ msgstr "FC 24"
 
 #: components/MainFunnel/MainFunnel.js:46
 msgid "newh1_4"
-msgstr "Moedas FC 25"
+msgstr "Moedas FC 24"
 
 #: components/Cookie/Cookie.js:52
 msgid "okay"
 msgstr "OK        "
 
 #~ msgid "orderh1"
-#~ msgstr "Buy FC 25 Ultimate Team coins"
+#~ msgstr "Buy FC 24 Ultimate Team coins"
 
 #~ msgid "orderinfo"
 #~ msgstr "Order info"
@@ -3450,11 +3450,11 @@ msgstr "A preparar a nova temporada"
 #: components/MainContainer.js:602
 #: components/MainContainer.js:608
 msgid "seo:root:description"
-msgstr "Melhor loja para moedas EA SPORTS FC 25 ✔Compra moedas EA FC 25 para PS 4/5, Xbox One/X/S 🎮Entrega rápida e Assistência ao vivo 24/7 ⚡ 100% Pagamentos seguros 🔒Seguro para moedas Ultimate Team baratas 😉"
+msgstr "Melhor loja para moedas EA SPORTS FC 24 ✔Compra moedas EA FC 24 para PS 4/5, Xbox One/X/S 🎮Entrega rápida e Assistência ao vivo 24/7 ⚡ 100% Pagamentos seguros 🔒Seguro para moedas Ultimate Team baratas 😉"
 
 #: pages/_app.js:25
 msgid "seo:root:title"
-msgstr "Compra de moedas FC 25 para todas as plataformas | Ultimate Team Coin Store"
+msgstr "Compra de moedas FC 24 para todas as plataformas | Ultimate Team Coin Store"
 
 #~ msgid "seo0"
 #~ msgstr "Português"
@@ -3495,7 +3495,7 @@ msgstr "O meu saldo de moedas Ultimate Team é de pelo menos 5000."
 
 #: components/InputChecker/InputChecker.js:110
 msgid "seo106"
-msgstr "Eu saí do Ultimate Team na minha consola e não estou a utiliza a FC 25 Web App / FC Companion App noutros dispositivos."
+msgstr "Eu saí do Ultimate Team na minha consola e não estou a utiliza a FC 24 Web App / FC Companion App noutros dispositivos."
 
 #: components/InputChecker/InputChecker.js:136
 msgid "seo107"
@@ -3725,7 +3725,7 @@ msgstr "Clica no botão abaixo para iniciares a transferência manual de moedas"
 
 #: components/TableOrders/TableItem.js:377
 msgid "seo163"
-msgstr "Certifica-te de que terminaste sessão do Ultimate Team na tua consola e noutros dispositivos via FC 25 Web App / FC Companion App até que o pedido seja concluído."
+msgstr "Certifica-te de que terminaste sessão do Ultimate Team na tua consola e noutros dispositivos via FC 24 Web App / FC Companion App até que o pedido seja concluído."
 
 #: components/TableOrders/TableItem.js:384
 msgid "seo164"
@@ -3814,11 +3814,11 @@ msgstr "Sai da tua conta para que possamos prosseguir com a entrega"
 
 #: components/TableOrders/TableItem.js:438
 msgid "seo181"
-msgstr "Online na FC 25 Web App"
+msgstr "Online na FC 24 Web App"
 
 #: components/TableOrders/TableItem.js:441
 msgid "seo182"
-msgstr "Sai da FC 25 Web App / FC Companion App para que possamos prosseguir com a entrega"
+msgstr "Sai da FC 24 Web App / FC Companion App para que possamos prosseguir com a entrega"
 
 #~ msgid "seo183"
 #~ msgstr "Verificação de início de sessão"
@@ -3843,7 +3843,7 @@ msgstr "Certifica-te de que ativas a Verificação de início de sessão nas con
 #: components/TableOrders/TableItem.js:314
 #: components/TableOrders/TableItem.js:324
 msgid "seo189"
-msgstr "Sem MT na FC 25 Web App"
+msgstr "Sem MT na FC 24 Web App"
 
 #~ msgid "seo19"
 #~ msgstr "Experiência de longa data"
@@ -3851,15 +3851,15 @@ msgstr "Sem MT na FC 25 Web App"
 #: components/TableOrders/TableItem.js:317
 #: components/TableOrders/TableItem.js:327
 msgid "seo190"
-msgstr "Certifica-te de que tens acesso ao Mercado de Transferências na FC 25 Web App para que possamos começar a processar o teu pedido"
+msgstr "Certifica-te de que tens acesso ao Mercado de Transferências na FC 24 Web App para que possamos começar a processar o teu pedido"
 
 #: components/TableOrders/TableItem.js:304
 msgid "seo191"
-msgstr "No Clube na FC 25 Web App"
+msgstr "No Clube na FC 24 Web App"
 
 #: components/TableOrders/TableItem.js:307
 msgid "seo192"
-msgstr "Certifica-te de que tens o teu clube configurado na FC 25 Web App para que possamos começar a processar o teu pedido"
+msgstr "Certifica-te de que tens o teu clube configurado na FC 24 Web App para que possamos começar a processar o teu pedido"
 
 #: components/TableOrders/TableItem.js:294
 msgid "seo193"
@@ -4004,55 +4004,55 @@ msgstr "Saber mais"
 #~ msgstr "Como funciona a entrega?"
 
 #~ msgid "seo232"
-#~ msgstr "Loja EA FC 25 Ultimate Team | Loja EA SPORTS FC 25"
+#~ msgstr "Loja EA FC 24 Ultimate Team | Loja EA SPORTS FC 24"
 
 #~ msgid "seo233"
-#~ msgstr "Melhor loja para moedas EA SPORTS FC 25 ✔Compra moedas EA FC 25 para PS 4/5, Xbox One/X/S 🎮Entrega rápida e Assistência ao vivo 24/7 ⚡ 100% Pagamentos seguros 🔒Seguro para moedas Ultimate Team baratas 😉"
+#~ msgstr "Melhor loja para moedas EA SPORTS FC 24 ✔Compra moedas EA FC 24 para PS 4/5, Xbox One/X/S 🎮Entrega rápida e Assistência ao vivo 24/7 ⚡ 100% Pagamentos seguros 🔒Seguro para moedas Ultimate Team baratas 😉"
 
 #~ msgid "seo234"
-#~ msgstr "Comprar moedas EA FC 25 Ultimate Team baratas online | Moedas FUT para venda, preços baixos"
+#~ msgstr "Comprar moedas EA FC 24 Ultimate Team baratas online | Moedas FUT para venda, preços baixos"
 
 #~ msgid "seo235"
-#~ msgstr "Melhor loja para moedas EA SPORTS FC 25 ✔Compra moedas EA FC 25 para PS 4/5, Xbox One/X/S 🎮Entrega rápida e Assistência ao vivo 24/7 ⚡ 100% Pagamentos seguros 🔒 Seguro para moedas Ultimate Team baratas 😉"
+#~ msgstr "Melhor loja para moedas EA SPORTS FC 24 ✔Compra moedas EA FC 24 para PS 4/5, Xbox One/X/S 🎮Entrega rápida e Assistência ao vivo 24/7 ⚡ 100% Pagamentos seguros 🔒 Seguro para moedas Ultimate Team baratas 😉"
 
 #~ msgid "seo236"
-#~ msgstr "Compra moedas baratas do EA FC 25 para PS4 | Moedas EA SPORTS FC 25 para PS4"
+#~ msgstr "Compra moedas baratas do EA FC 24 para PS4 | Moedas EA SPORTS FC 24 para PS4"
 
 #~ msgid "seo237"
-#~ msgstr "Lugar mais seguro para moedas EA SPORTS FC 25 para PS4 🎮 Obtém os melhores jogadores para ganhares aos adversários 🥇 Entrega rápida e Assistência ao vivo 24/7 🔒 Seguro para obteres moedas Ultimate Team bara"
+#~ msgstr "Lugar mais seguro para moedas EA SPORTS FC 24 para PS4 🎮 Obtém os melhores jogadores para ganhares aos adversários 🥇 Entrega rápida e Assistência ao vivo 24/7 🔒 Seguro para obteres moedas Ultimate Team bara"
 
 #~ msgid "seo238"
-#~ msgstr "Compra moedas EA FC 25 baratas para PS5 | Moedas EA SPORTS FC 25 para PS5"
+#~ msgstr "Compra moedas EA FC 24 baratas para PS5 | Moedas EA SPORTS FC 24 para PS5"
 
 #~ msgid "seo239"
-#~ msgstr "Lugar mais seguro para moedas EA SPORTS FC 25 para PS5 🎮 Obtém os melhores jogadores para ganhares aos adversários 🥇 Entrega rápida e Assistência ao vivo 24/7 🔒 Seguro para obteres moedas Ultimate Team bara"
+#~ msgstr "Lugar mais seguro para moedas EA SPORTS FC 24 para PS5 🎮 Obtém os melhores jogadores para ganhares aos adversários 🥇 Entrega rápida e Assistência ao vivo 24/7 🔒 Seguro para obteres moedas Ultimate Team bara"
 
 #~ msgid "seo24"
 #~ msgstr "O nosso principal objetivo é fornecer-te a opção mais segura para recarregares o saldo do teu clube FUT. Estamos constantemente a melhorar o nosso algoritmo de transferência de moedas, testando-o em milhares das nossas contas antes de teres luz verde para a ação."
 
 #~ msgid "seo240"
-#~ msgstr "Compra moedas EA FC 25 baratas para Xbox One | Moedas EA SPORTS FC 25 para Xbox One"
+#~ msgstr "Compra moedas EA FC 24 baratas para Xbox One | Moedas EA SPORTS FC 24 para Xbox One"
 
 #~ msgid "seo241"
-#~ msgstr "Lugar mais seguro para moedas EA SPORTS FC 25 para Xbox One 🎮 Obtém os melhores jogadores para ganhar aos adversários 🥇 Entrega rápida e Assistência ao vivo 24/7 🔒 Seguro para obteres moedas Ultimate Team b"
+#~ msgstr "Lugar mais seguro para moedas EA SPORTS FC 24 para Xbox One 🎮 Obtém os melhores jogadores para ganhar aos adversários 🥇 Entrega rápida e Assistência ao vivo 24/7 🔒 Seguro para obteres moedas Ultimate Team b"
 
 #~ msgid "seo242"
-#~ msgstr "Compra moedas EA FC 25 baratas para Xbox | Moedas EA SPORTS FC 25 para Xbox Series X/S"
+#~ msgstr "Compra moedas EA FC 24 baratas para Xbox | Moedas EA SPORTS FC 24 para Xbox Series X/S"
 
 #~ msgid "seo243"
-#~ msgstr "Lugar mais seguro para moedas EA SPORTS FC 25 para Xbox Series X/S 🎮 Obtém os melhores jogadores para ganhar aos adversários 🥇 Entrega rápida e Assistência ao vivo 24/7 🔒 Seguro para Moedas Ultimate Team ba"
+#~ msgstr "Lugar mais seguro para moedas EA SPORTS FC 24 para Xbox Series X/S 🎮 Obtém os melhores jogadores para ganhar aos adversários 🥇 Entrega rápida e Assistência ao vivo 24/7 🔒 Seguro para Moedas Ultimate Team ba"
 
 #~ msgid "seo244"
-#~ msgstr "Comprar 100 mil moedas EA FC 25 | Preço 100 mil moedas FUT"
+#~ msgstr "Comprar 100 mil moedas EA FC 24 | Preço 100 mil moedas FUT"
 
 #~ msgid "seo245"
-#~ msgstr "Mais seguro para comprar 100 mil moedas EA SPORTS FC 25 para a tua Ultimate Team 🥇 Escolhe a plataforma: PS, Xbox ou PC 🎮 Entrega Rápida e Assistência ao Vivo 24/7 🔒 Lugar seguro para moedas Ultimate Team b"
+#~ msgstr "Mais seguro para comprar 100 mil moedas EA SPORTS FC 24 para a tua Ultimate Team 🥇 Escolhe a plataforma: PS, Xbox ou PC 🎮 Entrega Rápida e Assistência ao Vivo 24/7 🔒 Lugar seguro para moedas Ultimate Team b"
 
 #~ msgid "seo246"
-#~ msgstr "Compra 1 milhão de moedas EA FC 25 | Preço 1000 mil moedas FUT"
+#~ msgstr "Compra 1 milhão de moedas EA FC 24 | Preço 1000 mil moedas FUT"
 
 #~ msgid "seo247"
-#~ msgstr "Mais seguro comprar 1000 mil (1 milhão) moedas EA SPORTS FC 25 para a Ultimate Team 🥇 Escolhe a plataforma: PS, Xbox ou PC 🎮 Entrega Rápida e Assistência ao Vivo 24/7 🔒Seguro para moedas Ultimate Team barat"
+#~ msgstr "Mais seguro comprar 1000 mil (1 milhão) moedas EA SPORTS FC 24 para a Ultimate Team 🥇 Escolhe a plataforma: PS, Xbox ou PC 🎮 Entrega Rápida e Assistência ao Vivo 24/7 🔒Seguro para moedas Ultimate Team barat"
 
 #~ msgid "seo248"
 #~ msgstr "Temos as melhores ofertas em moedas da FIFA para PlayStation 4. Oferecemos moedas baratas FIFA PS4 com entrega de alta velocidade e garantimos a segurança da tua conta sem NENHUMA TAXA."
@@ -4064,7 +4064,7 @@ msgstr "Saber mais"
 #~ msgstr "Alto nível de serviço"
 
 #~ msgid "seo250"
-#~ msgstr "Tens alguma dúvida sobre a compra de moedas EA FC 25 para a tua consola PlayStation? Entra em contacto connosco da forma que quiseres."
+#~ msgstr "Tens alguma dúvida sobre a compra de moedas EA FC 24 para a tua consola PlayStation? Entra em contacto connosco da forma que quiseres."
 
 #~ msgid "seo251"
 #~ msgstr "Temos as melhores ofertas em moedas da FIFA para PlayStation 5. Oferecemos moedas baratas FIFA PS5 com entrega de alta velocidade e garantimos a segurança da tua conta sem NENHUMA TAXA."
@@ -4073,7 +4073,7 @@ msgstr "Saber mais"
 #~ msgstr "A nossa equipa trabalha arduamente para te oferecer os melhores preços do mercado, para que possas comprar moedas FUT para PS5 connosco com a confiança de obter o melhor negócio."
 
 #~ msgid "seo253"
-#~ msgstr "Tens alguma dúvida sobre a compra de moedas EA FC 25 para a tua consola PlayStation? Entra em contacto connosco da forma que quiseres."
+#~ msgstr "Tens alguma dúvida sobre a compra de moedas EA FC 24 para a tua consola PlayStation? Entra em contacto connosco da forma que quiseres."
 
 #~ msgid "seo254"
 #~ msgstr "Temos as melhores ofertas em moedas da FIFA para Xbox One. Oferecemos moedas FIFA baratas com entrega de alta velocidade e garantimos a segurança da sua conta NENHUMA TAXA."
@@ -4082,7 +4082,7 @@ msgstr "Saber mais"
 #~ msgstr "A nossa equipa trabalha arduamente para te oferecer os melhores preços do mercado, para que possas comprar Moedas FUT para Xbox 1 connosco com a confiança de obteres o melhor negócio."
 
 #~ msgid "seo256"
-#~ msgstr "Tens alguma dúvida sobre a compra de moedas EA FC 25 para a tua consola Xbox? Entra em contacto connosco da forma que quiseres."
+#~ msgstr "Tens alguma dúvida sobre a compra de moedas EA FC 24 para a tua consola Xbox? Entra em contacto connosco da forma que quiseres."
 
 #~ msgid "seo257"
 #~ msgstr "Temos as melhores ofertas em moedas da FIFA para Xbox Series X. Também oferecemos moedas baratas da FIFA para Xbox Series S com entrega de alta velocidade e garantimos a segurança da sua conta sem NENHUMA TAXA."
@@ -4091,7 +4091,7 @@ msgstr "Saber mais"
 #~ msgstr "A nossa equipa trabalha arduamente para te oferecer os melhores preços do mercado, para que possas comprar moedas FUT para Xbox Series X/S connosco com a confiança de obter o melhor negócio."
 
 #~ msgid "seo259"
-#~ msgstr "Tens alguma dúvida sobre a compra de moedas EA FC 25 para a tua consola Xbox? Entra em contacto connosco da forma que quiseres."
+#~ msgstr "Tens alguma dúvida sobre a compra de moedas EA FC 24 para a tua consola Xbox? Entra em contacto connosco da forma que quiseres."
 
 #~ msgid "seo26"
 #~ msgstr "Valorizamos o teu tempo, é por isso que estamos sempre determinados a procurar a melhoria contínua de aspetos do nosso site como a interface e a qualidade do nosso serviço de assistência ao cliente - para garantir que a tua experiência de compra connosco foi a melhor possível."
@@ -4169,7 +4169,7 @@ msgstr "Sair"
 #~ msgstr "Iniciar sessão através de"
 
 #~ msgid "seo45"
-#~ msgstr "A tua Loja EA FC 25 Ultimate Team"
+#~ msgstr "A tua Loja EA FC 24 Ultimate Team"
 
 #~ msgid "seo46"
 #~ msgstr "Plataforma"
@@ -4225,7 +4225,7 @@ msgstr "Método de entrega manual que não requer dados da conta, vais precisar 
 #~ msgstr "Negociação Comfort"
 
 #~ msgid "seo6"
-#~ msgstr "O teu principal companheiro na Loja EA FC 25 Ultimate Team"
+#~ msgstr "O teu principal companheiro na Loja EA FC 24 Ultimate Team"
 
 #~ msgid "seo60"
 #~ msgstr "Leilão de jogadores"
@@ -4414,19 +4414,19 @@ msgid "seom"
 msgstr "m"
 
 #~ msgid "seop22"
-#~ msgstr "Na nossa loja podes encontrar os melhores preços em moedas EA FC, independentemente da plataforma. Damos-te moedas UT 25 baratas, entregas rápidas e garantimos transações seguras GRÁTIS."
+#~ msgstr "Na nossa loja podes encontrar os melhores preços em moedas EA FC, independentemente da plataforma. Damos-te moedas UT 24 baratas, entregas rápidas e garantimos transações seguras GRÁTIS."
 
 #~ msgid "seop23"
-#~ msgstr "Temos as nossas equipas a trabalhar para te oferecerem os melhores preços do mercado. Por isso já sabes que quando nos compras moedas FIFA 25 estás a fazer um excelente negócio."
+#~ msgstr "Temos as nossas equipas a trabalhar para te oferecerem os melhores preços do mercado. Por isso já sabes que quando nos compras moedas FIFA 24 estás a fazer um excelente negócio."
 
 #~ msgid "seop24"
-#~ msgstr "Se tens dúvidas acerca da compra de moedas FC 25 para a tua consola, podes entrar em contacto connosco através de qualquer método de comunicação."
+#~ msgstr "Se tens dúvidas acerca da compra de moedas FC 24 para a tua consola, podes entrar em contacto connosco através de qualquer método de comunicação."
 
 #~ msgid "t"
 #~ msgstr "Sobre a Entrega"
 
 #~ msgid "t_t"
-#~ msgstr "As moedas serão entregues ao clube FC 25 conectado à sua conta EA. Apenas os detalhes da conta EA são necessários para transferir as moedas."
+#~ msgstr "As moedas serão entregues ao clube FC 24 conectado à sua conta EA. Apenas os detalhes da conta EA são necessários para transferir as moedas."
 
 #: components/Aside/Aside.js:52
 msgid "trust:commenturl"

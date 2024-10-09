@@ -2,12 +2,12 @@
 
 import { cookies } from "next/headers";
 import { DefaultAppSettings, ccyCollection } from "@royalfut/collections";
-import { ECCYIDs, CookiesKeys } from "@royalfut/enums";
+import { ECCYIDs, ECookiesKeys } from "@royalfut/enums";
 
 export const getCurrency = async () => {
     const cookieStore = cookies();
-    const hasCookie = cookieStore.has(CookiesKeys.CCY);
-    const value = hasCookie ? cookieStore.get(CookiesKeys.CCY)?.value : null;
+    const hasCookie = cookieStore.has(ECookiesKeys.CCY);
+    const value = hasCookie ? cookieStore.get(ECookiesKeys.CCY)?.value : null;
 
     if (hasCookie && value) {
         if (Object.keys(ccyCollection).includes(value)) {
@@ -22,12 +22,12 @@ export const setCurrency = async (id: ECCYIDs) => {
     const cookieStore = cookies();
 
     cookieStore.set({
-        name: CookiesKeys.CCY,
+        name: ECookiesKeys.CCY,
         value: String(id),
     });
 };
 
 export const deleteCurrency = async () => {
     const oneDay = 24 * 60 * 60 * 1000;
-    cookies().set(CookiesKeys.CCY, "", { expires: Date.now() - oneDay });
+    cookies().set(ECookiesKeys.CCY, "", { expires: Date.now() - oneDay });
 };

@@ -8,7 +8,7 @@ import BackupCodes from "./BackupCodes";
 const BackupCodesField = () => {
     const { backups } = useTransferEAAccountStore();
     const [activeBackup, setActiveBackup] = useState(
-        backups.length > 0 ? true : false,
+        backups.length > 0 ? true : false
     );
 
     const onFocusPlaceholder = useCallback(() => {
@@ -38,8 +38,7 @@ const BackupCodesField = () => {
                 vtype={"primary"}
                 cnBox="h-14 sm:h-12 w-full relative group inline-flex items-center justify-center z-[1]"
                 type={"text"}
-                className="text-xs pl-12 pr-4 font-medium"
-            >
+                className="text-xs pl-12 pr-4 font-medium">
                 {activeBackup ? (
                     <BackupCodes onEmptyBlur={onEmptyBlur} />
                 ) : null}

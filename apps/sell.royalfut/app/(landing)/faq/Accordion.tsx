@@ -1,15 +1,14 @@
 /* eslint-disable max-lines */
-"use client";
 
 import { FAQAccordion } from "@royalfut/components";
-import Link from "next/link";
+import { Link } from "@royalfut/ui";
 
 const AccordionQuestions = () => {
     return (
         <FAQAccordion.Root type="multiple">
-            <h2 className="text-bold text-4xl pb-2">
+            <FAQAccordion.Title id="selling-coins-via-comfort-trad">
                 Selling Coins via Comfort Trade
-            </h2>
+            </FAQAccordion.Title>
             <FAQAccordion.Item value="item-1">
                 <FAQAccordion.Trigger>
                     How does Comfort Trade work?
@@ -134,9 +133,9 @@ const AccordionQuestions = () => {
                 </FAQAccordion.Content>
             </FAQAccordion.Item>
 
-            <h2 className="text-bold text-4xl pt-8 pb-2">
+            <FAQAccordion.Title id="paymand-and-withdrawal">
                 Payment and Withdrawal
-            </h2>
+            </FAQAccordion.Title>
 
             <FAQAccordion.Item value="item-6">
                 <FAQAccordion.Trigger>

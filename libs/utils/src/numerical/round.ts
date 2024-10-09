@@ -1,3 +1,4 @@
+import { isValueNonDefined } from "../is";
 // import round from "lodash.round";
 
 export function roundToNearestPowerOfTen(value: number) {
@@ -7,7 +8,10 @@ export function roundToNearestPowerOfTen(value: number) {
 }
 
 export function roundAndFormatFloat(num: number, decimalPlaces = 2) {
-    const roundedNum = num.toFixed(2); // round(num, decimalPlaces)
+    const _num = +num;
+    if (isValueNonDefined(_num) || typeof _num !== "number") return NaN;
+
+    const roundedNum = _num.toFixed(2); // round(num, decimalPlaces)
     const numStr = roundedNum.toString();
 
     // Remove trailing zeros

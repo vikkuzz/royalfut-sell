@@ -8,8 +8,7 @@ const RedirectCard = ({ card }: { card: ICard }) => {
         <div
             className={
                 "flex flex-col overflow-hidden w-full bg-primary rounded-2xl border-1 border-[white-10] md:max-w-[332px]"
-            }
-        >
+            }>
             <div className="h-[174px] w-auto min-h-[174px] relative">
                 {card.cover && (
                     <Image
@@ -20,8 +19,8 @@ const RedirectCard = ({ card }: { card: ICard }) => {
                     />
                 )}
             </div>
-            <div className="flex flex-col h-full py-2 px-6 gap-4 p-6">
-                <span className="text-[24px] font-bold leading-normal capitalize">
+            <div className="flex flex-col h-full py-4 px-6 gap-4 p-6">
+                <span className="text-[20px] font-bold leading-normal capitalize">
                     {card.title}
                 </span>
             </div>
@@ -39,9 +38,8 @@ const RedirectCard = ({ card }: { card: ICard }) => {
                                         btn.color === "white",
                                     "bg-transparent hover:bg-white-90 hover:text-black":
                                         btn.color === "transparent",
-                                },
-                            )}
-                        >
+                                }
+                            )}>
                             {btn.text}
                         </Link>
                     ))}

@@ -5,8 +5,9 @@ import { AppCredentials } from "@royalfut/collections";
 import Contacts from "./footer/Contacts";
 import Socials from "./footer/Socials";
 import NavLinks from "./footer/NavLinks";
-import { useUIGlobalStore } from "@royalfut/store";
+import { useProjectGlobalStore } from "@royalfut/store";
 import PaymentMethods from "./footer/PaymentMethods";
+import { cn } from "@royalfut/utils";
 
 const Copyright = () => {
     return (
@@ -17,15 +18,22 @@ const Copyright = () => {
     );
 };
 
-const Footer = () => {
-    const data = useUIGlobalStore(state => state.footer);
+const Footer = ({ locale }: { locale: string }) => {
+    const data = useProjectGlobalStore(state => state.footer);
+    const dir = locale !== "ar" ? "ltr" : "rtl";
 
     return (
-        <footer className="w-full h-max bg-black-1 pt-11 sm:pt-[6.25rem] pb-6 border-t border-t-white-20">
+        <footer dir={dir} className="no-print w-full h-max bg-black-1 pt-11 sm:pt-[6.25rem] pb-6 border-t border-t-white-20">
             <LayoutViewportSectionFrame asChild>
                 <div className="flex flex-col space-y-7 sm:space-y-4">
                     <div className="flex flex-col-reverse sm:flex-row w-full justify-between">
-                        <div className="flex flex-col space-y-10 sm:space-y-8 mt-9 sm:mt-0">
+                        <div
+                            className={cn(
+                                "flex flex-col space-y-10 sm:space-y-8 mt-9 sm:mt-0",
+                                {
+                                    "md: space-x-reverse": dir === "rtl",
+                                }
+                            )}>
                             <Contacts {...data.contacts} />
                             <Socials {...data.socials} />
                         </div>

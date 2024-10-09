@@ -19,7 +19,7 @@ export interface IPopupDialogStore<T extends EUIDialogsNames>
     lockable: TPopupDialogLocableStatusTypes;
     setLockable: (lockable: TPopupDialogLocableStatusTypes) => void;
     setPopupValue: <E extends EUIDialogsNames = T>(
-        value: IPopupDialogStateValuesMap[E] | null,
+        value: IPopupDialogStateValuesMap[E] | null
     ) => void;
 }
 
@@ -27,10 +27,17 @@ export interface IPopupDialogStoreMap {
     [key: string]: IPopupDialogStore<EUIDialogsNames>;
 }
 
-export type PopupDialogsStore = IPopupDialogStoreMap[EUIDialogsNames.WITHDRAW];
+export type PopupDialogsStore =
+    | IPopupDialogStoreMap[EUIDialogsNames.WITHDRAW]
+    | IPopupDialogStoreMap[EUIDialogsNames.WITHDRAW_FILED]
+    | IPopupDialogStoreMap[EUIDialogsNames.WITHDRAW_SUCCESS]
+    | IPopupDialogStoreMap[EUIDialogsNames.SPONSOR_REDIRECT]
+    | IPopupDialogStoreMap[EUIDialogsNames.ROYAL_POINTS]
+    | IPopupDialogStoreMap[EUIDialogsNames.CHOOSE_AVATAR]
+    | IPopupDialogStoreMap[EUIDialogsNames.COIN_CALCULATION];
 
 const determinePopupLocableStatus = (
-    name: EUIDialogsNames,
+    name: EUIDialogsNames
 ): TPopupDialogLocableStatusTypes => {
     const status = PopupDialogLocableStatus[name];
 
@@ -53,14 +60,14 @@ const initialPopupDialogsStore = {
 };
 
 export const usePopupDialogStore = create<PopupDialogsStore>(
-    (set) =>
+    set =>
         ({
             ...initialPopupDialogsStore,
-            setPopup: (popup) =>
+            setPopup: popup =>
                 set({ popup, lockable: determinePopupLocableStatus(popup) }),
             setLockable: (lockable: TPopupDialogLocableStatusTypes) =>
                 set({ lockable }),
-            setPopupValue: (value) => set({ value }),
+            setPopupValue: value => set({ value }),
             clear: () => set(initialPopupDialogsStore as PopupDialogsStore),
-        }) as PopupDialogsStore,
+        }) as PopupDialogsStore
 );

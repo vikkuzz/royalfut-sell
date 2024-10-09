@@ -18,13 +18,13 @@ const initialOrderStore: IOrderState = {
 };
 
 export const createOrderStore = (
-    initState: IOrderState = initialOrderStore,
+    initState: IOrderState = initialOrderStore
 ) => {
     return createStore<OrderStore>()(
-        immer((set) => ({
+        immer(set => ({
             ...initState,
             setOrder: (order: IOrder | null) =>
-                set((state) => {
+                set(state => {
                     state.order = order;
                 }),
         }))

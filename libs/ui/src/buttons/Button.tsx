@@ -1,16 +1,11 @@
-/* eslint-disable max-lines */
-import Link from "next/link";
 import { forwardRef } from "react";
+import { Slot } from "@radix-ui/react-slot";
 import { cva } from "class-variance-authority";
-import { cn } from "@royalfut/utils";
+import { Link } from "../navs";
 import { LoadingFormBtn } from "./LoadingBtn";
+import { cn } from "@royalfut/utils";
 
-import type {
-    PropsWithChildren,
-    AnchorHTMLAttributes,
-    ButtonHTMLAttributes,
-} from "react";
-import type { LinkProps } from "next/link";
+import type { ComponentPropsWithoutRef, ElementRef } from "react";
 import type { VariantProps } from "class-variance-authority";
 
 export type ButtonVariantProps = VariantProps<typeof btnVariants>;
@@ -27,6 +22,10 @@ const btnVariants = cva(
                     flex bg-primary
                     text-white text-base font-normal leading-snug
                     hover:shadow-btnLight
+                `,
+                "primary-gradient": `
+                    flex bg-linear-primary-simple-pan
+                    text-white text-base font-semibold leading-snug
                 `,
                 secondary: `
                     bg-black-shape hover:ring-1 hover:ring-white active:ring-1 active:ring-white
@@ -78,7 +77,7 @@ const btnVariants = cva(
                 className: "cursor-not-allowed pointer-events-none",
             },
         ],
-    },
+    }
 );
 
 export type LoadingVariantProps = VariantProps<typeof loadingVariants>;
@@ -91,32 +90,14 @@ const loadingVariants = cva("", {
     },
 });
 
-export type ButtonBaseProps = ButtonVariantProps & LoadingVariantProps;
-
-export interface ILinkButtonProps
-    extends Omit<
-            AnchorHTMLAttributes<HTMLAnchorElement>,
-            keyof Omit<LinkProps, "href"> | keyof ButtonBaseProps
-        >,
-        Omit<LinkProps, "href" | keyof ButtonBaseProps> {
-    as: "link";
-    href: string;
-}
-
-export interface INativeButtonProps
-    extends Omit<
-        ButtonHTMLAttributes<HTMLButtonElement>,
-        keyof ButtonBaseProps
-    > {
-    as: "button";
-}
-
-export type ButtonProps = ButtonBaseProps &
-    (ILinkButtonProps | INativeButtonProps);
+export type ButtonBaseProps = ButtonVariantProps &
+    LoadingVariantProps & {
+        asChild?: boolean;
+    };
 
 const Button = forwardRef<
-    HTMLButtonElement | HTMLLinkElement,
-    PropsWithChildren<ButtonProps>
+    ElementRef<"button">,
+    ComponentPropsWithoutRef<"button"> & ButtonBaseProps
 >(function ButtonRef(
     {
         vtype,
@@ -126,9 +107,10 @@ const Button = forwardRef<
         className,
         loading,
         children,
+        asChild = false,
         ...props
     },
-    externalRef,
+    externalRef
 ) {
     const _cn = cn(
         btnVariants({
@@ -137,16 +119,15 @@ const Button = forwardRef<
             disabled: loading ? true : disabled,
             vsize,
         }),
-        className,
+        className
     );
-    const { as, ...restProps } = props;
-    const Comp = as === "link" ? Link : "button";
+    const Comp = asChild ? Slot : "button";
 
     if (loading) {
         return (
             <div tabIndex={-1} className={_cn}>
-                {<LoadingFormBtn className="absolute" />}
-                <div className="invisible">{children}</div>
+                <LoadingFormBtn className="absolute" />
+                <Comp className="invisible">{children}</Comp>
             </div>
         );
     }
@@ -156,18 +137,45 @@ const Button = forwardRef<
             ref={externalRef}
             tabIndex={disabled ? -1 : 0}
             className={_cn}
-            {...(restProps as any)}
-        >
+            {...props}>
             {children}
         </Comp>
     );
 });
 
-export interface IButton {
-    Root: ButtonProps;
-    Base: ButtonBaseProps;
-    Link: Omit<ILinkButtonProps, "as">;
-    Native: Omit<INativeButtonProps, "as">;
-}
+export const LinkButton = forwardRef<
+    ElementRef<typeof Link>,
+    Omit<ComponentPropsWithoutRef<typeof Link>, keyof ButtonBaseProps> &
+        ButtonBaseProps
+>(
+    (
+        {
+            children,
+            vtype,
+            vsize,
+            disabled,
+            clickable,
+            className,
+            loading,
+            ...props
+        },
+        externalRef
+    ) => {
+        return (
+            <Button
+                asChild
+                vtype={vtype}
+                vsize={vsize}
+                disabled={disabled!}
+                clickable={clickable}
+                className={className}
+                loading={loading}>
+                <Link {...props} ref={externalRef}>
+                    {children}
+                </Link>
+            </Button>
+        );
+    }
+);
 
 export default Button;

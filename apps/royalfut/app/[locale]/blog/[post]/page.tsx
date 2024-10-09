@@ -3,14 +3,10 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 "use client";
 import React, { useRef, useState } from "react";
-import { posts, redirectedCard, tags } from "@royalfut/collections";
+import { posts, tags } from "@royalfut/collections";
 import {
-    BannerCard,
     BlogCard,
     Dropdown,
-    H1WithBackImg,
-    HeadPage,
-    Offer,
     PostContentCard,
     StickyCoupon,
 } from "@royalfut/components";
@@ -19,6 +15,7 @@ import Image from "next/image";
 import { cn } from "@royalfut/utils";
 import { getTranslatesFromCsv, renderElement } from "../../../../utils/utils";
 
+// eslint-disable-next-line no-unused-vars, @typescript-eslint/no-unused-vars
 import styles from "./page.module.scss";
 
 const HtmlRenderer = ({ htmlObject }: { htmlObject: any }) => {
@@ -54,15 +51,13 @@ const Nav = ({
         <div className="flex gap-6 justify-center w-auto pt-4">
             <button
                 className="hover:opacity-80 min-w-[48px] w-auto"
-                onClick={() => scrollLeft()}
-            >
+                onClick={() => scrollLeft()}>
                 <Image
                     width={48}
                     height={48}
                     alt="left"
                     src={"/img/arrow_circle_right.svg"}
-                    className="w-12 h-12"
-                ></Image>
+                    className="w-12 h-12"></Image>
             </button>
             <div className="flex gap-1 items-center flex-wrap md:flex-nowrap transition-all duration-300 w-auto">
                 {bulls.map((el, i) => {
@@ -76,22 +71,19 @@ const Nav = ({
                                 {
                                     "bg-white w-[12px] h-[12px]": el.active,
                                 }
-                            )}
-                        ></button>
+                            )}></button>
                     );
                 })}
             </div>
             <button
                 className="rotate-180 hover:opacity-80 min-w-[48px] w-auto"
-                onClick={() => scrollRight()}
-            >
+                onClick={() => scrollRight()}>
                 <Image
                     width={48}
                     height={48}
                     alt="right"
                     src={"/img/arrow_circle_right.svg"}
-                    className="w-12 h-12"
-                ></Image>
+                    className="w-12 h-12"></Image>
             </button>
         </div>
     );
@@ -158,10 +150,9 @@ const Gallery = () => {
         <div className="flex flex-col">
             <div
                 ref={galleryRef}
-                className="max-w-screen w-full overflow-x-auto pb-6 scroll-smooth"
-            >
+                className="max-w-screen w-full overflow-x-auto pb-6 scroll-smooth">
                 <div className="grid grid-flow-col grid-rows-1 gap-4 w-max">
-                    {posts.map((el) => {
+                    {posts.map(el => {
                         el.width = "1";
                         return (
                             <BlogCard
@@ -191,81 +182,35 @@ const Index = ({ params }: { params: { post: string } }) => {
         };
         getTranslates();
     }, []);
-    const card = posts.filter((el) => String(el.slug) === params.post)[0];
+    const card = posts.filter(el => String(el.slug) === params.post)[0];
     return (
-        <div className="flex flex-col gap-6">
-            <div className="block w-auto h-auto bg-transparent md:hidden">
-                <HeadPage
-                    img={"/img/backH1mobile.png"}
-                    text={card.title}
-                    bread={{ post: card.title }}
-                    card={card}
-                />
-            </div>
-            <div className="hidden md:flex md:w-full md:h-auto md:opacity-100">
-                <HeadPage
-                    img={"/img/backH1desk.png"}
-                    text={card.title}
-                    bread={{ post: card.title }}
-                    card={card}
-                />
-            </div>
-            <div className="flex flex-col gap-10">
-                {/* {card && <PostContentCard card={card} tags={tags} />} */}
-                <div className="flex gap-6">
-                    <div className="flex flex-col gap-10 max-w-[1074px]">
-                        <div className="flex gap-8 w-auto h-auto">
-                            <div className="w-full rounded-2xl overflow-hidden h-[174px] min-h-[174px] md:h-[450px] relative">
-                                {card.cover && (
-                                    <Image
-                                        alt="cover post"
-                                        fill
-                                        objectFit="cover"
-                                        src={`/img/blog/${card.slug}/${card.pic1}.jpg`}
-                                    />
-                                )}
-                            </div>
-                        </div>
-                        <div className="flex flex-col gap-9">
-                            {card.body1 && (
-                                <HtmlRenderer htmlObject={card.body1} />
-                            )}
-                            <div className="flex w-full md:justify-center">
-                                <div className="max-w-[796px]">
-                                    <StickyCoupon coupon={"return5"} />
-                                </div>
-                            </div>
-                            <div className="w-full rounded-2xl overflow-hidden h-[174px] min-h-[174px] md:h-[450px] relative">
-                                {card.pic2 && (
-                                    <Image
-                                        alt="cover post"
-                                        fill
-                                        objectFit="cover"
-                                        src={`/img/blog/${card.slug}/${card.pic2}.jpg`}
-                                    />
-                                )}
-                            </div>
-                            {card.body2 && (
-                                <HtmlRenderer htmlObject={card.body2} />
-                            )}
-                            <div className="flex w-full">
-                                <div className="flex relative w-[150px] bg-transparent">
-                                    <Dropdown />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="sticky top-24 hidden md:flex max-h-[448px] min-w-[350px] md:w-auto md:h-auto md:opacity-100">
-                        <BannerCard card={redirectedCard} />
+        <div className="flex flex-col gap-10">
+            {card && <PostContentCard card={card} />}
+            <div className="flex flex-col gap-10 max-w-[812px]">
+                {card.body1 && <HtmlRenderer htmlObject={card.body1} />}
+                <StickyCoupon coupon={"return5"} />
+                <div className="w-full rounded-2xl overflow-hidden h-[174px] min-h-[174px] md:h-[450px] relative">
+                    {card.pic2 && (
+                        <Image
+                            alt="cover post"
+                            fill
+                            objectFit="cover"
+                            src={`/img/blog/${card.slug}/${card.pic2}.jpg`}
+                        />
+                    )}
+                </div>
+                {card.body2 && <HtmlRenderer htmlObject={card.body2} />}
+                <div className="flex w-full md:justify-end">
+                    <div className="flex relative w-[150px] bg-transparent">
+                        <Dropdown />
                     </div>
                 </div>
-                <Offer />
-                <div className="flex flex-col gap-6 pt-[32px]">
-                    <span className="text-[28px] font-bold md:text-[36px] leading-normal">
-                        Что еще почитать
-                    </span>
-                    <Gallery />
-                </div>
+            </div>
+            <div className="flex flex-col gap-6 pt-14 md:pt-[100px]">
+                <span className="text-[28px] font-bold md:text-[36px] leading-normal">
+                    Что еще почитать
+                </span>
+                <Gallery />
             </div>
         </div>
     );

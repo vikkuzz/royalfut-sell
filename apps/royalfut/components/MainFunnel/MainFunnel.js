@@ -33,9 +33,9 @@ const MainFunnel = () => {
                 <div dir={stateDir} className={`${styles.h1_container}`}>
                     <div className={`${styles.h1}`}>
                         <span className={`${styles.h1_white_text}`}>
-                            {t("preorder.newh1_1")}
+                            {t("newh1_1")}
                         </span>
-                        <h1>{t("preorder.newh1_2")}</h1>
+                        <h1>{t("newh1_4")}</h1>
 
                         <div
                             className={`${styles.background_coins} from-375-to-1024`}>

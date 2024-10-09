@@ -41,16 +41,18 @@ const Guide: FNCN<{
                     {
                         "bg-primary": isActive,
                         "border border-white-40 bg-black-background": !isActive,
-                    }
-                )}>
+                    },
+                )}
+            >
                 <span
                     className={cn(
                         "text-xl sm:text-base font-bold transition-colors duration-300",
                         {
                             "text-white": isActive,
                             // "text-white-40": !isActive,
-                        }
-                    )}>
+                        },
+                    )}
+                >
                     {step}
                 </span>
             </button>
@@ -61,7 +63,7 @@ const Guide: FNCN<{
                         {
                             "bg-white-40": !isActive || !isNextStepActive,
                             "bg-primary": isNextStepActive,
-                        }
+                        },
                     )}
                 />
             )}
@@ -69,14 +71,14 @@ const Guide: FNCN<{
                 <Button
                     onClick={onSetStep}
                     vtype="none"
-                    as="button"
                     className={cn(
                         "block text-3xl sm:text-2xl text-left font-bold leading-tight",
                         {
                             "text-white cursor-default": isActive,
                             // "text-white-40 cursor-pointer": !isActive,
-                        }
-                    )}>
+                        },
+                    )}
+                >
                     {title}
                 </Button>
                 <span
@@ -85,8 +87,9 @@ const Guide: FNCN<{
                         {
                             "text-white-60": isActive,
                             // "text-white-40": !isActive,
-                        }
-                    )}>
+                        },
+                    )}
+                >
                     {desc}
                 </span>
                 {children(isActive)}
@@ -105,13 +108,15 @@ const GuideContent: FNCNChildren<{ disable?: boolean }> = ({
             className={cn(
                 "flex w-full h-auto justify-end",
                 // { "opacity-30": disable },
-                className
-            )}>
+                className,
+            )}
+        >
             <div
                 style={{
                     boxShadow: "0px 8px 80px 0px rgba(137, 81, 242, 0.40)",
                 }}
-                className="relative flex w-full max-w-3xl h-full bg-black-1 rounded-xl overflow-hidden flex-shrink-0 flex-col items-center justify-center">
+                className="relative flex w-full max-w-3xl h-full bg-black-1 rounded-xl overflow-hidden flex-shrink-0 flex-col items-center justify-center"
+            >
                 {/* <EmptyImageIcon className="w-14 h-14 text-white-40" /> */}
                 {children}
             </div>
@@ -132,11 +137,13 @@ const ExplanationGuide = () => {
                     title="Place an order to withdraw coins from UT club"
                     isActive={activeStep >= 1}
                     shouldDrawLine
-                    isNextStepActive={activeStep > 1}>
-                    {isActive => (
+                    isNextStepActive={activeStep > 1}
+                >
+                    {(isActive) => (
                         <GuideContent
                             className="flex sm:hidden h-56 flex-none"
-                            disable={!isActive}>
+                            disable={!isActive}
+                        >
                             {
                                 <Image
                                     fill
@@ -156,11 +163,13 @@ const ExplanationGuide = () => {
                     title="Wait for the specified amount of coins to be transferred"
                     isActive={activeStep >= 2}
                     shouldDrawLine
-                    isNextStepActive={activeStep > 2}>
-                    {isActive => (
+                    isNextStepActive={activeStep > 2}
+                >
+                    {(isActive) => (
                         <GuideContent
                             className="flex sm:hidden h-56 flex-none"
-                            disable={!isActive}>
+                            disable={!isActive}
+                        >
                             {
                                 <Image
                                     fill
@@ -180,11 +189,13 @@ const ExplanationGuide = () => {
                     title="Complete funds withdrawal"
                     isActive={activeStep >= 3}
                     shouldDrawLine={false}
-                    isNextStepActive={activeStep > 3}>
-                    {isActive => (
+                    isNextStepActive={activeStep > 3}
+                >
+                    {(isActive) => (
                         <GuideContent
                             className="flex sm:hidden h-56 flex-none"
-                            disable={!isActive}>
+                            disable={!isActive}
+                        >
                             {
                                 <Image
                                     fill

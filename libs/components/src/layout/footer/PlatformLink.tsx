@@ -4,13 +4,13 @@ import { useCallback } from "react";
 import { useRouter } from "next/navigation";
 import { Button } from "@royalfut/ui";
 import { useTransferSelectorStore } from "@royalfut/store";
-import { PlatformSets, PROJECT_PUBLIC_ROUTES } from "@royalfut/collections";
+import { PlatformAppSets, PROJECT_PUBLIC_ROUTES } from "@royalfut/collections";
 
 import type { FC } from "react";
-import type { EPlatforms } from "@royalfut/enums";
+import type { EAppPlatforms } from "@royalfut/enums";
 
 interface IPlatformLinkProps {
-    id: EPlatforms;
+    id: EAppPlatforms;
 }
 
 const PlatformLink: FC<IPlatformLinkProps> = ({ id }) => {
@@ -24,11 +24,9 @@ const PlatformLink: FC<IPlatformLinkProps> = ({ id }) => {
 
     return (
         <Button
-            as="button"
             onClick={onRoutePlatform}
-            className="text-white-60 hover:text-white active:text-white text-base font-medium"
-        >
-            {PlatformSets[id].short_name}
+            className="text-white-60 hover:text-white active:text-white text-base font-medium">
+            {PlatformAppSets[id].name.v2 || PlatformAppSets[id].name.v1}
         </Button>
     );
 };

@@ -59,61 +59,40 @@ function Header({ locale }) {
 
                 <div
                     dir={stateDir}
-                    className={`${styles.header_links_wrapper}`}
-                >
+                    className={`${styles.header_links_wrapper}`}>
                     <div
                         dir={stateDir}
                         className={`${styles.header__buy_coins} ${
                             stateBuyOff && "disabled"
-                        } from-1025-to-1900`}
-                    >
+                        } from-1025-to-1900`}>
                         <BuyCoinsDropdown />
                     </div>
                     <div
                         className={`${styles.header__preset_orders} 
-                        from-1025-to-1900`}
-                    >
+                        from-1025-to-1900`}>
                         <Link
                             href={"/coins"}
-                            className={`${styles.header_presetorders} ${styles.header__links}`}
-                        >
+                            className={`${styles.header_presetorders} ${styles.header__links}`}>
                             {/* <Trans>pageCoinsBundles</Trans> */}
                             {t("headerlink.coin_bundles")}
                         </Link>
                     </div>
                     <div
-                        className={`${styles.header__delivery_container} from-1025-to-1900`}
-                    >
+                        className={`${styles.header__delivery_container} from-1025-to-1900`}>
                         <Link
                             href={"/reviews"}
-                            className={`${styles.header_delivery} ${styles.header__links}`}
-                        >
+                            className={`${styles.header_delivery} ${styles.header__links}`}>
                             {/* <Trans>header_reviews</Trans> */}
                             {t("headerlink.reviews")}
                         </Link>
                     </div>
                     <div
-                        className={`${styles.header__faq_container} from-1025-to-1900`}
-                    >
+                        className={`${styles.header__faq_container} from-1025-to-1900`}>
                         <Link
                             href={"/faq"}
-                            className={`${styles.header_faq} ${styles.header__links}`}
-                        >
+                            className={`${styles.header_faq} ${styles.header__links}`}>
                             {/* <Trans>seo4</Trans> */}
                             {t("headerlink.faq")}
-                        </Link>
-                    </div>
-                    <div
-                        className={`${styles.header__faq_container} from-1025-to-1900`}
-                    >
-                        <Link
-                            href={"/blog"}
-                            className={`${styles.header_faq} ${styles.header__links} items-center`}
-                        >
-                            Blog
-                            <div className="flex py-1 px-2 rounded-xl bg-[#EAB11F] ml-1 h-6 text-xs">
-                                NEW
-                            </div>
                         </Link>
                     </div>
                 </div>
@@ -124,24 +103,20 @@ function Header({ locale }) {
                     name="burger"
                     aria-label="Burger"
                     onClick={burgerToX}
-                    className={`${styles.header__burger} from-375-to-1024`}
-                >
+                    className={`${styles.header__burger} from-375-to-1024`}>
                     <div
                         className={`${styles.header__header_top} ${styles.header__divider} ${
                             modal && styles.header__top_divider_x
                         }
-            `}
-                    ></div>
+            `}></div>
                     <div
                         className={`${styles.header__header_center} ${styles.header__divider} ${
                             modal && styles.header__center_divider_x
-                        }`}
-                    ></div>
+                        }`}></div>
                     <div
                         className={`${styles.header__header_bottom} ${styles.header__divider} ${
                             modal && styles.header__bottom_divider_x
-                        }`}
-                    ></div>
+                        }`}></div>
                 </button>
 
                 <div className={`from-1025-to-1900`}>
@@ -154,8 +129,7 @@ function Header({ locale }) {
                                 onClick={() => {
                                     burgerToX();
                                 }}
-                                className={`${styles.user_auth}`}
-                            >
+                                className={`${styles.user_auth}`}>
                                 <Image
                                     alt="ava"
                                     className={`${styles.header_ava}`}
@@ -164,20 +138,18 @@ function Header({ locale }) {
                                     objectFit="contain"
                                     src={`${
                                         avatars.filter(
-                                            (el) =>
+                                            el =>
                                                 el.id ==
                                                 stateUser.profilePicture
                                         )[0]?.src || avatars[0].src
-                                    }`}
-                                ></Image>
+                                    }`}></Image>
                             </button>
                         </div>
                     ) : (
                         <div className={`${styles.login_btn_wrapper}`}>
                             <GradientBtn
                                 callback={burgerToX}
-                                size={{ width: 168, height: 48 }}
-                            >
+                                size={{ width: 168, height: 48 }}>
                                 <span className={styles.text_login}>
                                     {/* <Trans>seo5</Trans> */}
                                     {t("login")}

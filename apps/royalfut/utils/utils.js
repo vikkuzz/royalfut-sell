@@ -6,13 +6,13 @@ export async function getTranslatesFromCsv(posts) {
     const response = await fetch("/data/ultra_final.csv");
     const reader = response.body.getReader();
     const result = await reader.read(); // raw array
-
+    
     const decoder = new TextDecoder("utf-8");
-    const csv = decoder.decode(result.value);
+    const csv =  decoder.decode(result.value);
     let table = await csvJSON(csv);
     // Проверяем совпадения по полю slug
-    console.log(table);
-    const slugsInTable = new Set(table.map(item => item.slug)); // Собираем slugs из table
+    console.log(table)
+    const slugsInTable = new Set(table.map((item) => item.slug)); // Собираем slugs из table
     // const matchedPosts = posts.filter((post) => slugsInTable.has(post.slug)); // Находим совпадения в posts
 
     // Если нужно вывести совпадающие элементы
@@ -21,7 +21,7 @@ export async function getTranslatesFromCsv(posts) {
     // Если нужно объединить и удалить дубликаты на основании slug
     const uniquePosts = [
         ...table,
-        ...posts.filter(post => !slugsInTable.has(post.slug)),
+        ...posts.filter((post) => !slugsInTable.has(post.slug)),
     ];
 
     console.log("Массив без дубликатов:", uniquePosts);
@@ -44,12 +44,12 @@ export async function csvJSON(csv) {
         result.body1 = parseHTMLString(result.body1);
         result.body2 = parseHTMLString(result.body2);
         if (result.tags) {
-            result.tags = result.tags.split(",").map(el => el.toLowerCase());
+            result.tags = result.tags.split(",").map((el) => el.toLowerCase());
         } else {
             result.tags = [];
         }
         if (result.widgets) {
-            result.widgets = result.widgets.split(",").map(el => {
+            result.widgets = result.widgets.split(",").map((el) => {
                 if (el === "hot") {
                     return { text: "HOT", color: "red" };
                 }
@@ -63,11 +63,12 @@ export async function csvJSON(csv) {
             result.widgets = [];
         }
         if (result.slug) {
-            results.push(result);
-        }
+            results.push(result)
+        };
+        
     }
 
-    console.log(results);
+    console.log(results)
     return results;
 }
 export function parseHTMLString(htmlString) {
@@ -84,10 +85,7 @@ export function parseHTMLString(htmlString) {
                     : element.tagName.toLowerCase(),
             children: [],
             attributes: {
-                class:
-                    element.tagName.toLowerCase() === "body"
-                        ? styles.body1
-                        : "",
+                class: element.tagName.toLowerCase() === "body" ? styles.body1 : "",
                 key: (count += 1),
             },
         };
@@ -109,7 +107,7 @@ export function parseHTMLString(htmlString) {
         }
 
         // Добавляем атрибуты элемента
-        Array.from(element.attributes).forEach(attr => {
+        Array.from(element.attributes).forEach((attr) => {
             obj.attributes[attr.name] = attr.value;
         });
 
@@ -131,7 +129,7 @@ export function parseHTMLString(htmlString) {
 
         // Рекурсивно добавляем дочерние элементы, если элемент не самозакрывающийся
         if (!selfClosingTags.includes(obj.tag)) {
-            Array.from(element.childNodes).forEach(child => {
+            Array.from(element.childNodes).forEach((child) => {
                 if (child.nodeType === Node.ELEMENT_NODE) {
                     obj.children.push(elementToObject(child)); // Для элементов
                 } else if (
@@ -150,7 +148,7 @@ export function parseHTMLString(htmlString) {
     return elementToObject(doc.body);
 }
 
-export const renderElement = obj => {
+export const renderElement = (obj) => {
     if (!obj) return null;
 
     // Если это текстовый узел, возвращаем его содержимое

@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@royalfut/ui";
 import privacyText from "./privacyText";
 
 const Index = async () => {
@@ -12,9 +12,11 @@ const Index = async () => {
                     return (
                         <p
                             className={`text-sm text-slate-50 text-opacity-80 ${el.padding === true && "pb-5 "}`}
-                            key={i}>
+                            key={i}
+                        >
                             <span
-                                className={`w-auto pr-3 pl-3 ${el.marker === false && "hidden"}`}>
+                                className={`w-auto pr-3 pl-3 ${el.marker === false && "hidden"}`}
+                            >
                                 •
                             </span>
                             <span>{el.p}</span>
@@ -26,8 +28,9 @@ const Index = async () => {
                     is registered at{" "}
                     <Link
                         href="/termsold"
-                        target={"_blank"}
-                        className="underline underline-offset-2">
+                        target="_blank"
+                        className="underline underline-offset-2"
+                    >
                         https://royalfut.com
                     </Link>
                 </p>
@@ -38,7 +41,8 @@ const Index = async () => {
                         className="underline underline-offset-2"
                         href="mailto:support@royalfut.com"
                         target={"_blank"}
-                        rel="noreferrer">
+                        rel="noreferrer"
+                    >
                         support@royalfut.com
                     </a>
                 </p>

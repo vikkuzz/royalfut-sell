@@ -23,6 +23,8 @@ export namespace CreateOrder {
                 editable: boolean;
                 canPlace: boolean;
                 createdAt: string;
+                cashback?: number;
+                cashbackUsed?: number;
             }
         }
         export namespace Request {

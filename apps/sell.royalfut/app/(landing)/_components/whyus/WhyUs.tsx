@@ -16,12 +16,14 @@ const PhoneFrame: FNCNChildren = ({ children, className }) => {
                 "px-6 py-6",
                 "before:absolute before:w-1 before:h-16 before:rounded-tl-md before:rounded-bl-md before:-left-1 before:top-[35%] before:bg-black-background",
                 "after:absolute after:w-1 after:h-28 after:rounded-tr-md after:rounded-br-md after:-right-1 after:top-[30%] after:bg-black-background",
-                className
-            )}>
+                className,
+            )}
+        >
             <div
                 className={cn(
-                    "w-full h-full bg-black-shape rounded-[3rem] overflow-hidden px-6 py-9 relative"
-                )}>
+                    "w-full h-full bg-black-shape rounded-[3rem] overflow-hidden px-6 py-9 relative",
+                )}
+            >
                 <div className="w-full h-full overflow-visible">{children}</div>
             </div>
         </div>
@@ -45,8 +47,9 @@ const ProfileItem: FNCN<{
             <div
                 className={cn(
                     "w-16 h-16 relative rounded-full overflow-hidden",
-                    mapBgColors[color]
-                )}>
+                    mapBgColors[color],
+                )}
+            >
                 <Image
                     src={"/image/sharp-intersect1.svg"}
                     className="absolute !bottom-[-15%] !top-[unset] !left-[-18%]"
@@ -213,8 +216,9 @@ const WhyUs = () => {
                         <div
                             className={cn(
                                 "absolute bottom-3/4 sm:bottom-[27%] right-[-10%] sm:right-[10%] w-[140%] sm:w-[70%] h-[150%] sm:h-[70%] blur-[130px]",
-                                styles.gradientPhoneFrame
-                            )}></div>
+                                styles.gradientPhoneFrame,
+                            )}
+                        ></div>
                         <LinesMessIcon className="absolute bottom-0 sm:bottom-[10%] right-[-10%] sm:-right-8 w-[140%] sm:w-[110%] h-[150%] sm:h-full opacity-10" />
                         <PhoneFrame className="sm:ml-24">
                             <div className="w-full flex flex-col h-max will-change-transform loop-y-slider-inner">

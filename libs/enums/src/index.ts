@@ -1,3 +1,4 @@
+export * from "./core.enum";
 export * from "./locale.enum";
 export * from "./cookies.enum";
 export * from "./platform.enum";
@@ -7,3 +8,4 @@ export * from "./auth.enum";
 export * from "./payment.enum";
 export * from "./ui.enum";
 export * from "./app.enum";
+export * from "./loyalty.enum";

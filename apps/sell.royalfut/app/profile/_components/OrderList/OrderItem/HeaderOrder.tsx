@@ -13,7 +13,8 @@ const HeaderOrder = ({ order }: { order: IOrder }) => {
             type="button"
             name="share order"
             className="flex justify-between w-full"
-            onClick={() => setIsOpen(!isOpen)}>
+            onClick={() => setIsOpen(!isOpen)}
+        >
             <div>№ {order.id}</div>
             <div className="flex gap-1" data-state={isOpen ? "open" : "closed"}>
                 <div className="bg-white/[.1] px-2 py-1 text-xs text-white/75 rounded-full">
@@ -23,7 +24,7 @@ const HeaderOrder = ({ order }: { order: IOrder }) => {
                 <ArrowDownFilledIcon
                     className={cn(
                         "text-white transition-transform duration-300 w-6",
-                        { "rotate-180": isOpen }
+                        { "rotate-180": isOpen },
                     )}
                 />
             </div>

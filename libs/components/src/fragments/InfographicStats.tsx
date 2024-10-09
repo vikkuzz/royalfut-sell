@@ -2,7 +2,7 @@
 
 import { useRef } from "react";
 import { useMount } from "@lilib/hooks";
-import { useUIGlobalStore } from "@royalfut/store";
+import { useProjectGlobalStore } from "@royalfut/store";
 import CountUp from "./CountUp";
 import { cn } from "@royalfut/utils";
 
@@ -46,7 +46,7 @@ const InfographicCard: FC<IInfographicCardProps> = ({ item }) => (
             "before:w-3 before:h-full before:bg-transparent before:border-l before:border-l-white-20 before:absolute before:-left-3 lg:before:w-9 lg:before:-left-8",
             "first:before:!hidden max-[414px]:[&:nth-child(3n+1)]:before:hidden max-[414px]:[&:nth-child(4n+1)]:before:block max-[515px]:[&:nth-child(4n+1)]:before:hidden"
         )}>
-        <span className="flex w-full justify-center">
+        <span className="flex w-full justify-center" dir="ltr">
             {item.prefixText && (
                 <InfographicText variant="main" text={item.prefixText} />
             )}
@@ -62,10 +62,10 @@ const InfographicCard: FC<IInfographicCardProps> = ({ item }) => (
     </div>
 );
 
-const InfographicStats = () => {
+const InfographicStats = ({ dir }: { dir?: string }) => {
     const countUpRef = useRef<HTMLDivElement>(null);
-    const infographicItems = useUIGlobalStore(
-        state => state.pages.home.inforgraphic
+    const infographicItems = useProjectGlobalStore(
+        state => state.pages.home.infographic
     );
 
     useMount(() => {
@@ -76,6 +76,7 @@ const InfographicStats = () => {
 
     return (
         <div
+            dir={dir}
             ref={countUpRef}
             className="flex flex-wrap gap-6 lg:gap-16"
             data-module="countup">

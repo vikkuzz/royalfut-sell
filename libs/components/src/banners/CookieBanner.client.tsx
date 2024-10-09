@@ -30,13 +30,11 @@ export const CookieBannerForm = () => {
         <form className="flex flex-col mt-4" action={onSumbit}>
             <div className="flex items-center space-x-5">
                 <Button
-                    as="button"
                     type="submit"
                     className="[--bordered-box-linear-bg-1:hsl(var(--color-black-shape))] hover:text-white-60 transition-colors duration-300 border border-transparent rounded-md bordered-box-linear-accent-1 px-3 py-2 text-sm font-semibold text-white shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white-20">
                     {t("widget.action.1")}
                 </Button>
                 <Button
-                    as="button"
                     onClick={onRejectAll}
                     type="button"
                     className="text-sm font-semibold leading-6 text-white hover:text-white-60">
@@ -75,7 +73,7 @@ export const CookieBannerForm = () => {
                             name="analytics"
                             defaultChecked
                             checked={isOnAnalytics}
-                            onCheckedChange={(checked) =>
+                            onCheckedChange={checked =>
                                 setIsOnAnalytics(!!checked)
                             }
                         />

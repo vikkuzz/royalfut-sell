@@ -57,7 +57,7 @@ export const GoogleAnalytics: FC<IInjectedHostnames & IGAParams> = ({
 };
 
 export default function YandexMetrikaListener() {
-    useRouteChangeListener(url => window.ym(97304593, "hit", url));
+    useRouteChangeListener((url) => window.ym(97304593, "hit", url));
     return null;
 }
 

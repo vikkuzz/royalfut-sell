@@ -1,8 +1,8 @@
-import { OrderStepIds } from "@royalfut/enums";
-import { OrderTradeInfo } from "@royalfut/collections";
+import { OrderProcessManager } from "@royalfut/components";
+import { EOrderProcessingStepIds } from "@royalfut/enums";
+import { SELLER_OrderProcessingStepsInfo } from "@royalfut/collections";
 import { LockSecuredIcon } from "@royalfut/icons";
 import EALogin from "./EALogin";
-import OrderProcessManager from "../../_components/OrderProcessManager";
 
 import type { Metadata } from "next";
 
@@ -21,10 +21,13 @@ const AccountDetails = () => {
         <OrderProcessManager
             title="Account details"
             steps={{
-                active: OrderStepIds.ACCOUNT_DETAILS,
+                active: EOrderProcessingStepIds.SELLER_ACCOUNT_DETAILS,
                 availableSteps:
-                    OrderTradeInfo[OrderStepIds.ACCOUNT_DETAILS].allowSteps,
-            }}>
+                    SELLER_OrderProcessingStepsInfo[
+                        EOrderProcessingStepIds.SELLER_ACCOUNT_DETAILS
+                    ]!.allowSteps,
+            }}
+        >
             <div className="flex flex-col-reverse sm:flex-row sm:justify-between sm:w-full sm:self-center sm:space-x-10">
                 <div className="flex flex-col w-full sm:flex-none basis-[140%] sm:w-[23.25rem] sm:max-w-[23.25rem]">
                     <div>
@@ -47,8 +50,8 @@ const AccountDetails = () => {
                             <h3 className="text-2xl leading-7 flex-1 font-bold mr-14">
                                 Your data is secured
                             </h3>
-                            <div className="relative w-10 h-10 sm:flex-none rounded-full bg-white-10">
-                                <LockSecuredIcon className="text-extra-benefit4" />
+                            <div className="relative center w-10 h-10 sm:flex-none rounded-full bg-white-10">
+                                <LockSecuredIcon className="text-extra-benefit4 w-4 h-auto" />
                             </div>
                         </div>
                         <span className="block text-xs font-medium leading-4 text-white-40">
@@ -62,7 +65,8 @@ const AccountDetails = () => {
                                 return (
                                     <li
                                         key={idx}
-                                        className="flex items-center gap-1.5">
+                                        className="flex items-center gap-1.5"
+                                    >
                                         <span className="w-6 h-6 font-bold bg-extra-benefit4 text-xs flex items-center justify-center rounded-full flex-none text-white">
                                             {idx + 1}
                                         </span>

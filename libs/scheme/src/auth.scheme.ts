@@ -29,7 +29,7 @@ export const ZEAPasswordValidation = z
         message: "Password must contain at least one uppercase letter.",
     })
     .regex(/\d/, { message: "Password must contain at least one number." })
-    .refine((value) => !/\s/.test(value), {
+    .refine(value => !/\s/.test(value), {
         message: "Password contains an unsupported character (spaces).",
     });
 

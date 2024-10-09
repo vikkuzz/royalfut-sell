@@ -1,5 +1,6 @@
 import { createStore } from "zustand";
 import { EI18nIds } from "@royalfut/enums";
+import { DefaultAppSettings } from "@royalfut/collections";
 
 export interface II18nState {
     i18n: EI18nIds;
@@ -12,7 +13,7 @@ interface II18nAction {
 export type I18nStore = II18nState & II18nAction;
 
 const initialI18nState: II18nState = {
-    i18n: EI18nIds.ENGLISH,
+    i18n: DefaultAppSettings.i18n,
 };
 
 export const createI18nStore = (initState: II18nState = initialI18nState) => {

@@ -1,4 +1,3 @@
-// import Link from "next/link";
 import termsText from "./termsText";
 
 let count = 0;
@@ -33,7 +32,8 @@ const Index = async () => {
                         rel="nofollow"
                         href="/Terms_and_conditions_from_01_10_2020_01_10_2020_07_02_2021.pdf"
                         target={"_blank"}
-                        className="underline underline-offset-2 text-xl">
+                        className="underline underline-offset-2 text-xl"
+                    >
                         Terms and conditions from 01.10.2020 (01.10.2020 -
                         07.02.2021)
                     </a>
@@ -43,7 +43,8 @@ const Index = async () => {
                         rel="nofollow"
                         href="/Terms_and_conditions_from_08_02_2021_08_02_2021_03_06_2021.pdf"
                         target={"_blank"}
-                        className="underline underline-offset-2 text-xl">
+                        className="underline underline-offset-2 text-xl"
+                    >
                         Terms and conditions from 08.02.2021 (08.02.2021 -
                         03.06.2021)
                     </a>
@@ -53,7 +54,8 @@ const Index = async () => {
                         rel="nofollow"
                         href="/Privacy_Policy_from_01_10_2020_01_10_2020_07_02_2021.pdf"
                         target={"_blank"}
-                        className="underline underline-offset-2 text-xl">
+                        className="underline underline-offset-2 text-xl"
+                    >
                         Privacy Policy from 01.10.2020 (01.10.2020 - 07.02.2021)
                     </a>
                 </p>

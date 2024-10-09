@@ -4,7 +4,9 @@ import styles from "./StickySecondStep.module.scss";
 import GradientBtn from "../GradientBtn";
 import Image from "next/legacy/image";
 import { useDispatch, useSelector } from "react-redux";
-import { orderPriceAfterDiscount } from "../../redux/actions/royalfutOrderActions";
+import {
+    orderPriceAfterDiscount,
+} from "../../redux/actions/royalfutOrderActions";
 import DropdownOrder from "../DropdownOrder";
 import flagLangs from "../../data-elements/countriesTwo";
 import Link from "next/link";
@@ -79,11 +81,7 @@ const StickySecondStep = () => {
                             </span>
                         </div>
                     </div>
-                    <PointsBlock
-                        coins={stateOrderCoins}
-                        full={true}
-                        mobile={width <= 1024}
-                    />
+                    <PointsBlock coins={stateOrderCoins} full={true} mobile={width<=1024} />
                 </div>{" "}
                 <div className={`${styles.wrapper_btn} ${styles.margin_top}`}>
                     {stateCurrency.title == "RUB" &&
@@ -132,8 +130,7 @@ const StickySecondStep = () => {
                         <GradientBtn size={{ height: 56 }}>
                             <span className={`${styles.btn_text_wrapper}`}>
                                 <span className={`${styles.btn_text}`}>
-                                    {/* <Trans>ab94</Trans> */}
-                                    {t("preorder.buy")}
+                                    {t("ab94")}
                                 </span>
                                 <span className={`${styles.arrow_wrapper}`}>
                                     <Image

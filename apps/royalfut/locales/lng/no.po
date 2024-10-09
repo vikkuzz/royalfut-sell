@@ -416,7 +416,7 @@ msgid "a166"
 msgstr "*dataene er relevant til 1. oktober 2023"
 
 #~ msgid "a17"
-#~ msgstr "EA FC 25 Ultimate Team Store | EA Sports FC Mynter Butikken"
+#~ msgstr "EA FC 24 Ultimate Team Store | EA Sports FC Mynter Butikken"
 
 #~ msgid "a18"
 #~ msgstr "Du skal få"
@@ -651,7 +651,7 @@ msgid "a69"
 msgstr "2. Betal for bestillingen."
 
 #~ msgid "a7"
-#~ msgstr "FC 25 mynter"
+#~ msgstr "FC 24 mynter"
 
 #: components/CustomAccordion/CustomAccordion.js:171
 msgid "a70"
@@ -784,10 +784,10 @@ msgid "aa0_1"
 msgstr "Spesialtilbud"
 
 #~ msgid "aa1"
-#~ msgstr "Rabatt til lansering av EA FC 25 -7%"
+#~ msgstr "Rabatt til lansering av EA FC 24 -7%"
 
 #~ msgid "aa10"
-#~ msgstr "Kjøp EA FC 25-mynter til [[X]]"
+#~ msgstr "Kjøp EA FC 24-mynter til [[X]]"
 
 #~ msgid "aa2"
 #~ msgstr "Bruk denne kupongen og få rabatt på din neste bestilling"
@@ -805,7 +805,7 @@ msgstr "Trenger du spill booster? Vi kan hjelpe deg!"
 
 #: pages/wl-boost.js:79
 msgid "aa6"
-msgstr "Vi tilbyr deg: EA FC 25 Ultimate Team Finals rangeringsøkning, UT Champion Finaler, UT Champion Cup, Divisions Rivals. Kom i kontakt med oss nå og få den beste prisen!"
+msgstr "Vi tilbyr deg: EA FC 24 Ultimate Team Finals rangeringsøkning, UT Champion Finaler, UT Champion Cup, Divisions Rivals. Kom i kontakt med oss nå og få den beste prisen!"
 
 #~ msgid "aa7"
 #~ msgstr "Vi kommer tilbake i:"
@@ -814,7 +814,7 @@ msgstr "Vi tilbyr deg: EA FC 25 Ultimate Team Finals rangeringsøkning, UT Champ
 #~ msgstr "Gjør seg klar for ny sesong"
 
 #~ msgid "aa9"
-#~ msgstr "Kjøp EA FC 25-mynter til Ultimate Team Klubben din"
+#~ msgstr "Kjøp EA FC 24-mynter til Ultimate Team Klubben din"
 
 #~ msgid "ab0"
 #~ msgstr ""
@@ -1206,7 +1206,7 @@ msgstr "Trenger du hjelp? Vår kundestøtte er alltid glad å hjelpe deg"
 
 #: components/Offer/Offer.js:82
 msgid "ab91"
-msgstr "Hvis du er lei av å skaffe seg FC 25-mynter, har vi en perfektlavkostløsning for deg! Møt ROYALFUT.com, den mest sikre EA FC-myntbutikken med mange års erfaring på dette feltet. Denne topprangerte markedsplassen tilbyr de laveste prisene for FIFA 25-mynter på nettet og kan garantere rask levering og 100 % sikkerhet for kontoen din. Kjøp av FC-mynter hos ROYALFUT er det rimeligste og mest legitime alternativet som hjelper deg å gjøre spillet enda morsommere uten risiko og noen ubehagelige konsekvenser. Regelmessige rabatter på Ultimate Team-mynter i butikken vår gjør våre allerede attraktive priser enda lavere, slik at du kan gjøre de mest lønnsomme avtalene i spillet. ROYALFUT-plattformen er ikke bare 100 % trygg når det gjelder deres FUT-mynter for salg, men den er også kjent for fantastisk kundestøtte som alltid vil hjelpe deg med alle spørsmål eller problemer du kansje har. Det er ganske sjelden i disse dager å finne en legit UT 25-myntbutikk, men ROYALFUT.com er uten tvil en av dem. Det er absolutt det beste stedet for deg hvis du ønsker å kjøpe Ultimate Team-mynter for PC, PS4, PS5, Xbox One, Xbox Series X eller Xbox Series S med 100 % trygg betalinge og umiddelbar levering."
+msgstr "Hvis du er lei av å skaffe seg FC 24-mynter, har vi en perfektlavkostløsning for deg! Møt ROYALFUT.com, den mest sikre EA FC-myntbutikken med mange års erfaring på dette feltet. Denne topprangerte markedsplassen tilbyr de laveste prisene for FIFA 24-mynter på nettet og kan garantere rask levering og 100 % sikkerhet for kontoen din. Kjøp av FC-mynter hos ROYALFUT er det rimeligste og mest legitime alternativet som hjelper deg å gjøre spillet enda morsommere uten risiko og noen ubehagelige konsekvenser. Regelmessige rabatter på Ultimate Team-mynter i butikken vår gjør våre allerede attraktive priser enda lavere, slik at du kan gjøre de mest lønnsomme avtalene i spillet. ROYALFUT-plattformen er ikke bare 100 % trygg når det gjelder deres FUT-mynter for salg, men den er også kjent for fantastisk kundestøtte som alltid vil hjelpe deg med alle spørsmål eller problemer du kansje har. Det er ganske sjelden i disse dager å finne en legit UT 24-myntbutikk, men ROYALFUT.com er uten tvil en av dem. Det er absolutt det beste stedet for deg hvis du ønsker å kjøpe Ultimate Team-mynter for PC, PS4, PS5, Xbox One, Xbox Series X eller Xbox Series S med 100 % trygg betalinge og umiddelbar levering."
 
 #: pages/order/index.js:115
 #: pages/order/pc.js:82
@@ -1215,7 +1215,7 @@ msgstr "Hvis du er lei av å skaffe seg FC 25-mynter, har vi en perfektlavkostl�
 #: pages/order/xbox_one.js:82
 #: pages/order/xbox_xs.js:82
 msgid "ab92"
-msgstr "Kjøp FC 25 Ultimate Team mynter"
+msgstr "Kjøp FC 24 Ultimate Team mynter"
 
 #: components/Order/Steps.js:14
 #: components/Order/Steps.js:56
@@ -1383,11 +1383,11 @@ msgstr ""
 #: pages/coins/[id].js:177
 #: pages/coins/[id].js:192
 msgid "coins_page18"
-msgstr "[[X]] FC 25 Ultimate Team mynter"
+msgstr "[[X]] FC 24 Ultimate Team mynter"
 
 #: pages/coins/[id].js:201
 msgid "coins_page19"
-msgstr "Kjøp EA FC 25-mynter på nett fra den mest pålitelige butikken på markedet - ROYALFUT. Selg av FIFA Ultimate Team-varer har vært vår spesialitet i mer enn 7 år. Vårt mål er å gi våre kunder de beste tilbudene og sikreste FC UT-myntoverføringer. Der er lett og hyggelig å handle på ROYALFUT fordi vi har intuitivt grensesnitt, sikre betalingsmetoder og oppmerksom kundestøtte."
+msgstr "Kjøp EA FC 24-mynter på nett fra den mest pålitelige butikken på markedet - ROYALFUT. Selg av FIFA Ultimate Team-varer har vært vår spesialitet i mer enn 7 år. Vårt mål er å gi våre kunder de beste tilbudene og sikreste FC UT-myntoverføringer. Der er lett og hyggelig å handle på ROYALFUT fordi vi har intuitivt grensesnitt, sikre betalingsmetoder og oppmerksom kundestøtte."
 
 #: components/TableOrders/TableItem.js:409
 msgid "coins_page2"
@@ -1429,7 +1429,7 @@ msgstr "Tilgang til EA-kontoen din"
 
 #: pages/coins/[id].js:266
 msgid "coins_page29"
-msgstr "– hvis du har lisensiert kopi av EA Sports FC 25 for PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Series X eller PC (kjøpt enten som en fysisk CD eller digitalt kopi via EA App, Steam eller Epic Games Store), har du flaks, for nå alt vi trenger for å få tilgang til Ultimate Team-klubben din er EA-kontodetaljene dine som inkluderer e-postadresse, passord og noen reservekoder. Du kan være sikker at vi lagrer ikke dataene dine og de slettes etter at vi fullfører hver bestilling."
+msgstr "– hvis du har lisensiert kopi av EA Sports FC 24 for PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Series X eller PC (kjøpt enten som en fysisk CD eller digitalt kopi via EA App, Steam eller Epic Games Store), har du flaks, for nå alt vi trenger for å få tilgang til Ultimate Team-klubben din er EA-kontodetaljene dine som inkluderer e-postadresse, passord og noen reservekoder. Du kan være sikker at vi lagrer ikke dataene dine og de slettes etter at vi fullfører hver bestilling."
 
 #~ msgid "coins_page3"
 #~ msgstr "Overgangsobjekter"
@@ -1559,7 +1559,7 @@ msgstr "Anmeldelser"
 
 #: components/MainFunnel/MainFunnel.js:44
 #~ msgid "home:newh1_2"
-#~ msgstr "FC 25 "
+#~ msgstr "FC 24 "
 
 #: components/MainFunnel/MainFunnel.js:47
 #~ msgid "home:newh1_3"
@@ -1568,7 +1568,7 @@ msgstr "Anmeldelser"
 #: components/MainFunnel/MainFunnel.js:32
 #: components/MainFunnel/MainFunnel.js:53
 #~ msgid "home:newh1_4"
-#~ msgstr "FC 25 Mynter"
+#~ msgstr "FC 24 Mynter"
 
 #: components/MainFunnel/MainFunnel.js:33
 msgid "home:title"
@@ -1740,7 +1740,7 @@ msgstr "Denne kupongen har blitt brukt"
 #~ msgstr "Delivery method:"
 
 #~ msgid "locales.deliverytext"
-#~ msgstr " tilbyr et unikt system for levering av EA FC 25-mynter. Vi samarbeider med et rekordstort antall myntforhandlere. Når vi behandler bestillingen din, følger vi spesielle regler som garanterer kontoen din mot sanksjoner fra EA. Du finner noen av disse reglene nedenfor:"
+#~ msgstr " tilbyr et unikt system for levering av EA FC 24-mynter. Vi samarbeider med et rekordstort antall myntforhandlere. Når vi behandler bestillingen din, følger vi spesielle regler som garanterer kontoen din mot sanksjoner fra EA. Du finner noen av disse reglene nedenfor:"
 
 #~ msgid "locales.deliverytitle"
 #~ msgstr "Leverings"
@@ -1821,16 +1821,16 @@ msgstr "Plattform"
 #~ msgstr "Det tryggeste alternativet for "
 
 #~ msgid "locales.h1_2"
-#~ msgstr "Kjøp FC 25-mynter"
+#~ msgstr "Kjøp FC 24-mynter"
 
 #~ msgid "locales.h1_coins"
-#~ msgstr "Din hovedledsager i EA FC 25 Ultimate Team Store"
+#~ msgstr "Din hovedledsager i EA FC 24 Ultimate Team Store"
 
 #~ msgid "locales.h1_p1"
 #~ msgstr "Din hovedledsager i "
 
 #~ msgid "locales.h1_p2"
-#~ msgstr "EA FC 25 Ultimate Team Store"
+#~ msgstr "EA FC 24 Ultimate Team Store"
 
 #~ msgid "locales.haveCoupon"
 #~ msgstr "Har en kupong"
@@ -1935,7 +1935,7 @@ msgstr "Leverings"
 #~ msgstr "så vi leverer mynter døgnet rundt."
 
 #~ msgid "locales.menuLinkDescDisabled"
-#~ msgstr "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋"
+#~ msgstr "Sales of EA FC 24 coins is now closed. <br/>See you in EA FC 24 season  👋"
 
 #~ msgid "locales.menulinkfaq"
 #~ msgstr "VANLIGE SPØRSMÅL"
@@ -2072,7 +2072,7 @@ msgstr "Bestill nå"
 #~ msgstr "Eller betal med krypto"
 
 #~ msgid "locales.p1"
-#~ msgstr "Dette gjør at vi kan tilby den sikreste måten å kjøpe EA FC 25-mynter på på hele internett."
+#~ msgstr "Dette gjør at vi kan tilby den sikreste måten å kjøpe EA FC 24-mynter på på hele internett."
 
 #~ msgid "locales.p2"
 #~ msgstr "Følg instruksjonene på nettstedet, eller instruksjonene du får fra manageren i live-chat, for å motta myntene så raskt som mulig."
@@ -2109,7 +2109,7 @@ msgstr "Etter betalingen er gjennomført, blir du tatt med til en side med to fe
 #~ msgstr "Etter at betaling blir utført, skal du få instruksene for kjøp av spillerkort. Du kjøper spillerkort til markedspriser, og vi kjøper dem fra deg til priser som er flere ganger høyere enn markedspriser."
 
 #~ msgid "locales.pageCoinsAfterSuccessfull"
-#~ msgstr "Etter at betaling blir utført, skal vi forespørre en engangstilgang til EA-profilen din. Vi trenger din e-post, passord og engangsreservekode. Ved å bruke disse dataene vil vi logge inn på FC 25 Web App for å starte kjøps- og salgstransaksjoner på Spillerauksjoner. Vi kjøper spillerkort til markedspriser og stiller dem deretter up på Spillerauksjoner for høyere priser. Etter det vil de bli kjøpt av våre FUT-klubber."
+#~ msgstr "Etter at betaling blir utført, skal vi forespørre en engangstilgang til EA-profilen din. Vi trenger din e-post, passord og engangsreservekode. Ved å bruke disse dataene vil vi logge inn på FC 24 Web App for å starte kjøps- og salgstransaksjoner på Spillerauksjoner. Vi kjøper spillerkort til markedspriser og stiller dem deretter up på Spillerauksjoner for høyere priser. Etter det vil de bli kjøpt av våre FUT-klubber."
 
 #: components/HowDelivery/Howdelivery.js:97
 msgid "locales.pageCoinsAfterSuccessfully"
@@ -2160,7 +2160,7 @@ msgstr "KJØP EN SPILLER"
 #~ msgstr "Vi skal ikke til flytte eller selge noen av kortene fra klubben din, det er derfor vi trenger at du har minst 5000 mynter på kontoen din for å starte transaksjonen. Det er nødvendig å ha dette antallet av mynter slik at det blir mulig å kjøpe flere kort for å starte myntleveringsprosessen. EA-provisjons trukket på FIFA Spillerauksjoner vil bli fullt erstatt av oss, så vel som den første begynnelsesbalansen av mynter av klubben din."
 
 #~ msgid "locales.pageCoinsCompleteTransactions"
-#~ msgstr "Når du kjøper mynter på ROYALFUT-nettstedet, blir du guidet gjennom alle enkle og greie etappene av myntoverføring ved hjelp av nettstedets grensesnitt. Du må utføre en rekke transaksjoner på Spillerauksjoner, enten gjennom FIFA-menyen i spillet på konsollen eller gjennom grensesnittet FC 25 Web App / FUT Companion App."
+#~ msgstr "Når du kjøper mynter på ROYALFUT-nettstedet, blir du guidet gjennom alle enkle og greie etappene av myntoverføring ved hjelp av nettstedets grensesnitt. Du må utføre en rekke transaksjoner på Spillerauksjoner, enten gjennom FIFA-menyen i spillet på konsollen eller gjennom grensesnittet FC 24 Web App / FUT Companion App."
 
 #~ msgid "locales.pageCoinsConditions"
 #~ msgstr "Hvilke betingelser må jeg oppfylle for å ha en mulighet å fylle på min myntkontoen?"
@@ -2289,7 +2289,7 @@ msgstr "Den første delen av overføringen er over, og nå må du gjenta de fore
 #~ msgstr "Etter at du har fylt inn dataene dine, begynner vi å utføre ordren og det skal ta oss litt tid (leveringstid blir anvist før betaling). Men hvis påloggingsinformasjonen eller passordet som du har gitt oss er feil, eller det er et annet problem som hindrer oss i å logge inn profilen din, vil vi straks informere deg om dette via e-post."
 
 #~ msgid "locales.pageCoinsLockedMarket"
-#~ msgstr "Hvis Spillerauksjoner i FC 25 Web App er låst, endre leveransemetoden til \"Spillerauksjon\"."
+#~ msgstr "Hvis Spillerauksjoner i FC 24 Web App er låst, endre leveransemetoden til \"Spillerauksjon\"."
 
 #~ msgid "locales.pageCoinsLogin"
 #~ msgstr "LOGG INN"
@@ -2375,13 +2375,13 @@ msgstr "For å starte leveringsprosessen fyller du ut feltene med reservekodene 
 #~ msgstr "TIL KASSEN"
 
 #~ msgid "locales.pageCoinsTransferMarket"
-#~ msgstr "du må låse opp Spillerauksjoner på FC 25 Web App (bare for Smidig leveransemetode)."
+#~ msgstr "du må låse opp Spillerauksjoner på FC 24 Web App (bare for Smidig leveransemetode)."
 
 #~ msgid "locales.pageCoinsUltimateTeam"
 #~ msgstr "<span class=\"js-change-coins\">$ {coins}</span> FIFA Ultimate Team Mynter"
 
 #~ msgid "locales.pageCoinsUseInstructions"
-#~ msgstr "Alle operasjoner utføres strengt i henhold til den interaktive instruksjonen på nettstedet vårt med ekstra bruk av FIFA-menyen i spillet på konsollen din eller grensesnittet av FC 25 Web App / FUT Companion App."
+#~ msgstr "Alle operasjoner utføres strengt i henhold til den interaktive instruksjonen på nettstedet vårt med ekstra bruk av FIFA-menyen i spillet på konsollen din eller grensesnittet av FC 24 Web App / FUT Companion App."
 
 #~ msgid "locales.pageCoinsUseService"
 #~ msgstr "For å bruke sørvisen må du oppfylle bare et par betingelser:"
@@ -2654,10 +2654,10 @@ msgstr "Se passordet ditt"
 #~ msgstr "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FUT-mynter til Xbox Series X/S fra oss med tillit til å få det beste tilbudet."
 
 #~ msgid "locales.seo11"
-#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til Xbox-konsoller? Kontakt oss på en måte som passer deg."
+#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 24-mynter til Xbox-konsoller? Kontakt oss på en måte som passer deg."
 
 #~ msgid "locales.seo2"
-#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til PlayStation-konsoller? Kontakt oss på en måte som passer deg."
+#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 24-mynter til PlayStation-konsoller? Kontakt oss på en måte som passer deg."
 
 #~ msgid "locales.seo3"
 #~ msgstr "Vi har de beste tilbudene på FIFA-mynter til PlayStation 5. Vi tilbyr billige FIFA-mynter til PS5 med rask levering og sikkerhetsgaranti til kontoen din UTEN EKSTRA AVGIFTER."
@@ -2666,7 +2666,7 @@ msgstr "Se passordet ditt"
 #~ msgstr "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FUT-mynter til PS5 fra oss med tillit til å få det beste tilbudet."
 
 #~ msgid "locales.seo5"
-#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til PlayStation-konsoller? Kontakt oss på en måte som passer deg."
+#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 24-mynter til PlayStation-konsoller? Kontakt oss på en måte som passer deg."
 
 #~ msgid "locales.seo6"
 #~ msgstr "Vi har de beste tilbudene på FIFA-mynter til Xbox One. Vi tilbyr billige FIFA-mynter med rask levering og sikkerhetsgaranti til kontoen din UTEN EKSTRA AVGIFTER."
@@ -2675,7 +2675,7 @@ msgstr "Se passordet ditt"
 #~ msgstr "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FUT-mynter til Xbox One fra oss med tillit til å få det beste tilbudet."
 
 #~ msgid "locales.seo8"
-#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til Xbox-konsoller? Kontakt oss på en måte som passer deg."
+#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 24-mynter til Xbox-konsoller? Kontakt oss på en måte som passer deg."
 
 #~ msgid "locales.seo9"
 #~ msgstr "Vi har de beste tilbudene på FIFA-mynter til Xbox Series X. Vi tilbyr billige FIFA-mynter til Xbox Series S med rask levering og sikkerhetsgaranti til kontoen din UTEN EKSTRA AVGIFTER."
@@ -2772,7 +2772,7 @@ msgstr "Status"
 #~ msgstr "låse"
 
 #~ msgid "locales.status.no_access_to_fifa_21_webapp"
-#~ msgstr "Ingen tilgang til EA FC 25-NETTAPPEN"
+#~ msgstr "Ingen tilgang til EA FC 24-NETTAPPEN"
 
 #~ msgid "locales.status.no_enough_coins_to_start"
 #~ msgstr "IKKE NOK MYNTER TIL Å KUNNE STARTE"
@@ -2814,10 +2814,10 @@ msgstr "Status"
 #~ msgstr "FEIL OPPLYSNINGER"
 
 #~ msgid "locales.sublogo"
-#~ msgstr "EA FC 25 mynter"
+#~ msgstr "EA FC 24 mynter"
 
 #~ msgid "locales.sublogo2"
-#~ msgstr "EA FC 25 PRODUKTER"
+#~ msgstr "EA FC 24 PRODUKTER"
 
 #~ msgid "locales.succPaid"
 #~ msgstr "Bestillingen din har blitt betalt!"
@@ -2907,7 +2907,7 @@ msgstr "Skap ditt eget Drømmelag"
 #: components/Carusel/Carusel.js:110
 #: components/Carusel/Carusel.js:140
 msgid "mainblocks1"
-msgstr "Hvis du bruker EA Sports FC 25, kan du velge de beste mulige alternativene for hver posisjon i laget ditt. Gi fantasien frie tøyler, prøv nye metoder og eksperimenter!"
+msgstr "Hvis du bruker EA Sports FC 24, kan du velge de beste mulige alternativene for hver posisjon i laget ditt. Gi fantasien frie tøyler, prøv nye metoder og eksperimenter!"
 
 #: components/Carusel/Carusel.js:87
 #: components/Modal/Modal.js:169
@@ -2930,7 +2930,7 @@ msgstr "Finn oss"
 #~ msgstr "Din favoritbutikk"
 
 #~ msgid "mainblocks14"
-#~ msgstr "for å få EA FC 25"
+#~ msgstr "for å få EA FC 24"
 
 #~ msgid "mainblocks15"
 #~ msgstr "Mynter og"
@@ -2941,7 +2941,7 @@ msgstr "Den beste butikken"
 
 #: components/H1/H1.js:13
 msgid "mainblocks17"
-msgstr "for å kjøpe FC 25"
+msgstr "for å kjøpe FC 24"
 
 #: components/H1/H1.js:16
 msgid "mainblocks18"
@@ -2959,7 +2959,7 @@ msgstr "Få de mest interessante kort"
 #~ msgstr "for å kjøpe"
 
 #~ msgid "mainblocks21"
-#~ msgstr "FC 25 Ultimate Team Mynter"
+#~ msgstr "FC 24 Ultimate Team Mynter"
 
 #: components/Offer/Offer.js:29
 msgid "mainblocks22"
@@ -2967,7 +2967,7 @@ msgstr "Den sikreste måten å kjøpe"
 
 #: components/Offer/Offer.js:32
 msgid "mainblocks23"
-msgstr "FIFA 25 Mynter"
+msgstr "FIFA 24 Mynter"
 
 #: components/ReviewsGallery/ReviewsGallery.js:71
 msgid "mainblocks24"
@@ -3048,21 +3048,21 @@ msgstr "Les mer.        "
 #~ msgstr "Den sikreste måten å kjøpe"
 
 #~ msgid "newh1_2"
-#~ msgstr "FC 25 "
+#~ msgstr "FC 24 "
 
 #~ msgid "newh1_3"
 #~ msgstr "Mynter"
 
 #: components/MainFunnel/MainFunnel.js:46
 msgid "newh1_4"
-msgstr "FC 25 Mynter"
+msgstr "FC 24 Mynter"
 
 #: components/Cookie/Cookie.js:52
 msgid "okay"
 msgstr "Ok"
 
 #~ msgid "orderh1"
-#~ msgstr "Buy FC 25 Ultimate Team coins"
+#~ msgstr "Buy FC 24 Ultimate Team coins"
 
 #~ msgid "orderinfo"
 #~ msgstr "Order info"
@@ -3440,11 +3440,11 @@ msgstr "Getting ready for the new season"
 #: components/MainContainer.js:602
 #: components/MainContainer.js:608
 msgid "seo:root:description"
-msgstr "Den beste butikken å kjøpe EA SPORTS FC 25-mynter ✔ Kjøp EA FC 25-mynter for PS 4/5, Xbox One/X/S 🎮 Rask levering og 24/7-kundestøtte⚡100% sikre betalinger 🔒 Trygt sted å kjøpe billige Ultimate Team mynter 😉"
+msgstr "Den beste butikken å kjøpe EA SPORTS FC 24-mynter ✔ Kjøp EA FC 24-mynter for PS 4/5, Xbox One/X/S 🎮 Rask levering og 24/7-kundestøtte⚡100% sikre betalinger 🔒 Trygt sted å kjøpe billige Ultimate Team mynter 😉"
 
 #: pages/_app.js:25
 msgid "seo:root:title"
-msgstr "Kjøp FC 25-mynter til Alle Plattformer | Ultimate Team Coin Butikk"
+msgstr "Kjøp FC 24-mynter til Alle Plattformer | Ultimate Team Coin Butikk"
 
 #~ msgid "seo0"
 #~ msgstr "Norsk"
@@ -3485,7 +3485,7 @@ msgstr "Jeg har minst 5000 Ultimate Team-mynter på kontoen min"
 
 #: components/InputChecker/InputChecker.js:110
 msgid "seo106"
-msgstr "Jeg har logget ut av Ultimate Team på konsollen min og jeg bruker ikke FC 25 Web App / FC Companion App på andre enheter"
+msgstr "Jeg har logget ut av Ultimate Team på konsollen min og jeg bruker ikke FC 24 Web App / FC Companion App på andre enheter"
 
 #: components/InputChecker/InputChecker.js:136
 msgid "seo107"
@@ -3715,7 +3715,7 @@ msgstr "Klikk nedenfor for å starte manuell myntoverføring"
 
 #: components/TableOrders/TableItem.js:377
 msgid "seo163"
-msgstr "Sørg for at du ikke logger på Ultimate Team på konsollen og andre enheter via FC 25 Web App / FC Companion App før bestillingen er fullført."
+msgstr "Sørg for at du ikke logger på Ultimate Team på konsollen og andre enheter via FC 24 Web App / FC Companion App før bestillingen er fullført."
 
 #: components/TableOrders/TableItem.js:384
 msgid "seo164"
@@ -3804,11 +3804,11 @@ msgstr "Logg ut av kontoen din slik at vi kan starte å overføre mynter"
 
 #: components/TableOrders/TableItem.js:438
 msgid "seo181"
-msgstr "Online i FC 25 Web App"
+msgstr "Online i FC 24 Web App"
 
 #: components/TableOrders/TableItem.js:441
 msgid "seo182"
-msgstr "Logg ut av FC 25 Web App / FC Companion App slik at vi kan starte å overføre mynter"
+msgstr "Logg ut av FC 24 Web App / FC Companion App slik at vi kan starte å overføre mynter"
 
 #~ msgid "seo183"
 #~ msgstr "Innloggingsverifisering"
@@ -3833,7 +3833,7 @@ msgstr "Sørg for at du har aktivert innloggingsverifisering i EA-kontoen din"
 #: components/TableOrders/TableItem.js:314
 #: components/TableOrders/TableItem.js:324
 msgid "seo189"
-msgstr "Ingen overgangsmarkedet i FC 25 Web App"
+msgstr "Ingen overgangsmarkedet i FC 24 Web App"
 
 #~ msgid "seo19"
 #~ msgstr "Mangeårige erfaring"
@@ -3841,15 +3841,15 @@ msgstr "Ingen overgangsmarkedet i FC 25 Web App"
 #: components/TableOrders/TableItem.js:317
 #: components/TableOrders/TableItem.js:327
 msgid "seo190"
-msgstr "Sørg for at du har tilgang til overgangsmarkedet i FC 25 Web App slik at vi kan starte levering"
+msgstr "Sørg for at du har tilgang til overgangsmarkedet i FC 24 Web App slik at vi kan starte levering"
 
 #: components/TableOrders/TableItem.js:304
 msgid "seo191"
-msgstr "Ingen klubb i FC 25 Web App"
+msgstr "Ingen klubb i FC 24 Web App"
 
 #: components/TableOrders/TableItem.js:307
 msgid "seo192"
-msgstr "Sørg for at du setter opp klubben din i FC 25 Web App slik at vi kan starte å overføre mynter"
+msgstr "Sørg for at du setter opp klubben din i FC 24 Web App slik at vi kan starte å overføre mynter"
 
 #: components/TableOrders/TableItem.js:294
 msgid "seo193"
@@ -3973,55 +3973,55 @@ msgstr "Se mer"
 #~ msgstr "Hvordan fungerer levering?"
 
 #~ msgid "seo232"
-#~ msgstr "EA FC 25 Ultimate Team Butikk | EA SPORTS FC 25 Butikk"
+#~ msgstr "EA FC 24 Ultimate Team Butikk | EA SPORTS FC 24 Butikk"
 
 #~ msgid "seo233"
-#~ msgstr "Den beste butikken å kjøpe EA SPORTS FC 25-mynter ✔ Kjøp EA FC 25-mynter for PS 4/5, Xbox One/X/S 🎮 Rask levering og 24/7-kundestøtte⚡100% sikre betalinger 🔒 Trygt sted å kjøpe billige Ultimate Team mynter 😉"
+#~ msgstr "Den beste butikken å kjøpe EA SPORTS FC 24-mynter ✔ Kjøp EA FC 24-mynter for PS 4/5, Xbox One/X/S 🎮 Rask levering og 24/7-kundestøtte⚡100% sikre betalinger 🔒 Trygt sted å kjøpe billige Ultimate Team mynter 😉"
 
 #~ msgid "seo234"
-#~ msgstr "Kjøp billige EA FC 25 Ultimate Team mynter på nett | FUT-mynter til salgs på lave priser"
+#~ msgstr "Kjøp billige EA FC 24 Ultimate Team mynter på nett | FUT-mynter til salgs på lave priser"
 
 #~ msgid "seo235"
-#~ msgstr "Den tryggeste butikken å kjøpe EA SPORTS FC 25-mynter ✔ Kjøp EA FC 25-mynter for PS 4/5, Xbox One/X/S 🎮 Rask levering og 24/7-støtte⚡100% sikre betalinger 🔒 Trygt sted å kjøpe billige Ultimate Team mynter 😉"
+#~ msgstr "Den tryggeste butikken å kjøpe EA SPORTS FC 24-mynter ✔ Kjøp EA FC 24-mynter for PS 4/5, Xbox One/X/S 🎮 Rask levering og 24/7-støtte⚡100% sikre betalinger 🔒 Trygt sted å kjøpe billige Ultimate Team mynter 😉"
 
 #~ msgid "seo236"
-#~ msgstr "Kjøp billige EA FC 25-mynter til PS4 | EA SPORTS FC 25-mynter til PS4"
+#~ msgstr "Kjøp billige EA FC 24-mynter til PS4 | EA SPORTS FC 24-mynter til PS4"
 
 #~ msgid "seo237"
-#~ msgstr "Det tryggeste stedet å kjøpe EA SPORTS FC 25-mynter til PS4 🎮 Få de beste spillerne til laget og overvinn rivalene🥇 Rask levering og 24/7-kundestøtte 🔒 Trygt sted å kjøpe billige Ultimate Team-mynter 😉"
+#~ msgstr "Det tryggeste stedet å kjøpe EA SPORTS FC 24-mynter til PS4 🎮 Få de beste spillerne til laget og overvinn rivalene🥇 Rask levering og 24/7-kundestøtte 🔒 Trygt sted å kjøpe billige Ultimate Team-mynter 😉"
 
 #~ msgid "seo238"
-#~ msgstr "Kjøp billige EA FC 25-mynter til PS5 | EA SPORTS FC 25-mynter til PS5"
+#~ msgstr "Kjøp billige EA FC 24-mynter til PS5 | EA SPORTS FC 24-mynter til PS5"
 
 #~ msgid "seo239"
-#~ msgstr "Det tryggeste stedet å kjøpe EA SPORTS FC 25-mynter til PS5 🎮 Få de beste spillerne til laget og overvinn rivalene🥇 Rask levering og 24/7-kundestøtte 🔒 Trygt sted å kjøpe billige Ultimate Team-mynter 😉"
+#~ msgstr "Det tryggeste stedet å kjøpe EA SPORTS FC 24-mynter til PS5 🎮 Få de beste spillerne til laget og overvinn rivalene🥇 Rask levering og 24/7-kundestøtte 🔒 Trygt sted å kjøpe billige Ultimate Team-mynter 😉"
 
 #~ msgid "seo24"
 #~ msgstr "Målet vårt er å gi deg den tryggeste måten å fylle på FUT-saldoen din på. Vi forbedrer stadig vår myntoverføringsalgoritme, og tester den på tusenvis av kontoene våre før får den raske og sikkere tjenesten."
 
 #~ msgid "seo240"
-#~ msgstr "Kjøp billige EA FC 25-mynter til Xbox One | EA SPORTS FC 25-mynter til Xbox One"
+#~ msgstr "Kjøp billige EA FC 24-mynter til Xbox One | EA SPORTS FC 24-mynter til Xbox One"
 
 #~ msgid "seo241"
-#~ msgstr "Det tryggeste stedet å kjøpe EA SPORTS FC 25-mynter til Xbox One 🎮 Få de beste spillerne til laget og overvinn rivalene🥇 Rask levering og 24/7-kundestøtte🔒Trygt sted å kjøpe billige Ultimate Team-mynter 😉"
+#~ msgstr "Det tryggeste stedet å kjøpe EA SPORTS FC 24-mynter til Xbox One 🎮 Få de beste spillerne til laget og overvinn rivalene🥇 Rask levering og 24/7-kundestøtte🔒Trygt sted å kjøpe billige Ultimate Team-mynter 😉"
 
 #~ msgid "seo242"
-#~ msgstr "Kjøp billige EA FC 25-mynter til Xbox | EA SPORTS FC 25-mynter til Xbox Series X/S"
+#~ msgstr "Kjøp billige EA FC 24-mynter til Xbox | EA SPORTS FC 24-mynter til Xbox Series X/S"
 
 #~ msgid "seo243"
-#~ msgstr "Det tryggeste stedet å kjøpe EA SPORTS FC 25-mynter til Xbox X/S 🎮 Få de beste spillerne til laget og overvinn rivalene🥇 Rask levering og 24/7-støtte 🔒 Trygt sted å kjøpe billige Ultimate Team-mynter 😉"
+#~ msgstr "Det tryggeste stedet å kjøpe EA SPORTS FC 24-mynter til Xbox X/S 🎮 Få de beste spillerne til laget og overvinn rivalene🥇 Rask levering og 24/7-støtte 🔒 Trygt sted å kjøpe billige Ultimate Team-mynter 😉"
 
 #~ msgid "seo244"
-#~ msgstr "Kjøp 100k EA FC 25-mynter | Pris: 100k FUT-mynter"
+#~ msgstr "Kjøp 100k EA FC 24-mynter | Pris: 100k FUT-mynter"
 
 #~ msgid "seo245"
-#~ msgstr "Det tryggeste stedet å kjøpe 100K EA SPORTS FC 25-mynter til din Ultimate Team 🥇 Velg plattformen din: PS, Xbox eller PC 🎮 Rask levering og 24/7-støtte 🔒 Trygt sted å kjøpe billige Ultimate Team-mynter 😉"
+#~ msgstr "Det tryggeste stedet å kjøpe 100K EA SPORTS FC 24-mynter til din Ultimate Team 🥇 Velg plattformen din: PS, Xbox eller PC 🎮 Rask levering og 24/7-støtte 🔒 Trygt sted å kjøpe billige Ultimate Team-mynter 😉"
 
 #~ msgid "seo246"
-#~ msgstr "Kjøp 1 million EA FC 25-mynter | Pris: 1000k FUT-mynter"
+#~ msgstr "Kjøp 1 million EA FC 24-mynter | Pris: 1000k FUT-mynter"
 
 #~ msgid "seo247"
-#~ msgstr "Det tryggeste stedet å kjøpe 1000K (1 million) EA SPORTS FC 25-mynter til din Ultimate Team 🥇 Velg plattformen: PS/Xbox/PC 🎮 Rask levering og kundestøtte 🔒 Trygt sted å kjøpe billige Ultimate Team-mynter 😉"
+#~ msgstr "Det tryggeste stedet å kjøpe 1000K (1 million) EA SPORTS FC 24-mynter til din Ultimate Team 🥇 Velg plattformen: PS/Xbox/PC 🎮 Rask levering og kundestøtte 🔒 Trygt sted å kjøpe billige Ultimate Team-mynter 😉"
 
 #~ msgid "seo248"
 #~ msgstr "Vi har de beste tilbudene på FIFA-mynter til PlayStation 4. Vi tilbyr billige FIFA-mynter til PS4 med rask levering og sikkerhetsgaranti til kontoen din UTEN EKSTRA AVGIFTER."
@@ -4033,7 +4033,7 @@ msgstr "Se mer"
 #~ msgstr "Høyt servicenivå"
 
 #~ msgid "seo250"
-#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til PlayStation-konsoller? Kontakt oss på en måte som passer deg."
+#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 24-mynter til PlayStation-konsoller? Kontakt oss på en måte som passer deg."
 
 #~ msgid "seo251"
 #~ msgstr "Vi har de beste tilbudene på FIFA-mynter til PlayStation 5. Vi tilbyr billige FIFA-mynter til PS5 med rask levering og sikkerhetsgaranti til kontoen din UTEN EKSTRA AVGIFTER."
@@ -4042,7 +4042,7 @@ msgstr "Se mer"
 #~ msgstr "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FUT-mynter til PS5 fra oss med tillit til å få det beste tilbudet."
 
 #~ msgid "seo253"
-#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til PlayStation-konsoller? Kontakt oss på en måte som passer deg."
+#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 24-mynter til PlayStation-konsoller? Kontakt oss på en måte som passer deg."
 
 #~ msgid "seo254"
 #~ msgstr "Vi har de beste tilbudene på FIFA-mynter til Xbox One. Vi tilbyr billige FIFA-mynter med rask levering og sikkerhetsgaranti til kontoen din UTEN EKSTRA AVGIFTER."
@@ -4051,7 +4051,7 @@ msgstr "Se mer"
 #~ msgstr "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FUT-mynter til Xbox One fra oss med tillit til å få det beste tilbudet."
 
 #~ msgid "seo256"
-#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til Xbox-konsoller? Kontakt oss på en måte som passer deg."
+#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 24-mynter til Xbox-konsoller? Kontakt oss på en måte som passer deg."
 
 #~ msgid "seo257"
 #~ msgstr "Vi har de beste tilbudene på FIFA-mynter til Xbox Series X. Vi tilbyr billige FIFA-mynter til Xbox Series S med rask levering og sikkerhetsgaranti til kontoen din UTEN EKSTRA AVGIFTER."
@@ -4060,7 +4060,7 @@ msgstr "Se mer"
 #~ msgstr "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FUT-mynter til Xbox Series X/S fra oss med tillit til å få det beste tilbudet."
 
 #~ msgid "seo259"
-#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til Xbox-konsoller? Kontakt oss på en måte som passer deg."
+#~ msgstr "Hvis du har noen spørsmål om kjøp av EA FC 24-mynter til Xbox-konsoller? Kontakt oss på en måte som passer deg."
 
 #~ msgid "seo26"
 #~ msgstr "Vi vet at tiden din er viktig for deg. Vi jobber stadig med å forbedre grensesnittet og støtten, slik at bestillingene skal gå raskere og jevnere. Bare et par klikk – så gjør vi resten."
@@ -4132,7 +4132,7 @@ msgstr "Logg ut"
 #~ msgstr "Logg deg inn via"
 
 #~ msgid "seo45"
-#~ msgstr "Din hovedledsager i EA FC 25 Ultimate Team Store"
+#~ msgstr "Din hovedledsager i EA FC 24 Ultimate Team Store"
 
 #~ msgid "seo46"
 #~ msgstr "Plattform"
@@ -4188,7 +4188,7 @@ msgstr "Den manuelle leveringsmetoden krever ikke EA-kontoopplysninger. Du må b
 #~ msgstr "Comfort Trade"
 
 #~ msgid "seo6"
-#~ msgstr "Din hovedledsager i EA FC 25 Ultimate Team Store"
+#~ msgstr "Din hovedledsager i EA FC 24 Ultimate Team Store"
 
 #~ msgid "seo60"
 #~ msgstr "Spillerauksjon"
@@ -4377,19 +4377,19 @@ msgid "seom"
 msgstr "m"
 
 #~ msgid "seop22"
-#~ msgstr "I vår butikk skal du finne de beste tilbudene på EA FC-mynter til enhver plattform. Vi tilbyr billige UT 25-mynter med rask levering og sikkerhetsgaranti til kontoen din uten ekstra avgifter."
+#~ msgstr "I vår butikk skal du finne de beste tilbudene på EA FC-mynter til enhver plattform. Vi tilbyr billige UT 24-mynter med rask levering og sikkerhetsgaranti til kontoen din uten ekstra avgifter."
 
 #~ msgid "seop23"
-#~ msgstr "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FIFA 25-mynter til enhver plattform fra oss og å få det beste tilbudet."
+#~ msgstr "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FIFA 24-mynter til enhver plattform fra oss og å få det beste tilbudet."
 
 #~ msgid "seop24"
-#~ msgstr "Kontakt oss hvis du har noen spørsmål om kjøp av FC 25-mynter til konsollen din."
+#~ msgstr "Kontakt oss hvis du har noen spørsmål om kjøp av FC 24-mynter til konsollen din."
 
 #~ msgid "t"
 #~ msgstr "Om Leverans"
 
 #~ msgid "t_t"
-#~ msgstr "Myntene vil bli levert til FC 25-klubben knyttet til EA-kontoen din. Kun EA-kontodetaljer kreves for å overføre myntene."
+#~ msgstr "Myntene vil bli levert til FC 24-klubben knyttet til EA-kontoen din. Kun EA-kontodetaljer kreves for å overføre myntene."
 
 #: components/Aside/Aside.js:52
 msgid "trust:commenturl"

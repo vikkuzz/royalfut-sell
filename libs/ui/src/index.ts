@@ -13,3 +13,5 @@ export * from "./images";
 export * from "./indicators";
 export * from "./carousel";
 export * from "./cards";
+export * from "./progress";
+export * from "./navs";

@@ -8,15 +8,15 @@ interface IAuthActions {
     setIsLogged: (isLoggedIn: boolean) => void;
 }
 
-export type AuthStore = IAuthState & IAuthActions;
+export type TAuthStore = IAuthState & IAuthActions;
 
 const initialAuthStore: IAuthState = {
     isLoggedIn: false,
 };
 
 export const createAuthStore = (initState: IAuthState = initialAuthStore) => {
-    return createStore<AuthStore>()((set) => ({
+    return createStore<TAuthStore>()(set => ({
         ...initState,
-        setIsLogged: (isLoggedIn) => set({ isLoggedIn }),
+        setIsLogged: isLoggedIn => set({ isLoggedIn }),
     }));
 };

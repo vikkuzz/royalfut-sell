@@ -6,7 +6,7 @@
  */
 export function calculateElasticPosition(
     dotPosition: number,
-    velocity: number,
+    velocity: number
 ): number {
     /**
      * Calculates the elastic position using the given dot position and velocity.

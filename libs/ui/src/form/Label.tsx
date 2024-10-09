@@ -31,7 +31,7 @@ const Label: FC<ILabelProps> = forwardRef<
             asChild = false,
             ...rest
         },
-        externalRef,
+        externalRef
     ) => {
         const Comp = asChild ? Slot : "label";
 
@@ -40,12 +40,11 @@ const Label: FC<ILabelProps> = forwardRef<
                 aria-required={required}
                 className={cn(lbCn, className)}
                 ref={externalRef}
-                {...rest}
-            >
+                {...rest}>
                 {children}
             </Comp>
         );
-    },
+    }
 );
 
 export default Label;

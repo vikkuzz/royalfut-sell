@@ -12,6 +12,7 @@ const config = {
         50: "hsl(var(--color-white-50))",
         55: "hsl(var(--color-white-55))",
         60: "hsl(var(--color-white-60))",
+        65: "hsl(var(--color-white-65))",
         70: "hsl(var(--color-white-70))",
     },
 
@@ -21,6 +22,7 @@ const config = {
         background: "hsl(var(--color-black-background))",
         1: "hsl(var(--color-black-1))",
         2: "hsl(var(--color-black-2))",
+        3: "hsl(var(--color-black-3))",
         shape: "hsl(var(--color-black-shape))",
         dropdown: "hsl(var(--color-black-dropdown))",
     },
@@ -55,6 +57,7 @@ const config = {
     typography: {
         text: "hsl(var(--color-typography-body))",
         title: "hsl(var(--color-typography-title))",
+        link1: "hsl(var(--color-link-1))",
     },
 
     layout: {

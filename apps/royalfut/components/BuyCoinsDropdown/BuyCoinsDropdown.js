@@ -55,7 +55,7 @@ const BuyCoinsDropdown = () => {
                         }}
                         className={`${styles.dropdown_countries} ${styles.dropdown__links}`}>
                         {/* <Trans>seo1</Trans> */}
-                        {t("preorder.buy_coins")}
+                        {t("headerdropdown.buy_coins")}
                     </Link>
 
                     <div

@@ -1,12 +1,37 @@
-import { EAppContacts, EAppSocials } from "@royalfut/enums";
+import { EAppContacts, EAppSocials, ESEOPlatforms } from "@royalfut/enums";
 import { ccyCollection, i18nCollection } from "../locale";
-import { PROJECT_PUBLIC_ROUTES, PROJECT_PRIVATE_ROUTES } from "../routes";
+import {
+    PROJECT_PUBLIC_WWW_ROUTES,
+    PROJECT_PRIVATE_WWW_ROUTES,
+} from "../routes";
 import { SOCIAL_LINKS, SOCIAL_CREDENTIALS } from "../social";
+import { PlatformSEOSets, PlatformOrderLinks } from "../funnel";
 import { infographicStats } from "./general.data";
 
-import type { IUIGlobalState } from "@royalfut/interfaces";
+import type {
+    IProjectGlobalState,
+    IProjectPrivateGlobalState,
+} from "@royalfut/interfaces";
 
-const data: IUIGlobalState = {
+export const WWWPrivateGlobalData: IProjectPrivateGlobalState = {
+    profile: {
+        nsI18n: "profile",
+        nav: [
+            {
+                href: PROJECT_PRIVATE_WWW_ROUTES["PROFILE_ORDERS"],
+                label: "Orders",
+                localized: false,
+            },
+            {
+                href: PROJECT_PRIVATE_WWW_ROUTES["PROFILE_POINTS"],
+                label: "Loyalty Program",
+                localized: false,
+            },
+        ],
+    },
+};
+
+export const WWWGlobalData: IProjectGlobalState = {
     local: {
         lng: i18nCollection,
         ccy: ccyCollection,
@@ -17,52 +42,54 @@ const data: IUIGlobalState = {
         },
     },
     header: {
-        nsI18n: "header",
+        nsI18n: "quinn_pages.home.header",
         nav: [
             {
                 label: "nav.1",
-                href: PROJECT_PUBLIC_ROUTES["ORDER"],
+                href: PROJECT_PUBLIC_WWW_ROUTES["ORDER"],
                 type: "expanded",
                 content: [
                     {
-                        label: "Playstation 4",
-                        href: `${PROJECT_PUBLIC_ROUTES["ORDER"]}/ps4`,
+                        label: PlatformSEOSets[ESEOPlatforms.PlayStation4].name
+                            .v1,
+                        href: PlatformOrderLinks[ESEOPlatforms.PlayStation4],
                         localized: false,
                     },
                     {
-                        label: "Playstation 5",
-                        href: `${PROJECT_PUBLIC_ROUTES["ORDER"]}/ps5`,
+                        label: PlatformSEOSets[ESEOPlatforms.PlayStation5].name
+                            .v1,
+                        href: PlatformOrderLinks[ESEOPlatforms.PlayStation5],
                         localized: false,
                     },
                     {
-                        label: "Xbox One",
-                        href: `${PROJECT_PUBLIC_ROUTES["ORDER"]}/xbox_one`,
+                        label: PlatformSEOSets[ESEOPlatforms.XBoxOne].name.v1,
+                        href: PlatformOrderLinks[ESEOPlatforms.XBoxOne],
                         localized: false,
                     },
                     {
-                        label: "Xbox Series X|S",
-                        href: `${PROJECT_PUBLIC_ROUTES["ORDER"]}/xbox_xs`,
+                        label: PlatformSEOSets[ESEOPlatforms.XBoxXS].name.v1,
+                        href: PlatformOrderLinks[ESEOPlatforms.XBoxXS],
                         localized: false,
                     },
                     {
-                        label: "PC",
-                        href: `${PROJECT_PUBLIC_ROUTES["ORDER"]}/pc`,
+                        label: PlatformSEOSets[ESEOPlatforms.PC].name.v1,
+                        href: PlatformOrderLinks[ESEOPlatforms.PC],
                         localized: false,
                     },
                 ],
             },
             {
-                href: PROJECT_PUBLIC_ROUTES["COINS"],
+                href: PROJECT_PUBLIC_WWW_ROUTES["COINS"],
                 label: "nav.2",
                 type: "link",
             },
             {
-                href: PROJECT_PUBLIC_ROUTES["REVIEWS"],
+                href: PROJECT_PUBLIC_WWW_ROUTES["REVIEWS"],
                 label: "nav.3",
                 type: "link",
             },
             {
-                href: PROJECT_PUBLIC_ROUTES["FAQ"],
+                href: PROJECT_PUBLIC_WWW_ROUTES["FAQ"],
                 label: "nav.4",
                 type: "link",
             },
@@ -85,7 +112,7 @@ const data: IUIGlobalState = {
     menu: {
         root: [
             {
-                nsI18n: "user",
+                nsI18n: "ye_user",
                 section: {
                     label: "bar.nav.1.title",
                 },
@@ -93,25 +120,25 @@ const data: IUIGlobalState = {
                     {
                         type: "link",
                         label: "bar.nav.1.1",
-                        href: PROJECT_PRIVATE_ROUTES["PROFILE_ORDERS"],
+                        href: PROJECT_PRIVATE_WWW_ROUTES["PROFILE_ORDERS"],
                         icon: "/image/history.svg",
                     },
-                    {
-                        type: "link",
-                        label: "bar.nav.1.2",
-                        href: PROJECT_PRIVATE_ROUTES["PROFILE_SETTINGS"],
-                    },
+                    // {
+                    //     type: "link",
+                    //     label: "bar.nav.1.2",
+                    //     href: PROJECT_PRIVATE_WWW_ROUTES["PROFILE_SETTINGS"],
+                    // },
                     {
                         type: "link",
                         label: "bar.nav.1.3",
-                        href: PROJECT_PRIVATE_ROUTES["PROFILE_POINTS"],
+                        href: PROJECT_PRIVATE_WWW_ROUTES["PROFILE_POINTS"],
                     },
                 ],
             },
         ],
     },
     footer: {
-        nsI18n: "footer",
+        nsI18n: "ye_footer",
         contacts: {
             label: "title.contacts",
             items: [
@@ -179,32 +206,38 @@ const data: IUIGlobalState = {
                 links: [
                     {
                         type: "link",
-                        label: "PS4",
-                        href: `${PROJECT_PUBLIC_ROUTES["ORDER"]}/ps4`,
+                        label:
+                            PlatformSEOSets[ESEOPlatforms.PlayStation4].name
+                                .v2 ||
+                            PlatformSEOSets[ESEOPlatforms.PlayStation4].name.v1,
+                        href: PlatformOrderLinks[ESEOPlatforms.PlayStation4],
                         localized: false,
                     },
                     {
                         type: "link",
-                        label: "PS5",
-                        href: `${PROJECT_PUBLIC_ROUTES["ORDER"]}/ps5`,
+                        label:
+                            PlatformSEOSets[ESEOPlatforms.PlayStation5].name
+                                .v2 ||
+                            PlatformSEOSets[ESEOPlatforms.PlayStation5].name.v1,
+                        href: PlatformOrderLinks[ESEOPlatforms.PlayStation5],
                         localized: false,
                     },
                     {
                         type: "link",
-                        label: "Xbox One",
-                        href: `${PROJECT_PUBLIC_ROUTES["ORDER"]}/xbox_one`,
+                        label: PlatformSEOSets[ESEOPlatforms.XBoxOne].name.v1,
+                        href: PlatformOrderLinks[ESEOPlatforms.XBoxOne],
                         localized: false,
                     },
                     {
                         type: "link",
-                        label: "Xbox Series X|S",
-                        href: `${PROJECT_PUBLIC_ROUTES["ORDER"]}/xbox_xs`,
+                        label: PlatformSEOSets[ESEOPlatforms.XBoxXS].name.v1,
+                        href: PlatformOrderLinks[ESEOPlatforms.XBoxXS],
                         localized: false,
                     },
                     {
                         type: "link",
-                        label: "PC",
-                        href: `${PROJECT_PUBLIC_ROUTES["ORDER"]}/pc`,
+                        label: PlatformSEOSets[ESEOPlatforms.PC].name.v1,
+                        href: PlatformOrderLinks[ESEOPlatforms.PC],
                         localized: false,
                     },
                 ],
@@ -215,27 +248,27 @@ const data: IUIGlobalState = {
                     {
                         type: "link",
                         label: "nav.1.1",
-                        href: PROJECT_PUBLIC_ROUTES["DELIVERY"],
+                        href: PROJECT_PUBLIC_WWW_ROUTES["DELIVERY"],
                     },
                     {
                         type: "link",
                         label: "nav.1.2",
-                        href: PROJECT_PUBLIC_ROUTES["PAYMENTS"],
+                        href: PROJECT_PUBLIC_WWW_ROUTES["PAYMENTS"],
                     },
                     {
                         type: "link",
                         label: "nav.1.3",
-                        href: PROJECT_PUBLIC_ROUTES["TERMS"],
+                        href: PROJECT_PUBLIC_WWW_ROUTES["TERMS"],
                     },
                     {
                         type: "link",
                         label: "nav.1.4",
-                        href: PROJECT_PUBLIC_ROUTES["PRIVACY"],
+                        href: PROJECT_PUBLIC_WWW_ROUTES["PRIVACY"],
                     },
                     {
                         type: "link",
                         label: "nav.1.5",
-                        href: PROJECT_PUBLIC_ROUTES["COOKIE"],
+                        href: PROJECT_PUBLIC_WWW_ROUTES["COOKIE_POLICY"],
                     },
                 ],
             },
@@ -243,10 +276,8 @@ const data: IUIGlobalState = {
     },
     pages: {
         home: {
-            nsI18n: "home",
-            inforgraphic: infographicStats,
+            nsI18n: "li_home",
+            infographic: infographicStats,
         },
     },
 };
-
-export default data;

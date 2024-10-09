@@ -32,26 +32,34 @@ const HeadPage = ({
             />
             {bread && (
                 <div className="flex bg-transparent gap-1 w-auto z-[2]">
-                    <Link href={"/"} className="text-base w-auto">
+                    <Link
+                        href={"/"}
+                        className="flex items-center text-base w-auto">
                         Home
                     </Link>
-                    <span className="w-4 text-center justify-center"> / </span>
+                    <span className="flex items-center w-4 text-center justify-center">
+                        {" "}
+                        /{" "}
+                    </span>
                     <Link
                         href={"/blog"}
-                        className={cn("text-base w-auto", {
+                        className={cn("flex items-center text-base w-auto", {
                             "opacity-40": !bread.post,
                         })}>
                         Blog
                     </Link>
                     <span
-                        className={cn("w-4 text-center justify-center", {
-                            hidden: !bread.post,
-                        })}>
+                        className={cn(
+                            "flex items-center w-4 text-center justify-center",
+                            {
+                                hidden: !bread.post,
+                            }
+                        )}>
                         {" "}
                         /{" "}
                     </span>
                     {bread?.post && (
-                        <span className="opacity-40 text-base w-auto">
+                        <span className="flex items-center opacity-40 text-base w-auto">
                             {bread.post.split(" ").slice(0, 3).join("-")}
                         </span>
                     )}

@@ -11,8 +11,9 @@ const AchivementRecord: FNCN<{ achivement: string; desc: string }> = ({
         <div
             className={cn(
                 "flex-col justify-start items-start gap-2 flex relative",
-                className
-            )}>
+                className,
+            )}
+        >
             <span className="text-center w-max text-transparent text-[3.5rem] pt-1 -mt-1 font-bold leading-10 pb-3 animate-backgroundPan bg-linear-primary-pan background-size-200 whitespace-nowrap bg-clip-text webkit-text-fill-transparent">
                 {achivement}
             </span>

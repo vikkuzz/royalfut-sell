@@ -5,9 +5,10 @@ import {
     MediaIndicator,
     CookieConsentBanner,
     PopupDialog,
+    SubscriptionManager,
 } from "@royalfut/components";
 import { Header } from "../src/layout";
-import { UIGlobalStoreProvider } from "@royalfut/store";
+import { ProjectGlobalStoreProvider } from "@royalfut/store";
 import { montserrat } from "@royalfut/ui";
 import {
     CurrencyStoreProvider,
@@ -21,13 +22,12 @@ import {
     getCurrency,
     getUser,
     getCookieConsentStatus,
-    createOrder,
+    createSellOrder,
     getWallet,
     getStocks,
     localizeGlobalState,
 } from "@royalfut/actions";
 import clsx from "clsx";
-import Watcher from "./Watcher";
 import { SellGlobalData } from "@royalfut/collections";
 import { GoogleOAuthProvider } from "@royalfut/store";
 import { GoogleAnalytics, YandexMetrika } from "./3rdParty.client";
@@ -35,6 +35,8 @@ import { GoogleAnalytics, YandexMetrika } from "./3rdParty.client";
 import "@royalfut/styles/css/global.css";
 import type { PropsWithChildren, FC } from "react";
 import type { Viewport, Metadata } from "next";
+// import { NextIntlClientProvider } from "next-intl";
+// import { getMessages } from "next-intl/server";
 
 export const viewport: Viewport = {
     themeColor: "#8852F2",
@@ -69,7 +71,7 @@ const RootLayout: FC<PropsWithChildren> = async ({ children }) => {
     ] = await Promise.all([
         getCurrency(),
         getUser(),
-        createOrder(),
+        createSellOrder(),
         getCookieConsentStatus(),
         getWallet(),
         getStocks(),
@@ -81,9 +83,10 @@ const RootLayout: FC<PropsWithChildren> = async ({ children }) => {
             className={clsx(
                 "antialiased",
                 "text-xs lg:text-sm xl:text-base",
-                montserrat.variable
+                montserrat.variable,
             )}
-            lang={locale}>
+            lang={locale}
+        >
             <head>
                 {process.env.NODE_ENV === "production" && (
                     <>
@@ -110,25 +113,28 @@ const RootLayout: FC<PropsWithChildren> = async ({ children }) => {
                         </div>
                     </noscript>
                 )}
-                <UIGlobalStoreProvider initial={globalSettings}>
+                <ProjectGlobalStoreProvider initial={globalSettings}>
                     <NextIntlClientProvider messages={messages}>
                         <GoogleOAuthProvider clientId="9475571545-s9o5kb38f48n05uafaopfc49i460f676.apps.googleusercontent.com">
                             <StocksStoreProvider initial={{ stocks }}>
                                 <AuthStoreProvider
-                                    initial={{ isLoggedIn: !!user }}>
+                                    initial={{ isLoggedIn: !!user }}
+                                >
                                     <UserStoreProvider initial={{ user }}>
                                         <OrderStoreProvider initial={{ order }}>
                                             <WithdrawStoreProvider
-                                                initial={{ wallet }}>
+                                                initial={{ wallet }}
+                                            >
                                                 <CurrencyStoreProvider
-                                                    initial={{ currency }}>
+                                                    initial={{ currency }}
+                                                >
                                                     <div className="w-full h-full flex-1 pb-10">
                                                         <Header />
                                                         {children}
                                                         <PopupDialog />
                                                     </div>
                                                     <Footer />
-                                                    <Watcher />
+                                                    <SubscriptionManager />
                                                 </CurrencyStoreProvider>
                                             </WithdrawStoreProvider>
                                         </OrderStoreProvider>
@@ -157,7 +163,7 @@ const RootLayout: FC<PropsWithChildren> = async ({ children }) => {
                             />
                         )}
                     </NextIntlClientProvider>
-                </UIGlobalStoreProvider>
+                </ProjectGlobalStoreProvider>
             </body>
         </html>
     );

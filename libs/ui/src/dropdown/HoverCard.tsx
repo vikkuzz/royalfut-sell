@@ -49,11 +49,11 @@ export const Trigger = forwardRef<
 
 export const Content = forwardRef<
     ElementRef<typeof HoverCard.Content>,
-    ComponentPropsWithoutRef<typeof HoverCard.Content>
->(({ children, sideOffset = 10, className, ...props }, externalRef) => {
+    ComponentPropsWithoutRef<typeof HoverCard.Content> & { cnBox?: string }
+>(({ children, cnBox, sideOffset = 10, className, ...props }, externalRef) => {
     return (
         <HoverCard.Portal>
-            <div className={styles["card-content-wrapper"]}>
+            <div className={cn(styles["card-content-wrapper"], cnBox)}>
                 <HoverCard.Content
                     className={cn(cnContent, className)}
                     sideOffset={sideOffset}
@@ -65,3 +65,5 @@ export const Content = forwardRef<
         </HoverCard.Portal>
     );
 });
+
+export const Arrow = HoverCard.Arrow;

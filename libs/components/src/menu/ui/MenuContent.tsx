@@ -1,15 +1,16 @@
 import { forwardRef } from "react";
 import Image from "next/image";
-import Link from "next/link";
+import { useTranslations } from "next-intl";
+import { Link } from "@royalfut/ui";
 import {
     useMagicLinkStore,
     useUserStore,
-    useUIGlobalStore,
+    useProjectGlobalStore,
 } from "@royalfut/store";
 import { LogoutButton } from "../../fragments";
 import CodeVerification from "./CodeVerification";
 import AuthViaMagicLink from "./AuthViaMagicLink";
-import { useTranslations } from "next-intl";
+import { PROJECT_PRIVATE_ROUTES } from "@royalfut/collections";
 import { UserLoyaltyBtnBadge } from "../../user";
 import ProfileNav from "./ProfileNav";
 
@@ -20,12 +21,12 @@ export const AuthMenuContent = forwardRef<
     ComponentPropsWithoutRef<"div">
 >(({ ...props }, externalRef) => {
     const { isSendedLink, email } = useMagicLinkStore();
-    const t = useTranslations("auth");
+    const t = useTranslations("phoenix_pages.auth");
     const title = isSendedLink ? t("text.code") : t("text.authTitle");
 
     return (
         <div ref={externalRef} {...props}>
-            <h5 className="text-4xl font-bold text-center text-white mb-4">
+            <h5 className="text-2xl font-bold text-center text-white mb-4">
                 {title}
             </h5>
             <p className="text-base font-medium text-center leading-tight inline-block">
@@ -55,7 +56,7 @@ AuthMenuContent.displayName = "AuthMenuContent";
 
 export const UserMenuContent = () => {
     const { user } = useUserStore(state => ({ user: state.user }));
-    const loyality = useUIGlobalStore(state => state.features.loyality);
+    const loyality = useProjectGlobalStore(state => state.features.loyality);
 
     if (!user) return null;
 
@@ -64,8 +65,7 @@ export const UserMenuContent = () => {
             <div className="flex flex-col justify-center items-center space-y-4">
                 <div
                     style={{ boxShadow: "0px 0px 30.8px 0px #E3B7439E" }}
-                    className="[--bordered-box-linear-bg-1:#262240] w-20 h-20 relative rounded-xl overflow-hidden border-2 bordered-box-linear-avatar border-transparent"
-                >
+                    className="[--bordered-box-linear-bg-1:#262240] w-20 h-20 relative rounded-xl overflow-hidden border-2 bordered-box-linear-avatar border-transparent">
                     <Image src={user.avatar} alt="User Image" fill />
                 </div>
                 {loyality.isEnabled && <UserLoyaltyBtnBadge />}
@@ -73,7 +73,7 @@ export const UserMenuContent = () => {
                     <PrimaryGradientBox
                         className="flex items-center justify-between bg-white-20 rounded-full w-max space-x-1 px-2 py-1"
                         asChild>
-                        <Link href="/profile">
+                        <Link href={PROJECT_PRIVATE_ROUTES["PROFILE"]}>
                             <span className="text-white font-bold text-sm">
                                 1250
                             </span>
@@ -86,9 +86,8 @@ export const UserMenuContent = () => {
                     </span>
                 </div> */}
                 <Link
-                    href="/profile"
-                    className="text-xl text-white font-bold text-center hover:text-secondary transition-colors duration-300"
-                >
+                    href={PROJECT_PRIVATE_ROUTES["PROFILE"]}
+                    className="text-xl text-white font-bold text-center hover:text-secondary transition-colors duration-300">
                     {user.email}
                 </Link>
 

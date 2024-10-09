@@ -1,7 +1,8 @@
-import { redirect } from "next/navigation";
+import { PROJECT_PRIVATE_SELLER_ROUTES } from "@royalfut/collections";
+import { i18nRedirect } from "@royalfut/hooks";
 
 const ProfilePage = () => {
-    redirect("/profile/orders");
+    i18nRedirect(PROJECT_PRIVATE_SELLER_ROUTES["PROFILE_ORDERS"]);
 
     return null;
 };

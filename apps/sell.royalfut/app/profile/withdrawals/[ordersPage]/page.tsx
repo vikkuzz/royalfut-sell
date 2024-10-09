@@ -1,5 +1,4 @@
-import { Paginator } from "@royalfut/components";
-import Tabs from "../../_components/Tabs";
+import { Paginator, ProfileNavigationTabs } from "@royalfut/components";
 import { getPayouts } from "@royalfut/actions";
 import { isNumber } from "@royalfut/utils";
 import WithdrawPageContent from "../WithdrawPageContent/WithdrawPageContent";
@@ -16,7 +15,7 @@ async function ProfileWithdrawPage({
     const orders = await getPayouts(null, params.ordersPage);
     return (
         <div className="flex flex-col gap-8">
-            <Tabs page="orders" />
+            <ProfileNavigationTabs page="orders" />
             {orders && (
                 <>
                     <WithdrawPageContent payouts={orders} />

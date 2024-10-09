@@ -2,15 +2,22 @@
 
 import { createContext, useRef, useContext } from "react";
 import { useStore } from "zustand";
+import { useUpdate } from "@lilib/hooks";
 import { createUserStore, createUserBonusStore } from "./user.store";
+import { useTransferSelectorStore } from "../funnel";
+import { useAuthStore } from "./auth.provider";
 
 import type { ReactNode } from "react";
 import type { StoreApi } from "zustand";
 import type {
+    MakeRequiredAndNonNullableProps,
+    WithRequiredProperty,
+} from "@royalfut/interfaces";
+import type {
     UserStore,
     IUserState,
     IUserBonusState,
-    UserBonusStore,
+    TUserBonusStore,
 } from "./user.store";
 
 export const UserStoreContext = createContext<StoreApi<UserStore> | null>(null);
@@ -46,21 +53,29 @@ export const useUserStore = <T,>(selector: (store: UserStore) => T): T => {
     return useStore(userStoreContext, selector);
 };
 
-const UserBonusStoreContext = createContext<StoreApi<UserBonusStore> | null>(
+const UserStoreBridges = () => {
+    const isLoggedIn = useAuthStore(state => state.isLoggedIn);
+    const setBonuses = useTransferSelectorStore.use.setBonuses();
+    const clear = useUserBonusStore(state => state.clear);
+
+    useUpdate(() => {
+        if (!isLoggedIn) {
+            clear();
+            setBonuses("loyalty", null);
+        }
+    }, [isLoggedIn]);
+
+    return null;
+};
+
+const UserBonusStoreContext = createContext<StoreApi<TUserBonusStore> | null>(
     null
 );
-
-type WithRequiredProperty<Type, Key extends keyof Type> = Type & {
-    [Property in Key]-?: Type[Property];
-};
 
 interface IUserBonusStoreProviderProps {
     children: ReactNode;
     initial: {
         info: WithRequiredProperty<IUserBonusState, "info">["info"] | null;
-        levels:
-            | WithRequiredProperty<IUserBonusState, "levels">["levels"]
-            | null;
     };
 }
 
@@ -68,35 +83,73 @@ export const UserBonusStoreProvider = ({
     children,
     initial,
 }: IUserBonusStoreProviderProps) => {
-    const storeRef = useRef<StoreApi<UserBonusStore>>();
+    const isLoggedIn = useAuthStore(state => state.isLoggedIn);
+    const storeRef = useRef<StoreApi<TUserBonusStore>>();
 
     if (!storeRef.current) {
         const bonusInfo = initial.info;
-        const initialStore: IUserBonusState = {
-            info: initial.info ?? undefined,
-            levels: initial.levels ?? undefined,
-            levelZero: initial.levels?.filter(el => el.level === 0)[0],
+        const initialStore: MakeRequiredAndNonNullableProps<
+            IUserBonusState,
+            "loyalty"
+        > = {
+            info: initial.info,
             loyalty: {
-                amount: 0,
+                balance: 0,
             },
         };
+
         if (bonusInfo) {
-            initialStore.loyalty.amount = Math.floor(
+            initialStore.loyalty.balance = Math.floor(
                 bonusInfo.totalCashback * 10
             );
         }
+
         storeRef.current = createUserBonusStore(initialStore);
     }
 
+    useUpdate(() => {
+        const bonusInfo = initial.info;
+        const initialStore: MakeRequiredAndNonNullableProps<
+            IUserBonusState,
+            "loyalty"
+        > = {
+            info: initial.info,
+            loyalty: {
+                balance: 0,
+            },
+        };
+
+        if (bonusInfo) {
+            initialStore.loyalty.balance = Math.floor(
+                bonusInfo.totalCashback * 10
+            );
+        }
+
+        if (!storeRef.current) {
+            storeRef.current = createUserBonusStore(initialStore);
+        } else if (isLoggedIn && bonusInfo) {
+            storeRef.current.setState({
+                info: bonusInfo,
+                loyalty: { balance: Math.floor(bonusInfo.totalCashback * 10) },
+            });
+        } else {
+            storeRef.current.setState({
+                info: null,
+                loyalty: { balance: 0 },
+            });
+        }
+    }, [isLoggedIn, initial.info]);
+
     return (
         <UserBonusStoreContext.Provider value={storeRef.current}>
+            <UserStoreBridges />
             {children}
         </UserBonusStoreContext.Provider>
     );
 };
 
 export const useUserBonusStore = <T,>(
-    selector: (store: UserBonusStore) => T
+    selector: (store: TUserBonusStore) => T
 ): T => {
     const userBonusStoreContext = useContext(UserBonusStoreContext);
 

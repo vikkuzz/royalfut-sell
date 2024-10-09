@@ -420,7 +420,7 @@ msgid "a166"
 msgstr "* 1 Ekim 2023 itibariyle"
 
 #~ msgid "a17"
-#~ msgstr "EA FC 25 Ultimate Team Mağazası | EA Sports FC Jeton Mağazası"
+#~ msgstr "EA FC 24 Ultimate Team Mağazası | EA Sports FC Jeton Mağazası"
 
 #~ msgid "a18"
 #~ msgstr "Şunları alacaksınız"
@@ -655,7 +655,7 @@ msgid "a69"
 msgstr "2. Siparişiniz için ödeme yapın."
 
 #~ msgid "a7"
-#~ msgstr "FC 25 jetonları"
+#~ msgstr "FC 24 jetonları"
 
 #: components/CustomAccordion/CustomAccordion.js:171
 msgid "a70"
@@ -788,10 +788,10 @@ msgid "aa0_1"
 msgstr "Özel teklifimizi kaçırmayın"
 
 #~ msgid "aa1"
-#~ msgstr "EA FC 25 Lansman İndirimi - %7"
+#~ msgstr "EA FC 24 Lansman İndirimi - %7"
 
 #~ msgid "aa10"
-#~ msgstr "[[X]] için EA FC 25 coin alın"
+#~ msgstr "[[X]] için EA FC 24 coin alın"
 
 #~ msgid "aa11"
 #~ msgstr ""
@@ -812,7 +812,7 @@ msgstr "Boost mu lazım? Sorun değil!"
 
 #: pages/wl-boost.js:79
 msgid "aa6"
-msgstr "Sunduğumuz hizmetler şöyle: EA FC 25 Ultimate Team Finals Rank Boost, UT Champion Finals, UT Champion Playoffs, Divisions Rivals. Bizimle iletişime geçerek en iyi fiyatı alın!"
+msgstr "Sunduğumuz hizmetler şöyle: EA FC 24 Ultimate Team Finals Rank Boost, UT Champion Finals, UT Champion Playoffs, Divisions Rivals. Bizimle iletişime geçerek en iyi fiyatı alın!"
 
 #~ msgid "aa7"
 #~ msgstr "Kalan süre:"
@@ -821,7 +821,7 @@ msgstr "Sunduğumuz hizmetler şöyle: EA FC 25 Ultimate Team Finals Rank Boost,
 #~ msgstr "Yeni sezona hazırlanıyoruz"
 
 #~ msgid "aa9"
-#~ msgstr "Ultimate Team kulübünüz için EA FC 25 coini alın"
+#~ msgstr "Ultimate Team kulübünüz için EA FC 24 coini alın"
 
 #~ msgid "ab0"
 #~ msgstr "İşte ilginizi çekecek bazı istatistikler*:"
@@ -948,19 +948,19 @@ msgid "ab25"
 msgstr "Sıradaki Sipariş"
 
 #~ msgid "ab26"
-#~ msgstr "Tüm Platformlar için FC 25 Jetonu Satın Alın | Ultimate Team Jeton Mağazası"
+#~ msgstr "Tüm Platformlar için FC 24 Jetonu Satın Alın | Ultimate Team Jeton Mağazası"
 
 #: pages/order/index.js:58
 #: pages/order/index.js:93
 msgid "ab27"
-msgstr "Herhangi Bir Platform için FC 25 Jetonu Satın Alın | ROYALFUT"
+msgstr "Herhangi Bir Platform için FC 24 Jetonu Satın Alın | ROYALFUT"
 
 #: pages/order/index.js:95
 msgid "ab28"
-msgstr "EA FC 25 Jetonu Satın Alımı | Güvenli Ödeme | ROYALFUT"
+msgstr "EA FC 24 Jetonu Satın Alımı | Güvenli Ödeme | ROYALFUT"
 
 #~ msgid "ab29"
-#~ msgstr "PlayStation 4 için FC 25 Jetonu Satın Alımı | ROYALFUT"
+#~ msgstr "PlayStation 4 için FC 24 Jetonu Satın Alımı | ROYALFUT"
 
 #~ msgid "ab3"
 #~ msgstr "100 milyardan fazla"
@@ -969,13 +969,13 @@ msgstr "EA FC 25 Jetonu Satın Alımı | Güvenli Ödeme | ROYALFUT"
 #~ msgstr "PlayStation 24 için FC 5 Jetonu Satın Alımı | ROYALFUT"
 
 #~ msgid "ab31"
-#~ msgstr "Xbox One için FC 25 JEtonu Satın Alımı | ROYALFUT"
+#~ msgstr "Xbox One için FC 24 JEtonu Satın Alımı | ROYALFUT"
 
 #~ msgid "ab32"
-#~ msgstr "Xbox Series X/S için FC 25 Jetonu Satın Alımı | ROYALFUT"
+#~ msgstr "Xbox Series X/S için FC 24 Jetonu Satın Alımı | ROYALFUT"
 
 #~ msgid "ab33"
-#~ msgstr "PC için FC 25 Jetonu Satın Alımı (Origin / Steam / Epic Games) | ROYALFUT"
+#~ msgstr "PC için FC 24 Jetonu Satın Alımı (Origin / Steam / Epic Games) | ROYALFUT"
 
 #: pages/order/index.js:100
 msgid "ab34"
@@ -1012,7 +1012,7 @@ msgstr "Profilim | ROYALFUT"
 #~ msgstr "Güvenli Ödeme | ROYALFUT"
 
 #~ msgid "ab42"
-#~ msgstr "FC 25 Güçlendirmeleri Satın Alın | Hafta Sonu Lig ve Klasman Rakiplerini Geçin"
+#~ msgstr "FC 24 Güçlendirmeleri Satın Alın | Hafta Sonu Lig ve Klasman Rakiplerini Geçin"
 
 #~ msgid "ab43"
 #~ msgstr "Detayları Gönder"
@@ -1213,7 +1213,7 @@ msgstr "Yardıma mı ihtiyacınız var? İstediğiniz zaman Destek Ekibimizle il
 
 #: components/Offer/Offer.js:82
 msgid "ab91"
-msgstr "FC 25 jetonlarını öğütmekten bıktıysanız, sizin için mükemmel ve ucuz bir çözümümüz var! Bu alanda uzun yıllara dayanan deneyime sahip en güvenilir EA FC jeton mağazası ROYALFUT.com ile tanışın. Bu en yüksek puanlı pazar yeri, çevrimiçi FIFA 25 jetonları için en düşük fiyatları sunar ve hızlı teslimat ve hesabınız için %100 güvenliği garanti edebilir. ROYALFUT'tan FC jetonları satın almak, herhangi bir tatsız sonuç riski olmadan oyununuzu daha da keyifli hale getirmenize yardımcı olmak söz konusu olduğunda en uygun fiyatlı ve yasal seçenektir. Bu mağazada bulabileceğiniz düzenli Ultimate Team jeton fırsatları, en kazançlı oyun içi işlemleri yapmanıza olanak tanıyan düşük fiyatlar sunuyor. ROYALFUT platformu, FUT jetonları satışı konusunda yalnızca %100 güvenilir olmakla kalmıoyor, aynı zamanda sahip olabileceğiniz herhangi bir soru veya sorunda size her zaman yardımcı olacak harika müşteri desteği ile de tanınıyor. Bugünlerde yasal bir UT 25 jeton mağazası bulmak oldukça zor ancak ROYALFUT.com şüphesiz bunlardan biridir. PC, PS4, PS5, Xbox One, Xbox Series X veya Xbox Series S için Ultimate Team jetonlarını %100 güvenli ödeme ve anında teslimat ile satın almak istiyorsanız burası kesinlikle sizin için en iyi yer."
+msgstr "FC 24 jetonlarını öğütmekten bıktıysanız, sizin için mükemmel ve ucuz bir çözümümüz var! Bu alanda uzun yıllara dayanan deneyime sahip en güvenilir EA FC jeton mağazası ROYALFUT.com ile tanışın. Bu en yüksek puanlı pazar yeri, çevrimiçi FIFA 24 jetonları için en düşük fiyatları sunar ve hızlı teslimat ve hesabınız için %100 güvenliği garanti edebilir. ROYALFUT'tan FC jetonları satın almak, herhangi bir tatsız sonuç riski olmadan oyununuzu daha da keyifli hale getirmenize yardımcı olmak söz konusu olduğunda en uygun fiyatlı ve yasal seçenektir. Bu mağazada bulabileceğiniz düzenli Ultimate Team jeton fırsatları, en kazançlı oyun içi işlemleri yapmanıza olanak tanıyan düşük fiyatlar sunuyor. ROYALFUT platformu, FUT jetonları satışı konusunda yalnızca %100 güvenilir olmakla kalmıoyor, aynı zamanda sahip olabileceğiniz herhangi bir soru veya sorunda size her zaman yardımcı olacak harika müşteri desteği ile de tanınıyor. Bugünlerde yasal bir UT 24 jeton mağazası bulmak oldukça zor ancak ROYALFUT.com şüphesiz bunlardan biridir. PC, PS4, PS5, Xbox One, Xbox Series X veya Xbox Series S için Ultimate Team jetonlarını %100 güvenli ödeme ve anında teslimat ile satın almak istiyorsanız burası kesinlikle sizin için en iyi yer."
 
 #: pages/order/index.js:115
 #: pages/order/pc.js:82
@@ -1222,7 +1222,7 @@ msgstr "FC 25 jetonlarını öğütmekten bıktıysanız, sizin için mükemmel 
 #: pages/order/xbox_one.js:82
 #: pages/order/xbox_xs.js:82
 msgid "ab92"
-msgstr "FC 25 Ultimate Team jetonları satın alın"
+msgstr "FC 24 Ultimate Team jetonları satın alın"
 
 #: components/Order/Steps.js:14
 #: components/Order/Steps.js:56
@@ -1390,11 +1390,11 @@ msgstr "Bu miktarla piyasada bulunan herhangi bir kartı satın alabilirsiniz. R
 #: pages/coins/[id].js:177
 #: pages/coins/[id].js:192
 msgid "coins_page18"
-msgstr "[[X]] FC 25 Ultimate Team jetonları"
+msgstr "[[X]] FC 24 Ultimate Team jetonları"
 
 #: pages/coins/[id].js:201
 msgid "coins_page19"
-msgstr "Piyasadaki en güvenli tedarikçiden çevrimiçi EA FC 25 jetonları satın alın - ROYALFUT Store. FIFA Ultimate Team ürünlerini satmak 7 yılı aşkın süredir uzmanlık alanımız olmaya devam ediyor. Amacımız, müşterilerimizin en iyi fırsatları ve FC UT jetonlarının en güvenilir transferlerini elde etmelerini sağlamaktır. ROYALFUT, kullanıcı dostu arayüzü, güvenli ödeme seçenekleri ve üstün müşteri hizmetleri ile rahat ve keyifli bir alışveriş deneyimi sunar."
+msgstr "Piyasadaki en güvenli tedarikçiden çevrimiçi EA FC 24 jetonları satın alın - ROYALFUT Store. FIFA Ultimate Team ürünlerini satmak 7 yılı aşkın süredir uzmanlık alanımız olmaya devam ediyor. Amacımız, müşterilerimizin en iyi fırsatları ve FC UT jetonlarının en güvenilir transferlerini elde etmelerini sağlamaktır. ROYALFUT, kullanıcı dostu arayüzü, güvenli ödeme seçenekleri ve üstün müşteri hizmetleri ile rahat ve keyifli bir alışveriş deneyimi sunar."
 
 #: components/TableOrders/TableItem.js:409
 msgid "coins_page2"
@@ -1436,7 +1436,7 @@ msgstr "EA hesabınıza erişim"
 
 #: pages/coins/[id].js:266
 msgid "coins_page29"
-msgstr "— PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Series X konsolları veya PC için EA Sports FC 25'ün lisanslı bir kopyasına sahipseniz (fiziksel CD olarak veya EA App, Steam veya Epic Games Store üzerinden dijital olarak satın aldıysanız), şanslısınız çünkü bu noktadan sonra sistemimizin Ultimate Team kulübünüze başarılı bir şekilde erişmek için sizden istediği tek şey e-posta adresi, şifre ve birkaç yedek koddan oluşan EA hesap bilgilerinizdir. Ancak endişelenmeyin, verilerinizi saklamıyoruz, her sipariş tamamlanınca verileriniz siliniyor."
+msgstr "— PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Series X konsolları veya PC için EA Sports FC 24'ün lisanslı bir kopyasına sahipseniz (fiziksel CD olarak veya EA App, Steam veya Epic Games Store üzerinden dijital olarak satın aldıysanız), şanslısınız çünkü bu noktadan sonra sistemimizin Ultimate Team kulübünüze başarılı bir şekilde erişmek için sizden istediği tek şey e-posta adresi, şifre ve birkaç yedek koddan oluşan EA hesap bilgilerinizdir. Ancak endişelenmeyin, verilerinizi saklamıyoruz, her sipariş tamamlanınca verileriniz siliniyor."
 
 #~ msgid "coins_page3"
 #~ msgstr "Transfer Hedefleri"
@@ -1579,7 +1579,7 @@ msgstr "Yorumlar"
 
 #: components/MainFunnel/MainFunnel.js:33
 msgid "home:title"
-msgstr "FC 25 jetonlari satin almak"
+msgstr "FС 24 jetonlari satin almak"
 
 #: pages/coins/[id].js:217
 msgid "hours"
@@ -1747,7 +1747,7 @@ msgstr "Bu kupon tümüyle kullanılmış"
 #~ msgstr "Delivery method:"
 
 #~ msgid "locales.deliverytext"
-#~ msgstr " benzersiz bir EA FC 25 Jetonları dağıtım sistemi sunar. Rekor sayıda Jeton tedarikçisi ile işbirliği yapıyoruz. Siparişinize dair işlemleri gerçekleştirirken, hesabınıza EA tarafından hiçbir zaman yaptırım uygulanmayacağını garanti eden özel kurallar kullanıyoruz. Bu kurallardan basılarını şöyle sıralayabiliriz:"
+#~ msgstr " benzersiz bir EA FC 24 Jetonları dağıtım sistemi sunar. Rekor sayıda Jeton tedarikçisi ile işbirliği yapıyoruz. Siparişinize dair işlemleri gerçekleştirirken, hesabınıza EA tarafından hiçbir zaman yaptırım uygulanmayacağını garanti eden özel kurallar kullanıyoruz. Bu kurallardan basılarını şöyle sıralayabiliriz:"
 
 #~ msgid "locales.deliverytitle"
 #~ msgstr "Teslimat"
@@ -1825,19 +1825,19 @@ msgstr "Platform"
 #~ msgstr "Para iadesi için uygun"
 
 #~ msgid "locales.h1_1"
-#~ msgstr "EA FC 25 Jetonu için "
+#~ msgstr "EA FC 24 Jetonu için "
 
 #~ msgid "locales.h1_2"
-#~ msgstr "FC 25 jetonları satın al"
+#~ msgstr "FC 24 jetonları satın al"
 
 #~ msgid "locales.h1_coins"
-#~ msgstr "EA FC 25 Ultimate Team Mağazanız"
+#~ msgstr "EA FC 24 Ultimate Team Mağazanız"
 
 #~ msgid "locales.h1_p1"
 #~ msgstr "Daki ana yol arkadaşınız"
 
 #~ msgid "locales.h1_p2"
-#~ msgstr "EA FC 25 Ultimate Team Store"
+#~ msgstr "EA FC 24 Ultimate Team Store"
 
 #~ msgid "locales.haveCoupon"
 #~ msgstr "İndirim kuponunuz mu var"
@@ -1942,7 +1942,7 @@ msgstr "Teslimat"
 #~ msgstr "so we deliver coins at any time of day, 24/7."
 
 #~ msgid "locales.menuLinkDescDisabled"
-#~ msgstr "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋"
+#~ msgstr "Sales of EA FC 24 coins is now closed. <br/>See you in EA FC 24 season  👋"
 
 #~ msgid "locales.menulinkfaq"
 #~ msgstr "SSS"
@@ -2079,7 +2079,7 @@ msgstr "Şimdi sipariş verin"
 #~ msgstr "Kripto para ile öde"
 
 #~ msgid "locales.p1"
-#~ msgstr "Böylece, İnternet üzerinden EA FC 25 jetonları satın almanın en güvenli yolunu sunuyoruz."
+#~ msgstr "Böylece, İnternet üzerinden EA FC 24 jetonları satın almanın en güvenli yolunu sunuyoruz."
 
 #~ msgid "locales.p2"
 #~ msgstr "FIFA jetonlarını olabildiğince çabuk teslim almak için, web sitesinde yayınlanan veya canlı sohbette yöneticinin verdiği talimatları izleyin."
@@ -2661,10 +2661,10 @@ msgstr "Bkz. şifre"
 #~ msgstr "Ekibimiz size piyasadaki en iyi fiyatları sunmak için çok çalışıyor, böylece en iyi teklifi almanın güveniyle bizden Xbox Series X/S için FUT Jetonları satın alabilirsiniz."
 
 #~ msgid "locales.seo11"
-#~ msgstr "Xbox konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
+#~ msgstr "Xbox konsolunuz için EA FC 24 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
 
 #~ msgid "locales.seo2"
-#~ msgstr "PlayStation konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
+#~ msgstr "PlayStation konsolunuz için EA FC 24 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
 
 #~ msgid "locales.seo3"
 #~ msgstr "PlayStation 5 için FIFA jetonlarında en iyi fırsatları sunuyoruz. Yüksek hızlı teslimat ile ucuz FIFA PS5 jetonları sunuyoruz ve hesabınızın güvenliğini ÜCRETSİZ olarak garanti ediyoruz."
@@ -2673,7 +2673,7 @@ msgstr "Bkz. şifre"
 #~ msgstr "Ekibimiz size piyasadaki en iyi fiyatları sunmak için çok çalışıyor, böylece en iyi teklifi almanın güveniyle bizden PS5 için FUT Jetonları satın alabilirsiniz."
 
 #~ msgid "locales.seo5"
-#~ msgstr "PlayStation konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
+#~ msgstr "PlayStation konsolunuz için EA FC 24 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
 
 #~ msgid "locales.seo6"
 #~ msgstr "Xbox One için FIFA jetonlarında en iyi fırsatları sunuyoruz. Yüksek hızlı teslimat ile ucuz FIFA jetonları sunuyoruz ve hesabınızın güvenliğini ÜCRETSİZ olarak garanti ediyoruz."
@@ -2682,7 +2682,7 @@ msgstr "Bkz. şifre"
 #~ msgstr "Ekibimiz size piyasadaki en iyi fiyatları sunmak için çok çalışıyor, böylece en iyi teklifi almanın güveniyle bizden Xbox 1 için FUT Jetonları satın alabilirsiniz."
 
 #~ msgid "locales.seo8"
-#~ msgstr "Xbox konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
+#~ msgstr "Xbox konsolunuz için EA FC 24 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
 
 #~ msgid "locales.seo9"
 #~ msgstr "Xbox Series X için FIFA jetonlarında en iyi fırsatları sunuyoruz. Ayrıca yüksek hızlı teslimat ile Xbox Series S için ucuz FIFA jetonları sunuyoruz ve hesabınızın güvenliğini ÜCRETSİZ olarak garanti ediyoruz."
@@ -2779,7 +2779,7 @@ msgstr "Durum"
 #~ msgstr "kilitli"
 
 #~ msgid "locales.status.no_access_to_fifa_21_webapp"
-#~ msgstr "EA FC 25 WEB-APP uygulamasına erişilemiyor"
+#~ msgstr "EA FC 24 WEB-APP uygulamasına erişilemiyor"
 
 #~ msgid "locales.status.no_enough_coins_to_start"
 #~ msgstr "YETERLİ JETON YOK"
@@ -2821,10 +2821,10 @@ msgstr "Durum"
 #~ msgstr "GİRİŞ BİLGİLERİ HATALI"
 
 #~ msgid "locales.sublogo"
-#~ msgstr "Jeton EA FC 25"
+#~ msgstr "Jeton EA FC 24"
 
 #~ msgid "locales.sublogo2"
-#~ msgstr "EA FC 25 Öğeleri"
+#~ msgstr "EA FC 24 Öğeleri"
 
 #~ msgid "locales.succPaid"
 #~ msgstr "Sipariş ödemeniz başarıyla gerçekleştirildi"
@@ -2917,7 +2917,7 @@ msgstr "Rüya Takımınızı şimdi kurun"
 #: components/Carusel/Carusel.js:110
 #: components/Carusel/Carusel.js:140
 msgid "mainblocks1"
-msgstr "EA Sports FC 25 Jetonları ile takımınızdaki her pozisyon için mümkün olan en iyi opsiyonları seçmekte özgürsünüz. Hayal gücünüzü konuşturun, yeni şeyler deneyin, deneyler yapın!"
+msgstr "EA Sports FC 24 Jetonları ile takımınızdaki her pozisyon için mümkün olan en iyi opsiyonları seçmekte özgürsünüz. Hayal gücünüzü konuşturun, yeni şeyler deneyin, deneyler yapın!"
 
 #: components/Carusel/Carusel.js:87
 #: components/Modal/Modal.js:169
@@ -2937,7 +2937,7 @@ msgid "mainblocks12"
 msgstr "Sosyal medyalarımız"
 
 #~ msgid "mainblocks13"
-#~ msgstr "EA FC 25"
+#~ msgstr "EA FC 24"
 
 #~ msgid "mainblocks14"
 #~ msgstr "tedarikçiniz"
@@ -2947,7 +2947,7 @@ msgstr "Sosyal medyalarımız"
 
 #: components/H1/H1.js:10
 msgid "mainblocks16"
-msgstr "FC 25 almak için"
+msgstr "FC 24 almak için"
 
 #: components/H1/H1.js:13
 msgid "mainblocks17"
@@ -2966,7 +2966,7 @@ msgid "mainblocks2"
 msgstr "İstediğiniz herhangi bir kartı alın"
 
 #~ msgid "mainblocks20"
-#~ msgstr "FC 25 Ultimate Team"
+#~ msgstr "FC 24 Ultimate Team"
 
 #~ msgid "mainblocks21"
 #~ msgstr "Jeton Mağazası"
@@ -2977,7 +2977,7 @@ msgstr "Satın almak için en güvenli seçenek"
 
 #: components/Offer/Offer.js:32
 msgid "mainblocks23"
-msgstr "FIFA 25 Jetonları"
+msgstr "FIFA 24 Jetonları"
 
 #: components/ReviewsGallery/ReviewsGallery.js:71
 msgid "mainblocks24"
@@ -3055,7 +3055,7 @@ msgid "newcookieslink"
 msgstr "Politika.        "
 
 #~ msgid "newh1_1"
-#~ msgstr "FC 25 jetonlari satin almak"
+#~ msgstr "FС 24 jetonlari satin almak"
 
 #~ msgid "newh1_2"
 #~ msgstr "İçi̇n en güvenli̇ "
@@ -3072,7 +3072,7 @@ msgid "okay"
 msgstr "Tamam        "
 
 #~ msgid "orderh1"
-#~ msgstr "Buy FC 25 Ultimate Team coins"
+#~ msgstr "Buy FC 24 Ultimate Team coins"
 
 #~ msgid "orderinfo"
 #~ msgstr "Order info"
@@ -3450,11 +3450,11 @@ msgstr "Yeni sezona hazırlanıyoruz"
 #: components/MainContainer.js:602
 #: components/MainContainer.js:608
 msgid "seo:root:description"
-msgstr "EA SPORTS FC 25 Jetonları için en iyi mağaza ✔PS 4/5, Xbox One/X/S için EA FC 25 jetonları satın alın 🎮Hızlı Teslimat ve 7/24 Canlı Destek ⚡ %100 Güvenli Ödeme 🔒 Ucuz Ultimate Team Jetonları için güvenli yer"
+msgstr "EA SPORTS FC 24 Jetonları için en iyi mağaza ✔PS 4/5, Xbox One/X/S için EA FC 24 jetonları satın alın 🎮Hızlı Teslimat ve 7/24 Canlı Destek ⚡ %100 Güvenli Ödeme 🔒 Ucuz Ultimate Team Jetonları için güvenli yer"
 
 #: pages/_app.js:25
 msgid "seo:root:title"
-msgstr "Tüm Platformlar için FC 25 Jetonu Satın Alın | Ultimate Team Jeton Mağazası"
+msgstr "Tüm Platformlar için FC 24 Jetonu Satın Alın | Ultimate Team Jeton Mağazası"
 
 #~ msgid "seo0"
 #~ msgstr "Türkçe"
@@ -4004,55 +4004,55 @@ msgstr "Ayrintili Bilgi"
 #~ msgstr "Teslimat nasıl gerçekleşiyor?"
 
 #~ msgid "seo232"
-#~ msgstr "EA FC 25 Ultimate Team Mağazası | EA SPORTS FC 25 Mağazası"
+#~ msgstr "EA FC 24 Ultimate Team Mağazası | EA SPORTS FC 24 Mağazası"
 
 #~ msgid "seo233"
-#~ msgstr "EA SPORTS FC 25 Jetonları için en iyi mağaza ✔PS 4/5, Xbox One/X/S için EA FC 25 jetonları satın alın 🎮Hızlı Teslimat ve 7/24 Canlı Destek ⚡ %100 Güvenli Ödeme 🔒 Ucuz Ultimate Team Jetonları için güvenli yer"
+#~ msgstr "EA SPORTS FC 24 Jetonları için en iyi mağaza ✔PS 4/5, Xbox One/X/S için EA FC 24 jetonları satın alın 🎮Hızlı Teslimat ve 7/24 Canlı Destek ⚡ %100 Güvenli Ödeme 🔒 Ucuz Ultimate Team Jetonları için güvenli yer"
 
 #~ msgid "seo234"
-#~ msgstr "Online Ucuz EA FC 25 Ultimate Team Jetonları Alın | Satılık FUT Jetonları, düşük fiyatlar"
+#~ msgstr "Online Ucuz EA FC 24 Ultimate Team Jetonları Alın | Satılık FUT Jetonları, düşük fiyatlar"
 
 #~ msgid "seo235"
-#~ msgstr "EA SPORTS FC 25 Jetonları için en güvenli yer ✔PS 4/5, Xbox One/X/S için EA FC 25 jetonları satın alın 🎮Hızlı Teslimat ve 7/24 Canlı Destek ⚡%100 Güvenli Ödeme 🔒 Ucuz Ultimate Team Jetonları için güvenli yer"
+#~ msgstr "EA SPORTS FC 24 Jetonları için en güvenli yer ✔PS 4/5, Xbox One/X/S için EA FC 24 jetonları satın alın 🎮Hızlı Teslimat ve 7/24 Canlı Destek ⚡%100 Güvenli Ödeme 🔒 Ucuz Ultimate Team Jetonları için güvenli yer"
 
 #~ msgid "seo236"
-#~ msgstr "PS4 için Ucuz EA FC 25 Jetonları Satın Alın | PS4 için EA SPORTS FC 25 Jetonları"
+#~ msgstr "PS4 için Ucuz EA FC 24 Jetonları Satın Alın | PS4 için EA SPORTS FC 24 Jetonları"
 
 #~ msgid "seo237"
-#~ msgstr "PS4 için EA SPORTS FC 25 Jetonları almak için en güvenli yer 🎮 Rakiplerinizi yenmek için için en iyi oyuncuları alın 🥇 Hızlı Teslimat ve 7/24 Canlı Destek 🔒 Ucuz Ultimate Team Jetonları almak için güvenli y"
+#~ msgstr "PS4 için EA SPORTS FC 24 Jetonları almak için en güvenli yer 🎮 Rakiplerinizi yenmek için için en iyi oyuncuları alın 🥇 Hızlı Teslimat ve 7/24 Canlı Destek 🔒 Ucuz Ultimate Team Jetonları almak için güvenli y"
 
 #~ msgid "seo238"
-#~ msgstr "PS5 için Ucuz EA FC 25 Jetonları Satın Alın | PS5 için EA SPORTS FC 25 Jetonları"
+#~ msgstr "PS5 için Ucuz EA FC 24 Jetonları Satın Alın | PS5 için EA SPORTS FC 24 Jetonları"
 
 #~ msgid "seo239"
-#~ msgstr "PS5 için EA SPORTS FC 25 Jetonları almak için en güvenli yer 🎮 Rakiplerinizi yenmek için için en iyi oyuncuları alın 🥇 Hızlı Teslimat ve 7/24 Canlı Destek 🔒 Ucuz Ultimate Team Jetonları almak için güvenli y"
+#~ msgstr "PS5 için EA SPORTS FC 24 Jetonları almak için en güvenli yer 🎮 Rakiplerinizi yenmek için için en iyi oyuncuları alın 🥇 Hızlı Teslimat ve 7/24 Canlı Destek 🔒 Ucuz Ultimate Team Jetonları almak için güvenli y"
 
 #~ msgid "seo24"
 #~ msgstr "Ana hedefimiz, FUT kulüp bakiyenizi doldurmak için size en güvenli seçeneği sunmaktır. Jeton transfer algoritmamızı sürekli olarak geliştiriyor, eyleme geçmeden önce binlerce hesabımızda testler gerçekleştiriyoruz."
 
 #~ msgid "seo240"
-#~ msgstr "Xbox Oneiçin Ucuz EA FC 25 Jetonları Satın Alın | Xbox One için EA SPORTS FC 25 Jetonları"
+#~ msgstr "Xbox Oneiçin Ucuz EA FC 24 Jetonları Satın Alın | Xbox One için EA SPORTS FC 24 Jetonları"
 
 #~ msgid "seo241"
-#~ msgstr "Xbox One'da EA SPORTS FC 25 Jetonları almak için en güvenli yer 🎮 Rakiplerinizi yenmek için için en iyi oyuncuları alın 🥇 Hızlı Teslimat ve 7/24 Canlı Destek 🔒 Ucuz Ultimate Team Jetonları almak için güvenl"
+#~ msgstr "Xbox One'da EA SPORTS FC 24 Jetonları almak için en güvenli yer 🎮 Rakiplerinizi yenmek için için en iyi oyuncuları alın 🥇 Hızlı Teslimat ve 7/24 Canlı Destek 🔒 Ucuz Ultimate Team Jetonları almak için güvenl"
 
 #~ msgid "seo242"
-#~ msgstr "Xbox için Ucuz EA FC 25 Jetonları Satın Alın | Xbox için EA SPORTS FC 25 Jetonları"
+#~ msgstr "Xbox için Ucuz EA FC 24 Jetonları Satın Alın | Xbox için EA SPORTS FC 24 Jetonları"
 
 #~ msgid "seo243"
-#~ msgstr "Xbox'da EA SPORTS FC 25 Jetonları almak için en güvenli yer 🎮 Rakiplerinizi yenmek için için en iyi oyuncuları alın 🥇 Hızlı Teslimat ve 7/24 Canlı Destek 🔒 Ucuz Ultimate Team Jetonları almak için güvenli ye"
+#~ msgstr "Xbox'da EA SPORTS FC 24 Jetonları almak için en güvenli yer 🎮 Rakiplerinizi yenmek için için en iyi oyuncuları alın 🥇 Hızlı Teslimat ve 7/24 Canlı Destek 🔒 Ucuz Ultimate Team Jetonları almak için güvenli ye"
 
 #~ msgid "seo244"
-#~ msgstr "100K EA FC 25 Jetonu Satın Alın | 100K FUT Jetonu Fiyatı"
+#~ msgstr "100K EA FC 24 Jetonu Satın Alın | 100K FUT Jetonu Fiyatı"
 
 #~ msgid "seo245"
-#~ msgstr "Ultimate Team için 100K EA SPORTS FC 25 Jetonu satın almak için en güvenli yer 🥇 Platformunuzu seçin: PS, Xbox veya PC 🎮 Hızlı Teslimat ve 7/24 Canlı Destek 🔒 Ucuz Ultimate Team Jetonları almak için güvenli"
+#~ msgstr "Ultimate Team için 100K EA SPORTS FC 24 Jetonu satın almak için en güvenli yer 🥇 Platformunuzu seçin: PS, Xbox veya PC 🎮 Hızlı Teslimat ve 7/24 Canlı Destek 🔒 Ucuz Ultimate Team Jetonları almak için güvenli"
 
 #~ msgid "seo246"
-#~ msgstr "1 Milyon EA FC 25 Jetonu Satın Alın | 1000K FUT Jetonu Fiyatı"
+#~ msgstr "1 Milyon EA FC 24 Jetonu Satın Alın | 1000K FUT Jetonu Fiyatı"
 
 #~ msgid "seo247"
-#~ msgstr "Ultimate Team için 1000K (1 milyon) EA SPORTS FC 25 Jetonu almak için en güvenli yer 🥇 Platformunuzu seçin: PS, Xbox, PC 🎮 Hızlı Teslimat ve 7/24 Canlı Destek 🔒 Ucuz Ultimate Team Jetonları almak için güven"
+#~ msgstr "Ultimate Team için 1000K (1 milyon) EA SPORTS FC 24 Jetonu almak için en güvenli yer 🥇 Platformunuzu seçin: PS, Xbox, PC 🎮 Hızlı Teslimat ve 7/24 Canlı Destek 🔒 Ucuz Ultimate Team Jetonları almak için güven"
 
 #~ msgid "seo248"
 #~ msgstr "PlayStation 4 için FIFA jetonlarında en iyi fırsatları sunuyoruz. Yüksek hızlı teslimat ile ucuz FIFA PS4 jetonları sunuyoruz ve hesabınızın güvenliğini ÜCRETSİZ olarak garanti ediyoruz."
@@ -4064,7 +4064,7 @@ msgstr "Ayrintili Bilgi"
 #~ msgstr "Yüksek hizmet seviyesi"
 
 #~ msgid "seo250"
-#~ msgstr "PlayStation konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
+#~ msgstr "PlayStation konsolunuz için EA FC 24 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
 
 #~ msgid "seo251"
 #~ msgstr "PlayStation 5 için FIFA jetonlarında en iyi fırsatları sunuyoruz. Yüksek hızlı teslimat ile ucuz FIFA PS5 jetonları sunuyoruz ve hesabınızın güvenliğini ÜCRETSİZ olarak garanti ediyoruz."
@@ -4073,7 +4073,7 @@ msgstr "Ayrintili Bilgi"
 #~ msgstr "Ekibimiz size piyasadaki en iyi fiyatları sunmak için çok çalışıyor, böylece en iyi teklifi almanın güveniyle bizden PS5 için FUT Jetonları satın alabilirsiniz."
 
 #~ msgid "seo253"
-#~ msgstr "PlayStation konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
+#~ msgstr "PlayStation konsolunuz için EA FC 24 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
 
 #~ msgid "seo254"
 #~ msgstr "Xbox One için FIFA jetonlarında en iyi fırsatları sunuyoruz. Yüksek hızlı teslimat ile ucuz FIFA jetonları sunuyoruz ve hesabınızın güvenliğini ÜCRETSİZ olarak garanti ediyoruz."
@@ -4082,7 +4082,7 @@ msgstr "Ayrintili Bilgi"
 #~ msgstr "Ekibimiz size piyasadaki en iyi fiyatları sunmak için çok çalışıyor, böylece en iyi teklifi almanın güveniyle bizden Xbox 1 için FUT Jetonları satın alabilirsiniz."
 
 #~ msgid "seo256"
-#~ msgstr "Xbox konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
+#~ msgstr "Xbox konsolunuz için EA FC 24 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
 
 #~ msgid "seo257"
 #~ msgstr "Xbox Series X için FIFA jetonlarında en iyi fırsatları sunuyoruz. Ayrıca yüksek hızlı teslimat ile Xbox Series S için ucuz FIFA jetonları sunuyoruz ve hesabınızın güvenliğini ÜCRETSİZ olarak garanti ediyoruz."
@@ -4091,7 +4091,7 @@ msgstr "Ayrintili Bilgi"
 #~ msgstr "Ekibimiz size piyasadaki en iyi fiyatları sunmak için çok çalışıyor, böylece en iyi teklifi almanın güveniyle bizden Xbox Series X/S için FUT Jetonları satın alabilirsiniz."
 
 #~ msgid "seo259"
-#~ msgstr "Xbox konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
+#~ msgstr "Xbox konsolunuz için EA FC 24 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin."
 
 #~ msgid "seo26"
 #~ msgstr "Zamanınıza değer veriyoruz, bu nedenle bizimle alışveriş deneyiminizin mümkün olduğunca sorunsuz geçtiğinden emin olmak için web sitemizin arayüzü ve müşteri destek hizmetimizin kalitesi gibi yönlerini sürekli olarak geliştirmekte kararlıyız."
@@ -4166,7 +4166,7 @@ msgstr "Oturumu kapat"
 #~ msgstr "Şununla giriş yapın"
 
 #~ msgid "seo45"
-#~ msgstr "EA FC 25 Ultimate Team Mağazanız"
+#~ msgstr "EA FC 24 Ultimate Team Mağazanız"
 
 #~ msgid "seo46"
 #~ msgstr "Platform"
@@ -4222,7 +4222,7 @@ msgstr "Herhangi bir hesap bilgisi gerektirmeyen manuel teslimat yöntemi, basit
 #~ msgstr "Rahat İşlem"
 
 #~ msgid "seo6"
-#~ msgstr "Daki ana yol arkadaşınız EA FC 25 Ultimate Team Store"
+#~ msgstr "Daki ana yol arkadaşınız EA FC 24 Ultimate Team Store"
 
 #~ msgid "seo60"
 #~ msgstr "Oyuncu Açık Artırma"
@@ -4411,19 +4411,19 @@ msgid "seom"
 msgstr "m"
 
 #~ msgid "seop22"
-#~ msgstr "Her oyun platformu için EA FC coinlerini en ucuz fiyata mağazamızda bulabilirsiniz. UT 25 coinlerini hem ucuz hem hızlı teslimat ile sunuyoruz, ilave ücret olmaksızın hesabınızın güvenliğini garanti ediyoruz."
+#~ msgstr "Her oyun platformu için EA FC coinlerini en ucuz fiyata mağazamızda bulabilirsiniz. UT 24 coinlerini hem ucuz hem hızlı teslimat ile sunuyoruz, ilave ücret olmaksızın hesabınızın güvenliğini garanti ediyoruz."
 
 #~ msgid "seop23"
-#~ msgstr "Size piyasanın en ucuz fiyatlarını sunmak için ni gerekiyorsa yapıyoruz. Yani, bizden herhangi bir platform için FIFA 25 Coini satın aldığınızda bunu en iyi fiyata yaptığınızdan emin olabilirsiniz."
+#~ msgstr "Size piyasanın en ucuz fiyatlarını sunmak için ni gerekiyorsa yapıyoruz. Yani, bizden herhangi bir platform için FIFA 24 Coini satın aldığınızda bunu en iyi fiyata yaptığınızdan emin olabilirsiniz."
 
 #~ msgid "seop24"
-#~ msgstr "FC 25 coini satın alımı ile ilgili sorularınız varsa bizimle dilediğiniz yoldan iletişime geçebilirsiniz."
+#~ msgstr "FC 24 coini satın alımı ile ilgili sorularınız varsa bizimle dilediğiniz yoldan iletişime geçebilirsiniz."
 
 #~ msgid "t"
 #~ msgstr "Teslimat Hakkında"
 
 #~ msgid "t_t"
-#~ msgstr "Paralar, EA hesabınıza bağlı FC 25 kulübüne teslim edilecektir. Paraları aktarmak için yalnızca EA hesap bilgileri gereklidir."
+#~ msgstr "Paralar, EA hesabınıza bağlı FC 24 kulübüne teslim edilecektir. Paraları aktarmak için yalnızca EA hesap bilgileri gereklidir."
 
 #: components/Aside/Aside.js:52
 msgid "trust:commenturl"

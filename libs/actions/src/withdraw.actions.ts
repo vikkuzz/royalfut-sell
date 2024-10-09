@@ -5,7 +5,7 @@ import { getToken } from "./auth.actions";
 
 export async function sendWalletAddress(
     _token: string | null = null,
-    walletAddress: string,
+    walletAddress: string
 ) {
     let token: string | null = _token;
     if (!token) {
@@ -23,7 +23,7 @@ export async function sendWalletAddress(
                 "Content-Type": "application/json",
                 Authorization: `Token ${token}`,
             },
-        },
+        }
     );
 
     const result = await res.json();
@@ -39,7 +39,7 @@ interface IMethods {
 export async function withdrawRequest(
     _token: string | null = null,
     value: number,
-    method: string,
+    method: string
 ) {
     const methods: IMethods = {
         first: "CARD",

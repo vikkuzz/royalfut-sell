@@ -21,12 +21,10 @@ export default function PaginatorBlog({
         <div className="w-auto h-auto">
             <nav
                 // aria-label="Pagination"
-                className="isolate inline-flex -space-x-px rounded-md shadow-sm gap-1 w-auto h-auto"
-            >
+                className="isolate inline-flex -space-x-px rounded-md shadow-sm gap-1 w-auto h-auto">
                 <button
                     onClick={() => prev(page)}
-                    className="relative inline-flex items-center w-9 h-9 bg-white/[.1] hover:bg-white/[.2] rounded-xl focus:z-20 focus:outline-offset-0"
-                >
+                    className="relative inline-flex items-center w-9 h-9 bg-white/[.1] hover:bg-white/[.2] rounded-xl focus:z-20 focus:outline-offset-0">
                     <span className="sr-only">Previous</span>
                     <ArrowChevronRightIcon className="text-white w-9 h-9 rotate-180" />
                 </button>
@@ -40,9 +38,8 @@ export default function PaginatorBlog({
                                 {
                                     "bg-gradient-to-r from-[#A82DF9] to-[#6678E9]":
                                         +page === i + 1,
-                                },
-                            )}
-                        >
+                                }
+                            )}>
                             {i + 1}
                         </button>
                     );
@@ -50,8 +47,7 @@ export default function PaginatorBlog({
 
                 <button
                     onClick={() => next(page, totalPages)}
-                    className="relative inline-flex items-center w-9 h-9 bg-white/[.1] hover:bg-white/[.2] rounded-xl focus:z-20 focus:outline-offset-0"
-                >
+                    className="relative inline-flex items-center w-9 h-9 bg-white/[.1] hover:bg-white/[.2] rounded-xl focus:z-20 focus:outline-offset-0">
                     <span className="sr-only">Next</span>
                     <ArrowChevronRightIcon className="text-white w-9 h-9 group-hover:animate-shake-r-sm group-hover:animate-infinite group-hover:animate-duration-[1300ms] group-hover:animate-ease-linear" />
                 </button>

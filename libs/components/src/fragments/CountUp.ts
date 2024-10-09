@@ -19,8 +19,8 @@ class CountUp {
             this.containerElement.querySelectorAll<HTMLElement>(
                 "[data-countup-number]"
             );
-        this.intersectionObserver = new IntersectionObserver((entries) => {
-            entries.forEach((entry) => {
+        this.intersectionObserver = new IntersectionObserver(entries => {
+            entries.forEach(entry => {
                 const targetElement = entry.target as HTMLElement;
                 if (
                     entry.isIntersecting &&
@@ -46,7 +46,7 @@ class CountUp {
 
     private initializeObserver(): void {
         if (this.countupElements && this.countupElements.length > 0) {
-            this.countupElements.forEach((element) => {
+            this.countupElements.forEach(element => {
                 this.intersectionObserver.observe(element);
             });
         }

@@ -2,19 +2,23 @@
 "use client";
 
 import { useCallback, useEffect } from "react";
-import { useRouter } from "next/navigation";
+import { useI18nRouter } from "./i18n";
 import { PROJECT_PUBLIC_ROUTES } from "@royalfut/collections";
 import { useLogoutCleanup } from "./useLogoutCleanup";
 import { useForwardLogin } from "./useLogin";
-import { IUserProfile } from "@royalfut/interfaces";
+import { SafeBroadcastChannel } from "@royalfut/utils";
 
-enum QuerySignInMsgReasonTypes {
+import type { IUserProfile } from "@royalfut/interfaces";
+
+const CHANNEL_NAME = "auth";
+
+const enum QuerySignInMsgReasonTypes {
     ACCESS = "access",
     UNCONFIRMED_EMAIL_ADDRESS = "unconfirmed_email",
     CONFIRMED_EMAIL_ADDRESS = "confirmed_email",
 }
 
-const enum ChannelMessageTypes {
+const enum EChannelMessageTypes {
     LOGIN = "login",
     LOGOUT = "logout",
     LOGGEDIN = "loggedin",
@@ -28,109 +32,109 @@ interface INotifyLogoutReason {
 type AuthMessageData =
     | {
           type: Exclude<
-              ChannelMessageTypes,
-              ChannelMessageTypes.LOGOUT | ChannelMessageTypes.LOGIN
+              EChannelMessageTypes,
+              EChannelMessageTypes.LOGOUT | EChannelMessageTypes.LOGIN
           >;
       }
     | {
-          type: ChannelMessageTypes.LOGOUT;
+          type: EChannelMessageTypes.LOGOUT;
           notify?: INotifyLogoutReason;
       }
     | {
-          type: ChannelMessageTypes.LOGIN;
+          type: EChannelMessageTypes.LOGIN;
           profile: IUserProfile;
       };
-let channel = new BroadcastChannel("auth");
+
+const channel = new SafeBroadcastChannel(CHANNEL_NAME);
 
 export const useAuthListener = () => {
-    const router = useRouter();
+    const router = useI18nRouter();
     const { performAppClean } = useLogoutCleanup();
     const { forwardLogin } = useForwardLogin();
+
+    const handleLocalLogout = useCallback(
+        async (reason?: QuerySignInMsgReasonTypes) => {
+            const url = reason
+                ? `${PROJECT_PUBLIC_ROUTES["UNAUTHORIZED_REDIRECT"]}?show=msg&reason=${reason}`
+                : PROJECT_PUBLIC_ROUTES["UNAUTHORIZED_REDIRECT"];
+            const isPublicPage =
+                Object.values(PROJECT_PUBLIC_ROUTES).includes(
+                    window.location.pathname
+                ) || window.location.pathname.startsWith("/coins");
+            if (!isPublicPage) {
+                router.replace(url, { scroll: false });
+            }
+
+            await performAppClean();
+            channel.postMessage({
+                type: EChannelMessageTypes.LOGGEDOUT,
+            } as AuthMessageData);
+        },
+        [performAppClean, router]
+    );
 
     const onAuthChange = useCallback(
         async (e: MessageEvent<any>) => {
             if (!channel) return;
             const data = e.data as AuthMessageData;
-            if (data.type === ChannelMessageTypes.LOGIN) {
+            if (data.type === EChannelMessageTypes.LOGIN) {
                 // router.refresh();
                 forwardLogin(data.profile);
                 channel.postMessage({
-                    type: ChannelMessageTypes.LOGGEDIN,
+                    type: EChannelMessageTypes.LOGGEDIN,
                 } as AuthMessageData);
-            } else if (data.type === ChannelMessageTypes.LOGOUT) {
+            } else if (data.type === EChannelMessageTypes.LOGOUT) {
                 const reason = data.notify?.reason;
-                const url = reason
-                    ? `${PROJECT_PUBLIC_ROUTES["UNAUTHORIZED_REDIRECT"]}?show=msg&reason=${reason}`
-                    : PROJECT_PUBLIC_ROUTES["UNAUTHORIZED_REDIRECT"];
-                await performAppClean();
-                router.replace(url, {
-                    scroll: false,
-                });
-                channel.postMessage({
-                    type: ChannelMessageTypes.LOGGEDOUT,
-                } as AuthMessageData);
+                await handleLocalLogout(reason);
             }
         },
-        [forwardLogin, performAppClean, router],
+        [forwardLogin, performAppClean, router, handleLocalLogout]
     );
 
-    useEffect(
-        () => () => {
-            if (channel) {
-                channel.removeEventListener("message", onAuthChange);
-            }
-        },
-        [onAuthChange],
-    );
+    useEffect(() => {
+        if (channel) {
+            channel.removeEventListener(onAuthChange);
+        }
+    }, [onAuthChange]);
 
     const subscribe = useCallback(() => {
-        channel = new BroadcastChannel("auth");
-        channel.addEventListener("message", onAuthChange);
+        channel.addEventListener(onAuthChange);
     }, [onAuthChange]);
 
     const loginListener = useCallback((profile: IUserProfile) => {
-        const authChannel = new BroadcastChannel("auth");
         const body: AuthMessageData = {
-            type: ChannelMessageTypes.LOGIN,
+            type: EChannelMessageTypes.LOGIN,
             profile,
         };
-        authChannel.postMessage(body);
+        channel.postMessage(body);
     }, []);
 
     const loggedOut = useCallback((cb: () => void) => {
-        const authChannel = new BroadcastChannel("auth");
-
-        authChannel.addEventListener(
-            "message",
-            function loggedout(e: MessageEvent<any>) {
-                if (e.data.type === ChannelMessageTypes.LOGGEDOUT) {
-                    cb();
-                    channel.removeEventListener("message", loggedout);
-                }
-            },
-        );
+        channel.addEventListener(function loggedout(e: MessageEvent<any>) {
+            if (e.data.type === EChannelMessageTypes.LOGGEDOUT) {
+                cb();
+                channel.removeEventListener(loggedout);
+            }
+        });
     }, []);
 
     const loggedIn = useCallback((cb: () => void) => {
-        const authChannel = new BroadcastChannel("auth");
-
-        authChannel.addEventListener(
-            "message",
-            function loggedin(e: MessageEvent<any>) {
-                if (e.data.type === ChannelMessageTypes.LOGGEDIN) {
-                    cb();
-                    channel.removeEventListener("message", loggedin);
-                }
-            },
-        );
+        channel.addEventListener(function loggedin(e: MessageEvent<any>) {
+            if (e.data.type === EChannelMessageTypes.LOGGEDIN) {
+                cb();
+                channel.removeEventListener(loggedin);
+            }
+        });
     }, []);
 
     const logoutListener = useCallback((notify?: INotifyLogoutReason) => {
-        const authChannel = new BroadcastChannel("auth");
-        authChannel.postMessage({
-            type: ChannelMessageTypes.LOGOUT,
+        const body: AuthMessageData = {
+            type: EChannelMessageTypes.LOGOUT,
             notify,
-        } as AuthMessageData);
+        };
+
+        channel.postMessage(body);
+        handleLocalLogout(notify?.reason);
     }, []);
 
     return { loginListener, logoutListener, loggedOut, loggedIn, subscribe };

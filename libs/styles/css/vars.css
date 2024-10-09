@@ -1,48 +1,51 @@
 :root {
   /* Colors */
 
-  --color-typography-body: 0 0% 100%; /* #FFFFFF */
-  --color-typography-title: 0 0% 100%; /* #FFFFFF */
+    --color-typography-body: 0, 0%, 100%;                 /* #FFFFFF */
+    --color-typography-title: 0, 0%, 100%;                /* #FFFFFF */
 
-  --color-black-text: 0 0% 0%; /* #000000 */
-  --color-black-background: 235, 40%, 12%; /* #12142A */
-  --color-black-1: 235 31% 15%; /* #1B1D33 */
-  --color-black-2: 236 28% 20%; /* #242640 */
-  --color-black-shape: 235 22% 22%; /* #2B2D43 */
-  --color-black-dropdown: 235 17% 25%; /* #35374B */
+    --color-black-text: 0, 0%, 0%;                        /* #000000 */
+    --color-black-background: 235, 40%, 12%;              /* #12142A */
+    --color-black-1: 235, 31%, 15%;                       /* #1B1D33 */
+    --color-black-2: 236, 28%, 20%;                       /* #242640 */
+    --color-black-3: 240, 13.7%, 28.63%;                  /* #3F3F53 */
+    --color-black-shape: 235, 22%, 22%;                   /* #2B2D43 */
+    --color-black-dropdown: 235, 17%, 25%;                /* #35374B */
 
-  --color-white: 0 0% 100%; /* #FFFFFF */
-  --color-white-5: 232.17, 27.71%, 16.27%; /* #1E2135 */
-  --color-white-10: 228, 13.51%, 29.02%; /* #404454 */
-  --color-white-20: 232.94 9.29% 35.88%; /* #535564 */
-  --color-white-40: 235.71 5.83% 47.06%; /* #71727f */
-  --color-white-50: 228 1.98%, 50.39%; /* #7e7f83 */
-  --color-white-55: 231.43 3.45%, 60.2%; /* #96979d */
-  --color-white-60: 231.43 3.87%, 64.51%; /* #a1a2a8 */
-  --color-white-70: 232.5 5.06%, 69.02%; /* #acadb4 */
+    --color-white: 0, 0%, 100%;                           /* #FFFFFF */
+    --color-white-5: 232.17, 27.71%, 16.27%;              /* #1E2135 */
+    --color-white-10: 228, 13.51%, 29.02%;                /* #404454 */
+    --color-white-20: 232.94, 9.29%, 35.88%;              /* #535564 */
+    --color-white-40: 235.71, 5.83%, 47.06%;              /* #71727f */
+    --color-white-50: 228, 1.98%, 50.39%;                 /* #7e7f83 */
+    --color-white-55: 231.43, 3.45%, 60.2%;               /* #96979d */
+    --color-white-60: 231.43, 3.87%, 64.51%;              /* #a1a2a8 */
+    --color-white-65: 233.33, 4.97%, 64.51%;              /* #a0a1a9 */
+    --color-white-70: 232.5, 5.06%, 69.02%;               /* #acadb4 */
 
-  --color-primary: 260 86% 64%; /* #8852F2 */
-  --color-secondary: 43 83% 52%; /* #EAB11F */
+    --color-primary: 260, 86%, 64%;                       /* #8852F2 */
+    --color-secondary: 43, 83%, 52%;                      /* #EAB11F */
 
+    --color-extra-stereo: 261.74, 82.32%, 64.51%;         /* #905AEF */
+    --color-extra-bonus: 43, 83%, 52%;                    /* #EAB11F */
+    --color-extra-star: 43, 83%, 52%;                     /* #EAB11F */
+    --color-extra-trustpilot: 146, 64%, 36%;              /* #219653 */
+    --color-extra-benefit-1: 77, 50%, 41%;                /* #809E35 */
+    --color-extra-benefit-2: 350, 48%, 42%;               /* #9E3749 */
+    --color-extra-benefit-3: 184, 46%, 43%;               /* #3C9AA1 */
+    --color-extra-benefit-4: 151, 51%, 41%;               /* #349F6B */
 
-    --color-extra-stereo: 261.74, 82.32%, 64.51%;       /* #905AEF */
-    --color-extra-bonus: 43 83% 52%;                    /* #EAB11F */
-    --color-extra-star: 43 83% 52%;                     /* #EAB11F */
-    --color-extra-trustpilot: 146 64% 36%;              /* #219653 */
-    --color-extra-benefit-1: 77 50% 41%;                /* #809E35 */
-    --color-extra-benefit-2: 350 48% 42%;               /* #9E3749 */
-    --color-extra-benefit-3: 184 46% 43%;               /* #3C9AA1 */
-    --color-extra-benefit-4: 151 51% 41%;               /* #349F6B */
+    --color-labels-sale: 144, 51%, 41%;                   /* #349F5E */
+    --color-labels-new: 43, 83%, 52%;                     /* #EAB11F */
+    --color-labels-hot: 14, 83%, 52%;                     /* #EA501F */
 
-  --color-labels-sale: 144 51% 41%; /* #349F5E */
-  --color-labels-new: 43 83% 52%; /* #EAB11F */
-  --color-labels-hot: 14 83% 52%; /* #EA501F */
+    --color-system-success: 126, 80%, 41%;                /* #15BC26 */
+    --color-system-error: 0, 78%, 59%;                    /* #E84545 */
+    --color-system-info: 217, 89%, 61%;                   /* #4285F4 */
 
-  --color-system-success: 126 80% 41%; /* #15BC26 */
-  --color-system-error: 0 78% 59%; /* #E84545 */
-  --color-system-info: 217 89% 61%; /* #4285F4 */
+    --color-link-1: 215.02, 100%, 54.31%;                 /* #1677ff */
 
-  --color-referral-income: 144 51% 41%; /* #349F5E */
+    --color-referral-income: 144, 51%, 41%;               /* #349F5E */
 
   /* Sizes */
 

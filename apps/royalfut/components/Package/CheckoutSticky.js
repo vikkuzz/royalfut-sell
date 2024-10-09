@@ -380,7 +380,7 @@ const CheckoutSticky = () => {
         }
     }, [width]);
 
-    const handleClickUsePoints = async e => {
+    const handleClickUsePoints = async (e) => {
         let coins = +stateOrderCoins;
         let localMethod = stateMethod.easy ? "Easy" : "Manual";
 
@@ -433,19 +433,13 @@ const CheckoutSticky = () => {
                             {/* <Trans>pl_upd31</Trans> */}
                             {t("pl_upd31")}
                         </button>
-                        <div
-                            className={`${styles.transparent} ${
-                                (!stateLoyaltyAllData?.customPoints ||
-                                    stateLoyaltyAllData?.customPoints == 0) &&
-                                styles.for_notice
-                            }`}>
+                        <div className={`${styles.transparent} ${(!stateLoyaltyAllData?.customPoints ||
+                                    stateLoyaltyAllData?.customPoints == 0)&&styles.for_notice}`}>
                             <div className={`${styles.notice}`}>
                                 <span className={`${styles.title_note}`}>
                                     {t("buymorecoins")}
                                 </span>
-                                <button
-                                    className={`${styles.btn_details}`}
-                                    onClick={showModal}>
+                                <button className={`${styles.btn_details}`} onClick={showModal}>
                                     {t("pl_upd29")}
                                 </button>
                             </div>
@@ -481,123 +475,126 @@ const CheckoutSticky = () => {
                         </div>
                     </div>
                 </div>
-                {stateUsePoints == "true" ? (
-                    <div className={`${styles.coupon_wrapper}`}>
-                        <span className={`${styles.title}`}>
-                            <div className={`${styles.crown_wrapper}`}>
-                                <Image
-                                    src={"/img/white_crown.svg"}
-                                    width={16}
-                                    height={16}
-                                />
-                            </div>
-                            {t("pl_upd36")}
-                        </span>
-                        <span className="width_auto">
+                {
+                    stateUsePoints == "true" ? 
+                        <div className={`${styles.coupon_wrapper}`}>
                             <span className={`${styles.title}`}>
-                                {stateCurrency?.currency}
-                            </span>
-                            <span className={`${styles.title}`}>
-                                {stateLoyaltyAllData?.customPointsPrice || 0}
-                            </span>
-                        </span>
-                    </div>
-                ) : (
-                    <div
-                        className={`${styles.coupon_wrapper} ${stateUsePoints == "true" && "disabled"}`}>
-                        <CheckoutCoupon />
-                    </div>
-                )}
-            </div>
-            <div className={`${styles.stick} ${styles.zindex}`}>
-                <div className={`${styles.price_values}`}>
-                    <div className={`${styles.price_all}`}>
-                        <span className={`${styles.price_all_title}`}>
-                            {t("ab111")}
-                        </span>
-                        <div className={`${styles.prices_wrapper}`}>
-                            <span className={`${styles.price_actual}`}>
-                                {stateCurrency?.currency}{" "}
-                                {(+stateLoyaltyAllData?.priceActual)?.toFixed(
-                                    2
-                                )}
-                                <div className={`${styles.dd_wrapper}`}>
-                                    <DropdownOrder
-                                        title={stateCurrency.title}
-                                        value={flagLangs}
+                                <div className={`${styles.crown_wrapper}`}>
+                                    <Image
+                                        src={"/img/white_crown.svg"}
+                                        width={16}
+                                        height={16}
                                     />
                                 </div>
+                                {t("pl_upd36")}
                             </span>
+                            <span className="width_auto">
+                                <span className={`${styles.title}`}>
+                                    {stateCurrency?.currency}
+                                </span>
+                                <span className={`${styles.title}`}>
+                                    {stateLoyaltyAllData?.customPointsPrice ||
+                                        0}
+                                </span>
+                            </span>
+                        </div>
+                        :
+                        <div
+                            className={`${styles.coupon_wrapper} ${stateUsePoints == "true" && "disabled"}`}>
+                            <CheckoutCoupon />
+                        </div>
+                }
+                </div>
+                <div className={`${styles.stick} ${styles.zindex}`}>
+                    <div className={`${styles.price_values}`}>
+                        <div className={`${styles.price_all}`}>
+                            <span className={`${styles.price_all_title}`}>
+                                {t("ab111")}
+                            </span>
+                            <div className={`${styles.prices_wrapper}`}>
+                                <span className={`${styles.price_actual}`}>
+                                    {stateCurrency?.currency}{" "}
+                                    {(+stateLoyaltyAllData?.priceActual)?.toFixed(
+                                        2
+                                    )}
+                                    <div className={`${styles.dd_wrapper}`}>
+                                        <DropdownOrder
+                                            title={stateCurrency.title}
+                                            value={flagLangs}
+                                        />
+                                    </div>
+                                </span>
+                            </div>
                         </div>
                     </div>
-                </div>
-                {stateUsePoints == "false" &&
-                    stateLoyaltyAllData?.points > 0 && (
-                        <div className={`${styles.wrapper_points}`}>
-                            <PointsBlock coins={stateOrderCoins} full={true} />
-                            <span className={`${styles.description}`}>
-                                {stateUser?.token && t(`pl_upd35`)}
-                                {!stateUser?.token && t(`pl_upd34`)}
-                            </span>
-                        </div>
-                    )}
-
-                <div className={`${styles.wrapper_btn} ${styles.margin_top}`}>
-                    {stateCurrency.title == "RUB" &&
-                        stateNamePaymentMethod == "acquiring" && (
-                            <form
-                                className={`${styles.hidden_form}`}
-                                method="post"
-                                action="https://pay.modulbank.ru/pay">
-                                {modulData?.map(el => {
-                                    if (el[0] != "acquiringLink") {
-                                        return (
-                                            <input
-                                                key={el[0]}
-                                                type="hidden"
-                                                name={el[0]}
-                                                value={
-                                                    typeof el[1] == "string"
-                                                        ? el[1].replaceAll(
-                                                              "&amp;",
-                                                              "&"
-                                                          )
-                                                        : el[1]
-                                                }
-                                            />
-                                        );
-                                    }
-                                })}
-
-                                <input
-                                    ref={submit}
-                                    className={`hidden `}
-                                    type="submit"
-                                    value={
-                                        stateUser.token
-                                            ? t(`payNow`)
-                                            : t(`authToPay`)
-                                    }
-                                    readOnly
-                                />
-                            </form>
+                    {stateUsePoints == "false" &&
+                        stateLoyaltyAllData?.points > 0 && (
+                            <div className={`${styles.wrapper_points}`}>
+                                <PointsBlock coins={stateOrderCoins} full={true} />
+                                <span className={`${styles.description}`}>
+                                    {stateUser?.token && t(`pl_upd35`)}
+                                    {!stateUser?.token && t(`pl_upd34`)}
+                                </span>
+                            </div>
                         )}
-                    <GradientBtn size={size} callback={aproovePayment}>
-                        <span className={`${styles.btn_text_wrapper}`}>
-                            <span className={`${styles.btn_text}`}>
-                                {stateUser.token ? t(`preorder.buy`) : t(`preorder.signin`)}
+
+                    <div className={`${styles.wrapper_btn} ${styles.margin_top}`}>
+                        {stateCurrency.title == "RUB" &&
+                            stateNamePaymentMethod == "acquiring" && (
+                                <form
+                                    className={`${styles.hidden_form}`}
+                                    method="post"
+                                    action="https://pay.modulbank.ru/pay">
+                                    {modulData?.map(el => {
+                                        if (el[0] != "acquiringLink") {
+                                            return (
+                                                <input
+                                                    key={el[0]}
+                                                    type="hidden"
+                                                    name={el[0]}
+                                                    value={
+                                                        typeof el[1] == "string"
+                                                            ? el[1].replaceAll(
+                                                                "&amp;",
+                                                                "&"
+                                                            )
+                                                            : el[1]
+                                                    }
+                                                />
+                                            );
+                                        }
+                                    })}
+
+                                    <input
+                                        ref={submit}
+                                        className={`hidden `}
+                                        type="submit"
+                                        value={
+                                            stateUser.token
+                                                ? t(`payNow`)
+                                                : t(`authToPay`)
+                                        }
+                                        readOnly
+                                    />
+                                </form>
+                            )}
+                        <GradientBtn size={size} callback={aproovePayment}>
+                            <span className={`${styles.btn_text_wrapper}`}>
+                                <span className={`${styles.btn_text}`}>
+                                    {stateUser.token ? t(`payNow`) : t(`authToPay`)}
+                                </span>
+                                <span className={`${styles.arrow_wrapper}`}>
+                                    <Image
+                                        src="/img/arrow_right_checkout.svg"
+                                        width={24}
+                                        height={24}
+                                    />
+                                </span>
                             </span>
-                            <span className={`${styles.arrow_wrapper}`}>
-                                <Image
-                                    src="/img/arrow_right_checkout.svg"
-                                    width={24}
-                                    height={24}
-                                />
-                            </span>
-                        </span>
-                    </GradientBtn>
+                        </GradientBtn>
+                    </div>
                 </div>
-            </div>
+            
         </div>
     );
 };

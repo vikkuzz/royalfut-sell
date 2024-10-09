@@ -1,5 +1,8 @@
-import { useMemo } from "react";
+"use client";
+
+import { useMemo, useRef } from "react";
 import { getRandomNumber } from "@royalfut/utils";
+import { useIsMounted } from "@royalfut/hooks";
 
 import styles from "./SparkleAnimation.module.scss";
 import type { FC, CSSProperties } from "react";
@@ -35,40 +38,65 @@ interface ISparkleAnimationProps {
     };
 }
 
+const SparkleItem: FC<{
+    idx: number;
+    settings: ISparkleAnimationProps["settings"];
+}> = ({ idx, settings = {} }) => {
+    const { current: options } = useRef({
+        size: getRandomNumber(
+            settings.size?.min || 4,
+            settings.size?.max || 23
+        ),
+        pos: {
+            r: getRandomNumber(
+                settings.pos?.right?.min || 0,
+                settings.pos?.right?.max || 20
+            ),
+            t: getRandomNumber(
+                settings.pos?.top?.min || 0,
+                settings.pos?.top?.max || 20
+            ),
+        },
+        animation: {
+            dur: getRandomNumber(
+                settings.animate?.duration?.min || 2,
+                settings.animate?.duration?.max || 4
+            ),
+            del: getRandomNumber(
+                settings.animate?.delay?.min || 0.1,
+                settings.animate?.delay?.max || 1
+            ),
+        },
+    });
+
+    const sparkleStyle = {
+        "--sparkle-pos-r": `${options.pos.r}${settings.pos?.right?.isPercent ? "%" : "px"}`,
+        "--sparkle-pos-t": `${options.pos.t}px`,
+        "--sparkle-w": `${options.size}px`,
+        "--sparkle-h": `${options.size}px`,
+        "--sparkle-animation-dur": `${options.animation.dur}s`,
+        "--sparkle-animation-del": `${options.animation.del}s`,
+        "--sparkle-bg":
+            idx % 2 === 0
+                ? "var(--color-illusion-shine-accent-1)"
+                : "var(--color-illusion-shine-accent-2)",
+    } as CSSProperties;
+
+    return <span className={styles["sparkle"]} style={sparkleStyle} />;
+};
+
 const SparkleAnimation: FC<ISparkleAnimationProps> = ({
     count = 2,
     settings = {},
 }) => {
-    const memoizedSettings = useMemo(() => settings, [settings]);
+    const isMounted = useIsMounted();
 
     const sparkles = useMemo(() => {
+        if (!isMounted) return null;
         return new Array(count).fill(null).map((_, idx) => {
-            const size = getRandomNumber(
-                memoizedSettings.size?.min || 4,
-                memoizedSettings.size?.max || 23
-            );
-            const sparkleStyle = {
-                "--sparkle-pos-r": `${getRandomNumber(memoizedSettings.pos?.right?.min || 0, memoizedSettings.pos?.right?.max || 20)}${memoizedSettings.pos?.right?.isPercent ? "%" : "px"}`,
-                "--sparkle-pos-t": `${getRandomNumber(memoizedSettings.pos?.top?.min || 0, memoizedSettings.pos?.top?.max || 20)}px`,
-                "--sparkle-w": `${size}px`,
-                "--sparkle-h": `${size}px`,
-                "--sparkle-animation-dur": `${getRandomNumber(memoizedSettings.animate?.duration?.min || 2, memoizedSettings.animate?.duration?.max || 4)}s`,
-                "--sparkle-animation-del": `${getRandomNumber(memoizedSettings.animate?.delay?.min || 0.1, memoizedSettings.animate?.delay?.max || 1)}s`,
-                "--sparkle-bg":
-                    idx % 2 === 0
-                        ? "var(--color-illusion-shine-accent-1)"
-                        : "var(--color-illusion-shine-accent-2)",
-            } as CSSProperties;
-
-            return (
-                <span
-                    key={idx}
-                    className={styles["sparkle"]}
-                    style={sparkleStyle}
-                />
-            );
+            return <SparkleItem key={idx} idx={idx} settings={settings} />;
         });
-    }, [count, memoizedSettings]);
+    }, [count, isMounted, settings]);
 
     return sparkles;
 };

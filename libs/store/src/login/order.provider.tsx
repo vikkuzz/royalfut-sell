@@ -9,7 +9,7 @@ import type { StoreApi } from "zustand";
 import type { OrderStore, IOrderState } from "./order.store";
 
 export const OrderStoreContext = createContext<StoreApi<OrderStore> | null>(
-    null,
+    null
 );
 
 export interface IOrderStoreProviderProps {

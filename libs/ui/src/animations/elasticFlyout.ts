@@ -37,7 +37,7 @@ const elasticFlyoutWrapper = () => {
             const elapsedTime = time - startTime; // Calculate elapsed time
             let elasticPosition = calculateElasticPosition(
                 dotPosition,
-                velocity,
+                velocity
             );
 
             if (
@@ -96,7 +96,7 @@ const elasticFlyoutWrapper = () => {
             `;
 
             if (elapsedTime <= FRAME_PERIOD) {
-                nextStep = requestAnimationFrame((time) => animate(time));
+                nextStep = requestAnimationFrame(time => animate(time));
             } else {
                 cb && cb();
                 cancelAnimationFrame(nextStep);

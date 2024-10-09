@@ -1,8 +1,10 @@
-import Link from "next/link";
-import { DefaultAppSettings } from "@royalfut/collections";
+import {
+    DefaultAppSettings,
+    PROJECT_PUBLIC_WWW_ROUTES,
+} from "@royalfut/collections";
 import { useTranslations } from "next-intl";
 import { VerifiedMarkerIcon } from "@royalfut/icons";
-import { TrustpilotStarRating } from "@royalfut/ui";
+import { Link, TrustpilotStarRating, SectionTitle } from "@royalfut/ui";
 import { cn } from "@royalfut/utils";
 
 import type { FNCNChildren } from "@royalfut/interfaces";
@@ -24,17 +26,17 @@ const Divider = () => {
 };
 
 const TrustpilotRatingSummary = () => {
-    const t = useTranslations("home");
+    const t = useTranslations("pi_home");
 
     return (
-        <>
+        <div dir="ltr">
             <h3 className="flex text-3xl font-bold gap-3 md:justify-end md:text-2xl">
                 Trustpilot
                 <TrustpilotStarRating
                     rating={+DefaultAppSettings.trustScore.rate}
                 />
             </h3>
-            <div className="flex flex-wrap gap-y-2">
+            <div className="flex flex-wrap gap-y-2" dir="ltr">
                 <WidgetText>
                     {t("trustpilot.reviews.rating", {
                         amount: DefaultAppSettings.trustScore.rate,
@@ -47,7 +49,7 @@ const TrustpilotRatingSummary = () => {
                         {t.rich("trustpilot.reviews.count", {
                             highlight: chunk => (
                                 <Link
-                                    href={"/reviews"}
+                                    href={PROJECT_PUBLIC_WWW_ROUTES["REVIEWS"]}
                                     className="text-white underline">
                                     {chunk}
                                 </Link>
@@ -68,7 +70,7 @@ const TrustpilotRatingSummary = () => {
                     </span>
                 </WidgetText>
             </div>
-        </>
+        </div>
     );
 };
 
@@ -77,26 +79,25 @@ interface IClientTestimonialsHeader {
         label: string;
         cn?: string;
     };
+    dir?: string;
 }
 
 const ClientTestimonialsHeader: FNCNChildren<IClientTestimonialsHeader> = ({
     children,
     title,
     className,
+    dir,
 }) => {
     return (
         <div
             className={cn(
                 "flex flex-col md:flex-row justify-between md:items-end",
                 className
-            )}>
-            <h2
-                className={cn(
-                    "text-4xl font-bold text-white mb-6 md:mb-0",
-                    title.cn
-                )}>
+            )}
+            dir={dir}>
+            <SectionTitle className={cn("md:mb-0", title.cn)}>
                 {title.label}
-            </h2>
+            </SectionTitle>
             <div className="flex flex-col gap-4 md:gap-2">{children}</div>
         </div>
     );

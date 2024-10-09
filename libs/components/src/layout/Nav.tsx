@@ -1,10 +1,9 @@
 "use client";
 
 import { useState } from "react";
-import Link from "next/link";
 import Image from "next/image";
-import { useUIGlobalStore } from "@royalfut/store";
-import { HoverCard } from "@royalfut/ui";
+import { useProjectGlobalStore } from "@royalfut/store";
+import { Link, HoverCard } from "@royalfut/ui";
 import * as Accordion from "@radix-ui/react-accordion";
 import { ArrowDownFilledIcon } from "@royalfut/icons";
 import { cn } from "@royalfut/utils";
@@ -12,12 +11,12 @@ import { cn } from "@royalfut/utils";
 import type { FC } from "react";
 import type {
     FNCN,
-    TUIGlobalNavExpanded,
-    TUIGlobalNavLink,
-    UIGlobalNavItems,
+    TProjectGlobalNavExpanded,
+    TProjectGlobalNavLink,
+    ProjectGlobalNavItems,
 } from "@royalfut/interfaces";
 
-const NavLink: FNCN<Omit<TUIGlobalNavLink, "type">> = ({
+const NavLink: FNCN<Omit<TProjectGlobalNavLink, "type">> = ({
     href,
     label,
     icon,
@@ -41,7 +40,7 @@ const NavLink: FNCN<Omit<TUIGlobalNavLink, "type">> = ({
     );
 };
 
-const AccordionNavLink: FC<Omit<TUIGlobalNavLink, "type" | "icon">> = ({
+const AccordionNavLink: FC<Omit<TProjectGlobalNavLink, "type" | "icon">> = ({
     label,
     href,
 }) => {
@@ -54,7 +53,7 @@ const AccordionNavLink: FC<Omit<TUIGlobalNavLink, "type" | "icon">> = ({
     );
 };
 
-const AccordionNavItem: FNCN<TUIGlobalNavExpanded> = ({
+const AccordionNavItem: FNCN<TProjectGlobalNavExpanded> = ({
     className,
     ...nav
 }) => {
@@ -87,7 +86,7 @@ const AccordionNavItem: FNCN<TUIGlobalNavExpanded> = ({
     );
 };
 
-const HeaderDropdownNavItem: FNCN<TUIGlobalNavExpanded> = ({
+const HeaderDropdownNavItem: FNCN<TProjectGlobalNavExpanded> = ({
     className,
     ...nav
 }) => {
@@ -121,7 +120,7 @@ const HeaderDropdownNavItem: FNCN<TUIGlobalNavExpanded> = ({
     );
 };
 
-export const SheetNavigationItems: FNCN<{ links: UIGlobalNavItems }> = ({
+export const SheetNavigationItems: FNCN<{ links: ProjectGlobalNavItems }> = ({
     className,
     links,
 }) => {
@@ -143,7 +142,7 @@ export const SheetNavigationItems: FNCN<{ links: UIGlobalNavItems }> = ({
 };
 
 export const HeaderNavigationLinks: FNCN = ({ className }) => {
-    const links = useUIGlobalStore(state => state.header.nav);
+    const links = useProjectGlobalStore(state => state.header.nav);
 
     return (
         <nav className={cn("flex flex-row space-x-5 space-y-0", className)}>

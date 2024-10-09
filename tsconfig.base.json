@@ -18,6 +18,7 @@
     "baseUrl": "./",
     "paths": {
       "@sell.royalfut/src/*": ["apps/sell.royalfut/src/*"],
+      "@www.royalfut/*": ["apps/www.royalfut/src/*"],
       "@royalfut/actions": ["libs/actions/src/index.ts"],
       "@royalfut/actions/server": ["libs/actions/src/server.ts"],
       "@royalfut/collections": ["libs/collections/src/index.ts"],

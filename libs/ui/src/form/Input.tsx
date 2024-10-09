@@ -71,7 +71,7 @@ const Input: InputComponent = forwardRef(function InputRef(
         vsize = "md",
         ...rest
     },
-    externalRef,
+    externalRef
 ) {
     const Comp = asChild ? Slot : "input";
     const [inputValue, setInputValue] = useState(initialValue);
@@ -82,7 +82,7 @@ const Input: InputComponent = forwardRef(function InputRef(
 
     useEffect(() => {
         if (libRef.current && mountedFocus) {
-            libRef.current.focus();
+            // libRef.current.focus();
         }
     }, [mountedFocus]);
 
@@ -91,7 +91,7 @@ const Input: InputComponent = forwardRef(function InputRef(
     });
 
     const handleChangeValue: ChangeEventHandler<HTMLInputElement> = useCallback(
-        (event) => {
+        event => {
             const {
                 target: { value: _value },
             } = event;
@@ -100,11 +100,11 @@ const Input: InputComponent = forwardRef(function InputRef(
             }
             setInputValue(_value);
         },
-        [onChange],
+        [onChange]
     );
 
     const handleOnBlur: FocusEventHandler<HTMLInputElement> = useCallback(
-        (e) => {
+        e => {
             if (onBlur) {
                 onBlur(e);
             }
@@ -113,7 +113,7 @@ const Input: InputComponent = forwardRef(function InputRef(
                 onBlurEffect(e.target.value);
             }
         },
-        [onBlur, onBlurEffect],
+        [onBlur, onBlurEffect]
     );
 
     const inputEl = useMemo(
@@ -137,7 +137,7 @@ const Input: InputComponent = forwardRef(function InputRef(
                                     : disabled || mountedDisabled,
                             vborder: borderType,
                         }),
-                    className,
+                    className
                 )}
                 ref={inputRef}
                 {...rest}
@@ -158,7 +158,7 @@ const Input: InputComponent = forwardRef(function InputRef(
             rest,
             vsize,
             vtype,
-        ],
+        ]
     );
 
     if (borderType === "box") {
@@ -174,9 +174,8 @@ const Input: InputComponent = forwardRef(function InputRef(
                         "opacity-50 cursor-not-allowed pointer-events-none":
                             disabled,
                     },
-                    cnBox,
-                )}
-            >
+                    cnBox
+                )}>
                 <div className="absolute left-0 right-0 top-0 bottom-0 h-full w-full">
                     <div className="relative rounded-xl w-full h-full from-white-60 to-white-60 p-px bg-gradient-to-r">
                         {/* <div className="relative rounded-xl w-full h-full transition-all duration-700 from-[#a1a2a8] to-[#a1a2a8] group-hover:from-[#6678E9] focus:from-[#6678E9] focus:to-[#A82DF9] group-hover:to-[#A82DF9] p-px bg-gradient-to-r"> */}
@@ -194,7 +193,7 @@ const Input: InputComponent = forwardRef(function InputRef(
                                         iconProps.centered,
                                     "pointer-events-none": disabled,
                                 },
-                                iconProps.className,
+                                iconProps.className
                             )}
                         />
                     )}

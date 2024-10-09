@@ -9,7 +9,6 @@ import { useTranslations } from "next-intl";
 
 const FaqMain = () => {
     const t = useTranslations("faq");
-    const preorder = useTranslations("home.preorder");
 
     const WhyRoyalfut = () => {
         return (
@@ -67,55 +66,28 @@ const FaqMain = () => {
             <div className={`${styles.faq_blocktext} ${styles.content_text}`}>
                 <p className={`${styles.custom_li}`}>
                     <span>
-                        {preorder(`faq_t2`)
-                            .replaceAll("[F]", "EA FC 25")
-                            .replaceAll("[UT]", "FC 25 Ultimate Team")}
+                        {t(`a39`)
+                            .replaceAll("[F]", "EA FC 24")
+                            .replaceAll("[UT]", "FC 24 Ultimate Team")}
                     </span>
                 </p>
                 <p className={`${styles.custom_li}`}>
                     <span>
-                        {preorder(`faq_t3`)
-                            .replaceAll("[UT]", "FC 25 Ultimate Team")
+                        {t(`a40`)
+                            .replaceAll("[UT]", "FC 24 Ultimate Team")
                             .replaceAll("[PT]", "FC Points")}
                     </span>
                 </p>
                 <p className={`${styles.custom_li}`}>
                     <span>
-                        {preorder(`faq_t4`)
-                            .replaceAll("[UT]", "FC 25 Ultimate Team")
+                        {t(`a41`)
+                            .replaceAll("[UT]", "FC 24 Ultimate Team")
                             .replaceAll("[PT]", "FC Points")}
                     </span>
                 </p>
             </div>
         );
     };
-    // const HowChange = () => {
-    //     return (
-    //         <div className={`${styles.faq_blocktext} ${styles.content_text}`}>
-    //             <p className={`${styles.custom_li}`}>
-    //                 <span>
-    //                     {t(`a39`)
-    //                         .replaceAll("[F]", "EA FC 25")
-    //                         .replaceAll("[UT]", "FC 25 Ultimate Team")}
-    //                 </span>
-    //             </p>
-    //             <p className={`${styles.custom_li}`}>
-    //                 <span>
-    //                     {t(`a40`)
-    //                         .replaceAll("[UT]", "FC 25 Ultimate Team")
-    //                         .replaceAll("[PT]", "FC Points")}
-    //                 </span>
-    //             </p>
-    //             <p className={`${styles.custom_li}`}>
-    //                 <span>
-    //                     {t(`a41`)
-    //                         .replaceAll("[UT]", "FC 25 Ultimate Team")
-    //                         .replaceAll("[PT]", "FC Points")}
-    //                 </span>
-    //             </p>
-    //         </div>
-    //     );
-    // };
     const Section = () => {
         return (
             <div className={`${styles.faq_blocktext}`}>
@@ -127,12 +99,12 @@ const FaqMain = () => {
         );
     };
 
-    // const msg = t`What are the advantages of buying {'FC 25 Ultimate Team'} coins instead of {'FC Points'}?`;
+    // const msg = t`What are the advantages of buying {'FC 24 Ultimate Team'} coins instead of {'FC Points'}?`;
     // const msg = t({
     //     id: "__a38",
     //     message: 'What are the advantages of buying {0} coins instead of {1}?',
     //     values: {
-    //         0: 'FC 25 Ultimate Team',
+    //         0: 'FC 24 Ultimate Team',
     //         1: 'FC Points',
     //     }
     // });
@@ -160,8 +132,8 @@ const FaqMain = () => {
                             </Panel>
                             <Panel
                                 className="site-collapse-custom-panel"
-                                header={preorder(`faq_t1`)
-                                    .replaceAll("[UT]", "FC 25 Ultimate Team")
+                                header={t(`a38`)
+                                    .replaceAll("[UT]", "FC 24 Ultimate Team")
                                     .replaceAll("[PT]", "FC Points")}
                                 // header={msg}
                                 key="2"

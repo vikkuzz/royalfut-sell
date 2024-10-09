@@ -37,7 +37,7 @@ const UserPointsLoyalty = ({ id = 1, link = true, coins }) => {
                     price * (stateLoyaltyUser?.bonusPartPercent / 100);
 
                 let pointsValue = Math.floor(cashPrice * 10); // кол-во баллов которые можем списать
-                let maxPoints = Math.floor(stateLoyaltyUser?.totalCashback * 10); // накопленные баллы
+                let maxPoints = Math.floor(stateLoyaltyUser.totalCashback * 10); // накопленные баллы
 
                 if (maxPoints > pointsValue) {
                     setPoints(pointsValue);
@@ -45,11 +45,11 @@ const UserPointsLoyalty = ({ id = 1, link = true, coins }) => {
                     setPoints(maxPoints);
                 }
             } else {
-                setPoints(Math.floor(stateLoyaltyUser?.totalCashback * 10));
+                setPoints(Math.floor(stateLoyaltyUser.totalCashback * 10));
             }
         }
     }, [
-        stateLoyaltyUser?.totalCashback,
+        stateLoyaltyUser.totalCashback,
         coins,
         statePlatform,
         stateStock,

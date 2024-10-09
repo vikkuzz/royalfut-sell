@@ -57,7 +57,7 @@ export const inputAbleVariants = cva(
                 className: "bordered-box-linear-success",
             },
         ],
-    },
+    }
 );
 
 export type InputAbleVariantsProps = VariantProps<typeof inputAbleVariants>;

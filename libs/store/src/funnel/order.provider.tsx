@@ -19,7 +19,7 @@ export interface IOrderTradeStoreProviderProps {
     initial: Pick<IOrderTradeStepsState, "stepId">;
 }
 
-export const OrderTradeStoreProvider = ({
+export const OrderTradeStepsStoreProvider = ({
     children,
     initial,
 }: IOrderTradeStoreProviderProps) => {
@@ -36,13 +36,13 @@ export const OrderTradeStoreProvider = ({
 };
 
 export const useOrderTradeStepsStore = <T,>(
-    selector: (store: OrderTradeStepsStore) => T,
+    selector: (store: OrderTradeStepsStore) => T
 ): T => {
     const orderTradeStoreContext = useContext(OrderTradeStoreContext);
 
     if (!orderTradeStoreContext) {
         throw new Error(
-            `useOrderTradeStepsStore must be use within OrderTradeStoreProvider`,
+            `useOrderTradeStepsStore must be use within OrderTradeStepsStoreProvider`
         );
     }
 

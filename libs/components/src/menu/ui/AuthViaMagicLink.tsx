@@ -30,7 +30,7 @@ const profileFormSchema = z.object({
 
 type ProfileSchema = z.infer<typeof profileFormSchema>;
 const Form = () => {
-    const t = useTranslations("auth");
+    const t = useTranslations("phoenix_pages.auth");
     const {
         register,
         handleSubmit,
@@ -46,14 +46,6 @@ const Form = () => {
 
     const requestMagicLink = async (data: ProfileSchema) => {
         try {
-            await fetch("https://test-royalfut.com/api/users/fastlogin", {
-                method: "POST",
-                body: JSON.stringify({ user: { email: data.email } }),
-                headers: {
-                    Accept: "application/json, text/plain",
-                    "Content-Type": "application/json;charset=UTF-8",
-                },
-            });
             await fetch("https://test-royalfut.com/api/users/fastlogin", {
                 method: "POST",
                 body: JSON.stringify({ user: { email: data.email } }),
@@ -134,7 +126,7 @@ const Form = () => {
 };
 
 const AuthViaMagicLink = () => {
-    const t = useTranslations("auth");
+    const t = useTranslations("phoenix_pages.auth");
     const setIsLogged = useAuthStore(state => state.setIsLogged);
     const setUser = useUserStore(store => store.setUser);
     const { loginListener } = useAuthListener();
@@ -214,7 +206,7 @@ const AuthViaMagicLink = () => {
         const urlForLoginCode = "".concat(url, "/api/user/login/code");
 
         authToken(
-            `${urlForLoginCode}/GoogleOAuth?access_token=${response.access_token}`,
+            `${urlForLoginCode}/GoogleOAuth?access_token=${response.access_token}`
         );
     }
 
@@ -233,10 +225,8 @@ const AuthViaMagicLink = () => {
             <button
                 onClick={() => {
                     clickLogin();
-                    clickLogin();
                 }}
-                className="flex h-16 bg-white mt-16 w-full rounded-xl space-x-2 justify-center items-center"
-            >
+                className="flex h-16 bg-white mt-16 w-full rounded-xl space-x-2 justify-center items-center">
                 <GoogleLogoIcon className="w-6 h-6" />
                 <span className="text-black font-bold text-base">
                     {t("oauth.google")}

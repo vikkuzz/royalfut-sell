@@ -1,10 +1,10 @@
 import { getRequestConfig } from "next-intl/server";
-import { EI18nIds } from "@royalfut/enums";
+import { DefaultAppSettings } from "@royalfut/collections";
 
 export default getRequestConfig(async () => {
     // Provide a static locale, fetch a user setting,
     // read from `cookies()`, `headers()`, etc.
-    const locale = EI18nIds.ENGLISH;
+    const locale = DefaultAppSettings.i18n;
 
     return {
         locale,

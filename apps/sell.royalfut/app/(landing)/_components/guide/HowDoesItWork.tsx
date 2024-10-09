@@ -8,7 +8,8 @@ const HowDoesItWork = () => {
                 <div className="mb-10">
                     <h2
                         id="how-does-it-work"
-                        className="w-80 text-6xl font-bold text-white">
+                        className="w-80 text-6xl font-bold text-white"
+                    >
                         How does it work
                     </h2>
                 </div>

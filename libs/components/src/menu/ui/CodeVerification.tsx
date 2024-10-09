@@ -19,9 +19,9 @@ import { PencilMonocolorIcon } from "@royalfut/icons";
 const MAGIC_LINK_CODE_COUNT = 6;
 
 const CodeVerification = () => {
-    const t = useTranslations("auth");
+    const t = useTranslations("phoenix_pages.auth");
     const [isValid, setIsValid] = useState<"unknown" | "valid" | "invalid">(
-        "unknown",
+        "unknown"
     );
     const [isValidating, setIsValidating] = useState(false);
     const { loginListener } = useAuthListener();
@@ -56,7 +56,7 @@ const CodeVerification = () => {
                 console.log(e);
             }
         },
-        [email, loginListener, setIsLogged, setOpen, setUser],
+        [email, loginListener, setIsLogged, setOpen, setUser]
     );
 
     useUpdate(() => {
@@ -98,7 +98,7 @@ const CodeVerification = () => {
                     classNames={{
                         container: cn(
                             "w-full h-16 justify-between items-start inline-flex",
-                            { "animate-pulse": isValidating },
+                            { "animate-pulse": isValidating }
                         ),
                         character: cn(
                             "grow shrink basis-0 h-16 bg-transparent p-2 rounded-xl border border-white border-opacity-60 justify-center items-center inline-flex text-center text-white text-4xl font-bold leading-normal focus-visible:outline-none",
@@ -107,7 +107,7 @@ const CodeVerification = () => {
                                 "border-system-error": isValid === "invalid",
                                 "opacity-50 cursor-not-allowed pointer-events-none bg-black-background/80":
                                     isValidating,
-                            },
+                            }
                         ),
                         characterInactive:
                             "text-white-60 border-white-60 outline-none",
@@ -132,7 +132,6 @@ const CodeVerification = () => {
                 <Button
                     disabled={isValidating}
                     className="text-center transition-opacity duration-300 opacity-60 hover:opacity-100 text-white text-base font-bold capitalize leading-normal gap-2 px-2 py-2 border border-white rounded-lg"
-                    as="button"
                     onClick={resetMagicLinkStore}>
                     <PencilMonocolorIcon className="w-4 h-4" />
                     <span>{t("action.changeEmail")}</span>

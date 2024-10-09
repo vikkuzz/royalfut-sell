@@ -1,7 +1,14 @@
-import { OrderByPlatforms, CoinAmountSelector } from "@royalfut/components";
-import { OrderStepIds } from "@royalfut/enums";
-import { OrderTradeInfo } from "@royalfut/collections";
-import OrderProcessManager from "../_components/OrderProcessManager";
+import {
+    OrderByPlatforms,
+    CoinAmountSelector,
+    OrderProcessManager,
+    PlatformChoice,
+} from "@royalfut/components";
+import { EOrderProcessingStepIds } from "@royalfut/enums";
+import {
+    SELLER_OrderProcessingStepsInfo,
+    PlatformAppSets,
+} from "@royalfut/collections";
 
 import type { Metadata } from "next";
 
@@ -14,13 +21,20 @@ const OrderPage = () => {
         <OrderProcessManager
             title="Sell FC 24 Ultimate Team coins"
             steps={{
-                active: OrderStepIds.ORDER_INFO,
+                active: EOrderProcessingStepIds.SELLER_ORDER_INFO,
                 availableSteps:
-                    OrderTradeInfo[OrderStepIds.ORDER_INFO].allowSteps,
-            }}>
+                    SELLER_OrderProcessingStepsInfo[
+                        EOrderProcessingStepIds.SELLER_ORDER_INFO
+                    ]!.allowSteps,
+            }}
+        >
             <div>
-                <OrderByPlatforms />
-                <CoinAmountSelector />
+                <OrderByPlatforms title="Select your platform">
+                    <PlatformChoice.Root>
+                        <PlatformChoice.Buttons sets={PlatformAppSets} />
+                    </PlatformChoice.Root>
+                </OrderByPlatforms>
+                <CoinAmountSelector title="Specify the amount of coins for sale" />
             </div>
         </OrderProcessManager>
     );

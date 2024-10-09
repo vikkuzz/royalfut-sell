@@ -6,6 +6,7 @@ import ClientLayout from "./ClientLayout";
 import { Montserrat } from "next/font/google";
 import { GoogleTagManager } from "../components/Analitics/Analitics";
 import { Brevo } from "../components/Third-party/Brevo";
+// import { headers } from 'next/headers';
 
 const montserrat = Montserrat({
     subsets: ["latin", "cyrillic", "vietnamese"],
@@ -14,9 +15,13 @@ const montserrat = Montserrat({
 
 export const metadata = {
     icons: {
-        icon: "/favicon2.ico",
+        icon: "/favicon2.ico", // /public path
     },
 };
+
+// export async function generateStaticParams() {
+//     return ['en', 'ru'];
+// }
 
 export default function RootLayout({ children, params }) {
     if (!locales.includes(params.locale)) {
@@ -24,6 +29,9 @@ export default function RootLayout({ children, params }) {
     }
 
     const messages = useMessages();
+    // const headersList = headers();
+    // const host = headersList.get('Host');
+    // console.log(host);
 
     return (
         <html lang={params.locale}>

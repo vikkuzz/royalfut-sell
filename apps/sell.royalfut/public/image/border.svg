@@ -1,0 +1,15 @@
+<svg width="364" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="paint0_linear_9319_28436" x1="1" x2="0.09" y1="-0.01" y2="2.23">
+   <stop stop-color="#A82DF9"/>
+   <stop offset="1" stop-color="#6678E9"/>
+  </linearGradient>
+  <clipPath id="clip0_9319_28436">
+   <rect fill="white" height="24" id="svg_1" transform="translate(213 20)" width="24"/>
+  </clipPath>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#000000" fill-opacity="0" height="63" id="svg_2" rx="11.5" stroke="url(#paint0_linear_9319_28436)" width="363" x="0.5" y="0.5"/>
+ </g>
+</svg>

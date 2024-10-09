@@ -19,10 +19,9 @@ export const LayoutViewportSectionFrame = forwardRef<
             {...props}
             className={cn(
                 "w-full max-w-viewport min-w-viewport mx-auto px-4 md:px-8",
-                className,
+                className
             )}
-            ref={externalRef}
-        >
+            ref={externalRef}>
             {children}
         </Comp>
     );

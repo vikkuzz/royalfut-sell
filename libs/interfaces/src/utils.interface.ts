@@ -7,3 +7,7 @@ export type MakeRequiredAndNonNullableProps<T, K extends keyof T> = Omit<
 > & { [P in K]-?: NonNullable<T[P]> };
 
 export type NonUndefined<T> = T extends undefined ? never : T;
+
+export type WithRequiredProperty<Type, Key extends keyof Type> = Type & {
+    [Property in Key]-?: Type[Property];
+};

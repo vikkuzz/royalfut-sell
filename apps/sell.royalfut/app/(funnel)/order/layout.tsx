@@ -1,5 +1,5 @@
 import { LayoutViewportSectionFrame } from "@royalfut/ui";
-import OrderSectionFrame from "./_components/OrderSectionFrame";
+import { OrderStepProcessing } from "@royalfut/components";
 import PrefetchSteps from "./_components/PrefetchSteps";
 
 import type { FC, PropsWithChildren } from "react";
@@ -8,7 +8,7 @@ const OrderLayout: FC<PropsWithChildren> = ({ children }) => {
     return (
         <>
             <LayoutViewportSectionFrame>
-                <OrderSectionFrame>{children}</OrderSectionFrame>
+                <OrderStepProcessing>{children}</OrderStepProcessing>
             </LayoutViewportSectionFrame>
             <PrefetchSteps />
         </>

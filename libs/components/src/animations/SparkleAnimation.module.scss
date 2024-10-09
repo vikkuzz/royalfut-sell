@@ -12,6 +12,7 @@
   mask-size: contain;
   mask-image: url(/image/sparkle.svg);
   animation: sparkle-easy var(--sparkle-animation-dur) ease-in infinite var(--sparkle-animation-del) both;
+  will-change: transform, opacity;
 }
 
 @keyframes sparkle-easy {

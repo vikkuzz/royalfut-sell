@@ -1,11 +1,7 @@
 import { createStore } from "zustand";
 import { immer } from "zustand/middleware/immer";
 
-import type {
-    IUserProfile,
-    IAPI,
-    IBonusLevelEntity,
-} from "@royalfut/interfaces";
+import type { IUserProfile, IAPI } from "@royalfut/interfaces";
 
 export interface IUserState {
     user: IUserProfile | null;
@@ -26,59 +22,70 @@ const initialUserStore: IUserState = {
 
 export const createUserStore = (initState: IUserState = initialUserStore) => {
     return createStore<UserStore>()(
-        immer((set) => ({
+        immer(set => ({
             ...initState,
             setUser: (user: IUserProfile | null) =>
-                set((state) => {
+                set(state => {
                     state.user = user;
                 }),
             setAvatarImage: (img: string) =>
-                set((state) => {
+                set(state => {
                     if (state.user) {
                         state.user.avatar = img;
                     }
                 }),
             setUserName: (name: string) =>
-                set((state) => {
+                set(state => {
                     if (state.user) {
                         state.user.username = name;
                     }
                 }),
             reset: () => set(initialUserStore),
-        })),
+        }))
     );
 };
 
 export interface IUserBonusState {
-    info?: IAPI.Root.Bonus.Info.GET.Response.Body;
-    levels?: Array<IBonusLevelEntity>;
-    levelZero?: IBonusLevelEntity;
+    info: IAPI.Root.Bonus.Info.GET.Response.Body | null;
     loyalty: {
-        amount: number;
-    };
+        balance: number;
+    } | null;
 }
 
 interface IUserBonusActions {
     setProfileLoyaltyAmount: (amount: number) => void;
+    clear: () => void;
 }
 
-export type UserBonusStore = IUserBonusState & IUserBonusActions;
+export type TUserBonusStore = IUserBonusState & IUserBonusActions;
 
 const initialUserBonusStore: IUserBonusState = {
-    loyalty: {
-        amount: 0,
-    },
+    info: null,
+    loyalty: null,
 };
 
 export const createUserBonusStore = (
     initState: IUserBonusState = initialUserBonusStore
 ) => {
-    return createStore<UserBonusStore>()(
+    return createStore<TUserBonusStore>()(
         immer(set => ({
             ...initState,
+            clear: () =>
+                set({
+                    info: null,
+                    loyalty: {
+                        balance: 0,
+                    },
+                }),
             setProfileLoyaltyAmount: amount =>
                 set(state => {
-                    state.loyalty.amount = amount;
+                    if (!state.loyalty) {
+                        state.loyalty = {
+                            balance: amount,
+                        };
+                    } else {
+                        state.loyalty.balance = amount;
+                    }
                 }),
         }))
     );

@@ -21,7 +21,7 @@ export interface IUseLoadGsiScriptOptions {
 }
 
 export const useLoadGsiScript = (
-    options: IUseLoadGsiScriptOptions = {},
+    options: IUseLoadGsiScriptOptions = {}
 ): [() => (() => void) | void] => {
     const { onScriptLoadSuccess, onScriptLoadError } = options;
     const { scriptInitialized, setScriptInitialized } = useGoogleOAuth();

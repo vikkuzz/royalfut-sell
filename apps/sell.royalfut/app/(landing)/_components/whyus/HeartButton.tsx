@@ -18,15 +18,15 @@ const HeartButton = () => {
     }, 150);
 
     const removeLike = useCallback((id: string) => {
-        setLikes(prev => prev.filter(item => item !== id));
+        setLikes((prev) => prev.filter((item) => item !== id));
     }, []);
 
     useEffect(() => {
-        likes.forEach(id => {
+        likes.forEach((id) => {
             queueMicrotask(() => {
                 if (!animations.has(id)) {
                     const el = document.querySelector(
-                        `[data-id='${id}']`
+                        `[data-id='${id}']`,
                     ) as HTMLDivElement;
                     if (el) {
                         runElasticFlyout(el, removeLike.bind(null, id));
@@ -43,7 +43,7 @@ const HeartButton = () => {
         removeScale();
         const randomId = Math.random();
 
-        setLikes(prev => {
+        setLikes((prev) => {
             if (prev.length >= 6) return prev;
             return [...prev, String(randomId)];
         });
@@ -51,22 +51,23 @@ const HeartButton = () => {
 
     return (
         <Button
-            as="button"
             aria-label="Like"
             className={cn(
                 "group absolute bottom-5 right-8 w-max h-max",
-                styles.like
+                styles.like,
             )}
-            onClick={handleClick}>
+            onClick={handleClick}
+        >
             <div className="w-max h-max relative">
                 <div
                     className={cn("transition-transform duration-75", {
                         "scale-125": scaleOrigin,
                         "scale-100": !scaleOrigin,
-                    })}>
+                    })}
+                >
                     <HeartIcon className="w-10 h-10 animate-wiggle-more pointer-events-none animate-infinite group-hover:animate-pause group-hover:opacity-90 text-[#FF4F6E]" />
                 </div>
-                {likes.map(item => {
+                {likes.map((item) => {
                     // const colorIdx = getRandomInteger(0, 3);
                     return (
                         <div
@@ -74,8 +75,9 @@ const HeartButton = () => {
                             data-id={item}
                             className={cn(
                                 styles.plusOne,
-                                "text-[#FF4F6E] absolute top-1/2 left-1/2 pointer-events-none w-full h-full"
-                            )}>
+                                "text-[#FF4F6E] absolute top-1/2 left-1/2 pointer-events-none w-full h-full",
+                            )}
+                        >
                             <HeartIcon />
                         </div>
                     );

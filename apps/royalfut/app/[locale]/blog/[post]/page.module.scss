@@ -16,7 +16,7 @@
   line-height: 120%; /* 28.8px */
   letter-spacing: -0.456px;
   padding-top: 40px;
-  padding-bottom: 8px;
+  padding-bottom: 24px;
 }
 .ul {
   display: flex;
@@ -24,10 +24,10 @@
   gap: 16px;
 
   li {
-    display: initial;
+    // display: flex;
     // flex-direction: column;
     // gap: 16px;
-    padding-top: 12px;
+    padding-top: 24px;
     font-size: 16px;
     color: rgba(255, 255, 255, 0.8);
     line-height: 140%;
@@ -52,7 +52,6 @@
   padding-right: 6px;
 }
 .em {
-  display: initial;
   padding-left: 6px;
   padding-right: 6px;
 }

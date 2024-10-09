@@ -18,13 +18,13 @@ const initialWithdrawStore: IWithdrawState = {
 };
 
 export const createWithdrawStore = (
-    initState: IWithdrawState = initialWithdrawStore,
+    initState: IWithdrawState = initialWithdrawStore
 ) => {
     return createStore<WithdrawStore>()(
-        immer((set) => ({
+        immer(set => ({
             ...initState,
             setWithdrawWallet: (wallet: IWithdraw | null) =>
-                set((state) => {
+                set(state => {
                     state.wallet = wallet;
                 }),
         }))

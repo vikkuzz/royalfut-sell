@@ -1,7 +1,8 @@
 import type { EAppContacts, EAppSocials } from "@royalfut/enums";
 import type { I18nCollection, CCYCollection } from "./locale.interface";
 
-type LocalizedNSType<T = never> = T & { nsI18n: string };
+type LocalizedNSType<T = never, Opt = false> = T &
+    (Opt extends true ? { nsI18n?: string } : { nsI18n: string });
 type LocalizedLabelType =
     | { localized?: true; fbLabel?: string; nsI18n?: string }
     | { localized: false };
@@ -9,7 +10,7 @@ type LocalizedText<T = never, O = false> = T &
     LocalizedLabelType &
     (O extends true ? object : { label: string });
 
-type UIGlobalNavBase<Linked = true> = LocalizedText<
+type ProjectGlobalNavBase<Linked = true> = LocalizedText<
     Linked extends true
         ? {
               href: string;
@@ -17,40 +18,42 @@ type UIGlobalNavBase<Linked = true> = LocalizedText<
         : object
 >;
 
-export type TUIGlobalNavLink = UIGlobalNavBase & {
+export type TProjectGlobalNavLink = ProjectGlobalNavBase & {
     type: "link";
     icon?: string;
 };
 
-export type TUIGlobalNavExpanded = UIGlobalNavBase & {
+export type TProjectGlobalNavExpanded = ProjectGlobalNavBase & {
     type: "expanded";
-    content: Array<UIGlobalNavBase>;
+    content: Array<ProjectGlobalNavBase>;
 };
 
-export type TUIGlobalFooterContacts = UIGlobalNavBase<false> & {
+export type TProjectGlobalFooterContacts = ProjectGlobalNavBase<false> & {
     items: Array<
         {
             id: EAppContacts;
             style: {
                 showLogo?: boolean;
             };
-        } & UIGlobalNavBase
+        } & ProjectGlobalNavBase
     >;
 };
 
-export type TUIGlobalFooterSocials = UIGlobalNavBase<false> & {
+export type TProjectGlobalFooterSocials = ProjectGlobalNavBase<false> & {
     items: Array<
         {
             id: EAppSocials;
-        } & UIGlobalNavBase
+        } & ProjectGlobalNavBase
     >;
 };
 
-export type TUIGlobalFooterNavigation = UIGlobalNavBase<false> & {
-    links: UIGlobalNavItems;
+export type TProjectGlobalFooterNavigation = ProjectGlobalNavBase<false> & {
+    links: ProjectGlobalNavItems;
 };
 
-export type UIGlobalNavItems = Array<TUIGlobalNavExpanded | TUIGlobalNavLink>;
+export type ProjectGlobalNavItems = Array<
+    TProjectGlobalNavExpanded | TProjectGlobalNavLink
+>;
 
 export interface IInfographicStatsItem {
     prefixText?: string;
@@ -59,7 +62,7 @@ export interface IInfographicStatsItem {
     description: LocalizedText<object>;
 }
 
-export interface IUIGlobalState {
+export interface IProjectGlobalState {
     local: {
         lng: I18nCollection | null;
         ccy: CCYCollection | null;
@@ -84,12 +87,12 @@ export interface IUIGlobalState {
                 };
             };
         };
-        nav: UIGlobalNavItems;
+        nav: ProjectGlobalNavItems;
     }>;
     footer: LocalizedNSType<{
-        contacts: TUIGlobalFooterContacts;
-        socials: TUIGlobalFooterSocials;
-        nav: Array<TUIGlobalFooterNavigation>;
+        contacts: TProjectGlobalFooterContacts;
+        socials: TProjectGlobalFooterSocials;
+        nav: Array<TProjectGlobalFooterNavigation>;
     }>;
     menu: {
         root: Array<
@@ -97,7 +100,7 @@ export interface IUIGlobalState {
                 LocalizedText<
                     {
                         section: LocalizedText<object>;
-                        nav: UIGlobalNavItems;
+                        nav: ProjectGlobalNavItems;
                     },
                     true
                 >
@@ -106,7 +109,16 @@ export interface IUIGlobalState {
     };
     pages: {
         home: LocalizedNSType<{
-            inforgraphic: Array<IInfographicStatsItem>;
+            infographic: Array<IInfographicStatsItem>;
         }>;
     };
+}
+
+export interface IProjectPrivateGlobalState {
+    profile: LocalizedNSType<
+        {
+            nav: Array<ProjectGlobalNavBase>;
+        },
+        true
+    >;
 }

@@ -1,11 +1,11 @@
 import { DividerMenu } from "./Divider";
-import { useUIGlobalStore } from "@royalfut/store";
+import { useProjectGlobalStore } from "@royalfut/store";
 import { SheetNavigationItems } from "../../layout";
 
 import styles from "./Divider.module.scss";
 
 const ProfileNav = () => {
-    const menu = useUIGlobalStore(state => state.menu.root);
+    const menu = useProjectGlobalStore(state => state.menu.root);
 
     return (
         <div className="flex flex-col mt-10 gap-10">

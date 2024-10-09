@@ -195,7 +195,7 @@ const CustomAccordion = () => {
                         {t("a70")}
                     </li>
                     <li className={`${styles.custom_li}`}>
-                        {t(`a71`).replaceAll("[F]", "EA FC 25")}
+                        {t(`a71`).replaceAll("[F]", "EA FC 24")}
                     </li>
                 </ol>
                 <p>
@@ -391,14 +391,17 @@ const CustomAccordion = () => {
         return (
             <div
                 className={`${styles.faq_blocktext} ${styles.content_text} ${styles.center}`}>
-                {t("anewansw")}{" "}
-                <Link
-                    href={"https://myaccount.ea.com/cp-ui/security/index"}
-                    rel="nofollow"
-                    target="_blank"
-                    className={`${styles.link_trust}`}>
-                    https://myaccount.ea.com/cp-ui/security/index
-                </Link>
+                    {t("anewansw")}{" "}
+                        <Link
+                            href={
+                                "https://myaccount.ea.com/cp-ui/security/index"
+                            }
+                            rel="nofollow"
+                            target="_blank"
+                            className={`${styles.link_trust}`}>
+                            https://myaccount.ea.com/cp-ui/security/index
+                        </Link>
+                    
             </div>
         );
     };
@@ -438,21 +441,21 @@ const CustomAccordion = () => {
                 <p className={`${styles.custom_li}`}>
                     <span>
                         {t(`a39`)
-                            .replaceAll("[F]", "EA FC 25")
-                            .replaceAll("[UT]", "FC 25 Ultimate Team")}
+                            .replaceAll("[F]", "EA FC 24")
+                            .replaceAll("[UT]", "FC 24 Ultimate Team")}
                     </span>
                 </p>
                 <p className={`${styles.custom_li}`}>
                     <span>
                         {t(`a40`)
-                            .replaceAll("[UT]", "FC 25 Ultimate Team")
+                            .replaceAll("[UT]", "FC 24 Ultimate Team")
                             .replaceAll("[PT]", "FC Points")}
                     </span>
                 </p>
                 <p className={`${styles.custom_li}`}>
                     <span>
                         {t(`a41`)
-                            .replaceAll("[UT]", "FC 25 Ultimate Team")
+                            .replaceAll("[UT]", "FC 24 Ultimate Team")
                             .replaceAll("[PT]", "FC Points")}
                     </span>
                 </p>
@@ -599,7 +602,7 @@ const CustomAccordion = () => {
                             <Panel
                                 className="site-collapse-custom-panel"
                                 header={t(`a38`)
-                                    .replaceAll("[UT]", "FC 25 Ultimate Team")
+                                    .replaceAll("[UT]", "FC 24 Ultimate Team")
                                     .replaceAll("[PT]", "FC Points")}
                                 key="2"
                                 showArrow={false}>
@@ -662,7 +665,7 @@ const CustomAccordion = () => {
                                 className="site-collapse-custom-panel"
                                 header={t(`a58`).replaceAll(
                                     "[UT]",
-                                    "FC 25 Ultimate Team"
+                                    "FC 24 Ultimate Team"
                                 )}
                                 key="1"
                                 showArrow={false}>
@@ -743,7 +746,7 @@ const CustomAccordion = () => {
                                 className="site-collapse-custom-panel"
                                 header={t(`a102`).replaceAll(
                                     "[UT]",
-                                    "FC 25 Ultimate Team"
+                                    "FC 24 Ultimate Team"
                                 )}
                                 key="1"
                                 showArrow={false}>

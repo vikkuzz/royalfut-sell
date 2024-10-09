@@ -2,7 +2,7 @@ const pagesData = [
     {
         title: "Barclays Women's Super League TOTS",
         description:
-            "Stay updated on player upgrades and discover the essence of FC 25 TOTS, including mixed-league packs and Premier League TOTS.",
+            "Stay updated on player upgrades and discover the essence of FC 24 TOTS, including mixed-league packs and Premier League TOTS.",
         h1: "BWSL",
         h2: "THE FINAL SQUAD",
         cards: [
@@ -28,7 +28,7 @@ const pagesData = [
     {
         title: "MIXED LEAGUE TOTS",
         description:
-            "Stay updated on player upgrades and discover the essence of FC 25 TOTS, including mixed-league packs and Premier League TOTS.",
+            "Stay updated on player upgrades and discover the essence of FC 24 TOTS, including mixed-league packs and Premier League TOTS.",
         h1: "MIXED LEAGUE TOTS",
         h2: "",
         cards: [
@@ -66,7 +66,7 @@ const pagesData = [
     {
         title: "Premier League TOTS",
         description:
-            "Stay updated on player upgrades and discover the essence of FC 25 TOTS, including mixed-league packs and Premier League TOTS.",
+            "Stay updated on player upgrades and discover the essence of FC 24 TOTS, including mixed-league packs and Premier League TOTS.",
         h1: "Premier League",
         h2: "THE FINAL SQUAD",
         cards: [
@@ -101,7 +101,7 @@ const pagesData = [
     {
         title: "Bundesliga TOTS",
         description:
-            "Stay updated on player upgrades and discover the essence of FC 25 TOTS, including mixed-league packs and Premier League TOTS.",
+            "Stay updated on player upgrades and discover the essence of FC 24 TOTS, including mixed-league packs and Premier League TOTS.",
         h1: "Bundesliga",
         h2: "THE FINAL SQUAD",
         cards: [
@@ -128,7 +128,7 @@ const pagesData = [
     {
         title: "Google Pixel Frauen Bundesliga TOTS",
         description:
-            "Stay updated on player upgrades and discover the essence of FC 25 TOTS, including mixed-league packs and Premier League TOTS.",
+            "Stay updated on player upgrades and discover the essence of FC 24 TOTS, including mixed-league packs and Premier League TOTS.",
         h1: "Frauen Bundesliga",
         h2: "THE FINAL SQUAD",
         cards: [
@@ -155,7 +155,7 @@ const pagesData = [
     {
         title: "Ligue 1 TOTS",
         description:
-            "Stay updated on player upgrades and discover the essence of FC 25 TOTS, including mixed-league packs and Premier League TOTS.",
+            "Stay updated on player upgrades and discover the essence of FC 24 TOTS, including mixed-league packs and Premier League TOTS.",
         h1: "Ligue 1",
         h2: "THE FINAL SQUAD",
         cards: [
@@ -193,7 +193,7 @@ const pagesData = [
     {
         title: "D1 Feminine TOTS",
         description:
-            "Stay updated on player upgrades and discover the essence of FC 25 TOTS, including mixed-league packs and Premier League TOTS.",
+            "Stay updated on player upgrades and discover the essence of FC 24 TOTS, including mixed-league packs and Premier League TOTS.",
         h1: "Division 1 Feminine TOTS",
         h2: "THE FINAL SQUAD",
         cards: [
@@ -219,7 +219,7 @@ const pagesData = [
     {
         title: "LaLiga TOTS",
         description:
-            "Stay updated on player upgrades and discover the essence of FC 25 TOTS, including mixed-league packs and Premier League TOTS.",
+            "Stay updated on player upgrades and discover the essence of FC 24 TOTS, including mixed-league packs and Premier League TOTS.",
         h1: "LaLiga TOTS",
         h2: "THE FINAL SQUAD",
         cards: [
@@ -257,7 +257,7 @@ const pagesData = [
     {
         title: "Liga F TOTS",
         description:
-            "Stay updated on player upgrades and discover the essence of FC 25 TOTS, including mixed-league packs and Premier League TOTS.",
+            "Stay updated on player upgrades and discover the essence of FC 24 TOTS, including mixed-league packs and Premier League TOTS.",
         h1: "Liga F",
         h2: "THE FINAL SQUAD",
         cards: [

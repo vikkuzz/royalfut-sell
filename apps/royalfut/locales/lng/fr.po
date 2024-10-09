@@ -419,7 +419,7 @@ msgstr "* applicables à compter du 1er octobre 2023"
 #~ msgstr ""
 
 #~ msgid "a17"
-#~ msgstr "EA FC 25 Ultimate Team Store | EA Sports FC Coins Shop"
+#~ msgstr "EA FC 24 Ultimate Team Store | EA Sports FC Coins Shop"
 
 #~ msgid "a18"
 #~ msgstr "Vous recevrez"
@@ -654,7 +654,7 @@ msgid "a69"
 msgstr "2. Procédez au paiement de votre commande."
 
 #~ msgid "a7"
-#~ msgstr "Crédits FC 25"
+#~ msgstr "Crédits FC 24"
 
 #: components/CustomAccordion/CustomAccordion.js:171
 msgid "a70"
@@ -787,10 +787,10 @@ msgid "aa0_1"
 msgstr "De notre offre spéciale"
 
 #~ msgid "aa1"
-#~ msgstr "Promos de lancement EA FC 25 : -7 %"
+#~ msgstr "Promos de lancement EA FC 24 : -7 %"
 
 #~ msgid "aa10"
-#~ msgstr "Achetez des pièces EA FC 25 pour [[X]]"
+#~ msgstr "Achetez des pièces EA FC 24 pour [[X]]"
 
 #~ msgid "aa11"
 #~ msgstr ""
@@ -811,7 +811,7 @@ msgstr "Besoin d'un coup de pouce ? On est là !"
 
 #: pages/wl-boost.js:79
 msgid "aa6"
-msgstr "Voici les services que nous proposons : boost de rang EA FC 25 Ultimate Team Finals, UT Champion Finals, UT Champion Playoffs, Division Rivals. Contactez-nous dès maintenant pour obtenir le meilleur prix !"
+msgstr "Voici les services que nous proposons : boost de rang EA FC 24 Ultimate Team Finals, UT Champion Finals, UT Champion Playoffs, Division Rivals. Contactez-nous dès maintenant pour obtenir le meilleur prix !"
 
 #~ msgid "aa7"
 #~ msgstr "Nous revenons dans :"
@@ -820,7 +820,7 @@ msgstr "Voici les services que nous proposons : boost de rang EA FC 25 Ultimate 
 #~ msgstr "Préparation de la nouvelle saison"
 
 #~ msgid "aa9"
-#~ msgstr "Achetez des pièces EA FC 25 pour votre club Ultimate Team"
+#~ msgstr "Achetez des pièces EA FC 24 pour votre club Ultimate Team"
 
 #~ msgid "ab0"
 #~ msgstr "Voici quelques statistiques* à titre de référence :"
@@ -947,34 +947,34 @@ msgid "ab25"
 msgstr "Commande dans la file d'attente"
 
 #~ msgid "ab26"
-#~ msgstr "Achetez des crédits FC 25 pour toutes les plateformes | Boutique de crédits Ultimate Team"
+#~ msgstr "Achetez des crédits FC 24 pour toutes les plateformes | Boutique de crédits Ultimate Team"
 
 #: pages/order/index.js:58
 #: pages/order/index.js:93
 msgid "ab27"
-msgstr "Achetez des crédits FC 25 pour n'importe quelle plateforme | ROYALFUT"
+msgstr "Achetez des crédits FC 24 pour n'importe quelle plateforme | ROYALFUT"
 
 #: pages/order/index.js:95
 msgid "ab28"
-msgstr "Achat de crédits EA FC 25 | Paiement sécurisé | ROYALFUT"
+msgstr "Achat de crédits EA FC 24 | Paiement sécurisé | ROYALFUT"
 
 #~ msgid "ab29"
-#~ msgstr "Achetez des crédits FC 25 pour PlayStation 4 | ROYALFUT"
+#~ msgstr "Achetez des crédits FC 24 pour PlayStation 4 | ROYALFUT"
 
 #~ msgid "ab3"
 #~ msgstr "+100"
 
 #~ msgid "ab30"
-#~ msgstr "Achetez des crédits FC 25 pour PlayStation 5 | ROYALFUT"
+#~ msgstr "Achetez des crédits FC 24 pour PlayStation 5 | ROYALFUT"
 
 #~ msgid "ab31"
-#~ msgstr "Achetez des crédits FC 25 pour Xbox One | ROYALFUT"
+#~ msgstr "Achetez des crédits FC 24 pour Xbox One | ROYALFUT"
 
 #~ msgid "ab32"
-#~ msgstr "Achetez des crédits FC 25 pour Xbox Series X/S | ROYALFUT"
+#~ msgstr "Achetez des crédits FC 24 pour Xbox Series X/S | ROYALFUT"
 
 #~ msgid "ab33"
-#~ msgstr "Achetez des crédits FC 25 pour PC (Origin/Steam/Epic Games | ROYALFUT"
+#~ msgstr "Achetez des crédits FC 24 pour PC (Origin/Steam/Epic Games | ROYALFUT"
 
 #: pages/order/index.js:100
 msgid "ab34"
@@ -1014,7 +1014,7 @@ msgstr "Mon profil | ROYALFUT"
 #~ msgstr "Paiement sécurisé | ROYALFUT"
 
 #~ msgid "ab42"
-#~ msgstr "Achetez FC 25 Boosting | Amélioration du classement dans la ligue du week-end et les divisions rivales"
+#~ msgstr "Achetez FC 24 Boosting | Amélioration du classement dans la ligue du week-end et les divisions rivales"
 
 #~ msgid "ab43"
 #~ msgstr "Envoi des détails"
@@ -1215,7 +1215,7 @@ msgstr "Besoin d'aide ? Contactez notre équipe d'assistance à tout moment."
 
 #: components/Offer/Offer.js:82
 msgid "ab91"
-msgstr "Si vous en avez assez de vous ruiner en crédits FC 25, nous avons une solution parfaite et bon marché pour vous ! Découvrez ROYALFUT.com, la boutique de crédits EA FC la plus fiable avec de nombreuses années d'expérience dans ce domaine. Cette marketplace de premier ordre offre les prix les plus bas pour les crédits FIFA 25 en ligne et peut garantir une livraison rapide, ainsi qu'une sécurité à 100 % de votre compte. L'achat de crédits FC sur ROYALFUT est l'option la plus économique et la plus fiable sur le plan légal pour vous aider à rendre votre jeu encore plus divertissant, sans aucun risque de conséquences désagréables. Les offres régulières de crédits Ultimate Team auxquelles vous pouvez accéder dans cette boutique permettent de bénéficier de réductions sur des prix déjà bas. Vous pouvez ainsi réaliser des transactions on ne peut plus avantageuses dans le cadre du jeu. La plateforme ROYALFUT n'est pas seulement 100 % fiable en ce qui concerne la vente de crédits FUT, mais elle est également réputée pour son service d'assistance à la clientèle exceptionnel qui apportera toujours une réponse à toutes vos questions et à tous vos problèmes. De nos jours, il est plutôt rare de trouver une boutique de crédits UT 25 légale, mais ROYALFUT.com est sans aucun doute l'une d'entre elles. Si vous cherchez à acheter des crédits Ultimate Team pour PC, PS4, PS5, Xbox One, Xbox Series X ou Xbox Series S et à bénéficier de paiements 100 % sécurisés, ainsi que d'une livraison instantanée, vous êtes à la bonne adresse."
+msgstr "Si vous en avez assez de vous ruiner en crédits FC 24, nous avons une solution parfaite et bon marché pour vous ! Découvrez ROYALFUT.com, la boutique de crédits EA FC la plus fiable avec de nombreuses années d'expérience dans ce domaine. Cette marketplace de premier ordre offre les prix les plus bas pour les crédits FIFA 24 en ligne et peut garantir une livraison rapide, ainsi qu'une sécurité à 100 % de votre compte. L'achat de crédits FC sur ROYALFUT est l'option la plus économique et la plus fiable sur le plan légal pour vous aider à rendre votre jeu encore plus divertissant, sans aucun risque de conséquences désagréables. Les offres régulières de crédits Ultimate Team auxquelles vous pouvez accéder dans cette boutique permettent de bénéficier de réductions sur des prix déjà bas. Vous pouvez ainsi réaliser des transactions on ne peut plus avantageuses dans le cadre du jeu. La plateforme ROYALFUT n'est pas seulement 100 % fiable en ce qui concerne la vente de crédits FUT, mais elle est également réputée pour son service d'assistance à la clientèle exceptionnel qui apportera toujours une réponse à toutes vos questions et à tous vos problèmes. De nos jours, il est plutôt rare de trouver une boutique de crédits UT 24 légale, mais ROYALFUT.com est sans aucun doute l'une d'entre elles. Si vous cherchez à acheter des crédits Ultimate Team pour PC, PS4, PS5, Xbox One, Xbox Series X ou Xbox Series S et à bénéficier de paiements 100 % sécurisés, ainsi que d'une livraison instantanée, vous êtes à la bonne adresse."
 
 #: pages/order/index.js:115
 #: pages/order/pc.js:82
@@ -1224,7 +1224,7 @@ msgstr "Si vous en avez assez de vous ruiner en crédits FC 25, nous avons une s
 #: pages/order/xbox_one.js:82
 #: pages/order/xbox_xs.js:82
 msgid "ab92"
-msgstr "Acheter des crédits FC 25 Ultimate Team"
+msgstr "Acheter des crédits FC 24 Ultimate Team"
 
 #: components/Order/Steps.js:14
 #: components/Order/Steps.js:56
@@ -1392,11 +1392,11 @@ msgstr "Avec ce montant, vous pouvez acheter n'importe quelle carte disponible s
 #: pages/coins/[id].js:177
 #: pages/coins/[id].js:192
 msgid "coins_page18"
-msgstr "[[X]] crédits FC 25 Ultimate Team"
+msgstr "[[X]] crédits FC 24 Ultimate Team"
 
 #: pages/coins/[id].js:201
 msgid "coins_page19"
-msgstr "Achetez des crédits EA FC 25 en ligne auprès du fournisseur le plus sûr du marché - ROYALFUT Store. Nous sommes spécialisés dans la vente d'éléments FIFA Ultimate Team depuis plus de 7 ans et notre objectif est de nous assurer que nos clients bénéficient des meilleures offres et des transferts de crédits FC UT les plus sûrs. ROYALFUT vous assure une expérience d'achat pratique et agréable grâce à son interface conviviale, ses options de paiement sécurisées et son service clientèle exceptionnel."
+msgstr "Achetez des crédits EA FC 24 en ligne auprès du fournisseur le plus sûr du marché - ROYALFUT Store. Nous sommes spécialisés dans la vente d'éléments FIFA Ultimate Team depuis plus de 7 ans et notre objectif est de nous assurer que nos clients bénéficient des meilleures offres et des transferts de crédits FC UT les plus sûrs. ROYALFUT vous assure une expérience d'achat pratique et agréable grâce à son interface conviviale, ses options de paiement sécurisées et son service clientèle exceptionnel."
 
 #: components/TableOrders/TableItem.js:409
 msgid "coins_page2"
@@ -1438,7 +1438,7 @@ msgstr "Accès à votre compte EA"
 
 #: pages/coins/[id].js:266
 msgid "coins_page29"
-msgstr "— si vous disposez d'une copie sous licence d'EA Sports FC 25 pour les consoles PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Series X ou pour ordinateur (achetée sous forme de CD physique ou numérique via EA App, Steam ou Epic Games Store), autant dire que la chance est de votre côté, car, désormais, tout ce dont notre système a besoin pour accéder à votre club Ultimate Team, ce sont les détails de votre compte EA, c'est-à-dire votre adresse e-mail, votre mot de passe et quelques codes de secours. Mais ne vous inquiétez pas, nous ne stockons pas vos données : elles sont effacées après chaque commande."
+msgstr "— si vous disposez d'une copie sous licence d'EA Sports FC 24 pour les consoles PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Series X ou pour ordinateur (achetée sous forme de CD physique ou numérique via EA App, Steam ou Epic Games Store), autant dire que la chance est de votre côté, car, désormais, tout ce dont notre système a besoin pour accéder à votre club Ultimate Team, ce sont les détails de votre compte EA, c'est-à-dire votre adresse e-mail, votre mot de passe et quelques codes de secours. Mais ne vous inquiétez pas, nous ne stockons pas vos données : elles sont effacées après chaque commande."
 
 #~ msgid "coins_page3"
 #~ msgstr "Obj. de transferts"
@@ -1572,12 +1572,12 @@ msgstr "Avis"
 
 #: components/MainFunnel/MainFunnel.js:47
 #~ msgid "home:newh1_3"
-#~ msgstr "FC 25<<<<<<< HEAD"
+#~ msgstr "FC 24<<<<<<< HEAD"
 
 #: components/MainFunnel/MainFunnel.js:32
 #: components/MainFunnel/MainFunnel.js:53
 #~ msgid "home:newh1_4"
-#~ msgstr "des crédits FC 25"
+#~ msgstr "des crédits FC 24"
 
 #: components/MainFunnel/MainFunnel.js:33
 msgid "home:title"
@@ -1749,7 +1749,7 @@ msgstr "Ce coupon a été utilisé en totalité"
 #~ msgstr "Delivery method:"
 
 #~ msgid "locales.deliverytext"
-#~ msgstr " propose un système unique de livraison des crédits EA FC 25. Nous collaborons avec un nombre record de fournisseurs de crédits. Lors de l'exécution de votre commande, nous respectons des règles spéciales qui nous permettent de vous garantir que votre compte ne sera jamais frappé de sanctions de la part de l'EA. Découvrez quelques-unes de ces règles ci-dessous :"
+#~ msgstr " propose un système unique de livraison des crédits EA FC 24. Nous collaborons avec un nombre record de fournisseurs de crédits. Lors de l'exécution de votre commande, nous respectons des règles spéciales qui nous permettent de vous garantir que votre compte ne sera jamais frappé de sanctions de la part de l'EA. Découvrez quelques-unes de ces règles ci-dessous :"
 
 #~ msgid "locales.deliverytitle"
 #~ msgstr "Livraison"
@@ -1827,16 +1827,16 @@ msgstr "Plateforme"
 #~ msgstr "Le meilleur choix pour "
 
 #~ msgid "locales.h1_2"
-#~ msgstr "Acheter des crédits FC 25"
+#~ msgstr "Acheter des crédits FC 24"
 
 #~ msgid "locales.h1_coins"
-#~ msgstr "Votre EA FC 25 Ultimate Team Store par excellence"
+#~ msgstr "Votre EA FC 24 Ultimate Team Store par excellence"
 
 #~ msgid "locales.h1_p1"
 #~ msgstr "Votre compagnon essentiel dans "
 
 #~ msgid "locales.h1_p2"
-#~ msgstr "EA FC 25 Ultimate Team Store"
+#~ msgstr "EA FC 24 Ultimate Team Store"
 
 #~ msgid "locales.haveCoupon"
 #~ msgstr "Si vous avez un coupon"
@@ -1941,7 +1941,7 @@ msgstr "Livraison"
 #~ msgstr "nous livrons donc des crédits à tout moment de la journée, 24h / 24 et 7j / 7."
 
 #~ msgid "locales.menuLinkDescDisabled"
-#~ msgstr "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋"
+#~ msgstr "Sales of EA FC 24 coins is now closed. <br/>See you in EA FC 24 season  👋"
 
 #~ msgid "locales.menulinkfaq"
 #~ msgstr "FAQ"
@@ -2078,7 +2078,7 @@ msgstr "Commandez maintenant"
 #~ msgstr "Ou avec des crypto-monnaies"
 
 #~ msgid "locales.p1"
-#~ msgstr "Cela nous permet d'offrir le moyen le plus sûr d'acheter des crédits EA FC 25 sur Internet."
+#~ msgstr "Cela nous permet d'offrir le moyen le plus sûr d'acheter des crédits EA FC 24 sur Internet."
 
 #~ msgid "locales.p2"
 #~ msgstr " Pour vous faire livrer vos crédits le plus rapidement possible, suivez les instructions publiées sur le site Web ou fournies par le gestionnaire dans le chat en direct."
@@ -2660,10 +2660,10 @@ msgstr "Voir le mot de passe"
 #~ msgstr "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour Xbox Série X/S chez nous en étant sûr(e) de bénéficier de la meilleure offre."
 
 #~ msgid "locales.seo11"
-#~ msgstr "L'achat de crédits EA FC 25 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+#~ msgstr "L'achat de crédits EA FC 24 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
 
 #~ msgid "locales.seo2"
-#~ msgstr "L'achat de crédits EA FC 25 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+#~ msgstr "L'achat de crédits EA FC 24 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
 
 #~ msgid "locales.seo3"
 #~ msgstr "Nous proposons les meilleures offres pour les crédits FIFA pour PlayStation 5. Nous proposons des crédits FIFA PS5 à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS."
@@ -2672,7 +2672,7 @@ msgstr "Voir le mot de passe"
 #~ msgstr "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour PS5 chez nous en étant sûr(e) de bénéficier de la meilleure offre."
 
 #~ msgid "locales.seo5"
-#~ msgstr "L'achat de crédits EA FC 25 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+#~ msgstr "L'achat de crédits EA FC 24 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
 
 #~ msgid "locales.seo6"
 #~ msgstr "Nous proposons les meilleures offres pour les crédits FIFA pour Xbox One. Nous proposons des crédits FIFA à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS."
@@ -2681,7 +2681,7 @@ msgstr "Voir le mot de passe"
 #~ msgstr "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour Xbox 1 chez nous en étant sûr(e) de bénéficier de la meilleure offre."
 
 #~ msgid "locales.seo8"
-#~ msgstr "L'achat de crédits EA FC 25 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+#~ msgstr "L'achat de crédits EA FC 24 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
 
 #~ msgid "locales.seo9"
 #~ msgstr "Nous proposons les meilleures offres pour les crédits FIFA pour Xbox Série X. De plus, nous proposons des crédits FIFA pour Xbox Série S à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS."
@@ -2711,16 +2711,16 @@ msgstr "Voir le mot de passe"
 #~ msgstr "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour Xbox Série X/S chez nous en étant sûr(e) de bénéficier de la meilleure offre."
 
 #~ msgid "locales.seot3_ps4"
-#~ msgstr "L'achat de crédits EA FC 25 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+#~ msgstr "L'achat de crédits EA FC 24 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
 
 #~ msgid "locales.seot3_ps5"
-#~ msgstr "L'achat de crédits EA FC 25 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+#~ msgstr "L'achat de crédits EA FC 24 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
 
 #~ msgid "locales.seot3_xb"
-#~ msgstr "L'achat de crédits EA FC 25 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+#~ msgstr "L'achat de crédits EA FC 24 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
 
 #~ msgid "locales.seot3_xbxs"
-#~ msgstr "L'achat de crédits EA FC 25 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+#~ msgstr "L'achat de crédits EA FC 24 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
 
 #: components/Profile/Profile.js:160
 msgid "locales.settings"
@@ -2778,7 +2778,7 @@ msgstr "Statut"
 #~ msgstr "verrouillé"
 
 #~ msgid "locales.status.no_access_to_fifa_21_webapp"
-#~ msgstr "Aucun accès à APPLICATION WEB EA FC 25"
+#~ msgstr "Aucun accès à APPLICATION WEB EA FC 24"
 
 #~ msgid "locales.status.no_enough_coins_to_start"
 #~ msgstr "PAS ASSEZ DE Crédits POUR COMMENCER"
@@ -2820,10 +2820,10 @@ msgstr "Statut"
 #~ msgstr "IDENTIFIANTS ERRONÉS"
 
 #~ msgid "locales.sublogo"
-#~ msgstr "Crédits EA FC 25"
+#~ msgstr "Crédits EA FC 24"
 
 #~ msgid "locales.sublogo2"
-#~ msgstr "Articles pour EA FC 25"
+#~ msgstr "Articles pour EA FC 24"
 
 #~ msgid "locales.succPaid"
 #~ msgstr "Votre commande a été payée avec succès !"
@@ -2916,7 +2916,7 @@ msgstr "Créez votre équipe de rêve dès maintenant"
 #: components/Carusel/Carusel.js:110
 #: components/Carusel/Carusel.js:140
 msgid "mainblocks1"
-msgstr "Avec les crédits EA Sports FC 25, vous êtes libre de choisir les meilleures options possibles pour chaque poste de votre équipe. Laissez libre cours à votre imagination, essayez de nouvelles choses !"
+msgstr "Avec les crédits EA Sports FC 24, vous êtes libre de choisir les meilleures options possibles pour chaque poste de votre équipe. Laissez libre cours à votre imagination, essayez de nouvelles choses !"
 
 #: components/Carusel/Carusel.js:87
 #: components/Modal/Modal.js:169
@@ -2942,7 +2942,7 @@ msgstr "Nos réseaux sociaux"
 #~ msgstr "de crédits et services"
 
 #~ msgid "mainblocks15"
-#~ msgstr "EA FC 25"
+#~ msgstr "EA FC 24"
 
 #: components/H1/H1.js:10
 msgid "mainblocks16"
@@ -2954,7 +2954,7 @@ msgstr "acheter crédits"
 
 #: components/H1/H1.js:16
 msgid "mainblocks18"
-msgstr "et services FC 25"
+msgstr "et services FC 24"
 
 #~ msgid "mainblocks19"
 #~ msgstr "Votre boutique"
@@ -2968,7 +2968,7 @@ msgstr "Obtenez la carte de votre choix"
 #~ msgstr "incontournable de crédits"
 
 #~ msgid "mainblocks21"
-#~ msgstr "FC 25 Ultimate Team"
+#~ msgstr "FC 24 Ultimate Team"
 
 #: components/Offer/Offer.js:29
 msgid "mainblocks22"
@@ -2976,7 +2976,7 @@ msgstr "La solution la plus sûre pour"
 
 #: components/Offer/Offer.js:32
 msgid "mainblocks23"
-msgstr "acheter des crédits FIFA 25"
+msgstr "acheter des crédits FIFA 24"
 
 #: components/ReviewsGallery/ReviewsGallery.js:71
 msgid "mainblocks24"
@@ -3060,18 +3060,18 @@ msgstr "Détails"
 #~ msgstr "des crédits "
 
 #~ msgid "newh1_3"
-#~ msgstr "FC 25"
+#~ msgstr "FC 24"
 
 #: components/MainFunnel/MainFunnel.js:46
 msgid "newh1_4"
-msgstr "des crédits FC 25"
+msgstr "des crédits FC 24"
 
 #: components/Cookie/Cookie.js:52
 msgid "okay"
 msgstr "D'accord"
 
 #~ msgid "orderh1"
-#~ msgstr "Buy FC 25 Ultimate Team coins"
+#~ msgstr "Buy FC 24 Ultimate Team coins"
 
 #~ msgid "orderinfo"
 #~ msgstr "Order info"
@@ -3449,11 +3449,11 @@ msgstr "Préparation de la nouvelle saison"
 #: components/MainContainer.js:602
 #: components/MainContainer.js:608
 msgid "seo:root:description"
-msgstr "Boutique №1 pour achat crédits EA SPORTS FC 25 ✔Achat crédits EA FC 25 pour PS 4/5, Xbox One/X/S 🎮Livraison rapide, assistance live 24/7 ⚡ Paiements 100 % sûrs 🔒 Lieu sûr pour achat éco de crédits Ultimate Te"
+msgstr "Boutique №1 pour achat crédits EA SPORTS FC 24 ✔Achat crédits EA FC 24 pour PS 4/5, Xbox One/X/S 🎮Livraison rapide, assistance live 24/7 ⚡ Paiements 100 % sûrs 🔒 Lieu sûr pour achat éco de crédits Ultimate Te"
 
 #: pages/_app.js:25
 msgid "seo:root:title"
-msgstr "Achetez des crédits FC 25 pour toutes les plateformes | Boutique de crédits Ultimate Team"
+msgstr "Achetez des crédits FC 24 pour toutes les plateformes | Boutique de crédits Ultimate Team"
 
 #~ msgid "seo0"
 #~ msgstr "Français"
@@ -4003,55 +4003,55 @@ msgstr "En savoir plus"
 #~ msgstr "Comment se passe la livraison ?"
 
 #~ msgid "seo232"
-#~ msgstr "Boutique EA FC 25 Ultimate Team | Boutique EA SPORTS FC 25"
+#~ msgstr "Boutique EA FC 24 Ultimate Team | Boutique EA SPORTS FC 24"
 
 #~ msgid "seo233"
-#~ msgstr "Boutique №1 pour achat crédits EA SPORTS FC 25 ✔Achat crédits EA FC 25 pour PS 4/5, Xbox One/X/S 🎮Livraison rapide, assistance live 24/7 ⚡ Paiements 100 % sûrs 🔒 Lieu sûr pour achat éco de crédits Ultimate Te"
+#~ msgstr "Boutique №1 pour achat crédits EA SPORTS FC 24 ✔Achat crédits EA FC 24 pour PS 4/5, Xbox One/X/S 🎮Livraison rapide, assistance live 24/7 ⚡ Paiements 100 % sûrs 🔒 Lieu sûr pour achat éco de crédits Ultimate Te"
 
 #~ msgid "seo234"
-#~ msgstr "Achetez en ligne des crédits EA FC 25 Ultimate Team | Crédits FUT en vente, prix bas"
+#~ msgstr "Achetez en ligne des crédits EA FC 24 Ultimate Team | Crédits FUT en vente, prix bas"
 
 #~ msgid "seo235"
-#~ msgstr "Lieu sécurisé pour achat crédits EA SPORTS FC 25 ✔Achat crédits EA FC 25 pour PS 4/5, Xbox One/X/S 🎮Livraison rapide, assistance live 24/7 ⚡ Paiements 100 % sûrs 🔒 Lieu sûr pour achat éco de crédits Ultimate"
+#~ msgstr "Lieu sécurisé pour achat crédits EA SPORTS FC 24 ✔Achat crédits EA FC 24 pour PS 4/5, Xbox One/X/S 🎮Livraison rapide, assistance live 24/7 ⚡ Paiements 100 % sûrs 🔒 Lieu sûr pour achat éco de crédits Ultimate"
 
 #~ msgid "seo236"
-#~ msgstr "Achetez des crédits EA FC 25 pour PS4 à petits prix | Crédits EA SPORTS FC 25 pour PS4"
+#~ msgstr "Achetez des crédits EA FC 24 pour PS4 à petits prix | Crédits EA SPORTS FC 24 pour PS4"
 
 #~ msgid "seo237"
-#~ msgstr "Meilleur lieu pour achat crédits EA SPORTS FC 25 pour PS4 🎮 Battez vos rivaux avec les meilleurs joueurs dans votre équipe 🥇 Livraison rapide, assistance live 24/7 🔒 Lieu sûr pour achat crédits Ultimate Tea"
+#~ msgstr "Meilleur lieu pour achat crédits EA SPORTS FC 24 pour PS4 🎮 Battez vos rivaux avec les meilleurs joueurs dans votre équipe 🥇 Livraison rapide, assistance live 24/7 🔒 Lieu sûr pour achat crédits Ultimate Tea"
 
 #~ msgid "seo238"
-#~ msgstr "Achetez des crédits EA FC 25 pour PS5 à petits prix | Crédits EA SPORTS FC 25 pour PS5"
+#~ msgstr "Achetez des crédits EA FC 24 pour PS5 à petits prix | Crédits EA SPORTS FC 24 pour PS5"
 
 #~ msgid "seo239"
-#~ msgstr "Meilleur lieu pour achat crédits EA SPORTS FC 25 pour PS5 🎮 Battez vos rivaux avec les meilleurs joueurs dans votre équipe 🥇 Livraison rapide, assistance live 24/7 🔒 Lieu sûr pour achat crédits Ultimate Tea"
+#~ msgstr "Meilleur lieu pour achat crédits EA SPORTS FC 24 pour PS5 🎮 Battez vos rivaux avec les meilleurs joueurs dans votre équipe 🥇 Livraison rapide, assistance live 24/7 🔒 Lieu sûr pour achat crédits Ultimate Tea"
 
 #~ msgid "seo24"
 #~ msgstr "Notre objectif principal est de vous fournir l'option la plus sûre pour recharger le solde de votre club FUT. Nous travaillons constamment à l'amélioration de notre algorithme de transfert de crédits, en le testant sur des milliers de comptes avant de lui donner le feu vert pour entrer en action."
 
 #~ msgid "seo240"
-#~ msgstr "Achetez des crédits EA FC 25 pour Xbox One à petits prix | Crédits EA SPORTS FC 25 pour Xbox One"
+#~ msgstr "Achetez des crédits EA FC 24 pour Xbox One à petits prix | Crédits EA SPORTS FC 24 pour Xbox One"
 
 #~ msgid "seo241"
-#~ msgstr "Meilleur lieu pour achat crédits EA SPORTS FC 25 pour Xbox 1 🎮 Battez vos rivaux avec les meilleurs joueurs dans votre équipe 🥇 Livraison rapide, assistance live 24/7 🔒 Lieu sûr pour achat crédits Ultimate"
+#~ msgstr "Meilleur lieu pour achat crédits EA SPORTS FC 24 pour Xbox 1 🎮 Battez vos rivaux avec les meilleurs joueurs dans votre équipe 🥇 Livraison rapide, assistance live 24/7 🔒 Lieu sûr pour achat crédits Ultimate"
 
 #~ msgid "seo242"
-#~ msgstr "Achetez des crédits EA FC 25 pour Xbox à petits prix | Crédits EA SPORTS FC 25 pour Xbox Série X/S"
+#~ msgstr "Achetez des crédits EA FC 24 pour Xbox à petits prix | Crédits EA SPORTS FC 24 pour Xbox Série X/S"
 
 #~ msgid "seo243"
-#~ msgstr "Lieu №1 pour achat crédits EA SPORTS FC 25 pour Xbox Série X/S 🎮 Battez vos rivaux avec meilleurs joueurs dans votre équipe 🥇 Livraison rapide, assistance live 24/7 🔒 Lieu sûr pour achat crédits Ultimate Te"
+#~ msgstr "Lieu №1 pour achat crédits EA SPORTS FC 24 pour Xbox Série X/S 🎮 Battez vos rivaux avec meilleurs joueurs dans votre équipe 🥇 Livraison rapide, assistance live 24/7 🔒 Lieu sûr pour achat crédits Ultimate Te"
 
 #~ msgid "seo244"
-#~ msgstr "Achetez 100 mille crédits EA FC 25 | Prix de 100 mille crédits FUT"
+#~ msgstr "Achetez 100 mille crédits EA FC 24 | Prix de 100 mille crédits FUT"
 
 #~ msgid "seo245"
-#~ msgstr "Lieu très sûr pour achat de 100 mille crédits EA SPORTS FC 25 pour votre Ultimate Team 🥇 Choix de plateforme : PS, Xbox ou PC 🎮 Livraison rapide, assistance live 24/7 🔒 Lieu sûr pour achat crédits Ultimate"
+#~ msgstr "Lieu très sûr pour achat de 100 mille crédits EA SPORTS FC 24 pour votre Ultimate Team 🥇 Choix de plateforme : PS, Xbox ou PC 🎮 Livraison rapide, assistance live 24/7 🔒 Lieu sûr pour achat crédits Ultimate"
 
 #~ msgid "seo246"
-#~ msgstr "Achetez 1 million de crédits EA FC 25 | Prix de 1 million de crédits FUT"
+#~ msgstr "Achetez 1 million de crédits EA FC 24 | Prix de 1 million de crédits FUT"
 
 #~ msgid "seo247"
-#~ msgstr "Lieu très sûr pour achat de 1 million crédits EA SPORTS FC 25 pour votre Ultimate Team 🥇 Choix de plateforme : PS, Xbox ou PC 🎮 Livraison rapide, assistance live 24/7 🔒 Lieu sûr pour achat crédits Ultimate"
+#~ msgstr "Lieu très sûr pour achat de 1 million crédits EA SPORTS FC 24 pour votre Ultimate Team 🥇 Choix de plateforme : PS, Xbox ou PC 🎮 Livraison rapide, assistance live 24/7 🔒 Lieu sûr pour achat crédits Ultimate"
 
 #~ msgid "seo248"
 #~ msgstr "Nous proposons les meilleures offres pour les crédits FIFA pour PlayStation 4. Nous proposons des crédits FIFA PS4 à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS."
@@ -4063,7 +4063,7 @@ msgstr "En savoir plus"
 #~ msgstr "Haut niveau de service"
 
 #~ msgid "seo250"
-#~ msgstr "L'achat de crédits EA FC 25 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+#~ msgstr "L'achat de crédits EA FC 24 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
 
 #~ msgid "seo251"
 #~ msgstr "Nous proposons les meilleures offres pour les crédits FIFA pour PlayStation 5. Nous proposons des crédits FIFA PS5 à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS."
@@ -4072,7 +4072,7 @@ msgstr "En savoir plus"
 #~ msgstr "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour PS5 chez nous en étant sûr(e) de bénéficier de la meilleure offre."
 
 #~ msgid "seo253"
-#~ msgstr "L'achat de crédits EA FC 25 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+#~ msgstr "L'achat de crédits EA FC 24 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
 
 #~ msgid "seo254"
 #~ msgstr "Nous proposons les meilleures offres pour les crédits FIFA pour Xbox One. Nous proposons des crédits FIFA à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS."
@@ -4081,7 +4081,7 @@ msgstr "En savoir plus"
 #~ msgstr "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour Xbox 1 chez nous en étant sûr(e) de bénéficier de la meilleure offre."
 
 #~ msgid "seo256"
-#~ msgstr "L'achat de crédits EA FC 25 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+#~ msgstr "L'achat de crédits EA FC 24 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
 
 #~ msgid "seo257"
 #~ msgstr "Nous proposons les meilleures offres pour les crédits FIFA pour Xbox Série X. De plus, nous proposons des crédits FIFA pour Xbox Série S à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS."
@@ -4090,7 +4090,7 @@ msgstr "En savoir plus"
 #~ msgstr "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour Xbox Série X/S chez nous en étant sûr(e) de bénéficier de la meilleure offre."
 
 #~ msgid "seo259"
-#~ msgstr "L'achat de crédits EA FC 25 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
+#~ msgstr "L'achat de crédits EA FC 24 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit."
 
 #~ msgid "seo26"
 #~ msgstr "Sachant que votre temps est précieux, nous nous efforçons sans cesse d'améliorer les différents aspects de notre site Web, tels que l'interface et la qualité de notre service d'assistance à la clientèle, de manière à vous garantir une expérience d'achat chez nous aussi fluide que possible."
@@ -4168,7 +4168,7 @@ msgstr "Se déconnecter"
 #~ msgstr "Se connecter via"
 
 #~ msgid "seo45"
-#~ msgstr "Votre EA FC 25 Ultimate Team Store par excellence"
+#~ msgstr "Votre EA FC 24 Ultimate Team Store par excellence"
 
 #~ msgid "seo46"
 #~ msgstr "Plateforme"
@@ -4224,7 +4224,7 @@ msgstr "Mode de livraison manuel qui ne nécessite aucun détail de compte : vou
 #~ msgstr "Transaction Confort"
 
 #~ msgid "seo6"
-#~ msgstr "Votre compagnon essentiel dans EA FC 25 Ultimate Team Store"
+#~ msgstr "Votre compagnon essentiel dans EA FC 24 Ultimate Team Store"
 
 #~ msgid "seo60"
 #~ msgstr "Enchères joueur"
@@ -4413,19 +4413,19 @@ msgid "seom"
 msgstr "m"
 
 #~ msgid "seop22"
-#~ msgstr "Notre boutique vous propose les meilleurs tarifs sur les pièces EA FC pour toutes les plateformes de jeu. Nous fournissons des pièces UT 25 pas chères avec livraison rapide et garantie de sécurité de votre compte, SANS FRAIS SUPPLÉMENTAIRES."
+#~ msgstr "Notre boutique vous propose les meilleurs tarifs sur les pièces EA FC pour toutes les plateformes de jeu. Nous fournissons des pièces UT 24 pas chères avec livraison rapide et garantie de sécurité de votre compte, SANS FRAIS SUPPLÉMENTAIRES."
 
 #~ msgid "seop23"
-#~ msgstr "Notre équipe fait tout pour vous proposer les meilleurs tarifs du marché. Quand vous achetez des pièces FIFA 25 chez nous, quelle que soit votre plateforme, vous avez la certitude de les obtenir au meilleur prix."
+#~ msgstr "Notre équipe fait tout pour vous proposer les meilleurs tarifs du marché. Quand vous achetez des pièces FIFA 24 chez nous, quelle que soit votre plateforme, vous avez la certitude de les obtenir au meilleur prix."
 
 #~ msgid "seop24"
-#~ msgstr "Pour toute question concernant l'achat de pièces FC 25 pour votre console, n'hésitez pas à nous contacter par le canal de communication de votre choix."
+#~ msgstr "Pour toute question concernant l'achat de pièces FC 24 pour votre console, n'hésitez pas à nous contacter par le canal de communication de votre choix."
 
 #~ msgid "t"
 #~ msgstr "À Propos de la Livraison"
 
 #~ msgid "t_t"
-#~ msgstr "Les pièces seront livrées au club FC 25 connecté à votre compte EA. Seuls les détails du compte EA sont requis pour transférer les pièces."
+#~ msgstr "Les pièces seront livrées au club FC 24 connecté à votre compte EA. Seuls les détails du compte EA sont requis pour transférer les pièces."
 
 #: components/Aside/Aside.js:52
 msgid "trust:commenturl"

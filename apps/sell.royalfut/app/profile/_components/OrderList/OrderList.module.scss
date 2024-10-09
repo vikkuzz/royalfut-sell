@@ -1,42 +1,42 @@
 .order_list {
-    display: flex;
-    flex-direction: column;
-    position: relative;
-    overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
 
-    &:before {
-        @media (min-width: 1025px) {
-            position: absolute;
-            content: '';
-            width: 460px;
-            height: 455px;
-            left: -182px;
-            top: -63px;
-            background-image: url('/image/Subtract.png');
-            z-index: -1;
-        }
-    }
-
-    &:after {
-        @media (min-width: 1025px) {
-            position: absolute;
-            content: '';
-            width: 460px;
-            height: 455px;
-            background-image: url('/image/Subtract.png');
-            right: -68px;
-            bottom: -256px;
-            z-index: -1;
-        }
-    }
-
+  &:before {
     @media (min-width: 1025px) {
-        background: rgba(255, 255, 255, 0.05);
-        border: 1px solid rgba(255, 255, 255, 0.1);
-        border-radius: 12px;
-        padding: 60px;
+      position: absolute;
+      content: "";
+      width: 460px;
+      height: 455px;
+      left: -182px;
+      top: -63px;
+      background-image: url("/image/Subtract.png");
+      z-index: -1;
     }
-    @media (min-width: 1440px) {
-        max-width: 796px;
+  }
+
+  &:after {
+    @media (min-width: 1025px) {
+      position: absolute;
+      content: "";
+      width: 460px;
+      height: 455px;
+      background-image: url("/image/Subtract.png");
+      right: -68px;
+      bottom: -256px;
+      z-index: -1;
     }
+  }
+
+  @media (min-width: 1025px) {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    padding: 60px;
+  }
+  @media (min-width: 1440px) {
+    max-width: 796px;
+  }
 }

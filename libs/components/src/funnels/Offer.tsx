@@ -1,10 +1,12 @@
 import Image from "next/legacy/image";
 
 import styles from "./Offer.module.scss";
-import { GradientButtonRegular } from "@royalfut/ui";
+// import { GradientButtonRegular } from "@royalfut/ui";
 import { TrustScore } from "../fragments";
+import Link from "next/link";
+import { GradientButton } from "@royalfut/ui";
 
-const Offer = () => {
+const Offer = ({ route }: { route: string }) => {
     // const t = useTranslations("mainblocks");
     // const t = await getTranslations("mainblocks");
 
@@ -19,25 +21,24 @@ const Offer = () => {
                     Safest option to buy
                 </span>
                 <span className={`${styles.offer_h1_gradient}`}>
-                    FIFA 25 Coins
+                    FIFA 24 Coins
                 </span>
                 <div className={`${styles.wrapper_desk_btns}`}>
                     <div
                         // className={`${styles.wrapper_btns} ${stateBuyOff && "disabled"}`}
                         className={`${styles.wrapper_btns}`}>
-                        <GradientButtonRegular
-                            as="link"
-                            href={"/order"}
-                            className="text-xl font-semibold w-full sm:w-72 h-[4.5rem] min-h-[46px] sm:h-full rounded-xl md:max-w-[284px]">
-                            Buy Coins
-                        </GradientButtonRegular>
+                        <Link href={"/order"}>
+                            <GradientButton className="flex justify-center items-center text-xl font-semibold w-full sm:w-72 h-[4.5rem] min-h-[46px] sm:h-full rounded-xl md:max-w-[284px] bg-primary">
+                                Buy Coins
+                            </GradientButton>
+                        </Link>
 
                         <div className={`${styles.fees_wrapper}`}>
                             <div
                                 className={`${styles.arrow_spiral_wrapper} hidden md:flex md:opacity-100 md:w-auto md:h-auto`}>
                                 <Image
                                     alt="arrow"
-                                    src="/img/arrow_spiral.svg"
+                                    src="/image/arrow_spiral.svg"
                                     width={50}
                                     height={22}
                                 />
@@ -50,13 +51,22 @@ const Offer = () => {
                                 className={`${styles.reverse_arrow_spiral_wrapper} md:hidden`}>
                                 <Image
                                     alt="arrow"
-                                    src="/img/arrow_spiral_1.svg"
+                                    src="/image/arrow_spiral_1.svg"
                                     width={50}
                                     height={22}
                                 />
                             </div>
                         </div>
                     </div>
+                </div>
+                <div className="absolute right-0 top-0 md:top-[-40px] w-full max-w-[375px] md:max-w-[541px]">
+                    <Image
+                        alt="footballer"
+                        src={route}
+                        width={541}
+                        height={431}
+                        objectFit="cover"
+                    />
                 </div>
             </div>
         </div>

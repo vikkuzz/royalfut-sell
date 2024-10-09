@@ -1,12 +1,11 @@
-export { usePlatformStore } from "./platform.store";
-export {
-    useTransferStore,
-    useTransferSelectorStore,
-    useActualPrice,
-} from "./wallet.store";
+export * from "./transfer";
 export {
     useOrderTradeStepsStore,
-    OrderTradeStoreProvider,
+    OrderTradeStepsStoreProvider,
 } from "./order.provider";
 export { useTransferEAAccountStore } from "./ea.store";
-export { useStocksStore, StocksStoreProvider } from "./stocks.provider";
+export {
+    useFunnelStepStorageStore,
+    FunnelStepsStorageProvider,
+} from "./steps.provider";
+export { RewardsStoreProvider, useRewardsStore } from "./rewards.provider";

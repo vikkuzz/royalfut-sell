@@ -3,7 +3,7 @@
 import * as DropdownMenu from "@radix-ui/react-dropdown-menu";
 import { useCurrencyPicker } from "./useCurrencyPicker";
 import { PickerTrigger, PickerCard, cnPickerContent } from "../common";
-import { useUIGlobalStore } from "@royalfut/store";
+import { useProjectGlobalStore } from "@royalfut/store";
 import { cn } from "@royalfut/utils";
 
 import styles from "../common/picker.module.scss";
@@ -17,7 +17,7 @@ const CurrencyPickerDropdown: FNCN<IPickerProps> = ({
     showListCountryFlag = false,
 }) => {
     const { ccy, handleChange, id, isOpen, onOpenChange } = useCurrencyPicker();
-    const coll = useUIGlobalStore(state => state.local.ccy);
+    const coll = useProjectGlobalStore(state => state.local.ccy);
 
     if (!coll) return null;
 
@@ -25,8 +25,7 @@ const CurrencyPickerDropdown: FNCN<IPickerProps> = ({
         <DropdownMenu.Root
             modal={false}
             open={isOpen}
-            onOpenChange={onOpenChange}
-        >
+            onOpenChange={onOpenChange}>
             <DropdownMenu.Trigger className={className} asChild>
                 <PickerTrigger
                     aria-label="Choose currency"

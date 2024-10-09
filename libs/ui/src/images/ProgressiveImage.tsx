@@ -52,7 +52,7 @@ const ProgressiveImage: FC<IProgressiveImageProps> = ({
                         "opacity-0": highLoaded,
                         "opacity-100": !highLoaded,
                     },
-                    className,
+                    className
                 )}
                 fill
                 {...props}
@@ -68,7 +68,7 @@ const ProgressiveImage: FC<IProgressiveImageProps> = ({
                     {
                         "opacity-100": highLoaded,
                         "opacity-0": !highLoaded,
-                    },
+                    }
                 )}
                 {...props}
             />

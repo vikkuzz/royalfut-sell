@@ -1,6 +1,7 @@
 // prettier-ignore
 "use client";
 
+import { useEffect } from "react";
 import { Root, Field, Control } from "@radix-ui/react-form";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
@@ -14,9 +15,11 @@ import { ZEmailValidation, ZEAPasswordValidation } from "@royalfut/scheme";
 import { OrderBoxTitle } from "./TradeSummary.client";
 import PasswordIcons from "./ea-account/PasswordIcons";
 import BackupCodesField from "./ea-account/BackupCodesField";
+import { cn } from "@royalfut/utils";
 
-import { useEffect, type FC } from "react";
+import type { FC } from "react";
 import type { UseFormGetFieldState } from "react-hook-form";
+import type { IOrder } from "@royalfut/interfaces";
 
 const profileFormSchema = z.object({
     email: ZEmailValidation,
@@ -27,7 +30,7 @@ type ProfileSchema = z.infer<typeof profileFormSchema>;
 type ValidationInputType = "error" | "success" | "primary";
 
 const onTouchValidation = (
-    fieldState: ReturnType<UseFormGetFieldState<ProfileSchema>>,
+    fieldState: ReturnType<UseFormGetFieldState<ProfileSchema>>
 ): { inputType: ValidationInputType; msg?: string; invalid: boolean } => {
     const { invalid, isDirty, isTouched, error } = fieldState;
 
@@ -45,9 +48,16 @@ const onTouchValidation = (
 interface IEAAuthFormProps {
     onValid?: () => void;
     onInvalid?: () => void;
+    className?: string;
+    order?: IOrder;
 }
 
-const EAAuthForm: FC<IEAAuthFormProps> = ({ onValid, onInvalid }) => {
+const EAAuthForm: FC<IEAAuthFormProps> = ({
+    onValid,
+    onInvalid,
+    className,
+    order,
+}) => {
     const { setLogin, login, setPassword, password, reset } =
         useTransferEAAccountStore();
     const [showPassword, { toggle: setShowPassword }] = useToggle(false);
@@ -84,13 +94,22 @@ const EAAuthForm: FC<IEAAuthFormProps> = ({ onValid, onInvalid }) => {
     });
 
     useEffect(() => {
-        const values = getValues();
-        setPassword(values.password);
-        setLogin(values.email);
-    }, [isValid, getValues, setLogin, setPassword]);
+        if (order) {
+            if (order?.mail) {
+                setLogin(order.mail);
+            }
+            if (order?.email_password) {
+                setLogin(order.email_password);
+            }
+        } else {
+            const values = getValues();
+            setPassword(values.password);
+            setLogin(values.email);
+        }
+    }, [isValid, getValues, setLogin, setPassword, order]);
 
     return (
-        <Root className="flex flex-col space-y-6">
+        <Root className={cn("flex flex-col space-y-6", className)}>
             <Field name="email">
                 <OrderBoxTitle asChild>
                     <Label asChild>
@@ -105,7 +124,7 @@ const EAAuthForm: FC<IEAAuthFormProps> = ({ onValid, onInvalid }) => {
                         required
                         placeholder="Login"
                         autoComplete={isValid ? "email" : "off"}
-                        initialValue={login}
+                        initialValue={order?.mail || login}
                         icon={{
                             "<>": EAMonocolorIcon,
                             props: {
@@ -122,8 +141,7 @@ const EAAuthForm: FC<IEAAuthFormProps> = ({ onValid, onInvalid }) => {
                     />
                 </Control>
                 <ErrorCollapsibleText
-                    show={emailVerification.inputType === "error"}
-                >
+                    show={emailVerification.inputType === "error"}>
                     {emailVerification.msg}
                 </ErrorCollapsibleText>
             </Field>
@@ -138,7 +156,7 @@ const EAAuthForm: FC<IEAAuthFormProps> = ({ onValid, onInvalid }) => {
                         {...register("password")}
                         required
                         placeholder="Password"
-                        initialValue={password}
+                        initialValue={order?.email_password || password}
                         icon={{
                             // eslint-disable-next-line @typescript-eslint/ban-ts-comment
                             // @ts-expect-error
@@ -157,8 +175,7 @@ const EAAuthForm: FC<IEAAuthFormProps> = ({ onValid, onInvalid }) => {
                     />
                 </Control>
                 <ErrorCollapsibleText
-                    show={passwordVerification.inputType === "error"}
-                >
+                    show={passwordVerification.inputType === "error"}>
                     {passwordVerification.msg}
                 </ErrorCollapsibleText>
             </Field>

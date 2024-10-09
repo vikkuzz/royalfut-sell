@@ -195,7 +195,7 @@ module.exports = {
         function ({ matchComponents }) {
             matchComponents(
                 {
-                    "bordered-box-linear": value => ({
+                    "bordered-box-linear": (value) => ({
                         background: value,
                     }),
                 },

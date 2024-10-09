@@ -423,7 +423,7 @@ msgstr "*截至2023年10月1日"
 #~ msgstr ""
 
 #~ msgid "a17"
-#~ msgstr "EA FC 25 Ultimate Team 商店 | EA Sports FC 金币商店"
+#~ msgstr "EA FC 24 Ultimate Team 商店 | EA Sports FC 金币商店"
 
 #~ msgid "a18"
 #~ msgstr "你将收到"
@@ -658,7 +658,7 @@ msgid "a69"
 msgstr "2. 支付您的订单。"
 
 #~ msgid "a7"
-#~ msgstr "FC 25 金币"
+#~ msgstr "FC 24 金币"
 
 #: components/CustomAccordion/CustomAccordion.js:171
 msgid "a70"
@@ -791,10 +791,10 @@ msgid "aa0_1"
 msgstr "不要错过我们的特别优惠"
 
 #~ msgid "aa1"
-#~ msgstr "EA FC 25发布促销优惠7%"
+#~ msgstr "EA FC 24发布促销优惠7%"
 
 #~ msgid "aa10"
-#~ msgstr "Buy EA FC 25金币仅售[[X]]"
+#~ msgstr "Buy EA FC 24金币仅售[[X]]"
 
 #~ msgid "aa11"
 #~ msgstr ""
@@ -815,7 +815,7 @@ msgstr "需要陪练？我们来帮你！"
 
 #: pages/wl-boost.js:79
 msgid "aa6"
-msgstr "我们提供以下服务：EA FC 25 Ultimate Team决赛排位陪练、UT Champion决赛、UT Champion季后赛、Divisions Rivals立即与我们联系并锁定最优价格！"
+msgstr "我们提供以下服务：EA FC 24 Ultimate Team决赛排位陪练、UT Champion决赛、UT Champion季后赛、Divisions Rivals立即与我们联系并锁定最优价格！"
 
 #~ msgid "aa7"
 #~ msgstr "我们的回归时间："
@@ -824,7 +824,7 @@ msgstr "我们提供以下服务：EA FC 25 Ultimate Team决赛排位陪练、UT
 #~ msgstr "准备好迎接新赛季"
 
 #~ msgid "aa9"
-#~ msgstr "为你的EA FC 25 Ultimate Team俱乐部购买金币"
+#~ msgstr "为你的EA FC 24 Ultimate Team俱乐部购买金币"
 
 #~ msgid "ab0"
 #~ msgstr "以下是你感兴趣的一些统计数据*："
@@ -951,34 +951,34 @@ msgid "ab25"
 msgstr "队列中的订单"
 
 #~ msgid "ab26"
-#~ msgstr "购买适用于所有平台的FC 25金币 | Ultimate Team Coin Store"
+#~ msgstr "购买适用于所有平台的FC 24金币 | Ultimate Team Coin Store"
 
 #: pages/order/index.js:58
 #: pages/order/index.js:93
 msgid "ab27"
-msgstr "购买适用于任何平台的FC 25金币 | ROYALFUT"
+msgstr "购买适用于任何平台的FC 24金币 | ROYALFUT"
 
 #: pages/order/index.js:95
 msgid "ab28"
-msgstr "EA FC 25金币购买 | 安全结账 | ROYALFUT"
+msgstr "EA FC 24金币购买 | 安全结账 | ROYALFUT"
 
 #~ msgid "ab29"
-#~ msgstr "购买适用于PlayStation 4的FC 25金币 | ROYALFUT"
+#~ msgstr "购买适用于PlayStation 4的FC 24金币 | ROYALFUT"
 
 #~ msgid "ab3"
 #~ msgstr "1000亿+"
 
 #~ msgid "ab30"
-#~ msgstr "购买适用于PlayStation 5的FC 25金币 | ROYALFUT"
+#~ msgstr "购买适用于PlayStation 5的FC 24金币 | ROYALFUT"
 
 #~ msgid "ab31"
-#~ msgstr "购买适用于Xbox One的FC 25金币 | ROYALFUT"
+#~ msgstr "购买适用于Xbox One的FC 24金币 | ROYALFUT"
 
 #~ msgid "ab32"
-#~ msgstr "购买适用于Xbox Series X/S的FC 25金币 | ROYALFUT"
+#~ msgstr "购买适用于Xbox Series X/S的FC 24金币 | ROYALFUT"
 
 #~ msgid "ab33"
-#~ msgstr "购买适用于PC (Origin / Steam / Epic Games) 的FC 25金币 | ROYALFUT"
+#~ msgstr "购买适用于PC (Origin / Steam / Epic Games) 的FC 24金币 | ROYALFUT"
 
 #: pages/order/index.js:100
 msgid "ab34"
@@ -1015,7 +1015,7 @@ msgstr "我的个人资料 | ROYALFUT"
 #~ msgstr "安全结帐 | ROYALFUT"
 
 #~ msgid "ab42"
-#~ msgstr "购买FC 25提升 | 在周末联赛和分区竞争对手中提升排名"
+#~ msgstr "购买FC 24提升 | 在周末联赛和分区竞争对手中提升排名"
 
 #~ msgid "ab43"
 #~ msgstr "提交详情"
@@ -1216,7 +1216,7 @@ msgstr "需要帮助吗？欢迎随时联系我们的支持团队。"
 
 #: components/Offer/Offer.js:82
 msgid "ab91"
-msgstr "如果你厌倦了研磨FC 25金币，我们有一个完美便宜的解决方案给你！来认识下ROYALFUT.com，一家最可靠的EA FC金币店，在这一领域有多年经验。这个顶级市场在线提供最低价格的FIFA 24金币，可以保证快速交付和100%的帐户安全。在ROYALFUT购买FC 金币是最实惠和合法的选择，帮助你的游戏体验更愉快，没有任何不良后果的风险。你可以在这家商店找到普通的Ultimate Team金币交易，已经很低的价格还在下降，使你可以进行最划算的游戏内交易。ROYALFUT平台不仅在FUT金币销售方面100％可靠，而且其出色的客户支持闻名，将始终帮助你解决可能遇到的任何问题。现在很少能找到一个合法的FUT24金币商店，但是ROYALFUT.com 毫无疑问是其中之一。如果你想购买适用于PC、PS4、PS5、Xbox One、Xbox Series X或Xbox Series S系列的Ultimate Team金币，付款100%安全，即时交付，这绝对是你最好的地方。"
+msgstr "如果你厌倦了研磨FC 24金币，我们有一个完美便宜的解决方案给你！来认识下ROYALFUT.com，一家最可靠的EA FC金币店，在这一领域有多年经验。这个顶级市场在线提供最低价格的FIFA 24金币，可以保证快速交付和100%的帐户安全。在ROYALFUT购买FC 金币是最实惠和合法的选择，帮助你的游戏体验更愉快，没有任何不良后果的风险。你可以在这家商店找到普通的Ultimate Team金币交易，已经很低的价格还在下降，使你可以进行最划算的游戏内交易。ROYALFUT平台不仅在FUT金币销售方面100％可靠，而且其出色的客户支持闻名，将始终帮助你解决可能遇到的任何问题。现在很少能找到一个合法的FUT24金币商店，但是ROYALFUT.com 毫无疑问是其中之一。如果你想购买适用于PC、PS4、PS5、Xbox One、Xbox Series X或Xbox Series S系列的Ultimate Team金币，付款100%安全，即时交付，这绝对是你最好的地方。"
 
 #: pages/order/index.js:115
 #: pages/order/pc.js:82
@@ -1225,7 +1225,7 @@ msgstr "如果你厌倦了研磨FC 25金币，我们有一个完美便宜的解�
 #: pages/order/xbox_one.js:82
 #: pages/order/xbox_xs.js:82
 msgid "ab92"
-msgstr "购买FC 25 Ultimate Team金币"
+msgstr "购买FC 24 Ultimate Team金币"
 
 #: components/Order/Steps.js:14
 #: components/Order/Steps.js:56
@@ -1393,7 +1393,7 @@ msgstr "你可以用这笔钱在市场上买到任何一张卡。完成你的梦
 #: pages/coins/[id].js:177
 #: pages/coins/[id].js:192
 msgid "coins_page18"
-msgstr "[[X]]FC 25 Ultimate Team金币"
+msgstr "[[X]]FC 24 Ultimate Team金币"
 
 #: pages/coins/[id].js:201
 msgid "coins_page19"
@@ -1569,7 +1569,7 @@ msgstr "评论"
 
 #: components/MainFunnel/MainFunnel.js:44
 #~ msgid "home:newh1_2"
-#~ msgstr "FC 25 金币"
+#~ msgstr "FC 24 金币"
 
 #: components/MainFunnel/MainFunnel.js:47
 #~ msgid "home:newh1_3"
@@ -1578,7 +1578,7 @@ msgstr "评论"
 #: components/MainFunnel/MainFunnel.js:32
 #: components/MainFunnel/MainFunnel.js:53
 #~ msgid "home:newh1_4"
-#~ msgstr "FC 25 金币"
+#~ msgstr "FC 24 金币"
 
 #: components/MainFunnel/MainFunnel.js:33
 msgid "home:title"
@@ -1750,7 +1750,7 @@ msgstr "此优惠券已用完"
 #~ msgstr "Delivery method:"
 
 #~ msgid "locales.deliverytext"
-#~ msgstr " 提供独特的 EA FC 25 金币交付系统。我们与众多金币提供者合作。我们使用特殊规则履行订单，保证您的账户不会受到 EA 的制裁。请参见以下一些规则："
+#~ msgstr " 提供独特的 EA FC 24 金币交付系统。我们与众多金币提供者合作。我们使用特殊规则履行订单，保证您的账户不会受到 EA 的制裁。请参见以下一些规则："
 
 #~ msgid "locales.deliverytitle"
 #~ msgstr "交付区"
@@ -1828,10 +1828,10 @@ msgstr "平台"
 #~ msgstr "有资格获得退款"
 
 #~ msgid "locales.h1_1"
-#~ msgstr "购买 EA FC 25 金币的 "
+#~ msgstr "购买 EA FC 24 金币的 "
 
 #~ msgid "locales.h1_2"
-#~ msgstr "购买 FC 25 金币"
+#~ msgstr "购买 FC 24 金币"
 
 #~ msgid "locales.h1_coins"
 #~ msgstr "前往FIFA 23 Ultimate Team商店"
@@ -1840,7 +1840,7 @@ msgstr "平台"
 #~ msgstr "你在商店里的主要伴侣 "
 
 #~ msgid "locales.h1_p2"
-#~ msgstr "EA FC 25 Ultimate Team"
+#~ msgstr "EA FC 24 Ultimate Team"
 
 #~ msgid "locales.haveCoupon"
 #~ msgstr "有一张优惠券"
@@ -1945,7 +1945,7 @@ msgstr "交货"
 #~ msgstr "将为您提供 7x24 小时全天候金币实时交付。"
 
 #~ msgid "locales.menuLinkDescDisabled"
-#~ msgstr "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋"
+#~ msgstr "Sales of EA FC 24 coins is now closed. <br/>See you in EA FC 24 season  👋"
 
 #~ msgid "locales.menulinkfaq"
 #~ msgstr "常见问题"
@@ -2082,7 +2082,7 @@ msgstr "现在订购"
 #~ msgstr "或者用加密货币"
 
 #~ msgid "locales.p1"
-#~ msgstr "这可让我们提供网上最安全的 EA FC 25 金币购买方式。"
+#~ msgstr "这可让我们提供网上最安全的 EA FC 24 金币购买方式。"
 
 #~ msgid "locales.p2"
 #~ msgstr "为了让金币尽快交付，请按照网站上公布的指示或者在实时聊天中从经理处获得的指示操作"
@@ -2119,7 +2119,7 @@ msgstr "成功支付订单后，您将跳转至一个新页面，上面有两个
 #~ msgstr "成功付款后，你将收到球员卡购买指示。你将以市场价格购买球员卡，我们将以高出数倍的价格向你购买它们。"
 
 #~ msgid "locales.pageCoinsAfterSuccessfull"
-#~ msgstr "支付成功后，我们将需要取得你 EA 帐户的一次性存取权限。顾客需要向我们提供自己的电子邮件地址、密码以及备份代码。我们将使用这些数据登录 FC 25 Web App 以在转会市场进行购买与出售交易。我们将以市价购买球员卡，然后在转会市场上以更高的价格出售。在这之后，这些卡将由我们的交付团队进行购买。"
+#~ msgstr "支付成功后，我们将需要取得你 EA 帐户的一次性存取权限。顾客需要向我们提供自己的电子邮件地址、密码以及备份代码。我们将使用这些数据登录 FC 24 Web App 以在转会市场进行购买与出售交易。我们将以市价购买球员卡，然后在转会市场上以更高的价格出售。在这之后，这些卡将由我们的交付团队进行购买。"
 
 #: components/HowDelivery/Howdelivery.js:97
 msgid "locales.pageCoinsAfterSuccessfully"
@@ -2782,7 +2782,7 @@ msgstr "状态"
 #~ msgstr "锁上了"
 
 #~ msgid "locales.status.no_access_to_fifa_21_webapp"
-#~ msgstr "无法访问 EA FC 25 WEB-APP"
+#~ msgstr "无法访问 EA FC 24 WEB-APP"
 
 #~ msgid "locales.status.no_enough_coins_to_start"
 #~ msgstr "启动金币不足"
@@ -2943,7 +2943,7 @@ msgstr "我们的社交媒体"
 #~ msgstr "你的"
 
 #~ msgid "mainblocks14"
-#~ msgstr "EA FC 25供应商"
+#~ msgstr "EA FC 24供应商"
 
 #~ msgid "mainblocks15"
 #~ msgstr "金币和服务"
@@ -2954,7 +2954,7 @@ msgstr "你的必需"
 
 #: components/H1/H1.js:13
 msgid "mainblocks17"
-msgstr "FC 25购买地方"
+msgstr "FC 24购买地方"
 
 #: components/H1/H1.js:16
 msgid "mainblocks18"
@@ -2969,7 +2969,7 @@ msgid "mainblocks2"
 msgstr "得到任何你想要的卡"
 
 #~ msgid "mainblocks20"
-#~ msgstr "FC 25 Ultimate Team"
+#~ msgstr "FC 24 Ultimate Team"
 
 #~ msgid "mainblocks21"
 #~ msgstr "金币商店"
@@ -3061,21 +3061,21 @@ msgstr "Cookie政策。        "
 #~ msgstr "最安全的 购买选择"
 
 #~ msgid "newh1_2"
-#~ msgstr "FC 25 金币"
+#~ msgstr "FC 24 金币"
 
 #~ msgid "newh1_3"
 #~ msgstr ""
 
 #: components/MainFunnel/MainFunnel.js:46
 msgid "newh1_4"
-msgstr "FC 25 金币"
+msgstr "FC 24 金币"
 
 #: components/Cookie/Cookie.js:52
 msgid "okay"
 msgstr "好的        "
 
 #~ msgid "orderh1"
-#~ msgstr "Buy FC 25 Ultimate Team coins"
+#~ msgstr "Buy FC 24 Ultimate Team coins"
 
 #~ msgid "orderinfo"
 #~ msgstr "Order info"
@@ -3457,7 +3457,7 @@ msgstr "购买FUT23金币的最佳商店✔为PS4/5、Xbox One/X/S购买FIFA23�
 
 #: pages/_app.js:25
 msgid "seo:root:title"
-msgstr "购买适用于所有平台的FC 25金币 | Ultimate Team Coin Store"
+msgstr "购买适用于所有平台的FC 24金币 | Ultimate Team Coin Store"
 
 #~ msgid "seo0"
 #~ msgstr "简体中文"
@@ -4007,7 +4007,7 @@ msgstr "了解更多"
 #~ msgstr "交付如何工作？"
 
 #~ msgid "seo232"
-#~ msgstr "EA FC 25 Ultimate Team 商店| EA SPORTS FC 25 商店"
+#~ msgstr "EA FC 24 Ultimate Team 商店| EA SPORTS FC 24 商店"
 
 #~ msgid "seo233"
 #~ msgstr "购买FUT23金币的最佳商店✔为PS4/5、Xbox One/X/S购买FIFA23金币 🎮快速交付&24/7实时支持⚡100%安全付款 🔒 获得廉价Ultimate Team金币的安全地方😉"
@@ -4225,7 +4225,7 @@ msgstr "手动交付方法不需要任何帐户细节，你将需要使用我们
 #~ msgstr "舒适交易"
 
 #~ msgid "seo6"
-#~ msgstr "你在商店里的主要伴侣 EA FC 25 Ultimate Team"
+#~ msgstr "你在商店里的主要伴侣 EA FC 24 Ultimate Team"
 
 #~ msgid "seo60"
 #~ msgstr "玩家拍卖"
@@ -4420,13 +4420,13 @@ msgstr "m"
 #~ msgstr "我们的团队竭诚为您提供市场上最实惠的价格。所以当您在我们这里购买任意平台的FIFA 24金币时，请不用怀疑，您的价格就是市面最优。"
 
 #~ msgid "seop24"
-#~ msgstr "如果您有任何关于在主机上购买FC 25金币的疑问，欢迎随时以任意联系方式与我们沟通。"
+#~ msgstr "如果您有任何关于在主机上购买FC 24金币的疑问，欢迎随时以任意联系方式与我们沟通。"
 
 #~ msgid "t"
 #~ msgstr "关于配送"
 
 #~ msgid "t_t"
-#~ msgstr "这些硬币将被发送到与您的 EA 帐户关联的 FC 25 俱乐部。 只需 EA 账户详细信息即可转移代币。"
+#~ msgstr "这些硬币将被发送到与您的 EA 帐户关联的 FC 24 俱乐部。 只需 EA 账户详细信息即可转移代币。"
 
 #: components/Aside/Aside.js:52
 msgid "trust:commenturl"

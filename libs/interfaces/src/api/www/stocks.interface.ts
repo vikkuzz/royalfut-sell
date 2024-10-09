@@ -1,8 +1,8 @@
 /* eslint-disable @typescript-eslint/naming-convention */
 
 import type {
-    WalletWithdrawMethods,
-    EPlatforms,
+    EWalletWithdrawMethods,
+    EAppPlatforms,
     ECCYIDs,
 } from "@royalfut/enums";
 
@@ -11,12 +11,23 @@ export namespace Stocks {
         export namespace Response {
             export interface Body {
                 deliveryMethods: Array<{
-                    type: WalletWithdrawMethods;
+                    type: EWalletWithdrawMethods;
                     data: Array<{
-                        platform: EPlatforms;
+                        platform: EAppPlatforms;
                         pricePerCurrencyMap: Record<ECCYIDs, number>;
                     }>;
                 }>;
+                currency: ECCYIDs;
+                locale: string;
+                region: string;
+                minLimitSumCoins: number;
+                maxLimitSumCoins: number;
+                discount: Array<unknown>;
+                lastRefreshedDate: string;
+                paypalEnabled: boolean;
+                rate: string;
+                reviews: string;
+                provider: string;
             }
         }
 

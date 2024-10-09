@@ -3,7 +3,7 @@
 import * as DropdownMenu from "@radix-ui/react-dropdown-menu";
 import { useI18nPicker } from "./useI18nPicker";
 import { PickerTrigger, PickerCard, cnPickerContent } from "../common";
-import { useUIGlobalStore } from "@royalfut/store";
+import { useProjectGlobalStore } from "@royalfut/store";
 import { cn } from "@royalfut/utils";
 
 import styles from "../common/picker.module.scss";
@@ -17,7 +17,7 @@ const I18nPickerDropdown: FNCN<IPickerProps> = ({
     showListCountryFlag = false,
 }) => {
     const { handleChange, id, isOpen, onOpenChange } = useI18nPicker();
-    const coll = useUIGlobalStore(state => state.local.lng);
+    const coll = useProjectGlobalStore(state => state.local.lng);
 
     if (!coll) return null;
 

@@ -29,6 +29,12 @@ module.exports = {
                     "error",
                     "apps/sell.royalfut/pages",
                 ],
+                "prettier/prettier": [
+                    "error",
+                    {
+                        parentheses: "ignore",
+                    },
+                ],
             },
         },
         {

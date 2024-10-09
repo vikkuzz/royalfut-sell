@@ -2,7 +2,7 @@ export { default as LogoutButton } from "./LogoutButton";
 export { default as FIFA24CoinsPromo } from "./FIFA24CoinsPromo";
 export { default as InfographicStats } from "./InfographicStats";
 export * as ClientTestimonials from "./ClientTestimonials";
-export * as FAQAccordion from "./FaqAccordion";
+export * as FAQAccordion from "./FAQAccordion";
 export { default as SearchBtn } from "./SearchBtn";
 export { default as Tags } from "./filter/Tags";
 export { default as BlogCard } from "./blogCard/BlogCard";

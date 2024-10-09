@@ -1,17 +1,17 @@
 import type {
-    WalletWithdrawMethods,
-    EPlatforms,
+    EWalletWithdrawMethods,
+    EAppPlatforms,
     ECCYIDs,
 } from "@royalfut/enums";
 
 export namespace Stocks {
     interface IEntity {
         id: number;
-        deliveryMethod: WalletWithdrawMethods;
+        deliveryMethod: EWalletWithdrawMethods;
         coinPrice: number;
         currency: ECCYIDs;
         perN: number;
-        platform: EPlatforms;
+        platform: EAppPlatforms;
     }
 
     export namespace GET {

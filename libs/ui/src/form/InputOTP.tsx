@@ -14,7 +14,7 @@ const InputOTP = forwardRef<
         ref={ref}
         containerClassName={cn(
             "flex items-center has-[:disabled]:opacity-50",
-            containerClassName,
+            containerClassName
         )}
         className={cn("disabled:cursor-not-allowed", className)}
         {...props}
@@ -47,10 +47,9 @@ const InputOTPSlot = forwardRef<
             className={cn(
                 "relative flex items-center justify-center text-sm transition-all",
                 // isActive && "z-10 ring-1 ring-ring",
-                className,
+                className
             )}
-            {...props}
-        >
+            {...props}>
             {char}
             {hasFakeCaret && (
                 <div className="pointer-events-none absolute inset-0 flex items-center justify-center">

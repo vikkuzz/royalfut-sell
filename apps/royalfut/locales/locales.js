@@ -3,142 +3,142 @@ export const translates = {
         en: {
             seo0: "We have the best deals on FIFA coins for PlayStation 4. We offer cheap FIFA PS4 coins with high speed delivery and guarantee the security of your account with NO FEE. ",
             seo1: "Our team works hard to give you the best prices on the market, so you can buy FUT Coins for PS4 from us with the confidence of getting the best deal.",
-            seo2: "Got any questions about purchasing EA FC 25 coins for your PlayStation console? Get in touch with us in any way you like.",
+            seo2: "Got any questions about purchasing EA FC 24 coins for your PlayStation console? Get in touch with us in any way you like.",
             seo3: "We have the best deals on FIFA coins for PlayStation 5. We offer cheap FIFA PS5 coins with high speed delivery and guarantee the security of your account with NO FEE. ",
             seo4: "Our team works hard to give you the best prices on the market, so you can buy FUT Coins for PS5 from us with the confidence of getting the best deal.",
-            seo5: "Got any questions about purchasing EA FC 25 coins for your PlayStation console? Get in touch with us in any way you like.",
+            seo5: "Got any questions about purchasing EA FC 24 coins for your PlayStation console? Get in touch with us in any way you like.",
             seo6: "We have the best deals on FIFA coins for Xbox One. We offer cheap FIFA coins with high speed delivery and guarantee the security of your account with NO FEE. ",
             seo7: "Our team works hard to give you the best prices on the market, so you can buy FUT Coins for Xbox 1 from us with the confidence of getting the best deal.",
-            seo8: "Got any questions about purchasing EA FC 25 coins for your Xbox console? Get in touch with us in any way you like.",
+            seo8: "Got any questions about purchasing EA FC 24 coins for your Xbox console? Get in touch with us in any way you like.",
             seo9: "We have the best deals on FIFA coins for Xbox Series X. Also we offer cheap FIFA coins for Xbox Series S with high speed delivery and guarantee the security of your account with NO FEE. ",
             seo10: "Our team works hard to give you the best prices on the market, so you can buy FUT Coins for Xbox Series X/S from us with the confidence of getting the best deal.",
-            seo11: "Got any questions about purchasing EA FC 25 coins for your Xbox console? Get in touch with us in any way you like.",
+            seo11: "Got any questions about purchasing EA FC 24 coins for your Xbox console? Get in touch with us in any way you like.",
         },
         ru: {
             seo0: "У нас самые выгодные предложения на монеты FIFA для PlayStation 4. Мы предлагаем дешёвые монеты FIFA для PS4 с высокой скоростью доставки и гарантией безопасности Вашего аккаунта БЕЗ КОМИССИИ.",
             seo1: "Наша команда прилагает все усилия, чтобы предоставить Вам лучшие цены на рынке, поэтому Вы можете купить у нас монеты FUT для PS4 с уверенностью в том, что получите наилучшую сделку.",
-            seo2: "Есть вопросы по покупке монет EA FC 25 для консолей PlayStation? Свяжитесь с нами любым удобным для Вас способом.",
+            seo2: "Есть вопросы по покупке монет EA FC 24 для консолей PlayStation? Свяжитесь с нами любым удобным для Вас способом.",
             seo3: "У нас самые выгодные предложения на монеты FIFA для PlayStation 5. Мы предлагаем дешёвые монеты FIFA для PS5 с высокой скоростью доставки и гарантией безопасности Вашего аккаунта БЕЗ КОМИССИИ.",
             seo4: "Наша команда прилагает все усилия, чтобы предоставить Вам лучшие цены на рынке, поэтому Вы можете купить у нас монеты FUT для PS5 с уверенностью в том, что получите наилучшую сделку.",
-            seo5: "Есть вопросы по покупке монет EA FC 25 для консолей PlayStation? Свяжитесь с нами любым удобным для Вас способом.",
+            seo5: "Есть вопросы по покупке монет EA FC 24 для консолей PlayStation? Свяжитесь с нами любым удобным для Вас способом.",
             seo6: "У нас самые выгодные предложения на монеты FIFA для Xbox One. Мы предлагаем дешёвые монеты FIFA с высокой скоростью доставки и гарантией безопасности Вашего аккаунта БЕЗ КОМИССИИ.",
             seo7: "Наша команда прилагает все усилия, чтобы предоставить Вам лучшие цены на рынке, поэтому Вы можете купить у нас монеты FUT для Xbox One с уверенностью в том, что получите наилучшую сделку.",
-            seo8: "Есть вопросы по покупке монет EA FC 25 для консолей Xbox? Свяжитесь с нами любым удобным для Вас способом.",
+            seo8: "Есть вопросы по покупке монет EA FC 24 для консолей Xbox? Свяжитесь с нами любым удобным для Вас способом.",
             seo9: "У нас самые выгодные предложения на монеты FIFA для Xbox Series X. Мы предлагаем дешёвые монеты FIFA для Xbox Series S с высокой скоростью доставки и гарантией безопасности Вашего аккаунта БЕЗ КОМИССИИ.",
             seo10: "Наша команда прилагает все усилия, чтобы предоставить Вам лучшие цены на рынке, поэтому Вы можете купить у нас монеты FUT для Series X/S с уверенностью в том, что получите наилучшую сделку.",
-            seo11: "Есть вопросы по покупке монет EA FC 25 для консолей Xbox? Свяжитесь с нами любым удобным для Вас способом.",
+            seo11: "Есть вопросы по покупке монет EA FC 24 для консолей Xbox? Свяжитесь с нами любым удобным для Вас способом.",
         },
         de: {
             seo0: "Wir haben die besten Angebote von FIFA Münzen für PlayStation 4. Günstige FIFA PS4 Münzen mit Versand in Höchstgeschwindigkeit, garantierte Konto-Sicherheit und OHNE GEBÜHREN.",
             seo1: "Unser Team tut alles, um Ihnen die besten Preise auf dem Markt bieten zu können, damit Sie können bei uns FUT Münzen für PS4 kaufen und sicher sein, dass Sie das beste Geschäft gemacht haben.",
-            seo2: "Haben Sie Fragen zum Kauf von EA FC 25 Münzen für Ihre PlayStation-Konsole? Kontaktieren Sie uns, wie Sie möchten.",
+            seo2: "Haben Sie Fragen zum Kauf von EA FC 24 Münzen für Ihre PlayStation-Konsole? Kontaktieren Sie uns, wie Sie möchten.",
             seo3: "Wir haben die besten Angebote von FIFA Münzen für PlayStation 5. Günstige FIFA PS5 Münzen mit Versand in Höchstgeschwindigkeit, garantierte Konto-Sicherheit und OHNE GEBÜHREN.",
             seo4: "Unser Team tut alles, um Ihnen die besten Preise auf dem Markt bieten zu können. Bei uns kaufen Sie FUT Münzen für PS5 mit dem sicheren Gefühl, dass Sie das beste Geschäft gemacht haben.",
-            seo5: "Haben Sie Fragen zum Kauf von EA FC 25 Münzen für Ihre PlayStation-Konsole? Kontaktieren Sie uns, wie Sie möchten.",
+            seo5: "Haben Sie Fragen zum Kauf von EA FC 24 Münzen für Ihre PlayStation-Konsole? Kontaktieren Sie uns, wie Sie möchten.",
             seo6: "Wir haben die besten Angebote von FIFA Münzen für PlayStation Xbox. Günstige FIFA Münzen mit Versand in Höchstgeschwindigkeit, garantierte Konto-Sicherheit und OHNE GEBÜHREN.",
             seo7: "Unser Team tut alles, um Ihnen die besten Preise auf dem Markt bieten zu können, bei uns können Sie FUT Münzen für Xbox 1 kaufen und sicher sein, dass Sie das beste Geschäft gemacht haben.",
-            seo8: "Haben Sie Fragen zum Kauf von EA FC 25 Münzen für Ihre Xbox Konsole? Kontaktieren Sie uns, wie Sie möchten.",
+            seo8: "Haben Sie Fragen zum Kauf von EA FC 24 Münzen für Ihre Xbox Konsole? Kontaktieren Sie uns, wie Sie möchten.",
             seo9: "Wir haben die besten Angebote von FIFA Münzen für Xbox Serie X. Günstige FIFA Münzen für Xbox Serie S, Versand mit Höchstgeschwindigkeit, garantierte Konto-Sicherheit und OHNE GEBÜHREN.",
             seo10: "Unser Team tut alles, um Ihnen die besten Preise auf dem Markt bieten zu können, bei uns können Sie FUT Münzen für Xbox Serie X/S kaufen und sicher sein, dass Sie das beste Geschäft gemacht haben.",
-            seo11: "Haben Sie Fragen zum Kauf von EA FC 25 Münzen für Ihre Xbox Konsole? Kontaktieren Sie uns, wie Sie möchten.",
+            seo11: "Haben Sie Fragen zum Kauf von EA FC 24 Münzen für Ihre Xbox Konsole? Kontaktieren Sie uns, wie Sie möchten.",
         },
         fr: {
             seo0: "Nous proposons les meilleures offres pour les crédits FIFA pour PlayStation 4. Nous proposons des crédits FIFA PS4 à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS.",
             seo1: "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour PS4 chez nous en étant sûr(e) de bénéficier de la meilleure offre.",
-            seo2: "L'achat de crédits EA FC 25 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit.",
+            seo2: "L'achat de crédits EA FC 24 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit.",
             seo3: "Nous proposons les meilleures offres pour les crédits FIFA pour PlayStation 5. Nous proposons des crédits FIFA PS5 à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS.",
             seo4: "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour PS5 chez nous en étant sûr(e) de bénéficier de la meilleure offre.",
-            seo5: "L'achat de crédits EA FC 25 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit.",
+            seo5: "L'achat de crédits EA FC 24 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit.",
             seo6: "Nous proposons les meilleures offres pour les crédits FIFA pour Xbox One. Nous proposons des crédits FIFA à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS.",
             seo7: "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour Xbox 1 chez nous en étant sûr(e) de bénéficier de la meilleure offre.",
-            seo8: "L'achat de crédits EA FC 25 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit.",
+            seo8: "L'achat de crédits EA FC 24 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit.",
             seo9: "Nous proposons les meilleures offres pour les crédits FIFA pour Xbox Série X. De plus, nous proposons des crédits FIFA pour Xbox Série S à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS.",
             seo10: "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour Xbox Série X/S chez nous en étant sûr(e) de bénéficier de la meilleure offre.",
-            seo11: "L'achat de crédits EA FC 25 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit.",
+            seo11: "L'achat de crédits EA FC 24 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit.",
         },
         it: {
             seo0: "Abbiamo le migliori offerte sui crediti FIFA per PlayStation 4. Proponiamo crediti FIFA per PS4 a prezzi convenienti, con consegna rapida e garantendo la sicurezza del tuo account, SENZA COMMISSIONI.",
             seo1: "Il nostro team lavora con impegno per proporti i migliori prezzi sul mercato: puoi acquistare crediti FUT per PS4 con la sicurezza di approfittare dell'offerta migliore.",
-            seo2: "Hai qualche domanda sull'acquisto dei crediti EA FC 25 per la tua PlayStation? Contattaci nel modo che preferisci.",
+            seo2: "Hai qualche domanda sull'acquisto dei crediti EA FC 24 per la tua PlayStation? Contattaci nel modo che preferisci.",
             seo3: "Abbiamo le migliori offerte sui crediti FIFA per PlayStation 5. Proponiamo crediti FIFA per PS5 a prezzi convenienti, con consegna rapida e garantendo la sicurezza del tuo account, SENZA COMMISSIONI.",
             seo4: "Il nostro team lavora con impegno per proporti i migliori prezzi sul mercato: puoi acquistare crediti FUT per PS5 con la sicurezza di approfittare dell'offerta migliore.",
-            seo5: "Hai qualche domanda sull'acquisto dei crediti EA FC 25 per la tua PlayStation? Contattaci nel modo che preferisci.",
+            seo5: "Hai qualche domanda sull'acquisto dei crediti EA FC 24 per la tua PlayStation? Contattaci nel modo che preferisci.",
             seo6: "Abbiamo le migliori offerte sui crediti FIFA per Xbox One. Proponiamo crediti FIFA a prezzi convenienti, con consegna rapida e garantendo la sicurezza del tuo account, SENZA COMMISSIONI.",
             seo7: "Il nostro team lavora con impegno per proporti i migliori prezzi sul mercato: puoi acquistare crediti FUT per Xbox 1 con la sicurezza di approfittare dell'offerta migliore.",
-            seo8: "Hai qualche domanda sull'acquisto dei crediti EA FC 25 per la tua Xbox? Contattaci nel modo che preferisci.",
+            seo8: "Hai qualche domanda sull'acquisto dei crediti EA FC 24 per la tua Xbox? Contattaci nel modo che preferisci.",
             seo9: "Abbiamo le migliori offerte sui crediti FIFA per Xbox serie X. E proponiamo crediti FIFA per Xbox serie S a prezzi convenienti con consegna rapida, garantendo la sicurezza del tuo account SENZA COMMISSIONI.",
             seo10: "Il nostro team lavora con impegno per proporti i migliori prezzi sul mercato: puoi acquistare crediti FUT per Xbox serie X/S da noi con la sicurezza di approfittare dell'offerta migliore.",
-            seo11: "Hai qualche domanda sull'acquisto dei crediti EA FC 25 per la tua Xbox? Contattaci nel modo che preferisci.",
+            seo11: "Hai qualche domanda sull'acquisto dei crediti EA FC 24 per la tua Xbox? Contattaci nel modo che preferisci.",
         },
         ar: {
             seo0: "لدينا أفضل الصفقات على عملات FIFA الخاصة بجهاز PlayStation 4. نحن نقدم عملات FIFA PS4 الرخيصة مع التسليم عالي السرعة ونضمن أمان حسابك دون رسوم.",
             seo1: "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لجهاز PS4 منّا مع الثقة في الحصول على أفضل صفقة.",
-            seo2: "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل PlayStation الخاصة بك؟ تواصل معنا بأي طريقة تريدها.",
+            seo2: "هل لديك أي أسئلة حول شراء عملات EA FC 24 لوحدة تشغيل PlayStation الخاصة بك؟ تواصل معنا بأي طريقة تريدها.",
             seo3: "لدينا أفضل الصفقات على عملات FIFA الخاصة بجهاز PlayStation 5. نحن نقدم عملات FIFA PS5 الرخيصة مع التسليم عالي السرعة ونضمن أمان حسابك دون رسوم.",
             seo4: "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لجهاز PS5 منّا مع الثقة في الحصول على أفضل صفقة.",
-            seo5: "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل PlayStation الخاصة بك؟ تواصل معنا بأي طريقة تريدها.",
+            seo5: "هل لديك أي أسئلة حول شراء عملات EA FC 24 لوحدة تشغيل PlayStation الخاصة بك؟ تواصل معنا بأي طريقة تريدها.",
             seo6: "لدينا أفضل الصفقات على عملات FIFA الخاصة بجهاز Xbox One. نحن نقدم عملات FIFA الرخيصة مع التسليم عالي السرعة ونضمن أمان حسابك دون رسوم.",
             seo7: "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لجهاز Xbox 1 منّا مع الثقة في الحصول على أفضل صفقة.",
-            seo8: "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل Xbox الخاصة بك؟ تواصل معنا بأي طريقة تريدها.",
+            seo8: "هل لديك أي أسئلة حول شراء عملات EA FC 24 لوحدة تشغيل Xbox الخاصة بك؟ تواصل معنا بأي طريقة تريدها.",
             seo9: "لدينا أفضل الصفقات على عملات FIFA الخاصة بـ Xbox Series X. كما نقدم عملات FIFA رخيصة لأجهزة Xbox Series S مع سرعة تسليم عالية ونضمن أمان حسابك دون رسوم.",
             seo10: "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لأجهزة Xbox Series X/S منّا مع الثقة في الحصول على أفضل صفقة.",
-            seo11: "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل Xbox الخاصة بك؟ تواصل معنا بأي طريقة تريدها.",
+            seo11: "هل لديك أي أسئلة حول شراء عملات EA FC 24 لوحدة تشغيل Xbox الخاصة بك؟ تواصل معنا بأي طريقة تريدها.",
         },
         nl: {
             seo0: "Wij hebben de beste aanbiedingen op FIFA-munten voor PlayStation 4. We bieden goedkope FIFA PS4-munten met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN.",
             seo1: "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor PS4 kopen met het vertrouwen dat je de beste deal krijgt.",
-            seo2: "Heb je vragen over het kopen van EA FC 25-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt.",
+            seo2: "Heb je vragen over het kopen van EA FC 24-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt.",
             seo3: "Wij hebben de beste aanbiedingen op FIFA-munten voor PlayStation 5. We bieden goedkope FIFA PS5-munten met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN.",
             seo4: "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor PS5 kopen met het vertrouwen dat je de beste deal krijgt.",
-            seo5: "Heb je vragen over het kopen van EA FC 25-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt.",
+            seo5: "Heb je vragen over het kopen van EA FC 24-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt.",
             seo6: "Wij hebben de beste aanbiedingen op FIFA-munten voor Xbox One. We bieden goedkope FIFA-munten met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN.",
             seo7: "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor Xbox One kopen met het vertrouwen dat je de beste deal krijgt.",
-            seo8: "Heb je vragen over het kopen van EA FC 25-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt.",
+            seo8: "Heb je vragen over het kopen van EA FC 24-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt.",
             seo9: "Wij hebben de beste aanbiedingen op FIFA-munten voor Xbox Series X. We bieden goedkope FIFA-munten voor Xbox Series X met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN.",
             seo10: "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor Xbox Series X/S kopen met het vertrouwen dat je de beste deal krijgt.",
-            seo11: "Heb je vragen over het kopen van EA FC 25-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt.",
+            seo11: "Heb je vragen over het kopen van EA FC 24-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt.",
         },
         es: {
             seo0: "Tenemos las mejores ofertas en monedas de FIFA para PlayStation 4. Ofrecemos monedas de FIFA baratas para PS4, con entrega rápida y seguridad garantizada para tu cuenta, SIN COMISIONES.",
             seo1: "Nuestro equipo trabaja con ahínco para ofrecerte las mejores condiciones del mercado, de modo que, cuando nos compres monedas de FUT para PS4, tengas la certeza de hacerlo al mejor precio disponible.",
-            seo2: "¿Tienes alguna pregunta sobre cómo comprar monedas de EA FC 25 para tu consola PlayStation? Ponte en contacto con nosotros mediante el canal que prefieras.",
+            seo2: "¿Tienes alguna pregunta sobre cómo comprar monedas de EA FC 24 para tu consola PlayStation? Ponte en contacto con nosotros mediante el canal que prefieras.",
             seo3: "Tenemos las mejores ofertas en monedas de FIFA para PlayStation 5. Ofrecemos monedas de FIFA baratas para PS5, con entrega rápida y seguridad garantizada para tu cuenta, SIN COMISIONES.",
             seo4: "Nuestro equipo trabaja con ahínco para ofrecerte las mejores condiciones del mercado, de modo que, cuando nos compres monedas de FUT para PS5, tengas la certeza de hacerlo al mejor precio disponible.",
-            seo5: "¿Tienes alguna pregunta sobre cómo comprar monedas de EA FC 25 para tu consola PlayStation? Ponte en contacto con nosotros mediante el canal que prefieras.",
+            seo5: "¿Tienes alguna pregunta sobre cómo comprar monedas de EA FC 24 para tu consola PlayStation? Ponte en contacto con nosotros mediante el canal que prefieras.",
             seo6: "Tenemos las mejores ofertas en monedas de FIFA para Xbox One. Ofrecemos monedas de FIFA baratas, con entrega rápida y seguridad garantizada para tu cuenta, SIN COMISIONES.",
             seo7: "Nuestro equipo trabaja con ahínco para ofrecerte las mejores condiciones del mercado, de modo que, cuando nos compres monedas de FUT para Xbox One, tengas la certeza de hacerlo al mejor precio disponible.",
-            seo8: "¿Tienes alguna pregunta sobre cómo comprar monedas de EA FC 25 para tu consola Xbox? Ponte en contacto con nosotros mediante el canal que prefieras.",
+            seo8: "¿Tienes alguna pregunta sobre cómo comprar monedas de EA FC 24 para tu consola Xbox? Ponte en contacto con nosotros mediante el canal que prefieras.",
             seo9: "Tenemos las mejores ofertas en monedas de FIFA para Xbox Series X. También ofrecemos monedas de FIFA baratas para Xbox Series S, con entrega rápida y seguridad garantizada para tu cuenta, SIN COMISIONES.",
             seo10: "Nuestro equipo trabaja con ahínco para ofrecerte las mejores condiciones del mercado, de modo que, cuando nos compres monedas de FUT para Xbox Series X/S, tengas la certeza de hacerlo al mejor precio disponible.",
-            seo11: "¿Tienes alguna pregunta sobre cómo comprar monedas de EA FC 25 para tu consola Xbox? Ponte en contacto con nosotros mediante el canal que prefieras.",
+            seo11: "¿Tienes alguna pregunta sobre cómo comprar monedas de EA FC 24 para tu consola Xbox? Ponte en contacto con nosotros mediante el canal que prefieras.",
         },
         pt: {
             seo0: "Temos as melhores ofertas em moedas da FIFA para PlayStation 4. Oferecemos moedas baratas FIFA PS4 com entrega de alta velocidade e garantimos a segurança da tua conta sem NENHUMA TAXA.",
             seo1: "A nossa equipa trabalha arduamente para te oferecer os melhores preços do mercado, para que possas comprar moedas FUT para PS4 connosco com a confiança de obter o melhor negócio.",
-            seo2: "Tens alguma dúvida sobre a compra de moedas EA FC 25 para a tua consola PlayStation? Entra em contacto connosco da forma que quiseres.",
+            seo2: "Tens alguma dúvida sobre a compra de moedas EA FC 24 para a tua consola PlayStation? Entra em contacto connosco da forma que quiseres.",
             seo3: "Temos as melhores ofertas em moedas da FIFA para PlayStation 5. Oferecemos moedas baratas FIFA PS5 com entrega de alta velocidade e garantimos a segurança da tua conta sem NENHUMA TAXA.",
             seo4: "A nossa equipa trabalha arduamente para te oferecer os melhores preços do mercado, para que possas comprar moedas FUT para PS5 connosco com a confiança de obter o melhor negócio.",
-            seo5: "Tens alguma dúvida sobre a compra de moedas EA FC 25 para a tua consola PlayStation? Entra em contacto connosco da forma que quiseres.",
+            seo5: "Tens alguma dúvida sobre a compra de moedas EA FC 24 para a tua consola PlayStation? Entra em contacto connosco da forma que quiseres.",
             seo6: "Temos as melhores ofertas em moedas da FIFA para Xbox One. Oferecemos moedas FIFA baratas com entrega de alta velocidade e garantimos a segurança da sua conta NENHUMA TAXA.",
             seo7: "A nossa equipa trabalha arduamente para te oferecer os melhores preços do mercado, para que possas comprar Moedas FUT para Xbox 1 connosco com a confiança de obteres o melhor negócio.",
-            seo8: "Tens alguma dúvida sobre a compra de moedas EA FC 25 para a tua consola Xbox? Entra em contacto connosco da forma que quiseres.",
+            seo8: "Tens alguma dúvida sobre a compra de moedas EA FC 24 para a tua consola Xbox? Entra em contacto connosco da forma que quiseres.",
             seo9: "Temos as melhores ofertas em moedas da FIFA para Xbox Series X. Também oferecemos moedas baratas da FIFA para Xbox Series S com entrega de alta velocidade e garantimos a segurança da sua conta sem NENHUMA TAXA.",
             seo10: "A nossa equipa trabalha arduamente para te oferecer os melhores preços do mercado, para que possas comprar moedas FUT para Xbox Series X/S connosco com a confiança de obter o melhor negócio.",
-            seo11: "Tens alguma dúvida sobre a compra de moedas EA FC 25 para a tua consola Xbox? Entra em contacto connosco da forma que quiseres.",
+            seo11: "Tens alguma dúvida sobre a compra de moedas EA FC 24 para a tua consola Xbox? Entra em contacto connosco da forma que quiseres.",
         },
         pl: {
             seo0: "Mamy najlepsze oferty na monety FIFA na PlayStation 4. Oferujemy tanie monety FIFA PS4 z szybką dostawą i gwarantujemy bezpieczeństwo twojego konta BEZ OPŁAT.",
             seo1: "Nasz zespół ciężko pracuje, aby zapewnić ci najlepsze ceny na rynku, dzięki czemu możesz kupować od nas monety FUT na PS4, mając pewność, że uzyskasz najlepszą ofertę.",
-            seo2: "Masz pytania dotyczące zakupu monet EA FC 25 na konsolę PlayStation? Skontaktuj się z nami w dowolny sposób.",
+            seo2: "Masz pytania dotyczące zakupu monet EA FC 24 na konsolę PlayStation? Skontaktuj się z nami w dowolny sposób.",
             seo3: "Mamy najlepsze oferty na monety FIFA na PlayStation 5. Oferujemy tanie monety FIFA PS5 z szybką dostawą i gwarantujemy bezpieczeństwo twojego konta BEZ OPŁAT.",
             seo4: "Nasz zespół ciężko pracuje, aby zapewnić ci najlepsze ceny na rynku, dzięki czemu możesz kupować od nas monety FUT na PS5, mając pewność, że uzyskasz najlepszą ofertę.",
-            seo5: "Masz pytania dotyczące zakupu monet EA FC 25 na konsolę PlayStation? Skontaktuj się z nami w dowolny sposób.",
+            seo5: "Masz pytania dotyczące zakupu monet EA FC 24 na konsolę PlayStation? Skontaktuj się z nami w dowolny sposób.",
             seo6: "Mamy najlepsze oferty na monety FIFA na Xbox One. Oferujemy tanie monety FIFA z szybką dostawą i gwarantujemy bezpieczeństwo twojego konta BEZ OPŁAT.",
             seo7: "Nasz zespół ciężko pracuje, aby zapewnić ci najlepsze ceny na rynku, dzięki czemu możesz kupować od nas monety FUT na Xbox 1, mając pewność, że uzyskasz najlepszą ofertę.",
-            seo8: "Masz pytania dotyczące zakupu monet EA FC 25 na konsolę Xbox? Skontaktuj się z nami w dowolny sposób.",
+            seo8: "Masz pytania dotyczące zakupu monet EA FC 24 na konsolę Xbox? Skontaktuj się z nami w dowolny sposób.",
             seo9: "Mamy najlepsze oferty na monety FIFA na Xbox Series X. Oferujemy również tanie monety FIFA na Xbox Series S z szybką dostawą i gwarantujemy bezpieczeństwo twojego konta BEZ OPŁAT.",
             seo10: "Nasz zespół ciężko pracuje, aby zapewnić ci najlepsze ceny na rynku, dzięki czemu możesz kupować od nas monety FUT na Xbox Series X/S, mając pewność, że uzyskasz najlepszą ofertę.",
-            seo11: "Masz pytania dotyczące zakupu monet EA FC 25 na konsolę Xbox? Skontaktuj się z nami w dowolny sposób.",
+            seo11: "Masz pytania dotyczące zakupu monet EA FC 24 na konsolę Xbox? Skontaktuj się z nami w dowolny sposób.",
         },
         zh: {
             seo0: "我们有适用于PlayStation 4的最好的FIFA金币交易。我们提供廉价的FIFA PS4金币，高速交付，保证你的帐户安全，没有任何费用。",
@@ -157,44 +157,44 @@ export const translates = {
         tr: {
             seo0: "PlayStation 4 için FIFA jetonlarında en iyi fırsatları sunuyoruz. Yüksek hızlı teslimat ile ucuz FIFA PS4 jetonları sunuyoruz ve hesabınızın güvenliğini ÜCRETSİZ olarak garanti ediyoruz.",
             seo1: "Ekibimiz size piyasadaki en iyi fiyatları sunmak için çok çalışıyor, böylece en iyi teklifi almanın güveniyle bizden PS4 için FUT Jetonları satın alabilirsiniz.",
-            seo2: "PlayStation konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin.",
+            seo2: "PlayStation konsolunuz için EA FC 24 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin.",
             seo3: "PlayStation 5 için FIFA jetonlarında en iyi fırsatları sunuyoruz. Yüksek hızlı teslimat ile ucuz FIFA PS5 jetonları sunuyoruz ve hesabınızın güvenliğini ÜCRETSİZ olarak garanti ediyoruz.",
             seo4: "Ekibimiz size piyasadaki en iyi fiyatları sunmak için çok çalışıyor, böylece en iyi teklifi almanın güveniyle bizden PS5 için FUT Jetonları satın alabilirsiniz.",
-            seo5: "PlayStation konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin.",
+            seo5: "PlayStation konsolunuz için EA FC 24 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin.",
             seo6: "Xbox One için FIFA jetonlarında en iyi fırsatları sunuyoruz. Yüksek hızlı teslimat ile ucuz FIFA jetonları sunuyoruz ve hesabınızın güvenliğini ÜCRETSİZ olarak garanti ediyoruz.",
             seo7: "Ekibimiz size piyasadaki en iyi fiyatları sunmak için çok çalışıyor, böylece en iyi teklifi almanın güveniyle bizden Xbox 1 için FUT Jetonları satın alabilirsiniz.",
-            seo8: "Xbox konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin.",
+            seo8: "Xbox konsolunuz için EA FC 24 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin.",
             seo9: "Xbox Series X için FIFA jetonlarında en iyi fırsatları sunuyoruz. Ayrıca yüksek hızlı teslimat ile Xbox Series S için ucuz FIFA jetonları sunuyoruz ve hesabınızın güvenliğini ÜCRETSİZ olarak garanti ediyoruz.",
             seo10: "Ekibimiz size piyasadaki en iyi fiyatları sunmak için çok çalışıyor, böylece en iyi teklifi almanın güveniyle bizden Xbox Series X/S için FUT Jetonları satın alabilirsiniz.",
-            seo11: "Xbox konsolunuz için EA FC 25 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin.",
+            seo11: "Xbox konsolunuz için EA FC 24 jetonları satın alma hakkında sorularınız mı var? Bizimle dilediğiniz şekilde iletişime geçin.",
         },
         sv: {
             seo0: "Vi har de bästa erbjudandena på FIFA-mynt till PlayStation 4. Vi erbjuder billiga FIFA PS4-mynt med snabb leverans och garanterar säkerheten för ditt konto UTAN AVGIFT.",
             seo1: "Vårt team arbetar hårt för att ge dig de bästa priserna på marknaden, så att du kan köpa FUT-mynt till PS4 från oss med förtroendet att få det bästa erbjudandet.",
-            seo2: "Har du några frågor om att köpa EA FC 25-mynt till din PlayStation-konsol? Kontakta oss på vilket sätt du föredrar.",
+            seo2: "Har du några frågor om att köpa EA FC 24-mynt till din PlayStation-konsol? Kontakta oss på vilket sätt du föredrar.",
             seo3: "Vi har de bästa erbjudandena på FIFA-mynt till PlayStation 5. Vi erbjuder billiga FIFA PS5-mynt med snabb leverans och garanterar säkerheten för ditt konto UTAN AVGIFT.",
             seo4: "Vårt team arbetar hårt för att ge dig de bästa priserna på marknaden, så att du kan köpa FUT-mynt till PS5 från oss med förtroendet att få det bästa erbjudandet.",
-            seo5: "Har du några frågor om att köpa EA FC 25-mynt till din PlayStation-konsol? Kontakta oss på det sätt som passar dig bäst.",
+            seo5: "Har du några frågor om att köpa EA FC 24-mynt till din PlayStation-konsol? Kontakta oss på det sätt som passar dig bäst.",
             seo6: "Vi har de bästa erbjudandena på FIFA-mynt till Xbox One. Vi erbjuder billiga FIFA-mynt med snabb leverans och garanterar säkerheten för ditt konto UTAN AVGIFT.",
             seo7: "Vårt team arbetar hårt för att ge dig de bästa priserna på marknaden, så att du kan köpa FUT-mynt till Xbox 1 från oss med förtroendet att få det bästa erbjudandet.",
-            seo8: "Har du några frågor om att köpa EA FC 25-mynt till din Xbox-konsol? Kontakta oss på det sätt som passar dig bäst.",
+            seo8: "Har du några frågor om att köpa EA FC 24-mynt till din Xbox-konsol? Kontakta oss på det sätt som passar dig bäst.",
             seo9: "Vi har de bästa erbjudandena på FIFA-mynt till Xbox Series X. Dessutom erbjuder vi billiga FIFA-mynt till Xbox Series S med snabb leverans och garanterar säkerheten för ditt konto UTAN AVGIFT.",
             seo10: "Vårt team arbetar hårt för att ge dig de bästa priserna på marknaden, så att du kan köpa FUT-mynt till Xbox Series X/S från oss med förtroendet att få det bästa erbjudandet.",
-            seo11: "Har du några frågor om att köpa EA FC 25-mynt till din Xbox-konsol? Kontakta oss på vilket sätt du vill.",
+            seo11: "Har du några frågor om att köpa EA FC 24-mynt till din Xbox-konsol? Kontakta oss på vilket sätt du vill.",
         },
         no: {
             seo0: "Vi har de beste tilbudene på FIFA-mynter til PlayStation 4. Vi tilbyr billige FIFA-mynter til PS4 med rask levering og sikkerhetsgaranti til kontoen din UTEN EKSTRA AVGIFTER.",
             seo1: "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FUT-mynter til PS5 fra oss med tillit til å få det beste tilbudet.",
-            seo2: "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til PlayStation-konsoller? Kontakt oss på en måte som passer deg.",
+            seo2: "Hvis du har noen spørsmål om kjøp av EA FC 24-mynter til PlayStation-konsoller? Kontakt oss på en måte som passer deg.",
             seo3: "Vi har de beste tilbudene på FIFA-mynter til PlayStation 5. Vi tilbyr billige FIFA-mynter til PS5 med rask levering og sikkerhetsgaranti til kontoen din UTEN EKSTRA AVGIFTER.",
             seo4: "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FUT-mynter til PS5 fra oss med tillit til å få det beste tilbudet.",
-            seo5: "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til PlayStation-konsoller? Kontakt oss på en måte som passer deg.",
+            seo5: "Hvis du har noen spørsmål om kjøp av EA FC 24-mynter til PlayStation-konsoller? Kontakt oss på en måte som passer deg.",
             seo6: "Vi har de beste tilbudene på FIFA-mynter til Xbox One. Vi tilbyr billige FIFA-mynter med rask levering og sikkerhetsgaranti til kontoen din UTEN EKSTRA AVGIFTER.",
             seo7: "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FUT-mynter til Xbox One fra oss med tillit til å få det beste tilbudet.",
-            seo8: "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til Xbox-konsoller? Kontakt oss på en måte som passer deg.",
+            seo8: "Hvis du har noen spørsmål om kjøp av EA FC 24-mynter til Xbox-konsoller? Kontakt oss på en måte som passer deg.",
             seo9: "Vi har de beste tilbudene på FIFA-mynter til Xbox Series X. Vi tilbyr billige FIFA-mynter til Xbox Series S med rask levering og sikkerhetsgaranti til kontoen din UTEN EKSTRA AVGIFTER.",
             seo10: "Vi gjør alt som mulig for å tilby deg de beste prisene på markedet, så du kan kjøpe FUT-mynter til Xbox Series X/S fra oss med tillit til å få det beste tilbudet.",
-            seo11: "Hvis du har noen spørsmål om kjøp av EA FC 25-mynter til Xbox-konsoller? Kontakt oss på en måte som passer deg.",
+            seo11: "Hvis du har noen spørsmål om kjøp av EA FC 24-mynter til Xbox-konsoller? Kontakt oss på en måte som passer deg.",
         },
     },
     getStatus: {
@@ -213,7 +213,7 @@ export const translates = {
             waiting_payment: "Waiting payment",
             payment_failed: "Payment failed",
             error_payment: "Payment failed",
-            no_access_to_fifa_21_webapp: "No access to EA FC 25 Web-App",
+            no_access_to_fifa_21_webapp: "No access to EA FC 24 Web-App",
             error_fut: "FUT error",
             fut_error: "FUT error",
             customer_online: "FIFA account currently in use",
@@ -238,7 +238,7 @@ export const translates = {
             waiting_payment: "Ожидает оплаты",
             payment_failed: "Платеж не прошел",
             error_payment: "Платеж не прошел",
-            no_access_to_fifa_21_webapp: "Нет доступа к EA FC 25 Web-App",
+            no_access_to_fifa_21_webapp: "Нет доступа к EA FC 24 Web-App",
             error_fut: "Ошибка FUT",
             fut_error: "Ошибка FUT",
             customer_online: "Аккаунт FIFA, используется в настоящее время",
@@ -263,7 +263,7 @@ export const translates = {
             waiting_payment: "ZAHLUNG WIRD ERWARTET",
             payment_failed: "ZAHLUNG FEHLGESCHLAGEN",
             error_payment: "ZAHLUNG FEHLGESCHLAGEN",
-            no_access_to_fifa_21_webapp: "Kein Zugang zur WEB-APP EA FC 25",
+            no_access_to_fifa_21_webapp: "Kein Zugang zur WEB-APP EA FC 24",
             error_fut: "FUT FEHLER",
             fut_error: "FUT FEHLER",
             customer_online: "FIFA-Konto wird verwendet",
@@ -289,7 +289,7 @@ export const translates = {
             payment_failed: "ÉCHEC DU PAIEMENT",
             error_payment: "ÉCHEC DU PAIEMENT",
             no_access_to_fifa_21_webapp:
-                "Aucun accès à APPLICATION WEB EA FC 25",
+                "Aucun accès à APPLICATION WEB EA FC 24",
             error_fut: "ERREUR FUT",
             fut_error: "ERREUR FUT",
             customer_online: "compte FIFA actuellement en cours d'utilisation",
@@ -315,7 +315,7 @@ export const translates = {
             payment_failed: "PAGAMENTO NON RIUSCITO",
             error_payment: "PAGAMENTO NON RIUSCITO",
             no_access_to_fifa_21_webapp:
-                "Accesso alla web-app di EA FC 25 non disponibile",
+                "Accesso alla web-app di EA FC 24 non disponibile",
             error_fut: "ERRORE IN FUT",
             fut_error: "ERRORE IN FUT",
             customer_online: "Account FIFA in uso",
@@ -341,7 +341,7 @@ export const translates = {
             payment_failed: "فشلت عملية الدفع",
             error_payment: "فشلت عملية الدفع",
             no_access_to_fifa_21_webapp:
-                "لا يمكن الوصول إلى تطبيق EA FC 25 على الويب",
+                "لا يمكن الوصول إلى تطبيق EA FC 24 على الويب",
             error_fut: "FUT خطأ",
             fut_error: "FUT خطأ",
             customer_online: "حساب FIFA قيد الاستخدام حاليًا",
@@ -366,7 +366,7 @@ export const translates = {
             waiting_payment: "WACHT OP BETALING",
             payment_failed: "BETALING MISLUKT",
             error_payment: "BETALING MISLUKT",
-            no_access_to_fifa_21_webapp: "Geen toegang tot EA FC 25 WEB-APP",
+            no_access_to_fifa_21_webapp: "Geen toegang tot EA FC 24 WEB-APP",
             error_fut: "FOUT FUT",
             fut_error: "FOUT FUT",
             customer_online: "FIFA account momenteel in gebruik",
@@ -392,7 +392,7 @@ export const translates = {
             payment_failed: "ERROR DEL PAGO",
             error_payment: "ERROR DEL PAGO",
             no_access_to_fifa_21_webapp:
-                "Sin acceso a la aplicación web de «EA FC 25»",
+                "Sin acceso a la aplicación web de «EA FC 24»",
             error_fut: "ERROR FUT",
             fut_error: "ERROR FUT",
             customer_online: "Cuenta de «FIFA» ya en uso",
@@ -418,7 +418,7 @@ export const translates = {
             payment_failed: "O PAGAMENTO FALHOU",
             error_payment: "O PAGAMENTO FALHOU",
             no_access_to_fifa_21_webapp:
-                "Sem acesso à APLICAÇÃO ONLINE EA FC 25",
+                "Sem acesso à APLICAÇÃO ONLINE EA FC 24",
             error_fut: "ERRO FUT",
             fut_error: "ERRO FUT",
             customer_online: "Conta FIFA a ser utilizada atualmente",
@@ -443,7 +443,7 @@ export const translates = {
             waiting_payment: "等待支付中",
             payment_failed: "支付失败",
             error_payment: "支付失败",
-            no_access_to_fifa_21_webapp: "无法访问 EA FC 25 WEB-APP",
+            no_access_to_fifa_21_webapp: "无法访问 EA FC 24 WEB-APP",
             error_fut: "FUT 错误",
             fut_error: "FUT 错误",
             customer_online: "FIFA 帐户当前正在使用中",
@@ -469,7 +469,7 @@ export const translates = {
             payment_failed: "ÖDEME BAŞARISIZ",
             error_payment: "ÖDEME BAŞARISIZ",
             no_access_to_fifa_21_webapp:
-                "EA FC 25 WEB-APP uygulamasına erişilemiyor",
+                "EA FC 24 WEB-APP uygulamasına erişilemiyor",
             error_fut: "FUT HATASI",
             fut_error: "FUT HATASI",
             customer_online: "FIFA hesabı halihazırda kullanılıyor",
@@ -495,7 +495,7 @@ export const translates = {
             payment_failed: "PŁATNOŚĆ NIEUDANA",
             error_payment: "PŁATNOŚĆ NIEUDANA",
             no_access_to_fifa_21_webapp:
-                "Brak dostępu do aplikacji WWW EA FC 25",
+                "Brak dostępu do aplikacji WWW EA FC 24",
             error_fut: "BŁĄD FUT",
             fut_error: "BŁĄD FUT",
             customer_online: "Konto FIFA jest obecnie używane",
@@ -521,7 +521,7 @@ export const translates = {
             payment_failed: "BETALNINGSFEL",
             error_payment: "BETALNINGSFEL",
             no_access_to_fifa_21_webapp:
-                "Ingen tillgång till EA FC 25:s webbapp",
+                "Ingen tillgång till EA FC 24:s webbapp",
             error_fut: "FUT-FEL",
             fut_error: "FUT-FEL",
             customer_online: "FIFA-kontot används",
@@ -546,7 +546,7 @@ export const translates = {
             waiting_payment: "AVVENTER BETALING",
             payment_failed: "BETALING MISLYKTES",
             error_payment: "BETALING MISLYKTES",
-            no_access_to_fifa_21_webapp: "Ingen tilgang til EA FC 25-NETTAPPEN",
+            no_access_to_fifa_21_webapp: "Ingen tilgang til EA FC 24-NETTAPPEN",
             error_fut: "FUT-FEIL",
             fut_error: "FUT-FEIL",
             customer_online: "FIFA-kontoen er i bruk",
@@ -676,25 +676,25 @@ export const translates = {
     ru: {
         succPaid: "Ваш заказ был успешно оплачен!",
         seot3_xbxs:
-            "Есть вопросы по покупке монет EA FC 25 для консолей Xbox? Свяжитесь с нами любым удобным для Вас способом.",
+            "Есть вопросы по покупке монет EA FC 24 для консолей Xbox? Свяжитесь с нами любым удобным для Вас способом.",
         seot2_xbxs:
             "Наша команда прилагает все усилия, чтобы предоставить Вам лучшие цены на рынке, поэтому Вы можете купить у нас монеты FUT для Series X/S с уверенностью в том, что получите наилучшую сделку.",
         seot1_xbxs:
             "У нас самые выгодные предложения на монеты FIFA для Xbox Series X. Мы предлагаем дешёвые монеты FIFA для Xbox Series S с высокой скоростью доставки и гарантией безопасности Вашего аккаунта БЕЗ КОМИССИИ.",
         seot3_xb:
-            "Есть вопросы по покупке монет EA FC 25 для консолей Xbox? Свяжитесь с нами любым удобным для Вас способом.",
+            "Есть вопросы по покупке монет EA FC 24 для консолей Xbox? Свяжитесь с нами любым удобным для Вас способом.",
         seot2_xb:
             "Наша команда прилагает все усилия, чтобы предоставить Вам лучшие цены на рынке, поэтому Вы можете купить у нас монеты FUT для Xbox One с уверенностью в том, что получите наилучшую сделку.",
         seot1_xb:
             "У нас самые выгодные предложения на монеты FIFA для Xbox One. Мы предлагаем дешёвые монеты FIFA с высокой скоростью доставки и гарантией безопасности Вашего аккаунта БЕЗ КОМИССИИ.",
         seot3_ps5:
-            "Есть вопросы по покупке монет EA FC 25 для консолей PlayStation? Свяжитесь с нами любым удобным для Вас способом.",
+            "Есть вопросы по покупке монет EA FC 24 для консолей PlayStation? Свяжитесь с нами любым удобным для Вас способом.",
         seot2_ps5:
             "Наша команда прилагает все усилия, чтобы предоставить Вам лучшие цены на рынке, поэтому Вы можете купить у нас монеты FUT для PS5 с уверенностью в том, что получите наилучшую сделку.",
         seot1_ps5:
             "У нас самые выгодные предложения на монеты FIFA для PlayStation 5. Мы предлагаем дешёвые монеты FIFA для PS5 с высокой скоростью доставки и гарантией безопасности Вашего аккаунта БЕЗ КОМИССИИ.",
         seot3_ps4:
-            "Есть вопросы по покупке монет EA FC 25 для консолей PlayStation? Свяжитесь с нами любым удобным для Вас способом.",
+            "Есть вопросы по покупке монет EA FC 24 для консолей PlayStation? Свяжитесь с нами любым удобным для Вас способом.",
         seot2_ps4:
             "Наша команда прилагает все усилия, чтобы предоставить Вам лучшие цены на рынке, поэтому Вы можете купить у нас монеты FUT для PS4 с уверенностью в том, что получите наилучшую сделку.",
         seot1_ps4:
@@ -724,7 +724,7 @@ export const translates = {
         quick_order: "Быстрый заказ",
         reviews: "отзывов",
         main_h2: "С нами Вы всегда на шаг ближе к команде своей мечты!",
-        h1_p2: "EA FC 25 Ultimate Team",
+        h1_p2: "EA FC 24 Ultimate Team",
         h1_p1: "Ваш главный компаньон в ",
         privacya1:
             "Настоящее согласие действует с момента регистрации субъекта персональных данных на сайте ",
@@ -750,11 +750,11 @@ export const translates = {
         faqtitle2: "ОСТАЛИСЬ ВОПРОСЫ?",
         deliverytitle: "Доставка",
         deliverytext:
-            " - может похвастаться уникальной системой доставки монет EA FC 25. Наш проект сотрудничает с рекордным количеством поставщиков монет. В ходе выполнения вашего заказа, мы используем определнные правила, позволяющие обезопасить аккаунт клиента от санкций EA на 100%. Вот одни из них:",
+            " - может похвастаться уникальной системой доставки монет EA FC 24. Наш проект сотрудничает с рекордным количеством поставщиков монет. В ходе выполнения вашего заказа, мы используем определнные правила, позволяющие обезопасить аккаунт клиента от санкций EA на 100%. Вот одни из них:",
         li1: "• Правило о выставлении карточки на трансферный рынок за цену, отличную от максимально допустимой согласно ценовому диапазону этой карточки",
         li2: "• Правило разбавлять доставку заказов выкупом карточек с аккаунтов, добывающих монеты исключительно ручным трейдингом",
         li3: "• Имея в распоряжении 7000 клубов FUT, мы в большинстве заказов выкупаем карточку с клуба, не задействованного в переводе монет неделями",
-        p1: "Благодаря этому мы можем предложить клиенту самый безопасный способ покупки монет для EA FC 25 во всём интернете.",
+        p1: "Благодаря этому мы можем предложить клиенту самый безопасный способ покупки монет для EA FC 24 во всём интернете.",
         p2: "Чтобы доставка ваших монет была максимально быстрой, следуйте инструкциям на сайте или в сообщениях оператора чата.",
 
         card_text_4:
@@ -782,9 +782,9 @@ export const translates = {
         infoBlockText4:
             "Если после покупки вы решите, что не можете воспользоваться монетами. Или случилась какая-либо другая причина, по которой вы не можете воспользоваться монетами, возврат средств гарантирован.",
         hwd: "Как происходит доставка?",
-        h1_coins: "Ваш главный компаньон в EA FC 25 Ultimate Team",
+        h1_coins: "Ваш главный компаньон в EA FC 24 Ultimate Team",
         h1_1: "Самые безопасные",
-        h1_2: "Купить монеты FC 25",
+        h1_2: "Купить монеты FC 24",
         cryptoWith: "",
         cryptoIs: "составляет",
         cryptoAre: "",
@@ -844,7 +844,7 @@ export const translates = {
             "Ошибка подключения, пожалуйста, попробуйте еще раз!",
         profileNotify: "ДОСТАВКА вашего заказа №xxxxx",
         backupCodes: "Коды резервной копии доступны здесь: ",
-        fifa23: "ПРЕДЗАКАЗ EA FC 25",
+        fifa23: "ПРЕДЗАКАЗ EA FC 24",
         cryptoMessage: "Минимальная сумма заказа для оплаты ",
         orWithCrypto: "Или криптой",
         pageCoinsBestPriceIncludes: "Базовая цена включает: ",
@@ -981,8 +981,8 @@ export const translates = {
         pageCoinsPaymentFee: "Комиссия за оплату:",
         pageCoinsTotaltotal: "Итого:",
         pageCoinsToTheCheckout: "К ОПЛАТЕ",
-        sublogo: "Монеты EA FC 25",
-        sublogo2: "Товары EA FC 25",
+        sublogo: "Монеты EA FC 24",
+        sublogo2: "Товары EA FC 24",
         lang: "en-GB",
         menuOffers: "Offers",
         menuSignIn: "Войти",
@@ -990,7 +990,7 @@ export const translates = {
         menuLinkDesc: "Наша система полностью автоматизирована, ",
         menuLinkDesc2: "поэтому мы доставляем монеты в любое время, 24/7",
         menuLinkDescDisabled:
-            "Продажи монет EA FC 25 завершены. <br/>До встречи в сезоне EA FC 25 👋",
+            "Продажи монет EA FC 24 завершены. <br/>До встречи в сезоне EA FC 24 👋",
         menuLinkReviews: "Отзывы",
         menulinkfaq: "FAQ",
         menuLinkFaq: "FAQ",
@@ -1119,25 +1119,25 @@ export const translates = {
     en: {
         succPaid: "Your order has been successfully paid!",
         seot3_xbxs:
-            "Got any questions about purchasing EA FC 25 coins for your Xbox console? Get in touch with us in any way you like.",
+            "Got any questions about purchasing EA FC 24 coins for your Xbox console? Get in touch with us in any way you like.",
         seot2_xbxs:
             "Our team works hard to give you the best prices on the market, so you can buy FUT Coins for Xbox Series X/S from us with the confidence of getting the best deal.",
         seot1_xbxs:
             "We have the best deals on FIFA coins for Xbox Series X. Also we offer cheap FIFA coins for Xbox Series S with high speed delivery and guarantee the security of your account with NO FEE. ",
         seot3_xb:
-            "Got any questions about purchasing EA FC 25 coins for your Xbox console? Get in touch with us in any way you like.",
+            "Got any questions about purchasing EA FC 24 coins for your Xbox console? Get in touch with us in any way you like.",
         seot2_xb:
             "Our team works hard to give you the best prices on the market, so you can buy FUT Coins for Xbox 1 from us with the confidence of getting the best deal.",
         seot1_xb:
             "We have the best deals on FIFA coins for Xbox One. We offer cheap FIFA coins with high speed delivery and guarantee the security of your account with NO FEE. ",
         seot3_ps5:
-            "Got any questions about purchasing EA FC 25 coins for your PlayStation console? Get in touch with us in any way you like.",
+            "Got any questions about purchasing EA FC 24 coins for your PlayStation console? Get in touch with us in any way you like.",
         seot2_ps5:
             "Our team works hard to give you the best prices on the market, so you can buy FUT Coins for PS5 from us with the confidence of getting the best deal.",
         seot1_ps5:
             "We have the best deals on FIFA coins for PlayStation 5. We offer cheap FIFA PS5 coins with high speed delivery and guarantee the security of your account with NO FEE. ",
         seot3_ps4:
-            "Got any questions about purchasing EA FC 25 coins for your PlayStation console? Get in touch with us in any way you like.",
+            "Got any questions about purchasing EA FC 24 coins for your PlayStation console? Get in touch with us in any way you like.",
         seot2_ps4:
             "Our team works hard to give you the best prices on the market, so you can buy FUT Coins for PS4 from us with the confidence of getting the best deal.",
         seot1_ps4:
@@ -1168,7 +1168,7 @@ export const translates = {
         reviews: "reviews",
         main_h2:
             "We make the dream team building available for everyone all year round!",
-        h1_p2: "EA FC 25 Ultimate Team Store",
+        h1_p2: "EA FC 24 Ultimate Team Store",
         h1_p1: "Your go-to ",
         privacya1:
             "Consent is valid from the moment the personal data subject is registered at ",
@@ -1196,13 +1196,13 @@ export const translates = {
         deliverytitle: "Delivery",
 
         deliverytext:
-            "offers a unique EA FC 25 coins delivery system. We cooperate with a record number of coins suppliers. When fulfilling your order, we use special rules that guarantee that no sanctions will be ever applied to your account from EA. See some of these rules below:",
+            "offers a unique EA FC 24 coins delivery system. We cooperate with a record number of coins suppliers. When fulfilling your order, we use special rules that guarantee that no sanctions will be ever applied to your account from EA. See some of these rules below:",
 
         li1: "• Rule of listing the card in the transfer market by the price other than the maximum allowable according to the price range for this card",
         li2: "• Rule to alternate the coin delivery with the redemption of cards from the accounts that only use manual trading to earn coins",
         li3: "• With more than 7000 FUT clubs in our disposal, in most orders we redeem a card from a club that was not involved in coins transfer for weeks",
 
-        p1: "This allows us to offer the safest way to buy EA FC 25 coins on the Internet.",
+        p1: "This allows us to offer the safest way to buy EA FC 24 coins on the Internet.",
 
         p2: "To get your coins delivered as quickly as possible, follow the instructions published on the website or received from the manager in the live chat.",
 
@@ -1231,9 +1231,9 @@ export const translates = {
         infoBlockText4:
             "If, after the purchase, you can't use the coins, or if there is any other reason why you can't get coins for your account, a refund is guaranteed.",
         hwd: "How does delivery work?",
-        h1_coins: "Your go-to EA FC 25 Ultimate Team Store",
+        h1_coins: "Your go-to EA FC 24 Ultimate Team Store",
         h1_1: "Safest option to ",
-        h1_2: "Buy FC 25 coins",
+        h1_2: "Buy FC 24 coins",
         cryptoWith: "",
         cryptoIs: "is",
         cryptoAre: "are",
@@ -1290,7 +1290,7 @@ export const translates = {
         MissingOrInvalidCredentialsCode: "Connection error, please try again!",
         profileNotify: "DELIVERING your order №xxxxx",
         backupCodes: "You can get backup codes here: ",
-        fifa23: "EA FC 25 PRE-ORDER",
+        fifa23: "EA FC 24 PRE-ORDER",
         cryptoMessage: "The minimum order amount to pay with ",
         orWithCrypto: "Or with crypto",
         pageCoinsBestPriceIncludes: "Base price includes:",
@@ -1358,14 +1358,14 @@ export const translates = {
         pageCoinsClubBalance:
             "you need to have at least 5000 coins on your FUT club balance",
         pageCoinsTransferMarket:
-            "you need to have unlocked Transfer Market in FC 25 Web App (only for Comfort Trade delivery method).",
+            "you need to have unlocked Transfer Market in FC 24 Web App (only for Comfort Trade delivery method).",
         pageCoinsBeforePurchase:
             "Make a purchase of coins on ROYALFUT website, you’ll be guided through easy self-explanatory steps of coin transferring by our site’s interface. Before making a purchase make sure that you have full access to the account the club you want to replenish with coins connected to.",
         pageCoinsLockedMarket:
-            "If the Transfer Market in FC 25 Web App is locked, change the delivery method to “Player Auction”.",
+            "If the Transfer Market in FC 24 Web App is locked, change the delivery method to “Player Auction”.",
         pageCoinsHowDelivery: "How will delivery take place?",
         pageCoinsAfterSuccessfull:
-            "After successful payment, we will request a one-time access to your EA account. We’ll need your email, password and backup code. Using this data, we’ll login to FC 25 Web App to begin purchase and sale transactions on Transfer Market. We’ll be buying player cards at market value and then listing them on Transfer Market for a higher price. After that they’ll be bought by our delivery team.",
+            "After successful payment, we will request a one-time access to your EA account. We’ll need your email, password and backup code. Using this data, we’ll login to FC 24 Web App to begin purchase and sale transactions on Transfer Market. We’ll be buying player cards at market value and then listing them on Transfer Market for a higher price. After that they’ll be bought by our delivery team.",
         pageCoinsCompensated:
             "We won’t be moving or selling any of the cards from your club, that’s why we need you to have at least 5000 coins on your balance - to start the transaction. It’s necessary to have this amount of coins so we could buy several cards to start the delivery process. EA fee applicable on sales through FIFA Transfer Market will be fully compensated by us, as well as the initial coin balance of your club",
         pageCoinsComfort:
@@ -1387,7 +1387,7 @@ export const translates = {
         pageCoinsNeed1000:
             "There is only one condition that should be met: you need to have at least 1000 coins on your FUT club balance.",
         pageCoinsCompleteTransactions:
-            "Make a purchase of coins on ROYALFUT website, you’ll be guided through easy self-explanatory steps of coin transferring by our site’s interface. You’ll need to complete a number of transactions on Transfer Market, either through the in-game FIFA menu on your console or through the FC 25 Web App / FUT Companion App interface.",
+            "Make a purchase of coins on ROYALFUT website, you’ll be guided through easy self-explanatory steps of coin transferring by our site’s interface. You’ll need to complete a number of transactions on Transfer Market, either through the in-game FIFA menu on your console or through the FC 24 Web App / FUT Companion App interface.",
         pageCoinsStep:
             "All steps prior to replenishing the balance of your FIFA Ultimate Team club with coins will have a detailed step by step description, so you definitely won’t get confused :)",
         pageCoinsFindVideo:
@@ -1396,7 +1396,7 @@ export const translates = {
         pageCoinsAfterPayment:
             "After successful payment, you’ll receive the instruction for purchasing player cards. You’ll be buying player cards at their market value and we’ll be buying them from you for several times higher price.",
         pageCoinsUseInstructions:
-            "All operations are carried out strictly according to the interactive instruction on our website with additional use of the in-game FIFA menu on your console or the FC 25 Web App / FUT Companion App interface.",
+            "All operations are carried out strictly according to the interactive instruction on our website with additional use of the in-game FIFA menu on your console or the FC 24 Web App / FUT Companion App interface.",
         pageCoinsEasy:
             "The mechanics of replenishing the FUT club with coins is quite straightforward: buy a card -> sell a card -> repeat. What could be easier?",
         pageCoinsAutomated:
@@ -1422,8 +1422,8 @@ export const translates = {
         pageCoinsPaymentFee: "Payment fee:",
         pageCoinsTotaltotal: "Total:",
         pageCoinsToTheCheckout: "TO THE CHECKOUT",
-        sublogo: "EA FC 25 coins",
-        sublogo2: "EA FC 25 Items",
+        sublogo: "EA FC 24 coins",
+        sublogo2: "EA FC 24 Items",
         lang: "en-GB",
         menuOffers: "Offers",
         menuSignIn: "Log in",
@@ -1431,7 +1431,7 @@ export const translates = {
         menuLinkDesc: "Our system is fully automated, ",
         menuLinkDesc2: "so we deliver coins at any time of day, 24/7.",
         menuLinkDescDisabled:
-            "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋",
+            "Sales of EA FC 24 coins is now closed. <br/>See you in EA FC 24 season  👋",
         menuLinkReviews: "Reviews",
         menulinkfaq: "FAQ",
         menuLinkFaq: "FAQ",
@@ -1553,25 +1553,25 @@ export const translates = {
     de: {
         succPaid: "Ihre Bestellung wurde erfolgreich bezahlt!",
         seot3_xbxs:
-            "Haben Sie Fragen zum Kauf von EA FC 25 Münzen für Ihre Xbox Konsole? Kontaktieren Sie uns, wie Sie möchten.",
+            "Haben Sie Fragen zum Kauf von EA FC 24 Münzen für Ihre Xbox Konsole? Kontaktieren Sie uns, wie Sie möchten.",
         seot2_xbxs:
             "Unser Team tut alles, um Ihnen die besten Preise auf dem Markt bieten zu können, bei uns können Sie FUT Münzen für Xbox Serie X/S kaufen und sicher sein, dass Sie das beste Geschäft gemacht haben.",
         seot1_xbxs:
             "Wir haben die besten Angebote von FIFA Münzen für Xbox Serie X. Günstige FIFA Münzen für Xbox Serie S, Versand mit Höchstgeschwindigkeit, garantierte Konto-Sicherheit und OHNE GEBÜHREN.",
         seot3_xb:
-            "Haben Sie Fragen zum Kauf von EA FC 25 Münzen für Ihre Xbox Konsole? Kontaktieren Sie uns, wie Sie möchten.",
+            "Haben Sie Fragen zum Kauf von EA FC 24 Münzen für Ihre Xbox Konsole? Kontaktieren Sie uns, wie Sie möchten.",
         seot2_xb:
             "Unser Team tut alles, um Ihnen die besten Preise auf dem Markt bieten zu können, bei uns können Sie FUT Münzen für Xbox 1 kaufen und sicher sein, dass Sie das beste Geschäft gemacht haben.",
         seot1_xb:
             "Wir haben die besten Angebote von FIFA Münzen für PlayStation Xbox. Günstige FIFA Münzen mit Versand in Höchstgeschwindigkeit, garantierte Konto-Sicherheit und OHNE GEBÜHREN.",
         seot3_ps5:
-            "Haben Sie Fragen zum Kauf von EA FC 25 Münzen für Ihre PlayStation-Konsole? Kontaktieren Sie uns, wie Sie möchten.",
+            "Haben Sie Fragen zum Kauf von EA FC 24 Münzen für Ihre PlayStation-Konsole? Kontaktieren Sie uns, wie Sie möchten.",
         seot2_ps5:
             "Unser Team tut alles, um Ihnen die besten Preise auf dem Markt bieten zu können. Bei uns kaufen Sie FUT Münzen für PS5 mit dem sicheren Gefühl, dass Sie das beste Geschäft gemacht haben.",
         seot1_ps5:
             "Wir haben die besten Angebote von FIFA Münzen für PlayStation 5. Günstige FIFA PS5 Münzen mit Versand in Höchstgeschwindigkeit, garantierte Konto-Sicherheit und OHNE GEBÜHREN.",
         seot3_ps4:
-            "Haben Sie Fragen zum Kauf von EA FC 25 Münzen für Ihre PlayStation-Konsole? Kontaktieren Sie uns, wie Sie möchten.",
+            "Haben Sie Fragen zum Kauf von EA FC 24 Münzen für Ihre PlayStation-Konsole? Kontaktieren Sie uns, wie Sie möchten.",
         seot2_ps4:
             "Unser Team tut alles, um Ihnen die besten Preise auf dem Markt bieten zu können, damit Sie können bei uns FUT Münzen für PS4 kaufen und sicher sein, dass Sie das beste Geschäft gemacht haben.",
         seot1_ps4:
@@ -1602,7 +1602,7 @@ export const translates = {
         reviews: "Rezensionen",
         main_h2:
             "Bei uns kann jeder das ganze Jahr über sein Traum-Team zusammenstellen!",
-        h1_p2: "EA FC 25 Ultimate Team Store",
+        h1_p2: "EA FC 24 Ultimate Team Store",
         h1_p1: "Ihr ständiger Begleiter im ",
         privacya1:
             "Die Einwilligung ist ab dem Zeitpunkt gültig, an dem die betroffene Person unter ",
@@ -1632,7 +1632,7 @@ export const translates = {
         li1: "• Preis-Regel – Preislisting der Karten auf dem Transfermarkt zu einem nderen Preis als dem maximal zulässigen Preis gemäß der Preisspanne dieser Karte",
         li2: "• Regel Versand--Einlösen– Abwechselnder Versand und Einlösung der Münzen der Kontokarten, die nur für den manuelle Handel verwendet werden, um Münzen zu verdienen",
         li3: "• Uns stehen mehr als 7.000 FUT-Clubs zur Verfügung. Bei den meisten Bestellungen lösen wir eine Karte ein, die zuvor wochenlang nicht für den Münztransfer verwendet wurde",
-        p1: "Auf diese Weise können wir EA FC 25-Münzen sicherer als andere anbieten.",
+        p1: "Auf diese Weise können wir EA FC 24-Münzen sicherer als andere anbieten.",
         p2: "Befolgen Sie die Anweisungen, die auf der Website veröffentlicht sind oder die Sie von Ihrem Manager im Live-Chat erhalten.",
         card_text_4:
             "Wir wissen Ihre wertvolle Zeit zu schätzen, deshalb sind wir entschlossen, wichtige Aspekte unserer Website wie die Benutzeroberfläche und die Qualität des Kundensupports ständig zu verbessern, damit Ihr Einkauf bei uns so reibungslos wie möglich abläuft.",
@@ -1659,9 +1659,9 @@ export const translates = {
         infoBlockText4:
             "Wenn du nach dem Kauf die Münzen nicht verwenden kannst oder es einen anderen Grund gibt, warum du keine Münzen für dein Konto bekommst, ist eine Rückerstattung garantiert.",
         hwd: "WIE FUNKTIONIERT DIE ZUSTELLUNG?",
-        h1_coins: "Ihr bevorzugter EA FC 25 Ultimate Team Store",
+        h1_coins: "Ihr bevorzugter EA FC 24 Ultimate Team Store",
         h1_1: "Sicherste Option für ",
-        h1_2: "FC 25-Münzen kaufen",
+        h1_2: "FC 24-Münzen kaufen",
         cryptoWith: "",
         cryptoIs: "beträgt",
         cryptoAre: "",
@@ -1797,7 +1797,7 @@ export const translates = {
             'Wenn der Transfermarkt in der FUT-Web-App nicht freigeschaltet ist, ändern Sie die Versandmethode zu "Spielerauktion".',
         pageCoinsHowDelivery: "Wie läuft der Versand ab?",
         pageCoinsAfterSuccessfull:
-            "Nach erfolgreicher Zahlung werden wir einen einmaligen Zugang zu deinem EA-Konto anfordern. Wir benötigen deine E-Mail, dein Passwort und deinen Backup Code. Mit diesen Daten loggen wir uns in die FC 25 Web App ein, um Kauf- und Verkaufstransaktionen auf dem Transfermarkt zu starten. Wir werden Spielerkarten zum Marktwert kaufen und sie dann auf dem Transfermarkt zu einem höheren Preis anbieten. Danach werden sie von unserem Lieferteam gekauft.",
+            "Nach erfolgreicher Zahlung werden wir einen einmaligen Zugang zu deinem EA-Konto anfordern. Wir benötigen deine E-Mail, dein Passwort und deinen Backup Code. Mit diesen Daten loggen wir uns in die FC 24 Web App ein, um Kauf- und Verkaufstransaktionen auf dem Transfermarkt zu starten. Wir werden Spielerkarten zum Marktwert kaufen und sie dann auf dem Transfermarkt zu einem höheren Preis anbieten. Danach werden sie von unserem Lieferteam gekauft.",
         pageCoinsCompensated:
             "Wir verschieben oder verkaufen keine Karten Ihres Clubs. Deshalb müssen mindestens 5.000 Münzen Guthaben für den Start der Transaktion vorhanden sein. Dieser Münzbetrag wird für den Kauf mehrerer Karten und den Beginn des Versandprozesses benötigt. Wir erstatten die beim Kauf auf dem FIFA-Transfermarkt anfallende EA-Gebühr sowie das ursprüngliche Münzguthaben Ihres Clubs.",
         pageCoinsComfort:
@@ -1855,8 +1855,8 @@ export const translates = {
         pageCoinsPaymentFee: "Zahlungsgebühr:",
         pageCoinsTotaltotal: "Insgesamt:",
         pageCoinsToTheCheckout: "ZUR KASSE",
-        sublogo: "EA FC 25 münzen",
-        sublogo2: "EA FC 25 Item",
+        sublogo: "EA FC 24 münzen",
+        sublogo2: "EA FC 24 Item",
         lang: "en-GB",
         menuOffers: "Offers",
         menuSignIn: "ANMELDEN",
@@ -1865,7 +1865,7 @@ export const translates = {
         menuLinkDesc2:
             "deshalb liefern Ihre Münzen rund um die Uhr zu jeder Tageszeit.",
         menuLinkDescDisabled:
-            "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋",
+            "Sales of EA FC 24 coins is now closed. <br/>See you in EA FC 24 season  👋",
         menuLinkReviews: "Gästebewertungen",
         menulinkfaq: "FAQ",
         menuLinkFaq: "FAQ",
@@ -1995,25 +1995,25 @@ export const translates = {
     fr: {
         succPaid: "Votre commande a été payée avec succès !",
         seot3_xbxs:
-            "L'achat de crédits EA FC 25 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit.",
+            "L'achat de crédits EA FC 24 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit.",
         seot2_xbxs:
             "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour Xbox Série X/S chez nous en étant sûr(e) de bénéficier de la meilleure offre.",
         seot1_xbxs:
             "Nous proposons les meilleures offres pour les crédits FIFA pour Xbox Série X. De plus, nous proposons des crédits FIFA pour Xbox Série S à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS.",
         seot3_xb:
-            "L'achat de crédits EA FC 25 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit.",
+            "L'achat de crédits EA FC 24 pour votre console Xbox vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit.",
         seot2_xb:
             "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour Xbox 1 chez nous en étant sûr(e) de bénéficier de la meilleure offre.",
         seot1_xb:
             "Nous proposons les meilleures offres pour les crédits FIFA pour Xbox One. Nous proposons des crédits FIFA à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS.",
         seot3_ps5:
-            "L'achat de crédits EA FC 25 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit.",
+            "L'achat de crédits EA FC 24 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit.",
         seot2_ps5:
             "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour PS5 chez nous en étant sûr(e) de bénéficier de la meilleure offre.",
         seot1_ps5:
             "Nous proposons les meilleures offres pour les crédits FIFA pour PlayStation 5. Nous proposons des crédits FIFA PS5 à bas prix avec une livraison rapide et nous garantissons la sécurité de votre compte SANS FRAIS.",
         seot3_ps4:
-            "L'achat de crédits EA FC 25 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit.",
+            "L'achat de crédits EA FC 24 pour votre console PlayStation vous pose problème ? N'hésitez pas à nous contacter de quelque manière que ce soit.",
         seot2_ps4:
             "Comme notre équipe met tout en œuvre pour vous proposer les meilleurs prix du marché, vous pouvez acheter des crédits FUT pour PS4 chez nous en étant sûr(e) de bénéficier de la meilleure offre.",
         seot1_ps4:
@@ -2044,7 +2044,7 @@ export const translates = {
         reviews: "avis",
         main_h2:
             "Nous faisons du rêve de formation d'équipes une réalité accessible à tous, tout au long de l'année !",
-        h1_p2: "EA FC 25 Ultimate Team Store",
+        h1_p2: "EA FC 24 Ultimate Team Store",
         h1_p1: "Votre compagnon essentiel dans ",
         privacya1:
             "Le consentement est donné dès le moment où le Détenteur des données personnelles est inscrit sur ",
@@ -2069,11 +2069,11 @@ export const translates = {
         faqtitle2: "D'AUTRES QUESTIONS?",
         deliverytitle: "Livraison",
         deliverytext:
-            " propose un système unique de livraison des crédits EA FC 25. Nous collaborons avec un nombre record de fournisseurs de crédits. Lors de l'exécution de votre commande, nous respectons des règles spéciales qui nous permettent de vous garantir que votre compte ne sera jamais frappé de sanctions de la part de l'EA. Découvrez quelques-unes de ces règles ci-dessous :",
+            " propose un système unique de livraison des crédits EA FC 24. Nous collaborons avec un nombre record de fournisseurs de crédits. Lors de l'exécution de votre commande, nous respectons des règles spéciales qui nous permettent de vous garantir que votre compte ne sera jamais frappé de sanctions de la part de l'EA. Découvrez quelques-unes de ces règles ci-dessous :",
         li1: "• Règle d'inscription de la carte sur le marché des transferts en fonction du prix autre que le maximum autorisé selon la fourchette de prix de cette carte",
         li2: "• Règle visant à alterner la livraison de crédits avec le remboursement sur la carte d'un compte sur lequel seul le trading manuel permet de gagner des crédits",
         li3: "• Avec plus de 7 000 clubs FUT à notre disposition, dans la plupart des commandes, nous compensons une carte d'un club qui n'a pas été impliqué dans le transfert de crédits pendant plusieurs semaines",
-        p1: "Cela nous permet d'offrir le moyen le plus sûr d'acheter des crédits EA FC 25 sur Internet.",
+        p1: "Cela nous permet d'offrir le moyen le plus sûr d'acheter des crédits EA FC 24 sur Internet.",
         p2: " Pour vous faire livrer vos crédits le plus rapidement possible, suivez les instructions publiées sur le site Web ou fournies par le gestionnaire dans le chat en direct.",
 
         card_text_4:
@@ -2101,9 +2101,9 @@ export const translates = {
         infoBlockText4:
             "Si, après l'achat, vous ne pouvez pas utiliser les pièces ou n'êtes pas en mesure de récupérer les pièces sur votre compte pour quelque raison que ce soit, le remboursement est garanti.",
         hwd: "COMMENT SE DÉROULE LA LIVRAISON ?",
-        h1_coins: "Votre EA FC 25 Ultimate Team Store par excellence",
+        h1_coins: "Votre EA FC 24 Ultimate Team Store par excellence",
         h1_1: "Le meilleur choix pour ",
-        h1_2: "Acheter des crédits FC 25",
+        h1_2: "Acheter des crédits FC 24",
         cryptoWith: "",
         cryptoIs: "est de",
         cryptoAre: "",
@@ -2299,8 +2299,8 @@ export const translates = {
         pageCoinsPaymentFee: "Frais de paiement :",
         pageCoinsTotaltotal: "Total :",
         pageCoinsToTheCheckout: "ALLER AU PAIEMENT",
-        sublogo: "Crédits EA FC 25",
-        sublogo2: "Articles pour EA FC 25",
+        sublogo: "Crédits EA FC 24",
+        sublogo2: "Articles pour EA FC 24",
         lang: "en-GB",
         menuOffers: "Offers",
         menuSignIn: "SE CONNECTER",
@@ -2309,7 +2309,7 @@ export const translates = {
         menuLinkDesc2:
             "nous livrons donc des crédits à tout moment de la journée, 24h / 24 et 7j / 7.",
         menuLinkDescDisabled:
-            "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋",
+            "Sales of EA FC 24 coins is now closed. <br/>See you in EA FC 24 season  👋",
         menuLinkReviews: "Examen",
         menulinkfaq: "FAQ",
         menuLinkFaq: "FAQ",
@@ -2438,25 +2438,25 @@ export const translates = {
     it: {
         succPaid: "L'ordine è stato pagato!",
         seot3_xbxs:
-            "Hai qualche domanda sull'acquisto dei crediti EA FC 25 per la tua Xbox? Contattaci nel modo che preferisci.",
+            "Hai qualche domanda sull'acquisto dei crediti EA FC 24 per la tua Xbox? Contattaci nel modo che preferisci.",
         seot2_xbxs:
             "Il nostro team lavora con impegno per proporti i migliori prezzi sul mercato: puoi acquistare crediti FUT per Xbox serie X/S con la sicurezza di approfittare dell'offerta migliore.",
         seot1_xbxs:
             "Abbiamo le migliori offerte sui crediti FIFA per Xbox serie X/S. Proponiamo crediti FIFA per Xbox serie X/S a prezzi convenienti, con consegna rapida e garantendo la sicurezza del tuo account, SENZA COMMISSIONI.",
         seot3_xb:
-            "Hai qualche domanda sull'acquisto dei crediti EA FC 25 per la tua Xbox? Contattaci nel modo che preferisci.",
+            "Hai qualche domanda sull'acquisto dei crediti EA FC 24 per la tua Xbox? Contattaci nel modo che preferisci.",
         seot2_xb:
             "Il nostro team lavora con impegno per proporti i migliori prezzi sul mercato: puoi acquistare crediti FUT per Xbox One con la sicurezza di approfittare dell'offerta migliore.",
         seot1_xb:
             "Abbiamo le migliori offerte sui crediti FIFA per Xbox One. Proponiamo crediti FIFA per Xbox One a prezzi convenienti, con consegna rapida e garantendo la sicurezza del tuo account, SENZA COMMISSIONI.",
         seot3_ps5:
-            "Hai qualche domanda sull'acquisto dei crediti EA FC 25 per la tua PlayStation? Contattaci nel modo che preferisci.",
+            "Hai qualche domanda sull'acquisto dei crediti EA FC 24 per la tua PlayStation? Contattaci nel modo che preferisci.",
         seot2_ps5:
             "Il nostro team lavora con impegno per proporti i migliori prezzi sul mercato: puoi acquistare crediti FUT per Xbox One con la sicurezza di approfittare dell'offerta migliore.",
         seot1_ps5:
             "Abbiamo le migliori offerte sui crediti FIFA per PlayStation 5. Proponiamo crediti FIFA per PS5 a prezzi convenienti, con consegna rapida e garantendo la sicurezza del tuo account, SENZA COMMISSIONI.",
         seot3_ps4:
-            "Hai qualche domanda sull'acquisto dei crediti EA FC 25 per la tua PlayStation? Contattaci nel modo che preferisci.",
+            "Hai qualche domanda sull'acquisto dei crediti EA FC 24 per la tua PlayStation? Contattaci nel modo che preferisci.",
         seot2_ps4:
             "Il nostro team lavora con impegno per proporti i migliori prezzi sul mercato: puoi acquistare crediti FUT per PS4 con la sicurezza di approfittare dell'offerta migliore.",
         seot1_ps4:
@@ -2487,7 +2487,7 @@ export const translates = {
         reviews: "recensioni",
         main_h2:
             "Mettiamo a disposizione di tutti, tutto l'anno, il team building dei sogni!",
-        h1_p2: "EA FC 25 Ultimate Team Store",
+        h1_p2: "EA FC 24 Ultimate Team Store",
         h1_p1: "Il tuo miglior compagno di squadra in ",
         privacya1:
             "Il consenso è valido dal momento in cui i dati personali vengono registrati su ",
@@ -2515,11 +2515,11 @@ export const translates = {
         faqtitle2: "QUALCHE DOMANDA?",
         deliverytitle: "Consegna",
         deliverytext:
-            " adotta un sistema esclusivo per la consegna delle crediti EA FC 25. Collaboriamo con un numero enorme di fornitori di crediti. Per l'evasione degli ordini applichiamo regole speciali che garantiscono l'assenza di qualsiasi sanzione per il tuo account da parte di EA. Ecco alcune di queste regole:",
+            " adotta un sistema esclusivo per la consegna delle crediti EA FC 24. Collaboriamo con un numero enorme di fornitori di crediti. Per l'evasione degli ordini applichiamo regole speciali che garantiscono l'assenza di qualsiasi sanzione per il tuo account da parte di EA. Ecco alcune di queste regole:",
         li1: "• Indichiamo la scheda nel mercato dei trasferimenti con un prezzo diverso dal prezzo massimo consentito per la fascia di prezzo corrispondente",
         li2: "• Alterniamo la consegna delle crediti con il rimborso delle card da account che fanno solo scambi manuali per ottenere crediti",
         li3: "• Potendo contare su oltre 7.000 club FUT, nella maggior parte degli ordini recuperiamo una scheda da un club che da settimane non compie trasferimenti di crediti",
-        p1: "In questo modo possiamo offrire le modalità più sicure per l'acquisto di crediti EA FC 25 su Internet.",
+        p1: "In questo modo possiamo offrire le modalità più sicure per l'acquisto di crediti EA FC 24 su Internet.",
         p2: "Per ricevere le crediti più rapidamente possibile, segui le istruzioni pubblicate sul sito web o fornite dal manager nella chat.",
 
         card_text_4:
@@ -2547,9 +2547,9 @@ export const translates = {
         infoBlockText4:
             "Se dopo l'acquisto non riesci a usare le monete, o se per qualsiasi altro motivo le monete non arrivano sul tuo account, ti garantiamo un rimborso completo.",
         hwd: "COME FUNZIONA LA CONSEGNA?",
-        h1_coins: "Il tuo EA FC 25 Ultimate Team Store di riferimento",
+        h1_coins: "Il tuo EA FC 24 Ultimate Team Store di riferimento",
         h1_1: "L'opzione più sicura per ",
-        h1_2: "Acquista crediti FC 25",
+        h1_2: "Acquista crediti FC 24",
         cryptoWith: "",
         cryptoIs: "è di",
         cryptoAre: "",
@@ -2741,8 +2741,8 @@ export const translates = {
         pageCoinsPaymentFee: "Commissione sul pagamento:",
         pageCoinsTotaltotal: "Totale:",
         pageCoinsToTheCheckout: "VAI AL CHECKOUT",
-        sublogo: "Crediti EA FC 25",
-        sublogo2: "Oggetti EA FC 25",
+        sublogo: "Crediti EA FC 24",
+        sublogo2: "Oggetti EA FC 24",
         lang: "en-GB",
         menuOffers: "Offers",
         menuSignIn: "ACCEDI",
@@ -2751,7 +2751,7 @@ export const translates = {
         menuLinkDesc2:
             "siamo in grado di consegnare le crediti in qualsiasi momento della giornata, 24 ore su 24, 7 giorni su 7.",
         menuLinkDescDisabled:
-            "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋",
+            "Sales of EA FC 24 coins is now closed. <br/>See you in EA FC 24 season  👋",
         menuLinkReviews: "Recensione",
         menulinkfaq: "Domande frequenti",
         menuLinkFaq: "Domande frequenti",
@@ -2881,25 +2881,25 @@ export const translates = {
     ar: {
         succPaid: "تم الدفع مقابل طلبك بنجاح!",
         seot3_xbxs:
-            "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل Xbox الخاصة بك؟ تواصل معنا بأي طريقة تريدها.",
+            "هل لديك أي أسئلة حول شراء عملات EA FC 24 لوحدة تشغيل Xbox الخاصة بك؟ تواصل معنا بأي طريقة تريدها.",
         seot2_xbxs:
             "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لأجهزة Xbox Series X/S منّا مع الثقة في الحصول على أفضل صفقة.",
         seot1_xbxs:
             "لدينا أفضل الصفقات على عملات FIFA الخاصة بـ Xbox Series X. كما نقدم عملات FIFA رخيصة لأجهزة Xbox Series S مع سرعة تسليم عالية ونضمن أمان حسابك دون رسوم.",
         seot3_xb:
-            "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل Xbox الخاصة بك؟ تواصل معنا بأي طريقة تريدها.",
+            "هل لديك أي أسئلة حول شراء عملات EA FC 24 لوحدة تشغيل Xbox الخاصة بك؟ تواصل معنا بأي طريقة تريدها.",
         seot2_xb:
             "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لجهاز Xbox 1 منّا مع الثقة في الحصول على أفضل صفقة.",
         seot1_xb:
             "لدينا أفضل الصفقات على عملات FIFA الخاصة بجهاز Xbox One. نحن نقدم عملات FIFA الرخيصة مع التسليم عالي السرعة ونضمن أمان حسابك دون رسوم.",
         seot3_ps5:
-            "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل PlayStation الخاصة بك؟ تواصل معنا بأي طريقة تريدها.",
+            "هل لديك أي أسئلة حول شراء عملات EA FC 24 لوحدة تشغيل PlayStation الخاصة بك؟ تواصل معنا بأي طريقة تريدها.",
         seot2_ps5:
             "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لجهاز PS5 منّا مع الثقة في الحصول على أفضل صفقة.",
         seot1_ps5:
             "لدينا أفضل الصفقات على عملات FIFA الخاصة بجهاز PlayStation 5. نحن نقدم عملات FIFA PS5 الرخيصة مع التسليم عالي السرعة ونضمن أمان حسابك دون رسوم.",
         seot3_ps4:
-            "هل لديك أي أسئلة حول شراء عملات EA FC 25 لوحدة تشغيل PlayStation الخاصة بك؟ تواصل معنا بأي طريقة تريدها.",
+            "هل لديك أي أسئلة حول شراء عملات EA FC 24 لوحدة تشغيل PlayStation الخاصة بك؟ تواصل معنا بأي طريقة تريدها.",
         seot2_ps4:
             "يعمل فريقنا بجد لمنحك أفضل الأسعار في السوق، حتى تتمكن من شراء عملات FUT لجهاز PS4 منّا مع الثقة في الحصول على أفضل صفقة.",
         seot1_ps4:
@@ -2929,7 +2929,7 @@ export const translates = {
         quick_order: "الطلب السريع",
         reviews: " عدد المراجعات ",
         main_h2: "نجعل بناء فريق الأحلام متاحًا للجميع على مدار السنة!",
-        h1_p2: " متجر EA FC 25 Ultimate Team",
+        h1_p2: " متجر EA FC 24 Ultimate Team",
         h1_p1: "رفيقك الرئيسي في",
         privacya1:
             "تكون الموافقة سارية المفعول من لحظة قيام الشخص المالك للبيانات الشخصية بالتسجيل في موقع ",
@@ -2954,12 +2954,12 @@ export const translates = {
         deliverytitle: "التسليم",
 
         deliverytext:
-            "نظام تسليم فريدًا لعملات EA FC 25. فنحن نتعاون مع رقم قياسي من مورّدي العملات. عند الوفاء بطلبك، نتبع قواعد خاصة تضمن عدم تطبيق أي عقوبات مطلقًا على حسابك من قِبل EA. إليك بعض هذه القواعد:",
+            "نظام تسليم فريدًا لعملات EA FC 24. فنحن نتعاون مع رقم قياسي من مورّدي العملات. عند الوفاء بطلبك، نتبع قواعد خاصة تضمن عدم تطبيق أي عقوبات مطلقًا على حسابك من قِبل EA. إليك بعض هذه القواعد:",
         li1: " قاعدة إدراج البطاقة في سوق التحويل حسب السعر بدلاً من أقصى حد مسموح به وفقًا لنطاق سعر هذه البطاقة",
         li2: " قاعدة تبديل عملية تسليم العملات بعملية الحصول على قيمة البطاقات من الحسابات التي تستخدم فقط التبادل اليدوي لربح العملات",
         li3: " من خلال وجود أكثر من 7000 نادي FUT تحت إمرتنا، نقوم في معظم الطلبات بالحصول على قيمة البطاقات من الأندية التي لم تشترك في عملية تحويل للعملات خلال أسابيع مضت",
 
-        p1: " يتيح لنا ذلك توفر الطريقة الأكثر أمانًا لبيع عملات EA FC 25 على الإنترنت.",
+        p1: " يتيح لنا ذلك توفر الطريقة الأكثر أمانًا لبيع عملات EA FC 24 على الإنترنت.",
 
         p2: ' لاستلام العملات في أسرع وقت ممكن، الرجاء اتباع التعليمات المنشورة على موقعنا الإلكتروني أو المتلقاة من المدير في الدردشة الفورية."',
 
@@ -2988,9 +2988,9 @@ export const translates = {
         infoBlockText4:
             "إذا لم تتمكن من استخدام العملات بعد الشراء أو إذا كان هناك أي سبب آخر يمنعك من الحصول على العملات لحسابك، فنحن نضمن لك رد أموالك بالكامل.",
         hwd: "ما آلية التسليم؟",
-        h1_coins: "الذهاب إلى متجر EA FC 25 Ultimate Team Store",
+        h1_coins: "الذهاب إلى متجر EA FC 24 Ultimate Team Store",
         h1_1: "الخيار الأكثر أمانًا ",
-        h1_2: "بادر بشراء عملات FC 25",
+        h1_2: "بادر بشراء عملات FC 24",
         cryptoWith: "",
         cryptoIs: "هو ",
         cryptoAre: "",
@@ -3114,14 +3114,14 @@ export const translates = {
         pageCoinsClubBalance:
             "تحتاج إلى 5000 عملة على الأقل كرصيد في نادي FUT الخاص بك؛",
         pageCoinsTransferMarket:
-            "تحتاج إلى فتح سوق الانتقالات Transfer Market في تطبيق FC 25 Web App (لطريقة التسليم Comfort Trade فقط).",
+            "تحتاج إلى فتح سوق الانتقالات Transfer Market في تطبيق FC 24 Web App (لطريقة التسليم Comfort Trade فقط).",
         pageCoinsBeforePurchase:
             "عند شراء العملات على موقع ROYALFUT الإلكتروني، سيتم توجيهك خطوة بخطوة خلال عملية نقل العملات السهلة عبر واجهة موقعنا الإلكتروني. وقبل الشراء، تأكد من إمكانية وصولك بشكل كامل إلى حساب النادي الذي تطلب العملات له.",
         pageCoinsLockedMarket:
             'في حال قفل سوق الانتقالات Transfer Market في تطبيق FUT Web App، غيّر طريقة التسليم إلى "Player Auction".',
         pageCoinsHowDelivery: "كيف سيتم التسليم؟",
         pageCoinsAfterSuccessfull:
-            "بعد نجاح عملية الدفع، سنطلب منك الوصول إلى حساب EA الخاص بك لمرة واحدة! سنحتاج إلى بريدك الإلكتروني وكلمة المرور والكود الاحتياطي. وباستخدام هذه البيانات، سنسجل الدخول إلى FC 25 Web App لبدء معاملات الشراء والبيع في سوق الانتقالات. سنشتري بطاقات اللاعبين بالقيمة السوقية ثم ندرجها في سوق الانتقالات بسعر أعلى. وبعد ذلك سيشتريها فريق التسليم التابع لنا.",
+            "بعد نجاح عملية الدفع، سنطلب منك الوصول إلى حساب EA الخاص بك لمرة واحدة! سنحتاج إلى بريدك الإلكتروني وكلمة المرور والكود الاحتياطي. وباستخدام هذه البيانات، سنسجل الدخول إلى FC 24 Web App لبدء معاملات الشراء والبيع في سوق الانتقالات. سنشتري بطاقات اللاعبين بالقيمة السوقية ثم ندرجها في سوق الانتقالات بسعر أعلى. وبعد ذلك سيشتريها فريق التسليم التابع لنا.",
         pageCoinsCompensated:
             "لن نقوم بنقل أي من البطاقات في ناديك أو بيعها، ولذا تحتاج إلى توفير 5000 عملة على الأقل في رصيدك لبدء المعاملة. من الضروري توفّر هذه الكمية من العملات كي نتمكن من بيع عدة بطاقات لبدء عملية التسليم. سنغطي رسوم EA المطبقة على المبيعات التي تتم من خلال سوق الانتقالات FIFA Transfer Market علاوةً على رصيد العملات المبدئي لناديك",
         pageCoinsComfort:
@@ -3143,7 +3143,7 @@ export const translates = {
         pageCoinsNeed1000:
             "ثمة شرط واحد يجب الإيفاء به: تحتاج إلى 1000 عملة على الأقل كرصيد في نادي FUT الخاص بك.",
         pageCoinsCompleteTransactions:
-            "عند شراء العملات على موقع ROYALFUT الإلكتروني، سيتم توجيهك خطوة بخطوة خلال عملية نقل العملات السهلة عبر واجهة موقعنا الإلكتروني. وستحتاج إلى إكمال عدد من المعاملات في سوق الانتقالات Transfer Market من خلال قائمة FIFA داخل اللعبة على جهازك أو من خلال واجهة تطبيق FC 25 Web App / FUT Companion App.",
+            "عند شراء العملات على موقع ROYALFUT الإلكتروني، سيتم توجيهك خطوة بخطوة خلال عملية نقل العملات السهلة عبر واجهة موقعنا الإلكتروني. وستحتاج إلى إكمال عدد من المعاملات في سوق الانتقالات Transfer Market من خلال قائمة FIFA داخل اللعبة على جهازك أو من خلال واجهة تطبيق FC 24 Web App / FUT Companion App.",
         pageCoinsStep:
             "سيتم تقديم وصف تفصيلي لكل الخطوات قبل تزويد رصيد نادي FIFA Ultimate Team الخاص بك بالعملات، ولذلك لن تحتار أبدًا :)",
         pageCoinsFindVideo:
@@ -3152,7 +3152,7 @@ export const translates = {
         pageCoinsAfterPayment:
             "بعد الدفع بنجاح، ستتلقى إرشادات شراء بطاقات اللاعبين. ستشتري بطاقات اللاعبين بأسعارها السوقية، وسنشتريها منك في الكثير من الأوقات بأسعار أعلى.",
         pageCoinsUseInstructions:
-            "يتم إجراء كل العمليات بتوافق تام مع الإرشادات التفاعلية على موقعنا الإلكتروني مع استخدام قائمة FIFA داخل اللعبة على جهازك أو واجهة تطبيق FC 25 Web App / FUT Companion App.",
+            "يتم إجراء كل العمليات بتوافق تام مع الإرشادات التفاعلية على موقعنا الإلكتروني مع استخدام قائمة FIFA داخل اللعبة على جهازك أو واجهة تطبيق FC 24 Web App / FUT Companion App.",
         pageCoinsEasy:
             "آليات تزويد نادي FUT بالعملات تتسم بالنزاهة التامة: شراء بطاقة -> بيع بطاقة -> التكرار. هل هناك أسهل من ذلك؟",
         pageCoinsAutomated:
@@ -3179,8 +3179,8 @@ export const translates = {
         pageCoinsPaymentFee: "رسوم الدفع:",
         pageCoinsTotaltotal: "الإجمالي:",
         pageCoinsToTheCheckout: "إلى صفحة الدفع",
-        sublogo: "عملات EA FC 25",
-        sublogo2: "عناصر EA FC 25",
+        sublogo: "عملات EA FC 24",
+        sublogo2: "عناصر EA FC 24",
         lang: "en-GB",
         menuOffers: "Offers",
         menuSignIn: "تسجيل الدخول",
@@ -3189,7 +3189,7 @@ export const translates = {
             " إلذلك نقوم بتسليم العملات المعدنية في أي وقت من اليوم ، 24/7.",
         menuLinkDesc2: "إن نظامنا آلي بالكامل، ",
         menuLinkDescDisabled:
-            "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋",
+            "Sales of EA FC 24 coins is now closed. <br/>See you in EA FC 24 season  👋",
         menuLinkReviews: "التعليقات",
         menulinkfaq: "الأسئلة الشائعة",
         menuLinkFaq: "الأسئلة الشائعة",
@@ -3318,25 +3318,25 @@ export const translates = {
     nl: {
         succPaid: "Je bestelling is betaald!",
         seot3_xbxs:
-            "Heb je vragen over het kopen van EA FC 25-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt.",
+            "Heb je vragen over het kopen van EA FC 24-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt.",
         seot2_xbxs:
             "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor Xbox Series X/S kopen met het vertrouwen dat je de beste deal krijgt.",
         seot1_xbxs:
             "Wij hebben de beste aanbiedingen op FIFA-munten voor Xbox Series X. We bieden goedkope FIFA-munten voor Xbox Series X met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN.",
         seot3_xb:
-            "Heb je vragen over het kopen van EA FC 25-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt.",
+            "Heb je vragen over het kopen van EA FC 24-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt.",
         seot2_xb:
             "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor Xbox One kopen met het vertrouwen dat je de beste deal krijgt.",
         seot1_xb:
             "Wij hebben de beste aanbiedingen op FIFA-munten voor Xbox One. We bieden goedkope FIFA-munten met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN.",
         seot3_ps5:
-            "Heb je vragen over het kopen van EA FC 25-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt.",
+            "Heb je vragen over het kopen van EA FC 24-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt.",
         seot2_ps5:
             "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor PS5 kopen met het vertrouwen dat je de beste deal krijgt.",
         seot1_ps5:
             "Wij hebben de beste aanbiedingen op FIFA-munten voor PlayStation 5. We bieden goedkope FIFA PS5-munten met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN.",
         seot3_ps4:
-            "Heb je vragen over het kopen van EA FC 25-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt.",
+            "Heb je vragen over het kopen van EA FC 24-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt.",
         seot2_ps4:
             "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor PS4 kopen met het vertrouwen dat je de beste deal krijgt.",
         seot1_ps4:
@@ -3367,7 +3367,7 @@ export const translates = {
         reviews: "recensies",
         main_h2:
             "Wij zorgen het hele jaar door dat iedereen z'n droomteam kan samenstellen!",
-        h1_p2: "EA FC 25 Ultimate Team Store",
+        h1_p2: "EA FC 24 Ultimate Team Store",
         h1_p1: "Je grootste hulp in ",
         privacya1:
             "De toestemming is geldig vanaf het moment dat de Persoonlijke Data zijn geregistreerd op ",
@@ -3394,11 +3394,11 @@ export const translates = {
         faqtitle2: "HEB JE VRAGEN?",
         deliverytitle: "Rubriek Leveringen",
         deliverytext:
-            " biedt een uniek EA FC 25-coin systeem. We werken samen met een breed aanbod aan coinleveranciers. Bij het uitvoeren van je bestelling gebruiken handhaven we speciale regels. Zo garanderen we dat jij nooit last hebt van EA-boetes. Je kan een paar van die regels hieronder lezen:",
+            " biedt een uniek EA FC 24-coin systeem. We werken samen met een breed aanbod aan coinleveranciers. Bij het uitvoeren van je bestelling gebruiken handhaven we speciale regels. Zo garanderen we dat jij nooit last hebt van EA-boetes. Je kan een paar van die regels hieronder lezen:",
         li1: "• De kaart op de markt te plaatsen tegen een andere prijs dan het toegastane maximum, gebaseerd op de prijsklasse voor deze kaart",
         li2: "• De levering van munten af te wisselen met het aflossen van kaarten van accounts die alleen handmatige trading voor het verdienen van munten gebruiken.",
         li3: "• Met meer dan 7000 FUT-clubs tot onze beschikking, verzilveren we in de meeste bestellingen een kaart van een club die wekenlang geen coin tranfer heeft gedaan.",
-        p1: "Hierdoor kunnen we de veiligste manier bieden om EA FC 25-munten op internet te kopen.",
+        p1: "Hierdoor kunnen we de veiligste manier bieden om EA FC 24-munten op internet te kopen.",
         p2: "Volg de instructies die op de website staan, of die je van de manager via de livechat krijgt, om je munten zo snel mogelijk te ontvangen.",
 
         card_text_4:
@@ -3426,9 +3426,9 @@ export const translates = {
         infoBlockText4:
             "Als je na de aankoop de munten niet kunt gebruiken, of als er een andere reden is waarom je geen munten voor je account kunt krijgen, is een terugbetaling gegarandeerd.",
         hwd: "HOE VERLOOPT DE LEVERING?",
-        h1_coins: "Jouw EA FC 25 Ultimate Team Store",
+        h1_coins: "Jouw EA FC 24 Ultimate Team Store",
         h1_1: "Veiligste optie om ",
-        h1_2: "Koop FC 25 munten",
+        h1_2: "Koop FC 24 munten",
         cryptoWith: "",
         cryptoIs: "is",
         cryptoAre: "",
@@ -3620,8 +3620,8 @@ export const translates = {
         pageCoinsPaymentFee: "Toeslag:",
         pageCoinsTotaltotal: "Totaal:",
         pageCoinsToTheCheckout: "NAAR DE KASSA",
-        sublogo: "EA FC 25 munten",
-        sublogo2: "EA FC 25-items",
+        sublogo: "EA FC 24 munten",
+        sublogo2: "EA FC 24-items",
         lang: "en-GB",
         menuOffers: "Offers",
         menuSignIn: "INLOGGEN",
@@ -3629,7 +3629,7 @@ export const translates = {
         menuLinkDesc: "Ons systeem is volledig geautomatiseerd, ",
         menuLinkDesc2: "wij leveren de munten op ieder moment, 24u/24 en 7d/7",
         menuLinkDescDisabled:
-            "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋",
+            "Sales of EA FC 24 coins is now closed. <br/>See you in EA FC 24 season  👋",
         menuLinkReviews: "Beoordeling",
         menulinkfaq: "FAQ",
         menuLinkFaq: "FAQ",
@@ -3759,25 +3759,25 @@ export const translates = {
     es: {
         succPaid: "¡Has pagado el pedido!",
         seot3_xbxs:
-            "¿Tienes alguna pregunta sobre cómo comprar monedas de EA FC 25 para tu consola Xbox? Ponte en contacto con nosotros mediante el canal que prefieras.",
+            "¿Tienes alguna pregunta sobre cómo comprar monedas de EA FC 24 para tu consola Xbox? Ponte en contacto con nosotros mediante el canal que prefieras.",
         seot2_xbxs:
             "Nuestro equipo trabaja con ahínco para ofrecerte las mejores condiciones del mercado, de modo que, cuando nos compres monedas de FUT para Xbox Series X/S, tengas la certeza de hacerlo al mejor precio disponible.",
         seot1_xbxs:
             "Tenemos las mejores ofertas en monedas de FIFA para Xbox Series X. También ofrecemos monedas de FIFA baratas para Xbox Series S, con entrega rápida y seguridad garantizada para tu cuenta, SIN COMISIONES.",
         seot3_xb:
-            "¿Tienes alguna pregunta sobre cómo comprar monedas de EA FC 25 para tu consola Xbox? Ponte en contacto con nosotros mediante el canal que prefieras.",
+            "¿Tienes alguna pregunta sobre cómo comprar monedas de EA FC 24 para tu consola Xbox? Ponte en contacto con nosotros mediante el canal que prefieras.",
         seot2_xb:
             "Nuestro equipo trabaja con ahínco para ofrecerte las mejores condiciones del mercado, de modo que, cuando nos compres monedas de FUT para Xbox One, tengas la certeza de hacerlo al mejor precio disponible.",
         seot1_xb:
             "Tenemos las mejores ofertas en monedas de FIFA para Xbox One. Ofrecemos monedas de FIFA baratas, con entrega rápida y seguridad garantizada para tu cuenta, SIN COMISIONES.",
         seot3_ps5:
-            "¿Tienes alguna pregunta sobre cómo comprar monedas de EA FC 25 para tu consola PlayStation? Ponte en contacto con nosotros mediante el canal que prefieras.",
+            "¿Tienes alguna pregunta sobre cómo comprar monedas de EA FC 24 para tu consola PlayStation? Ponte en contacto con nosotros mediante el canal que prefieras.",
         seot2_ps5:
             "Nuestro equipo trabaja con ahínco para ofrecerte las mejores condiciones del mercado, de modo que, cuando nos compres monedas de FUT para PS5, tengas la certeza de hacerlo al mejor precio disponible.",
         seot1_ps5:
             "Tenemos las mejores ofertas en monedas de FIFA para PlayStation 5. Ofrecemos monedas de FIFA baratas para PS5, con entrega rápida y seguridad garantizada para tu cuenta, SIN COMISIONES.",
         seot3_ps4:
-            "¿Tienes alguna pregunta sobre cómo comprar monedas de EA FC 25 para tu consola PlayStation? Ponte en contacto con nosotros mediante el canal que prefieras.",
+            "¿Tienes alguna pregunta sobre cómo comprar monedas de EA FC 24 para tu consola PlayStation? Ponte en contacto con nosotros mediante el canal que prefieras.",
         seot2_ps4:
             "Nuestro equipo trabaja con ahínco para ofrecerte las mejores condiciones del mercado, de modo que, cuando nos compres monedas de FUT para PS4, tengas la certeza de hacerlo al mejor precio disponible.",
         seot1_ps4:
@@ -3808,7 +3808,7 @@ export const translates = {
         reviews: "opiniones",
         main_h2:
             "¡Ayudamos a todo el mundo a construir su equipo de ensueño a lo largo de todo el año!",
-        h1_p2: "EA FC 25 Ultimate Team",
+        h1_p2: "EA FC 24 Ultimate Team",
         h1_p1: "Tu mejor aliado en la tienda de ",
         privacya1:
             "El consentimiento se oficializa en el momento en que el interesado complete su registro en ",
@@ -3836,11 +3836,11 @@ export const translates = {
         faqtitle2: "¿SIGUE TENIENDO PREGUNTAS?",
         deliverytitle: "Entrega",
         deliverytext:
-            "ofrece un sistema único de entrega de monedas de «EA FC 25». Colaboramos con un número récord de proveedores de monedas. A la hora de atender su pedido, utilizamos reglas especiales que garantizan que EA no aplique en ningún momento sanciones a su cuenta. A continuación figuran algunas de esas normas:",
+            "ofrece un sistema único de entrega de monedas de «EA FC 24». Colaboramos con un número récord de proveedores de monedas. A la hora de atender su pedido, utilizamos reglas especiales que garantizan que EA no aplique en ningún momento sanciones a su cuenta. A continuación figuran algunas de esas normas:",
         li1: "• Norma de publicar la carta en el mercado de transferencias con un precio distinto del máximo permitido de acuerdo con el intervalo de precios de dicha carta",
         li2: "• Norma de alternar la entrega de monedas con el canjeo de cartas de las cuentas que solo utilicen tradeo manual para obtener monedas",
         li3: "• Al tener a nuestra disposición más de 7000 clubes de FUT, en la mayoría de los pedidos canjeamos una carta de un club que lleve semanas sin participar en transferencias de monedas.",
-        p1: "De este modo, podemos ofrecer la forma más segura de comprar monedas de «EA FC 25» en internet.",
+        p1: "De este modo, podemos ofrecer la forma más segura de comprar monedas de «EA FC 24» en internet.",
         p2: "Para obtener monedas lo antes posible, siga las instrucciones disponibles en el sitio web o las indicaciones que le proporcione su gestor en el chat en directo.",
 
         card_text_4:
@@ -3868,9 +3868,9 @@ export const translates = {
         infoBlockText4:
             "Si, tras la compra, no puedes usar las monedas o hay otro motivo por el cual las monedas no llegan a tu cuenta, tienes garantizado el reembolso.",
         hwd: "¿CÓMO FUNCIONA LA ENTREGA?",
-        h1_coins: "Tu tienda n.º 1 de EA FC 25 Ultimate Team",
+        h1_coins: "Tu tienda n.º 1 de EA FC 24 Ultimate Team",
         h1_1: "La opción más segura ",
-        h1_2: "Compre monedas de FC 25",
+        h1_2: "Compre monedas de FC 24",
         cryptoWith: "",
         cryptoIs: "es",
         cryptoAre: "",
@@ -4065,8 +4065,8 @@ export const translates = {
         pageCoinsPaymentFee: "Comisión:",
         pageCoinsTotaltotal: "Total:",
         pageCoinsToTheCheckout: "TRAMITAR PEDIDO",
-        sublogo: "Monedas EA FC 25",
-        sublogo2: "Artículos de EA FC 25",
+        sublogo: "Monedas EA FC 24",
+        sublogo2: "Artículos de EA FC 24",
         lang: "en-GB",
         menuOffers: "Offers",
         menuSignIn: "INICIAR SESIÓN",
@@ -4074,7 +4074,7 @@ export const translates = {
         menuLinkDesc: "Nuestro sistema está totalmente automatizado, ",
         menuLinkDesc2: "por lo que suministramos monedas las 24 horas del día.",
         menuLinkDescDisabled:
-            "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋",
+            "Sales of EA FC 24 coins is now closed. <br/>See you in EA FC 24 season  👋",
         menuLinkReviews: "Revisión",
         menulinkfaq: "Preguntas frecuentes",
         menuLinkFaq: "Preguntas frecuentes",
@@ -4243,7 +4243,7 @@ export const translates = {
         reviews: "avaliações",
         main_h2:
             "Disponibilizamos a construção da equipa de sonho de todos, todo o ano!",
-        h1_p2: "Loja EA FC 25 Ultimate Team",
+        h1_p2: "Loja EA FC 24 Ultimate Team",
         h1_p1: "O teu principal companheiro na ",
         privacya1:
             "O consentimento é válido a partir do momento em que o titular dos dados pessoais efetuar o registo em ",
@@ -4269,11 +4269,11 @@ export const translates = {
         faqtitle2: "AINDA TENS PERGUNTAS?",
         deliverytitle: "Entregas",
         deliverytext:
-            " oferece um sistema de entregas de moedas EA FC 25 único. Cooperamos com um número recorde de fornecedores de moedas. Ao tratarmos da tua encomenda, utilizamos regras especiais que garantem que nunca serão aplicadas quaisquer sanções à tua conta da parte da EA. Consulta algumas das regras abaixo:",
+            " oferece um sistema de entregas de moedas EA FC 24 único. Cooperamos com um número recorde de fornecedores de moedas. Ao tratarmos da tua encomenda, utilizamos regras especiais que garantem que nunca serão aplicadas quaisquer sanções à tua conta da parte da EA. Consulta algumas das regras abaixo:",
         li1: "• Regra de listar a carta no mercado de transferências pelo preço em vez de pelo máximo permitido, de acordo com a gama de preços para esta carta",
         li2: "• Regra de alternar a entrega de moedas com o resgate de cartas das contas que só utilizam negociação manual para ganhar moedas",
         li3: "• Com mais de 7000 clubes FUT à tua disposição, na maioria das encomendas resgatamos uma carta de um clube que não esteve envolvido em transferência de moedas durante semanas",
-        p1: "Isto permite-nos oferecer a forma mais segura de comprar moedas EA FC 25 na Internet.",
+        p1: "Isto permite-nos oferecer a forma mais segura de comprar moedas EA FC 24 na Internet.",
         p2: "Para que as tuas moedas sejam entregues o mais rápido possível, segue as instruções publicadas no site ou recebidas do gestor no chat ao vivo.",
 
         card_text_4:
@@ -4301,9 +4301,9 @@ export const translates = {
         infoBlockText4:
             "Se não receberes as moedas na tua conta ou se, depois da compra, não as conseguires usar, garantimos um reembolso.",
         hwd: "COMO RECEBO AS MOEDAS?",
-        h1_coins: "A tua Loja EA FC 25 Ultimate Team",
+        h1_coins: "A tua Loja EA FC 24 Ultimate Team",
         h1_1: "A opção mais segura para ",
-        h1_2: "Comprar moedas do FC 25",
+        h1_2: "Comprar moedas do FC 24",
         cryptoWith: "",
         cryptoIs: "é de",
         cryptoAre: "",
@@ -4438,7 +4438,7 @@ export const translates = {
             'Se o Mercado de Transferências na App online FUT estiver bloqueado, muda o método de entrega para "Leilão de Jogador".',
         pageCoinsHowDelivery: "Como é que a entrega se processa?",
         pageCoinsAfterSuccessfull:
-            "Depois do pagamento, vamos pedir para aceder uma vez à tua conta EA. Precisamos do teu e-mail, palavra passe e código de segurança. Vamos usar estes dados para iniciar sessão na FC 25 Web App e fazer compras e vendas no mercado de transferências. Vamos comprar cartas pelo valor de mercado e pô-las à venda por um valor superior. Depois, a nossa equipa vai comprá-las.",
+            "Depois do pagamento, vamos pedir para aceder uma vez à tua conta EA. Precisamos do teu e-mail, palavra passe e código de segurança. Vamos usar estes dados para iniciar sessão na FC 24 Web App e fazer compras e vendas no mercado de transferências. Vamos comprar cartas pelo valor de mercado e pô-las à venda por um valor superior. Depois, a nossa equipa vai comprá-las.",
         pageCoinsCompensated:
             "Não vamos mover ou vender qualquer uma das cartas do teu clube, por isso é que precisas de ter, pelo menos, 5000 moedas no teu saldo - para começares a transação. É necessário ter este montante de moedas para podermos comprar várias cartas para começarmos o processo de entrega. A taxa da EA aplicável às vendas através do Mercado de Transferências FIFA será totalmente compensada por nós, bem como o saldo em moedas inicial do teu clube",
         pageCoinsComfort:
@@ -4496,8 +4496,8 @@ export const translates = {
         pageCoinsPaymentFee: "Taxa de pagamento:",
         pageCoinsTotaltotal: "Total:",
         pageCoinsToTheCheckout: "PARA A CAIXA",
-        sublogo: "Moedas EA FC 25",
-        sublogo2: "Itens EA FC 25",
+        sublogo: "Moedas EA FC 24",
+        sublogo2: "Itens EA FC 24",
         lang: "en-GB",
         menuOffers: "Offers",
         menuSignIn: "INICIAR SESSÃO",
@@ -4505,7 +4505,7 @@ export const translates = {
         menuLinkDesc: "O nosso sistema é totalmente automatizado, ",
         menuLinkDesc2: "portanto entregamos moedas em qualquer momento, 24/7.",
         menuLinkDescDisabled:
-            "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋",
+            "Sales of EA FC 24 coins is now closed. <br/>See you in EA FC 24 season  👋",
         menuLinkReviews: "Comentario",
         menulinkfaq: "Perguntas Frequentes",
         menuLinkFaq: "Perguntas Frequentes",
@@ -4673,7 +4673,7 @@ export const translates = {
         reviews: "recenzji",
         main_h2:
             "Udostępniamy wszystkim możliwość budowy wymarzonego składu przez cały rok!",
-        h1_p2: "Sklepie EA FC 25 Ultimate Team",
+        h1_p2: "Sklepie EA FC 24 Ultimate Team",
         h1_p1: "Twój towarzysz w ",
         privacya1:
             "Zgoda wchodzi w życie w momencie przesłania danych osobowych na ",
@@ -4697,11 +4697,11 @@ export const translates = {
         faqtitle2: "NADAL MASZ PYTANIA?",
         deliverytitle: "Dostaw",
         deliverytext:
-            " oferuje unikalny system dostarczania monet EA FC 25. Współpracujemy z rekordową liczbą dostawców monet. Realizując twoje zamówienie, stosujemy specjalne zasady, które gwarantują, że na twoje konto nie zostaną nałożone żadne sankcje ze strony EA. Poniżej są niektóre z tych zasad:",
+            " oferuje unikalny system dostarczania monet EA FC 24. Współpracujemy z rekordową liczbą dostawców monet. Realizując twoje zamówienie, stosujemy specjalne zasady, które gwarantują, że na twoje konto nie zostaną nałożone żadne sankcje ze strony EA. Poniżej są niektóre z tych zasad:",
         li1: "• Zasada notowania karty na rynku transferowym po cenie innej niż maksymalna dopuszczalna zgodnie z przedziałem cenowym dla tej karty",
         li2: "• Zasada polegająca na naprzemiennym dostarczaniu monet i wykupie kart z kont, które używają wyłącznie handlu ręcznego do zarabiania monet",
         li3: "• Z ponad 7000 klubów FUT w naszej dyspozycji, w większości zamówień możemy wykupić kartę z klubu który nie był zaangażowany w transferze monet przez tygodnie",
-        p1: "To pozwala nam zaoferować najbezpieczniejszy sposób do zakupu monet EA FC 25 w Internecie.",
+        p1: "To pozwala nam zaoferować najbezpieczniejszy sposób do zakupu monet EA FC 24 w Internecie.",
         p2: "Aby otrzymać monety jak najszybciej, postępuj zgodnie z instrukcjami opublikowanymi na stronie internetowej lub otrzymanymi od menedżera na czacie na żywo.",
 
         card_text_4:
@@ -4729,9 +4729,9 @@ export const translates = {
         infoBlockText4:
             "Jeśli po zakupie nie możesz użyć monet, albo z innego powodu nie otrzymasz monet na swoje konto, gwarantujemy zwrot pieniędzy.",
         hwd: "JAK DZIAŁA DOSTAWA?",
-        h1_coins: "Twój sklep EA FC 25 Ultimate Team",
+        h1_coins: "Twój sklep EA FC 24 Ultimate Team",
         h1_1: "Najbezpieczniejsza opcja ",
-        h1_2: "Kup monety FC 25",
+        h1_2: "Kup monety FC 24",
         cryptoWith: "",
         cryptoIs: "wynosi",
         cryptoAre: "",
@@ -4925,8 +4925,8 @@ export const translates = {
         pageCoinsPaymentFee: "Opłata manipulacyjna:",
         pageCoinsTotaltotal: "Suma:",
         pageCoinsToTheCheckout: "DO KASY",
-        sublogo: "Monety EA FC 25",
-        sublogo2: "Karty EA FC 25",
+        sublogo: "Monety EA FC 24",
+        sublogo2: "Karty EA FC 24",
         lang: "en-GB",
         menuOffers: "Offers",
         menuSignIn: "ZALOGUJ",
@@ -4934,7 +4934,7 @@ export const translates = {
         menuLinkDesc: "Nasz system jest w pełni zautomatyzowany, ",
         menuLinkDesc2: "a więc dostarczamy monety o każdej porze dnia, 24/7.",
         menuLinkDescDisabled:
-            "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋",
+            "Sales of EA FC 24 coins is now closed. <br/>See you in EA FC 24 season  👋",
         menuLinkReviews: "Recenzje",
         menulinkfaq: "Najczęściej zadawane pytania",
         menuLinkFaq: "Najczęściej zadawane pytania",
@@ -5098,7 +5098,7 @@ export const translates = {
         quick_order: "快速订购",
         reviews: "个评论",
         main_h2: "我们让每个人都能打造梦之队，全年不休！",
-        h1_p2: "EA FC 25 Ultimate Team",
+        h1_p2: "EA FC 24 Ultimate Team",
         h1_p1: "你在商店里的主要伴侣 ",
         privacya1: "同意书自本人个人资料在 ",
         privacya2: "如果想要删除RoyalFUT帐户，请发送请求到 ",
@@ -5119,11 +5119,11 @@ export const translates = {
         faqtitle2: "还有问题？",
         deliverytitle: "交付区",
         deliverytext:
-            " 提供独特的 EA FC 25 金币交付系统。我们与众多金币提供者合作。我们使用特殊规则履行订单，保证您的账户不会受到 EA 的制裁。请参见以下一些规则：",
+            " 提供独特的 EA FC 24 金币交付系统。我们与众多金币提供者合作。我们使用特殊规则履行订单，保证您的账户不会受到 EA 的制裁。请参见以下一些规则：",
         li1: "• 在交易市场列出的卡片不按该卡片价格范围允许的最高价",
         li2: "• 用从只使用手动交易赢取点数的账户兑换的卡片交替进行卡片交付",
         li3: "• 我们手中有7000多家 FUT 俱乐部，在大多数订单中，我们从数周不参与金币转手的俱乐部手中兑换卡片,",
-        p1: "这可让我们提供网上最安全的 EA FC 25 金币购买方式。",
+        p1: "这可让我们提供网上最安全的 EA FC 24 金币购买方式。",
         p2: "为了让金币尽快交付，请按照网站上公布的指示或者在实时聊天中从经理处获得的指示操作",
         card_text_4:
             "我们重视你的时间，这就是为什么我们一直致力于不断提高我们网站的界面和客户支持服务的质量，以确保你在我们这里的购物体验尽可能顺利。",
@@ -5151,8 +5151,8 @@ export const translates = {
             "如果在购买后您无法使用金币，或者如果有任何其他原因导致您无法为您的帐户获得金币，我们保证退款。",
         hwd: "交付是如何实现的？",
         h1_coins: "前往FIFA 23 Ultimate Team商店",
-        h1_1: "购买 EA FC 25 金币的 ",
-        h1_2: "购买 FC 25 金币",
+        h1_1: "购买 EA FC 24 金币的 ",
+        h1_2: "购买 FC 24 金币",
         cryptoWith: "",
         cryptoIs: "使用",
         cryptoAre: "",
@@ -5280,7 +5280,7 @@ export const translates = {
             '如果Web应用程序中的“转会市场”被锁定，请将交付方式更改为"球员拍卖"。',
         pageCoinsHowDelivery: "交付将如何发生？",
         pageCoinsAfterSuccessfull:
-            "支付成功后，我们将需要取得你 EA 帐户的一次性存取权限。顾客需要向我们提供自己的电子邮件地址、密码以及备份代码。我们将使用这些数据登录 FC 25 Web App 以在转会市场进行购买与出售交易。我们将以市价购买球员卡，然后在转会市场上以更高的价格出售。在这之后，这些卡将由我们的交付团队进行购买。",
+            "支付成功后，我们将需要取得你 EA 帐户的一次性存取权限。顾客需要向我们提供自己的电子邮件地址、密码以及备份代码。我们将使用这些数据登录 FC 24 Web App 以在转会市场进行购买与出售交易。我们将以市价购买球员卡，然后在转会市场上以更高的价格出售。在这之后，这些卡将由我们的交付团队进行购买。",
         pageCoinsCompensated:
             "我们不会移动或者出售你的俱乐部的任何卡，这就是为什么我们需要你的余额有至少5000枚金币才能开始交易。必须有这么多的金币，这样我们就可以买几张卡来开始交付过程。对通过FIFA转会市场进行的销售适用的EA费用将由我们全额补偿，你的俱乐部的初始金币余额也是",
         pageCoinsComfort:
@@ -5344,7 +5344,7 @@ export const translates = {
         menuLinkDesc: "我们的系统是全自动的，",
         menuLinkDesc2: "将为您提供 7x24 小时全天候金币实时交付。",
         menuLinkDescDisabled:
-            "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋",
+            "Sales of EA FC 24 coins is now closed. <br/>See you in EA FC 24 season  👋",
         menuLinkReviews: "碌莽禄掳",
         menulinkfaq: "常见问题",
         menuLinkFaq: "常见问题",
@@ -5507,7 +5507,7 @@ export const translates = {
         reviews: "yorum",
         main_h2:
             "Hayalinizdeki takımı kurma etkinliğini tüm yıl boyunca herkes için mümkün kılıyoruz!",
-        h1_p2: "EA FC 25 Ultimate Team Store",
+        h1_p2: "EA FC 24 Ultimate Team Store",
         h1_p1: "Daki ana yol arkadaşınız",
         privacya1: "Onay, kişisel veri öznesinin ",
         privacya2:
@@ -5533,11 +5533,11 @@ export const translates = {
         faqtitle2: "HALA SORULARINIZ MI VAR?",
         deliverytitle: "Teslimat",
         deliverytext:
-            " benzersiz bir EA FC 25 Jetonları dağıtım sistemi sunar. Rekor sayıda Jeton tedarikçisi ile işbirliği yapıyoruz. Siparişinize dair işlemleri gerçekleştirirken, hesabınıza EA tarafından hiçbir zaman yaptırım uygulanmayacağını garanti eden özel kurallar kullanıyoruz. Bu kurallardan basılarını şöyle sıralayabiliriz:",
+            " benzersiz bir EA FC 24 Jetonları dağıtım sistemi sunar. Rekor sayıda Jeton tedarikçisi ile işbirliği yapıyoruz. Siparişinize dair işlemleri gerçekleştirirken, hesabınıza EA tarafından hiçbir zaman yaptırım uygulanmayacağını garanti eden özel kurallar kullanıyoruz. Bu kurallardan basılarını şöyle sıralayabiliriz:",
         li1: "• Kartın transfer piyasasında, bu kartın fiyat aralığına göre izin verilen maksimum fiyattan farklı bir fiyata listelenmesi kuralı",
         li2: "• Jeton dağıtımını, Jeton kazanmak için sadece manuel işlemler yapan hesaplardan elde edilen kartların tekrar satın alınması yoluyla değiştirilmesi kuralı",
         li3: "• Elimizdeki 7000'den fazla FUT kulübü ile çoğu siparişte, haftalarca jeton transferi yapmayan bir kulüpten alınan bir kartı kullanıyoruz.",
-        p1: "Böylece, İnternet üzerinden EA FC 25 jetonları satın almanın en güvenli yolunu sunuyoruz.",
+        p1: "Böylece, İnternet üzerinden EA FC 24 jetonları satın almanın en güvenli yolunu sunuyoruz.",
         p2: "FIFA jetonlarını olabildiğince çabuk teslim almak için, web sitesinde yayınlanan veya canlı sohbette yöneticinin verdiği talimatları izleyin.",
 
         card_text_4:
@@ -5565,9 +5565,9 @@ export const translates = {
         infoBlockText4:
             "Satın aldığınız jetonları kullanamazsanız ya da herhangi bir sebeple jetonlar hesabınıza eklenmezse para iadesi garantidir.",
         hwd: "TESLİMAT NASIL YAPILIYOR?",
-        h1_coins: "EA FC 25 Ultimate Team Mağazanız",
-        h1_1: "EA FC 25 Jetonu için ",
-        h1_2: "FC 25 jetonları satın al",
+        h1_coins: "EA FC 24 Ultimate Team Mağazanız",
+        h1_1: "EA FC 24 Jetonu için ",
+        h1_2: "FC 24 jetonları satın al",
         cryptoWith: "",
         cryptoIs: "'dur",
         cryptoAre: "",
@@ -5758,8 +5758,8 @@ export const translates = {
         pageCoinsPaymentFee: "Ödeme ücreti:",
         pageCoinsTotaltotal: "Toplam:",
         pageCoinsToTheCheckout: "ÖDEMEYE GEÇ",
-        sublogo: "Jeton EA FC 25",
-        sublogo2: "EA FC 25 Öğeleri",
+        sublogo: "Jeton EA FC 24",
+        sublogo2: "EA FC 24 Öğeleri",
         lang: "en-GB",
         menuOffers: "Offers",
         menuSignIn: "GİRİŞ",
@@ -5767,7 +5767,7 @@ export const translates = {
         menuLinkDesc: "Our system is fully automated, ",
         menuLinkDesc2: "so we deliver coins at any time of day, 24/7.",
         menuLinkDescDisabled:
-            "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋",
+            "Sales of EA FC 24 coins is now closed. <br/>See you in EA FC 24 season  👋",
         menuLinkReviews: "Yorumlar",
         menulinkfaq: "SSS",
         menuLinkFaq: "SSS",
@@ -5932,7 +5932,7 @@ export const translates = {
         quick_order: "Snabb beställning",
         reviews: "recensioner",
         main_h2: "Vi gör drömteam-byggande tillgängligt för alla året runt!",
-        h1_p2: "EA FC 25 Ultimate Team Store",
+        h1_p2: "EA FC 24 Ultimate Team Store",
         h1_p1: "Din främsta följeslagare i ",
         privacya1:
             "Samtycket börjar gälla så fort användarens personuppgifter registreras på ",
@@ -5956,11 +5956,11 @@ export const translates = {
         faqtitle2: "HAR DU FLER FRÅGOR?",
         deliverytitle: "Leverans",
         deliverytext:
-            "har ett unikt system för leverans av EA FC 25-mynt. Vi samarbetar med ett stort antal myntleverantörer. När vi behandlar din beställning använder vi specialregler som ser till att ditt konto inte straffas av EA. Här har vi några av de reglerna:",
+            "har ett unikt system för leverans av EA FC 24-mynt. Vi samarbetar med ett stort antal myntleverantörer. När vi behandlar din beställning använder vi specialregler som ser till att ditt konto inte straffas av EA. Här har vi några av de reglerna:",
         li1: "• En regel om att lägga upp kortet på transfermarknaden med ett pris som skiljer sig från maxpriset i kortets prisklass",
         li2: "• En regel om att växla mellan myntleveranser och inlösning av kort från konton som bara tjänar mynt på manuell handel",
         li3: "• Vi har mer än 7 000 FUT-klubbar till vårt förfogande, så för de flesta beställningar löser vi in ett kort från en klubb som inte varit inblandad i mynthandel på flera veckor",
-        p1: "På så sätt kan vi erbjuda det säkraste sättet att köpa EA FC 25-mynt på internet.",
+        p1: "På så sätt kan vi erbjuda det säkraste sättet att köpa EA FC 24-mynt på internet.",
         p2: "Följ instruktionerna som står på webbplatsen eller som skickas till dig via chatten för att få dina mynt så snabbt som möjligt.",
         card_text_4:
             "Vi värdesätter din tid, det är därför vi alltid är fast beslutna att sträva efter kontinuerlig förbättring av sådana aspekter av vår webbplats som gränssnitt och kvalitet på vår kundsupporttjänst еo se till att din shoppingupplevelse med oss gick så smidigt som möjligt.",
@@ -5987,9 +5987,9 @@ export const translates = {
         infoBlockText4:
             "Om du inte kan använda mynt efter köpet, eller om det finns en annan anledning till varför du inte kan använda mynt i ditt konto, garanteras du en återbetalning.",
         hwd: "HUR FUNGERAR LEVERANSER?",
-        h1_coins: "Din go-to-butik för EA FC 25 Ultimate Team",
+        h1_coins: "Din go-to-butik för EA FC 24 Ultimate Team",
         h1_1: "Det säkraste sättet ",
-        h1_2: "Köp FC 25-mynt",
+        h1_2: "Köp FC 24-mynt",
         cryptoWith: "",
         cryptoIs: "är",
         cryptoAre: "",
@@ -6122,7 +6122,7 @@ export const translates = {
             "Om Överföringsmarknaden i FUT-webbappen är låst, ändra leveransmetoden till 'Spelarauktion'.",
         pageCoinsHowDelivery: "Hur kommer leveransen att ske?",
         pageCoinsAfterSuccessfull:
-            "När du har betalat kommer vi att be dig om engångstillgång till ditt EA-konto. Särskilt din e-postadress, ditt lösenord och din åtkomstkod för säkerhetskopiering. Med dessa referenser loggar vi in på FC 25 Web App och gör köp- och försäljningstransaktioner på spelets transfermarknad. Vi köper en spelare från din klubb till marknadsvärdet och lägger ut honom på transfermarknaden för ett högre pris. Från våra FUT-klubbar köper vi tillbaka dessa kort.",
+            "När du har betalat kommer vi att be dig om engångstillgång till ditt EA-konto. Särskilt din e-postadress, ditt lösenord och din åtkomstkod för säkerhetskopiering. Med dessa referenser loggar vi in på FC 24 Web App och gör köp- och försäljningstransaktioner på spelets transfermarknad. Vi köper en spelare från din klubb till marknadsvärdet och lägger ut honom på transfermarknaden för ett högre pris. Från våra FUT-klubbar köper vi tillbaka dessa kort.",
         pageCoinsCompensated:
             "Vi kommer inte att flytta eller sälja något av korten från din klubb, det är därför vi behöver att du har minst 5000 mynt på ditt saldo - för att starta transaktionen. Det är nödvändigt att ha denna mängd mynt så att vi kan köpa flera kort för att starta leveransprocessen. EA-avgift som gäller för försäljning via FIFA Överföringsmarknad kommer att kompenseras fullt ut av oss, liksom det ursprungliga myntsaldot av din klubb",
         pageCoinsComfort:
@@ -6180,8 +6180,8 @@ export const translates = {
         pageCoinsPaymentFee: "Betalningsavgift:",
         pageCoinsTotaltotal: "TOTALT:",
         pageCoinsToTheCheckout: "TILL CHECKOUT",
-        sublogo: "EA FC 25 mynt",
-        sublogo2: "EA FC 25-produkter",
+        sublogo: "EA FC 24 mynt",
+        sublogo2: "EA FC 24-produkter",
         lang: "en-GB",
         menuOffers: "Offers",
         menuSignIn: "LOGGA IN",
@@ -6189,7 +6189,7 @@ export const translates = {
         menuLinkDesc: "Vårt system är helt automatiserat, ",
         menuLinkDesc: "så vi kan leverera mynt dygnet runt.",
         menuLinkDescDisabled:
-            "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋",
+            "Sales of EA FC 24 coins is now closed. <br/>See you in EA FC 24 season  👋",
         menuLinkReviews: "omdömen",
         menulinkfaq: "VANLIGA FRÅGOR",
         menuLinkFaq: "VANLIGA FRÅGOR",
@@ -6354,7 +6354,7 @@ export const translates = {
         quick_order: "Rask bestilling",
         reviews: "anmeldelser",
         main_h2: "Med oss er du alltid et skritt nærmere drømmelaget ditt!",
-        h1_p2: "EA FC 25 Ultimate Team Store",
+        h1_p2: "EA FC 24 Ultimate Team Store",
         h1_p1: "Din hovedledsager i ",
         privacya1:
             "Samtykket gjelder fra det øyeblikk personopplysningene registreres på ",
@@ -6380,11 +6380,11 @@ export const translates = {
         faqtitle2: "ER DET NOE ANNET DU LURER PÅ?",
         deliverytitle: "Leverings",
         deliverytext:
-            " tilbyr et unikt system for levering av EA FC 25-mynter. Vi samarbeider med et rekordstort antall myntforhandlere. Når vi behandler bestillingen din, følger vi spesielle regler som garanterer kontoen din mot sanksjoner fra EA. Du finner noen av disse reglene nedenfor:",
+            " tilbyr et unikt system for levering av EA FC 24-mynter. Vi samarbeider med et rekordstort antall myntforhandlere. Når vi behandler bestillingen din, følger vi spesielle regler som garanterer kontoen din mot sanksjoner fra EA. Du finner noen av disse reglene nedenfor:",
         li1: "• Regelen om å oppføre kortet på overføringsmarkedet med en annen pris enn tillatte makspris i henhold til prisområdet for kortet.",
         li2: "• Regelen om å bytte levering av mynter med innløsing av kortr fra kontoer som bare bruker manuell handel for å tjene mynter.",
         li3: "• Vi har over 7000 FUT-klubber til disposisjon, og i de fleste bestillingene innløser vi et kort fra en klubb som ikke har deltatt i myntoverføringer på flere uker.",
-        p1: "Dette gjør at vi kan tilby den sikreste måten å kjøpe EA FC 25-mynter på på hele internett.",
+        p1: "Dette gjør at vi kan tilby den sikreste måten å kjøpe EA FC 24-mynter på på hele internett.",
         p2: "Følg instruksjonene på nettstedet, eller instruksjonene du får fra manageren i live-chat, for å motta myntene så raskt som mulig.",
 
         card_text_4:
@@ -6412,9 +6412,9 @@ export const translates = {
         infoBlockText4:
             "Hvis du etter kjøpet ikke kan bruke munter, eller hvis det finnes en annen grunn til at du ikke får mynter på kontoen din, garanteres det en full refusjon.",
         hwd: "HOE VERLOOPT DE LEVERING?",
-        h1_coins: "Din hovedledsager i EA FC 25 Ultimate Team Store",
+        h1_coins: "Din hovedledsager i EA FC 24 Ultimate Team Store",
         h1_1: "Det tryggeste alternativet for ",
-        h1_2: "Kjøp FC 25-mynter",
+        h1_2: "Kjøp FC 24-mynter",
         cryptoWith: "",
         cryptoIs: "er",
         cryptoAre: "",
@@ -6537,14 +6537,14 @@ export const translates = {
             "For å bruke sørvisen må du oppfylle bare et par betingelser:",
         pageCoinsClubBalance: "du må ha minst 5000 mynter på FUT-kontoen din;",
         pageCoinsTransferMarket:
-            "du må låse opp Spillerauksjoner på FC 25 Web App (bare for Smidig leveransemetode).",
+            "du må låse opp Spillerauksjoner på FC 24 Web App (bare for Smidig leveransemetode).",
         pageCoinsBeforePurchase:
             "Når du kjøper mynter på ROYALFUT-nettstedet, blir du guidet gjennom alle enkle og greie etappene av myntoverføring ved hjelp av nettstedets grensesnitt. Før du kjøper mynter, forvisse seg om at du har full tilgang til profilen, som inneholder klubben du ønsker å fylle med mynter.",
         pageCoinsLockedMarket:
-            'Hvis Spillerauksjoner i FC 25 Web App er låst, endre leveransemetoden til "Spillerauksjon".',
+            'Hvis Spillerauksjoner i FC 24 Web App er låst, endre leveransemetoden til "Spillerauksjon".',
         pageCoinsHowDelivery: "Hvordan virker levering?",
         pageCoinsAfterSuccessfull:
-            "Etter at betaling blir utført, skal vi forespørre en engangstilgang til EA-profilen din. Vi trenger din e-post, passord og engangsreservekode. Ved å bruke disse dataene vil vi logge inn på FC 25 Web App for å starte kjøps- og salgstransaksjoner på Spillerauksjoner. Vi kjøper spillerkort til markedspriser og stiller dem deretter up på Spillerauksjoner for høyere priser. Etter det vil de bli kjøpt av våre FUT-klubber.",
+            "Etter at betaling blir utført, skal vi forespørre en engangstilgang til EA-profilen din. Vi trenger din e-post, passord og engangsreservekode. Ved å bruke disse dataene vil vi logge inn på FC 24 Web App for å starte kjøps- og salgstransaksjoner på Spillerauksjoner. Vi kjøper spillerkort til markedspriser og stiller dem deretter up på Spillerauksjoner for høyere priser. Etter det vil de bli kjøpt av våre FUT-klubber.",
         pageCoinsCompensated:
             "Vi skal ikke til flytte eller selge noen av kortene fra klubben din, det er derfor vi trenger at du har minst 5000 mynter på kontoen din for å starte transaksjonen. Det er nødvendig å ha dette antallet av mynter slik at det blir mulig å kjøpe flere kort for å starte myntleveringsprosessen. EA-provisjons trukket på FIFA Spillerauksjoner vil bli fullt erstatt av oss, så vel som den første begynnelsesbalansen av mynter av klubben din.",
         pageCoinsComfort:
@@ -6566,7 +6566,7 @@ export const translates = {
         pageCoinsNeed1000:
             "Det er bare en betingelse du må oppfylle: du må ha minst 1000 mynter på FUT-kontoen din.",
         pageCoinsCompleteTransactions:
-            "Når du kjøper mynter på ROYALFUT-nettstedet, blir du guidet gjennom alle enkle og greie etappene av myntoverføring ved hjelp av nettstedets grensesnitt. Du må utføre en rekke transaksjoner på Spillerauksjoner, enten gjennom FIFA-menyen i spillet på konsollen eller gjennom grensesnittet FC 25 Web App / FUT Companion App.",
+            "Når du kjøper mynter på ROYALFUT-nettstedet, blir du guidet gjennom alle enkle og greie etappene av myntoverføring ved hjelp av nettstedets grensesnitt. Du må utføre en rekke transaksjoner på Spillerauksjoner, enten gjennom FIFA-menyen i spillet på konsollen eller gjennom grensesnittet FC 24 Web App / FUT Companion App.",
         pageCoinsStep:
             "Alle trinn før du fyller på konten til FIFA Ultimate Team-klubben din med mynter vil ha en detaljert beskrivelse, så du vil virkilig ikke bli forvirret :)",
         pageCoinsFindVideo:
@@ -6575,7 +6575,7 @@ export const translates = {
         pageCoinsAfterPayment:
             "Etter at betaling blir utført, skal du få instruksene for kjøp av spillerkort. Du kjøper spillerkort til markedspriser, og vi kjøper dem fra deg til priser som er flere ganger høyere enn markedspriser.",
         pageCoinsUseInstructions:
-            "Alle operasjoner utføres strengt i henhold til den interaktive instruksjonen på nettstedet vårt med ekstra bruk av FIFA-menyen i spillet på konsollen din eller grensesnittet av FC 25 Web App / FUT Companion App.",
+            "Alle operasjoner utføres strengt i henhold til den interaktive instruksjonen på nettstedet vårt med ekstra bruk av FIFA-menyen i spillet på konsollen din eller grensesnittet av FC 24 Web App / FUT Companion App.",
         pageCoinsEasy:
             "Mekanismen for å fylle FUT-klubben med mynter er veldig grei: kjøp et kort -> selg et kort -> gjør det en gang til. Rett og slett, ikke sant?",
         pageCoinsAutomated:
@@ -6602,8 +6602,8 @@ export const translates = {
         pageCoinsPaymentFee: "Provisjon:",
         pageCoinsTotaltotal: "Total:",
         pageCoinsToTheCheckout: "TIL KASSEN",
-        sublogo: "EA FC 25 mynter",
-        sublogo2: "EA FC 25 PRODUKTER",
+        sublogo: "EA FC 24 mynter",
+        sublogo2: "EA FC 24 PRODUKTER",
         lang: "en-GB",
         menuOffers: "Offers",
         menuSignIn: "LOGG INN",
@@ -6611,7 +6611,7 @@ export const translates = {
         menuLinkDesc: "Systemet vårt er fullstendig automatisert, ",
         menuLinkDesc2: "så vi leverer mynter døgnet rundt.",
         menuLinkDescDisabled:
-            "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋",
+            "Sales of EA FC 24 coins is now closed. <br/>See you in EA FC 24 season  👋",
         menuLinkReviews: "Anmeldelser",
         menulinkfaq: "VANLIGE SPØRSMÅL",
         menuLinkFaq: "VANLIGE SPØRSMÅL",

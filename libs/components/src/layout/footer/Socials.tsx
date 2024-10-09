@@ -1,41 +1,30 @@
-import Link from "next/link";
-import {
-    TiktokMonocolorIcon,
-    TwitchMonocolorIcon,
-    YouTubeMonocolorIcon,
-    InstagramMonocolorIcon,
-} from "@royalfut/icons";
-import { EAppSocials } from "@royalfut/enums";
+import { PROJECT_PUBLIC_ROUTES } from "@royalfut/collections";
+import { Link, MediaInfoLink } from "@royalfut/ui";
 
-import type { FC, SVGProps } from "react";
-import type { TUIGlobalFooterSocials } from "@royalfut/interfaces";
+import type { FC } from "react";
+import type { TProjectGlobalFooterSocials } from "@royalfut/interfaces";
 
-const iconsMap: Record<EAppSocials, FC<SVGProps<SVGSVGElement>>> = {
-    [EAppSocials.INSTAGRAM]: InstagramMonocolorIcon,
-    [EAppSocials.TIK_TOK]: TiktokMonocolorIcon,
-    [EAppSocials.YOU_TUBE]: YouTubeMonocolorIcon,
-    [EAppSocials.TWITCH]: TwitchMonocolorIcon,
-};
-
-const Socials: FC<TUIGlobalFooterSocials> = ({ items, label }) => {
+const Socials: FC<TProjectGlobalFooterSocials> = ({ items, label }) => {
     return (
         <div className="flex flex-col">
-            <div className="text-white text-2xl font-bold mb-3">{label}</div>
+            <Link
+                href={PROJECT_PUBLIC_ROUTES["CONTACT"]}
+                className="text-white w-max text-2xl font-bold mb-3 hover:text-white-70 transition-colors duration-200">
+                {label}
+            </Link>
             <div className="h-12 justify-start items-start gap-2 inline-flex">
                 {items.map(item => {
-                    const Icon = iconsMap[item.id];
-
                     return (
-                        <Link
+                        <MediaInfoLink
                             href={item.href}
-                            target="_blank"
+                            variant="icon"
                             key={item.id}
-                            aria-label={item.label}
-                            className="w-20 h-12 basis-1/4 sm:basis-auto p-2 bg-black-dropdown hover:bg-black-shape rounded-lg justify-center items-center gap-2 flex transition-colors duration-300">
-                            <div className="relative">
-                                <Icon className="w-6 h-6 text-white" />
-                            </div>
-                        </Link>
+                            media={item.id}
+                            screen="landscape"
+                            size="sm"
+                            theme="2"
+                            className="basis-1/4 sm:basis-auto"
+                        />
                     );
                 })}
             </div>

@@ -1,29 +1,28 @@
 import { useCallback } from "react";
 import { Button } from "@royalfut/ui";
-import { cn } from "@royalfut/utils";
 import { MinusIcon, CrossSimpleIcon } from "@royalfut/icons";
-import { TransferAdjustTypes } from "@royalfut/enums";
+import { ETransferAdjustTypes } from "@royalfut/enums";
 import { useTransferSelectorStore } from "@royalfut/store";
 import { useContinuousClickAction } from "@royalfut/hooks";
+import { cn } from "@royalfut/utils";
 
-import type { ComponentProps } from "react";
+import type { ComponentProps, ComponentPropsWithoutRef } from "react";
 import type { FNCN } from "@royalfut/interfaces";
-import type { IButton } from "@royalfut/ui";
 
-type ExtendedProps = IButton["Native"] & IButton["Base"];
+type ExtendedProps = Omit<ComponentPropsWithoutRef<typeof Button>, "asChild">;
 
-const labelMap: Record<TransferAdjustTypes, string> = {
-    [TransferAdjustTypes.MINUS]: "Minus coin",
-    [TransferAdjustTypes.PLUS]: "Plus coin",
+const labelMap: Record<ETransferAdjustTypes, string> = {
+    [ETransferAdjustTypes.MINUS]: "Minus coin",
+    [ETransferAdjustTypes.PLUS]: "Plus coin",
 };
 
-const IconMap: Record<TransferAdjustTypes, FNCN<ComponentProps<"svg">>> = {
-    [TransferAdjustTypes.MINUS]: MinusIcon,
-    [TransferAdjustTypes.PLUS]: CrossSimpleIcon,
+const IconMap: Record<ETransferAdjustTypes, FNCN<ComponentProps<"svg">>> = {
+    [ETransferAdjustTypes.MINUS]: MinusIcon,
+    [ETransferAdjustTypes.PLUS]: CrossSimpleIcon,
 };
 
 interface IChangerButtonProps extends ExtendedProps {
-    variant: TransferAdjustTypes;
+    variant: ETransferAdjustTypes;
 }
 
 const ChangerButton: FNCN<IChangerButtonProps> = ({
@@ -44,22 +43,20 @@ const ChangerButton: FNCN<IChangerButtonProps> = ({
     return (
         <Button
             {...actions}
-            as="button"
             disabled={disableAdjust === variant}
-            onContextMenu={(e) => e.preventDefault()}
+            onContextMenu={e => e.preventDefault()}
             aria-label={labelMap[variant]}
             className={cn(
                 "text-white p-7 border-white-20 select-none transition-colors duration-300 hover:bg-black-shape",
                 {
                     "border-r rounded-l-lg ":
-                        variant === TransferAdjustTypes.MINUS,
+                        variant === ETransferAdjustTypes.MINUS,
                     "border-l rounded-r-lg":
-                        variant === TransferAdjustTypes.PLUS,
+                        variant === ETransferAdjustTypes.PLUS,
                 },
-                className,
+                className
             )}
-            {...rest}
-        >
+            {...rest}>
             <Icon className="w-8 h-8 opacity-40" />
         </Button>
     );

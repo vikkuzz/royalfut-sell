@@ -4,9 +4,9 @@ import { createContext, useRef, useContext, useEffect } from "react";
 import { useStore } from "zustand";
 import { createCurrencyStore } from "./ccy.store";
 import {
-    useActualPrice,
+    useTransferActualPrice,
     useTransferSelectorStore,
-} from "../funnel/wallet.store";
+} from "../funnel/transfer";
 
 import type { ReactNode } from "react";
 import type { StoreApi } from "zustand";
@@ -22,7 +22,7 @@ export interface ICurrencyStoreProviderProps {
 
 const StoreBridges = () => {
     const setPrice = useTransferSelectorStore.use.setPrice();
-    const { label, price } = useActualPrice();
+    const { label, price } = useTransferActualPrice();
 
     useEffect(() => {
         setPrice(price, label);
@@ -49,13 +49,13 @@ export const CurrencyStoreProvider = ({
 };
 
 export const useCurrencyStore = <T,>(
-    selector: (store: CurrencyStore) => T,
+    selector: (store: CurrencyStore) => T
 ): T => {
     const currencyStoreContext = useContext(CurrencyStoreContext);
 
     if (!currencyStoreContext) {
         throw new Error(
-            `useCurrencyStore must be use within CurrencyStoreProvider`,
+            `useCurrencyStore must be use within CurrencyStoreProvider`
         );
     }
 

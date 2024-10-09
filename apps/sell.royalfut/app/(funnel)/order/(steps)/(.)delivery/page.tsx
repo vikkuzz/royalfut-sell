@@ -1,7 +1,7 @@
-import { OrderTradeInfo } from "@royalfut/collections";
-import { OrderStepIds } from "@royalfut/enums";
 import Image from "next/image";
-import OrderProcessManager from "../../_components/OrderProcessManager";
+import { OrderProcessManager } from "@royalfut/components";
+import { SELLER_OrderProcessingStepsInfo } from "@royalfut/collections";
+import { EOrderProcessingStepIds } from "@royalfut/enums";
 
 import type { Metadata } from "next";
 
@@ -27,11 +27,13 @@ const SummaryAndSell = () => {
         <OrderProcessManager
             title="Sale request submitted"
             steps={{
-                active: OrderStepIds.AWAITING_FOR_DELIVERY,
+                active: EOrderProcessingStepIds.SELLER_AWAITING_FOR_DELIVERY,
                 availableSteps:
-                    OrderTradeInfo[OrderStepIds.AWAITING_FOR_DELIVERY]
-                        .allowSteps,
-            }}>
+                    SELLER_OrderProcessingStepsInfo[
+                        EOrderProcessingStepIds.SELLER_AWAITING_FOR_DELIVERY
+                    ]!.allowSteps,
+            }}
+        >
             <div className="flex flex-col justify-center">
                 <div className="flex flex-col justify-center space-y-4 max-w-[21.4375rem] mx-auto">
                     <div className="relative w-80 h-60">

@@ -19,6 +19,7 @@ const Index = async () => {
         <div className="flex flex-col">
             <TrustScoreBanner
                 className="px-6"
+                cnLink="sm:w-auto"
                 rate={DefaultAppSettings.trustScore.rate}
                 reviews={DefaultAppSettings.trustScore.reviews}
             />
@@ -36,7 +37,8 @@ const Index = async () => {
                         title={{
                             label: "What our clients say",
                             cn: "w-96 text-6xl",
-                        }}>
+                        }}
+                    >
                         <ClientTestimonials.Summary />
                     </ClientTestimonials.Header>
                     <ReviewsGallery />

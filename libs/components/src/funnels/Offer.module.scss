@@ -1,13 +1,13 @@
 .container {
   display: flex;
   flex-direction: column;
-  padding-top: 12px;
+  padding-top: 40px;
   gap: 16px;
   position: relative;
   overflow: hidden;
 
   @media (min-width: 1025px) {
-    padding-top: 28px;
+    padding-top: 40px;
     gap: 32px;
   }
 }
@@ -153,7 +153,7 @@
   display: flex;
   width: 100px;
   height: 58px;
-  background-image: url("/img/Ellipsefee.svg");
+  background-image: url("/image/Ellipsefee.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;

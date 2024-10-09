@@ -312,7 +312,7 @@ export function findClosestObject(array, targetSum) {
 
 export function getDiscount(arr, value) {
     let percentDisc = 1;
-    let result = arr.filter(el => el.limitSumCoins <= value);
+    let result = arr.filter((el) => el.limitSumCoins <= value);
 
     if (result.length > 0) {
         result = result[result.length - 1];
@@ -697,7 +697,7 @@ export function getParams(url) {
     const params = url.split(/[?&]/);
     const paramObj = {};
 
-    params.forEach(param => {
+    params.forEach((param) => {
         const [key, value] = param.split("=");
         paramObj[key] = value?.replace(/[#%].*/g, "");
     });

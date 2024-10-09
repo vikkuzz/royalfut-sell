@@ -21,4 +21,20 @@ export const PopupDialogLocableStatus: Record<
         status: "lock",
         type: "default",
     },
+    [EUIDialogsNames.ROYAL_POINTS]: {
+        status: "unlock",
+        type: "default",
+    },
+    [EUIDialogsNames.SPONSOR_REDIRECT]: {
+        status: "unlock",
+        type: "default",
+    },
+    [EUIDialogsNames.CHOOSE_AVATAR]: {
+        status: "unlock",
+        type: "default",
+    },
+    [EUIDialogsNames.COIN_CALCULATION]: {
+        status: "unlock",
+        type: "default",
+    },
 };

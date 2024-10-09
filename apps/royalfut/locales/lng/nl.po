@@ -419,7 +419,7 @@ msgstr "*relevant per 1 oktober 2023"
 #~ msgstr ""
 
 #~ msgid "a17"
-#~ msgstr "EA FC 25 Ultimate Team Store | EA Sports FC-muntenwinkel"
+#~ msgstr "EA FC 24 Ultimate Team Store | EA Sports FC-muntenwinkel"
 
 #~ msgid "a18"
 #~ msgstr "Je ontvangt"
@@ -654,7 +654,7 @@ msgid "a69"
 msgstr "2. Betaal voor je bestelling."
 
 #~ msgid "a7"
-#~ msgstr "FC 25-munten"
+#~ msgstr "FC 24-munten"
 
 #: components/CustomAccordion/CustomAccordion.js:171
 msgid "a70"
@@ -787,10 +787,10 @@ msgid "aa0_1"
 msgstr "Speciale aanbieding"
 
 #~ msgid "aa1"
-#~ msgstr "EA FC 25-releasepromotie -7%"
+#~ msgstr "EA FC 24-releasepromotie -7%"
 
 #~ msgid "aa10"
-#~ msgstr "Koop EA FC 25-munten voor [[X]]"
+#~ msgstr "Koop EA FC 24-munten voor [[X]]"
 
 #~ msgid "aa11"
 #~ msgstr ""
@@ -811,7 +811,7 @@ msgstr "Heb je een boost nodig? Op ons kun je rekenen!"
 
 #: pages/wl-boost.js:79
 msgid "aa6"
-msgstr "We bieden de volgende diensten: EA FC 25 Ultimate Team Finals Rank Boost, UT Champion Finals, UT Champion Playoffs, Divisions Rivals. Neem nu contact met ons op voor de beste prijs!"
+msgstr "We bieden de volgende diensten: EA FC 24 Ultimate Team Finals Rank Boost, UT Champion Finals, UT Champion Playoffs, Divisions Rivals. Neem nu contact met ons op voor de beste prijs!"
 
 #~ msgid "aa7"
 #~ msgstr "We zijn terug over:"
@@ -820,7 +820,7 @@ msgstr "We bieden de volgende diensten: EA FC 25 Ultimate Team Finals Rank Boost
 #~ msgstr "Bezig met voorbereiden op het nieuwe seizoen"
 
 #~ msgid "aa9"
-#~ msgstr "Koop EA FC 25-munten voor je Ultimate Team-club"
+#~ msgstr "Koop EA FC 24-munten voor je Ultimate Team-club"
 
 #~ msgid "ab0"
 #~ msgstr "Hier zijn wat statistieken* voor de geïnteresseerden:"
@@ -947,34 +947,34 @@ msgid "ab25"
 msgstr "Bestelling in wachtrij"
 
 #~ msgid "ab26"
-#~ msgstr "Koop FC 25-munten voor alle platforms | Ultimate Team-muntenwinkel"
+#~ msgstr "Koop FC 24-munten voor alle platforms | Ultimate Team-muntenwinkel"
 
 #: pages/order/index.js:58
 #: pages/order/index.js:93
 msgid "ab27"
-msgstr "Koop FC 25-munten voor een platform | ROYALFUT"
+msgstr "Koop FC 24-munten voor een platform | ROYALFUT"
 
 #: pages/order/index.js:95
 msgid "ab28"
-msgstr "EA FC 25-muntenaankoop | Veilig betalen | ROYALFUT"
+msgstr "EA FC 24-muntenaankoop | Veilig betalen | ROYALFUT"
 
 #~ msgid "ab29"
-#~ msgstr "Koop FC 25-munten voor PlayStation 4 | ROYALFUT"
+#~ msgstr "Koop FC 24-munten voor PlayStation 4 | ROYALFUT"
 
 #~ msgid "ab3"
 #~ msgstr "100 "
 
 #~ msgid "ab30"
-#~ msgstr "Koop FC 25-munten voor PlayStation 5 | ROYALFUT"
+#~ msgstr "Koop FC 24-munten voor PlayStation 5 | ROYALFUT"
 
 #~ msgid "ab31"
-#~ msgstr "Koop FC 25-munten voor Xbox One | ROYALFUT"
+#~ msgstr "Koop FC 24-munten voor Xbox One | ROYALFUT"
 
 #~ msgid "ab32"
-#~ msgstr "Koop FC 25-munten voor Xbox Series X/S | ROYALFUT"
+#~ msgstr "Koop FC 24-munten voor Xbox Series X/S | ROYALFUT"
 
 #~ msgid "ab33"
-#~ msgstr "Koop FC 25-munten voor pc (Origin / Steam / Epic Games) | ROYALFUT"
+#~ msgstr "Koop FC 24-munten voor pc (Origin / Steam / Epic Games) | ROYALFUT"
 
 #: pages/order/index.js:100
 msgid "ab34"
@@ -1014,7 +1014,7 @@ msgstr "Mijn profiel | ROYALFUT"
 #~ msgstr "Veilig betalen | ROYALFUT"
 
 #~ msgid "ab42"
-#~ msgstr "Koop een FC 25-boost | Hogere rang in Weekend League en Division Rivals"
+#~ msgstr "Koop een FC 24-boost | Hogere rang in Weekend League en Division Rivals"
 
 #~ msgid "ab43"
 #~ msgstr "Info versturen"
@@ -1215,7 +1215,7 @@ msgstr "Hulp nodig? Je kunt altijd contact opnemen met onze klantenservice."
 
 #: components/Offer/Offer.js:82
 msgid "ab91"
-msgstr "Als je geen zin meer hebt om heel hard te werken voor je FC 25-munten hebben we een perfecte en goedkope oplossing voor je! Maak kennis met ROYALFUT.com, de betrouwbaarste EA FC-muntenwinkel, met vele jaren ervaring. Deze uitstekend beoordeelde marktplaats biedt de laagste prijzen voor FIFA 25-munten online met garantie op snelle levering en 100% accountveiligheid. Het kopen van FC-munten bij ROYALFUT is de goedkoopste legale manier om je game nog leuker te maken, zonder het risico van onaangename gevolgen. Bij de gewone aanbiedingen voor Ultimate Team-munten in deze winkel zijn de toch al lage prijzen nog verder verlaagd zodat je in de game goedkoop je slag kunt slaan. De aanbiedingen voor FUT-munten op het ROYALFUT-platform zijn 100% betrouwbaar en onze klantenservice is ook nog eens geweldig. Ze zullen je altijd helpen met welke vragen of problemen je ook komt aankloppen. Je vindt tegenwoordig niet zo makkelijk meer een wettige UT 25-muntenwinkel, maar ROYALFUT.com is er zonder twijfel een. Dit is absoluut de beste plek om Ultimate Team-munten te kopen voor pc, PS4, PS5, Xbox One, Xbox Series X of Xbox Series S, met 100% veilige betalingen en directe levering."
+msgstr "Als je geen zin meer hebt om heel hard te werken voor je FC 24-munten hebben we een perfecte en goedkope oplossing voor je! Maak kennis met ROYALFUT.com, de betrouwbaarste EA FC-muntenwinkel, met vele jaren ervaring. Deze uitstekend beoordeelde marktplaats biedt de laagste prijzen voor FIFA 24-munten online met garantie op snelle levering en 100% accountveiligheid. Het kopen van FC-munten bij ROYALFUT is de goedkoopste legale manier om je game nog leuker te maken, zonder het risico van onaangename gevolgen. Bij de gewone aanbiedingen voor Ultimate Team-munten in deze winkel zijn de toch al lage prijzen nog verder verlaagd zodat je in de game goedkoop je slag kunt slaan. De aanbiedingen voor FUT-munten op het ROYALFUT-platform zijn 100% betrouwbaar en onze klantenservice is ook nog eens geweldig. Ze zullen je altijd helpen met welke vragen of problemen je ook komt aankloppen. Je vindt tegenwoordig niet zo makkelijk meer een wettige UT 24-muntenwinkel, maar ROYALFUT.com is er zonder twijfel een. Dit is absoluut de beste plek om Ultimate Team-munten te kopen voor pc, PS4, PS5, Xbox One, Xbox Series X of Xbox Series S, met 100% veilige betalingen en directe levering."
 
 #: pages/order/index.js:115
 #: pages/order/pc.js:82
@@ -1224,7 +1224,7 @@ msgstr "Als je geen zin meer hebt om heel hard te werken voor je FC 25-munten he
 #: pages/order/xbox_one.js:82
 #: pages/order/xbox_xs.js:82
 msgid "ab92"
-msgstr "Koop FC 25 Ultimate Team-munten"
+msgstr "Koop FC 24 Ultimate Team-munten"
 
 #: components/Order/Steps.js:14
 #: components/Order/Steps.js:56
@@ -1400,11 +1400,11 @@ msgstr "Met deze hoeveelheid kun je elke beschikbare kaart kopen. Maak je droomt
 #: pages/coins/[id].js:177
 #: pages/coins/[id].js:192
 msgid "coins_page18"
-msgstr "[[X]] FC 25 Ultimate Team-munten"
+msgstr "[[X]] FC 24 Ultimate Team-munten"
 
 #: pages/coins/[id].js:201
 msgid "coins_page19"
-msgstr "Koop online EA FC 25-munten van de veiligste leverancier op de markt: de ROYALFUT Store. We zijn al meer dan zeven jaar gespecialiseerd in de verkoop van FIFA Ultimate Team-items. Ons doel is om ervoor te zorgen dat onze klanten kunnen profiteren van de beste deals en veiligste overdracht van FC UT-munten. ROYALFUT biedt een comfortabele en prettige winkelervaring door de gebruiksvriendelijke interface, veilige betalingsmogelijkheden en uitmuntende klantenservice."
+msgstr "Koop online EA FC 24-munten van de veiligste leverancier op de markt: de ROYALFUT Store. We zijn al meer dan zeven jaar gespecialiseerd in de verkoop van FIFA Ultimate Team-items. Ons doel is om ervoor te zorgen dat onze klanten kunnen profiteren van de beste deals en veiligste overdracht van FC UT-munten. ROYALFUT biedt een comfortabele en prettige winkelervaring door de gebruiksvriendelijke interface, veilige betalingsmogelijkheden en uitmuntende klantenservice."
 
 #: components/TableOrders/TableItem.js:409
 msgid "coins_page2"
@@ -1446,7 +1446,7 @@ msgstr "Toegang tot je EA-account"
 
 #: pages/coins/[id].js:266
 msgid "coins_page29"
-msgstr "— als je een gelicentieerde kopie hebt van EA Sports FC 25 voor PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Series X of pc (aangeschaft als fysieke cd of digitaal via de EA-app, Steam of Epic Games Store) heb je geluk, want wat ons systeem nu alleen nog maar van je nodig heeft voor toegang tot je Ultimate Team-club zijn de gegevens van je EA-account, bestaande uit je e-mailadres, wachtwoord en een paar back-upcodes. Maar geen paniek, we slaan je gegevens niet op. Ze worden gewist na voltooiing van elke bestelling."
+msgstr "— als je een gelicentieerde kopie hebt van EA Sports FC 24 voor PlayStation 4, PlayStation 5, Xbox One, Xbox Series S, Xbox Series X of pc (aangeschaft als fysieke cd of digitaal via de EA-app, Steam of Epic Games Store) heb je geluk, want wat ons systeem nu alleen nog maar van je nodig heeft voor toegang tot je Ultimate Team-club zijn de gegevens van je EA-account, bestaande uit je e-mailadres, wachtwoord en een paar back-upcodes. Maar geen paniek, we slaan je gegevens niet op. Ze worden gewist na voltooiing van elke bestelling."
 
 #~ msgid "coins_page3"
 #~ msgstr "Transferkand."
@@ -1576,7 +1576,7 @@ msgstr "Recensies"
 
 #: components/MainFunnel/MainFunnel.js:44
 #~ msgid "home:newh1_2"
-#~ msgstr "FC 25-munten "
+#~ msgstr "FC 24-munten "
 
 #: components/MainFunnel/MainFunnel.js:47
 #~ msgid "home:newh1_3"
@@ -1585,7 +1585,7 @@ msgstr "Recensies"
 #: components/MainFunnel/MainFunnel.js:32
 #: components/MainFunnel/MainFunnel.js:53
 #~ msgid "home:newh1_4"
-#~ msgstr "FC 25-munten te kopen"
+#~ msgstr "FC 24-munten te kopen"
 
 #: components/MainFunnel/MainFunnel.js:33
 msgid "home:title"
@@ -1757,7 +1757,7 @@ msgstr "Deze coupon is volledig gebruikt"
 #~ msgstr "Delivery method:"
 
 #~ msgid "locales.deliverytext"
-#~ msgstr " biedt een uniek EA FC 25-coin systeem. We werken samen met een breed aanbod aan coinleveranciers. Bij het uitvoeren van je bestelling gebruiken handhaven we speciale regels. Zo garanderen we dat jij nooit last hebt van EA-boetes. Je kan een paar van die regels hieronder lezen:"
+#~ msgstr " biedt een uniek EA FC 24-coin systeem. We werken samen met een breed aanbod aan coinleveranciers. Bij het uitvoeren van je bestelling gebruiken handhaven we speciale regels. Zo garanderen we dat jij nooit last hebt van EA-boetes. Je kan een paar van die regels hieronder lezen:"
 
 #~ msgid "locales.deliverytitle"
 #~ msgstr "Rubriek Leveringen"
@@ -1838,16 +1838,16 @@ msgstr "Platform"
 #~ msgstr "Veiligste optie om "
 
 #~ msgid "locales.h1_2"
-#~ msgstr "Koop FC 25 munten"
+#~ msgstr "Koop FC 24 munten"
 
 #~ msgid "locales.h1_coins"
-#~ msgstr "Jouw EA FC 25 Ultimate Team Store"
+#~ msgstr "Jouw EA FC 24 Ultimate Team Store"
 
 #~ msgid "locales.h1_p1"
 #~ msgstr "Je grootste hulp in "
 
 #~ msgid "locales.h1_p2"
-#~ msgstr "EA FC 25 Ultimate Team Store"
+#~ msgstr "EA FC 24 Ultimate Team Store"
 
 #~ msgid "locales.haveCoupon"
 #~ msgstr "Ik heb een kortingsbon"
@@ -1952,7 +1952,7 @@ msgstr "Leveringen"
 #~ msgstr "wij leveren de munten op ieder moment, 24u/24 en 7d/7"
 
 #~ msgid "locales.menuLinkDescDisabled"
-#~ msgstr "Sales of EA FC 25 coins is now closed. <br/>See you in EA FC 25 season  👋"
+#~ msgstr "Sales of EA FC 24 coins is now closed. <br/>See you in EA FC 24 season  👋"
 
 #~ msgid "locales.menulinkfaq"
 #~ msgstr "FAQ"
@@ -2089,7 +2089,7 @@ msgstr "Bestel nu"
 #~ msgstr "Of met crypto"
 
 #~ msgid "locales.p1"
-#~ msgstr "Hierdoor kunnen we de veiligste manier bieden om EA FC 25-munten op internet te kopen."
+#~ msgstr "Hierdoor kunnen we de veiligste manier bieden om EA FC 24-munten op internet te kopen."
 
 #~ msgid "locales.p2"
 #~ msgstr "Volg de instructies die op de website staan, of die je van de manager via de livechat krijgt, om je munten zo snel mogelijk te ontvangen."
@@ -2671,10 +2671,10 @@ msgstr "Zie wachtwoord"
 #~ msgstr "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor Xbox Series X/S kopen met het vertrouwen dat je de beste deal krijgt."
 
 #~ msgid "locales.seo11"
-#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt."
+#~ msgstr "Heb je vragen over het kopen van EA FC 24-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt."
 
 #~ msgid "locales.seo2"
-#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt."
+#~ msgstr "Heb je vragen over het kopen van EA FC 24-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt."
 
 #~ msgid "locales.seo3"
 #~ msgstr "Wij hebben de beste aanbiedingen op FIFA-munten voor PlayStation 5. We bieden goedkope FIFA PS5-munten met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN."
@@ -2683,7 +2683,7 @@ msgstr "Zie wachtwoord"
 #~ msgstr "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor PS5 kopen met het vertrouwen dat je de beste deal krijgt."
 
 #~ msgid "locales.seo5"
-#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt."
+#~ msgstr "Heb je vragen over het kopen van EA FC 24-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt."
 
 #~ msgid "locales.seo6"
 #~ msgstr "Wij hebben de beste aanbiedingen op FIFA-munten voor Xbox One. We bieden goedkope FIFA-munten met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN."
@@ -2692,7 +2692,7 @@ msgstr "Zie wachtwoord"
 #~ msgstr "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor Xbox One kopen met het vertrouwen dat je de beste deal krijgt."
 
 #~ msgid "locales.seo8"
-#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt."
+#~ msgstr "Heb je vragen over het kopen van EA FC 24-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt."
 
 #~ msgid "locales.seo9"
 #~ msgstr "Wij hebben de beste aanbiedingen op FIFA-munten voor Xbox Series X. We bieden goedkope FIFA-munten voor Xbox Series X met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN."
@@ -2722,16 +2722,16 @@ msgstr "Zie wachtwoord"
 #~ msgstr "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor Xbox Series X/S kopen met het vertrouwen dat je de beste deal krijgt."
 
 #~ msgid "locales.seot3_ps4"
-#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt."
+#~ msgstr "Heb je vragen over het kopen van EA FC 24-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt."
 
 #~ msgid "locales.seot3_ps5"
-#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt."
+#~ msgstr "Heb je vragen over het kopen van EA FC 24-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt."
 
 #~ msgid "locales.seot3_xb"
-#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt."
+#~ msgstr "Heb je vragen over het kopen van EA FC 24-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt."
 
 #~ msgid "locales.seot3_xbxs"
-#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt."
+#~ msgstr "Heb je vragen over het kopen van EA FC 24-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt."
 
 #: components/Profile/Profile.js:160
 msgid "locales.settings"
@@ -2789,7 +2789,7 @@ msgstr "Status"
 #~ msgstr "afgesloten"
 
 #~ msgid "locales.status.no_access_to_fifa_21_webapp"
-#~ msgstr "Geen toegang tot EA FC 25 WEB-APP"
+#~ msgstr "Geen toegang tot EA FC 24 WEB-APP"
 
 #~ msgid "locales.status.no_enough_coins_to_start"
 #~ msgstr "NIET GENOEG MUNTEN OM TE STARTEN"
@@ -2831,10 +2831,10 @@ msgstr "Status"
 #~ msgstr "VERKEERDE GEGEVENS"
 
 #~ msgid "locales.sublogo"
-#~ msgstr "EA FC 25 munten"
+#~ msgstr "EA FC 24 munten"
 
 #~ msgid "locales.sublogo2"
-#~ msgstr "EA FC 25-items"
+#~ msgstr "EA FC 24-items"
 
 #~ msgid "locales.succPaid"
 #~ msgstr "Je bestelling is betaald!"
@@ -2927,7 +2927,7 @@ msgstr "Bouw nu aan je droomteam"
 #: components/Carusel/Carusel.js:110
 #: components/Carusel/Carusel.js:140
 msgid "mainblocks1"
-msgstr "Met EA Sports FC 25-munten heb je alle keuze voor elke positie in je team. Laat je verbeelding de vrije loop, probeer nieuwe opties en experimenteer erop los!"
+msgstr "Met EA Sports FC 24-munten heb je alle keuze voor elke positie in je team. Laat je verbeelding de vrije loop, probeer nieuwe opties en experimenteer erop los!"
 
 #: components/Carusel/Carusel.js:87
 #: components/Modal/Modal.js:169
@@ -2950,7 +2950,7 @@ msgstr "Onze sociale media"
 #~ msgstr "Jouw leverancier"
 
 #~ msgid "mainblocks14"
-#~ msgstr "van EA FC 25-"
+#~ msgstr "van EA FC 24-"
 
 #~ msgid "mainblocks15"
 #~ msgstr "munten en services"
@@ -2965,7 +2965,7 @@ msgstr "voor munten en"
 
 #: components/H1/H1.js:16
 msgid "mainblocks18"
-msgstr "services van FC 25"
+msgstr "services van FC 24"
 
 #~ msgid "mainblocks19"
 #~ msgstr "Beste muntenwinkel"
@@ -2976,14 +2976,14 @@ msgid "mainblocks2"
 msgstr "Ontvang alle kaarten die je maar wilt"
 
 #~ msgid "mainblocks20"
-#~ msgstr "voor FC 25"
+#~ msgstr "voor FC 24"
 
 #~ msgid "mainblocks21"
 #~ msgstr "Ultimate Team"
 
 #: components/Offer/Offer.js:29
 msgid "mainblocks22"
-msgstr "FIFA 25-munten"
+msgstr "FIFA 24-munten"
 
 #: components/Offer/Offer.js:32
 msgid "mainblocks23"
@@ -3068,21 +3068,21 @@ msgstr "Meer info        "
 #~ msgstr "Veiligste optie om"
 
 #~ msgid "newh1_2"
-#~ msgstr "FC 25-munten "
+#~ msgstr "FC 24-munten "
 
 #~ msgid "newh1_3"
 #~ msgstr "te kopen"
 
 #: components/MainFunnel/MainFunnel.js:46
 msgid "newh1_4"
-msgstr "FC 25-munten te kopen"
+msgstr "FC 24-munten te kopen"
 
 #: components/Cookie/Cookie.js:52
 msgid "okay"
 msgstr "Oké        "
 
 #~ msgid "orderh1"
-#~ msgstr "Buy FC 25 Ultimate Team coins"
+#~ msgstr "Buy FC 24 Ultimate Team coins"
 
 #~ msgid "orderinfo"
 #~ msgstr "Order info"
@@ -3460,11 +3460,11 @@ msgstr "Bezig met voorbereiden op het nieuwe seizoen"
 #: components/MainContainer.js:602
 #: components/MainContainer.js:608
 msgid "seo:root:description"
-msgstr "Beste winkel voor EA SPORTS FC 25-munten ✔ Koop EA FC 25-munten voor PS4/5, Xbox One/X/S 🎮Snelle bezorging en 24/7 support ⚡ 100% veilige betalingen 🔒 Veilige plek om goedkoop Ultimate Team-munten te kopen 😉"
+msgstr "Beste winkel voor EA SPORTS FC 24-munten ✔ Koop EA FC 24-munten voor PS4/5, Xbox One/X/S 🎮Snelle bezorging en 24/7 support ⚡ 100% veilige betalingen 🔒 Veilige plek om goedkoop Ultimate Team-munten te kopen 😉"
 
 #: pages/_app.js:25
 msgid "seo:root:title"
-msgstr "Koop FC 25-munten voor alle platforms | Ultimate Team-muntenwinkel"
+msgstr "Koop FC 24-munten voor alle platforms | Ultimate Team-muntenwinkel"
 
 #~ msgid "seo0"
 #~ msgstr "Nederlands"
@@ -3505,7 +3505,7 @@ msgstr "Mijn Ultimate Team-muntensaldo is minstens 5000."
 
 #: components/InputChecker/InputChecker.js:110
 msgid "seo106"
-msgstr "Ik ben afgemeld bij Ultimate Team op mijn console en ik gebruikt geen FC 25 Web App / FC Companion App op andere apparaten."
+msgstr "Ik ben afgemeld bij Ultimate Team op mijn console en ik gebruikt geen FC 24 Web App / FC Companion App op andere apparaten."
 
 #: components/InputChecker/InputChecker.js:136
 msgid "seo107"
@@ -3735,7 +3735,7 @@ msgstr "Klik op de onderstaande knop om de handmatige muntenoverdracht te starte
 
 #: components/TableOrders/TableItem.js:377
 msgid "seo163"
-msgstr "Zorg ervoor dat je uitgelogd bent bij Ultimate Team op je console en andere apparaten via FC 25 Web App / FC Companion App totdat de bestelling voltooid is."
+msgstr "Zorg ervoor dat je uitgelogd bent bij Ultimate Team op je console en andere apparaten via FC 24 Web App / FC Companion App totdat de bestelling voltooid is."
 
 #: components/TableOrders/TableItem.js:384
 msgid "seo164"
@@ -3824,11 +3824,11 @@ msgstr "Meld je af van je account zodat we de bezorging kunnen beginnen"
 
 #: components/TableOrders/TableItem.js:438
 msgid "seo181"
-msgstr "Online in FC 25 Web App"
+msgstr "Online in FC 24 Web App"
 
 #: components/TableOrders/TableItem.js:441
 msgid "seo182"
-msgstr "Meld je af van FC 25 Web App / FC Companion App zodat we de bezorging kunnen beginnen"
+msgstr "Meld je af van FC 24 Web App / FC Companion App zodat we de bezorging kunnen beginnen"
 
 #~ msgid "seo183"
 #~ msgstr "Aanmeldverificatie"
@@ -3853,7 +3853,7 @@ msgstr "Zorg dat je aanmeldverificatie hebt ingeschakeld in je EA-accountinstell
 #: components/TableOrders/TableItem.js:314
 #: components/TableOrders/TableItem.js:324
 msgid "seo189"
-msgstr "Geen TM in FC 25 Web App"
+msgstr "Geen TM in FC 24 Web App"
 
 #~ msgid "seo19"
 #~ msgstr "Jarenlange ervaring"
@@ -3861,15 +3861,15 @@ msgstr "Geen TM in FC 25 Web App"
 #: components/TableOrders/TableItem.js:317
 #: components/TableOrders/TableItem.js:327
 msgid "seo190"
-msgstr "Zorg dat je toegang hebt tot de Transfer Market in FC 25 Web App zodat we kunnen beginnen met het verwerken van je bestelling"
+msgstr "Zorg dat je toegang hebt tot de Transfer Market in FC 24 Web App zodat we kunnen beginnen met het verwerken van je bestelling"
 
 #: components/TableOrders/TableItem.js:304
 msgid "seo191"
-msgstr "Geen club in FC 25 Web App"
+msgstr "Geen club in FC 24 Web App"
 
 #: components/TableOrders/TableItem.js:307
 msgid "seo192"
-msgstr "Zorg dat je je club hebt opgezet in FC 25 Web App zodat we kunnen beginnen met het verwerken van je bestelling"
+msgstr "Zorg dat je je club hebt opgezet in FC 24 Web App zodat we kunnen beginnen met het verwerken van je bestelling"
 
 #: components/TableOrders/TableItem.js:294
 msgid "seo193"
@@ -4014,55 +4014,55 @@ msgstr "Meer info"
 #~ msgstr "Hoe werkt de levering?"
 
 #~ msgid "seo232"
-#~ msgstr "EA FC 25 Ultimate Team Store | EA SPORTS FC 25-winkel"
+#~ msgstr "EA FC 24 Ultimate Team Store | EA SPORTS FC 24-winkel"
 
 #~ msgid "seo233"
-#~ msgstr "Beste winkel voor EA SPORTS FC 25-munten ✔ Koop EA FC 25-munten voor PS4/5, Xbox One/X/S 🎮Snelle bezorging en 24/7 support ⚡ 100% veilige betalingen 🔒 Veilige plek om goedkoop Ultimate Team-munten te kopen 😉"
+#~ msgstr "Beste winkel voor EA SPORTS FC 24-munten ✔ Koop EA FC 24-munten voor PS4/5, Xbox One/X/S 🎮Snelle bezorging en 24/7 support ⚡ 100% veilige betalingen 🔒 Veilige plek om goedkoop Ultimate Team-munten te kopen 😉"
 
 #~ msgid "seo234"
-#~ msgstr "Koop goedkope EA FC 25 Ultimate Team-munten online | FUT-munten te koop, lage prijzen"
+#~ msgstr "Koop goedkope EA FC 24 Ultimate Team-munten online | FUT-munten te koop, lage prijzen"
 
 #~ msgid "seo235"
-#~ msgstr "Veiligste plek om EA SPORTS FC 25-munten te kopen ✔ EA FC 25-munten voor PS4/5, Xbox One/X/S 🎮 Snelle levering en 24/7 support ⚡ 100% veilig betalen 🔒 Veilige plek om goedkoop Ultimate Team-munten te halen 😉"
+#~ msgstr "Veiligste plek om EA SPORTS FC 24-munten te kopen ✔ EA FC 24-munten voor PS4/5, Xbox One/X/S 🎮 Snelle levering en 24/7 support ⚡ 100% veilig betalen 🔒 Veilige plek om goedkoop Ultimate Team-munten te halen 😉"
 
 #~ msgid "seo236"
-#~ msgstr "Koop goedkope EA FC 25-munten voor PS4 | EA SPORTS FC 25-munten voor PS4"
+#~ msgstr "Koop goedkope EA FC 24-munten voor PS4 | EA SPORTS FC 24-munten voor PS4"
 
 #~ msgid "seo237"
-#~ msgstr "Veiligste plek om EA SPORTS FC 25-munten te kopen voor PS4 🎮 Haal de beste spelers voor je team om te winnen 🥇 Snelle bezorging en 24/7 support 🔒 Veilige plek om goedkoop Ultimate Team-munten te halen 😉"
+#~ msgstr "Veiligste plek om EA SPORTS FC 24-munten te kopen voor PS4 🎮 Haal de beste spelers voor je team om te winnen 🥇 Snelle bezorging en 24/7 support 🔒 Veilige plek om goedkoop Ultimate Team-munten te halen 😉"
 
 #~ msgid "seo238"
-#~ msgstr "Koop goedkope EA FC 25-munten voor PS5 | EA SPORTS FC 25-munten voor PS5"
+#~ msgstr "Koop goedkope EA FC 24-munten voor PS5 | EA SPORTS FC 24-munten voor PS5"
 
 #~ msgid "seo239"
-#~ msgstr "Veiligste plek om EA SPORTS FC 25-munten te kopen voor PS5 🎮 Haal de beste spelers voor je team om te winnen 🥇 Snelle bezorging en 24/7 support 🔒 Veilige plek om goedkoop Ultimate Team-munten te halen 😉"
+#~ msgstr "Veiligste plek om EA SPORTS FC 24-munten te kopen voor PS5 🎮 Haal de beste spelers voor je team om te winnen 🥇 Snelle bezorging en 24/7 support 🔒 Veilige plek om goedkoop Ultimate Team-munten te halen 😉"
 
 #~ msgid "seo24"
 #~ msgstr "Ons belangrijkste doel is om jou de veiligste optie te bieden om je FUT-clubsaldo op te waarderen. We verbeteren ons algoritme voor het overmaken van munten voortdurend en testen het op duizenden van onze accounts voordat we het goedkeuren en inzetten."
 
 #~ msgid "seo240"
-#~ msgstr "Koop goedkope EA FC 25-munten voor Xbox One | EA SPORTS FC 25-munten voor Xbox One"
+#~ msgstr "Koop goedkope EA FC 24-munten voor Xbox One | EA SPORTS FC 24-munten voor Xbox One"
 
 #~ msgid "seo241"
-#~ msgstr "Veiligste plek om EA SPORTS FC 25-munten te kopen voor Xbox One 🎮 Haal de beste spelers voor je team om te winnen 🥇 Snelle bezorging en 24/7 support 🔒 Veilige plek voor goedkope Ultimate Team-munten 😉"
+#~ msgstr "Veiligste plek om EA SPORTS FC 24-munten te kopen voor Xbox One 🎮 Haal de beste spelers voor je team om te winnen 🥇 Snelle bezorging en 24/7 support 🔒 Veilige plek voor goedkope Ultimate Team-munten 😉"
 
 #~ msgid "seo242"
-#~ msgstr "Koop goedkope EA FC 25-munten voor Xbox | EA SPORTS FC 25-munten voor Xbox Series X/S"
+#~ msgstr "Koop goedkope EA FC 24-munten voor Xbox | EA SPORTS FC 24-munten voor Xbox Series X/S"
 
 #~ msgid "seo243"
-#~ msgstr "Veiligste plek om EA SPORTS FC 25-munten te kopen voor Xbox Series X/S 🎮 Haal de beste spelers voor je team 🥇 Snelle bezorging en 24/7 support 🔒 Veilige plek voor goedkope Ultimate Team-munten 😉"
+#~ msgstr "Veiligste plek om EA SPORTS FC 24-munten te kopen voor Xbox Series X/S 🎮 Haal de beste spelers voor je team 🥇 Snelle bezorging en 24/7 support 🔒 Veilige plek voor goedkope Ultimate Team-munten 😉"
 
 #~ msgid "seo244"
-#~ msgstr "Koop 100K EA FC 25-munten | Prijs 100K FUT-munten"
+#~ msgstr "Koop 100K EA FC 24-munten | Prijs 100K FUT-munten"
 
 #~ msgid "seo245"
-#~ msgstr "Veiligste plek om 100K EA SPORTS FC 25-munten te halen voor je Ultimate Team 🥇 Kies je platform: PS, Xbox of PC 🎮 Snelle bezorging en 24/7 support 🔒 Veiligste plek voor goedkope Ultimate Team-munten 😉"
+#~ msgstr "Veiligste plek om 100K EA SPORTS FC 24-munten te halen voor je Ultimate Team 🥇 Kies je platform: PS, Xbox of PC 🎮 Snelle bezorging en 24/7 support 🔒 Veiligste plek voor goedkope Ultimate Team-munten 😉"
 
 #~ msgid "seo246"
-#~ msgstr "Koop 1 miljoen EA FC 25-munten | Prijs 1000K FUT-munten"
+#~ msgstr "Koop 1 miljoen EA FC 24-munten | Prijs 1000K FUT-munten"
 
 #~ msgid "seo247"
-#~ msgstr "Veiligste plek om 1000K (1 miljoen) EA SPORTS FC 25-munten te halen voor je Ultimate Team 🥇 Platform: PS, Xbox of PC 🎮 Snelle bezorging en 24/7 support 🔒 Veiligste plek voor goedkope Ultimate Team-munten 😉"
+#~ msgstr "Veiligste plek om 1000K (1 miljoen) EA SPORTS FC 24-munten te halen voor je Ultimate Team 🥇 Platform: PS, Xbox of PC 🎮 Snelle bezorging en 24/7 support 🔒 Veiligste plek voor goedkope Ultimate Team-munten 😉"
 
 #~ msgid "seo248"
 #~ msgstr "Wij hebben de beste aanbiedingen op FIFA-munten voor PlayStation 4. We bieden goedkope FIFA PS4-munten met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN."
@@ -4074,7 +4074,7 @@ msgstr "Meer info"
 #~ msgstr "Uitstekende service"
 
 #~ msgid "seo250"
-#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt."
+#~ msgstr "Heb je vragen over het kopen van EA FC 24-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt."
 
 #~ msgid "seo251"
 #~ msgstr "Wij hebben de beste aanbiedingen op FIFA-munten voor PlayStation 5. We bieden goedkope FIFA PS5-munten met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN."
@@ -4083,7 +4083,7 @@ msgstr "Meer info"
 #~ msgstr "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor PS5 kopen met het vertrouwen dat je de beste deal krijgt."
 
 #~ msgid "seo253"
-#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt."
+#~ msgstr "Heb je vragen over het kopen van EA FC 24-munten voor je PlayStation-console? Neem dan contact met ons op hoe je wilt."
 
 #~ msgid "seo254"
 #~ msgstr "Wij hebben de beste aanbiedingen op FIFA-munten voor Xbox One. We bieden goedkope FIFA-munten met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN."
@@ -4092,7 +4092,7 @@ msgstr "Meer info"
 #~ msgstr "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor Xbox One kopen met het vertrouwen dat je de beste deal krijgt."
 
 #~ msgid "seo256"
-#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt."
+#~ msgstr "Heb je vragen over het kopen van EA FC 24-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt."
 
 #~ msgid "seo257"
 #~ msgstr "Wij hebben de beste aanbiedingen op FIFA-munten voor Xbox Series X. We bieden goedkope FIFA-munten voor Xbox Series X met snelle levering en gegarandeerde veiligheid van je account ZONDER KOSTEN."
@@ -4101,7 +4101,7 @@ msgstr "Meer info"
 #~ msgstr "Ons team werkt hard om je de beste prijzen op de markt te geven, dus je kunt bij ons FUT-munten voor Xbox Series X/S kopen met het vertrouwen dat je de beste deal krijgt."
 
 #~ msgid "seo259"
-#~ msgstr "Heb je vragen over het kopen van EA FC 25-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt."
+#~ msgstr "Heb je vragen over het kopen van EA FC 24-munten voor je Xbox-console? Neem dan contact met ons op hoe je wilt."
 
 #~ msgid "seo26"
 #~ msgstr "We waarderen je tijd, daarom zijn we altijd vastbesloten om door te gaan met het verbeteren van aspecten van onze website, zoals de interface en de kwaliteit van onze klantenservice, om ervoor te zorgen dat jouw winkelervaring bij ons zo soepel mogelijk verloopt."
@@ -4179,7 +4179,7 @@ msgstr "Afmelden"
 #~ msgstr "Aanmelden via"
 
 #~ msgid "seo45"
-#~ msgstr "Jouw EA FC 25 Ultimate Team Store"
+#~ msgstr "Jouw EA FC 24 Ultimate Team Store"
 
 #~ msgid "seo46"
 #~ msgstr "Platform"
@@ -4235,7 +4235,7 @@ msgstr "Handmatige bezorgmethode die geen accountgegevens vereist. Je moet de mu
 #~ msgstr "Comfort Trade"
 
 #~ msgid "seo6"
-#~ msgstr "Je grootste hulp in EA FC 25 Ultimate Team Store"
+#~ msgstr "Je grootste hulp in EA FC 24 Ultimate Team Store"
 
 #~ msgid "seo60"
 #~ msgstr "Spelersveiling"
@@ -4424,19 +4424,19 @@ msgid "seom"
 msgstr "m"
 
 #~ msgid "seop22"
-#~ msgstr "In onze winkel vind je de beste deals voor EA FC-munten op elk gameplatform. We bieden goedkope UT 25-munten met razendsnelle levertijden en garanderen de veiligheid van je account ZONDER EXTRA KOSTEN."
+#~ msgstr "In onze winkel vind je de beste deals voor EA FC-munten op elk gameplatform. We bieden goedkope UT 24-munten met razendsnelle levertijden en garanderen de veiligheid van je account ZONDER EXTRA KOSTEN."
 
 #~ msgid "seop23"
-#~ msgstr "Ons team werkt hard om jou de beste prijzen te bieden. Dus als je FIFA 25-munten van ons koopt voor welk platform dan ook, kun je er gerust op zijn dat je ze voor de beste prijs krijgt."
+#~ msgstr "Ons team werkt hard om jou de beste prijzen te bieden. Dus als je FIFA 24-munten van ons koopt voor welk platform dan ook, kun je er gerust op zijn dat je ze voor de beste prijs krijgt."
 
 #~ msgid "seop24"
-#~ msgstr "Als je vragen hebt over het kopen van FC 25-munten voor je console, kun je altijd contact met ons opnemen via een communicatiemethode naar keuze."
+#~ msgstr "Als je vragen hebt over het kopen van FC 24-munten voor je console, kun je altijd contact met ons opnemen via een communicatiemethode naar keuze."
 
 #~ msgid "t"
 #~ msgstr "Over Levering"
 
 #~ msgid "t_t"
-#~ msgstr "De munten worden afgeleverd bij de FC 25-club die aan je EA-account is gekoppeld. Om de munten over te dragen zijn alleen EA-accountgegevens vereist."
+#~ msgstr "De munten worden afgeleverd bij de FC 24-club die aan je EA-account is gekoppeld. Om de munten over te dragen zijn alleen EA-accountgegevens vereist."
 
 #: components/Aside/Aside.js:52
 msgid "trust:commenturl"

@@ -6,7 +6,7 @@ import type { FC } from "react";
 import { useMagicLinkStore } from "@royalfut/store";
 
 const SendCodeAgain: FC<{ onClear: () => void }> = ({ onClear }) => {
-    const t = useTranslations("auth");
+    const t = useTranslations("phoenix_pages.auth");
     const { email } = useMagicLinkStore();
     const [timeLeft, setTimeLeft] = useState(32);
     const [isAvailableSendCode, setisAvailableSendCode] = useState(false);
@@ -15,7 +15,7 @@ const SendCodeAgain: FC<{ onClear: () => void }> = ({ onClear }) => {
     useEffect(() => {
         const timer = setTimeout(() => {
             if (timeLeft > 0) {
-                setTimeLeft((prevTime) => prevTime - 1);
+                setTimeLeft(prevTime => prevTime - 1);
             }
         }, 1000);
 
@@ -71,7 +71,6 @@ const SendCodeAgain: FC<{ onClear: () => void }> = ({ onClear }) => {
     return (
         <div className="w-full p-2 flex-col justify-center items-center space-y-0.5 inline-flex">
             <Button
-                as="button"
                 onClick={onSendAgain}
                 loading={loading}
                 disabled={!isAvailableSendCode}

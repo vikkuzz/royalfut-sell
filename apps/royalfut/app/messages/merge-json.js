@@ -486,20 +486,20 @@ mergeObjects(no1, no2);
 mergeObjects(fr1, fr2);
 
 // Запись объединенных данных в новый файл
-jsonfile.writeFileSync("en.json", en1, { spaces: 2 });
-jsonfile.writeFileSync("ru.json", ru1, { spaces: 2 });
-jsonfile.writeFileSync("de.json", de1, { spaces: 2 });
-jsonfile.writeFileSync("ar.json", ar1, { spaces: 2 });
-jsonfile.writeFileSync("it.json", it1, { spaces: 2 });
-jsonfile.writeFileSync("es.json", es1, { spaces: 2 });
-jsonfile.writeFileSync("pt.json", pt1, { spaces: 2 });
-jsonfile.writeFileSync("tr.json", tr1, { spaces: 2 });
-jsonfile.writeFileSync("pl.json", pl1, { spaces: 2 });
-jsonfile.writeFileSync("zh.json", zh1, { spaces: 2 });
-jsonfile.writeFileSync("sv.json", sv1, { spaces: 2 });
-jsonfile.writeFileSync("nl.json", nl1, { spaces: 2 });
-jsonfile.writeFileSync("no.json", no1, { spaces: 2 });
-jsonfile.writeFileSync("fr.json", fr1, { spaces: 2 });
+jsonfile.writeFileSync('en.json', en1, { spaces: 2 });
+jsonfile.writeFileSync('ru.json', ru1, { spaces: 2 });
+jsonfile.writeFileSync('de.json', de1, { spaces: 2 });
+jsonfile.writeFileSync('ar.json', ar1, { spaces: 2 });
+jsonfile.writeFileSync('it.json', it1, { spaces: 2 });
+jsonfile.writeFileSync('es.json', es1, { spaces: 2 });
+jsonfile.writeFileSync('pt.json', pt1, { spaces: 2 });
+jsonfile.writeFileSync('tr.json', tr1, { spaces: 2 });
+jsonfile.writeFileSync('pl.json', pl1, { spaces: 2 });
+jsonfile.writeFileSync('zh.json', zh1, { spaces: 2 });
+jsonfile.writeFileSync('sv.json', sv1, { spaces: 2 });
+jsonfile.writeFileSync('nl.json', nl1, { spaces: 2 });
+jsonfile.writeFileSync('no.json', no1, { spaces: 2 });
+jsonfile.writeFileSync('fr.json', fr1, { spaces: 2 });
 
 // node merge-json.js
 // open the terminal in this folder, then write 'node merge-json.js' -> you are add new translations from ../../messages

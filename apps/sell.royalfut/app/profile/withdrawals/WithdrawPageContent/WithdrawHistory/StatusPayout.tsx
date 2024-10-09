@@ -43,8 +43,9 @@ const StatusPayout = ({ item }: { item: any }) => {
                 {
                     "bg-[#15BC26] text-white": status.color === "#15BC26",
                     "bg-[#EAB11F] text-black": status.color === "#EAB11F",
-                }
-            )}>
+                },
+            )}
+        >
             {status.text}
             {status.icon && <CheckVIcon className="w-3 h-3 text-white" />}
         </div>

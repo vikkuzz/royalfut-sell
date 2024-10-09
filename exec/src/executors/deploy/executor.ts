@@ -5,7 +5,7 @@ import type { PromiseExecutor } from "@nx/devkit";
 
 const deployExecutor: PromiseExecutor<IDeployExecutorSchema> = async (
     options,
-    context,
+    context
 ) => {
     if (!options.project) {
         throw new Error("Please, provide project name in options!");
@@ -21,15 +21,15 @@ const deployExecutor: PromiseExecutor<IDeployExecutorSchema> = async (
     for await (const s of await runExecutor(
         { project: options.project, target: "build" },
         {},
-        context,
+        context
     )) {
         isSuccessed = s.success;
     }
 
     for await (const s of await runExecutor(
-        { project: options.project, target: "start" },
+        { project: options.project, target: "srun" },
         { port: options.port || 3000 },
-        context,
+        context
     )) {
         isSuccessed = s.success;
     }

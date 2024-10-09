@@ -4,7 +4,7 @@ import { Sheet } from "@royalfut/ui";
 import {
     useUISheetStore,
     useAuthStore,
-    useUIGlobalStore,
+    useProjectGlobalStore,
 } from "@royalfut/store";
 import { MenuBurgerIcon } from "@royalfut/icons";
 import {
@@ -21,7 +21,7 @@ import styles from "./ui/Divider.module.scss";
 
 const MenuDrawerRoot = () => {
     const { isOpen, setOpen } = useUISheetStore();
-    const [headerNav, loyality] = useUIGlobalStore(state => [
+    const [headerNav, loyality] = useProjectGlobalStore(state => [
         state.header.nav,
         state.features.loyality,
     ]);
@@ -32,7 +32,7 @@ const MenuDrawerRoot = () => {
     return (
         <Sheet.Root open={isOpen} onOpenChange={setOpen}>
             {isLoggedIn ? (
-                <div className="flex items-center">
+                <div className="flex items-center no-print">
                     {loyality.isEnabled && (
                         <UserLoyaltyBtnBadge className="hidden sm:flex mr-4" />
                     )}

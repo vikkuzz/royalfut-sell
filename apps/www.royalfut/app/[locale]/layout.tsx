@@ -1,4 +1,10 @@
-import { MediaIndicator, Footer } from "@royalfut/components";
+import {
+    MediaIndicator,
+    Footer,
+    PopupDialog,
+    CookieConsentBanner,
+    SubscriptionManager,
+} from "@royalfut/components";
 import { notFound } from "next/navigation";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, getLocale } from "next-intl/server";
@@ -10,21 +16,24 @@ import {
     getUser,
     localizeGlobalState,
     getBonusLevels,
+    getCookieConsentStatus,
 } from "@royalfut/actions";
 import {
     CurrencyStoreProvider,
     StocksStoreProvider,
-    UIGlobalStoreProvider,
+    ProjectGlobalStoreProvider,
     I18nStoreProvider,
     AuthStoreProvider,
     UserStoreProvider,
     GoogleOAuthProvider,
     UserBonusStoreProvider,
+    RewardsStoreProvider,
 } from "@royalfut/store";
 import { montserrat } from "@royalfut/ui";
 import { WWWGlobalData } from "@royalfut/collections";
 import { EI18nIds } from "@royalfut/enums";
 import { i18nLocales } from "@royalfut/collections";
+import { Brevo, GoogleTagManager } from "./3rdParty.client";
 import clsx from "clsx";
 
 import "@royalfut/styles/css/global.css";
@@ -60,6 +69,7 @@ const RootLayout: FC<
         globalSettings,
         bonusInfo,
         bonusLevels,
+        cookieConsent,
     ] = await Promise.all([
         getMessages(),
         getCurrency(),
@@ -68,6 +78,7 @@ const RootLayout: FC<
         localizeGlobalState(WWWGlobalData),
         getBonusInfo(),
         getBonusLevels(),
+        getCookieConsentStatus(),
     ]);
 
     return (
@@ -82,40 +93,60 @@ const RootLayout: FC<
                 <NextIntlClientProvider
                     locale={params.locale}
                     messages={messages}>
-                    <UIGlobalStoreProvider initial={globalSettings}>
-                        <GoogleOAuthProvider clientId="9475571545-s9o5kb38f48n05uafaopfc49i460f676.apps.googleusercontent.com">
-                            <StocksStoreProvider initial={{ stocks }}>
-                                <AuthStoreProvider
-                                    initial={{ isLoggedIn: !!user }}>
-                                    <UserStoreProvider initial={{ user }}>
-                                        <I18nStoreProvider
-                                            initial={{
-                                                i18n: locale as EI18nIds,
-                                            }}>
+                    <I18nStoreProvider
+                        initial={{
+                            i18n: locale as EI18nIds,
+                        }}>
+                        <ProjectGlobalStoreProvider initial={globalSettings}>
+                            <GoogleOAuthProvider clientId="362649615628-1jnb9dkcp6pd3fh0a81qpfqird23bi08.apps.googleusercontent.com">
+                                <StocksStoreProvider initial={{ stocks }}>
+                                    <AuthStoreProvider
+                                        initial={{ isLoggedIn: !!user }}>
+                                        <UserStoreProvider initial={{ user }}>
                                             <CurrencyStoreProvider
                                                 initial={{ currency }}>
-                                                <UserBonusStoreProvider
+                                                <RewardsStoreProvider
                                                     initial={{
-                                                        info: bonusInfo,
-                                                        levels: bonusLevels,
+                                                        loyalty: {
+                                                            levels:
+                                                                bonusLevels?.levels ??
+                                                                [],
+                                                            levelsByStatus:
+                                                                bonusLevels?.levelsByStatus ??
+                                                                null,
+                                                        },
                                                     }}>
-                                                    <div className="w-full h-full flex-1 pb-10">
-                                                        <Header />
-                                                        <main className="pt-[var(--size-layout-header)]">
-                                                            {children}
-                                                        </main>
-                                                    </div>
-                                                    <Footer />
-                                                </UserBonusStoreProvider>
+                                                    <UserBonusStoreProvider
+                                                        initial={{
+                                                            info: bonusInfo,
+                                                        }}>
+                                                        <div className="w-full h-full flex-1 pb-10">
+                                                            <Header />
+                                                            <main className="pt-[var(--size-layout-header)]">
+                                                                {children}
+                                                            </main>
+                                                            <PopupDialog />
+                                                        </div>
+                                                        <Footer locale={locale} />
+                                                        <SubscriptionManager />
+                                                    </UserBonusStoreProvider>
+                                                </RewardsStoreProvider>
                                             </CurrencyStoreProvider>
-                                        </I18nStoreProvider>
-                                    </UserStoreProvider>
-                                </AuthStoreProvider>
-                            </StocksStoreProvider>
-                        </GoogleOAuthProvider>
-                        <MediaIndicator />
-                    </UIGlobalStoreProvider>
+                                        </UserStoreProvider>
+                                    </AuthStoreProvider>
+                                </StocksStoreProvider>
+                            </GoogleOAuthProvider>
+                            {!cookieConsent && <CookieConsentBanner />}
+                            <MediaIndicator />
+                        </ProjectGlobalStoreProvider>
+                    </I18nStoreProvider>
                 </NextIntlClientProvider>
+                {process.env.NODE_ENV === "production" && (
+                    <>
+                        <GoogleTagManager />
+                        <Brevo />
+                    </>
+                )}
             </body>
         </html>
     );

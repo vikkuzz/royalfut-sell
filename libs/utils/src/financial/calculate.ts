@@ -5,7 +5,11 @@ import {
     TPricePolicy,
     CalculationCredentials,
 } from "@royalfut/collections";
-import { EPlatforms, ECCYIDs, WalletWithdrawMethods } from "@royalfut/enums";
+import {
+    EAppPlatforms,
+    ECCYIDs,
+    EWalletWithdrawMethods,
+} from "@royalfut/enums";
 
 export function calculateSumThreshold(sum: number) {
     const thresholds = [
@@ -51,16 +55,92 @@ export function calculatCoinRange(
     return result.sort((a, b) => a.breakpoint - b.breakpoint);
 }
 
+export const getPriceExchangeRate = (
+    method: EWalletWithdrawMethods,
+    platform: EAppPlatforms,
+    fromCurrency: ECCYIDs,
+    toCurrency: ECCYIDs,
+    stocks?: TPricePolicy | null
+): number => {
+    let priceStocks = stocks;
+
+    if (!priceStocks) {
+        priceStocks = PricePolicy;
+    }
+
+    const stockData = priceStocks[method][platform];
+    if (!stockData || !stockData[fromCurrency] || !stockData[toCurrency])
+        return 1;
+
+    const fromCurrencyRate = stockData[fromCurrency];
+    const toCurrencyRate = stockData[toCurrency];
+
+    return fromCurrencyRate / toCurrencyRate;
+};
+
 export function calculatePrice(
-    method: WalletWithdrawMethods,
-    platform: EPlatforms,
+    method: EWalletWithdrawMethods,
+    platform: EAppPlatforms,
     currency: ECCYIDs,
     coins: number,
-    stocks?: TPricePolicy,
+    stocks?: TPricePolicy
 ) {
-    if (stocks && stocks[method][platform]) {
-        return stocks[method][platform][currency] * coins;
-    } else {
-        return PricePolicy[method][platform][currency] * coins;
+    let priceStocks = stocks;
+
+    if (!priceStocks) {
+        priceStocks = PricePolicy;
     }
+
+    return priceStocks[method][platform][currency] * coins;
+}
+
+export function calculateLoyaltyPoint(
+    price: number,
+    method: EWalletWithdrawMethods,
+    platform: EAppPlatforms,
+    currency: ECCYIDs,
+    cashbackPerc: number,
+    stocks?: TPricePolicy | null
+) {
+    let priceStocks = stocks;
+
+    if (!priceStocks) {
+        priceStocks = PricePolicy;
+    }
+
+    const usdRate = priceStocks[method][platform][ECCYIDs.USD];
+    const actualCcyRate = priceStocks[method][platform][currency];
+
+    const casbhackByCCY = price * (cashbackPerc / 100);
+    const pointsByCCY = casbhackByCCY * 10;
+    const rateCCYByUSD = usdRate / actualCcyRate;
+    const points = pointsByCCY * rateCCYByUSD;
+
+    return {
+        pointsPrice: casbhackByCCY,
+        points,
+    };
+}
+
+export function caclulateLoyaltyPerPoint(
+    method: EWalletWithdrawMethods,
+    platform: EAppPlatforms,
+    currency: ECCYIDs,
+    stocks?: TPricePolicy
+) {
+    let priceStocks = stocks;
+
+    if (!priceStocks) {
+        priceStocks = PricePolicy;
+    }
+
+    const exchangeRate = getPriceExchangeRate(
+        method,
+        platform,
+        currency,
+        ECCYIDs.USD,
+        priceStocks
+    );
+
+    return exchangeRate * 0.1;
 }

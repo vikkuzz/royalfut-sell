@@ -1,4 +1,4 @@
-import { GradientButtonRegular, Button } from "@royalfut/ui";
+import { Link, GradientButton, Button } from "@royalfut/ui";
 import { PROJECT_PUBLIC_SELLER_ROUTES } from "@royalfut/collections";
 
 const TriggerButtons = () => {
@@ -12,17 +12,19 @@ const TriggerButtons = () => {
                     </span>
                 </div>
                 <div className="flex space-y-3 sm:space-y-0 sm:space-x-7 sm:h-16 flex-col sm:flex-row">
-                    <GradientButtonRegular
-                        as="link"
-                        href={PROJECT_PUBLIC_SELLER_ROUTES.ORDER}
-                        className="text-xl font-semibold w-full sm:w-72 h-[4.5rem] sm:h-full rounded-xl">
-                        Sell FC 24 Coins
-                    </GradientButtonRegular>
+                    <GradientButton
+                        asChild
+                        className="text-xl font-semibold w-full sm:w-72 h-[4.5rem] sm:h-full rounded-xl"
+                    >
+                        <Link href={PROJECT_PUBLIC_SELLER_ROUTES.ORDER}>
+                            Sell FC 24 Coins
+                        </Link>
+                    </GradientButton>
                     <Button
-                        as="link"
-                        href="/#how-does-it-work"
-                        className="[--bordered-box-linear-bg-1:#12142A] text-xl rounded-xl transition-all duration-300 font-semibold w-full sm:w-72 h-[4.5rem] sm:h-full border border-transparent bordered-box-linear-accent-1 hover:[--bordered-box-linear-bg-1:#1B1D33]">
-                        How Does It Work?
+                        asChild
+                        className="[--bordered-box-linear-bg-1:#12142A] text-xl rounded-xl transition-all duration-300 font-semibold w-full sm:w-72 h-[4.5rem] sm:h-full border border-transparent bordered-box-linear-accent-1 hover:[--bordered-box-linear-bg-1:#1B1D33]"
+                    >
+                        <Link href="/#how-does-it-work">How Does It Work?</Link>
                     </Button>
                 </div>
             </div>

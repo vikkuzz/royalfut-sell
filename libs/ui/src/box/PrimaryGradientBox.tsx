@@ -22,7 +22,7 @@ const PrimaryGradientBox = forwardRef<
             className,
             ...props
         },
-        externalRef,
+        externalRef
     ) => {
         const Comp = asChild ? Slot : "div";
 
@@ -34,15 +34,14 @@ const PrimaryGradientBox = forwardRef<
                         [styles.hover]: withHover,
                         [styles.shadow]: activeShadow,
                     },
-                    className,
+                    className
                 )}
                 ref={externalRef}
-                {...props}
-            >
+                {...props}>
                 {children}
             </Comp>
         );
-    },
+    }
 );
 
 export default PrimaryGradientBox;

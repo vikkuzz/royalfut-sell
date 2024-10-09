@@ -1,13 +1,18 @@
 import { LayoutViewportSectionFrame } from "@royalfut/ui";
-import { cn } from "@royalfut/utils";
 import { EPaymentMethodsIds } from "@royalfut/enums";
+import { PaymentAvailableList } from "@royalfut/collections";
 import {
     PaymentVisaMonocolorIcon,
     PaymentMastercardRotatedIcon,
     ETHIcon,
     TetherRotatedIcon,
     BTCIcon,
+    ApplePayMonocolorIcon,
+    GooglePayIcon,
+    TinkPayIcon,
+    UnionPayIcon,
 } from "@royalfut/icons";
+import { cn } from "@royalfut/utils";
 
 import type { ComponentProps, FC } from "react";
 
@@ -17,19 +22,10 @@ const iconMap: Record<EPaymentMethodsIds, FC<ComponentProps<"svg">>> = {
     [EPaymentMethodsIds.TETHER_CRYPTO]: TetherRotatedIcon,
     [EPaymentMethodsIds.BITCOIN_CRYPTO]: BTCIcon,
     [EPaymentMethodsIds.ETHEREUM_CRYPTO]: ETHIcon,
-};
-
-const LogoCard: FC<{ payment: EPaymentMethodsIds; imgWrapperCn?: string }> = ({
-    payment,
-    imgWrapperCn,
-}) => {
-    const Icon = iconMap[payment];
-
-    return (
-        <div className="flex flex-1 min-h-0 col-span-1 bg-white-5 min-w-[6.875rem] rounded-2xl py-5 px-5 md:px-16 justify-center items-center">
-            <Icon className={cn("relative h-15 w-15", imgWrapperCn)} />
-        </div>
-    );
+    [EPaymentMethodsIds.UNION_PAY]: UnionPayIcon,
+    [EPaymentMethodsIds.TINK_VISA]: TinkPayIcon,
+    [EPaymentMethodsIds.APPLE_PAY]: ApplePayMonocolorIcon,
+    [EPaymentMethodsIds.GOOGLE_PAY]: GooglePayIcon,
 };
 
 const WithdrawalMethods = () => {
@@ -48,20 +44,33 @@ const WithdrawalMethods = () => {
                     </span>
                 </div>
                 <div className="flex flex-wrap gap-2 md:gap-6 py-6 md:py-10">
-                    <LogoCard
-                        payment={EPaymentMethodsIds.MASTER_CARD}
-                        imgWrapperCn="w-17 h-16 -rotate-12"
-                    />
-                    <LogoCard payment={EPaymentMethodsIds.VISA} />
-                    <LogoCard
-                        payment={EPaymentMethodsIds.BITCOIN_CRYPTO}
-                        imgWrapperCn="w-17 h-16 -rotate-12"
-                    />
-                    <LogoCard
-                        payment={EPaymentMethodsIds.TETHER_CRYPTO}
-                        imgWrapperCn="w-17 h-16 rotate-12"
-                    />
-                    <LogoCard payment={EPaymentMethodsIds.ETHEREUM_CRYPTO} />
+                    {PaymentAvailableList.methods.map((id) => {
+                        const Icon = iconMap[id];
+
+                        return (
+                            <div
+                                key={id}
+                                className="flex flex-1 min-h-0 col-span-1 bg-white-5 min-w-[6.875rem] rounded-2xl py-5 px-5 md:px-16 justify-center items-center"
+                            >
+                                <Icon
+                                    className={cn("relative", {
+                                        "-rotate-12 w-17 h-16":
+                                            id ===
+                                                EPaymentMethodsIds.MASTER_CARD ||
+                                            id ===
+                                                EPaymentMethodsIds.BITCOIN_CRYPTO,
+                                        "rotate-12 w-17 h-16":
+                                            id ===
+                                            EPaymentMethodsIds.TETHER_CRYPTO,
+                                        "h-15 w-15":
+                                            id ===
+                                                EPaymentMethodsIds.ETHEREUM_CRYPTO ||
+                                            id === EPaymentMethodsIds.VISA,
+                                    })}
+                                />
+                            </div>
+                        );
+                    })}
                 </div>
             </section>
         </LayoutViewportSectionFrame>

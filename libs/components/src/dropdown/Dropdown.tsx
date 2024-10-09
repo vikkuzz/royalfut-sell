@@ -10,7 +10,6 @@ import {
 } from "@royalfut/icons";
 import { cn } from "@royalfut/utils";
 import { useCallback, useEffect, useState } from "react";
-
 import { usePathname } from "next/navigation";
 import Image from "next/image";
 import { cnPickerContent } from "../locale/picker/common";
@@ -40,8 +39,8 @@ const Dropdown = () => {
             openDelay={100}
             open={isOpen}
             onOpenChange={onOpenChange}>
-            <HoverCard.Trigger asChild onClick={() => setIsOpen(prev => !prev)}>
-                <button className="flex gap-2 text-base font-semibold items-center bg-white/5 w-fit py-3 px-10 rounded-2xl hover:bg-white-10">
+            <HoverCard.Trigger asChild>
+                <button className="flex gap-2 text-base font-semibold items-center bg-white-5 w-fit py-3 px-10 rounded-2xl hover:bg-white-10">
                     <ShareIcon className="fill-white bg-transparent w-6" />
                     Share
                     <ArrowDownFilledIcon
@@ -77,7 +76,7 @@ const Dropdown = () => {
                         className="flex items-center pl-4 gap-2 rounded-xl hover:bg-white-10 py-2 pr-2">
                         <Image
                             alt="icon twitter"
-                            src={"/img/prime_twitter.svg"}
+                            src={"/image/prime_twitter.svg"}
                             width={24}
                             height={24}
                             className="w-6 h-6"
@@ -97,7 +96,7 @@ const Dropdown = () => {
                         className="relative flex items-center pl-4 gap-2 rounded-xl hover:bg-white-10 py-2 pr-2">
                         <div
                             className={cn(
-                                "absolute hidden transition-all duration-300 bg-white-20 w-full bor border-2 border-white-40 rounded-xl p-2 left-1/2 transform -translate-x-1/2 bottom-[40px] h-[48px]",
+                                "absolute hidden transition-all duration-300 bg-white-20 w-full bor border-2 border-white-40 rounded-xl p-2 left-1/2 transform -translate-x-1/2 bottom-[40px]",
                                 {
                                     flex: isCopied,
                                 }

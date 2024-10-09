@@ -59,13 +59,13 @@ interface IImplicitFlowOptions
         tokenResponse: Omit<
             TokenResponse,
             "error" | "error_description" | "error_uri"
-        >,
+        >
     ) => void;
     onError?: (
         errorResponse: Pick<
             TokenResponse,
             "error" | "error_description" | "error_uri"
-        >,
+        >
     ) => void;
     onNonOAuthError?: (nonOAuthError: NonOAuthError) => void;
     scope?: TokenClientConfig["scope"];
@@ -112,9 +112,8 @@ export const useGoogleLogin = ({
             });
 
             client?.requestAccessToken(overrideConfig);
-            client?.requestAccessToken(overrideConfig);
         },
-        [clientId, scriptInitialized, scope, overrideScope, state, props],
+        [clientId, scriptInitialized, scope, overrideScope, state, props]
     );
 
     const [loadScript] = useLoadGsiScript({

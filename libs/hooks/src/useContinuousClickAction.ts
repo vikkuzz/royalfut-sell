@@ -6,7 +6,7 @@ type ActionCallback = () => void;
 
 export const useContinuousClickAction = (
     callback: ActionCallback,
-    interval = 300,
+    interval = 300
 ): {
     onMouseDown: () => void;
     onMouseUp: () => void;

@@ -79,7 +79,8 @@
 .gradient-illusion-border::after {
   content: "";
   border: var(--border-size) solid transparent;
-  background: linear-gradient(var(--color-illusion-linear-bg-deg, 0deg), var(--color-illusion-linear-bg), var(--color-illusion-linear-bg-2, var(--color-illusion-linear-bg)))
+  background: var(--color-illusion-linear-bg);
+  background: linear-gradient(var(--color-illusion-linear-bg-deg, 0deg), var(--color-illusion-linear-bg) var(--color-illusion-linear-bg-per, 0%), var(--color-illusion-linear-bg-2, var(--color-illusion-linear-bg)))
       padding-box,
     radial-gradient(
         100% 100% at 100% 0%,
@@ -105,4 +106,22 @@
   filter: blur(16px) brightness(1.5);
   z-index: 1;
   background: radial-gradient(circle, rgba(246,192,60,.9) 0%, rgba(246,192,60,0) 100%);
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* ul.checkmark li::before {
+  content: "✓";
+  position: "absolute";
+  left: "-1.5em";
+  color: "var(--tw-prose-counters)";
+  fontWeight: "700";
+} */
+
+.carousel-touch {
+  touch-action: pan-y pinch-zoom;
 }

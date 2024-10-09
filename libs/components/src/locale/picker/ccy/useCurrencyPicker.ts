@@ -15,7 +15,7 @@ interface ICurrencyPickerState {
 }
 
 export const useCurrencyPicker = (): ICurrencyPickerState => {
-    const [id, setCurrency] = useCurrencyStore((state) => [
+    const [id, setCurrency] = useCurrencyStore(state => [
         state.currency,
         state.setCurrency,
     ]);
@@ -27,7 +27,7 @@ export const useCurrencyPicker = (): ICurrencyPickerState => {
     }, []);
 
     const toggleOpen = useCallback(() => {
-        setIsOpen((prev) => !prev);
+        setIsOpen(prev => !prev);
     }, []);
 
     const handleChange = useCallback(
@@ -35,7 +35,7 @@ export const useCurrencyPicker = (): ICurrencyPickerState => {
             setCurrency(currencyId);
             setIsOpen(false);
         },
-        [setCurrency],
+        [setCurrency]
     );
 
     return { id, isOpen, ccy, toggleOpen, handleChange, onOpenChange };

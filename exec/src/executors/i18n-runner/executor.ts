@@ -1,7 +1,7 @@
 import { runExecutor } from "@nx/devkit";
 import { execSync } from "node:child_process";
 import { rm } from "node:fs/promises";
-import { resolve, join } from "node:path";
+import { join, resolve } from "node:path";
 import { i18nAccsParser } from "./parser/i18nAccsParser";
 
 import type { PromiseExecutor } from "@nx/devkit";
@@ -34,7 +34,7 @@ const i18nRunnerExecutor: PromiseExecutor<II18nRunnerExecutorSchema> = async (
     } else if (options.i18nKeys.length === 1) {
         const apiKey = options.i18nKeys[0];
         execSync(
-            `${resolve(join("node_modules", ".bin", "i18nexus"))} pull -k ${apiKey}`,
+            `${resolve(join("node_modules", ".bin", "i18nexus"))} pull -k ${apiKey} -p apps/${options.project}/messages --clean`,
             { stdio: "inherit", encoding: "utf-8" }
         );
     } else {

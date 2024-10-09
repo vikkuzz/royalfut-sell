@@ -1,34 +1,42 @@
 import Image from "next/image";
-import { PROJECT_PUBLIC_SELLER_ROUTES } from "@royalfut/collections";
 import {
     OrderByPlatforms,
     CoinAmountSelector,
     CoinsAmountPanel,
+    PlatformChoice,
 } from "@royalfut/components";
-
-import { LayoutViewportSectionFrame } from "@royalfut/ui";
+import { LayoutViewportSectionFrame, Link } from "@royalfut/ui";
+import {
+    PlatformAppSets,
+    PROJECT_PUBLIC_SELLER_ROUTES,
+} from "@royalfut/collections";
 
 const SellCryptoFunnelCalc = () => {
     return (
         <div className="w-full flex flex-col">
             <div className="flex flex-col w-full">
-                <OrderByPlatforms />
-                <CoinAmountSelector />
+                <OrderByPlatforms title="Select your platform">
+                    <PlatformChoice.Root>
+                        <PlatformChoice.Buttons sets={PlatformAppSets} />
+                    </PlatformChoice.Root>
+                </OrderByPlatforms>
+                <CoinAmountSelector title="Specify the amount of coins for sale" />
                 <CoinsAmountPanel.Root className="mt-6 sm:mt-16 sm:relative">
-                    <CoinsAmountPanel.Info
-                        display={{
-                            ut: { title: "You're about to sell" },
-                            ccy: { title: "For this much" },
-                            loyality: { hide: true },
-                        }}
-                    />
-                    <CoinsAmountPanel.Button
-                        as="link"
-                        scroll={true}
-                        href={
-                            PROJECT_PUBLIC_SELLER_ROUTES.ORDER_ACCOUNT_DETAILS
-                        }>
-                        Start Selling
+                    <CoinsAmountPanel.Info>
+                        <CoinsAmountPanel.InfoGroup>
+                            <CoinsAmountPanel.UT title="You're about to sell" />
+                            <CoinsAmountPanel.CCY title="For this much" />
+                        </CoinsAmountPanel.InfoGroup>
+                    </CoinsAmountPanel.Info>
+                    <CoinsAmountPanel.Button asChild>
+                        <Link
+                            href={
+                                PROJECT_PUBLIC_SELLER_ROUTES.ORDER_ACCOUNT_DETAILS
+                            }
+                            scroll={true}
+                        >
+                            Start Selling
+                        </Link>
                     </CoinsAmountPanel.Button>
                 </CoinsAmountPanel.Root>
             </div>

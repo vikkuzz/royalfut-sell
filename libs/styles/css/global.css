@@ -3,8 +3,18 @@
 @tailwind utilities;
 
 @layer base {
-  @import url("vars.css");
-  @import url("normalize.css");
+    @import url("vars.css");
+    @import url("normalize.css");
+
+    .overflow-unset {
+        overflow: unset !important;
+    }
+
+    @media print {
+        .no-print {
+            display: none !important;
+        }
+    }
 }
 
 @layer components {

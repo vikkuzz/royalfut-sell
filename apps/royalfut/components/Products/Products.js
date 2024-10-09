@@ -37,12 +37,10 @@ const Product = ({
                     <Image
                         className={`${img && styles.cover}`}
                         src={img}
-                        width={800}
+                        width={660}
                         height={240}
                         alt="cover"
                         loading="lazy"
-                        fill
-                        objectFit="cover"
                     />
                 </div>
                 <div

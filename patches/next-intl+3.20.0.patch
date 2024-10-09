@@ -1,0 +1,13 @@
+diff --git a/node_modules/next-intl/package.json b/node_modules/next-intl/package.json
+index b4f9f8f..efddb8c 100644
+--- a/node_modules/next-intl/package.json
++++ b/node_modules/next-intl/package.json
+@@ -53,6 +53,8 @@
+       "react-server": "./dist/esm/navigation.react-server.js",
+       "default": "./dist/navigation.react-client.js"
+     },
++    "./navigation/server-redirect": "./dist/development/navigation/react-server/redirects.js",
++    "./navigation/shared-utils": "./dist/development/shared/utils.js",
+     "./routing": {
+       "types": "./routing.d.ts",
+       "default": "./dist/routing.js"

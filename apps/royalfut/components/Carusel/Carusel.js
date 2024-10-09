@@ -70,8 +70,8 @@ const Slide = ({ slide }) => {
                         type="button"
                         name="buy"
                         onClick={goToOrder}>
-                        {/* {t("headerdropdown.buy_coins")} */}
-                        {t("preorder.buy_coins")}
+                        {/* <Trans>mainblocks10</Trans> */}
+                        {t("headerdropdown.buy_coins")}
                     </Link>
                 </div>
             </div>
@@ -81,7 +81,6 @@ const Slide = ({ slide }) => {
 
 const Carusel = ({ locale }) => {
     const t = useTranslations("mainblocks");
-    const preorder = useTranslations("home.preorder");
     const dataSlides = [
         {
             id: 0,
@@ -93,8 +92,8 @@ const Carusel = ({ locale }) => {
         {
             id: 1,
             url: "/video/2.mp4",
-            title: preorder(`build`),
-            description: preorder(`experiment`),
+            title: t(`mainblocks0`),
+            description: t(`mainblocks1`),
         },
         {
             id: 2,

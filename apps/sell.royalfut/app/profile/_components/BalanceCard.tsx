@@ -11,7 +11,8 @@ const BalanceCard = ({ wallet }: { wallet: any }) => {
     return (
         <PrimaryGradientBox
             withHover={false}
-            className="w-full sm:min-h-[20.9rem] rounded-xl px-7 py-6 flex space-x-4 sm:space-x-0 sm:flex-col justify-between">
+            className="w-full sm:min-h-[20.9rem] rounded-xl px-7 py-6 flex space-x-4 sm:space-x-0 sm:flex-col justify-between"
+        >
             <div className="flex flex-col space-y-8">
                 <div className="flex flex-col space-y-4">
                     <p className="text-white/60 text-base font-medium">
@@ -29,9 +30,9 @@ const BalanceCard = ({ wallet }: { wallet: any }) => {
                 </div>
                 <Button
                     disabled={wallet.balance <= 0}
-                    as="button"
                     onClick={() => setPopup(EUIDialogsNames.WITHDRAW)}
-                    className="flex sm:hidden px-10 py-6 text-primary font-semibold text-base bg-white hover:bg-white-60 rounded-2xl">
+                    className="flex sm:hidden px-10 py-6 text-primary font-semibold text-base bg-white hover:bg-white-60 rounded-2xl"
+                >
                     Withdraw
                 </Button>
             </div>
@@ -60,9 +61,9 @@ const BalanceCard = ({ wallet }: { wallet: any }) => {
                     <div className="flex justify-end">
                         <Button
                             disabled={wallet.balance <= 0}
-                            as="button"
                             onClick={() => setPopup(EUIDialogsNames.WITHDRAW)}
-                            className="hidden sm:flex px-10 py-6 text-primary font-semibold text-base bg-white hover:opacity-90 rounded-2xl">
+                            className="hidden sm:flex px-10 py-5 text-primary font-semibold text-base bg-white hover:opacity-90 rounded-2xl"
+                        >
                             Withdraw
                         </Button>
                     </div>

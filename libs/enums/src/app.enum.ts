@@ -15,3 +15,9 @@ export const enum EAppSocials {
     TIK_TOK = "tiktok",
     TWITCH = "twitch",
 }
+
+export const enum EDynamicURLParams {
+    ORDER_ID = "[order_id]",
+    PLATFORM = "[platform]",
+    COINS_AMOUNT = "[coins]",
+}

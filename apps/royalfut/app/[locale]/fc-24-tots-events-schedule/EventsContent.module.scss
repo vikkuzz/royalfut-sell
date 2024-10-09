@@ -1,0 +1,53 @@
+.container_content {
+    flex-direction: column;
+    gap: 50px;
+    padding-top: 50px;
+
+    @media (min-width: 1025px) {
+        flex-direction: row;
+    }
+}
+
+.h1 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 36px;
+    text-align: center;
+
+    @media (min-width: 1024px) {
+        font-size: 52px;
+        line-height: normal;
+    }
+}
+.main {
+    padding-top: 50px;
+    flex-direction: column;
+}
+.text_container {
+    flex-direction: column;
+    gap: 24px;
+    max-width: 522px;
+}
+.s1 {
+    line-height: 24px;
+}
+.coupon_container {
+    padding-top: 25px;
+
+    @media (min-width: 1025px) {
+        position: sticky;
+        top: 100px;
+    }
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 160px));
+    justify-content: center;
+    row-gap: 50px;
+
+    @media (min-width: 1025px) {
+        gap: 24px;
+        grid-template-columns: 280px 280px;
+        grid-auto-rows: max-content;
+    }
+}

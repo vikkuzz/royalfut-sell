@@ -46,7 +46,7 @@ const Slider: FC<ISliderProps> = ({
                 CoinConverter.calculateCoinsValue(sliderValue);
             onSliderChange(actualCoinValue);
         },
-        [onSliderChange],
+        [onSliderChange]
     );
 
     useEffect(() => {

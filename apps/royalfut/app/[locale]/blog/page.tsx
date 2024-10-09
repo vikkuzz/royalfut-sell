@@ -5,7 +5,6 @@
 import {
     BlogCard,
     H1WithBackImg,
-    HeadPage,
     PaginatorBlog,
     RedirectCard,
     SearchBtn,
@@ -61,7 +60,7 @@ const Index = () => {
         const tagsValues = params.getAll("tag");
 
         if (tagsValues.length === 0) {
-            const updatedTags = tags.map(tag => {
+            const updatedTags = tags.map((tag) => {
                 if (tag.slug === "all") {
                     return { ...tag, active: true };
                 }
@@ -74,7 +73,7 @@ const Index = () => {
             });
             setFilteredPosts(posts);
         } else {
-            const updatedTags = tags.map(tag => {
+            const updatedTags = tags.map((tag) => {
                 for (let i = 0; i < tagsValues.length; i++) {
                     if (tag.slug === tagsValues[i]) {
                         return { ...tag, active: true };
@@ -87,8 +86,8 @@ const Index = () => {
             posts.sort((a, b) => {
                 return new Date(b.date).getTime() - new Date(a.date).getTime();
             });
-            const filteredCards = [...posts].filter(card => {
-                return card.tags.some(tag => tagsValues.includes(tag));
+            const filteredCards = [...posts].filter((card) => {
+                return card.tags.some((tag) => tagsValues.includes(tag));
             });
             setFilteredPosts(filteredCards);
         }
@@ -147,7 +146,7 @@ const Index = () => {
         const currentUrl = new URL(window.location.href);
 
         if (!params.has("tag", id)) {
-            currentUrl.searchParams.set(`tag`, id.toString());
+            currentUrl.searchParams.append(`tag`, id.toString());
             currentUrl.searchParams.set(`page`, "1");
             router.push(currentUrl.toString());
         }
@@ -164,61 +163,46 @@ const Index = () => {
     return (
         <div className="block w-auto h-auto bg-transparent">
             <div className="block w-auto h-auto bg-transparent md:hidden">
-                <HeadPage
+                <H1WithBackImg
                     img={"/img/backH1mobile.png"}
-                    text={"FIFA 25 BLOG"}
-                    bread={true}
-                    positionText={"center"}
-                    imgSize={"cover"}
+                    text={"Блог о спорте, играх и бла бла"}
                 />
             </div>
             <div className="hidden md:flex md:w-full md:h-auto md:opacity-100">
-                <HeadPage
+                <H1WithBackImg
                     img={"/img/backH1desk.png"}
-                    text={"FIFA 25 BLOG"}
-                    positionText={"center"}
-                    imgSize={"cover"}
-                    bread={true}
+                    text={"Блог о спорте, играх и бла бла"}
                 />
             </div>
-
-            <div className="flex flex-col gap-2">
-                <div className="flex flex-col w-auto h-auto bg-transparent gap-4 pt-4">
-                    {/* <div className="block w-auto min-h-[48px]">
-                        <Input
-                            placeholder="Search"
-                            icon={{
-                                // eslint-disable-next-line @typescript-eslint/ban-ts-comment
-                                // @ts-expect-error
-                                "<>": SearchBtn,
-                                props: {
-                                    centered: true,
-                                },
-                            }}
-                            borderType="box"
-                            cnBox="w-full min-h-[48px] relative group inline-flex items-center justify-center z-[1] bg-transparent"
-                            className="block w-full min-h-[48px] text-xs pl-12 pr-4 font-medium bg-[#12142b] border border-white-70 rounded-xl"
-                        />
-                    </div> */}
-                    <div className="w-fit self-center z-[2]">
-                        <Tags action={clickOnTag} tags={currentTags} />
-                    </div>
+            <div className="flex flex-col w-auto h-auto bg-transparent gap-4 md:flex-row-reverse justify-between">
+                <div className="block w-auto min-h-[48px]">
+                    <Input
+                        placeholder="Search"
+                        icon={{
+                            // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+                            // @ts-expect-error
+                            "<>": SearchBtn,
+                            props: {
+                                centered: true,
+                            },
+                        }}
+                        borderType="box"
+                        cnBox="w-full min-h-[48px] relative group inline-flex items-center justify-center z-[1] bg-transparent"
+                        className="block w-full min-h-[48px] text-xs pl-12 pr-4 font-medium bg-[#12142b] border border-white-70 rounded-xl"
+                    />
                 </div>
-                <div className="flex flex-wrap justify-center w-auto gap-4 pt-10">
-                    {slicedPosts?.map((card: ICard) => {
-                        if (card.tags[0] === "redirect") {
-                            return <RedirectCard key={card.slug} card={card} />;
-                        } else {
-                            return (
-                                <BlogCard
-                                    key={card.slug}
-                                    card={card}
-                                    tags={tags}
-                                />
-                            );
-                        }
-                    })}
-                </div>
+                <Tags action={clickOnTag} tags={currentTags} />
+            </div>
+            <div className="flex flex-wrap w-auto gap-4 pt-10">
+                {slicedPosts?.map((card: ICard) => {
+                    if (card.tags[0] === "redirect") {
+                        return <RedirectCard key={card.slug} card={card} />;
+                    } else {
+                        return (
+                            <BlogCard key={card.slug} card={card} tags={tags} />
+                        );
+                    }
+                })}
             </div>
             <div className="flex w-auto justify-center pt-7">
                 {Math.ceil(filteredPosts.length / 10) > 1 && (

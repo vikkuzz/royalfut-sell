@@ -1,14 +1,20 @@
-export function formatCommaNumber(number: number) {
-    if (isNaN(number)) {
+import { isValueNonDefined } from "../is";
+
+export function formatBySymbolNumber(num: number, symbol: string) {
+    if (isValueNonDefined(num)) {
         return "Invalid number";
     }
 
-    let formattedNumber = number.toString();
+    let formattedNumber = num.toString();
     const parts = formattedNumber.split(".");
-    parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, symbol);
     formattedNumber = parts.join(".");
 
     return formattedNumber;
+}
+
+export function formatCommaNumber(num: number) {
+    return formatBySymbolNumber(num, ",");
 }
 
 export function removeCommasFromNumber(formattedNumber: string) {
@@ -28,12 +34,29 @@ export function formatNumberShortView(num: number): string {
 
     return shortNum + suffix;
 }
-export function isNumber(value: number | string): boolean {
-    if (typeof value === "number" && !isNaN(value)) {
-        return true;
+
+export function decodeFormattedShortView(formatted: string): number {
+    const suffixes = ["", "K", "M", "B", "T"];
+    const regex = /^(\d+(\.\d+)?)([KMBT]?)$/; // Match a number with an optional suffix
+    const match = formatted.match(regex);
+
+    if (!match) {
+        throw new Error("Invalid formatted number");
     }
-    if (typeof value === "string" && !isNaN(parseFloat(value))) {
-        return true;
+
+    const [, numStr, , suffix] = match;
+    const num = parseFloat(numStr);
+    const multiplier = Math.pow(1000, suffixes.indexOf(suffix));
+
+    return num * multiplier;
+}
+
+export function isNumber(value: number | string): boolean {
+    if (typeof value === "number") {
+        return !isNaN(value);
+    }
+    if (typeof value === "string") {
+        return !isNaN(parseFloat(value)) && value.trim() !== "";
     }
     return false;
 }

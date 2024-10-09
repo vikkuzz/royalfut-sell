@@ -17,34 +17,31 @@ const PasswordIcons: ComponentType<
 
     const toggleShowPassword: MouseEventHandler<HTMLButtonElement> =
         useCallback(
-            (e) => {
+            e => {
                 e.preventDefault();
-                setShowPassword((prev) => !prev);
+                setShowPassword(prev => !prev);
                 onClick?.(e);
             },
-            [onClick],
+            [onClick]
         );
 
     return (
         <div
             className="w-full h-full pointer-events-none flex justify-between absolute top-0 left-0 z-[1]"
-            {...props}
-        >
+            {...props}>
             <EAMonocolorIcon
                 className={cn(
                     "h-6 w-6 text-white-60 pointer-events-none left-1",
-                    className,
+                    className
                 )}
             />
             <Button
-                as="button"
                 onClick={toggleShowPassword}
                 type="button"
                 className={cn(
                     "w-max h-max pointer-events-[all] right-7",
-                    className,
-                )}
-            >
+                    className
+                )}>
                 <EyeIcon
                     className="w-6 h-6 text-white"
                     view={showPassword ? "lock" : "open"}

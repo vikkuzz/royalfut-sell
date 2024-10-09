@@ -5,8 +5,8 @@ import {
     getAppSettings,
 } from "@royalfut/collections";
 import {
-    WalletWithdrawMethods,
-    EPlatforms,
+    EWalletWithdrawMethods,
+    EAppPlatforms,
     ECCYIDs,
     EProjects,
 } from "@royalfut/enums";
@@ -34,14 +34,14 @@ export async function getStocks(): Promise<TPricePolicy | null> {
 
             const result: TPricePolicy = data.reduce<TPricePolicy>(
                 (acc, item) => {
-                    const platform: EPlatforms =
+                    const platform: EAppPlatforms =
                         // eslint-disable-next-line @typescript-eslint/ban-ts-comment
                         // @ts-expect-error
                         item.platform === "ps4"
-                            ? EPlatforms.PlayStation
+                            ? EAppPlatforms.PlayStation
                             : item.platform;
                     const method =
-                        item.deliveryMethod.toLowerCase() as WalletWithdrawMethods;
+                        item.deliveryMethod.toLowerCase() as EWalletWithdrawMethods;
                     const currency = item.currency.toLowerCase() as ECCYIDs;
 
                     acc[method] = acc[method] || {};
@@ -79,15 +79,15 @@ export async function getStocks(): Promise<TPricePolicy | null> {
             const result: TPricePolicy =
                 data.deliveryMethods.reduce<TPricePolicy>((acc, method) => {
                     const deliveryType =
-                        method.type.toLowerCase() as WalletWithdrawMethods;
+                        method.type.toLowerCase() as EWalletWithdrawMethods;
                     acc[deliveryType] = acc[deliveryType] || {};
 
                     method.data.forEach(platformData => {
-                        const platform: EPlatforms =
+                        const platform: EAppPlatforms =
                             // eslint-disable-next-line @typescript-eslint/ban-ts-comment
                             // @ts-expect-error
                             platformData.platform === "ps4"
-                                ? EPlatforms.PlayStation
+                                ? EAppPlatforms.PlayStation
                                 : platformData.platform;
                         acc[deliveryType][platform] =
                             acc[deliveryType][platform] || {};
@@ -102,7 +102,7 @@ export async function getStocks(): Promise<TPricePolicy | null> {
                     });
 
                     return acc;
-                }, {} as TPricePolicy);    
+                }, {} as TPricePolicy);
 
             return result;
         }

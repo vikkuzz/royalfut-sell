@@ -14,7 +14,7 @@ const initialUISheetStore: IUISheetState = {
     isOpen: false,
 };
 
-export const useUISheetStore = create<UISheetStore>((set) => ({
+export const useUISheetStore = create<UISheetStore>(set => ({
     ...initialUISheetStore,
-    setOpen: (open) => set({ isOpen: open }),
+    setOpen: open => set({ isOpen: open }),
 }));

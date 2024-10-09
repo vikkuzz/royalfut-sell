@@ -12,7 +12,7 @@ const SliderPicker = () => {
         (value: number) => {
             setUTCoin(String(value));
         },
-        [setUTCoin],
+        [setUTCoin]
     );
 
     return <Slider value={sliderValue} onSliderChange={onChange} />;

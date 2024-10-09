@@ -1,6 +1,6 @@
 export function excludeProps<T extends Record<string, any>, K extends keyof T>(
     obj: T,
-    propsToExclude: Array<K>,
+    propsToExclude: Array<K>
 ): Omit<T, K> {
     const result: Partial<T> = {};
 

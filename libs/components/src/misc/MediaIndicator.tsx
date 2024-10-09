@@ -2,7 +2,7 @@ function MediaIndicator() {
     if (process.env.NODE_ENV === "production") return null;
 
     return (
-        <div className="font-body fixed bottom-1 left-1 z-50 flex h-6 w-6 items-center justify-center rounded-full bg-white p-3 text-xs text-black-background">
+        <div className="font-body fixed bottom-1 left-1 z-[99999999] flex h-6 w-6 items-center justify-center rounded-full bg-white p-3 text-xs text-black-background">
             <div className="block xs:hidden">&empty;</div>
             <div className="hidden xs:block sm:hidden">xs</div>
             <div className="hidden sm:block md:hidden lg:hidden xl:hidden 2xl:hidden">

@@ -383,12 +383,10 @@ const CheckoutCoupon = ({ coinsPage }) => {
     };
 
     useEffect(() => {
-        if (localStorage.getItem("promocode")) {
-            setPromocode(
-                JSON.parse(localStorage.getItem("promocode")).promocode
-            );
-        }
-    }, []);
+        if (localStorage.getItem('promocode')) {
+           setPromocode(JSON.parse(localStorage.getItem('promocode')).promocode)
+       } 
+    },[])
     useEffect(() => {
         if (stateOrder?.promoDiscount && stateOrder?.promoCode) {
             setReq({
@@ -400,7 +398,7 @@ const CheckoutCoupon = ({ coinsPage }) => {
     }, [stateOrder]);
     const resetCoupon = async () => {
         setReq({ pending: false, rejected: false, fullfield: false });
-        // localStorage.removeItem("promocode");
+        //localStorage.removeItem("promocode");
 
         let coins = +stateOrderCoins;
         let localMethod = stateMethod.easy ? "Easy" : "Manual";
@@ -422,7 +420,7 @@ const CheckoutCoupon = ({ coinsPage }) => {
             );
 
             currentOrder.labels.length = 1;
-            // setPromocode("");
+            //setPromocode("");
             dispatch(userCreateOrder(currentOrder));
         }
         dispatch(getPromoOrder(null));

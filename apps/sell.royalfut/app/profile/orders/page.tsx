@@ -1,13 +1,17 @@
-import { Paginator } from "@royalfut/components";
+import { Paginator, ProfileNavigationTabs } from "@royalfut/components";
 import OrderList from "../_components/OrderList";
-import Tabs from "../_components/Tabs";
 import { getOrders } from "@royalfut/actions";
+import { API_PROJECT_PRIVATE_SELLER_ROUTES } from "@royalfut/collections";
 
 async function ProfileOrdersPage() {
-    const orders = await getOrders(null, 1);
+    const orders = await getOrders(
+        null,
+        1,
+        API_PROJECT_PRIVATE_SELLER_ROUTES.SELLER_ORDERS,
+    );
     return (
         <div className="flex flex-col gap-8">
-            <Tabs page="orders" />
+            <ProfileNavigationTabs page="orders" />
             {orders && (
                 <>
                     <OrderList orders={orders} />

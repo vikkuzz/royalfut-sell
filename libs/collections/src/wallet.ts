@@ -1,4 +1,8 @@
-import { EPlatforms, EProjects, WalletWithdrawMethods } from "@royalfut/enums";
+import {
+    EAppPlatforms,
+    EProjects,
+    EWalletWithdrawMethods,
+} from "@royalfut/enums";
 
 interface ICalculationCredentials {
     MIN_UT_COINS: number;
@@ -63,7 +67,7 @@ export const CoinRangeCoefficients: TCoinRangeCoefficients = [
 
 export const DefaultWalletSettings = {
     transfer: {
-        platform: EPlatforms.PlayStation,
-        method: WalletWithdrawMethods.EASY,
+        platform: EAppPlatforms.PlayStation,
+        method: EWalletWithdrawMethods.EASY,
     },
 };

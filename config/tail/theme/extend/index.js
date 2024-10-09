@@ -12,9 +12,12 @@ module.exports = {
         4.5: "1.125rem", // 18px
         15: "3.75rem", // 60px
         17: "4.5rem", // 72px
+        7.5: "1.875rem", // 30px
     },
     fontSize: {
         "2.5xl": ["1.75rem", { lineHeight: "2.15rem" }],
+        "3.5xl": ["2rem", { lineHeight: "2.438rem" }],
+        "5.5xl": ["3.25rem", { lineHeight: "1" }],
         "xs-normal": ["0.75rem", { lineHeight: "1.5rem" }],
     },
     minWidth: {
@@ -22,6 +25,7 @@ module.exports = {
     },
     height: {
         layoutHeader: "var(--size-layout-header)",
+        orderAction: "4.125rem", 
     },
     boxShadow: {
         stereo: "0 8px 80px rgba(137,81,242,.4)",
@@ -30,13 +34,22 @@ module.exports = {
         dropdownCurrency: "var(--size-ccy-dropdown-width)",
         dropdownI18n: "var(--size-i18n-dropdown-width)",
         loginSheet: "var(--size-login-sheet)",
+        29: "7.25rem",
     },
     zIndex: {
         header: "var(--z-index-header)",
     },
     backgroundImage: {
+        "loyality-tier-card-bronze": "linear-gradient(330deg, #987047 -8.54%, #bc8142 131.33%)",
+        "loyality-tier-card-silver": "linear-gradient(242deg,#fff 22.69%,#a4a4a4 73.21%)",
+        "loyality-tier-card-gold": "linear-gradient(233deg,#ba8d43 2.77%,#eac681 84.17%)",
+        "loyality-tier-card-inform": "linear-gradient(233deg,#ba7543 43.06%,#eac681 84.17%)",
+        "loyality-tier-card-hero": "linear-gradient(226deg,#620995 14.98%,#ab60d8 67.37%)",
+        "loyality-tier-card-icon": "linear-gradient(138deg,#fff 33.42%,#d8af60 79.37%)",
+        "linear-accent-1": "",
         "linear-primary-stereo": "linear-gradient(265.73deg,rgba(168,45,249,.2), rgba(102,120,233,.2))",
         "linear-primary-simple-pan": "linear-gradient(265.73deg, #A82DF9 0%, #6678E9 100%)",
+        "linear-success-gold": "linear-gradient(233deg,#A82DF9 2.77%,#f8c945 84.17%)",
         "linear-primary-pan": "linear-gradient(266deg, #FB9EE1 2.7%, #A82DF9 37.71%, #6678E9 62.72%, #FB9EE1 90.62%)",
         "gradient-text":
             "linear-gradient(265.72deg, #FB9EE1 2.7%, #A82DF9 37.71%, #6678E9 62.72%, #FB9EE1 90.62%)",

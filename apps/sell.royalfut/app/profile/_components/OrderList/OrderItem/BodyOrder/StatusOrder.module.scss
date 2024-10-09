@@ -1,44 +1,43 @@
 .wrapper_animation {
-    display: flex;
-    gap: 8px;
-    align-items: center;
-    padding: 12px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  padding: 12px;
 }
 .block1 {
-    height: 10px;
-    width: 10px;
-    background: linear-gradient(265.73deg, #a82df9 0%, #6678e9 100%);
-    border-radius: 100%;
-    animation: pulse1 0.75s ease-in-out infinite;
+  height: 10px;
+  width: 10px;
+  background: linear-gradient(265.73deg, #a82df9 0%, #6678e9 100%);
+  border-radius: 100%;
+  animation: pulse1 0.75s ease-in-out infinite;
 }
 .block2 {
-    height: 20px;
-    width: 20px;
-    background: linear-gradient(265.73deg, #a82df9 0%, #6678e9 100%);
-    border-radius: 100%;
-    animation: pulse2 0.75s ease-in-out infinite;
+  height: 20px;
+  width: 20px;
+  background: linear-gradient(265.73deg, #a82df9 0%, #6678e9 100%);
+  border-radius: 100%;
+  animation: pulse2 0.75s ease-in-out infinite;
 }
-
 
 @keyframes pulse1 {
-    from {
-        transform: scale(1);
-    }
-    50% {
-        transform: scale(2);
-    }
-    to {
-        transform: scale(1);
-    }
+  from {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(2);
+  }
+  to {
+    transform: scale(1);
+  }
 }
 @keyframes pulse2 {
-    from {
-        transform: scale(1);
-    }
-    50% {
-        transform: scale(0.5);
-    }
-    to {
-        transform: scale(1);
-    }
+  from {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
 }

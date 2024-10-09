@@ -1,20 +1,20 @@
--   [X] Hover on button `How does it work`.
+-   [x] Hover on button `How does it work`.
         Page: /
         Type: Feature
--   [X] Remove sticky effect on home page actions of Calculation
+-   [x] Remove sticky effect on home page actions of Calculation
         Page: /
         Type: Feature
--   [X] Remove Scroll on mobile
+-   [x] Remove Scroll on mobile
         Page: \*
         Type: Bug
         Test: IOS, Android (After the fix, make sure that Chrome on Windows and on Safari are not damaged)
--   [X] Clear magic link store after sheet is closed
+-   [x] Clear magic link store after sheet is closed
         Page: \*
         Type: Feature
--   [X] Close Menu Sheet after route changing
+-   [x] Close Menu Sheet after route changing
         Page: \*
         Type: Feature
--   [X] Add availabilty to reset mail on step code verification
+-   [x] Add availabilty to reset mail on step code verification
         Page: \*
         Type: Feature
 -   [ ] Handle exception throws on fetch queries
@@ -23,19 +23,19 @@
 -   [ ] Add Toaster
         Page: \*
         Type: Feature
--   [X] Check Send Code Again is work as expected
+-   [x] Check Send Code Again is work as expected
         Page: \*
         Type: Unknown
--   [X] Fix size logout button for statuses loading and general (on loading width is getting smaller)
+-   [x] Fix size logout button for statuses loading and general (on loading width is getting smaller)
         Page: \*
         Type: Bug
--   [X] On mobile (only tested on IOS) when menu sheet is opened, the currency dropdown is automoticaly open, fix it
+-   [x] On mobile (only tested on IOS) when menu sheet is opened, the currency dropdown is automoticaly open, fix it
         Page: \*
         Type: Bug
 -   [ ] Change Intercepting routes to manage via state, issue is when global state is changing (e.g. ccy), layout is reloading
         Page: /order
         Type: Bug
--   [X] Set maximum Backup codes is 7
+-   [x] Set maximum Backup codes is 7
         Page: /order
         Type: Feature
 -   [ ] Fix on Hover show scroll bar for Backup codes

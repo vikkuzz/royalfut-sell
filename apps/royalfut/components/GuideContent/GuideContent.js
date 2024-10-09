@@ -10,9 +10,9 @@ const GuideContent = ({ reviews }) => {
             <div className={`${styles.container}`}>
                 <div className={`${styles.text_content}`}>
                     <p>
-                        In EA FC 25, mastering controller buttons is crucial for
+                        In EA FC 24, mastering controller buttons is crucial for
                         effective defending. In this guide we provide insights
-                        into the best personalized tactics for EA Sports FC 25.
+                        into the best personalized tactics for EA Sports FC 24.
                     </p>
                     <p>
                         Below you can find recommended setups for different

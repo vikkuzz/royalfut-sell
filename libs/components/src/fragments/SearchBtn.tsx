@@ -10,16 +10,13 @@ const SearchBtn: ComponentType<
     return (
         <div
             className="w-full h-full pointer-events-none flex justify-between absolute top-0 left-0 z-[1]"
-            {...props}
-        >
+            {...props}>
             <Button
-                as="button"
                 type="button"
                 className={cn(
                     "w-max h-max pointer-events-[all] left-2",
-                    className,
-                )}
-            >
+                    className
+                )}>
                 <SearchIcon className="w-6 h-6 text-white bg-transparent fill-white" />
             </Button>
         </div>

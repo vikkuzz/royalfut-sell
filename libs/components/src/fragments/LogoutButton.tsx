@@ -11,23 +11,22 @@ import { cn } from "@royalfut/utils";
 import type { FNCN } from "@royalfut/interfaces";
 
 const LogoutButton: FNCN = ({ className }) => {
-    const t = useTranslations("user");
+    const t = useTranslations("ye_user");
     const { loggedOut, logoutListener } = useAuthListener();
     const [isWaiting, setIsWaiting] = useState(false);
     const { performAppClean } = useLogoutCleanup();
 
     return (
         <Button
-            as="button"
-            onClick={async (e) => {
+            onClick={async e => {
                 e.preventDefault();
                 setIsWaiting(true);
                 await deleteLogin();
-                logoutListener();
                 loggedOut(() => {
                     setIsWaiting(false);
                     performAppClean();
                 });
+                logoutListener();
             }}
             loading={isWaiting}
             className={cn(

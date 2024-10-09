@@ -87,8 +87,9 @@ const StatusOrder = ({ status }: { status: string }) => {
                         mapStatus[correctStatus].theme === "red",
                     "bg-[#4285f4] bg-opacity-30":
                         mapStatus[correctStatus].theme === "blue",
-                }
-            )}>
+                },
+            )}
+        >
             <div className="flex w-full justify-between gap-3">
                 <div className="flex flex-col gap-1">
                     <span className="text-xs text-white/75">Status</span>

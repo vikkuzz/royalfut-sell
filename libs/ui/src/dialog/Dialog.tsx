@@ -3,6 +3,7 @@
 import { forwardRef, useCallback } from "react";
 import * as DialogPrimitive from "@radix-ui/react-dialog";
 import { XIcon } from "@royalfut/icons";
+import { CloseButton } from "../buttons";
 import { cn } from "@royalfut/utils";
 
 import type {
@@ -28,9 +29,8 @@ const DialogPortal: FNCN<DialogPrimitive.DialogPortalProps> = ({
         <div
             className={cn(
                 "fixed inset-0 z-50 flex items-start justify-center sm:items-center",
-                className,
-            )}
-        >
+                className
+            )}>
             {children}
         </div>
     </DialogPrimitive.Portal>
@@ -45,7 +45,7 @@ const DialogOverlay = forwardRef<
         ref={ref}
         className={cn(
             "fixed inset-0 z-50 bg-[hsla(var(--color-black-background),80%)] backdrop-blur-sm transition-all duration-1000 data-[state=closed]:animate-out data-[state=open]:animate-in",
-            className,
+            className
         )}
         {...props}
     />
@@ -69,14 +69,14 @@ const DialogContent = forwardRef<
             lockable = { status: "unlock", type: "default" },
             ...props
         },
-        ref,
+        ref
     ) => {
         const onPointerDownOutside = useCallback<
             NonNullable<
                 DialogPrimitive.DialogContentProps["onPointerDownOutside"]
             >
         >(
-            (e) => {
+            e => {
                 if (lockable.status === "lock") {
                     e.preventDefault();
                     e.stopImmediatePropagation();
@@ -84,13 +84,13 @@ const DialogContent = forwardRef<
                 }
                 if (_onPointerDownOutside) _onPointerDownOutside(e);
             },
-            [_onPointerDownOutside, lockable],
+            [_onPointerDownOutside, lockable]
         );
 
         const onEscapeKeyDown = useCallback<
             NonNullable<DialogPrimitive.DialogContentProps["onEscapeKeyDown"]>
         >(
-            (e) => {
+            e => {
                 if (lockable.status === "lock") {
                     e.preventDefault();
                     e.stopPropagation();
@@ -98,7 +98,7 @@ const DialogContent = forwardRef<
                 }
                 if (_onEscapeKeyDown) _onEscapeKeyDown(e);
             },
-            [_onEscapeKeyDown, lockable],
+            [_onEscapeKeyDown, lockable]
         );
 
         return (
@@ -109,24 +109,22 @@ const DialogContent = forwardRef<
                     className={cn(
                         "fixed z-50 grid w-max top-1/2 -translate-y-1/2 gap-4 animate-in data-[state=open]:fade-in-90 zoom-in-90 data-[state=open]:slide-in-from-bottom-0",
                         "focus-visible:outline-none",
-                        className,
+                        className
                     )}
                     onPointerDownOutside={onPointerDownOutside}
                     onEscapeKeyDown={onEscapeKeyDown}
-                    {...props}
-                >
+                    {...props}>
                     {children}
                     {lockable.status === "lock" ||
                     lockable.type === "custom" ? null : (
-                        <DialogClose className="absolute w-8 h-8 bg-white-10 rounded-full flex justify-center items-center right-4 top-4 opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus:outline-none focus:ring-2 focus-withing:outline-none focus:ring-white-20 focus:ring-offset-0 disabled:pointer-events-none data-[state=open]:bg-accent data-[state=open]:text-muted-foreground">
-                            <XIcon className="h-4 w-4 text-white" />
-                            <span className="sr-only">Close</span>
+                        <DialogClose asChild>
+                            <CloseButton view="rounded" />
                         </DialogClose>
                     )}
                 </DialogPrimitive.Content>
             </DialogPortal>
         );
-    },
+    }
 );
 DialogContent.displayName = DialogPrimitive.Content.displayName;
 
@@ -137,7 +135,7 @@ const DialogHeader = ({
     <div
         className={cn(
             "flex flex-col space-y-1.5 text-center sm:text-left",
-            className,
+            className
         )}
         {...props}
     />
@@ -151,7 +149,7 @@ const DialogFooter = ({
     <div
         className={cn(
             "flex flex-col-reverse sm:flex-row sm:justify-end sm:space-x-2",
-            className,
+            className
         )}
         {...props}
     />
@@ -166,7 +164,7 @@ const DialogTitle = forwardRef<
         ref={ref}
         className={cn(
             "text-lg font-semibold leading-none tracking-tight",
-            className,
+            className
         )}
         {...props}
     />

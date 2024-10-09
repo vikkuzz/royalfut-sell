@@ -13,6 +13,7 @@ export const getTrustpilotReviews =
                     Accept: "application/json, text/plain",
                     "Content-Type": "application/json",
                 },
+                cache: "no-cache",
             });
 
             if (res.status >= 400) {

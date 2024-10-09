@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@royalfut/ui";
 import { useTranslations } from "next-intl";
 import { CookieIcon } from "@royalfut/icons";
 import { PROJECT_PUBLIC_ROUTES } from "@royalfut/collections";
