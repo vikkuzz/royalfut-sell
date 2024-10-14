@@ -856,5 +856,232 @@
         }
       }
     }
+  },
+  "greer_pages": {
+    "home": {
+      "header": {
+        "nav": {
+          "5": "Blogue"
+        }
+      }
+    },
+    "order": {
+      "card": {
+        "1": {
+          "button": {
+            "1": {
+              "text": "Saber mais"
+            }
+          }
+        }
+      },
+      "h1": "Compre moedas {fc} Ultimate Team",
+      "h2": {
+        "1": "Informações do pedido",
+        "2": "Confira",
+        "3": "Entrega"
+      },
+      "h5": {
+        "1": "Plataforma",
+        "2": "Quantia",
+        "3": "Método de pagamento",
+        "4": "Moedas",
+        "5": "Subtotal",
+        "6": "Bônus"
+      },
+      "notify": {
+        "1": "Compre mais moedas para desbloquear"
+      },
+      "panel": {
+        "title": {
+          "1": "Preço",
+          "2": "Dinheiro de volta"
+        }
+      },
+      "tab": {
+        "1": "Não use",
+        "2": "Usar"
+      }
+    }
+  },
+  "sage_pages": {
+    "order": {
+      "btn": {
+        "text": {
+          "1": "Pague agora",
+          "2": "Entre para comprar"
+        }
+      },
+      "h5": {
+        "7": "Preço total",
+        "8": "desconto",
+        "9": "Informações de entrega"
+      },
+      "info": {
+        "button": {
+          "text": "Saber mais"
+        },
+        "text": {
+          "1": "Para iniciar o processo de entrega, você precisará enviar os detalhes da sua conta EA. As moedas serão entregues ao clube Ultimate Team associado à sua conta EA.",
+          "2": "Apresentando nosso novíssimo sistema de fidelidade baseado em cashback — ganhe pontos para cada compra que fizer, gaste-os em seus pedidos futuros e alcance novos níveis para desbloquear benefícios adicionais."
+        }
+      },
+      "notify": {
+        "2": "Faça login para receber dinheiro de volta",
+        "3": "Dinheiro de volta para este pedido"
+      },
+      "placeholder": {
+        "1": "Tem um cupom?"
+      }
+    },
+    "points": {
+      "card": {
+        "notify": {
+          "1": "Seu nível"
+        },
+        "title": {
+          "1": "Requisitos",
+          "2": "Benefícios"
+        }
+      },
+      "h4": {
+        "1": "Níveis do programa de fidelidade"
+      },
+      "text": {
+        "1": "Cubra parte do preço do pedido com pontos de cashback recebidos de compras anteriores. Desbloqueie benefícios adicionais com cada novo nível alcançado."
+      }
+    }
+  },
+  "sidney_pages": {
+    "points": {
+      "card": {
+        "content": {
+          "1": "{purchase} compras no site",
+          "2": "{coins} moedas compradas no total",
+          "3": "{cashback} % do cashback recebido de cada compra",
+          "4": "Até {part} % do preço do pedido pode ser pago com Pontos ROYAL"
+        },
+        "header": {
+          "1": "Bronze",
+          "2": "Prata",
+          "3": "Ouro",
+          "4": "Informar",
+          "5": "Herói",
+          "6": "Ícone"
+        }
+      },
+      "descr": "Cubra parte do preço do pedido com pontos de cashback recebidos de compras anteriores. Desbloqueie benefícios adicionais com cada novo nível alcançado.",
+      "h2": {
+        "1": "Seu saldo de pontos ROYAL"
+      },
+      "status": {
+        "title": {
+          "1": "Seu nível de fidelidade atual",
+          "2": "Compre mais moedas para desbloquear este nível",
+          "3": "Faça mais compras para desbloquear o próximo nível",
+          "4": "Faça mais compras e compre mais moedas para desbloquear este nível",
+          "5": "Nível de fidelidade alcançado anteriormente"
+        }
+      }
+    }
+  },
+  "blair_pages": {
+    "points": {
+      "benefits": {
+        "desc": {
+          "1": "de cashback recebido em cada compra",
+          "2": "do preço do pedido pode ser pago com Pontos ROYAL"
+        }
+      },
+      "h5": {
+        "1": "Histórico de pontos ROYAL"
+      },
+      "history": {
+        "filter": {
+          "tab": {
+            "1": "Todos",
+            "2": "Merecido"
+          }
+        }
+      },
+      "status": {
+        "benefits": {
+          "1": "Seus benefícios",
+          "2": "Para obter mais você precisa subir de nível",
+          "3": "Alcance o próximo nível para aumentar",
+          "4": "Valor máximo possível",
+          "5": "Bloqueado"
+        }
+      },
+      "step": {
+        "req": {
+          "1": "Número de compras necessárias para atingir o próximo nível",
+          "2": "Número de compras necessárias para atingir o próximo nível 2",
+          "3": "Número de compras necessárias para atingir o próximo nível 3"
+        }
+      },
+      "text": {
+        "2": "Total de moedas compradas"
+      }
+    },
+    "profile": {
+      "h1": "Seu perfil",
+      "tab": {
+        "1": "Pedidos",
+        "2": "Programa de Fidelidade"
+      }
+    }
+  },
+  "riley_pages": {
+    "auth": {
+      "validation": {
+        "codeIsNotValid": "O código não é válido, tente novamente!"
+      }
+    },
+    "order": {
+      "delivery": {
+        "action": "Ir para pedidos",
+        "failed": {
+          "desc": "Verifique os dados especificados durante o pagamento ou utilize outro método de pagamento",
+          "h1": "Processo de pagamento falhou",
+          "h2": "Ocorreu um erro durante o processo de pagamento"
+        },
+        "success": {
+          "desc": "Você pode acompanhar o status da execução na seção de pedidos",
+          "h1": "Pedido pago com sucesso",
+          "h2": "Seu pedido foi pago com sucesso!"
+        },
+        "time": {
+          "2": "em {time} segundos"
+        }
+      }
+    },
+    "points": {
+      "history": {
+        "date": {
+          "1": "Hoje",
+          "2": "Ontem",
+          "3": "Semana passada",
+          "4": "Mês passado",
+          "5": "Ano passado",
+          "6": "Histórico"
+        },
+        "filter": {
+          "tab": {
+            "3": "Gasto"
+          }
+        },
+        "noorders": "Nenhum pedido para exibir"
+      }
+    }
+  },
+  "peyton_pages": {
+    "order": {
+      "delivery": {
+        "time": {
+          "1": "Redirecionar para os pedidos automaticamente"
+        }
+      }
+    }
   }
 }

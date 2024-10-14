@@ -124,6 +124,7 @@ export const PROJECT_PUBLIC_WWW_ROUTES: Record<string, string> = {
     PRIVACY: `${PUBLIC_URL}privacy-policy`,
     COOKIE_POLICY: `${PUBLIC_URL}cookie-policy`,
     CONTACT: `${PUBLIC_URL}contact`,
+    BLOG: `${PUBLIC_URL}blog`,
 };
 
 export const PROJECT_PUBLIC_SELLER_ROUTES: Record<string, string> = {

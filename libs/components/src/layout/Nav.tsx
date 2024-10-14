@@ -33,7 +33,12 @@ const NavLink: FNCN<Omit<TProjectGlobalNavLink, "type">> = ({
             {label}
             {icon && (
                 <div className="ml-2 group-hover:opacity-60 transition-opacity duration-200">
-                    <Image width={24} alt={label} height={24} src={icon} />
+                    <Image
+                        width={icon.width}
+                        alt={label}
+                        height={24}
+                        src={icon.src}
+                    />
                 </div>
             )}
         </Link>
@@ -145,7 +150,11 @@ export const HeaderNavigationLinks: FNCN = ({ className }) => {
     const links = useProjectGlobalStore(state => state.header.nav);
 
     return (
-        <nav className={cn("flex flex-row space-x-5 space-y-0", className)}>
+        <nav
+            className={cn(
+                "flex flex-row space-x-5 space-y-0 capitalize",
+                className
+            )}>
             {links.map(item => {
                 if (item.type === "link") {
                     return <NavLink key={item.href} {...item} />;

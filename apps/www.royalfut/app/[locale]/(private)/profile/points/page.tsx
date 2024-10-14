@@ -2,8 +2,10 @@ import { PointsHistoryCard } from "@royalfut/components";
 import { getCoinOrderTransactionData } from "@royalfut/actions";
 import { PrimaryGradientBox } from "@royalfut/ui";
 import { LoyaltyRanging, LoyaltyBalanceSummary } from "./ui.client";
+import { getTranslations } from "next-intl/server";
 
 const PointsPage = async () => {
+    const t = await getTranslations("sidney_pages.points");
     const transactionItemsPerPage = 8;
     const transactionOrders = await getCoinOrderTransactionData(
         1,
@@ -17,13 +19,11 @@ const PointsPage = async () => {
                 withHover={false}>
                 <div className="max-w-[20.75rem] flex flex-col gap-4">
                     <h2 className="text-xl font-bold text-white">
-                        Your ROYAL Points Balance
+                        {t("h2.1")}
                     </h2>
                     <LoyaltyBalanceSummary />
                     <p className="font-medium text-sm sm:text-xs text-white">
-                        Cover part of the order price with cashback points
-                        received from previous purchases. Unlock additional
-                        benefits with each new tier reached.
+                        {t("descr")}
                     </p>
                 </div>
             </PrimaryGradientBox>

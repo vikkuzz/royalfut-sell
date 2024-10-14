@@ -1117,5 +1117,232 @@
         }
       }
     }
+  },
+  "greer_pages": {
+    "home": {
+      "header": {
+        "nav": {
+          "5": "Blog"
+        }
+      }
+    },
+    "order": {
+      "card": {
+        "1": {
+          "button": {
+            "1": {
+              "text": "Learn more"
+            }
+          }
+        }
+      },
+      "h1": "Buy {fc} Ultimate Team coins",
+      "h2": {
+        "1": "Order info",
+        "2": "Checkout",
+        "3": "Delivery"
+      },
+      "h5": {
+        "1": "Platform",
+        "2": "Amount",
+        "3": "Payment method",
+        "4": "Coins",
+        "5": "Subtotal",
+        "6": "Bonuses"
+      },
+      "notify": {
+        "1": "Buy more coins to unlock"
+      },
+      "panel": {
+        "title": {
+          "1": "Price",
+          "2": "Cashback"
+        }
+      },
+      "tab": {
+        "1": "Don't use",
+        "2": "Use"
+      }
+    }
+  },
+  "sage_pages": {
+    "order": {
+      "btn": {
+        "text": {
+          "1": "Pay Now",
+          "2": "Sign in to purchase"
+        }
+      },
+      "h5": {
+        "7": "Total price",
+        "8": "discount",
+        "9": "Delivery Information"
+      },
+      "info": {
+        "button": {
+          "text": "Learn more"
+        },
+        "text": {
+          "1": "To launch the delivery process you will need to submit your EA account details. The coins will be delivered to the Ultimate Team club associated with your EA account.",
+          "2": "Introducing our brand new cashback-based loyalty system — earn points for every purchase you make, spend them on your future orders and reach new tiers to unlock additional benefits."
+        }
+      },
+      "notify": {
+        "2": "Log in to get cashback",
+        "3": "Cashback for this order"
+      },
+      "placeholder": {
+        "1": "Have a coupon?"
+      }
+    },
+    "points": {
+      "card": {
+        "notify": {
+          "1": "Your tier"
+        },
+        "title": {
+          "1": "Requirements",
+          "2": "Benefits"
+        }
+      },
+      "h4": {
+        "1": "Loyalty Program Tiers"
+      },
+      "text": {
+        "1": "Cover part of the order price with cashback points received from previous purchases. Unlock additional benefits with each new tier reached."
+      }
+    }
+  },
+  "sidney_pages": {
+    "points": {
+      "card": {
+        "content": {
+          "1": "{purchase} purchases on the website",
+          "2": "{coins} coins bought in total",
+          "3": "{cashback}% of cashback received from every purchase",
+          "4": "Up to {part}% of the order price can be paid with ROYAL Points"
+        },
+        "header": {
+          "1": "Bronze",
+          "2": "Silver",
+          "3": "Gold",
+          "4": "Inform",
+          "5": "Hero",
+          "6": "Icon"
+        }
+      },
+      "descr": "Cover part of the order price with cashback points received from previous purchases. Unlock additional benefits with each new tier reached.",
+      "h2": {
+        "1": "Your ROYAL Points Balance"
+      },
+      "status": {
+        "title": {
+          "1": "Your current loyalty level",
+          "2": "Buy more coins to unlock this tier",
+          "3": "Make more purchases to unlock this next tier",
+          "4": "Make more purchases and buy more coins to unlock this tier",
+          "5": "Previously achieved loyalty level"
+        }
+      }
+    }
+  },
+  "blair_pages": {
+    "points": {
+      "benefits": {
+        "desc": {
+          "1": "of cashback received from every purchase",
+          "2": "of the order price can be paid with ROYAL Points"
+        }
+      },
+      "h5": {
+        "1": "ROYAL Points History"
+      },
+      "history": {
+        "filter": {
+          "tab": {
+            "1": "All",
+            "2": "Earned"
+          }
+        }
+      },
+      "status": {
+        "benefits": {
+          "1": "Your benefits",
+          "2": "To get more you need to level up",
+          "3": "Reach the next tier to increase",
+          "4": "Maximum possible value",
+          "5": "Locked"
+        }
+      },
+      "step": {
+        "req": {
+          "1": "Number of purchases needed to reach the next tier",
+          "2": "Number of purchases needed to reach the next tier 2",
+          "3": "Number of purchases needed to reach the next tier 3"
+        }
+      },
+      "text": {
+        "2": "Total coins bought"
+      }
+    },
+    "profile": {
+      "h1": "Your profile",
+      "tab": {
+        "1": "Orders",
+        "2": "Loyalty Program"
+      }
+    }
+  },
+  "riley_pages": {
+    "auth": {
+      "validation": {
+        "codeIsNotValid": "Code is not valid, try again!"
+      }
+    },
+    "order": {
+      "delivery": {
+        "action": "Go to orders",
+        "failed": {
+          "desc": "Check the data specified during payment or use another payment method",
+          "h1": "Payment Process Failed",
+          "h2": "An error occurred during the payment process"
+        },
+        "success": {
+          "desc": "You can track the status of execution in the orders section",
+          "h1": "Order Paid Successfully",
+          "h2": "Your order has been successfully paid!"
+        },
+        "time": {
+          "2": "in {time} seconds"
+        }
+      }
+    },
+    "points": {
+      "history": {
+        "date": {
+          "1": "Today",
+          "2": "Yesterday",
+          "3": "Last Week",
+          "4": "Last Month",
+          "5": "Last Year",
+          "6": "Historic"
+        },
+        "filter": {
+          "tab": {
+            "3": "Spent"
+          }
+        },
+        "noorders": "No orders to display"
+      }
+    }
+  },
+  "peyton_pages": {
+    "order": {
+      "delivery": {
+        "time": {
+          "1": "Redirect to the orders automatically"
+        }
+      }
+    }
   }
 }

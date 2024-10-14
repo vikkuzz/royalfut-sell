@@ -7,7 +7,7 @@ import { usePopupDialogStore } from "@royalfut/store";
 import { ArrowChevronRightIcon } from "@royalfut/icons";
 import { EUIDialogsNames } from "@royalfut/enums";
 import { useShowPrize } from "./prize.provider";
-import { cn } from "@royalfut/utils";
+import { analitic, cn } from "@royalfut/utils";
 
 import type { FC, ComponentPropsWithoutRef } from "react";
 
@@ -22,7 +22,7 @@ export const CoinsAmountPanelAction: FC<
     return (
         <CoinsAmountPanel.Button
             asChild
-            // onClick={onClick}
+            onClick={analitic.clickMainBuyCoins}
             className={cn("group items-center space-x-2", className)}
             {...props}>
             <Link href={href} scroll={true}>

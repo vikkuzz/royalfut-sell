@@ -16,13 +16,14 @@ import {
 import { GradientButton, Input } from "@royalfut/ui";
 import { GoogleLogoIcon } from "@royalfut/icons";
 import { useAuthListener, useGoogleLogin } from "@royalfut/hooks";
-import { cn } from "@royalfut/utils";
+import { analitic, cn } from "@royalfut/utils";
 import { DividerMenu } from "./Divider";
 
 import styles from "./Divider.module.scss";
 import { setToken } from "@royalfut/actions";
 import { UserProfileAvatars } from "@royalfut/collections";
 import { IAPI } from "@royalfut/interfaces";
+import { usePathname } from "next/navigation";
 
 const profileFormSchema = z.object({
     email: ZEmailValidation,
@@ -127,6 +128,7 @@ const Form = () => {
 
 const AuthViaMagicLink = () => {
     const t = useTranslations("phoenix_pages.auth");
+    const pathname = usePathname();
     const setIsLogged = useAuthStore(state => state.setIsLogged);
     const setUser = useUserStore(store => store.setUser);
     const { loginListener } = useAuthListener();
@@ -135,7 +137,7 @@ const AuthViaMagicLink = () => {
         console.log("Error");
     };
 
-    const onComplete = async (code: string) => {
+    const onComplete = async (code: string, loginFrom?: string) => {
         try {
             const res = await fetch("https://test-royalfut.com/api/user", {
                 method: "GET",
@@ -157,11 +159,22 @@ const AuthViaMagicLink = () => {
                     ] ?? UserProfileAvatars[1],
                 email: body.user.email,
                 username: body.user.username,
+                isNewUser: body.user.isNewUser,
             };
             setIsLogged(true);
             setOpen(false);
             setUser(profile);
             loginListener(profile);
+            if (pathname === "/order/checkout") {
+                analitic.clickAuthInOrderPage();
+            }
+            if (profile.isNewUser) {
+                analitic.signUp(profile.email);
+            } else if (!loginFrom) {
+                analitic.signIn(profile.email, "email");
+            } else if (loginFrom) {
+                analitic.signIn(profile.email, loginFrom);
+            }
             return true;
         } catch (e) {
             console.log(e);
@@ -169,7 +182,7 @@ const AuthViaMagicLink = () => {
         }
     };
 
-    async function authToken(url: RequestInfo | URL) {
+    async function authToken(url: RequestInfo | URL, loginFrom?: string) {
         try {
             const result = await fetch(url, {
                 method: "GET",
@@ -185,7 +198,7 @@ const AuthViaMagicLink = () => {
                     return;
                 }
             } else {
-                onComplete(res.user.token);
+                onComplete(res.user.token, loginFrom);
             }
         } catch (e) {
             console.log(e);
@@ -206,7 +219,8 @@ const AuthViaMagicLink = () => {
         const urlForLoginCode = "".concat(url, "/api/user/login/code");
 
         authToken(
-            `${urlForLoginCode}/GoogleOAuth?access_token=${response.access_token}`
+            `${urlForLoginCode}/GoogleOAuth?access_token=${response.access_token}`,
+            "google"
         );
     }
 

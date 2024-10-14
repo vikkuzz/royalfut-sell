@@ -28,7 +28,7 @@ const AnimatedHeadingSection: FNCN<IAnimatedHeadingSectionProps> = ({
             dir={dir}>
             <TagH1
                 className={cn(
-                    "text-center w-max uppercase font-extrabold italic text-white tracking-normal",
+                    "text-center md:text-left w-max max-w-full uppercase font-extrabold italic text-white tracking-normal",
                     {
                         "text-3xl xs:text-4xl sm:text-6xl": isPrimary,
                         "text-2xl sm:text-3xl ": !isPrimary,

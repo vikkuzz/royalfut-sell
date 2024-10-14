@@ -40,6 +40,7 @@ import type {
 } from "@royalfut/interfaces";
 import type { EmblaCarouselType } from "embla-carousel";
 import type { EmblaViewportRefType } from "embla-carousel-react";
+import { useTranslations } from "next-intl";
 
 const enum ETierCompletionStatus {
     SUFFICIENTLY_PURCHASES_SUFFICIENTLY_COINS,
@@ -59,14 +60,14 @@ const enum EBenefitStatusIds {
 
 const tierStatusTitleMap: Record<ETierCompletionStatus, string> = {
     [ETierCompletionStatus.SUFFICIENTLY_PURCHASES_SUFFICIENTLY_COINS]:
-        "Your current loyalty level",
+        "status.title.1",
     [ETierCompletionStatus.SUFFICIENTLY_PURCHASES_INSUFFICIENTLY_COINS]:
-        "Buy more coins to unlock this tier",
+        "status.title.2",
     [ETierCompletionStatus.SUFFICIENTLY_MONEY_INSUFFICIENTLY_PURCHASES]:
-        "Make more purchases to unlock this next tier",
+        "status.title.3",
     [ETierCompletionStatus.INSUFFICIENTLY_MONEY_INSUFFICIENTLY_PURCHASES]:
-        "Make more purchases and buy more coins to unlock this tier",
-    [ETierCompletionStatus.PASSED_TIER]: "Previously achieved loyalty level",
+        "status.title.4",
+    [ETierCompletionStatus.PASSED_TIER]: "status.title.5",
 };
 
 const tierStatusIconMap: Record<ETierCompletionStatus, FCIcon | null> = {
@@ -82,11 +83,11 @@ const tierStatusIconMap: Record<ETierCompletionStatus, FCIcon | null> = {
 };
 
 const benefitStatusTitleMap: Record<EBenefitStatusIds, string> = {
-    [EBenefitStatusIds.ACTUAL]: "Your benefits",
-    [EBenefitStatusIds.LEVEL_UP]: "To get more you need to level up",
-    [EBenefitStatusIds.INCREASE]: "Reach the next tier to increase",
-    [EBenefitStatusIds.MAX]: "Maximum possible value",
-    [EBenefitStatusIds.LOCKED]: "Locked",
+    [EBenefitStatusIds.ACTUAL]: "status.benefits.1",
+    [EBenefitStatusIds.LEVEL_UP]: "status.benefits.2",
+    [EBenefitStatusIds.INCREASE]: "status.benefits.3",
+    [EBenefitStatusIds.MAX]: "status.benefits.4",
+    [EBenefitStatusIds.LOCKED]: "status.benefits.5",
 };
 
 const benefitStatusIconMap: Record<EBenefitStatusIds, FCIcon | null> = {
@@ -109,71 +110,71 @@ const sequenceReachingNextRank: Record<
     [ELoyaltyProgrammaAchievementIDs.BRONZE]: [
         {
             step: 1,
-            label: "Number of purchases needed to reach the next tier",
+            label: "step.req.1",
         },
         {
             step: 2,
-            label: "Number of purchases needed to reach the next tier 2",
+            label: "step.req.2",
         },
     ],
     [ELoyaltyProgrammaAchievementIDs.SILVER]: [
         {
             step: 1,
-            label: "Number of purchases needed to reach the next tier",
+            label: "step.req.1",
         },
         {
             step: 2,
-            label: "Number of purchases needed to reach the next tier 2",
+            label: "step.req.2",
         },
     ],
     [ELoyaltyProgrammaAchievementIDs.GOLD]: [
         {
             step: 1,
-            label: "Number of purchases needed to reach the next tier",
+            label: "step.req.1",
         },
         {
             step: 2,
-            label: "Number of purchases needed to reach the next tier 2",
+            label: "step.req.2",
         },
         {
             step: 3,
-            label: "Number of purchases needed to reach the next tier 3",
+            label: "step.req.3",
         },
     ],
     [ELoyaltyProgrammaAchievementIDs.INFORM]: [
         {
             step: 1,
-            label: "Number of purchases needed to reach the next tier",
+            label: "step.req.1",
         },
         {
             step: 2,
-            label: "Number of purchases needed to reach the next tier",
+            label: "step.req.1",
         },
         {
             step: 3,
-            label: "Number of purchases needed to reach the next tier",
+            label: "step.req.1",
         },
         {
             step: 4,
-            label: "Number of purchases needed to reach the next tier",
+            label: "step.req.1",
         },
     ],
     [ELoyaltyProgrammaAchievementIDs.HERO]: [
         {
             step: 1,
-            label: "Number of purchases needed to reach the next tier",
+            label: "step.req.1",
         },
         {
             step: 2,
-            label: "Number of purchases needed to reach the next tier",
+            label: "step.req.1",
         },
         {
             step: 3,
-            label: "Number of purchases needed to reach the next tier",
+            label: "step.req.1",
         },
         {
             step: 4,
-            label: "Number of purchases needed to reach the next tier",
+            label: "step.req.1",
         },
     ],
     [ELoyaltyProgrammaAchievementIDs.ICON]: [],
@@ -282,6 +283,7 @@ const Title: FNCN<{ id: ELoyaltyProgrammaAchievementIDs }> = ({
     id,
     className,
 }) => {
+    const t = useTranslations("sidney_pages.points");
     const title = loyaltyTierTitleMap[id];
 
     return (
@@ -304,7 +306,7 @@ const Title: FNCN<{ id: ELoyaltyProgrammaAchievementIDs }> = ({
                 },
                 className
             )}>
-            {title}
+            {t(`${title}`)}
         </h5>
     );
 };
@@ -324,10 +326,11 @@ const StatusBar: FC<{ title: string; icon: FCIcon | null }> = ({
 };
 
 const IndicatorStatus: FC<{ status: ETierCompletionStatus }> = ({ status }) => {
+    const t = useTranslations("sidney_pages.points");
     const title = tierStatusTitleMap[status];
     const Icon = tierStatusIconMap[status];
 
-    return <StatusBar title={title} icon={Icon} />;
+    return <StatusBar title={t(`${title}`)} icon={Icon} />;
 };
 
 const Header = () => {
@@ -354,10 +357,11 @@ const Header = () => {
 };
 
 const BenefitStatus: FC<{ status: EBenefitStatusIds }> = ({ status }) => {
+    const t = useTranslations("blair_pages.points");
     const title = benefitStatusTitleMap[status];
     const Icon = benefitStatusIconMap[status];
 
-    return <StatusBar title={title} icon={Icon} />;
+    return <StatusBar title={t(`${title}`)} icon={Icon} />;
 };
 
 const BenefitPerc: FNCN<{ perc: number; showBonusIcon?: boolean }> = ({
@@ -406,6 +410,7 @@ const Benefit: FC<
 };
 
 const Benefits = () => {
+    const t = useTranslations("blair_pages.points");
     const { selectedTierId, isPassedSelectedTierId, levels } = useTierContext();
     const data = levels[selectedTierId].benefits;
 
@@ -414,7 +419,7 @@ const Benefits = () => {
     return (
         <Viewport className="flex gap-3 flex-col sm:flex-row mt-8">
             <Benefit
-                desc="of cashback received from every purchase"
+                desc={t("benefits.desc.1")}
                 perc={data.cashbackPerc}
                 showBonusIcon
                 status={
@@ -422,7 +427,7 @@ const Benefits = () => {
                 }
             />
             <Benefit
-                desc="of the order price can be paid with ROYAL Points"
+                desc={t("benefits.desc.2")}
                 perc={data.bonusPartPerc}
                 status={
                     locked
@@ -468,6 +473,7 @@ const ProgressBar = () => {
 };
 
 const Balance = () => {
+    const t = useTranslations("blair_pages.points");
     const { selectedTierId, boughtCoins, levels } = useTierContext();
     const nextAchievemntId = levels[selectedTierId].nextLevelId;
     const limit = nextAchievemntId
@@ -477,7 +483,7 @@ const Balance = () => {
     return (
         <div className="center flex-col gap-2 mt-2">
             <span className="font-medium text-sm md:text-xs text-white-40 text-center">
-                Total coins bought
+                {t("text.2")}
             </span>
             <div className="flex flex-col text-center">
                 <p className="font-bold text-5.5xl text-white">
@@ -605,6 +611,7 @@ const NextRankMilestoneConnector: FC<{
     id: ELoyaltyProgrammaAchievementIDs;
     data: Array<IReachingNextRankEntities>;
 }> = ({ id, data }) => {
+    const t = useTranslations("blair_pages.points");
     const { boughtCoins, levels } = useTierContext();
     const isPassedTierId = useMemo(() => {
         const nextAchievemntId = levels[id].nextLevelId;
@@ -633,7 +640,7 @@ const NextRankMilestoneConnector: FC<{
 
     return (
         <RankTierConnector
-            label={entity?.label ?? undefined}
+            label={entity?.label ? t(`${entity.label}`) : undefined}
             style={
                 {
                     "--connector-riched": css.riched,

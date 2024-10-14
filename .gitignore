@@ -53,3 +53,6 @@ Thumbs.db
 .vercel
 
 .env.local
+
+apps/sell.royalfut/messages
+apps/www.royalfut/messages

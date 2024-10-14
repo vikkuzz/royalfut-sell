@@ -856,5 +856,232 @@
         }
       }
     }
+  },
+  "greer_pages": {
+    "home": {
+      "header": {
+        "nav": {
+          "5": "Blog"
+        }
+      }
+    },
+    "order": {
+      "card": {
+        "1": {
+          "button": {
+            "1": {
+              "text": "Meer informatie"
+            }
+          }
+        }
+      },
+      "h1": "Koop {fc} Ultimate Team-munten",
+      "h2": {
+        "1": "Bestel informatie",
+        "2": "Uitchecken",
+        "3": "Levering"
+      },
+      "h5": {
+        "1": "Platform",
+        "2": "Hoeveelheid",
+        "3": "Betaalmethode",
+        "4": "Munten",
+        "5": "Subtotaal",
+        "6": "Bonussen"
+      },
+      "notify": {
+        "1": "Koop meer munten om te ontgrendelen"
+      },
+      "panel": {
+        "title": {
+          "1": "Prijs",
+          "2": "Geld terug"
+        }
+      },
+      "tab": {
+        "1": "Niet gebruiken",
+        "2": "Gebruik"
+      }
+    }
+  },
+  "sage_pages": {
+    "order": {
+      "btn": {
+        "text": {
+          "1": "Betaal nu",
+          "2": "Meld u aan om te kopen"
+        }
+      },
+      "h5": {
+        "7": "Totale prijs",
+        "8": "korting",
+        "9": "Bezorginformatie"
+      },
+      "info": {
+        "button": {
+          "text": "Meer informatie"
+        },
+        "text": {
+          "1": "Om het leveringsproces te starten, moet u uw EA-accountgegevens indienen. De munten worden geleverd aan de Ultimate Team-club die aan uw EA-account is gekoppeld.",
+          "2": "Maak kennis met ons gloednieuwe loyaliteitssysteem op basis van cashback: verdien punten voor elke aankoop die u doet, besteed ze aan uw toekomstige bestellingen en bereik nieuwe niveaus om extra voordelen te ontgrendelen."
+        }
+      },
+      "notify": {
+        "2": "Meld u aan om cashback te ontvangen",
+        "3": "Cashback voor deze bestelling"
+      },
+      "placeholder": {
+        "1": "Heb je een kortingsbon?"
+      }
+    },
+    "points": {
+      "card": {
+        "notify": {
+          "1": "Jouw niveau"
+        },
+        "title": {
+          "1": "Vereisten",
+          "2": "Voordelen"
+        }
+      },
+      "h4": {
+        "1": "Niveaus van het loyaliteitsprogramma"
+      },
+      "text": {
+        "1": "Dek een deel van de orderprijs met cashbackpunten die u hebt ontvangen van eerdere aankopen. Ontgrendel extra voordelen bij elke nieuwe bereikte tier."
+      }
+    }
+  },
+  "sidney_pages": {
+    "points": {
+      "card": {
+        "content": {
+          "1": "{purchase} aankopen op de website",
+          "2": "{coins} munten in totaal gekocht",
+          "3": "{cashback} % van de cashback die u ontvangt bij elke aankoop",
+          "4": "Tot {part} % van de orderprijs kan worden betaald met ROYAL Punten"
+        },
+        "header": {
+          "1": "Bronzen",
+          "2": "Zilver",
+          "3": "Goud",
+          "4": "Inform",
+          "5": "Held",
+          "6": "Icon"
+        }
+      },
+      "descr": "Dek een deel van de orderprijs met cashbackpunten die u hebt ontvangen van eerdere aankopen. Ontgrendel extra voordelen bij elke nieuwe bereikte tier.",
+      "h2": {
+        "1": "Uw ROYAL-puntensaldo"
+      },
+      "status": {
+        "title": {
+          "1": "Uw huidige loyaliteitsniveau",
+          "2": "Koop meer munten om deze tier te ontgrendelen",
+          "3": "Doe meer aankopen om deze volgende laag te ontgrendelen",
+          "4": "Doe meer aankopen en koop meer munten om deze tier te ontgrendelen",
+          "5": "Eerder behaald loyaliteitsniveau"
+        }
+      }
+    }
+  },
+  "blair_pages": {
+    "points": {
+      "benefits": {
+        "desc": {
+          "1": "van cashback ontvangen bij elke aankoop",
+          "2": "van de bestelprijs kan worden betaald met ROYAL Punten"
+        }
+      },
+      "h5": {
+        "1": "ROYAL Punten Geschiedenis"
+      },
+      "history": {
+        "filter": {
+          "tab": {
+            "1": "Alle",
+            "2": "Verdiend"
+          }
+        }
+      },
+      "status": {
+        "benefits": {
+          "1": "Uw voordelen",
+          "2": "Om meer te krijgen moet je een level omhoog gaan",
+          "3": "Bereik het volgende niveau om te stijgen",
+          "4": "Maximaal mogelijke waarde",
+          "5": "Vergrendeld"
+        }
+      },
+      "step": {
+        "req": {
+          "1": "Aantal aankopen dat nodig is om het volgende niveau te bereiken",
+          "2": "Aantal aankopen dat nodig is om de volgende tier 2 te bereiken",
+          "3": "Aantal aankopen dat nodig is om de volgende tier 3 te bereiken"
+        }
+      },
+      "text": {
+        "2": "Totaal aantal gekochte munten"
+      }
+    },
+    "profile": {
+      "h1": "Jouw profiel",
+      "tab": {
+        "1": "Bestellingen",
+        "2": "Loyaliteitsprogramma"
+      }
+    }
+  },
+  "riley_pages": {
+    "auth": {
+      "validation": {
+        "codeIsNotValid": "Code is ongeldig, probeer het opnieuw!"
+      }
+    },
+    "order": {
+      "delivery": {
+        "action": "Ga naar bestellingen",
+        "failed": {
+          "desc": "Controleer de gegevens die u tijdens de betaling hebt opgegeven of gebruik een andere betaalmethode",
+          "h1": "Betalingsproces mislukt",
+          "h2": "Er is een fout opgetreden tijdens het betalingsproces"
+        },
+        "success": {
+          "desc": "U kunt de status van de uitvoering volgen in het gedeelte Orders",
+          "h1": "Bestelling succesvol betaald",
+          "h2": "Uw bestelling is succesvol betaald!"
+        },
+        "time": {
+          "2": "in {time} seconden"
+        }
+      }
+    },
+    "points": {
+      "history": {
+        "date": {
+          "1": "Vandaag",
+          "2": "Gisteren",
+          "3": "Vorige week",
+          "4": "Vorige maand",
+          "5": "Vorig jaar",
+          "6": "Historisch"
+        },
+        "filter": {
+          "tab": {
+            "3": "Uitgegeven"
+          }
+        },
+        "noorders": "Geen orders om weer te geven"
+      }
+    }
+  },
+  "peyton_pages": {
+    "order": {
+      "delivery": {
+        "time": {
+          "1": "Automatisch doorsturen naar de bestellingen"
+        }
+      }
+    }
   }
 }

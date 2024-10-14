@@ -15,6 +15,7 @@ import type {
     IAPI,
     ICoinOrderTransactionData,
 } from "@royalfut/interfaces";
+import { useTranslations } from "next-intl";
 
 const enum EFilterTabValueIDs {
     ALL = "all",
@@ -23,12 +24,12 @@ const enum EFilterTabValueIDs {
 }
 
 const timePeriodLabelMap: Record<ETimePeriod, string> = {
-    [ETimePeriod.TODAY]: "Today",
-    [ETimePeriod.YESTERDAY]: "Yesterday",
-    [ETimePeriod.LAST_WEEK]: "Last Week",
-    [ETimePeriod.LAST_MONTH]: "Last Month",
-    [ETimePeriod.LAST_YEAR]: "Last Year",
-    [ETimePeriod.OLDER]: "Historic",
+    [ETimePeriod.TODAY]: "history.date.1",
+    [ETimePeriod.YESTERDAY]: "history.date.2",
+    [ETimePeriod.LAST_WEEK]: "history.date.3",
+    [ETimePeriod.LAST_MONTH]: "history.date.4",
+    [ETimePeriod.LAST_YEAR]: "history.date.5",
+    [ETimePeriod.OLDER]: "history.date.6",
 };
 
 interface IPointsHistoryState {
@@ -167,14 +168,18 @@ const Root: FNCNChildren<IHistoryProviderProps> = ({
 };
 
 const PointsFilter = () => {
+    const t = useTranslations("blair_pages.points");
+    const tr = useTranslations("riley_pages.points");
     return (
         <PoorTabs.Root className="sm:w-max">
-            <PoorTabs.Item value={EFilterTabValueIDs.ALL}>All</PoorTabs.Item>
+            <PoorTabs.Item value={EFilterTabValueIDs.ALL}>
+                {t("history.filter.tab.1")}
+            </PoorTabs.Item>
             <PoorTabs.Item value={EFilterTabValueIDs.EARNED}>
-                Earned
+                {t("history.filter.tab.2")}
             </PoorTabs.Item>
             <PoorTabs.Item value={EFilterTabValueIDs.SPENT}>
-                Spent
+                {tr("history.filter.tab.3")}
             </PoorTabs.Item>
         </PoorTabs.Root>
     );
@@ -252,13 +257,14 @@ const TransactionGroup: FC<{
 };
 
 const Body = () => {
+    const t = useTranslations("riley_pages.points");
     const { groups, orders } = usePointsHistoryContext();
 
     return (
         <div className="mt-11 flex w-full flex-col gap-7">
             {orders.length === 0 ? (
                 <span className="text-white-40 text-center text-2xl font-semibold">
-                    No orders to display
+                    {t("history.noorders")}
                 </span>
             ) : (
                 Object.keys(groups).map(item => {
@@ -270,7 +276,7 @@ const Body = () => {
                     return (
                         <TransactionGroup
                             key={item}
-                            title={title}
+                            title={t(`${title}`)}
                             orders={orders}
                         />
                     );
@@ -306,11 +312,10 @@ const Footer = () => {
 };
 
 const Header = () => {
+    const t = useTranslations("blair_pages.points");
     return (
         <div className="flex w-full gap-4 flex-col justify-start items-start sm:justify-between sm:items-center sm:flex-row">
-            <h5 className="text-2xl font-bold text-white">
-                ROYAL Points History
-            </h5>
+            <h5 className="text-2xl font-bold text-white">{t("h5.1")}</h5>
             <PointsFilter />
         </div>
     );

@@ -10,6 +10,7 @@ import { cn } from "@royalfut/utils";
 
 import type { FC, PropsWithChildren } from "react";
 import type { Metadata } from "next";
+import { getTranslations } from "next-intl/server";
 
 export const metadata: Metadata = {
     title: "Awaiting for delivery | Ultimate Team Coin Store",
@@ -25,45 +26,47 @@ const mapStatus: Record<
     }
 > = {
     [EPaymentTransactionStatus.SUCCESS]: {
-        title: "Your order has been successfully paid!",
-        label: "You can track the status of execution in the orders section",
+        title: "delivery.success.h2",
+        label: "delivery.success.desc",
         image: "/image/futcoin-success.png",
-        shortTitle: "Order Paid Successfully",
+        shortTitle: "delivery.success.h1",
     },
     [EPaymentTransactionStatus.FAILURE]: {
-        title: "An error occurred during the payment process",
-        label: "Check the data specified during payment or use another payment method",
+        title: "delivery.failed.h2",
+        label: "delivery.failed.desc",
         image: "/image/futcoins-failed.png",
-        shortTitle: "Payment Process Failed",
+        shortTitle: "delivery.failed.h1",
     },
 };
 
 export const Title: FC<
     PropsWithChildren<{ status: EPaymentTransactionStatus }>
-> = ({ status }) => {
+> = async ({ status }) => {
+    const t = await getTranslations("riley_pages.order");
     if (status === EPaymentTransactionStatus.SUCCESS) {
         return (
             <Text.Gradient
                 asChild
                 className="text-center bg-linear-success-gold w-full pb-1">
-                <PageTitle>{mapStatus[status].shortTitle}</PageTitle>
+                <PageTitle>{t(`${mapStatus[status].shortTitle}`)}</PageTitle>
             </Text.Gradient>
         );
     }
 
     return (
         <PageTitle className="text-center w-full pb-1">
-            {mapStatus[status].shortTitle}
+            {t(`${mapStatus[status].shortTitle}`)}
         </PageTitle>
     );
 };
 
 export const Step: FC<
     PropsWithChildren<{ status: EPaymentTransactionStatus }>
-> = ({ status, children }) => {
+> = async ({ status, children }) => {
+    const t = await getTranslations("riley_pages.order");
     return (
         <OrderProcessManager
-            title={mapStatus[status].title}
+            title={t(`${mapStatus[status].title}`)}
             steps={{
                 active: EOrderProcessingStepIds.WWW_AWAITING_FOR_DELIVERY,
                 availableSteps:
@@ -76,7 +79,10 @@ export const Step: FC<
     );
 };
 
-export const Page: FC<{ status: EPaymentTransactionStatus }> = ({ status }) => {
+export const Page: FC<{ status: EPaymentTransactionStatus }> = async ({
+    status,
+}) => {
+    const t = await getTranslations("riley_pages.order");
     return (
         <div className="flex flex-col justify-center">
             <div className="flex flex-col justify-center space-y-4 max-w-[21.4375rem] mx-auto">
@@ -93,7 +99,7 @@ export const Page: FC<{ status: EPaymentTransactionStatus }> = ({ status }) => {
                     />
                 </div>
                 <span className="text-base font-medium leading-5 text-white-60 text-center">
-                    {mapStatus[status].label}
+                    {t(`${mapStatus[status].label}`)}
                 </span>
             </div>
         </div>

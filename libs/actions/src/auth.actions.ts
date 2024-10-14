@@ -43,7 +43,6 @@ export async function handleFastLogin(
     });
     const body: IAPI.Seller.FastLogin.POST.Response.Body = await res.json();
     const encryptedSessionData = body.user.token;
-
     await setToken(encryptedSessionData);
 
     return {
@@ -53,6 +52,7 @@ export async function handleFastLogin(
             ] ?? UserProfileAvatars[1],
         email: body.user.email,
         username: body.user.username,
+        isNewUser: body.user.isNewUser,
     };
 }
 

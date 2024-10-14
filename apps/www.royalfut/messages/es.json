@@ -856,5 +856,232 @@
         }
       }
     }
+  },
+  "greer_pages": {
+    "home": {
+      "header": {
+        "nav": {
+          "5": "Blog"
+        }
+      }
+    },
+    "order": {
+      "card": {
+        "1": {
+          "button": {
+            "1": {
+              "text": "Más información"
+            }
+          }
+        }
+      },
+      "h1": "Comprar monedas de Ultimate Team {fc}",
+      "h2": {
+        "1": "Información del pedido",
+        "2": "Verificar",
+        "3": "Entrega"
+      },
+      "h5": {
+        "1": "Plataforma",
+        "2": "Cantidad",
+        "3": "Método de pago",
+        "4": "Monedas",
+        "5": "Total parcial",
+        "6": "Bonos"
+      },
+      "notify": {
+        "1": "Compra más monedas para desbloquear"
+      },
+      "panel": {
+        "title": {
+          "1": "Precio",
+          "2": "Reembolso en efectivo"
+        }
+      },
+      "tab": {
+        "1": "No utilizar",
+        "2": "Usar"
+      }
+    }
+  },
+  "sage_pages": {
+    "order": {
+      "btn": {
+        "text": {
+          "1": "Pagar ahora",
+          "2": "Iniciar sesión para comprar"
+        }
+      },
+      "h5": {
+        "7": "Precio total",
+        "8": "descuento",
+        "9": "Información de entrega"
+      },
+      "info": {
+        "button": {
+          "text": "Más información"
+        },
+        "text": {
+          "1": "Para iniciar el proceso de entrega, deberás enviar los datos de tu cuenta EA. Las monedas se enviarán al club Ultimate Team asociado a tu cuenta EA.",
+          "2": "Presentamos nuestro nuevo sistema de fidelización basado en devolución de dinero: gane puntos por cada compra que realice, gástalos en sus pedidos futuros y alcanza nuevos niveles para desbloquear beneficios adicionales."
+        }
+      },
+      "notify": {
+        "2": "Inicia sesión para obtener un reembolso",
+        "3": "Reembolso por este pedido"
+      },
+      "placeholder": {
+        "1": "¿Tienes un cupón?"
+      }
+    },
+    "points": {
+      "card": {
+        "notify": {
+          "1": "Tu nivel"
+        },
+        "title": {
+          "1": "Requisitos",
+          "2": "Beneficios"
+        }
+      },
+      "h4": {
+        "1": "Niveles del programa de fidelización"
+      },
+      "text": {
+        "1": "Cubre parte del precio del pedido con los puntos de reembolso recibidos por compras anteriores. Desbloquea beneficios adicionales con cada nuevo nivel alcanzado."
+      }
+    }
+  },
+  "sidney_pages": {
+    "points": {
+      "card": {
+        "content": {
+          "1": "{purchase} compras en el sitio web",
+          "2": "{coins} monedas compradas en total",
+          "3": "{cashback} % de reembolso recibido por cada compra",
+          "4": "Se puede pagar hasta {part} % del precio del pedido con Puntos ROYAL"
+        },
+        "header": {
+          "1": "Bronce",
+          "2": "Plata",
+          "3": "Oro",
+          "4": "Informar",
+          "5": "Héroe",
+          "6": "Icono"
+        }
+      },
+      "descr": "Cubre parte del precio del pedido con los puntos de reembolso recibidos por compras anteriores. Desbloquea beneficios adicionales con cada nuevo nivel alcanzado.",
+      "h2": {
+        "1": "Su saldo de puntos ROYAL"
+      },
+      "status": {
+        "title": {
+          "1": "Su nivel de fidelidad actual",
+          "2": "Compra más monedas para desbloquear este nivel",
+          "3": "Realiza más compras para desbloquear este siguiente nivel",
+          "4": "Realice más compras y compre más monedas para desbloquear este nivel.",
+          "5": "Nivel de fidelidad alcanzado previamente"
+        }
+      }
+    }
+  },
+  "blair_pages": {
+    "points": {
+      "benefits": {
+        "desc": {
+          "1": "de reembolso recibido por cada compra",
+          "2": "del precio del pedido se puede pagar con Puntos ROYAL"
+        }
+      },
+      "h5": {
+        "1": "Historial de puntos ROYAL"
+      },
+      "history": {
+        "filter": {
+          "tab": {
+            "1": "Todo",
+            "2": "Ganado"
+          }
+        }
+      },
+      "status": {
+        "benefits": {
+          "1": "Sus beneficios",
+          "2": "Para conseguir más necesitas subir de nivel.",
+          "3": "Alcanza el siguiente nivel para aumentar",
+          "4": "Valor máximo posible",
+          "5": "Bloqueado"
+        }
+      },
+      "step": {
+        "req": {
+          "1": "Número de compras necesarias para alcanzar el siguiente nivel",
+          "2": "Número de compras necesarias para alcanzar el siguiente nivel 2",
+          "3": "Número de compras necesarias para alcanzar el siguiente nivel 3"
+        }
+      },
+      "text": {
+        "2": "Total de monedas compradas"
+      }
+    },
+    "profile": {
+      "h1": "Tu perfil",
+      "tab": {
+        "1": "Pedidos",
+        "2": "Programa de fidelización"
+      }
+    }
+  },
+  "riley_pages": {
+    "auth": {
+      "validation": {
+        "codeIsNotValid": "¡El código no es válido, inténtalo de nuevo!"
+      }
+    },
+    "order": {
+      "delivery": {
+        "action": "Ir a pedidos",
+        "failed": {
+          "desc": "Verifique los datos especificados durante el pago o utilice otro método de pago",
+          "h1": "Proceso de pago fallido",
+          "h2": "Se produjo un error durante el proceso de pago."
+        },
+        "success": {
+          "desc": "Puede seguir el estado de ejecución en la sección de órdenes",
+          "h1": "Pedido pagado exitosamente",
+          "h2": "¡Su pedido ha sido pagado exitosamente!"
+        },
+        "time": {
+          "2": "en {time} segundos"
+        }
+      }
+    },
+    "points": {
+      "history": {
+        "date": {
+          "1": "Hoy",
+          "2": "Ayer",
+          "3": "La semana pasada",
+          "4": "Mes pasado",
+          "5": "El año pasado",
+          "6": "Histórico"
+        },
+        "filter": {
+          "tab": {
+            "3": "Gastado"
+          }
+        },
+        "noorders": "No hay pedidos para mostrar"
+      }
+    }
+  },
+  "peyton_pages": {
+    "order": {
+      "delivery": {
+        "time": {
+          "1": "Redirigir a los pedidos automáticamente"
+        }
+      }
+    }
   }
 }

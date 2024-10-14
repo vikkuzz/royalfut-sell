@@ -9,9 +9,11 @@ import {
 import { ProjectPrivateGlobalStoreProvider } from "@royalfut/store";
 
 import type { FC, PropsWithChildren } from "react";
+import { getTranslations } from "next-intl/server";
 
 const PrivateLayout: FC<PropsWithChildren> = async ({ children }) => {
     const isAuthenticated = await getToken();
+    const t = await getTranslations("blair_pages.profile");
 
     if (!isAuthenticated) {
         i18nRedirect(PROJECT_PUBLIC_ROUTES["UNAUTHORIZED_REDIRECT"]);
@@ -22,7 +24,7 @@ const PrivateLayout: FC<PropsWithChildren> = async ({ children }) => {
     return (
         <ProjectPrivateGlobalStoreProvider initial={globalSettings}>
             <ContentWithAsideLayout.Root size="60-40">
-                <ContentWithAsideLayout.Header title="Your profile" />
+                <ContentWithAsideLayout.Header title={t("h1")} />
                 <ContentWithAsideLayout.Body className="sm:flex-col md:flex-row">
                     <ContentWithAsideLayout.Aside>
                         <UserIdentityCard />

@@ -327,7 +327,7 @@ export async function getOrders(_token: string | null = null, page: number) {
         if (!token) return null;
 
         const res = await fetch(
-            `${API_PROJECT_PRIVATE_SELLER_ROUTES.SELLER_ORDERS}?page=${page}&pageSize=10`,
+            `${API_PROJECT_PRIVATE_WWW_ROUTES.GET_ORDER}?limit=10&page=${page}`,
             {
                 method: "GET",
                 headers: {

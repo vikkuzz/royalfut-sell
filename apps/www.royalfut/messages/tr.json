@@ -856,5 +856,232 @@
         }
       }
     }
+  },
+  "greer_pages": {
+    "home": {
+      "header": {
+        "nav": {
+          "5": "Blog"
+        }
+      }
+    },
+    "order": {
+      "card": {
+        "1": {
+          "button": {
+            "1": {
+              "text": "Daha fazla bilgi edin"
+            }
+          }
+        }
+      },
+      "h1": "{fc} Ultimate Team jetonlarını satın al",
+      "h2": {
+        "1": "Sipariş bilgisi",
+        "2": "Çıkış yapmak",
+        "3": "Teslimat"
+      },
+      "h5": {
+        "1": "Platform",
+        "2": "Miktar",
+        "3": "Ödeme yöntemi",
+        "4": "Madeni paralar",
+        "5": "Ara toplam",
+        "6": "Bonuslar"
+      },
+      "notify": {
+        "1": "Kilidi açmak için daha fazla jeton satın alın"
+      },
+      "panel": {
+        "title": {
+          "1": "Fiyat",
+          "2": "Geri ödeme"
+        }
+      },
+      "tab": {
+        "1": "Kullanmayın",
+        "2": "Kullanmak"
+      }
+    }
+  },
+  "sage_pages": {
+    "order": {
+      "btn": {
+        "text": {
+          "1": "Şimdi Öde",
+          "2": "Satın almak için oturum açın"
+        }
+      },
+      "h5": {
+        "7": "Toplam fiyat",
+        "8": "indirim",
+        "9": "Teslimat Bilgileri"
+      },
+      "info": {
+        "button": {
+          "text": "Daha fazla bilgi edin"
+        },
+        "text": {
+          "1": "Teslimat sürecini başlatmak için EA hesap bilgilerinizi göndermeniz gerekecektir. Jetonlar EA hesabınızla ilişkili Ultimate Team kulübüne teslim edilecektir.",
+          "2": "Yepyeni geri ödeme tabanlı sadakat sistemimizi tanıtıyoruz: Yaptığınız her alışverişte puan kazanın, bunları gelecekteki siparişlerinizde kullanın ve ek avantajların kilidini açmak için yeni seviyelere ulaşın."
+        }
+      },
+      "notify": {
+        "2": "Geri ödeme almak için giriş yapın",
+        "3": "Bu sipariş için geri ödeme"
+      },
+      "placeholder": {
+        "1": "Kuponunuz var mı?"
+      }
+    },
+    "points": {
+      "card": {
+        "notify": {
+          "1": "Senin seviyen"
+        },
+        "title": {
+          "1": "Gereksinimler",
+          "2": "Faydalar"
+        }
+      },
+      "h4": {
+        "1": "Sadakat Programı Katmanları"
+      },
+      "text": {
+        "1": "Sipariş fiyatının bir kısmını önceki satın alımlardan alınan geri ödeme puanlarıyla karşılayın. Ulaşılan her yeni kademede ek avantajların kilidini açın."
+      }
+    }
+  },
+  "sidney_pages": {
+    "points": {
+      "card": {
+        "content": {
+          "1": "{purchase} web sitesinde yapılan satın alımlar",
+          "2": "Toplamda satın alınan {coins} coin",
+          "3": "{cashback} Her satın alımdan alınan geri ödemenin %'si",
+          "4": "Sipariş bedelinin {part} %'sine kadar ROYAL Puanları ile ödenebilir"
+        },
+        "header": {
+          "1": "Bronz",
+          "2": "Gümüş",
+          "3": "Altın",
+          "4": "Bilgi vermek",
+          "5": "Kahraman",
+          "6": "Simge"
+        }
+      },
+      "descr": "Sipariş fiyatının bir kısmını önceki satın alımlardan alınan geri ödeme puanlarıyla karşılayın. Ulaşılan her yeni kademede ek avantajların kilidini açın.",
+      "h2": {
+        "1": "ROYAL Puan Bakiyeniz"
+      },
+      "status": {
+        "title": {
+          "1": "Mevcut sadakat seviyeniz",
+          "2": "Bu seviyeyi açmak için daha fazla jeton satın alın",
+          "3": "Bu sonraki seviyenin kilidini açmak için daha fazla satın alma yapın",
+          "4": "Bu seviyeyi açmak için daha fazla satın alma yapın ve daha fazla jeton satın alın",
+          "5": "Daha önce elde edilen sadakat seviyesi"
+        }
+      }
+    }
+  },
+  "blair_pages": {
+    "points": {
+      "benefits": {
+        "desc": {
+          "1": "her satın alımdan alınan geri ödeme tutarı",
+          "2": "Sipariş bedelinin tamamı ROYAL Puanları ile ödenebilir"
+        }
+      },
+      "h5": {
+        "1": "ROYAL Puan Geçmişi"
+      },
+      "history": {
+        "filter": {
+          "tab": {
+            "1": "Tüm",
+            "2": "Kazanılan"
+          }
+        }
+      },
+      "status": {
+        "benefits": {
+          "1": "Avantajlarınız",
+          "2": "Daha fazlasını elde etmek için seviye atlamanız gerekir",
+          "3": "Yükselmek için bir sonraki seviyeye ulaşın",
+          "4": "Mümkün olan en yüksek değer",
+          "5": "Kilitli"
+        }
+      },
+      "step": {
+        "req": {
+          "1": "Bir sonraki seviyeye ulaşmak için gereken satın alma sayısı",
+          "2": "Bir sonraki kademe 2'ye ulaşmak için gereken satın alma sayısı",
+          "3": "Bir sonraki 3. kademeye ulaşmak için gereken satın alma sayısı"
+        }
+      },
+      "text": {
+        "2": "Toplam satın alınan coinler"
+      }
+    },
+    "profile": {
+      "h1": "Profiliniz",
+      "tab": {
+        "1": "Siparişler",
+        "2": "Sadakat Programı"
+      }
+    }
+  },
+  "riley_pages": {
+    "auth": {
+      "validation": {
+        "codeIsNotValid": "Kod geçerli değil, tekrar deneyin!"
+      }
+    },
+    "order": {
+      "delivery": {
+        "action": "Siparişlere git",
+        "failed": {
+          "desc": "Ödeme sırasında belirtilen verileri kontrol edin veya başka bir ödeme yöntemi kullanın",
+          "h1": "Ödeme İşlemi Başarısız Oldu",
+          "h2": "Ödeme işlemi sırasında bir hata oluştu"
+        },
+        "success": {
+          "desc": "Yürütme durumunu emirler bölümünden takip edebilirsiniz",
+          "h1": "Sipariş Başarıyla Ödendi",
+          "h2": "Siparişiniz başarıyla ödendi!"
+        },
+        "time": {
+          "2": "{time} saniye içinde"
+        }
+      }
+    },
+    "points": {
+      "history": {
+        "date": {
+          "1": "Bugün",
+          "2": "Dün",
+          "3": "Geçen hafta",
+          "4": "Geçen ay",
+          "5": "Geçen sene",
+          "6": "Tarihi"
+        },
+        "filter": {
+          "tab": {
+            "3": "Harcanmış"
+          }
+        },
+        "noorders": "Görüntülenecek sipariş yok"
+      }
+    }
+  },
+  "peyton_pages": {
+    "order": {
+      "delivery": {
+        "time": {
+          "1": "Siparişlere otomatik olarak yönlendir"
+        }
+      }
+    }
   }
 }

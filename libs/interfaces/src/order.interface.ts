@@ -45,6 +45,7 @@ export interface IMapStatus {
         transit_coins?: boolean;
         wrong_fields?: string;
         send_btn_text?: string;
+        nsI18n?: string;
     };
 }
 

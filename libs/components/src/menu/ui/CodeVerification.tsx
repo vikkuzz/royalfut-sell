@@ -8,18 +8,21 @@ import {
     resetMagicLinkStore,
     useUISheetStore,
 } from "@royalfut/store";
-import { cn } from "@royalfut/utils";
+import { analitic, cn } from "@royalfut/utils";
 import { useAuthListener } from "@royalfut/hooks";
 import { handleFastLogin } from "@royalfut/actions";
 import SendCodeAgain from "./SendCodeAgain";
 import { useUpdate } from "@lilib/hooks";
 import { Button } from "@royalfut/ui";
 import { PencilMonocolorIcon } from "@royalfut/icons";
+import { usePathname } from "next/navigation";
 
 const MAGIC_LINK_CODE_COUNT = 6;
 
 const CodeVerification = () => {
     const t = useTranslations("phoenix_pages.auth");
+    const tr = useTranslations("riley_pages.auth");
+    const pathname = usePathname();
     const [isValid, setIsValid] = useState<"unknown" | "valid" | "invalid">(
         "unknown"
     );
@@ -49,6 +52,14 @@ const CodeVerification = () => {
                 loginListener(profile);
                 resetMagicLinkStore();
                 setOpen(false);
+                if (pathname === "/order/checkout") {
+                    analitic.clickAuthInOrderPage();
+                }
+                if (profile.isNewUser) {
+                    analitic.signUp(profile.email);
+                } else {
+                    analitic.signIn(profile.email, "email");
+                }
                 return true;
             } catch (e) {
                 setIsValid("invalid");
@@ -56,7 +67,7 @@ const CodeVerification = () => {
                 console.log(e);
             }
         },
-        [email, loginListener, setIsLogged, setOpen, setUser]
+        [email, loginListener, setIsLogged, setOpen, setUser, pathname]
     );
 
     useUpdate(() => {
@@ -124,7 +135,7 @@ const CodeVerification = () => {
                             "opacity-0 h-0 pt-0": isValid !== "invalid",
                         }
                     )}>
-                    {t("validation.codeIsNotValid")}
+                    {tr("validation.codeIsNotValid")}
                 </span>
             </div>
             <SendCodeAgain onClear={onClear} />

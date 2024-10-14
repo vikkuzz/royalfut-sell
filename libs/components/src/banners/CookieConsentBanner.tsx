@@ -5,7 +5,7 @@ import { PROJECT_PUBLIC_ROUTES } from "@royalfut/collections";
 import { CookieBannerForm } from "./CookieBanner.client";
 
 const CookieConsentBanner = () => {
-    const t = useTranslations("cookie");
+    const t = useTranslations("pi_cookie");
 
     return (
         <div className="block pointer-events-none fixed inset-x-0 bottom-0 z-30 px-6 pb-6 sm:opacity-90 sm:hover:opacity-100 sm:transition-opacity sm:duration-200">

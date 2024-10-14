@@ -4,3 +4,7 @@ declare module "*.svg" {
     export const ReactComponent: any;
     export default content;
 }
+// eslint-disable-next-line @typescript-eslint/naming-convention
+interface Window {
+    dataLayer: any;
+}

@@ -8,3 +8,4 @@ export * from "./is";
 export * from "./funnel";
 export * from "./browser";
 export * from "./path";
+export { analitic } from "./analitic";

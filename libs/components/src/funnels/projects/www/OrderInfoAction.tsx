@@ -12,10 +12,12 @@ import { useOrderTradeStepsStore } from "@royalfut/store";
 import { EOrderProcessingStepIds } from "@royalfut/enums";
 import { cn } from "@royalfut/utils";
 import { cnOrderInfoAction, cnOrderInfoActionRoot } from "../cn.tail";
+import { useTranslations } from "next-intl";
 
 const OrderInfoAction = () => {
     const router = useI18nRouter();
     const params = useParams();
+    const t = useTranslations("greer_pages.order");
 
     const { setStepId } = useOrderTradeStepsStore(state => ({
         setStepId: state.setStepId,
@@ -49,11 +51,11 @@ const OrderInfoAction = () => {
         <CoinsAmountPanel.Root className={cnOrderInfoActionRoot}>
             <CoinsAmountPanel.Info className={cn(cnOrderInfoAction, "gap-6")}>
                 <CoinsAmountPanel.InfoGroup>
-                    <CoinsAmountPanel.CCY title="Price" />
+                    <CoinsAmountPanel.CCY title={t("panel.title.1")} />
                 </CoinsAmountPanel.InfoGroup>
-                <CoinsAmountPanel.Loyalty title="Cashback" />
+                <CoinsAmountPanel.Loyalty title={t("panel.title.2")} />
             </CoinsAmountPanel.Info>
-            <OrderInfoActionButton onNextStep={onNextStep} label="Checkout" />
+            <OrderInfoActionButton onNextStep={onNextStep} label={t("h2.2")} />
         </CoinsAmountPanel.Root>
     );
 };

@@ -12,12 +12,12 @@ export const loyaltyTierTitleMap: Record<
     ELoyaltyProgrammaAchievementIDs,
     string
 > = {
-    [ELoyaltyProgrammaAchievementIDs.BRONZE]: "Bronze",
-    [ELoyaltyProgrammaAchievementIDs.SILVER]: "Silver",
-    [ELoyaltyProgrammaAchievementIDs.GOLD]: "Gold",
-    [ELoyaltyProgrammaAchievementIDs.INFORM]: "Inform",
-    [ELoyaltyProgrammaAchievementIDs.HERO]: "Hero",
-    [ELoyaltyProgrammaAchievementIDs.ICON]: "Icon",
+    [ELoyaltyProgrammaAchievementIDs.BRONZE]: "card.header.1",
+    [ELoyaltyProgrammaAchievementIDs.SILVER]: "card.header.2",
+    [ELoyaltyProgrammaAchievementIDs.GOLD]: "card.header.3",
+    [ELoyaltyProgrammaAchievementIDs.INFORM]: "card.header.4",
+    [ELoyaltyProgrammaAchievementIDs.HERO]: "card.header.5",
+    [ELoyaltyProgrammaAchievementIDs.ICON]: "card.header.6",
 };
 
 export const loyaltyAchievementDataMap: Record<

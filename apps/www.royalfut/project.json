@@ -19,7 +19,7 @@
         "project": "www.royalfut",
         "target": "start",
         "port": 3000,
-        "i18nKeys": ["zxBzYlUmWM4i2dksj3baQA", "00y0WiRNxdlGWQ5tJCFnhQ", "rhWMvPqqSaC_Pu3uYisH0Q", "kcJYMMVCSNFhdNXJnbtvow", "950bGhT_S5atcemGT6yX4g", "CF08UvaixokTaZMELeBSTA", "NJnPCLpaEoh3TtPX5e9nHA", "GupdMTrZqjLNnFy8JtNC6A", "ZNahgI7e_c--DfbHF6O2bA", "moGMJyCgENTQcPzSSw8gGQ", "emgZ2ISdzeArzPt1DlnAJg", "PKL9r78MlYBMDSprDxfkBQ", "uWbZtAWqzeZC8F6psUFCEg", "bVPBRspAXdKvs1hJkJaMlw", "H5fWus2DMAjMK2juN4wiFw", "0nCCEZtdM_SJcxhua6q9gA", "KtzIaguxfg8IYfcaVSbxYg", "hIK2jAJ-9uB3HzJFqrgC7A", "mKQjgCjGXZTI1C6egnyt6A", "jMFFhJ8eAw7Io18gZWahrA", "dBK928DBtTTg6X-1rkcytQ", "jlm2l24tQ00V4BOh3vNCbg"]
+        "i18nKeys": ["zxBzYlUmWM4i2dksj3baQA", "00y0WiRNxdlGWQ5tJCFnhQ", "rhWMvPqqSaC_Pu3uYisH0Q", "kcJYMMVCSNFhdNXJnbtvow", "950bGhT_S5atcemGT6yX4g", "CF08UvaixokTaZMELeBSTA", "NJnPCLpaEoh3TtPX5e9nHA", "GupdMTrZqjLNnFy8JtNC6A", "ZNahgI7e_c--DfbHF6O2bA", "moGMJyCgENTQcPzSSw8gGQ", "emgZ2ISdzeArzPt1DlnAJg", "PKL9r78MlYBMDSprDxfkBQ", "uWbZtAWqzeZC8F6psUFCEg", "bVPBRspAXdKvs1hJkJaMlw", "H5fWus2DMAjMK2juN4wiFw", "0nCCEZtdM_SJcxhua6q9gA", "KtzIaguxfg8IYfcaVSbxYg", "hIK2jAJ-9uB3HzJFqrgC7A", "mKQjgCjGXZTI1C6egnyt6A", "jMFFhJ8eAw7Io18gZWahrA", "dBK928DBtTTg6X-1rkcytQ", "jlm2l24tQ00V4BOh3vNCbg", "VaKrbxeGUTgs9rtlXqB9IA","lqr2M8QKTT3JJ7T8xa2Eiw", "UDZicEo3s-jECzQTTL3Fog", "HvaSHrJuKvrbB03dfPc66Q", "T47oJ3M5BbF8hiqjNmfAOA", "vXtRnuxLnXt0e-s9L-b1Ww"]
       }
     },
     "run": {
@@ -27,7 +27,7 @@
       "options": {
         "project": "www.royalfut",
         "target": "dev",
-        "i18nKeys": ["zxBzYlUmWM4i2dksj3baQA", "00y0WiRNxdlGWQ5tJCFnhQ", "rhWMvPqqSaC_Pu3uYisH0Q", "kcJYMMVCSNFhdNXJnbtvow", "950bGhT_S5atcemGT6yX4g", "CF08UvaixokTaZMELeBSTA", "NJnPCLpaEoh3TtPX5e9nHA", "GupdMTrZqjLNnFy8JtNC6A", "ZNahgI7e_c--DfbHF6O2bA", "moGMJyCgENTQcPzSSw8gGQ", "emgZ2ISdzeArzPt1DlnAJg", "PKL9r78MlYBMDSprDxfkBQ", "uWbZtAWqzeZC8F6psUFCEg", "bVPBRspAXdKvs1hJkJaMlw", "H5fWus2DMAjMK2juN4wiFw", "0nCCEZtdM_SJcxhua6q9gA", "KtzIaguxfg8IYfcaVSbxYg", "hIK2jAJ-9uB3HzJFqrgC7A", "mKQjgCjGXZTI1C6egnyt6A", "jMFFhJ8eAw7Io18gZWahrA", "dBK928DBtTTg6X-1rkcytQ", "jlm2l24tQ00V4BOh3vNCbg"]
+        "i18nKeys": ["zxBzYlUmWM4i2dksj3baQA", "00y0WiRNxdlGWQ5tJCFnhQ", "rhWMvPqqSaC_Pu3uYisH0Q", "kcJYMMVCSNFhdNXJnbtvow", "950bGhT_S5atcemGT6yX4g", "CF08UvaixokTaZMELeBSTA", "NJnPCLpaEoh3TtPX5e9nHA", "GupdMTrZqjLNnFy8JtNC6A", "ZNahgI7e_c--DfbHF6O2bA", "moGMJyCgENTQcPzSSw8gGQ", "emgZ2ISdzeArzPt1DlnAJg", "PKL9r78MlYBMDSprDxfkBQ", "uWbZtAWqzeZC8F6psUFCEg", "bVPBRspAXdKvs1hJkJaMlw", "H5fWus2DMAjMK2juN4wiFw", "0nCCEZtdM_SJcxhua6q9gA", "KtzIaguxfg8IYfcaVSbxYg", "hIK2jAJ-9uB3HzJFqrgC7A", "mKQjgCjGXZTI1C6egnyt6A", "jMFFhJ8eAw7Io18gZWahrA", "dBK928DBtTTg6X-1rkcytQ", "jlm2l24tQ00V4BOh3vNCbg", "VaKrbxeGUTgs9rtlXqB9IA","lqr2M8QKTT3JJ7T8xa2Eiw", "UDZicEo3s-jECzQTTL3Fog", "HvaSHrJuKvrbB03dfPc66Q", "T47oJ3M5BbF8hiqjNmfAOA", "vXtRnuxLnXt0e-s9L-b1Ww"]
       }
     }
   }

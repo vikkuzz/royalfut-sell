@@ -18,6 +18,7 @@ import { cn, getURLWithPlatform } from "@royalfut/utils";
 import type { FC } from "react";
 import type { EOrderProcessingStepIds } from "@royalfut/enums";
 import type { IOrderProcessingStepInfo } from "@royalfut/interfaces";
+import { useTranslations } from "next-intl";
 
 export interface IOrderProcessNavigatorProps {
     active: EOrderProcessingStepIds;
@@ -28,6 +29,7 @@ const OrderProcessNavigator: FC<IOrderProcessNavigatorProps> = ({
     active,
     availableSteps = [active],
 }) => {
+    const t = useTranslations("greer_pages.order");
     const params = useParams();
     const router = useRouter();
     const { stepId, setStepId, allowRoutes, completed } =
@@ -129,7 +131,7 @@ const OrderProcessNavigator: FC<IOrderProcessNavigatorProps> = ({
                             )}
                         </div>
                         <span className="font-medium text-xs text-white whitespace-nowrap">
-                            {item.title}
+                            {t(`${item.title}`)}
                         </span>
                     </Button>
                 );

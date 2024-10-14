@@ -16,7 +16,7 @@ const BodyOrder = ({
     isOpen: boolean;
     handleClick: (arg: boolean) => void;
 }) => {
-    const t = useTranslations("profile");
+    const t = useTranslations("kelly_profile");
     return (
         <div className="flex flex-col">
             <div className="flex gap-3 flex-col-reverse md:flex-row">

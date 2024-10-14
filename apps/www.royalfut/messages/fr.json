@@ -856,5 +856,232 @@
         }
       }
     }
+  },
+  "greer_pages": {
+    "home": {
+      "header": {
+        "nav": {
+          "5": "Blog"
+        }
+      }
+    },
+    "order": {
+      "card": {
+        "1": {
+          "button": {
+            "1": {
+              "text": "Apprendre encore plus"
+            }
+          }
+        }
+      },
+      "h1": "Acheter des pièces {fc} Ultimate Team",
+      "h2": {
+        "1": "Informations sur la commande",
+        "2": "Vérifier",
+        "3": "Livraison"
+      },
+      "h5": {
+        "1": "Plate-forme",
+        "2": "Montant",
+        "3": "Mode de paiement",
+        "4": "Pièces",
+        "5": "Total",
+        "6": "Bonus"
+      },
+      "notify": {
+        "1": "Achetez plus de pièces pour débloquer"
+      },
+      "panel": {
+        "title": {
+          "1": "Prix",
+          "2": "Remboursement"
+        }
+      },
+      "tab": {
+        "1": "Ne pas utiliser",
+        "2": "Utiliser"
+      }
+    }
+  },
+  "sage_pages": {
+    "order": {
+      "btn": {
+        "text": {
+          "1": "Payer maintenant",
+          "2": "Connectez-vous pour acheter"
+        }
+      },
+      "h5": {
+        "7": "Prix total",
+        "8": "rabais",
+        "9": "Informations de livraison"
+      },
+      "info": {
+        "button": {
+          "text": "Apprendre encore plus"
+        },
+        "text": {
+          "1": "Pour lancer le processus de livraison, vous devrez soumettre les informations de votre compte EA. Les pièces seront livrées au club Ultimate Team associé à votre compte EA.",
+          "2": "Présentation de notre tout nouveau système de fidélité basé sur le cashback : gagnez des points pour chaque achat que vous effectuez, dépensez-les sur vos futures commandes et atteignez de nouveaux niveaux pour débloquer des avantages supplémentaires."
+        }
+      },
+      "notify": {
+        "2": "Connectez-vous pour obtenir du cashback",
+        "3": "Remboursement pour cette commande"
+      },
+      "placeholder": {
+        "1": "Vous avez un coupon ?"
+      }
+    },
+    "points": {
+      "card": {
+        "notify": {
+          "1": "Votre niveau"
+        },
+        "title": {
+          "1": "Exigences",
+          "2": "Avantages"
+        }
+      },
+      "h4": {
+        "1": "Niveaux du programme de fidélité"
+      },
+      "text": {
+        "1": "Couvrez une partie du prix de votre commande avec les points cashback reçus lors de vos achats précédents. Bénéficiez d'avantages supplémentaires à chaque nouveau niveau atteint."
+      }
+    }
+  },
+  "sidney_pages": {
+    "points": {
+      "card": {
+        "content": {
+          "1": "{purchase} achats sur le site",
+          "2": "{coins} pièces achetées au total",
+          "3": "{cashback} % de cashback reçu à chaque achat",
+          "4": "Jusqu'à {part} % du prix de la commande peuvent être payés avec des points ROYAL"
+        },
+        "header": {
+          "1": "Bronze",
+          "2": "Argent",
+          "3": "Or",
+          "4": "Informer",
+          "5": "Héros",
+          "6": "Icône"
+        }
+      },
+      "descr": "Couvrez une partie du prix de votre commande avec les points cashback reçus lors de vos achats précédents. Bénéficiez d'avantages supplémentaires à chaque nouveau niveau atteint.",
+      "h2": {
+        "1": "Votre solde de points ROYAL"
+      },
+      "status": {
+        "title": {
+          "1": "Votre niveau de fidélité actuel",
+          "2": "Achetez plus de pièces pour débloquer ce niveau",
+          "3": "Effectuez plus d'achats pour débloquer le niveau suivant",
+          "4": "Effectuez plus d'achats et achetez plus de pièces pour débloquer ce niveau",
+          "5": "Niveau de fidélité précédemment atteint"
+        }
+      }
+    }
+  },
+  "blair_pages": {
+    "points": {
+      "benefits": {
+        "desc": {
+          "1": "de cashback reçu à chaque achat",
+          "2": "du prix de la commande peut être payé avec des points ROYAL"
+        }
+      },
+      "h5": {
+        "1": "Historique des points ROYAL"
+      },
+      "history": {
+        "filter": {
+          "tab": {
+            "1": "Tous",
+            "2": "Gagné"
+          }
+        }
+      },
+      "status": {
+        "benefits": {
+          "1": "Vos avantages",
+          "2": "Pour en obtenir plus, vous devez monter de niveau",
+          "3": "Atteignez le niveau suivant pour augmenter",
+          "4": "Valeur maximale possible",
+          "5": "Fermé"
+        }
+      },
+      "step": {
+        "req": {
+          "1": "Nombre d'achats nécessaires pour atteindre le niveau suivant",
+          "2": "Nombre d'achats nécessaires pour atteindre le niveau 2 suivant",
+          "3": "Nombre d'achats nécessaires pour atteindre le niveau 3 suivant"
+        }
+      },
+      "text": {
+        "2": "Total des pièces achetées"
+      }
+    },
+    "profile": {
+      "h1": "Votre profil",
+      "tab": {
+        "1": "Ordres",
+        "2": "Programme de fidélité"
+      }
+    }
+  },
+  "riley_pages": {
+    "auth": {
+      "validation": {
+        "codeIsNotValid": "Le code n'est pas valide, réessayez !"
+      }
+    },
+    "order": {
+      "delivery": {
+        "action": "Accéder aux commandes",
+        "failed": {
+          "desc": "Vérifiez les données spécifiées lors du paiement ou utilisez un autre moyen de paiement",
+          "h1": "Le processus de paiement a échoué",
+          "h2": "Une erreur s'est produite lors du processus de paiement"
+        },
+        "success": {
+          "desc": "Vous pouvez suivre l'état d'exécution dans la section des commandes",
+          "h1": "Commande payée avec succès",
+          "h2": "Votre commande a été payée avec succès !"
+        },
+        "time": {
+          "2": "dans {time} secondes"
+        }
+      }
+    },
+    "points": {
+      "history": {
+        "date": {
+          "1": "Aujourd'hui",
+          "2": "Hier",
+          "3": "La semaine dernière",
+          "4": "Mois dernier",
+          "5": "L'année dernière",
+          "6": "Historique"
+        },
+        "filter": {
+          "tab": {
+            "3": "Dépensé"
+          }
+        },
+        "noorders": "Aucune commande à afficher"
+      }
+    }
+  },
+  "peyton_pages": {
+    "order": {
+      "delivery": {
+        "time": {
+          "1": "Rediriger automatiquement vers les commandes"
+        }
+      }
+    }
   }
 }

@@ -8,6 +8,7 @@ interface IUserBody {
     userLocale: string;
     profilePicture: number;
     token: string;
+    isNewUser: boolean;
 }
 
 export namespace FastLogin {

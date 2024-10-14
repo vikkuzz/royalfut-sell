@@ -17,6 +17,7 @@ import {
 import { cn } from "@royalfut/utils";
 
 import type { FC } from "react";
+import { useTranslations } from "next-intl";
 
 const enum EStatusErrorResLabels {
     SERVER_ERROR = "server error",
@@ -45,6 +46,7 @@ interface ICouponSchema {
 type TStatus = "failed" | "success";
 
 const CouponForm = () => {
+    const t = useTranslations("sage_pages.order");
     const use = useTransferSelectorStore.use;
     const coinUT = use.coinUT();
     const discount = use.bonuses().coupon?.value;
@@ -144,7 +146,7 @@ const CouponForm = () => {
                                     onBlur: () => setIsActive(false),
                                 })}
                                 required
-                                placeholder="Have a coupon?"
+                                placeholder={t("placeholder.1")}
                                 onFocus={() => setIsActive(true)}
                                 borderType="box"
                                 // initialValue=""

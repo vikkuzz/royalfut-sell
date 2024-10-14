@@ -18,6 +18,7 @@ import {
 import { cn } from "@royalfut/utils";
 
 import type { FC } from "react";
+import { getTranslations } from "next-intl/server";
 
 type TOrderInfoProps =
     | {
@@ -33,10 +34,11 @@ export interface IPageProps {
     searchParams?: any;
 }
 
-const OrderInfo: FC<TOrderInfoProps & IPageProps> = ({ ...props }) => {
+const OrderInfo: FC<TOrderInfoProps & IPageProps> = async ({ ...props }) => {
+    const t = await getTranslations("greer_pages.order");
     return (
         <OrderProcessManager
-            title="Buy FC 24 Ultimate Team coins"
+            title={t("h1", { fc: "FC 25" })}
             steps={{
                 active: EOrderProcessingStepIds.WWW_ORDER_INFO,
                 availableSteps:
@@ -45,7 +47,7 @@ const OrderInfo: FC<TOrderInfoProps & IPageProps> = ({ ...props }) => {
                     ]!.allowSteps,
             }}>
             <div>
-                <OrderByPlatforms title="Platform">
+                <OrderByPlatforms title={t("h5.1")}>
                     <PlatformChoice.Root
                         className={cn({
                             "sm:[--basis-s:0]":
@@ -63,7 +65,7 @@ const OrderInfo: FC<TOrderInfoProps & IPageProps> = ({ ...props }) => {
                         )}
                     </PlatformChoice.Root>
                 </OrderByPlatforms>
-                <CoinAmountSelector title="Amount" />
+                <CoinAmountSelector title={t("h5.2")} />
             </div>
         </OrderProcessManager>
     );

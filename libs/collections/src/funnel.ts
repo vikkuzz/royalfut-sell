@@ -433,7 +433,7 @@ export const WWW_OrderProcessingStepsInfo: Partial<
     [EOrderProcessingStepIds.WWW_ORDER_INFO]: {
         _id: EOrderProcessingStepIds.WWW_ORDER_INFO,
         to: PROJECT_PUBLIC_WWW_ROUTES["ORDER_INFO"],
-        title: "Order info",
+        title: "h2.1",
         allowSteps: [EOrderProcessingStepIds.WWW_CHECKOUT],
         step: 1,
     },
@@ -441,14 +441,14 @@ export const WWW_OrderProcessingStepsInfo: Partial<
         _id: EOrderProcessingStepIds.WWW_CHECKOUT,
         to: PROJECT_PUBLIC_WWW_ROUTES["ORDER_CHECKOUT"],
         allowSteps: [EOrderProcessingStepIds.WWW_ORDER_INFO],
-        title: "Checkout",
+        title: "h2.2",
         step: 2,
     },
     [EOrderProcessingStepIds.WWW_AWAITING_FOR_DELIVERY]: {
         _id: EOrderProcessingStepIds.WWW_AWAITING_FOR_DELIVERY,
         to: PROJECT_PUBLIC_WWW_ROUTES["ORDER_AWAITING_FOR_DELIVERY"],
         allowSteps: [],
-        title: "Delivery",
+        title: "h2.3",
         step: 3,
     },
 };

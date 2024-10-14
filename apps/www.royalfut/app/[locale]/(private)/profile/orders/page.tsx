@@ -1,30 +1,21 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 "use client";
 import { useEffect, useState } from "react";
-import { Paginator } from "@royalfut/components";
 import { InformationStub, OrderList } from "../_components/OrderList";
 import { getOrders } from "@royalfut/actions";
-import { isNumber } from "@royalfut/utils";
+import { Pagination } from "@royalfut/ui";
 
-const ProfileOrdersPage = ({
-    params,
-}: {
-    params: {
-        ordersPage: number;
-    };
-}) => {
-    if (!isNumber(params.ordersPage)) {
-        params.ordersPage = 1;
-    }
+const ProfileOrdersPage = () => {
     const [orders, setOrders] = useState<any>();
     const [load, setLoad] = useState<boolean>(true);
+    const [page, setPage] = useState(1);
 
     useEffect(() => {
-        getOrders(null, 1).then(res => {
+        getOrders(null, page).then(res => {
             setOrders(res);
             setLoad(false);
         });
-    }, []);
+    }, [page]);
     return (
         <div className="flex flex-col gap-8">
             {load && "loading..."}
@@ -32,10 +23,18 @@ const ProfileOrdersPage = ({
             {orders?.orders.length > 0 && (
                 <>
                     <OrderList orders={orders} />
-                    <Paginator
-                        page={params.ordersPage}
-                        orders={orders}
-                        route={"/profile/orders"}
+                    <Pagination
+                        currentPage={page}
+                        records={{
+                            strategy: "jump",
+                            totalItems: orders.total,
+                            itemsPerPage: orders.limit,
+                        }}
+                        visiblePagesLimit={3}
+                        navigation={{
+                            navigationMethod: "manual",
+                            onPageChange: setPage,
+                        }}
                     />
                 </>
             )}

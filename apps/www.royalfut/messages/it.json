@@ -856,5 +856,232 @@
         }
       }
     }
+  },
+  "greer_pages": {
+    "home": {
+      "header": {
+        "nav": {
+          "5": "Blog"
+        }
+      }
+    },
+    "order": {
+      "card": {
+        "1": {
+          "button": {
+            "1": {
+              "text": "Saperne di più"
+            }
+          }
+        }
+      },
+      "h1": "Acquista {fc} monete Ultimate Team",
+      "h2": {
+        "1": "Informazioni sull'ordine",
+        "2": "Guardare",
+        "3": "Consegna"
+      },
+      "h5": {
+        "1": "Piattaforma",
+        "2": "Quantità",
+        "3": "Metodo di pagamento",
+        "4": "Monete",
+        "5": "Subtotale",
+        "6": "Bonus"
+      },
+      "notify": {
+        "1": "Acquista più monete per sbloccare"
+      },
+      "panel": {
+        "title": {
+          "1": "Prezzo",
+          "2": "Rimborso"
+        }
+      },
+      "tab": {
+        "1": "Non usare",
+        "2": "Utilizzo"
+      }
+    }
+  },
+  "sage_pages": {
+    "order": {
+      "btn": {
+        "text": {
+          "1": "Paga ora",
+          "2": "Accedi per acquistare"
+        }
+      },
+      "h5": {
+        "7": "Prezzo totale",
+        "8": "sconto",
+        "9": "Informazioni sulla consegna"
+      },
+      "info": {
+        "button": {
+          "text": "Saperne di più"
+        },
+        "text": {
+          "1": "Per avviare il processo di consegna dovrai inviare i dettagli del tuo account EA. Le monete saranno consegnate al club Ultimate Team associato al tuo account EA.",
+          "2": "Ti presentiamo il nostro nuovissimo sistema fedeltà basato sul cashback: guadagna punti per ogni acquisto effettuato, spendili per i tuoi ordini futuri e raggiungi nuovi livelli per sbloccare vantaggi aggiuntivi."
+        }
+      },
+      "notify": {
+        "2": "Accedi per ottenere il cashback",
+        "3": "Cashback per questo ordine"
+      },
+      "placeholder": {
+        "1": "Hai un coupon?"
+      }
+    },
+    "points": {
+      "card": {
+        "notify": {
+          "1": "Il tuo livello"
+        },
+        "title": {
+          "1": "Requisiti",
+          "2": "Benefici"
+        }
+      },
+      "h4": {
+        "1": "Livelli del programma fedeltà"
+      },
+      "text": {
+        "1": "Copri parte del prezzo dell'ordine con i punti cashback ricevuti dagli acquisti precedenti. Sblocca ulteriori vantaggi con ogni nuovo livello raggiunto."
+      }
+    }
+  },
+  "sidney_pages": {
+    "points": {
+      "card": {
+        "content": {
+          "1": "{purchase} acquisti sul sito web",
+          "2": "{coins} monete acquistate in totale",
+          "3": "{cashback} % di cashback ricevuto da ogni acquisto",
+          "4": "Fino al {part} % del prezzo dell'ordine può essere pagato con i Punti ROYAL"
+        },
+        "header": {
+          "1": "Bronzo",
+          "2": "Argento",
+          "3": "Oro",
+          "4": "Informare",
+          "5": "Eroe",
+          "6": "Icona"
+        }
+      },
+      "descr": "Copri parte del prezzo dell'ordine con i punti cashback ricevuti dagli acquisti precedenti. Sblocca ulteriori vantaggi con ogni nuovo livello raggiunto.",
+      "h2": {
+        "1": "Il tuo saldo punti ROYAL"
+      },
+      "status": {
+        "title": {
+          "1": "Il tuo attuale livello di fedeltà",
+          "2": "Acquista più monete per sbloccare questo livello",
+          "3": "Fai più acquisti per sbloccare il livello successivo",
+          "4": "Fai più acquisti e acquista più monete per sbloccare questo livello",
+          "5": "Livello di fedeltà precedentemente raggiunto"
+        }
+      }
+    }
+  },
+  "blair_pages": {
+    "points": {
+      "benefits": {
+        "desc": {
+          "1": "di cashback ricevuto da ogni acquisto",
+          "2": "del prezzo dell'ordine può essere pagato con i Punti ROYAL"
+        }
+      },
+      "h5": {
+        "1": "Cronologia dei punti ROYAL"
+      },
+      "history": {
+        "filter": {
+          "tab": {
+            "1": "Tutto",
+            "2": "Guadagnato"
+          }
+        }
+      },
+      "status": {
+        "benefits": {
+          "1": "I tuoi vantaggi",
+          "2": "Per ottenere di più devi salire di livello",
+          "3": "Raggiungi il livello successivo per aumentare",
+          "4": "Valore massimo possibile",
+          "5": "Bloccato"
+        }
+      },
+      "step": {
+        "req": {
+          "1": "Numero di acquisti necessari per raggiungere il livello successivo",
+          "2": "Numero di acquisti necessari per raggiungere il livello successivo 2",
+          "3": "Numero di acquisti necessari per raggiungere il livello successivo 3"
+        }
+      },
+      "text": {
+        "2": "Totale monete acquistate"
+      }
+    },
+    "profile": {
+      "h1": "Il tuo profilo",
+      "tab": {
+        "1": "Ordini",
+        "2": "Programma fedeltà"
+      }
+    }
+  },
+  "riley_pages": {
+    "auth": {
+      "validation": {
+        "codeIsNotValid": "Il codice non è valido, riprova!"
+      }
+    },
+    "order": {
+      "delivery": {
+        "action": "Vai agli ordini",
+        "failed": {
+          "desc": "Controllare i dati specificati durante il pagamento o utilizzare un altro metodo di pagamento",
+          "h1": "Processo di pagamento non riuscito",
+          "h2": "Si è verificato un errore durante il processo di pagamento"
+        },
+        "success": {
+          "desc": "Puoi monitorare lo stato dell'esecuzione nella sezione ordini",
+          "h1": "Ordine pagato con successo",
+          "h2": "Il tuo ordine è stato pagato con successo!"
+        },
+        "time": {
+          "2": "in {time} secondi"
+        }
+      }
+    },
+    "points": {
+      "history": {
+        "date": {
+          "1": "Oggi",
+          "2": "Ieri",
+          "3": "La settimana scorsa",
+          "4": "Il mese scorso",
+          "5": "L'anno scorso",
+          "6": "Storico"
+        },
+        "filter": {
+          "tab": {
+            "3": "Speso"
+          }
+        },
+        "noorders": "Nessun ordine da visualizzare"
+      }
+    }
+  },
+  "peyton_pages": {
+    "order": {
+      "delivery": {
+        "time": {
+          "1": "Reindirizza automaticamente agli ordini"
+        }
+      }
+    }
   }
 }

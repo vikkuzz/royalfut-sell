@@ -14,13 +14,18 @@ type ProjectGlobalNavBase<Linked = true> = LocalizedText<
     Linked extends true
         ? {
               href: string;
+              nsI18n?: string;
           }
         : object
 >;
+interface IIconProps {
+    src: string;
+    width: number;
+}
 
 export type TProjectGlobalNavLink = ProjectGlobalNavBase & {
     type: "link";
-    icon?: string;
+    icon?: IIconProps;
 };
 
 export type TProjectGlobalNavExpanded = ProjectGlobalNavBase & {

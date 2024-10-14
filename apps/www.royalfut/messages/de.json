@@ -856,5 +856,232 @@
         }
       }
     }
+  },
+  "greer_pages": {
+    "home": {
+      "header": {
+        "nav": {
+          "5": "Der Blog"
+        }
+      }
+    },
+    "order": {
+      "card": {
+        "1": {
+          "button": {
+            "1": {
+              "text": "Mehr erfahren"
+            }
+          }
+        }
+      },
+      "h1": "{fc} Ultimate Team-Münzen kaufen",
+      "h2": {
+        "1": "Bestell-Info",
+        "2": "Kasse",
+        "3": "Lieferung"
+      },
+      "h5": {
+        "1": "Plattform",
+        "2": "Menge",
+        "3": "Zahlungsmethode",
+        "4": "Münzen",
+        "5": "Zwischensumme",
+        "6": "Boni"
+      },
+      "notify": {
+        "1": "Kaufen Sie mehr Münzen zum Freischalten"
+      },
+      "panel": {
+        "title": {
+          "1": "Preis",
+          "2": "Cashback"
+        }
+      },
+      "tab": {
+        "1": "Nicht verwenden",
+        "2": "Verwenden"
+      }
+    }
+  },
+  "sage_pages": {
+    "order": {
+      "btn": {
+        "text": {
+          "1": "Jetzt bezahlen",
+          "2": "Zum Kaufen anmelden"
+        }
+      },
+      "h5": {
+        "7": "Gesamtpreis",
+        "8": "Rabatt",
+        "9": "Lieferinformationen"
+      },
+      "info": {
+        "button": {
+          "text": "Mehr erfahren"
+        },
+        "text": {
+          "1": "Um den Liefervorgang zu starten, müssen Sie Ihre EA-Kontodaten angeben. Die Münzen werden an den Ultimate Team-Club geliefert, der mit Ihrem EA-Konto verknüpft ist.",
+          "2": "Wir stellen unser brandneues Treuesystem auf Cashback-Basis vor – sammeln Sie bei jedem Einkauf Punkte, geben Sie diese für Ihre zukünftigen Bestellungen aus und erreichen Sie neue Stufen, um zusätzliche Vorteile freizuschalten."
+        }
+      },
+      "notify": {
+        "2": "Melden Sie sich an, um Cashback zu erhalten",
+        "3": "Cashback für diese Bestellung"
+      },
+      "placeholder": {
+        "1": "Haben Sie einen Gutschein?"
+      }
+    },
+    "points": {
+      "card": {
+        "notify": {
+          "1": "Dein Level"
+        },
+        "title": {
+          "1": "Anforderungen",
+          "2": "Vorteile"
+        }
+      },
+      "h4": {
+        "1": "Treueprogrammstufen"
+      },
+      "text": {
+        "1": "Decken Sie einen Teil des Bestellpreises mit Cashback-Punkten aus früheren Einkäufen. Schalten Sie mit jeder neuen Stufe, die Sie erreichen, zusätzliche Vorteile frei."
+      }
+    }
+  },
+  "sidney_pages": {
+    "points": {
+      "card": {
+        "content": {
+          "1": "{purchase} Käufe auf der Website",
+          "2": "{coins} Münzen insgesamt gekauft",
+          "3": "{cashback} % des Cashbacks, das bei jedem Einkauf erhalten wird",
+          "4": "Bis zu {part} % des Bestellpreises können mit ROYAL Points bezahlt werden"
+        },
+        "header": {
+          "1": "Bronze",
+          "2": "Silber",
+          "3": "Gold",
+          "4": "Informieren",
+          "5": "Held",
+          "6": "Symbol"
+        }
+      },
+      "descr": "Decken Sie einen Teil des Bestellpreises mit Cashback-Punkten aus früheren Einkäufen. Schalten Sie mit jeder neuen Stufe, die Sie erreichen, zusätzliche Vorteile frei.",
+      "h2": {
+        "1": "Ihr ROYAL Punktestand"
+      },
+      "status": {
+        "title": {
+          "1": "Ihr aktuelles Treuelevel",
+          "2": "Kaufen Sie mehr Münzen, um diese Stufe freizuschalten",
+          "3": "Tätigen Sie weitere Einkäufe, um die nächste Stufe freizuschalten",
+          "4": "Tätigen Sie weitere Einkäufe und kaufen Sie mehr Münzen, um diese Stufe freizuschalten",
+          "5": "Zuvor erreichtes Treuelevel"
+        }
+      }
+    }
+  },
+  "blair_pages": {
+    "points": {
+      "benefits": {
+        "desc": {
+          "1": "Cashback bei jedem Einkauf",
+          "2": "des Bestellpreises kann mit ROYAL Points bezahlt werden"
+        }
+      },
+      "h5": {
+        "1": "ROYAL Punkteverlauf"
+      },
+      "history": {
+        "filter": {
+          "tab": {
+            "1": "Alle",
+            "2": "Verdient"
+          }
+        }
+      },
+      "status": {
+        "benefits": {
+          "1": "Ihre Vorteile",
+          "2": "Um mehr zu bekommen, musst du ein Level aufsteigen",
+          "3": "Erreichen Sie die nächste Stufe, um zu erhöhen",
+          "4": "Maximal möglicher Wert",
+          "5": "Gesperrt"
+        }
+      },
+      "step": {
+        "req": {
+          "1": "Anzahl der Käufe, die zum Erreichen der nächsten Stufe erforderlich sind",
+          "2": "Anzahl der Käufe, die zum Erreichen der nächsten Stufe 2 erforderlich sind",
+          "3": "Anzahl der Käufe, die zum Erreichen der nächsten Stufe 3 erforderlich sind"
+        }
+      },
+      "text": {
+        "2": "Insgesamt gekaufte Münzen"
+      }
+    },
+    "profile": {
+      "h1": "Ihr Profil",
+      "tab": {
+        "1": "Bestellungen",
+        "2": "Treueprogramm"
+      }
+    }
+  },
+  "riley_pages": {
+    "auth": {
+      "validation": {
+        "codeIsNotValid": "Der Code ist ungültig. Versuchen Sie es erneut!"
+      }
+    },
+    "order": {
+      "delivery": {
+        "action": "Zu den Bestellungen",
+        "failed": {
+          "desc": "Überprüfen Sie die bei der Zahlung angegebenen Daten oder verwenden Sie eine andere Zahlungsmethode",
+          "h1": "Zahlungsvorgang fehlgeschlagen",
+          "h2": "Beim Bezahlvorgang ist ein Fehler aufgetreten"
+        },
+        "success": {
+          "desc": "Den Status der Ausführung können Sie im Bereich „Bestellungen“ verfolgen.",
+          "h1": "Bestellung erfolgreich bezahlt",
+          "h2": "Ihre Bestellung wurde erfolgreich bezahlt!"
+        },
+        "time": {
+          "2": "in {time} Sekunden"
+        }
+      }
+    },
+    "points": {
+      "history": {
+        "date": {
+          "1": "Heute",
+          "2": "Gestern",
+          "3": "Letzte Woche",
+          "4": "Letzter Monat",
+          "5": "Letztes Jahr",
+          "6": "Historisch"
+        },
+        "filter": {
+          "tab": {
+            "3": "Ausgegeben"
+          }
+        },
+        "noorders": "Keine Bestellungen anzuzeigen"
+      }
+    }
+  },
+  "peyton_pages": {
+    "order": {
+      "delivery": {
+        "time": {
+          "1": "Automatisch zu den Bestellungen weiterleiten"
+        }
+      }
+    }
   }
 }

@@ -14,8 +14,10 @@ import { useRewardsStore } from "@royalfut/store";
 import LoyaltyProgramTiersCard from "./ui/LoyaltyProgramTiersCard";
 import { LoyaltyExchangePointRate } from "../../../funnels";
 import { cn } from "@royalfut/utils";
+import { useTranslations } from "next-intl";
 
 const LoyaltyProgramTiers = () => {
+    const t = useTranslations("sage_pages.points");
     const [emblaRef, emblaApi] = useEmblaCarousel({ loop: false });
     const userLevel = useUserCurrentLoyaltyLevelId();
     const { levels } = useRewardsStore(state => ({
@@ -30,7 +32,7 @@ const LoyaltyProgramTiers = () => {
         <div className="flex flex-col">
             <div className="flex flex-col gap-4">
                 <p className="text-lg font-medium text-white-50 text-left">
-                    Loyalty Program Tiers
+                    {t("h4.1")}
                 </p>
                 <EmblaCarouselLayout.Root className="[--embla-slide-size:60%] sm:[--embla-slide-size:60%] lg:[--embla-slide-size:60%] [--embla-slide-height:18rem] sm:[--embla-slide-height:17rem]">
                     <EmblaCarouselLayout.Body ref={emblaRef}>
@@ -74,6 +76,7 @@ const LoyaltyProgramTiers = () => {
 };
 
 const RoyalPointsDialog = () => {
+    const t = useTranslations("sage_pages.points");
     return (
         <BorderedBox
             design={{ gradient: true }}
@@ -89,9 +92,7 @@ const RoyalPointsDialog = () => {
                             ROYAL Points
                         </h2>
                         <span className="text-sm text-white-70 text-center">
-                            Cover part of the order price with cashback points
-                            received from previous purchases. Unlock additional
-                            benefits with each new tier reached.
+                            {t("text.1")}
                         </span>
                     </div>
                     <LoyaltyExchangePointRate.Root>

@@ -21,6 +21,7 @@ import { cn, isValueNonDefined } from "@royalfut/utils";
 import { useIsMounted, useLoyaltyDiscountCalculation } from "@royalfut/hooks";
 
 import type { FC, PropsWithChildren, ComponentPropsWithoutRef } from "react";
+import { useTranslations } from "next-intl";
 
 const enum ELoyaltyPointsRedemptionIds {
     DONT_USE,
@@ -32,6 +33,7 @@ const LoyaltyPointsUseTabBtn: FC<
         points: ReturnType<typeof useLoyaltyDiscountCalculation>;
     }
 > = ({ className, disabled, points, ...props }) => {
+    const t = useTranslations("greer_pages.order");
     const isMounted = useIsMounted();
     const setBonuses = useTransferSelectorStore.use.setBonuses();
     const { value } = PoorTabs.use();
@@ -64,7 +66,7 @@ const LoyaltyPointsUseTabBtn: FC<
             disabled={disabled}
             {...props}>
             <span className="group-data-[state=inactive]:text-white-40 group-data-[state=active]:text-white transition">
-                Use
+                {t("tab.2")}
             </span>
             <LoyaltyPointsBadge
                 amount={String(points?.loyaltyPointsUsed ?? 0)}
@@ -96,6 +98,7 @@ const LoyalPointsDiscount: FC<{
     price: string | undefined;
     ccySymbol: string;
 }> = ({ price, ccySymbol }) => {
+    const t = useTranslations("sage_pages.order");
     const { value } = PoorTabs.use();
 
     if (value !== ELoyaltyPointsRedemptionIds.USE || !price) {
@@ -109,7 +112,7 @@ const LoyalPointsDiscount: FC<{
                     size="none"
                     className="center w-3.5 h-3.5"
                 />
-                <span>Royal Points discount</span>
+                <span>Royal Points {t("h5.8")}</span>
             </div>
             <span>
                 -{ccySymbol}
@@ -133,6 +136,7 @@ const OrderCostDetails: FC<IOrderCostDetailsProps> = ({
     subtotal,
     loyalty,
 }) => {
+    const t = useTranslations("greer_pages.order");
     const { value } = PoorTabs.use();
 
     if (
@@ -146,7 +150,7 @@ const OrderCostDetails: FC<IOrderCostDetailsProps> = ({
         <div className="flex flex-col gap-1.5">
             {subtotal.show && (
                 <div className="flex items-center justify-between font-medium text-sm sm:text-xs text-white">
-                    <span>Subtotal</span>
+                    <span>{t("h5.5")}</span>
                     <span>
                         {ccySymbol}
                         {subtotal.price}
@@ -184,6 +188,7 @@ const BonusRedemptionCard: FC<PropsWithChildren<IBonusRedemptionCardProps>> = ({
     showSubtotal = true,
     showTitle = false,
 }) => {
+    const t = useTranslations("greer_pages.order");
     const { setPopup } = usePopupDialogStore();
     const { originalPrice } = useTransferActualPrice();
     const ccy = useCurrencyStore(state => ccyCollection[state.currency]);
@@ -199,7 +204,7 @@ const BonusRedemptionCard: FC<PropsWithChildren<IBonusRedemptionCardProps>> = ({
             <Revalidate />
             <TradeOptionsPanel className="gap-8">
                 {showTitle && (
-                    <OrderBoxTitle className="-mb-6">Bonuses</OrderBoxTitle>
+                    <OrderBoxTitle className="-mb-6">{t("h5.6")}</OrderBoxTitle>
                 )}
                 <div className="flex flex-col gap-4">
                     {showSubtotal || loyaltyPointsUse?.loyaltyPointsUsed ? (
@@ -216,7 +221,7 @@ const BonusRedemptionCard: FC<PropsWithChildren<IBonusRedemptionCardProps>> = ({
                         <PoorTabs.Root>
                             <PoorTabs.Item
                                 value={ELoyaltyPointsRedemptionIds.DONT_USE}>
-                                Don&apos;t use
+                                {t("tab.1")}
                             </PoorTabs.Item>
                             {isLoyaltyPointsEnabled ? (
                                 <LoyaltyPointsUseTabBtn
@@ -237,7 +242,7 @@ const BonusRedemptionCard: FC<PropsWithChildren<IBonusRedemptionCardProps>> = ({
                                         sideOffset={-5}
                                         side="top">
                                         <span className="text-xs font-semibold text-center">
-                                            Buy more coins to unlock
+                                            {t("notify.1")}
                                         </span>
                                         <Button
                                             onClick={() =>
@@ -246,7 +251,7 @@ const BonusRedemptionCard: FC<PropsWithChildren<IBonusRedemptionCardProps>> = ({
                                                 )
                                             }
                                             className="bg-white-10 hover:bg-white-20 transition-colors duration-300 rounded-lg px-2 py-1 font-semibold text-xs">
-                                            Learn more
+                                            {t("card.1.button.1.text")}
                                         </Button>
                                         <HoverCard.Arrow className="fill-black-dropdown w-5 h-4" />
                                     </HoverCard.Content>

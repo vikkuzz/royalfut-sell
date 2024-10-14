@@ -856,5 +856,232 @@
         }
       }
     }
+  },
+  "greer_pages": {
+    "home": {
+      "header": {
+        "nav": {
+          "5": "Blog"
+        }
+      }
+    },
+    "order": {
+      "card": {
+        "1": {
+          "button": {
+            "1": {
+              "text": "Dowiedz się więcej"
+            }
+          }
+        }
+      },
+      "h1": "Kup monety {fc} Ultimate Team",
+      "h2": {
+        "1": "Informacje o zamówieniu",
+        "2": "Wymeldować się",
+        "3": "Dostawa"
+      },
+      "h5": {
+        "1": "Platforma",
+        "2": "Kwota",
+        "3": "Metoda płatności",
+        "4": "Monety",
+        "5": "Podsumowanie",
+        "6": "Premie"
+      },
+      "notify": {
+        "1": "Kup więcej monet, aby odblokować"
+      },
+      "panel": {
+        "title": {
+          "1": "Cena",
+          "2": "Zwrot gotówki"
+        }
+      },
+      "tab": {
+        "1": "Nie używaj",
+        "2": "Używać"
+      }
+    }
+  },
+  "sage_pages": {
+    "order": {
+      "btn": {
+        "text": {
+          "1": "Zapłać teraz",
+          "2": "Zaloguj się, aby dokonać zakupu"
+        }
+      },
+      "h5": {
+        "7": "Cena całkowita",
+        "8": "rabat",
+        "9": "Informacje o dostawie"
+      },
+      "info": {
+        "button": {
+          "text": "Dowiedz się więcej"
+        },
+        "text": {
+          "1": "Aby rozpocząć proces dostawy, musisz przesłać dane swojego konta EA. Monety zostaną dostarczone do klubu Ultimate Team powiązanego z Twoim kontem EA.",
+          "2": "Przedstawiamy nasz zupełnie nowy system lojalnościowy oparty na zwrocie gotówki — zbieraj punkty za każde dokonane zakupy, wydawaj je na przyszłe zamówienia i osiągaj nowe poziomy, aby odblokować dodatkowe korzyści."
+        }
+      },
+      "notify": {
+        "2": "Zaloguj się, aby otrzymać zwrot gotówki",
+        "3": "Zwrot gotówki za to zamówienie"
+      },
+      "placeholder": {
+        "1": "Masz kupon?"
+      }
+    },
+    "points": {
+      "card": {
+        "notify": {
+          "1": "Twój poziom"
+        },
+        "title": {
+          "1": "Wymagania",
+          "2": "Korzyści"
+        }
+      },
+      "h4": {
+        "1": "Poziomy programu lojalnościowego"
+      },
+      "text": {
+        "1": "Pokryj część ceny zamówienia punktami cashback otrzymanymi z poprzednich zakupów. Odblokuj dodatkowe korzyści z każdym osiągniętym nowym poziomem."
+      }
+    }
+  },
+  "sidney_pages": {
+    "points": {
+      "card": {
+        "content": {
+          "1": "{purchase} zakupy na stronie internetowej",
+          "2": "{coins} monet kupionych w sumie",
+          "3": "{cashback} % zwrotu gotówki otrzymanego z każdego zakupu",
+          "4": "Do {part} % wartości zamówienia można zapłacić punktami ROYAL"
+        },
+        "header": {
+          "1": "Brązowy",
+          "2": "Srebrny",
+          "3": "Złoto",
+          "4": "Poinformować",
+          "5": "Bohater",
+          "6": "Ikona"
+        }
+      },
+      "descr": "Pokryj część ceny zamówienia punktami cashback otrzymanymi z poprzednich zakupów. Odblokuj dodatkowe korzyści z każdym osiągniętym nowym poziomem.",
+      "h2": {
+        "1": "Saldo Twoich punktów ROYAL"
+      },
+      "status": {
+        "title": {
+          "1": "Twój obecny poziom lojalności",
+          "2": "Kup więcej monet, aby odblokować ten poziom",
+          "3": "Zrób więcej zakupów, aby odblokować kolejny poziom",
+          "4": "Zrób więcej zakupów i kup więcej monet, aby odblokować ten poziom",
+          "5": "Poprzednio osiągnięty poziom lojalności"
+        }
+      }
+    }
+  },
+  "blair_pages": {
+    "points": {
+      "benefits": {
+        "desc": {
+          "1": "zwrotu gotówki otrzymanego z każdego zakupu",
+          "2": "część ceny zamówienia można opłacić punktami ROYAL"
+        }
+      },
+      "h5": {
+        "1": "Historia punktów ROYAL"
+      },
+      "history": {
+        "filter": {
+          "tab": {
+            "1": "Wszystko",
+            "2": "Zarobione"
+          }
+        }
+      },
+      "status": {
+        "benefits": {
+          "1": "Twoje korzyści",
+          "2": "Aby zdobyć więcej, musisz awansować",
+          "3": "Osiągnij kolejny poziom, aby zwiększyć",
+          "4": "Maksymalna możliwa wartość",
+          "5": "Zamknięty"
+        }
+      },
+      "step": {
+        "req": {
+          "1": "Liczba zakupów potrzebnych do osiągnięcia kolejnego poziomu",
+          "2": "Liczba zakupów potrzebnych do osiągnięcia kolejnego poziomu 2",
+          "3": "Liczba zakupów potrzebnych do osiągnięcia kolejnego poziomu 3"
+        }
+      },
+      "text": {
+        "2": "Łączna liczba zakupionych monet"
+      }
+    },
+    "profile": {
+      "h1": "Twój profil",
+      "tab": {
+        "1": "Święcenia",
+        "2": "Program lojalnościowy"
+      }
+    }
+  },
+  "riley_pages": {
+    "auth": {
+      "validation": {
+        "codeIsNotValid": "Kod jest nieprawidłowy, spróbuj ponownie!"
+      }
+    },
+    "order": {
+      "delivery": {
+        "action": "Przejdź do zamówień",
+        "failed": {
+          "desc": "Sprawdź dane podane podczas płatności lub skorzystaj z innej formy płatności",
+          "h1": "Proces płatności nie powiódł się",
+          "h2": "Wystąpił błąd podczas procesu płatności"
+        },
+        "success": {
+          "desc": "Status realizacji możesz śledzić w sekcji zamówień",
+          "h1": "Zamówienie opłacone pomyślnie",
+          "h2": "Twoje zamówienie zostało pomyślnie opłacone!"
+        },
+        "time": {
+          "2": "w {time} sekundach"
+        }
+      }
+    },
+    "points": {
+      "history": {
+        "date": {
+          "1": "Dzisiaj",
+          "2": "Wczoraj",
+          "3": "Ostatni tydzień",
+          "4": "Ostatni miesiąc",
+          "5": "W ubiegłym roku",
+          "6": "Historyczny"
+        },
+        "filter": {
+          "tab": {
+            "3": "Zużyty"
+          }
+        },
+        "noorders": "Brak zamówień do wyświetlenia"
+      }
+    }
+  },
+  "peyton_pages": {
+    "order": {
+      "delivery": {
+        "time": {
+          "1": "Przekieruj automatycznie do zamówień"
+        }
+      }
+    }
   }
 }

@@ -8,7 +8,7 @@ import { setCookieConsentStatus } from "@royalfut/actions";
 import type { CookieConsentTypes } from "@royalfut/interfaces";
 
 export const CookieBannerForm = () => {
-    const t = useTranslations("cookie");
+    const t = useTranslations("pi_cookie");
     const [isOnAnalytics, setIsOnAnalytics] = useState(true);
 
     const onSumbit = (formData: FormData) => {

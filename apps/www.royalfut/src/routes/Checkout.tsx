@@ -28,6 +28,7 @@ import { cn } from "@royalfut/utils";
 
 import type { FC, PropsWithChildren } from "react";
 import type { FNCN, FNCNChildren } from "@royalfut/interfaces";
+import { getTranslations } from "next-intl/server";
 
 export const Step: FC<PropsWithChildren> = ({ children }) => {
     return (
@@ -81,10 +82,11 @@ export const RightArea: FNCNChildren = ({ children, className }) => {
     );
 };
 
-export const PaymentMethodCard: FNCN = ({ className }) => {
+export const PaymentMethodCard: FNCN = async ({ className }) => {
+    const t = await getTranslations("greer_pages.order");
     return (
         <div className={className}>
-            <OrderBoxTitle>Payment method</OrderBoxTitle>
+            <OrderBoxTitle>{t("h5.3")}</OrderBoxTitle>
             <PaymentMethodChoice sets={PaymentMethodsCashGroupSets} />
         </div>
     );
@@ -92,11 +94,12 @@ export const PaymentMethodCard: FNCN = ({ className }) => {
 
 export const EditableCoinsInputCard: FNCN<{
     variant?: "inline" | "dialog";
-}> = ({ variant = "inline", className }) => {
+}> = async ({ variant = "inline", className }) => {
+    const t = await getTranslations("greer_pages.order");
     if (variant === "inline") {
         return (
             <TransferCoinsEditableInputCard
-                title="Coins"
+                title={t("h5.4")}
                 className={cn(
                     "[--bg:theme(colors.black.shape)] sm:[--bg:theme(colors.black.1)] py-3 sm:py-6",
                     className
@@ -108,7 +111,7 @@ export const EditableCoinsInputCard: FNCN<{
     if (variant === "dialog") {
         return (
             <div className="flex flex-col w-full h-max rounded-2xl px-4 py-6 transition-colors duration-300 bg-black-1">
-                <OrderBoxTitle>Coins</OrderBoxTitle>
+                <OrderBoxTitle>{t("h5.4")}</OrderBoxTitle>
                 <CoinBundleDisplay />
             </div>
         );
@@ -117,10 +120,11 @@ export const EditableCoinsInputCard: FNCN<{
     return null;
 };
 
-export const PlatformCard: FNCN = ({ className }) => {
+export const PlatformCard: FNCN = async ({ className }) => {
+    const t = await getTranslations("greer_pages.order");
     return (
         <TradeOptionsPanel className={cn(className)}>
-            <OrderBoxTitle className="mb-2">Platform</OrderBoxTitle>
+            <OrderBoxTitle className="mb-2">{t("h5.1")}</OrderBoxTitle>
             <PlatformChoiceAccordion sets={PlatformAppSets} />
         </TradeOptionsPanel>
     );
@@ -130,20 +134,19 @@ export const BonusCard = BonusRedemptionCard;
 export const PriceCard = PriceCardUI;
 export const PayBtn = PayBtnUI;
 
-export const DetailsCards = () => {
+export const DetailsCards = async () => {
+    const t = await getTranslations("sage_pages.order");
     return (
         <div className="flex flex-col w-full gap-6 !mt-6">
             <div className="flex flex-col gap-1">
                 <div className="flex items-center gap-1.5">
                     <InfoRoundedFillIcon className="text-system-info w-3.5 h-3.5" />
                     <span className="text-white text-xs font-bold">
-                        About Delivery
+                        {t("h5.9")}
                     </span>
                 </div>
                 <span className="inline-block text-xs font-medium text-white-40">
-                    The coins will be delivered to the FC 24 club connected to
-                    your EA account. Only EA account details are required to
-                    transfer the coins .
+                    {t("info.text.1")}
                 </span>
             </div>
             <TradeOptionsPanel
@@ -164,15 +167,12 @@ export const DetailsCards = () => {
                             </span>
                         </div>
                         <span className="inline-block text-xs font-medium text-white-40">
-                            We&apos;re introducing the cashback loalty system —
-                            you get points for purchases and from your
-                            referrals. You can use them on the order payment
-                            screen in any quantity.
+                            {t("info.text.2")}
                         </span>
                     </div>
                     <div className="flex justify-between items-center w-full">
                         <Text.Gradient className="font-medium text-xs">
-                            Learn more
+                            {t("info.button.text")}
                         </Text.Gradient>
                         <ArrowChevronRightIcon className="text-primary w-6 h-6 group-hover:animate-shake-r-sm group-hover:animate-infinite group-hover:animate-duration-[1300ms] group-hover:animate-ease-linear" />
                     </div>

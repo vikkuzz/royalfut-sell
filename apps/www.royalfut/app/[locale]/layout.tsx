@@ -127,7 +127,9 @@ const RootLayout: FC<
                                                             </main>
                                                             <PopupDialog />
                                                         </div>
-                                                        <Footer locale={locale} />
+                                                        <Footer
+                                                            locale={locale}
+                                                        />
                                                         <SubscriptionManager />
                                                     </UserBonusStoreProvider>
                                                 </RewardsStoreProvider>

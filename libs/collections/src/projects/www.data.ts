@@ -15,17 +15,15 @@ import type {
 
 export const WWWPrivateGlobalData: IProjectPrivateGlobalState = {
     profile: {
-        nsI18n: "profile",
+        nsI18n: "blair_pages.profile",
         nav: [
             {
                 href: PROJECT_PRIVATE_WWW_ROUTES["PROFILE_ORDERS"],
-                label: "Orders",
-                localized: false,
+                label: "tab.1",
             },
             {
                 href: PROJECT_PRIVATE_WWW_ROUTES["PROFILE_POINTS"],
-                label: "Loyalty Program",
-                localized: false,
+                label: "tab.2",
             },
         ],
     },
@@ -93,6 +91,13 @@ export const WWWGlobalData: IProjectGlobalState = {
                 label: "nav.4",
                 type: "link",
             },
+            {
+                nsI18n: "greer_pages.home.header",
+                href: PROJECT_PUBLIC_WWW_ROUTES["BLOG"],
+                label: "nav.5",
+                type: "link",
+                icon: { src: "/image/new.svg", width: 48 },
+            },
         ],
         local: {
             ccy: {
@@ -121,7 +126,7 @@ export const WWWGlobalData: IProjectGlobalState = {
                         type: "link",
                         label: "bar.nav.1.1",
                         href: PROJECT_PRIVATE_WWW_ROUTES["PROFILE_ORDERS"],
-                        icon: "/image/history.svg",
+                        icon: { src: "/image/history.svg", width: 24 },
                     },
                     // {
                     //     type: "link",

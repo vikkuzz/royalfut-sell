@@ -7,6 +7,7 @@ import { cn, formatBySymbolNumber } from "@royalfut/utils";
 
 import type { FC, ComponentPropsWithoutRef, ElementRef } from "react";
 import type { TLoyaltyProgramStatusedLevels } from "@royalfut/interfaces";
+import { useTranslations } from "next-intl";
 
 const Details: FC<{ title: string; details: Array<string | null> }> = ({
     title,
@@ -50,6 +51,8 @@ const LoyaltyProgramTiersCard = forwardRef<
             "_id"
         >
 >(({ id, isActive, benefits, requirements, className }, externalRef) => {
+    const t = useTranslations("sage_pages.points");
+    const tr = useTranslations("sidney_pages.points");
     const img = loyaltyImageMap[id];
     const title = loyaltyTierTitleMap[id];
 
@@ -83,13 +86,13 @@ const LoyaltyProgramTiersCard = forwardRef<
                                     ELoyaltyProgrammaAchievementIDs.ICON === id,
                             }
                         )}>
-                        {title}
+                        {tr(`${title}`)}
                     </h5>
                     {isActive ? (
                         <div className="flex justify-center items-center bg-white-10 py-0.5 px-2 gap-1 rounded-3xl">
                             <CheckVIcon className="text-white w-2.5 h-2.5" />
                             <span className="text-white text-xs font-medium">
-                                Your tier
+                                {t("card.notify.1")}
                             </span>
                         </div>
                     ) : null}
@@ -105,18 +108,29 @@ const LoyaltyProgramTiersCard = forwardRef<
             </div>
             <div className="flex flex-col gap-4">
                 <Details
-                    title="Requirements"
+                    title={t("card.title.1")}
                     details={[
-                        `${requirements.purchases} purchases on the website`,
-                        `${formatBySymbolNumber(requirements.coins, " ")} coins bought in total`,
+                        tr("card.content.1", {
+                            purchase: requirements.purchases,
+                        }),
+                        tr("card.content.2", {
+                            coins: formatBySymbolNumber(
+                                requirements.coins,
+                                " "
+                            ),
+                        }),
                     ]}
                 />
                 <Details
-                    title="Benefits"
+                    title={t("card.title.2")}
                     details={[
-                        `${benefits.cashbackPerc}% of cashback received from every purchase`,
+                        tr("card.content.3", {
+                            cashback: benefits.cashbackPerc,
+                        }),
                         benefits.bonusPartPerc > 0
-                            ? `Up to ${benefits.bonusPartPerc} of the order price can be paid with ROYAL Points`
+                            ? tr("card.content.4", {
+                                  part: benefits.bonusPartPerc,
+                              })
                             : null,
                     ]}
                 />

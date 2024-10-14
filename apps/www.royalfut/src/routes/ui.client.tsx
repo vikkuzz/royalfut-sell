@@ -40,11 +40,12 @@ import {
     ESEOPlatforms,
     EUIDialogsNames,
 } from "@royalfut/enums";
-import { cn, formatBySymbolNumber } from "@royalfut/utils";
+import { analitic, cn, formatBySymbolNumber } from "@royalfut/utils";
 
 import type { FC, ComponentPropsWithoutRef } from "react";
 import type { FNCN } from "@royalfut/interfaces";
 import { useUpdate } from "@lilib/hooks";
+import { useTranslations } from "next-intl";
 
 const cnCoinCalculatorTrigger = {
     btn: "w-8 h-8 center relative rounded-full transition-colors duration-300 bg-white-10 hover:bg-[hsla(var(--color-secondary),.5)]",
@@ -155,6 +156,7 @@ export const PriceCard: FNCN<{
     asCard?: boolean;
     mountedDisabledYet?: boolean;
 }> = ({ asCard = true, mountedDisabledYet = false, className }) => {
+    const t = useTranslations("sage_pages.order");
     const isLoggedIn = useAuthStore(state => state.isLoggedIn);
     const isMounted = useIsMounted();
     const loyalty = useLoyaltyPointsCalc();
@@ -170,7 +172,7 @@ export const PriceCard: FNCN<{
                 className
             )}>
             <CoinsAmountPanel.CCY
-                title="Total price"
+                title={t("h5.7")}
                 imageType="image"
                 className={cn("transition-opacity duration-300", {
                     "invisible opacity-0": mountedDisabledYet && !isMounted,
@@ -190,9 +192,7 @@ export const PriceCard: FNCN<{
                     )}>
                     <CoinsAmountPanel.Loyalty className="justify-start self-start flex-none" />
                     <span className="text-white-40 text-xs font-medium whitespace-pre-wrap ml-auto">
-                        {isLoggedIn
-                            ? "Cashback for this order"
-                            : "Log In to get cashback"}
+                        {isLoggedIn ? t("notify.3") : t("notify.2")}
                     </span>
                 </div>
             )}
@@ -224,6 +224,7 @@ export const PayBtn: FNCN<{ fbPage: EPaymentFBPage }> = ({
     className,
     fbPage,
 }) => {
+    const t = useTranslations("sage_pages.order");
     const params = useParams();
     const router = useI18nRouter();
     const isLoggedIn = useAuthStore(state => state.isLoggedIn);
@@ -291,6 +292,7 @@ export const PayBtn: FNCN<{ fbPage: EPaymentFBPage }> = ({
                             [ECCYIDs.EUR]: priceEUR,
                         },
                     });
+                    analitic.clickPayNow(priceEUR);
 
                     if (!prepareRes) throw new Error();
                     router.push(prepareRes.acquiringLink);
@@ -318,17 +320,20 @@ export const PayBtn: FNCN<{ fbPage: EPaymentFBPage }> = ({
         priceEUR,
         router,
     ]);
+    const openAuthMenu = () => {
+        setOpen(true);
+    };
 
     return (
         <div className="w-full">
             <GradientButton
                 type="button"
-                onClick={isLoggedIn ? onPay : () => setOpen(true)}
+                onClick={isLoggedIn ? onPay : openAuthMenu}
                 loading={loading}
                 disabled={!!hasError || !isMounted}
                 className={cn("group h-14 gap-2 w-full rounded-xl", className)}>
                 <span className="text-lg font-semibold">
-                    {isLoggedIn ? "Pay Now" : "Sign in to purchase"}
+                    {isLoggedIn ? t("btn.text.1") : t("btn.text.2")}
                 </span>
                 <ArrowChevronRightIcon className="text-white w-6 h-6 group-hover:animate-shake-r-sm group-hover:animate-infinite group-hover:animate-duration-[1300ms] group-hover:animate-ease-linear" />
             </GradientButton>

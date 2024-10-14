@@ -856,5 +856,232 @@
         }
       }
     }
+  },
+  "greer_pages": {
+    "home": {
+      "header": {
+        "nav": {
+          "5": "Blogg"
+        }
+      }
+    },
+    "order": {
+      "card": {
+        "1": {
+          "button": {
+            "1": {
+              "text": "Läs mer"
+            }
+          }
+        }
+      },
+      "h1": "Köp {fc} Ultimate Team-mynt",
+      "h2": {
+        "1": "Beställningsinformation",
+        "2": "Kassa",
+        "3": "Leverans"
+      },
+      "h5": {
+        "1": "Plattform",
+        "2": "Belopp",
+        "3": "Betalningsmetod",
+        "4": "Mynt",
+        "5": "Delsumma",
+        "6": "Bonusar"
+      },
+      "notify": {
+        "1": "Köp fler mynt för att låsa upp"
+      },
+      "panel": {
+        "title": {
+          "1": "Pris",
+          "2": "Cashback"
+        }
+      },
+      "tab": {
+        "1": "Använd inte",
+        "2": "Använda"
+      }
+    }
+  },
+  "sage_pages": {
+    "order": {
+      "btn": {
+        "text": {
+          "1": "Betala nu",
+          "2": "Logga in för att köpa"
+        }
+      },
+      "h5": {
+        "7": "Totalt pris",
+        "8": "rabatt",
+        "9": "Leveransinformation"
+      },
+      "info": {
+        "button": {
+          "text": "Läs mer"
+        },
+        "text": {
+          "1": "För att starta leveransprocessen måste du skicka in dina EA-kontouppgifter. Mynten kommer att levereras till Ultimate Team-klubben som är kopplad till ditt EA-konto.",
+          "2": "Vi introducerar vårt helt nya cashback-baserade lojalitetssystem – tjäna poäng för varje köp du gör, spendera dem på dina framtida beställningar och nå nya nivåer för att låsa upp ytterligare fördelar."
+        }
+      },
+      "notify": {
+        "2": "Logga in för att få cashback",
+        "3": "Cashback för denna beställning"
+      },
+      "placeholder": {
+        "1": "Har du en kupong?"
+      }
+    },
+    "points": {
+      "card": {
+        "notify": {
+          "1": "Din nivå"
+        },
+        "title": {
+          "1": "Krav",
+          "2": "Fördelar"
+        }
+      },
+      "h4": {
+        "1": "Lojalitetsprogram nivåer"
+      },
+      "text": {
+        "1": "Täck en del av beställningspriset med cashback-poäng från tidigare köp. Lås upp ytterligare fördelar med varje ny nivå som nås."
+      }
+    }
+  },
+  "sidney_pages": {
+    "points": {
+      "card": {
+        "content": {
+          "1": "{purchase} köp på webbplatsen",
+          "2": "{coins} mynt köpta totalt",
+          "3": "{cashback} % av cashback mottagits från varje köp",
+          "4": "Upp till {part} % av beställningspriset kan betalas med ROYAL Points"
+        },
+        "header": {
+          "1": "Brons",
+          "2": "Silver",
+          "3": "Guld",
+          "4": "Informera",
+          "5": "Hjälte",
+          "6": "Ikon"
+        }
+      },
+      "descr": "Täck en del av beställningspriset med cashback-poäng från tidigare köp. Lås upp ytterligare förmåner med varje ny nivå som nås.",
+      "h2": {
+        "1": "Ditt ROYAL-poängsaldo"
+      },
+      "status": {
+        "title": {
+          "1": "Din nuvarande lojalitetsnivå",
+          "2": "Köp fler mynt för att låsa upp denna nivå",
+          "3": "Gör fler köp för att låsa upp nästa nivå",
+          "4": "Gör fler köp och köp fler mynt för att låsa upp denna nivå",
+          "5": "Tidigare uppnådd lojalitetsnivå"
+        }
+      }
+    }
+  },
+  "blair_pages": {
+    "points": {
+      "benefits": {
+        "desc": {
+          "1": "cashback från varje köp",
+          "2": "av beställningspriset kan betalas med ROYAL Points"
+        }
+      },
+      "h5": {
+        "1": "ROYAL poänghistorik"
+      },
+      "history": {
+        "filter": {
+          "tab": {
+            "1": "Alla",
+            "2": "Förtjänt"
+          }
+        }
+      },
+      "status": {
+        "benefits": {
+          "1": "Dina fördelar",
+          "2": "För att få mer måste du gå upp i nivå",
+          "3": "Nå nästa nivå för att öka",
+          "4": "Högsta möjliga värde",
+          "5": "Låst"
+        }
+      },
+      "step": {
+        "req": {
+          "1": "Antal köp som krävs för att nå nästa nivå",
+          "2": "Antal köp som krävs för att nå nästa nivå 2",
+          "3": "Antal köp som krävs för att nå nästa nivå 3"
+        }
+      },
+      "text": {
+        "2": "Totalt köpta mynt"
+      }
+    },
+    "profile": {
+      "h1": "Din profil",
+      "tab": {
+        "1": "Order",
+        "2": "Lojalitetsprogram"
+      }
+    }
+  },
+  "riley_pages": {
+    "auth": {
+      "validation": {
+        "codeIsNotValid": "Koden är inte giltig, försök igen!"
+      }
+    },
+    "order": {
+      "delivery": {
+        "action": "Gå till beställningar",
+        "failed": {
+          "desc": "Kontrollera uppgifterna som anges under betalningen eller använd en annan betalningsmetod",
+          "h1": "Betalningsprocessen misslyckades",
+          "h2": "Ett fel uppstod under betalningsprocessen"
+        },
+        "success": {
+          "desc": "Du kan spåra utförandestatus i ordersektionen",
+          "h1": "Beställning betald",
+          "h2": "Din beställning har betalats!"
+        },
+        "time": {
+          "2": "om {time} sekunder"
+        }
+      }
+    },
+    "points": {
+      "history": {
+        "date": {
+          "1": "I dag",
+          "2": "I går",
+          "3": "Förra veckan",
+          "4": "Förra månaden",
+          "5": "Förra året",
+          "6": "Historisk"
+        },
+        "filter": {
+          "tab": {
+            "3": "Spenderat"
+          }
+        },
+        "noorders": "Inga beställningar att visa"
+      }
+    }
+  },
+  "peyton_pages": {
+    "order": {
+      "delivery": {
+        "time": {
+          "1": "Omdirigera till beställningarna automatiskt"
+        }
+      }
+    }
   }
 }
